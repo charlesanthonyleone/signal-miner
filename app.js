@@ -7,7 +7,7 @@ const RAWV=["IMG_*","MVI_*","DSC*","VID_*","MOV*","GOPR*","video*","untitled","c
 const yr=(o)=>(o.kw||o.loose)?`publicdate:[${o.y1}-01-01T00:00:00Z TO ${o.y2}-12-31T23:59:59Z]`:(y=>`publicdate:[${y}-01-01T00:00:00Z TO ${y}-12-31T23:59:59Z]`)(rnd(Math.max(o.y1,2002),o.y2));
 const inYears=(d,o)=>{const y=parseInt(d);return !y||(y>=o.y1&&y<=o.y2)};
 const CC='https://index.commoncrawl.org/CC-MAIN-2026-39-index';
-const TLDS=['.nu','.tk','.ml','.is','.io','.cc','.fm','.to','.ws','.li','.su','.am','.md','.ge','.kg','.tj','.uz','.by'];
+const TLDS=['.museum','.edu','.is','.li','.fm','.io','.nu','.ws','.ge','.md','.kg','.by'];
 const DEPTHS=['200 m · epipelagic','800 m · mesopelagic','1.5 km · bathypelagic','3 km · abyssal','6 km · hadal','10.9 km · Mariana'],depth=()=>pick(DEPTHS);
 
 /* ---------- Internet Archive ---------- */
@@ -61,6 +61,8 @@ async function gutendex(o){const u=new URLSearchParams();if(o.kw)u.set('search',
 
 /* ---------- Deepweb sources (text/metadata first) ---------- */
 function sanitizeText(t){return String(t||'').replace(/[\x00-\x08\x0b\x0c\x0e-\x1f]/g,'').slice(0,800)}
+const NSFW=/porn|xxx|\bsex\b|nude|camgirl|onlyfans|hentai|\bjav\b|adultvideo|escort|casino|bet\d|viagra|pharmacy|pharma|replica.?watch|crack.?key|warez|05av|xnxx|xvideos|pornhub|xhamster|redtube/i;
+const isNsfw=u=>NSFW.test(String(u||''));
 async function ccObscureLive(o){
   const tld=o.kw?null:pick(TLDS), page=rnd(0,o.raw?2:5);
   const urlQ=o.kw?`*${o.kw}*`:`*${tld}/*`;
@@ -69,7 +71,8 @@ async function ccObscureLive(o){
   if(!res.ok||txt.includes('502')||txt.includes('504')||txt.includes('No Captures')||!txt.trim())throw new Error('cc empty '+res.status);
   const rows=txt.trim().split('\n').filter(Boolean).map(l=>{try{return JSON.parse(l)}catch{return null}}).filter(Boolean);
   const out=[]; let previews=0;
-  for(const r of shuffle(rows).slice(0,16)){
+  for(const r of shuffle(rows).slice(0,24)){
+    if(isNsfw(r.url))continue;
     const ts=r.timestamp||'', date=ts?`${ts.slice(0,4)}-${ts.slice(4,6)}-${ts.slice(6,8)}`:'';
     if(!inYears(date,o))continue;
     let preview='';
@@ -77,14 +80,14 @@ async function ccObscureLive(o){
       if(live.ok&&ct.includes('text'))preview=sanitizeText((await live.text()).replace(/<script[\s\S]*?<\/script>/gi,'').replace(/<style[\s\S]*?<\/style>/gi,'').replace(/<[^>]+>/g,' ').replace(/\s+/g,' '))}catch{}}
     out.push({module:'deep',source:'Common Crawl',title:r.url.replace(/^https?:\/\//,'').slice(0,80),date,dateLabel:'captured',count:r.length?+r.length:null,countLabel:'bytes (warc)',
       kind:'meta',depth:depth(),mime:r.mime||'text/html',preview:preview||'(no live text preview — open source link)',
-      url:r.url,query:`CC-MAIN-2026-39 url=${urlQ} page=${page}`,extra:`mime ${r.mime} · lang ${(r.languages||'?')} · status ${r.status}`})}
+      url:r.url,query:`CC-MAIN-2026-39 url=${urlQ} page=${page}`,extra:`mime ${r.mime} · lang ${(r.languages||'?')} · status ${r.status}`});if(out.length>=16)break}
   return out}
 async function gists(o){
   const page=o.kw?1:rnd(1,8);const list=await J(`https://api.github.com/gists/public?per_page=30&page=${page}`);
   const out=[];
   for(const g of shuffle(list).slice(0,16)){
     const files=Object.values(g.files||{});const f=files[0];if(!f)continue;
-    const title=g.description||f.filename||g.id;
+    const title=g.description||f.filename||g.id;if(isNsfw(title)||isNsfw(f.filename)||isNsfw(g.html_url))continue;
     if(o.kw&&!(title+' '+f.filename).toLowerCase().includes(o.kw.toLowerCase())&&!files.some(x=>x.filename.toLowerCase().includes(o.kw.toLowerCase())))continue;
     let preview='';
     if(f.raw_url&&(f.language||f.type||'').match(/text|markdown|json|yaml|xml|html|python|js|plain/i)&&(!f.size||f.size<20000)){
@@ -95,7 +98,7 @@ async function gists(o){
   return out}
 const cache={};function logSrc(file,module){return async o=>{cache[file]??=await J(`finds/${file}.json?`+Date.now()).catch(()=>[]);
   let L=cache[file].filter(x=>(!o.kw||(x.title+' '+(x.query||'')+' '+(x.preview||'')).toLowerCase().includes(o.kw.toLowerCase()))&&(!o.raw||x.count==null||x.count<=100)&&inYears(x.date,o));
-  L=o.kw?L.slice().reverse():shuffle(L);return L.slice(0,48).map(x=>({...x,module}))}}
+  L=L.filter(x=>!isNsfw(x.url)&&!isNsfw(x.title));L=o.kw?L.slice().reverse():shuffle(L);return L.slice(0,48).map(x=>({...x,module}))}}
 
 const MODULES={
  video:{half:'live',name:'VIDEO',icon:'▶',sub:'Raw camera clips, old films, TV and forgotten uploads.',sources:{
@@ -121,7 +124,7 @@ const MODULES={
   commons:{name:'Wikimedia Commons',f:commonsSrc('audio','audio'),note:'Commons audio files.'}}},
  deep:{half:'deep',name:'TRENCH',icon:'≋',sub:'DEEPWEB · Mariana Trench. Public unindexed-feeling layers: Common Crawl obscure captures, open directories, Gopher holes, public gists. Text and file metadata only — media never auto-plays. No Tor.',sources:{
   crawl:{name:'Common Crawl',f:async o=>{try{const r=await ccObscureLive(o);if(r.length)return r}catch(e){console.warn(e)}return logSrc('deep_crawl','deep')(o)},note:'Obscure-TLD page captures from the Common Crawl index (public, CORS). Text preview attempted from the live URL; media never rendered.'},
-  opendir:{name:'Open directories',f:logSrc('deep_opendir','deep'),note:'Public “Index of /” listings found via Common Crawl, pre-mined by the scheduled job. Files listed as name/type/size only.'},
+  opendir:{name:'Open directories',f:logSrc('deep_opendir','deep'),note:'Public “Index of /” listings found via urlscan.io public search, pre-mined by the scheduled job. Files listed as name/type only — media never fetched.'},
   gopher:{name:'Gopher',f:logSrc('deep_gopher','deep'),note:'Gopher-space directory listings via the public Floodgap HTTP gateway, pre-mined by the scheduled job.'},
   gists:{name:'Public gists',f:gists,note:'Recently published public GitHub Gists (paste-style text dumps). Live via GitHub API.'}}}};
 
@@ -129,7 +132,8 @@ const MODULES={
 let BLOCK=new Set();
 fetch('blocklist.json?'+Date.now()).then(r=>r.json()).then(a=>(BLOCK=new Set(a))).catch(()=>{});
 const HIDE=()=>JSON.parse(localStorage.hide||'[]'),hideLocal=u=>{const h=new Set(HIDE());h.add(u);localStorage.hide=JSON.stringify([...h])};
-const blocked=u=>BLOCK.has(u)||HIDE().includes(u);
+const hostOf=u=>{try{return new URL(u).hostname.replace(/^www\./,'')}catch{return ''}};
+const blocked=u=>BLOCK.has(u)||HIDE().includes(u)||[...BLOCK].some(b=>{const h=hostOf(b);return h&&(hostOf(u)===h||hostOf(u).endsWith('.'+h))});
 
 async function mineWithRetry(S,o,say=()=>{}){const steps=[{},{},{loose:1},{loose:1,raw:false},{loose:1,raw:false,y1:1900,y2:2026},{loose:1,raw:false,y1:1900,y2:2026}];
  let err='';for(let i=0;i<steps.length;i++){const q={...o,...steps[i]};if(i)say(`no hits, loosening filters (try ${i+1}/${steps.length})…`);

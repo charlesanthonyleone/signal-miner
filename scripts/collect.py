@@ -1,7 +1,7 @@
 import json, os, random, datetime, requests, yt_dlp
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__) or "."))
-from deep import deep_gopher, deep_opendir
+from deep import deep_gopher, deep_opendir, deep_crawl
 UA={"User-Agent":"SignalMiner/2.0 (github actions; hobby project)"}
 now=lambda: datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds").replace("+00:00","Z")
 def load(n):
@@ -68,7 +68,7 @@ def wayback(kind):
             "query":f"CDX url={site}* mimetype={mt}","extra":f"{m} · {ln} bytes · original: {orig}"})
     return out
 
-jobs=[("deep_gopher",lambda:deep_gopher()),("deep_opendir",lambda:deep_opendir()),("youtube",lambda:yt("raw clip")),("youtube",lambda:yt("raw clip")),("youtube",lambda:yt("old tv")),("youtube",lambda:yt("old film")),
+jobs=[("deep_crawl",lambda:deep_crawl()),("deep_gopher",lambda:deep_gopher()),("deep_opendir",lambda:deep_opendir()),("youtube",lambda:yt("raw clip")),("youtube",lambda:yt("raw clip")),("youtube",lambda:yt("old tv")),("youtube",lambda:yt("old film")),
       ("wayback_image",lambda:wayback("image")),("wayback_image",lambda:wayback("image"))]
 os.makedirs("finds",exist_ok=True); data={}
 for f,fn in jobs:
