@@ -68,13 +68,13 @@ async function ccObscureLive(o){
   const res=await fetch(q); const txt=await res.text();
   if(!res.ok||txt.includes('502')||txt.includes('504')||txt.includes('No Captures')||!txt.trim())throw new Error('cc empty '+res.status);
   const rows=txt.trim().split('\n').filter(Boolean).map(l=>{try{return JSON.parse(l)}catch{return null}}).filter(Boolean);
-  const out=[];
-  for(const r of shuffle(rows).slice(0,20)){
+  const out=[]; let previews=0;
+  for(const r of shuffle(rows).slice(0,16)){
     const ts=r.timestamp||'', date=ts?`${ts.slice(0,4)}-${ts.slice(4,6)}-${ts.slice(6,8)}`:'';
     if(!inYears(date,o))continue;
     let preview='';
-    try{const live=await fetch(r.url,{signal:AbortSignal.timeout(2500)});const ct=live.headers.get('content-type')||'';
-      if(live.ok&&ct.includes('text'))preview=sanitizeText((await live.text()).replace(/<script[\s\S]*?<\/script>/gi,'').replace(/<style[\s\S]*?<\/style>/gi,'').replace(/<[^>]+>/g,' ').replace(/\s+/g,' '))}catch{}
+    if(previews<3){previews++;try{const live=await fetch(r.url,{signal:AbortSignal.timeout(800)});const ct=live.headers.get('content-type')||'';
+      if(live.ok&&ct.includes('text'))preview=sanitizeText((await live.text()).replace(/<script[\s\S]*?<\/script>/gi,'').replace(/<style[\s\S]*?<\/style>/gi,'').replace(/<[^>]+>/g,' ').replace(/\s+/g,' '))}catch{}}
     out.push({module:'deep',source:'Common Crawl',title:r.url.replace(/^https?:\/\//,'').slice(0,80),date,dateLabel:'captured',count:r.length?+r.length:null,countLabel:'bytes (warc)',
       kind:'meta',depth:depth(),mime:r.mime||'text/html',preview:preview||'(no live text preview — open source link)',
       url:r.url,query:`CC-MAIN-2026-39 url=${urlQ} page=${page}`,extra:`mime ${r.mime} · lang ${(r.languages||'?')} · status ${r.status}`})}
