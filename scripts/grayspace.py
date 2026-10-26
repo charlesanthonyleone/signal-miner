@@ -9,6 +9,7 @@ IMGX=(".jpg",".jpeg",".gif",".png",".bmp",".tif",".tiff",".webp",".pcx")
 TXTX=(".txt",".nfo",".asc",".text",".diz",".ascii",".doc",".pdf",".rtf",".htm",".html",".md",".faq",".1st")
 AUDX=(".mp3",".wav",".ogg",".mid",".midi",".ra",".au",".flac",".m4a")
 BAD=re.compile(r"porn|xxx|nsfw|nude|naked|sex|fuck|teen|loli|shota|jailbait|pthc|hentai|erotic|fetish|cam ?girl|onlyfans|escort|incest|rape|cp\b|preteen|underage|child",re.I)
+SPAM=re.compile(r"\.(cfd|sbs|top|shop|online|xyz|click|buzz|icu|monster|rest|lol)(/|$)|bet|slot|casino|togel|gacor|4d|judi|toto|poker|loan|viagra|crypto|airdrop|domains",re.I)
 SKIPHOST=re.compile(r"archive\.org|google|bing\.com|duckduckgo|facebook|reddit|youtube|github\.com|wikipedia|amazon",re.I)
 KEYWORDS=["occult","ufo","vhs","theology","bible","gnostic","alchemy","patent","manual","radio","scan","sermon","monastery","conspiracy","cult","hermetic","tarot","newsletter","bbs","zine","apocrypha","shortwave","family","church","camcorder","prophecy","esoteric","cipher","grimoire","mythology"]
 SEEDS=["http://www.textfiles.com/ufo/","http://www.textfiles.com/occult/","http://www.textfiles.com/conspiracy/","http://www.textfiles.com/magazines/","http://www.textfiles.com/religion/","http://artifice.bbs.textfiles.com/","https://ftp.lip6.fr/pub/","https://ftp.uni-stuttgart.de/pub/","https://mirror.aarnet.edu.au/pub/","https://ftp.ussg.iu.edu/","https://ftp.cc.uoc.gr/","https://ftp.funet.fi/pub/sci/","https://ftp.funet.fi/pub/pics/","https://ftp.funet.fi/pub/culture/","https://ftp.funet.fi/pub/culture/occult/","https://ftp.funet.fi/pub/culture/religion/","https://ftp.funet.fi/pub/doc/","http://www.textfiles.com/","http://cd.textfiles.com/","https://www.ibiblio.org/pub/academic/religion/","https://www.ibiblio.org/pub/docs/","https://ftp.gnu.org/old-gnu/","https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/"]
@@ -39,19 +40,19 @@ def discover(kw):
     for q in (f'intitle:"index of" {kw}',f'"index of /" "parent directory" {kw}'):
         try:
             h=requests.get("https://html.duckduckgo.com/html/",params={"q":q},headers={"User-Agent":"Mozilla/5.0"},timeout=25).text
-            found|={urllib.parse.unquote(u) for u in re.findall(r'uddg=([^&"]+)',h)}
+            found|={urllib.parse.unquote(u) for u,t in re.findall(r'class="result__a" href="[^"]*?uddg=([^&"]+)[^"]*"[^>]*>(.*?)</a>',h) if re.search(r"index\s+of",re.sub("<[^>]+>","",t),re.I)}
         except Exception as e: print("ddg",kw,e)
         try:
             h=requests.get("https://www.bing.com/search",params={"q":q,"count":30},headers={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36"},timeout=25).text
-            found|=set(re.findall(r'<h2[^>]*><a[^>]+href="(https?://[^"]+)"',h))
+            found|={u for u,t in re.findall(r'<h2[^>]*><a[^>]+href="(https?://[^"]+)"[^>]*>(.*?)</a>',h) if re.search(r"index\s+of",re.sub("<[^>]+>","",t),re.I)}
         except Exception as e: print("bing",kw,e)
         try:
             h=requests.get("https://www.mojeek.com/search",params={"q":q},headers={"User-Agent":"Mozilla/5.0"},timeout=25).text
-            found|=set(re.findall(r'<a class="ob" href="(https?://[^"]+)"',h))
+            found|={u for u,t in re.findall(r'<a class="ob" href="(https?://[^"]+)"[^>]*>(.*?)</a>',h) if re.search(r"index\s+of",t,re.I)}
         except Exception as e: print("mojeek",kw,e)
         time.sleep(2)
     print("engines",kw,len(found))
-    return [u for u in found if not SKIPHOST.search(u.split("/")[2] if "://" in u else u) and not BAD.search(u)]
+    return [u for u in found if not SPAM.search(u) and not SKIPHOST.search(u.split("/")[2] if "://" in u else u) and not BAD.search(u)]
 def urlscan_dirs(n=60):
     """Recently-seen 'Index of' pages anywhere on the web (urlscan public search)."""
     try:
@@ -69,6 +70,7 @@ def crawl_dir(url,kw=None,depth=2,budget=6):
         except Exception as e: print("list",u,e); continue
         if L is None: continue
         host=u.split("/")[2]
+        if SPAM.search(host): continue
         for x in L:
             if not x["dir"]: files.append({**x,"host":host,"parent":u,"kw":kw or ""})
         subs=[x["url"] for x in L if x["dir"]]

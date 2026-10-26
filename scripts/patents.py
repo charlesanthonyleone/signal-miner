@@ -1,3 +1,4 @@
+import re
 """INVENTO patent miner — Google Patents xhr + Archive.org. Public only."""
 import json, random, datetime, requests
 
@@ -21,10 +22,10 @@ QUERIES = {
     "deterrent": [("death ray",""),("electromagnetic pulse","H05K9"),("nuclear explosion","G21J"),("blast shelter","E04H9"),("retaliation","")],
 }
 RE = {
-    "dead": r"spirit|dead|deceased|s[eé]ance|ghost|psychic|medium|grave|casket|burial|afterlife|paranormal",
+    "dead": r"spirit|\\bdead\\b|deceased|s[eé]ance|ghost(?! image)|psychic|grave|casket|burial|afterlife|paranormal|coffin",
     "mindctl": r"hypno|sublimin|mind|thought|brain|mesmer|trance|behavio|sleep|neural",
     "weather": r"rain|cloud|weather|hail|fog|hurricane|storm|lightning|precipitat|atmospher",
-    "aliens": r"saucer|extraterrest|asteroid|planet|space|gravity|meteor|ufo|orbit",
+    "aliens": r"saucer|extraterrest|alien|asteroid|interplanet|anti.?grav|meteor|ufo|flying disc|levitat",
     "immortal": r"resurrect|suspend|rejuven|immortal|reviv|cryo|preserv|aging|life",
     "deterrent": r"ray|pulse|nuclear|blast|explos|retaliat|weapon|shelter|emp\b",
 }
@@ -135,12 +136,14 @@ def mine_module(mod, n=16):
     found, seen = [], set()
     for q, cpc in qs:
         before = random.choice(["19400101", "19600101", "19800101", "20000101", ""])
-        hits = gp_search(q, page=random.randint(0, 2), cpc=cpc, before=before) or gp_search(q, cpc=cpc)
+        qq = f'"{q}"' if " " in q else q
+        hits = gp_search(qq, page=random.randint(0, 2), cpc=cpc, before=before) or gp_search(qq, cpc=cpc)
         print("gp", mod, q, cpc, before, len(hits))
         for x in hits:
             key = x.get("patent_number") or x.get("url")
             if not key or key in seen: continue
-            if rx and not rx.search(x["title"] + " " + x.get("preview", "")): continue
+            x["title"]=re.sub(r"<[^>]+>","",x.get("title","")); x["preview"]=re.sub(r"<[^>]+>","",x.get("preview",""))
+            if rx and not rx.search(x["title"] + " " + x["preview"]): continue
             seen.add(key); x["module"] = mod; x["mined_at"] = now()
             x["query"] = f'google patents q="{q}"' + (f" cpc={cpc}" if cpc else "") + (f" before {before[:4]}" if before else "")
             found.append(x)
