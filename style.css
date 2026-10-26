@@ -87,3 +87,17 @@ body.reliquary .card{background:#f1e4c4;color:#2a1c0c;border-color:#a8743a}body.
 .empty{grid-column:1/-1;padding:24px;border:1px dashed #555;opacity:.85;line-height:1.6}.empty a{color:inherit;text-decoration:underline}
 .blurwrap{position:relative;cursor:pointer}.blurwrap.blurred img,.blurwrap.blurred video{filter:blur(28px) saturate(.4);pointer-events:none}
 .blurwrap .blurnote{font-size:12px;color:var(--mut,#9ab);padding:4px 0}.blurwrap:not(.blurred) .blurnote b{display:none}
+/* Pass 3: mobile layout */
+@media (max-width:640px){
+ header{padding:10px 12px 6px;position:static}header h1{font-size:15px;margin-bottom:8px}
+ .topnav{gap:6px}.halfbtn{flex:1 1 30%;text-align:center;padding:8px 4px;font-size:12px}
+ .util{margin-left:0;width:100%}.util button{flex:1}
+ nav{overflow-x:auto;white-space:nowrap;flex-wrap:nowrap!important}
+ main{padding:10px!important}.hub{grid-template-columns:1fr 1fr;gap:8px}.hub p{display:none}
+ .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+ .tabs{overflow-x:auto;white-space:nowrap;display:flex;flex-wrap:nowrap}
+ .ctl input[type=text]{width:100%;flex:1 1 100%}.ctl label{font-size:12px}.ctl input[type=number]{width:70px}
+ .modal{padding:0}.box{max-height:100vh;height:100vh;border-radius:0;padding:12px}
+ .depth-gauge{display:none}
+}
+.scan.on+.status::after{content:" ⏳";animation:fade 1s infinite alternate}

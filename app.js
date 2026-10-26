@@ -216,6 +216,7 @@ function toggle(it){const v=V();v[it.url]?delete v[it.url]:v[it.url]={...it,save
 const $=s=>document.querySelector(s);let state={half:'',m:'home',s:''},items=[];
 function route(){const parts=(location.hash.slice(1)||'').split('/');
   if(['live','trench','theo','invento','reliquary'].includes(parts[0])){state.half=parts[0];state.m=parts[1]||'hub';state.s=parts[2]||''}
+  else if(parts[0]==='find'&&parts[1]){state.half='';state.m='home';state.s='';render();return SAFE_READY.then(()=>openShared(parts.slice(1).join('/')))}
   else if(parts[0]==='vault'||parts[0]==='report'){state.half=state.half||'';state.m=parts[0];state.s=''}
   else if(MODULES[parts[0]]){state.half=MODULES[parts[0]].half;state.m=parts[0];state.s=parts[1]||''}
   else{state.half='';state.m='home';state.s=''}
@@ -255,11 +256,11 @@ function reportPage(){const x=REP,site=x&&(REPORT_SITE[x.source]||[`${x.source}:
 
 function halfMods(h){return Object.entries(MODULES).filter(([,m])=>m.half===h)}
 function topnav(){$('#topnav').innerHTML=`
- <button class="halfbtn live ${state.half==='live'?'on':''}" onclick="location.hash='live'">LIVE</button>
- <button class="halfbtn trench ${state.half==='trench'?'on':''}" onclick="location.hash='trench'">TRENCH</button>
- <button class="halfbtn theo ${state.half==='theo'?'on':''}" onclick="location.hash='theo'">THEO</button>
- <button class="halfbtn invento ${state.half==='invento'?'on':''}" onclick="location.hash='invento'">INVENTO</button>
- <button class="halfbtn reliquary ${state.half==='reliquary'?'on':''}" onclick="location.hash='reliquary'">RELIQUARY</button>
+ <button title="LIVE — public archives & platforms (Internet Archive, Commons, Met, Open Library…)" class="halfbtn live ${state.half==='live'?'on':''}" onclick="location.hash='live'">LIVE</button>
+ <button title="TRENCH — grayspace only: open directories, gopher, gemini, dead personal hosts, raw feeds" class="halfbtn trench ${state.half==='trench'?'on':''}" onclick="location.hash='trench'">TRENCH</button>
+ <button title="THEO — apocrypha, heresies and obscure religious texts" class="halfbtn theo ${state.half==='theo'?'on':''}" onclick="location.hash='theo'">THEO</button>
+ <button title="INVENTO — forgotten, odd and expired patents" class="halfbtn invento ${state.half==='invento'?'on':''}" onclick="location.hash='invento'">INVENTO</button>
+ <button title="RELIQUARY — lead hunter: buried maps, deathbed confessions, unsolved ciphers, shipwreck manifests" class="halfbtn reliquary ${state.half==='reliquary'?'on':''}" onclick="location.hash='reliquary'">RELIQUARY</button>
  <div class="util">
   <button class="${state.m==='vault'?'on':''}" onclick="location.hash='vault'">★ VAULT (${Object.keys(V()).length})</button>
   <button class="${state.m==='report'?'on':''}" onclick="REP=null;location.hash='report'">⚑ REPORT</button>
@@ -349,8 +350,16 @@ function openF(sel,i){const x=LISTS[sel][i];
   img:`<img src="${s}">`,audio:`${x.thumb?`<img src="${esc(x.thumb)}" style="max-height:200px">`:''}<audio controls src="${s}"></audio>`,link:x.thumb?`<img src="${esc(x.thumb)}" style="max-height:300px">`:''}[x.kind]||'';const mm=SAFE.isMedia(x)?SAFE.gate(m,x):m;
  $('#mb').innerHTML=`${mm}<h3>${esc(x.title)}</h3><div><span class="badge">${esc((x.module||'').toUpperCase())}</span><span class="badge">${esc(x.source)}</span> ${x.date?esc(x.dateLabel+': '+x.date):''}${x.count!=null?' · '+esc(x.count)+' '+esc(x.countLabel):''}</div>
  <div>${esc(x.extra||'')}</div>${x.lazy?'<h4>abstract / text</h4><pre class="prevbox" id="lazy">loading…</pre>':(x.preview?`<pre class="prevbox">${esc(x.preview)}</pre>`:'')}${x.links?`<div class="row">${x.links.map(l=>`<a class="go" href="${esc(l[1])}" target="_blank" rel="noopener">${esc(l[0])}</a>`).join('')}</div>`:''}${x.mined_at?`<div class="q">logged: ${esc(x.mined_at)}</div>`:''}<div class="q">query: ${esc(x.query)}</div>
- <div class="row"><a class="go" href="${esc(x.url)}" target="_blank" rel="noopener">open at source ↗</a><button class="go" id="sv">${V()[x.url]?'★ saved':'☆ save'}</button><button class="go" id="rp">⚑ report</button><button class="go" onclick="closeM()">close</button></div>`;
+ <div class="row"><a class="go" href="${esc(x.url)}" target="_blank" rel="noopener">open at source ↗</a><button class="go" id="sv">${V()[x.url]?'★ saved':'☆ save'}</button><button class="go" id="rp">⚑ report</button><button class="go" id="sh" title="copy a permalink to this find">🔗 link</button><button class="go" onclick="closeM()">close</button></div>`;$('#sh').onclick=()=>shareF(x);
  if(x.lazy)x.lazy().then(t=>{const e=$('#lazy');if(e)e.textContent=SAFE.screen({title:'',preview:t})?'(text hidden by safety screen)':t}).catch(e=>{const el=$('#lazy');if(el)el.textContent='could not load: '+e.message});$('#rp').onclick=()=>report(x);$('#sv').onclick=()=>{$('#sv').textContent=toggle(x)?'★ saved':'☆ save';topnav();if(state.m==='vault')vault();else grid(sel,LISTS[sel])};$('#modal').classList.add('on')}
+// Pass 3: shareable permalink to a single find (#find/<base64 json>); re-screened by the safety layer on open.
+const SHARE_KEYS=['title','url','src','thumb','kind','mime','ftype','source','module','date','dateLabel','size','host','extra','preview','query','gated','skin','links'];
+function shareF(x){const o={};SHARE_KEYS.forEach(k=>x[k]!=null&&x[k]!==''&&(o[k]=k==='preview'?String(x[k]).slice(0,600):x[k]));
+ const u=location.origin+location.pathname+'#find/'+btoa(unescape(encodeURIComponent(JSON.stringify(o)))).replace(/=+$/,'');
+ (navigator.clipboard?navigator.clipboard.writeText(u):Promise.reject()).then(()=>$('#sh').textContent='✓ copied',()=>prompt('Copy link:',u))}
+function openShared(b){try{const x=JSON.parse(decodeURIComponent(escape(atob(b))));
+  if(!x.url||SAFE.screen(x)||blocked(x.url))throw new Error('this find is blocked by the safety screen');
+  if(SAFE.isMedia(x))x.gated=true;LISTS['#share']=[x];openF('#share',0)}catch(e){$('#mb').innerHTML=`<h3>Shared find unavailable</h3><p>${esc(e.message)}</p><div class="row"><button class="go" onclick="closeM()">close</button></div>`;$('#modal').classList.add('on')}}
 function closeM(){$('#modal').classList.remove('on');$('#mb').innerHTML=''}
 function vault(){const v=Object.values(V()).filter(x=>!blocked(x.url)).sort((a,b)=>b.saved_at.localeCompare(a.saved_at));const g={};v.forEach(x=>{(g[(x.module||'?')+' · '+x.source]??=[]).push(x)});
  $('main').innerHTML=`<section class="world"><h2>★ VAULT</h2><p class="sub">Saved finds across LIVE / TRENCH / THEO / INVENTO. Browser-local only.</p>
@@ -358,6 +367,6 @@ function vault(){const v=Object.values(V()).filter(x=>!blocked(x.url)).sort((a,b
  ${v.length?'':'<p class="sub">Nothing saved yet.</p>'}${Object.entries(g).map(([k,l],j)=>`<h3>${esc(k.toUpperCase())} (${l.length})</h3><div class="grid" id="v${j}"></div>`).join('')}</section>`;
  Object.values(g).forEach((l,j)=>grid('#v'+j,l))}
 function exp(){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(Object.values(V()),null,1)],{type:'application/json'}));a.download='signal-miner-vault.json';a.click()}
-async function imp(f){try{const l=JSON.parse(await f.text()),v=V();[].concat(l).forEach(x=>x.url&&(v[x.url]={saved_at:new Date().toISOString(),...x}));saveV(v);render()}catch(e){alert('bad file: '+e)}}
+async function imp(f){try{const l=JSON.parse(await f.text()),v=V();let n=0,skip=0;[].concat(l).forEach(x=>x&&x.url&&(SAFE.screen(x)||blocked(x.url)?skip++:(n++,v[x.url]={saved_at:new Date().toISOString(),...x})));saveV(v);render();alert(`imported ${n} finds`+(skip?` · ${skip} dropped by the safety screen`:''))}catch(e){alert('bad file: '+e)}}
 document.addEventListener("keydown",e=>e.key==="Escape"&&closeM());
 if(!location.pathname.endsWith("test.html")){route();if(!localStorage.ack){$('#mb').innerHTML=`<h3>Before you dig</h3><p>Everything shown here is public third-party media and text pulled automatically from other sites. Nothing is hosted, reviewed, or endorsed by this site. Finds can be unexpected or upsetting. TRENCH prefers text/metadata; open-camera cards only show streams already broadcasting with <b>no authentication</b>. We do not scan the internet or use passwords. No Tor. Use ⚑ to report anything harmful.</p><div class="row"><button class="go" onclick="localStorage.ack=1;closeM()">I understand, continue</button></div>`;$('#modal').classList.add('on')}}
