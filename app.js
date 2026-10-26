@@ -227,6 +227,43 @@ const MODULES={
  compare:{half:'theo',name:'COMPARATIVE REVELATION',icon:'🔀',blurb:'Same idea across traditions — flood, creation, afterlife.',sources:{
   ia:{name:'Cross-tradition',f:async o=>{const idea=o.kw||pick(['flood myth','creation myth','afterlife','apocalypse','paradise','covenant','prophecy','resurrection']);const oo={...o,kw:idea};const f=iaSrc({mt:'texts',extra:'(subject:(religion OR mythology OR theology OR folklore) OR collection:(folkscanomy_religion OR americana))',source:'Internet Archive',module:'compare'});const r=await f(oo);return r.map(x=>({...x,extra:(x.extra?x.extra+' · ':'')+'theme: '+idea,query:x.query+' · theme '+idea}))},note:'Keyword = shared idea (flood, creation…). Mines religious/myth texts across traditions.',
   openlib:{name:'Open Library',f:o=>openlibTheo(o,'compare',['flood myth','creation myth','afterlife','comparative religion']),note:'Open Library comparative religion.'}}}},
+
+ /* ---- THEO · Forgotten Cultures ---- */
+ lostciv:{half:'theo',name:'LOST CIVILIZATIONS',icon:'🏛',blurb:'Beliefs of Hittite, Etruscan, Minoan, Indus & kin.',sources:{
+  ia:{name:'Archive',f:iaSrc({mt:'texts',extra:'(title:(Hittite OR Etruscan OR Minoan OR "Indus Valley" OR Harappan OR "Sumerian religion") OR subject:(Hittites OR Etruscans OR Minoans OR "Indus civilization" OR Sumerians))',source:'Internet Archive',module:'lostciv'}),note:'Public ethnography/history texts on vanished civilizations\' beliefs.'},
+  openlib:{name:'Open Library',f:o=>openlibTheo(o,'lostciv',['Hittite religion','Etruscan religion','Minoan religion','Indus Valley','Sumerian mythology']),note:'Open Library catalogs.'}}},
+ oral:{half:'theo',name:'ORAL TRADITIONS',icon:'🗣',blurb:'Untranslated / sparsely written oral myths & folklore.',sources:{
+  ia:{name:'Archive folklore',f:iaSrc({mt:'texts',extra:'(subject:(folklore OR "oral tradition" OR mythology OR ethnography) OR collection:(folkscanomy OR americana)) AND (myth OR legend OR oral OR tale)',source:'Internet Archive',module:'oral'}),note:'Folklore & ethnography collections — oral traditions in print.'},
+  openlib:{name:'Open Library',f:o=>openlibTheo(o,'oral',['oral tradition','folklore myths','ethnography mythology','tribal myths']),note:'Open Library folklore digs.'}}},
+ deadgods:{half:'theo',name:'DEAD GODS INDEX',icon:'🗿',blurb:'Forgotten deities & collapsed pantheons.',sources:{
+  ia:{name:'Archive pantheons',f:iaSrc({mt:'texts',extra:'(title:(pantheon OR mythology OR "forgotten gods" OR deities) OR subject:(mythology OR pantheon OR deities OR gods))',source:'Internet Archive',module:'deadgods'}),note:'Mythology & pantheon surveys from public archives.'},
+  sacred:{name:'Sacred Texts',f:sacredIA('(subject:(mythology OR pantheon) OR title:(mythology OR gods OR pantheon))','deadgods'),note:'Sacred-texts mythology mirrors on IA.'},
+  openlib:{name:'Open Library',f:o=>openlibTheo(o,'deadgods',['forgotten gods','ancient pantheon','mythology deities','dead religions']),note:'Open Library.'}}},
+ endangered:{half:'theo',name:'ENDANGERED BELIEFS',icon:'🕊',blurb:'Mandaean, Yazidi, Zoroastrian, Samaritan & kin.',sources:{
+  ia:{name:'Archive',f:iaSrc({mt:'texts',extra:'(title:(Mandaean OR Yazidi OR Yezidi OR Zoroastrian OR Samaritan OR Mandaeism OR Avesta) OR subject:(Mandaeans OR Yazidis OR Zoroastrianism OR Samaritans OR Parsees))',source:'Internet Archive',module:'endangered'}),note:'Living but endangered faith literatures in public domain / library scans.'},
+  openlib:{name:'Open Library',f:o=>openlibTheo(o,'endangered',['Mandaeans','Yazidis','Zoroastrianism','Samaritans','Parsis','Avesta']),note:'Open Library.'},
+  gutenberg:{name:'Gutenberg',f:async o=>{const oo={...o,kw:o.kw||pick(['Zoroaster','Avesta','Zend-Avesta','Samaritan'])};return (await gutendex(oo)).map(x=>({...x,module:'endangered'}))},note:'Gutendex.'}}},
+ burial:{half:'theo',name:'BURIAL & AFTERLIFE',icon:'⚰',blurb:'Funerary customs and afterlife maps across cultures.',sources:{
+  ia:{name:'Archive',f:iaSrc({mt:'texts',extra:'(subject:(burial OR funeral OR afterlife OR "funerary" OR "death customs") OR title:(burial OR funeral OR afterlife OR "book of the dead")) AND (religion OR ritual OR culture OR mythology)',source:'Internet Archive',module:'burial'}),note:'Burial rites & afterlife texts.'},
+  openlib:{name:'Open Library',f:o=>openlibTheo(o,'burial',['burial customs','funerary rites','afterlife beliefs','Book of the Dead']),note:'Open Library.'}}},
+ folkmagic:{half:'theo',name:'FOLK MAGIC',icon:'🌿',blurb:'Village religion, charms, folk magic.',sources:{
+  ia:{name:'Archive',f:iaSrc({mt:'texts',extra:'(subject:("folk religion" OR "folk magic" OR witchcraft OR "popular religion" OR superstition) OR title:("folk religion" OR "folk magic" OR "folk-lore" OR charm))',source:'Internet Archive',module:'folkmagic'}),note:'Historical folk-religion & charm literature (public scans).'},
+  sacred:{name:'Sacred Texts',f:sacredIA('(subject:(folklore OR witchcraft OR magic) OR title:(charm OR folklore OR "folk lore"))','folkmagic'),note:'Sacred-texts folklore/magic.'},
+  openlib:{name:'Open Library',f:o=>openlibTheo(o,'folkmagic',['folk magic','folk religion','charms superstitions','village religion']),note:'Open Library.'}}},
+ mystery:{half:'theo',name:'MYSTERY CULTS',icon:'🔮',blurb:'Eleusis, Mithraism, Orphism & mystery religions.',sources:{
+  ia:{name:'Archive',f:iaSrc({mt:'texts',extra:'(title:(Eleusis OR Eleusinian OR Mithraism OR Mithras OR Orphism OR Orphic OR "mystery cult" OR "mystery religion") OR subject:(Mithraism OR Orphism OR "mystery religions" OR Eleusinian))',source:'Internet Archive',module:'mystery'}),note:'Classical mystery-cult scholarship & sources.'},
+  openlib:{name:'Open Library',f:o=>openlibTheo(o,'mystery',['Eleusinian Mysteries','Mithraism','Orphism','mystery religions']),note:'Open Library.'},
+  gutenberg:{name:'Gutenberg',f:async o=>{const oo={...o,kw:o.kw||pick(['Mithras','Eleusis','Orpheus','mystery religion'])};return (await gutendex(oo)).map(x=>({...x,module:'mystery'}))},note:'Gutendex.'}}},
+ astrorel:{half:'theo',name:'ASTRONOMICAL RELIGIONS',icon:'✦',blurb:'Sky cults, solar worship, archaeoastronomy.',sources:{
+  ia:{name:'Archive',f:iaSrc({mt:'texts',extra:'(title:("astral religion" OR "solar cult" OR "star worship" OR archaeoastronomy OR "sky religion" OR "sun worship") OR subject:(archaeoastronomy OR "solar worship" OR "astral mythology" OR "sun worship"))',source:'Internet Archive',module:'astrorel'}),note:'Astral/solar religion & archaeoastronomy texts.'},
+  openlib:{name:'Open Library',f:o=>openlibTheo(o,'astrorel',['archaeoastronomy','solar cult','star worship','astral religion']),note:'Open Library.'}}},
+ prophets:{half:'theo',name:'FORGOTTEN PROPHETS',icon:'🔔',blurb:'Messiahs, prophets & founders outside the main canons.',sources:{
+  ia:{name:'Archive',f:iaSrc({mt:'texts',extra:'(title:(messiah OR "false messiah" OR mahdi OR "religious founder" OR prophet) OR subject:(messianism OR prophets OR "religious leaders" OR "messianic movements"))',source:'Internet Archive',module:'prophets'}),note:'Messianic movements & lesser-known prophetic figures.'},
+  openlib:{name:'Open Library',f:o=>openlibTheo(o,'prophets',['messianic movements','false messiah','prophets history','religious founders']),note:'Open Library.'}}},
+ suppressed:{half:'theo',name:'SUPPRESSED FAITHS',icon:'⛓',blurb:'Colonized, banned, and forcibly converted traditions.',sources:{
+  ia:{name:'Archive',f:iaSrc({mt:'texts',extra:'(title:("forced conversion" OR "religious persecution" OR "banned religion" OR syncretism) OR subject:("religious persecution" OR "forced conversion" OR syncretism OR "colonial religion") OR (religion AND (colonial OR suppressed OR persecution OR missionary)))',source:'Internet Archive',module:'suppressed'}),note:'Public histories of suppressed / colonized faiths.'},
+  openlib:{name:'Open Library',f:o=>openlibTheo(o,'suppressed',['religious persecution','forced conversion','colonial religion','suppressed religion','syncretism']),note:'Open Library.'}}},
+
  invento_soon:{half:'invento',name:'COMING SOON',icon:'⚙',blurb:'Patent vault, weird filings, trademark graveyard — shipping next. THEO is live now.',sources:{
   soon:{name:'Not yet mined',f:async ()=>[{module:'invento_soon',source:'Signal Miner',title:'INVENTO ships next',date:new Date().toISOString().slice(0,10),dateLabel:'status',count:null,countLabel:'',kind:'meta',mime:'status/note',
     preview:'INVENTO modules (expired patents, abandoned filings, wild frontier patents, trademark graveyard, modern-use matcher) are next after THEO. Dig THEO now.',
@@ -306,13 +343,13 @@ function home(){$('main').innerHTML=`<div class="depth-gauge"><span>LIVE</span><
  <div class="hub">
   <a class="hubcard" href="#live" style="border-color:#1f5"><div class="ico">📡</div><h3>LIVE</h3><p>Surface web media — Archive, Commons, Dailymotion, Openverse, Met, Open Library, Gutenberg, YouTube &amp; Wayback. Open a module, then mine.</p></a>
   <a class="hubcard" href="#trench" style="border-color:#2cf"><div class="ico sonar">≋</div><h3>TRENCH</h3><p>Deep public layers — open cameras, SatNOGS, chain graffiti, BGP, crawl, gopher. Hardline non-curated. No Tor.</p></a>
-  <a class="hubcard" href="#theo" style="border-color:#d4a"><div class="ico">🕯</div><h3>THEO</h3><p>Forgotten theology — manuscripts, apocrypha, Geniza scraps, grimoires, dead languages, clay tablets. Public archives only.</p></a>
-  <a class="hubcard" href="#invento" style="border-color:#fa3"><div class="ico">⚙</div><h3>INVENTO</h3><p>Real patents &amp; dead marks — expired vaults, abandoned filings, weird tech, lost formulas. USPTO / Archive / Google Patents links.</p></a>
+  <a class="hubcard" href="#theo" style="border-color:#d4a"><div class="ico">🕯</div><h3>THEO</h3><p>Forgotten theology &amp; cultures — manuscripts, apocrypha, Geniza, grimoires, dead languages, clay tablets, lost civs, dead gods, mystery cults. Public archives only.</p></a>
+  <a class="hubcard" href="#invento" style="border-color:#fa3"><div class="ico">⚙</div><h3>INVENTO</h3><p>Coming soon — patent vault, weird filings, trademark graveyard. Dig THEO meanwhile.</p></a>
  </div>`}
 
 const HUBMETA={live:{title:'LIVE · module hub',a:'SURFACE',b:'BROADCAST',sub:'Pick a module, then generate finds inside it.'},
  trench:{title:'TRENCH · Mariana modules',a:'0 m',b:'10 994 m',sub:'Hardline random / unfiltered enumeration from public indexes. Safety filter (NSFW/blocklist) only. No scanning, no credentials, no Tor.'},
- theo:{title:'THEO · forgotten theology',a:'CANON',b:'APOCRYPHA',sub:'Public manuscripts, banned books, Geniza scraps, grimoires, dead-language scripture, clay tablets. Nothing hosted here.'},
+ theo:{title:'THEO · forgotten theology & cultures',a:'CANON',b:'CULTURES',sub:'Manuscripts, apocrypha, Geniza, grimoires, dead languages, clay tablets — plus Forgotten Cultures (lost civs, dead gods, mystery cults, suppressed faiths). Public archives only.'},
  invento:{title:'INVENTO · coming soon',a:'FILED',b:'SOON',sub:'Patent & trademark miners ship next. Open the Coming Soon card for status — dig THEO meanwhile.'}};
 function hub(h){const mods=halfMods(h),meta=HUBMETA[h]||HUBMETA.live;
  $('main').innerHTML=`<div class="depth-gauge"><span>${meta.a}</span><i></i><span>${meta.b}</span></div>
