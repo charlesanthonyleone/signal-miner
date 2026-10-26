@@ -192,78 +192,8 @@ const MODULES={
  timeskew:{half:'trench',name:'TIME SKEW',icon:'⏱',blurb:'Impossible timestamps across mined finds.',sources:{
   skew:{name:'Anomalies',f:logSrc('timeskew','timeskew'),note:'Flags pre-1970, unix-epoch defaults, and far-future dates in find metadata.'}}},
 
- /* ---- THEO ---- */
- manuscript:{half:'theo',name:'MANUSCRIPT DIVER',icon:'📜',blurb:'Unread / untranscribed manuscript scans from public archives.',sources:{
-  ia:{name:'Archive manuscripts',f:iaSrc({mt:'texts',extra:'(collection:(manuscripts OR digitisedmanuscripts OR europeanlibraries) OR subject:(manuscript OR codex OR folio OR illuminated))',source:'Internet Archive',module:'manuscript'}),note:'archive.org manuscript/codex/folio texts — random digs, not a hand-picked gallery.',
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'manuscript',['illuminated manuscript','medieval manuscript','codex']),note:'Open Library manuscript catalogs.'}}}},
- scrolls:{half:'theo',name:'SCROLLS & NAG HAMMADI',icon:'🧻',blurb:'Dead Sea Scrolls & Nag Hammadi public editions.',sources:{
-  ia:{name:'Archive editions',f:iaSrc({mt:'texts',extra:'(title:("Dead Sea" OR "Nag Hammadi" OR Qumran OR "Gospel of Thomas" OR "Gospel of Mary") OR subject:("Dead Sea scrolls" OR "Nag Hammadi"))',source:'Internet Archive',module:'scrolls'}),note:'Public archive editions/scans. DSS Digital Library / Claremont when linked from IA.',
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'scrolls',['Dead Sea Scrolls','Nag Hammadi','Gospel of Thomas','Qumran']),note:'Open Library search.'},
-  sacred:{name:'Sacred Texts',f:sacredIA('(title:("Dead Sea" OR "Nag Hammadi" OR Qumran OR Thomas) OR subject:("Dead Sea" OR "Nag Hammadi"))','scrolls'),note:'Sacred-texts / DSS editions on IA.'}}}},
- apocrypha:{half:'theo',name:'APOCRYPHA',icon:'📕',blurb:'Enoch, Jubilees, lost gospels, banned books.',sources:{
-  ia:{name:'Archive apocrypha',f:iaSrc({mt:'texts',extra:'(title:(Enoch OR Jubilees OR "lost gospel" OR apocrypha OR pseudepigrapha OR "Gospel of") OR subject:(apocrypha OR pseudepigrapha))',source:'Internet Archive',module:'apocrypha'}),note:'Public-domain / library scans of apocrypha & pseudepigrapha.'},
-  gutenberg:{name:'Gutenberg',f:async o=>{const oo={...o,kw:o.kw||pick(['apocrypha','Enoch','pseudepigrapha','gospel'])};return (await gutendex(oo)).map(x=>({...x,module:'apocrypha'}))},note:'Gutendex keyword dig.',
-  sacred:{name:'Sacred Texts',f:sacredIA('(title:(Enoch OR Jubilees OR apocrypha OR pseudepigrapha) OR subject:(apocrypha))','apocrypha'),note:'Internet Sacred Text Archive material via archive.org.'},
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'apocrypha',['Book of Enoch','Book of Jubilees','apocrypha','pseudepigrapha']),note:'Open Library search.'}}}},
- geniza:{half:'theo',name:'CAIRO GENIZA',icon:'🧩',blurb:'Geniza scraps & Near East manuscript fragments.',sources:{
-  ia:{name:'Archive Geniza',f:iaSrc({mt:'texts',extra:'(title:(Geniza OR Genizah OR "Cairo Geniza") OR subject:(Genizah OR Geniza) OR collection:(genizah OR cambridgeuniversitylibrary))',source:'Internet Archive',module:'geniza'}),note:'Friedberg/Cambridge/Princeton Geniza material mirrored or cataloged on IA when available.',
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'geniza',['Cairo Geniza','Genizah','Jewish fragments']),note:'Open Library Geniza catalogs.'}}}},
- grimoire:{half:'theo',name:'GRIMOIRE VAULT',icon:'⛧',blurb:'Scanned occult / magic / ritual books (public domain).',sources:{
-  ia:{name:'Archive grimoires',f:iaSrc({mt:'texts',extra:'(subject:(magic OR occult OR grimoire OR witchcraft OR alchemy OR kabbalah) OR title:(grimoire OR "key of solomon" OR "picatrix" OR "liber"))',source:'Internet Archive',module:'grimoire'}),note:'Public scans only. Historical interest — not instructions.',
-  sacred:{name:'Sacred Texts',f:sacredIA('(subject:(magic OR occult OR alchemy OR kabbalah) OR title:(grimoire OR solomon OR picatrix))','grimoire'),note:'Sacred-texts / occult scans on IA.'}}}},
- marginalia:{half:'theo',name:'MARGINALIA',icon:'✍',blurb:'Handwritten notes & annotated religious books.',sources:{
-  ia:{name:'Annotated books',f:iaSrc({mt:'texts',extra:'(subject:(marginalia OR annotations OR "handwritten notes") OR title:(marginalia OR annotated) OR description:(marginalia)) AND (subject:(religion OR bible OR theology OR manuscript))',source:'Internet Archive',module:'marginalia'}),note:'Items tagged marginalia/annotations in religious contexts.',
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'marginalia',['marginalia bible','annotated bible','manuscript annotations']),note:'Open Library annotated religious books.'}}}},
- deadlang:{half:'theo',name:'DEAD LANGUAGES',icon:'𓁟',blurb:'Coptic, Ge\'ez, Syriac, Avestan, Pali scripture.',sources:{
-  ia:{name:'Archive texts',f:iaSrc({mt:'texts',extra:'(language:(cop OR gez OR syc OR ave OR pli OR syr OR coptic) OR subject:(Coptic OR Ge\\\\\'ez OR Syriac OR Avestan OR Pali OR "Church Slavonic") OR title:(Coptic OR Syriac OR Pali OR Avestan OR Ge\\\\\'ez))',source:'Internet Archive',module:'deadlang'}),note:'Language/subject filters on archive.org.'},
-  gutenberg:{name:'Gutenberg',f:async o=>{const oo={...o,kw:o.kw||pick(['Coptic','Syriac','Pali','Avestan','Ethiopic','Ge\'ez'])};return (await gutendex(oo)).map(x=>({...x,module:'deadlang'}))},note:'Gutendex language digs.',
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'deadlang',['Coptic bible','Syriac liturgy','Pali canon','Avesta','Geez']),note:'Open Library dead-language scripture.'}}}},
- heresies:{half:'theo',name:'VANISHED SECTS',icon:'⚡',blurb:'Cathar, Manichaean, Bogomil & other heresies.',sources:{
-  ia:{name:'Archive',f:iaSrc({mt:'texts',extra:'(title:(Cathar OR Manichaean OR Manichean OR Bogomil OR heresy OR Gnostic OR Albigensian) OR subject:(Cathars OR Manichaeism OR Bogomils OR Gnosticism OR heresy))',source:'Internet Archive',module:'heresies'}),note:'Historical texts on vanished sects & heresies.',
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'heresies',['Cathars','Manichaeism','Bogomils','Gnosticism','Albigensian']),note:'Open Library heresy histories.'}}}},
- tablets:{half:'theo',name:'CLAY TABLETS',icon:'🧱',blurb:'Cuneiform prayers & hymns via public catalogs.',sources:{
-  ia:{name:'Archive cuneiform',f:iaSrc({mt:'texts',extra:'(subject:(cuneiform OR "clay tablet" OR Sumerian OR Akkadian OR Babylonian) OR title:(cuneiform OR "clay tablet" OR Sumerian OR Akkadian) OR collection:(cdli OR cuneiform))',source:'Internet Archive',module:'tablets'}),note:'CDLI/museum catalogs mirrored on IA. Direct CDLI API flaky from some networks — IA fallback.',
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'tablets',['cuneiform','Sumerian hymns','Akkadian prayers','clay tablets']),note:'Open Library cuneiform/Sumerian catalogs.'}}}},
- compare:{half:'theo',name:'COMPARATIVE REVELATION',icon:'🔀',blurb:'Same idea across traditions — flood, creation, afterlife.',sources:{
-  ia:{name:'Cross-tradition',f:async o=>{const idea=o.kw||pick(['flood myth','creation myth','afterlife','apocalypse','paradise','covenant','prophecy','resurrection']);const oo={...o,kw:idea};const f=iaSrc({mt:'texts',extra:'(subject:(religion OR mythology OR theology OR folklore) OR collection:(folkscanomy_religion OR americana))',source:'Internet Archive',module:'compare'});const r=await f(oo);return r.map(x=>({...x,extra:(x.extra?x.extra+' · ':'')+'theme: '+idea,query:x.query+' · theme '+idea}))},note:'Keyword = shared idea (flood, creation…). Mines religious/myth texts across traditions.',
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'compare',['flood myth','creation myth','afterlife','comparative religion']),note:'Open Library comparative religion.'}}}},
-
- /* ---- THEO · Forgotten Cultures ---- */
- lostciv:{half:'theo',name:'LOST CIVILIZATIONS',icon:'🏛',blurb:'Beliefs of Hittite, Etruscan, Minoan, Indus & kin.',sources:{
-  ia:{name:'Archive',f:iaSrc({mt:'texts',extra:'(title:(Hittite OR Etruscan OR Minoan OR "Indus Valley" OR Harappan OR "Sumerian religion") OR subject:(Hittites OR Etruscans OR Minoans OR "Indus civilization" OR Sumerians))',source:'Internet Archive',module:'lostciv'}),note:'Public ethnography/history texts on vanished civilizations\' beliefs.'},
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'lostciv',['Hittite religion','Etruscan religion','Minoan religion','Indus Valley','Sumerian mythology']),note:'Open Library catalogs.'}}},
- oral:{half:'theo',name:'ORAL TRADITIONS',icon:'🗣',blurb:'Untranslated / sparsely written oral myths & folklore.',sources:{
-  ia:{name:'Archive folklore',f:iaSrc({mt:'texts',extra:'(subject:(folklore OR "oral tradition" OR mythology OR ethnography) OR collection:(folkscanomy OR americana)) AND (myth OR legend OR oral OR tale)',source:'Internet Archive',module:'oral'}),note:'Folklore & ethnography collections — oral traditions in print.'},
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'oral',['oral tradition','folklore myths','ethnography mythology','tribal myths']),note:'Open Library folklore digs.'}}},
- deadgods:{half:'theo',name:'DEAD GODS INDEX',icon:'🗿',blurb:'Forgotten deities & collapsed pantheons.',sources:{
-  ia:{name:'Archive pantheons',f:iaSrc({mt:'texts',extra:'(title:(pantheon OR mythology OR "forgotten gods" OR deities) OR subject:(mythology OR pantheon OR deities OR gods))',source:'Internet Archive',module:'deadgods'}),note:'Mythology & pantheon surveys from public archives.'},
-  sacred:{name:'Sacred Texts',f:sacredIA('(subject:(mythology OR pantheon) OR title:(mythology OR gods OR pantheon))','deadgods'),note:'Sacred-texts mythology mirrors on IA.'},
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'deadgods',['forgotten gods','ancient pantheon','mythology deities','dead religions']),note:'Open Library.'}}},
- endangered:{half:'theo',name:'ENDANGERED BELIEFS',icon:'🕊',blurb:'Mandaean, Yazidi, Zoroastrian, Samaritan & kin.',sources:{
-  ia:{name:'Archive',f:iaSrc({mt:'texts',extra:'(title:(Mandaean OR Yazidi OR Yezidi OR Zoroastrian OR Samaritan OR Mandaeism OR Avesta) OR subject:(Mandaeans OR Yazidis OR Zoroastrianism OR Samaritans OR Parsees))',source:'Internet Archive',module:'endangered'}),note:'Living but endangered faith literatures in public domain / library scans.'},
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'endangered',['Mandaeans','Yazidis','Zoroastrianism','Samaritans','Parsis','Avesta']),note:'Open Library.'},
-  gutenberg:{name:'Gutenberg',f:async o=>{const oo={...o,kw:o.kw||pick(['Zoroaster','Avesta','Zend-Avesta','Samaritan'])};return (await gutendex(oo)).map(x=>({...x,module:'endangered'}))},note:'Gutendex.'}}},
- burial:{half:'theo',name:'BURIAL & AFTERLIFE',icon:'⚰',blurb:'Funerary customs and afterlife maps across cultures.',sources:{
-  ia:{name:'Archive',f:iaSrc({mt:'texts',extra:'(subject:(burial OR funeral OR afterlife OR "funerary" OR "death customs") OR title:(burial OR funeral OR afterlife OR "book of the dead")) AND (religion OR ritual OR culture OR mythology)',source:'Internet Archive',module:'burial'}),note:'Burial rites & afterlife texts.'},
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'burial',['burial customs','funerary rites','afterlife beliefs','Book of the Dead']),note:'Open Library.'}}},
- folkmagic:{half:'theo',name:'FOLK MAGIC',icon:'🌿',blurb:'Village religion, charms, folk magic.',sources:{
-  ia:{name:'Archive',f:iaSrc({mt:'texts',extra:'(subject:("folk religion" OR "folk magic" OR witchcraft OR "popular religion" OR superstition) OR title:("folk religion" OR "folk magic" OR "folk-lore" OR charm))',source:'Internet Archive',module:'folkmagic'}),note:'Historical folk-religion & charm literature (public scans).'},
-  sacred:{name:'Sacred Texts',f:sacredIA('(subject:(folklore OR witchcraft OR magic) OR title:(charm OR folklore OR "folk lore"))','folkmagic'),note:'Sacred-texts folklore/magic.'},
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'folkmagic',['folk magic','folk religion','charms superstitions','village religion']),note:'Open Library.'}}},
- mystery:{half:'theo',name:'MYSTERY CULTS',icon:'🔮',blurb:'Eleusis, Mithraism, Orphism & mystery religions.',sources:{
-  ia:{name:'Archive',f:iaSrc({mt:'texts',extra:'(title:(Eleusis OR Eleusinian OR Mithraism OR Mithras OR Orphism OR Orphic OR "mystery cult" OR "mystery religion") OR subject:(Mithraism OR Orphism OR "mystery religions" OR Eleusinian))',source:'Internet Archive',module:'mystery'}),note:'Classical mystery-cult scholarship & sources.'},
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'mystery',['Eleusinian Mysteries','Mithraism','Orphism','mystery religions']),note:'Open Library.'},
-  gutenberg:{name:'Gutenberg',f:async o=>{const oo={...o,kw:o.kw||pick(['Mithras','Eleusis','Orpheus','mystery religion'])};return (await gutendex(oo)).map(x=>({...x,module:'mystery'}))},note:'Gutendex.'}}},
- astrorel:{half:'theo',name:'ASTRONOMICAL RELIGIONS',icon:'✦',blurb:'Sky cults, solar worship, archaeoastronomy.',sources:{
-  ia:{name:'Archive',f:iaSrc({mt:'texts',extra:'(title:("astral religion" OR "solar cult" OR "star worship" OR archaeoastronomy OR "sky religion" OR "sun worship") OR subject:(archaeoastronomy OR "solar worship" OR "astral mythology" OR "sun worship"))',source:'Internet Archive',module:'astrorel'}),note:'Astral/solar religion & archaeoastronomy texts.'},
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'astrorel',['archaeoastronomy','solar cult','star worship','astral religion']),note:'Open Library.'}}},
- prophets:{half:'theo',name:'FORGOTTEN PROPHETS',icon:'🔔',blurb:'Messiahs, prophets & founders outside the main canons.',sources:{
-  ia:{name:'Archive',f:iaSrc({mt:'texts',extra:'(title:(messiah OR "false messiah" OR mahdi OR "religious founder" OR prophet) OR subject:(messianism OR prophets OR "religious leaders" OR "messianic movements"))',source:'Internet Archive',module:'prophets'}),note:'Messianic movements & lesser-known prophetic figures.'},
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'prophets',['messianic movements','false messiah','prophets history','religious founders']),note:'Open Library.'}}},
- suppressed:{half:'theo',name:'SUPPRESSED FAITHS',icon:'⛓',blurb:'Colonized, banned, and forcibly converted traditions.',sources:{
-  ia:{name:'Archive',f:iaSrc({mt:'texts',extra:'(title:("forced conversion" OR "religious persecution" OR "banned religion" OR syncretism) OR subject:("religious persecution" OR "forced conversion" OR syncretism OR "colonial religion") OR (religion AND (colonial OR suppressed OR persecution OR missionary)))',source:'Internet Archive',module:'suppressed'}),note:'Public histories of suppressed / colonized faiths.'},
-  openlib:{name:'Open Library',f:o=>openlibTheo(o,'suppressed',['religious persecution','forced conversion','colonial religion','suppressed religion','syncretism']),note:'Open Library.'}}},
-
+ /* ---- THEO: deep-mine engine in theo.js ---- */
+ ...THEO_MODULES,
  invento_soon:{half:'invento',name:'COMING SOON',icon:'⚙',blurb:'Patent vault, weird filings, trademark graveyard — shipping next. THEO is live now.',sources:{
   soon:{name:'Not yet mined',f:async ()=>[{module:'invento_soon',source:'Signal Miner',title:'INVENTO ships next',date:new Date().toISOString().slice(0,10),dateLabel:'status',count:null,countLabel:'',kind:'meta',mime:'status/note',
     preview:'INVENTO modules (expired patents, abandoned filings, wild frontier patents, trademark graveyard, modern-use matcher) are next after THEO. Dig THEO now.',

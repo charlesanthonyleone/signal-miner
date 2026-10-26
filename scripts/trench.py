@@ -51,25 +51,94 @@ def _try_public_stream(base):
             continue
     return None
 
+def _caltrans_cams(limit=14):
+    """Intentional public traffic CCTV stills from Caltrans open JSON (not scanned)."""
+    districts = ["d3/cctvStatusD03", "d11/cctvStatusD11", "d12/cctvStatusD12", "d8/cctvStatusD08", "d6/cctvStatusD06"]
+    random.shuffle(districts)
+    out = []
+    for dist in districts:
+        path, fname = dist.split("/")
+        url = f"https://cwwp2.dot.ca.gov/data/{path}/cctv/{fname}.json"
+        try:
+            rows = requests.get(url, headers=UA, timeout=60).json().get("data") or []
+        except Exception as e:
+            print("cameras caltrans", dist, e); continue
+        random.shuffle(rows)
+        for row in rows:
+            c = row.get("cctv") or row
+            if str(c.get("inService")).lower() != "true":
+                continue
+            loc = c.get("location") or {}
+            img = ((c.get("imageData") or {}).get("static") or {})
+            still = img.get("currentImageURL") or ""
+            if not still.startswith("http") or still in {x["url"] for x in out} or is_bad(still):
+                continue
+            place = loc.get("locationName") or loc.get("nearbyPlace") or "CA highway"
+            route = loc.get("route") or ""
+            county = loc.get("county") or ""
+            stream = (c.get("imageData") or {}).get("streamingVideoURL") or still
+            out.append({
+                "source": "Caltrans public CCTV",
+                "title": f"{place}"[:100],
+                "date": ((c.get("recordTimestamp") or {}).get("recordDate") or "")[:10],
+                "dateLabel": "frame",
+                "count": None, "countLabel": "",
+                "kind": "cam", "depth": depth(),
+                "mime": "image/jpeg", "thumb": still, "src": still,
+                "url": still,
+                "preview": f"still · image/jpeg\n{route} · {county}, CA\npublic highway CCTV (agency-published)",
+                "query": f"Caltrans open JSON {path}",
+                "extra": f"agency-published traffic cam · {place} · HLS: {stream[:80] if stream!=still else 'n/a'} · no auth · not scanned by us",
+                "module": "cameras",
+            })
+            if len(out) >= limit:
+                return out
+    return out
+
+def _noaa_goes_cams():
+    """Public NOAA GOES full-disk imagery (intentional broadcast, not a private cam)."""
+    out = []
+    for sat, label in [("GOES16", "GOES-East"), ("GOES18", "GOES-West")]:
+        for product, pname in [("GEOCOLOR", "GeoColor"), ("02", "Band 2 visible")]:
+            url = f"https://cdn.star.nesdis.noaa.gov/{sat}/ABI/FD/{product}/latest.jpg"
+            out.append({
+                "source": "NOAA NESDIS",
+                "title": f"{label} full disk · {pname}",
+                "date": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d"),
+                "dateLabel": "latest",
+                "count": None, "countLabel": "",
+                "kind": "cam", "depth": depth(),
+                "mime": "image/jpeg", "thumb": url, "src": url,
+                "url": url,
+                "preview": f"still · image/jpeg\nNOAA/{sat} ABI full disk\nagency weather satellite broadcast",
+                "query": f"cdn.star.nesdis.noaa.gov {sat} {product} latest",
+                "extra": "public NOAA satellite imagery · intentional broadcast · not a private IP cam",
+                "module": "cameras",
+            })
+    return out
+
 def cameras():
-    """Aggregate already-public camera pages from urlscan public search; verify no-auth."""
+    """Public camera stills/streams from agency indexes + verified urlscan media-only hits."""
+    out, seen = [], set()
+    # 1) Agency-published (reliable from Actions / Pages hosts)
+    for x in _caltrans_cams(12) + _noaa_goes_cams():
+        if x["url"] in seen: continue
+        seen.add(x["url"]); out.append(x)
+    # 2) urlscan index → verify unauthenticated media (often empty from cloud egress)
     queries = [
         'page.title:"Network Camera"',
         'page.title:"IPCam"',
-        'page.title:"IP Camera"',
         'page.url:mjpg OR page.url:mjpeg',
         'filename:video.mjpg',
         'page.title:"Live View / - AXIS"',
         'page.url:"/mjpg/video.mjpg"',
         'page.title:"WebcamXP"',
-        'page.title:"Yawcam"',
         'page.title:"MotionEye"',
     ]
-    out, seen = [], set()
     random.shuffle(queries)
-    for q in queries[:6]:
+    for q in queries[:4]:
         try:
-            r = requests.get("https://urlscan.io/api/v1/search/", params={"q": q, "size": 20}, headers=UA, timeout=40)
+            r = requests.get("https://urlscan.io/api/v1/search/", params={"q": q, "size": 15}, headers=UA, timeout=40)
             results = r.json().get("results", [])
         except Exception as e:
             print("cameras urlscan", q, e); results = []
@@ -82,7 +151,6 @@ def cameras():
             seen.add(url)
             hit = _try_public_stream(url)
             if not hit:
-                # try origin root
                 p = urlparse(url)
                 root = f"{p.scheme}://{p.netloc}/"
                 if root not in seen:
@@ -92,12 +160,10 @@ def cameras():
                 continue
             stream, ct, kind = hit
             loc = page.get("city") or page.get("country") or "?"
-            ip = page.get("ip") or ""
             server = page.get("server") or page.get("asnname") or ""
             thumb = stream if kind == "still" else ""
-            # For MJPEG, some browsers can use the stream URL as img — store as thumb only if still
             out.append({
-                "source": "Open Cameras (public index)",
+                "source": "Open Cameras (urlscan index)",
                 "title": (page.get("title") or urlparse(stream).netloc)[:100],
                 "date": (item.get("task", {}).get("time") or "")[:10],
                 "dateLabel": "indexed",
@@ -105,12 +171,12 @@ def cameras():
                 "kind": "cam", "depth": depth(),
                 "mime": ct, "thumb": thumb, "src": stream,
                 "url": stream,
-                "preview": f"{kind} · {ct}\n{loc} · {server}\nip {ip}".strip(),
+                "preview": f"{kind} · {ct}\n{loc} · {server}".strip(),
                 "query": f"urlscan {q}",
-                "extra": f"location/ISP: {loc} · {server} · via public urlscan index · no auth · not scanned by us",
+                "extra": f"location/ISP: {loc} · {server} · via public urlscan · media-verified · no auth · not scanned by us",
                 "module": "cameras",
             })
-            if len(out) >= 16:
+            if len(out) >= 20:
                 return out
         print("cameras", q, "total", len(out))
     return out
