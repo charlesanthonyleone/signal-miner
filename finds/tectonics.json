@@ -253,5 +253,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-10-26T20:11:00Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 2.20.185.0/24",
+  "date": "2026-10-26",
+  "dateLabel": "sampled",
+  "count": 270,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "1.5 km \u00b7 bathypelagic",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"2.20.185.0/24\",\n  \"origin\": \"20940\",\n  \"time\": \"2011-04-29T16:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"2.20.185.0/24\",\n  \"origin\": \"20940\",\n  \"time\": \"2026-10-26T08:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 270,\n   \"total_ris_peers\": 270\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 20940,\n   \"route_objects\": [\n    \"RIPE\"\n   ]\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/2.20.185.0/24",
+  "query": "RIPEstat routing-status 2.20.185.0/24",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-10-26T20:57:42Z"
  }
 ]

@@ -526,5 +526,245 @@
    ]
   ],
   "mined_at": "2026-10-26T20:14:44Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Gaming: Steam Deck Games, Terminal Based Games, and More",
+  "url": "https://portal.mozz.us/gemini/gemini.tuxmachines.org/n/2023/03/14/Gaming_Steam_Deck_Games_Terminal_Based_Games_and_More.gmi",
+  "gemini": "gemini://gemini.tuxmachines.org/n/2023/03/14/Gaming_Steam_Deck_Games_Terminal_Based_Games_and_More.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 5016,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gemini.tuxmachines.org",
+  "preview": "Tux Machines\n\n# Gaming: Steam Deck Games, Terminal Based Games, and More\n\nPosted by Roy Schestowitz on Mar 14, 2023,\nupdated Mar 14, 2023\n\n=>\t/n/2023/03/14/Android_Leftovers.1.gmi\tAndroid Leftovers\n=>\t/n/2023/03/14/Programming_Leftovers.1.gmi\tProgramming Leftovers\n\n=>\thttps://news.tuxmachines.org/i/2023/03/367677839id22440gol.thumbnail.jpg\t\u21ba Volcanoids\n\n###  Best Steam Deck Games Released in the Past Week, with Castlevania Advance Collection and Plan B Terraform \u2013 2023-03-12 Edition\n\n=>\thttps://boilingsteam.com/best-steam-deck-games-released-in-the-past-week-with-castlevania-advance-collection-and-plan-b-terraform-2023-03-12-edition/\t\u21ba Best Steam Deck Games Released in the Past Week, with Castlevania Advance Collection and Plan B Terraform \u2013 2023-03-12 Edition\n\n> Between 2023-03-05 and 2023-03-12 there were 111 new games validated for the Steam Deck.\n\n \n### 30 Best Terminal Based Games For Linux\n\n=>\thttps://itsubuntu.com/best-terminal-based-games-for-linux/\t\u21ba 30 Best Terminal Based Games For Linux\n\n> 30 Best Terminal-Based Games For Linux Without any delay, let's have a look at the list of best terminal-based games for Linux-based operating systems. 30 Best Terminal Based Games For",
+  "query": "gemini search \"relic\"",
+  "kw": "relic",
+  "extra": "capsule: gemini.tuxmachines.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gemini.tuxmachines.org/n/2023/03/14/Gaming_Steam_Deck_Games_Terminal_Based_Games_and_More.gmi"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:03:47Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Security Leftovers",
+  "url": "https://portal.mozz.us/gemini/gemini.tuxmachines.org/n/2023/12/06/Security_Leftovers.1.gmi",
+  "gemini": "gemini://gemini.tuxmachines.org/n/2023/12/06/Security_Leftovers.1.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 6246,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gemini.tuxmachines.org",
+  "preview": "Tux Machines\n\n# Security Leftovers\n\nPosted by Roy Schestowitz on Dec 06, 2023\n\n=>\t/n/2023/12/06/15_Best_Free_and_Open_Source_Linux_MySQL_Tools.gmi\t15 Best Free and Open Source Linux MySQL Tools\n=>\t/n/2023/12/06/CapyPDF_0_7_0_released.gmi\tCapyPDF 0.7.0 released\n\n\n### Pen Test Partners \u261b  OSINT. What can you find from a domain or company name\n\n=>\thttps://www.pentestpartners.com/security-blog/osint-what-can-you-find-from-a-domain-or-company-name/\t\u21ba OSINT. What can you find from a domain or company name\n\n> We carry out lots of attack surface assessments, parts of which involve investigating information that has been unintentionally disclosed.\n\n \n### Security Week \u261b  New Relic Says Hackers Accessed Internal Environment Using Stolen Credentials\n\n=>\thttps://www.securityweek.com/new-relic-says-hackers-accessed-internal-environment-using-stolen-credentials/\t\u21ba New Relic Says Hackers Accessed Internal Environment Using Stolen Credentials\n\n> New Relic said hackers gained access to an environment using social engineering and stolen credentials for an employee account.\n\n \n### Security Week \u261b  ICS at Multiple US Water Facilities Targeted by Hackers Affiliated With Iranian Government [Ed:  The iss",
+  "query": "gemini search \"relic\"",
+  "kw": "relic",
+  "extra": "capsule: gemini.tuxmachines.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gemini.tuxmachines.org/n/2023/12/06/Security_Leftovers.1.gmi"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:03:47Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "FOSS and IBM Leftovers",
+  "url": "https://portal.mozz.us/gemini/gemini.tuxmachines.org/n/2024/03/22/FOSS_and_IBM_Leftovers.gmi",
+  "gemini": "gemini://gemini.tuxmachines.org/n/2024/03/22/FOSS_and_IBM_Leftovers.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 6511,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gemini.tuxmachines.org",
+  "preview": "Tux Machines\n\n# FOSS and IBM Leftovers\n\nPosted by Roy Schestowitz on Mar 22, 2024\n\n=>\t/n/2024/03/22/In_Africa_in_Some_Countries_Windows_Measured_at_as_Low_as_2_in_.gmi\tIn Africa, in Some Countries, Windows Measured at as Low as 2% (in Some Countries Android Exceeds 90%)\n=>\t/n/2024/03/22/Steam_Family_Sharing_and_New_Steam_Games_with_Native_Linux_Clie.gmi\tSteam Family Sharing and New Steam Games with Native Linux Clients\n\n=>\thttps://news.tuxmachines.org/i/2024/03/typewriter-with-book-and-phone-1462563402hon.thumbnail.jpg\t\u21ba Typewriter With Book And Phone\n\n### Arun Raghavan \u261b Arun Raghavan: Asymptotic: A 2023 Review\n\n=>\thttps://arunraghavan.net/2024/03/asymptotic-a-2023-review/\t\u21ba Arun Raghavan: Asymptotic: A 2023 Review\n\n> It\u2019s been a busy few several months, but now that we have some breathing room, I wanted to take stock of what we have done over the last year or so.\n\n> This is a good thing for most people and companies to do of course, but being a scrappy, (questionably) young organisation, it\u2019s doubly important for us to introspect. This allows us to both recognise our achievements and ensure that we are accomplishing what we have set out to do.\n\n=>\thttps://asymptotic.io/blog/hello",
+  "query": "gemini search \"relic\"",
+  "kw": "relic",
+  "extra": "capsule: gemini.tuxmachines.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gemini.tuxmachines.org/n/2024/03/22/FOSS_and_IBM_Leftovers.gmi"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:03:47Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Theology",
+  "url": "https://portal.mozz.us/gemini/gemi.dev/cgi-bin/wp.cgi/view?Theology",
+  "gemini": "gemini://gemi.dev/cgi-bin/wp.cgi/view?Theology",
+  "date": "",
+  "dateLabel": "",
+  "count": 7923,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gemi.dev",
+  "preview": "# Theology\n=> /cgi-bin/wp.cgi/images?Theology Gallery: 5 images\n=> /cgi-bin/wp.cgi/search?Theology Other articles that mention 'Theology'\n\nTheology is the study of religious belief from a religious perspective, with a focus on the nature of divinity and the history behind religion. It is taught as an academic discipline, typically in universities and seminaries. It occupies itself with the unique content of analyzing the supernatural, but also deals with religious epistemology; moreover, it asks and seeks to answer the question of revelation, which pertains to the acceptance of deities, as not only transcendent or above the natural world, but also willing and able to interact with the natural world and to reveal themselves to humankind. \n\nTheologians use various forms of analysis and argument (experiential, philosophical, ethnographic, historical, and others) to help understand, explain, test, critique, defend or promote any myriad of religious topics. As in philosophy of ethics and case law, arguments often assume the existence of previously resolved questions, and develop by making analogies from them to draw new inferences in new situations. \n\nThe study of theology may help a th",
+  "query": "gemini search \"theology\"",
+  "kw": "theology",
+  "extra": "capsule: gemi.dev \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gemi.dev/cgi-bin/wp.cgi/view?Theology"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:03:47Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Videos: Free Software Advocate Corey Stephan, Postgres FM, TuxDigital Shows, and More",
+  "url": "https://portal.mozz.us/gemini/gemini.tuxmachines.org/n/2022/10/21/Videos_Free_Software_Advocate_Corey_Stephan_Postgres_FM_TuxDigi.gmi",
+  "gemini": "gemini://gemini.tuxmachines.org/n/2022/10/21/Videos_Free_Software_Advocate_Corey_Stephan_Postgres_FM_TuxDigi.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 3216,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gemini.tuxmachines.org",
+  "preview": "Tux Machines\n\n# Videos: Free Software Advocate Corey Stephan, Postgres FM, TuxDigital Shows, and More\n\nPosted by Roy Schestowitz on Oct 21, 2022\n\n=>\t/n/2022/10/21/Security_Microsoft_Failures_Patches_Fakes_and_More.gmi\tSecurity: Microsoft Failures, Patches, Fakes, and More\n=>\t/n/2022/10/21/FreeBSD_Quarterly_Status_Report_Third_Quarter_2022_The_FreeBSD_.gmi\tFreeBSD Quarterly Status Report Third Quarter 2022 | The FreeBSD Project\n\n\n\n### Theology Professor and Free Software Advocate, Corey Stephan Ph.D. - Invidious\n\n=>\thttps://yewtu.be/watch?v=GqC3ViXikLk\t\u21ba Theology Professor and Free Software Advocate, Corey Stephan Ph.D. - Invidious\n\n> While I often get to chat on camera with people in the free software space, usually those people devs or programmers or distro maintainers. But today I get a chance to talk to a theology professor who is also a huge advocate for free and open source software, especially in our schools and universities. Meet Dr. Corey Stephan...\n\n \n###  PostgreSQL: New podcast Postgres FM\n\n=>\thttps://www.postgresql.org/about/news/new-podcast-postgres-fm-2529/\t\u21ba PostgreSQL: New podcast Postgres FM\n\n> Postgres FM is a new weekly podcast about all things PostgreSQL, availa",
+  "query": "gemini search \"theology\"",
+  "kw": "theology",
+  "extra": "capsule: gemini.tuxmachines.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gemini.tuxmachines.org/n/2022/10/21/Videos_Free_Software_Advocate_Corey_Stephan_Postgres_FM_TuxDigi.gmi"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:03:47Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "IRC: #techbytes @ Techrights IRC Network: Friday, March 31, 2023",
+  "url": "https://portal.mozz.us/gemini/techrights.org/irc-gmi/irc-log-techbytes-310323.gmi",
+  "gemini": "gemini://techrights.org/irc-gmi/irc-log-techbytes-310323.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 8164,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "techrights.org",
+  "preview": "# IRC: #techbytes @ Techrights IRC Network: Friday, March 31, 2023\n=> / back to Techrights (Main Index)\n\n## beginning of new day, March 31\n00:50\t *psydruid (~psydruid@jevhxkzmtrbww.irc) has left #techbytes\n00:57\t *psydruid (~psydruid@jevhxkzmtrbww.irc) has joined #techbytes\n\n## 3 AM, March 31\n03:49\t *u-amarsh04 has quit (Quit: Konversation terminated!)\n\n## 5 AM, March 31\n05:16\tschestowitz[TR];                  Thu, 30 Mar 2023 14:10:56 +0000        http://ipkitten.blogspot.com/feeds/comments/default?alt=rss\n=> http://ipkitten.blogspot.com/feeds/comments/default?alt=rss \u21ba http://ipkitten.blogspot.com/feeds/comments/default?alt=rss\n05:16\tschestowitz[TR]; Mr Thomas, that is the entire point. I really do n... http://ipkitten.blogspot.com/2023/03/g-221-did-invention-as-originally.html?showComment=1680185456706#c8750193271176331591\n=> http://ipkitten.blogspot.com/2023/03/g-221-did-invention-as-originally.html?showComment=1680185456706#c8750193271176331591 \u21ba http://ipkitten.blogspot.com/2023/03/g-221-did-invention-as-originally.html?showComment=1680185456706#c8750193271176331591\n05:16\tschestowitz[TR]; <li><h5><a href=\"http://ipkitten.blogspot.com/2023/03/g-221-did-invention-as-originally.",
+  "query": "gemini search \"invention\"",
+  "kw": "invention",
+  "extra": "capsule: techrights.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://techrights.org/irc-gmi/irc-log-techbytes-310323.gmi"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:03:47Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Comment by \ud83d\ude80 clseibold",
+  "url": "https://portal.mozz.us/gemini/bbs.geminispace.org/u/clseibold/28718",
+  "gemini": "gemini://bbs.geminispace.org/u/clseibold/28718",
+  "date": "",
+  "dateLabel": "",
+  "count": 1385,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "bbs.geminispace.org",
+  "preview": "# Comment by \ud83d\ude80 clseibold\n\n=> /u/LucasMW/28715 Re: \"[https link] Web has infected a lot of other computer things\"\n=> /u/LucasMW In: u/LucasMW\n\nWhile I agree that the web stuff is getting ridiculous, it's factually incorrect to say \"CSS was invented to fix HTML\", and JS was invented to fix HTML/CSS. CSS wasn't invented to \"fix\" HTML, it was invented to style HTML separately so that you could apply different styles to the same page. And JS was invented to make pages more dynamic. Has nothing to do with \"fixing\" HTML or CSS.\n\nIt seems the article is being very anachronistic in saying this; they see problems with HTML, therefore CSS *must have* been invented to \"fix\" HTML. In reality, the problems that the article's writer might see with HTML are not the same problems that people saw during the time CSS was invented.\n\nI tend to be along the anti-web-technologies side for most things; I don't want HTML and CSS crap in all my applications. I don't want Electron stupidity. But this article just makes our side look bad, because the article is extremely badly argued right at the beginning. Those are just my feelings.\n\n=> /u/clseibold \ud83d\ude80 clseibold [\ud83d\udec2 Code of Conduct rule 1 violations]\n2025-05-",
+  "query": "gemini search \"invention\"",
+  "kw": "invention",
+  "extra": "capsule: bbs.geminispace.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://bbs.geminispace.org/u/clseibold/28718"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:03:47Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "\u25cf 03.23.09",
+  "url": "https://portal.mozz.us/gemini/techrights.org/2009/03/23/oin-tomtom-vs-msf/",
+  "gemini": "gemini://techrights.org/2009/03/23/oin-tomtom-vs-msf/",
+  "date": "",
+  "dateLabel": "",
+  "count": 4003,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "techrights.org",
+  "preview": "#\t\u25cf 03.23.09\n\n##\t\u25cf\u25cf Open Invention Network (OIN) Extends The Linux Ecosystem As TomTom Becomes Licensee\n\nPosted in Microsoft, OIN, Patents, TomTom at 1:54 pm by Dr. Roy Schestowitz\n\nDURHAM, NC (March 23, 2009) Open Invention Network (OIN), the company formed to enable and protect Linux, today extended the Linux ecosystem with the signing of TomTom as a licensee. By becoming a licensee, TomTom has joined the growing list of companies that recognize the importance of participating in a substantial community of Linux supporters and leveraging the Open Invention Network to further spur open source innovation.\n\n \u201cAs we look to enable the Linux Ecosystem, we are pleased to have TomTom become a licensee\u201d\u2013Keith Bergelt, OIN CEOPatents owned by Open Invention Network are available royalty-free to any company, institution or individual that agrees not to assert its patents against the Linux System. This enables companies to continue to make significant corporate and capital expenditure investments in Linux \u2013 helping to fuel economic growth. By developing a web of Linux developers, distributors, sellers, resellers and end-users that license its patent portfolio, Open Invention Network is crea",
+  "query": "gemini search \"invention\"",
+  "kw": "invention",
+  "extra": "capsule: techrights.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://techrights.org/2009/03/23/oin-tomtom-vs-msf/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:03:47Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Fractal Scales",
+  "url": "https://portal.mozz.us/gemini/thrig.me/blog/2025/08/15/fractal.gmi",
+  "gemini": "gemini://thrig.me/blog/2025/08/15/fractal.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 3773,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "thrig.me",
+  "preview": "# Fractal Scales\n\nSomeone pondered why there were not fractal tuning systems, or fractal scales. Alas, these sorts of things have already been invented, but may require digging around in the more esoteric corners of music theory.\n\n=> http://www.huygens-fokker.org/docs/scales.zip\n\nA first place to look is in the Scala scales database, which collects a large number of scales in one place and in a text format with comments,\n\n``` unix shell command input and output\n    $ grep -rli fractal .\n    ./dudon_aksand.scl\n    ./dudon_appalachian.scl\n    ./dudon_chiffonie.scl\n    ./dudon_isrep.scl\n    ./dudon_lucie.scl\n    ./dudon_timbila.scl\n    ./dudon_marovany.scl\n    ./dudon_meso-iph12.scl\n    ./dudon_meso-iph7.scl\n    ./dudon_natte.scl\n    ./dudon_tango.scl\n    ./dudon_x-slen_31.scl\n    ./miracle2m.scl\n    ./mitchell.scl\n    $ cat dudon_aksand.scl \n    ! dudon_aksand.scl\n    !\n    Fractal Aksaka - c sequence  (x^2 - x = 1/4), 16:20:24:29:35, plus 163\n     12\n    !\n     2/1\n     29/24\n     29/12\n     4/3\n     8/3\n     35/24\n     35/12\n     5/3\n     10/3\n     163/96\n     163/48\n     2/1\n```\n\nMost of these are fairly esoteric, though the \"dudon\" might eventually lead you to\n\n=> https://giant-o",
+  "query": "gemini search \"esoteric\"",
+  "kw": "esoteric",
+  "extra": "capsule: thrig.me \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://thrig.me/blog/2025/08/15/fractal.gmi"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:03:47Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "The Adocentyn Temple Almanac version 2 is released!",
+  "url": "https://portal.mozz.us/gemini/polyphanes.smol.pub/1732746060",
+  "gemini": "gemini://polyphanes.smol.pub/1732746060",
+  "date": "",
+  "dateLabel": "",
+  "count": 2116,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "polyphanes.smol.pub",
+  "preview": "```\r\n\u250c\u2500\u2577\u2500\u2510\r\n\u2575\u250c\u253c\u2510\u2575 polyphanes.smol.pub\r\n\u2577\u2514\u253c\u2518\u2577 by polyphanes\r\n\u2514\u2500\u2575\u2500\u2518\r\n```\r\n=> //polyphanes.smol.pub/ return to homepage\r\n=> //polyphanes.smol.pub/posts return to post index\r\n\r\n\u2500\u2500\u2500\u2562\u203b\u255f\u2500\u2500\u2500\n\n# The Adocentyn Temple Almanac version 2 is released!\n\nFor the more astrologically-inclined among y'all or those who want an edge on or a step up with timing their rituals, I have some great news!\r\n\r\nThe Adocentyn Temple Almanac (TATA) has released its second version, with a whole bunch of new features, customizations, and improvements! I mentioned the first version being released in February this year, but I've been working on getting a improved one put out to be released just in time for people to start planning their 2025, which is officially released as of today.\r\n\r\nTATA is a fine-tuned one-year almanac designed for mages, mystics, priests, pagans, and other spiritual workers who operate within a Hermetic or Western esoteric context. TATA comes packed with plenty of astronomical and astrological data including pre-made ritual window information for some Hermetic works, customized for your own specific location and data needs. This almanac is produced using the Swiss Ephemeris (Swisseph), the same ",
+  "query": "gemini search \"esoteric\"",
+  "kw": "esoteric",
+  "extra": "capsule: polyphanes.smol.pub \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://polyphanes.smol.pub/1732746060"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:03:47Z"
  }
 ]

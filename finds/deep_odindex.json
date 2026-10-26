@@ -2798,5 +2798,1265 @@
    ]
   ],
   "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.12.9.tar.gz",
+  "date": "2000-05-18 02:33",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "350K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/queue/queue-1.12.9.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 350K \u00b7 2000-05-18 02:33 \u00b7 in https://ftp.gnu.org/old-gnu/queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/queue/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "solfege-1.0.3.tar.gz",
+  "date": "2001-05-03 12:14",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "323K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/solfege/solfege-1.0.3.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 323K \u00b7 2001-05-03 12:14 \u00b7 in https://ftp.gnu.org/old-gnu/solfege/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/solfege/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/solfege/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.20.2.tar.gz",
+  "date": "2000-09-10 20:09",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "405K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/queue/queue-1.20.2.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 405K \u00b7 2000-09-10 20:09 \u00b7 in https://ftp.gnu.org/old-gnu/queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/queue/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "cons-test-2.2.0.tgz",
+  "date": "2000-12-22 11:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "100K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/cons/cons-test-2.2.0.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 100K \u00b7 2000-12-22 11:58 \u00b7 in https://ftp.gnu.org/old-gnu/cons/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cons/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/cons/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.11.tar.gz",
+  "date": "1999-01-22 14:56",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "337K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/queue/queue-1.11.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 337K \u00b7 1999-01-22 14:56 \u00b7 in https://ftp.gnu.org/old-gnu/queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/queue/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "solfege-1.2.1.tar.gz",
+  "date": "2001-09-11 13:20",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "323K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/solfege/solfege-1.2.1.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 323K \u00b7 2001-09-11 13:20 \u00b7 in https://ftp.gnu.org/old-gnu/solfege/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/solfege/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/solfege/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.12-p3.tar.gz",
+  "date": "1999-02-19 22:23",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "354K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/queue/queue-1.12-p3.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 354K \u00b7 1999-02-19 22:23 \u00b7 in https://ftp.gnu.org/old-gnu/queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/queue/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "dirent.tar.gz",
+  "date": "1990-09-13 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "14K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/dirent.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 14K \u00b7 1990-09-13 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "solfege-1.4.3.tar.gz",
+  "date": "2002-02-18 10:05",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "360K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/solfege/solfege-1.4.3.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 360K \u00b7 2002-02-18 10:05 \u00b7 in https://ftp.gnu.org/old-gnu/solfege/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/solfege/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/solfege/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "cons-2.2.0.tgz",
+  "date": "2000-12-22 11:57",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "196K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/cons/cons-2.2.0.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 196K \u00b7 2000-12-22 11:57 \u00b7 in https://ftp.gnu.org/old-gnu/cons/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cons/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/cons/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gas.README",
+  "date": "1994-10-14 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "105",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gas.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 105 \u00b7 1994-10-14 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.12.8.tar.gz",
+  "date": "1999-03-13 12:11",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "359K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/queue/queue-1.12.8.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 359K \u00b7 1999-03-13 12:11 \u00b7 in https://ftp.gnu.org/old-gnu/queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/queue/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "cons-test-2.0.2.tgz",
+  "date": "2000-12-22 11:53",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "85K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/cons/cons-test-2.0.2.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 85K \u00b7 2000-12-22 11:53 \u00b7 in https://ftp.gnu.org/old-gnu/cons/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cons/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/cons/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.12.7.tar.gz",
+  "date": "2000-05-13 01:37",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "357K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/queue/queue-1.12.7.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 357K \u00b7 2000-05-13 01:37 \u00b7 in https://ftp.gnu.org/old-gnu/queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/queue/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.10.tar.gz",
+  "date": "1999-01-13 11:42",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "336K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/queue/queue-1.10.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 336K \u00b7 1999-01-13 11:42 \u00b7 in https://ftp.gnu.org/old-gnu/queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/queue/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "malloc.tar.gz",
+  "date": "1995-01-19 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "39K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/malloc.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 39K \u00b7 1995-01-19 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.30.1.tar.gz",
+  "date": "2000-11-01 14:01",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "683K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/queue/queue-1.30.1.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 683K \u00b7 2000-11-01 14:01 \u00b7 in https://ftp.gnu.org/old-gnu/queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/queue/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.20.1.tar.gz",
+  "date": "2000-07-30 23:20",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "402K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/queue/queue-1.20.1.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 402K \u00b7 2000-07-30 23:20 \u00b7 in https://ftp.gnu.org/old-gnu/queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/queue/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue.patch.1.10-p0-1.11-p0.txt",
+  "date": "1999-01-22 15:15",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "99K",
+  "ftype": "text",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/queue/queue.patch.1.10-p0-1.11-p0.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "text \u00b7 99K \u00b7 1999-01-22 15:15 \u00b7 in https://ftp.gnu.org/old-gnu/queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/queue/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "solfege-1.4.4.tar.gz",
+  "date": "2002-03-11 15:02",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "360K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/solfege/solfege-1.4.4.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 360K \u00b7 2002-03-11 15:02 \u00b7 in https://ftp.gnu.org/old-gnu/solfege/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/solfege/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/solfege/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gphoto.README",
+  "date": "2002-04-26 12:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "568",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gphoto.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 568 \u00b7 2002-04-26 12:17 \u00b7 in https://ftp.gnu.org/old-gnu/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "solfege-1.0.2.tar.gz",
+  "date": "2001-05-03 12:13",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "323K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/solfege/solfege-1.0.2.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 323K \u00b7 2001-05-03 12:13 \u00b7 in https://ftp.gnu.org/old-gnu/solfege/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/solfege/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/solfege/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "cons-2.0.2.tgz",
+  "date": "2000-12-22 11:53",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "177K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/cons/cons-2.0.2.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 177K \u00b7 2000-12-22 11:53 \u00b7 in https://ftp.gnu.org/old-gnu/cons/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cons/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/cons/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README",
+  "date": "2000-09-17 16:40",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "726",
+  "ftype": "text",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/queue/README",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "text \u00b7 726 \u00b7 2000-09-17 16:40 \u00b7 in https://ftp.gnu.org/old-gnu/queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/queue/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "cons-2.0.1.tgz",
+  "date": "2000-12-22 11:53",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "178K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/cons/cons-2.0.1.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 178K \u00b7 2000-12-22 11:53 \u00b7 in https://ftp.gnu.org/old-gnu/cons/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cons/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/cons/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "solfege-1.0.5.tar.gz",
+  "date": "2001-06-14 11:02",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "325K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/solfege/solfege-1.0.5.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 325K \u00b7 2001-06-14 11:02 \u00b7 in https://ftp.gnu.org/old-gnu/solfege/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/solfege/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/solfege/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "solfege-1.0.1.tar.gz",
+  "date": "2001-04-12 15:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "315K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/solfege/solfege-1.0.1.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 315K \u00b7 2001-04-12 15:50 \u00b7 in https://ftp.gnu.org/old-gnu/solfege/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/solfege/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/solfege/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "RPM-GPG-KEY-EPEL-4",
+  "date": "03-Mar-2007 10:11",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1698",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/epel/RPM-GPG-KEY-EPEL-4",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 1698 \u00b7 03-Mar-2007 10:11 \u00b7 in https://ftp.ussg.iu.edu/linux/epel/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/epel/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/epel/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ls-lR.gz",
+  "date": "26-Oct-2026 09:32",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "37M",
+  "ftype": "other",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/ubuntu/ls-lR.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "other \u00b7 37M \u00b7 26-Oct-2026 09:32 \u00b7 in https://ftp.ussg.iu.edu/linux/ubuntu/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/ubuntu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/ubuntu/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "epel-release-latest-9.noarch.rpm",
+  "date": "23-Jun-2026 18:19",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "19K",
+  "ftype": "other",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/epel/epel-release-latest-9.noarch.rpm",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "other \u00b7 19K \u00b7 23-Jun-2026 18:19 \u00b7 in https://ftp.ussg.iu.edu/linux/epel/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/epel/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/epel/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "fullfilelist",
+  "date": "25-Oct-2026 22:34",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "52M",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/epel/fullfilelist",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 52M \u00b7 25-Oct-2026 22:34 \u00b7 in https://ftp.ussg.iu.edu/linux/epel/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/epel/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/epel/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "epel-release-latest-8.noarch.rpm",
+  "date": "22-Apr-2025 14:57",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "25K",
+  "ftype": "other",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/epel/epel-release-latest-8.noarch.rpm",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "other \u00b7 25K \u00b7 22-Apr-2025 14:57 \u00b7 in https://ftp.ussg.iu.edu/linux/epel/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/epel/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/epel/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "RPM-GPG-KEY-EPEL-6Server",
+  "date": "11-May-2010 21:25",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1649",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/epel/RPM-GPG-KEY-EPEL-6Server",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 1649 \u00b7 11-May-2010 21:25 \u00b7 in https://ftp.ussg.iu.edu/linux/epel/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/epel/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/epel/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "RPM-GPG-KEY-EPEL-7",
+  "date": "20-Jun-2014 14:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1662",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/epel/RPM-GPG-KEY-EPEL-7",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 1662 \u00b7 20-Jun-2014 14:54 \u00b7 in https://ftp.ussg.iu.edu/linux/epel/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/epel/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/epel/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "epel-next-release-latest-9.noarch.rpm",
+  "date": "23-Jun-2026 18:19",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "8023",
+  "ftype": "other",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/epel/epel-next-release-latest-9.noarch.rpm",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "other \u00b7 8023 \u00b7 23-Jun-2026 18:19 \u00b7 in https://ftp.ussg.iu.edu/linux/epel/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/epel/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/epel/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "RPM-GPG-KEY-EPEL-6",
+  "date": "11-May-2010 21:25",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1649",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/epel/RPM-GPG-KEY-EPEL-6",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 1649 \u00b7 11-May-2010 21:25 \u00b7 in https://ftp.ussg.iu.edu/linux/epel/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/epel/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/epel/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "RPM-GPG-KEY-EPEL",
+  "date": "03-Mar-2007 10:11",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1698",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/epel/RPM-GPG-KEY-EPEL",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 1698 \u00b7 03-Mar-2007 10:11 \u00b7 in https://ftp.ussg.iu.edu/linux/epel/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/epel/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/epel/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "imagelist-epel",
+  "date": "23-Nov-2016 14:20",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "0",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/epel/imagelist-epel",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 0 \u00b7 23-Nov-2016 14:20 \u00b7 in https://ftp.ussg.iu.edu/linux/epel/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/epel/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/epel/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "RPM-GPG-KEY-EPEL-7Server",
+  "date": "20-Jun-2014 14:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1662",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/epel/RPM-GPG-KEY-EPEL-7Server",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 1662 \u00b7 20-Jun-2014 14:54 \u00b7 in https://ftp.ussg.iu.edu/linux/epel/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/epel/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/epel/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "fullfiletimelist-epel",
+  "date": "25-Oct-2026 22:34",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "62M",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/epel/fullfiletimelist-epel",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 62M \u00b7 25-Oct-2026 22:34 \u00b7 in https://ftp.ussg.iu.edu/linux/epel/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/epel/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/epel/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "RPM-GPG-KEY-EPEL-10",
+  "date": "05-Sep-2024 21:27",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1656",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/epel/RPM-GPG-KEY-EPEL-10",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 1656 \u00b7 05-Sep-2024 21:27 \u00b7 in https://ftp.ussg.iu.edu/linux/epel/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/epel/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/epel/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "RPM-GPG-KEY-EPEL-5",
+  "date": "03-Mar-2007 10:11",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1698",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/epel/RPM-GPG-KEY-EPEL-5",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 1698 \u00b7 03-Mar-2007 10:11 \u00b7 in https://ftp.ussg.iu.edu/linux/epel/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/epel/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/epel/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "RPM-GPG-KEY-EPEL-8",
+  "date": "01-Aug-2019 13:21",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1627",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/epel/RPM-GPG-KEY-EPEL-8",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 1627 \u00b7 01-Aug-2019 13:21 \u00b7 in https://ftp.ussg.iu.edu/linux/epel/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/epel/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/epel/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "epel-release-latest-10.noarch.rpm",
+  "date": "23-Jun-2026 18:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "19K",
+  "ftype": "other",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/epel/epel-release-latest-10.noarch.rpm",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "other \u00b7 19K \u00b7 23-Jun-2026 18:18 \u00b7 in https://ftp.ussg.iu.edu/linux/epel/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/epel/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/epel/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "RPM-GPG-KEY-EPEL-9",
+  "date": "07-Sep-2021 12:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1656",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/epel/RPM-GPG-KEY-EPEL-9",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 1656 \u00b7 07-Sep-2021 12:54 \u00b7 in https://ftp.ussg.iu.edu/linux/epel/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/epel/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/epel/"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:01:32Z"
  }
 ]

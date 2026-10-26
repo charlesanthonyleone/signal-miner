@@ -1038,5 +1038,109 @@
    ]
   ],
   "mined_at": "2026-10-26T20:03:22Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "thesedays.jpg",
+  "date": "2019-08-01",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "27 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190801055323im_/http://www.angelfire.com/id/21booker/images/thesedays.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190801055323im_/http://www.angelfire.com/id/21booker/images/thesedays.jpg",
+  "url": "https://web.archive.org/web/20190801055323/http://www.angelfire.com/id/21booker/images/thesedays.jpg",
+  "query": "CDX angelfire.com/id/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 28118 bytes \u00b7 originally at http://www.angelfire.com/id/21booker/images/thesedays.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/id/21booker/images/thesedays.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:15:36Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "victor2.jpg",
+  "date": "2019-08-06",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "25 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190806023510im_/http://www.angelfire.com/id/100sqn/victor2.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190806023510im_/http://www.angelfire.com/id/100sqn/victor2.jpg",
+  "url": "https://web.archive.org/web/20190806023510/http://www.angelfire.com/id/100sqn/victor2.jpg",
+  "query": "CDX angelfire.com/id/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 26245 bytes \u00b7 originally at http://www.angelfire.com/id/100sqn/victor2.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/id/100sqn/victor2.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:15:36Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "familycastle.jpg",
+  "date": "2019-08-05",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "59 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190805071645im_/http://www.angelfire.com/id/90210bykris/images/familycastle.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190805071645im_/http://www.angelfire.com/id/90210bykris/images/familycastle.jpg",
+  "url": "https://web.archive.org/web/20190805071645/http://www.angelfire.com/id/90210bykris/images/familycastle.jpg",
+  "query": "CDX angelfire.com/id/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 60828 bytes \u00b7 originally at http://www.angelfire.com/id/90210bykris/images/familycastle.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/id/90210bykris/images/familycastle.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:15:36Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "welcome1.gif",
+  "date": "2004-03-29",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "9 KB",
+  "ftype": "image/gif",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20040329055352im_/http://www.angelfire.com/id/4UAE/images/welcome1.gif",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20040329055352im_/http://www.angelfire.com/id/4UAE/images/welcome1.gif",
+  "url": "https://web.archive.org/web/20040329055352/http://www.angelfire.com/id/4UAE/images/welcome1.gif",
+  "query": "CDX angelfire.com/id/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/gif \u00b7 9762 bytes \u00b7 originally at http://www.angelfire.com/id/4UAE/images/welcome1.gif",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/gif",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/id/4UAE/images/welcome1.gif"
+   ]
+  ],
+  "mined_at": "2026-10-26T21:15:36Z"
  }
 ]
