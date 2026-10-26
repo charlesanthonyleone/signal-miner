@@ -510,5 +510,37 @@
   "query": "CC-MAIN-2026-39 url=*.li/* page=2",
   "extra": "mime text/html \u00b7 status 200 \u00b7 host charm.li",
   "mined_at": "2026-10-26T17:17:41Z"
+ },
+ {
+  "source": "Common Crawl",
+  "title": "scholars.aku.edu/en/publications/a-modified-kampala-trauma-score-kts-effectively-predicts-mortalit/",
+  "date": "2026-09-08",
+  "dateLabel": "captured",
+  "count": 10725,
+  "countLabel": "bytes (warc)",
+  "kind": "meta",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "text/html",
+  "preview": "(open source link for live text \u2014 pre-mined metadata only)",
+  "url": "https://scholars.aku.edu/en/publications/a-modified-kampala-trauma-score-kts-effectively-predicts-mortalit/",
+  "query": "CC-MAIN-2026-39 url=*.edu/* page=6",
+  "extra": "mime text/html \u00b7 status 200 \u00b7 host scholars.aku.edu",
+  "mined_at": "2026-10-26T18:17:10Z"
+ },
+ {
+  "source": "Common Crawl",
+  "title": "scholars.aku.edu/en/publications/a-novel-noise-measuring-system-based-on-wsn/",
+  "date": "2026-09-06",
+  "dateLabel": "captured",
+  "count": 10426,
+  "countLabel": "bytes (warc)",
+  "kind": "meta",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "text/html",
+  "preview": "(open source link for live text \u2014 pre-mined metadata only)",
+  "url": "https://scholars.aku.edu/en/publications/a-novel-noise-measuring-system-based-on-wsn/",
+  "query": "CC-MAIN-2026-39 url=*.edu/* page=6",
+  "extra": "mime text/html \u00b7 status 200 \u00b7 host scholars.aku.edu",
+  "mined_at": "2026-10-26T18:17:10Z"
  }
 ]
