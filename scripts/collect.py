@@ -2,6 +2,7 @@ import json, os, random, datetime, requests, yt_dlp, sys
 sys.path.insert(0, os.path.join(os.path.dirname(__file__) or "."))
 from deep import deep_gopher, deep_opendir, deep_crawl
 from deeptext import deep_text
+from patents import mine_module, QUERIES as PQ
 from trench import cameras, satnogs, blockchain, tectonics, radiation, deep_space, hidden_in_files, time_skew
 
 UA={"User-Agent":"SignalMiner/2.0 (github actions; hobby project)"}
@@ -48,6 +49,39 @@ def wayback(kind):
             "query":f"CDX url={site}* mimetype={mt}","extra":f"{m} · {ln} bytes · original: {orig}"})
     return out
 
+def deep_video():
+    out=[]
+    for _ in range(2):
+        try: out+=wayback("video")
+        except Exception as e: print("dv wayback",e)
+    term=random.choice([f"{p} {random.randint(0,9999):04d}" for p in ["IMG","MVI","MOV","VID","DSC","GOPR","DSCF","PICT","100_","CIMG"]]+[f"{w} {random.randint(1990,2012)}" for w in ["camcorder tape","minidv transfer","hi8 transfer","flip video","cell phone video","webcam test"]])
+    try:
+        with yt_dlp.YoutubeDL({"quiet":True,"extract_flat":True,"skip_download":True}) as y:
+            r=y.extract_info(f"ytsearch40:{term}",download=False)
+        for e in r.get("entries",[]):
+            if e.get("id") and e.get("view_count") is not None and e["view_count"]<=100:
+                out.append({"source":"YouTube","title":e.get("title"),"date":"","dateLabel":"","count":e["view_count"],"countLabel":"views","thumb":f"https://i.ytimg.com/vi/{e['id']}/hqdefault.jpg","kind":"iframe","mime":"video/*",
+                  "src":f"https://www.youtube-nocookie.com/embed/{e['id']}","url":f"https://www.youtube.com/watch?v={e['id']}","query":f'ytsearch "{term}" views<=100',"extra":f"default-filename probe"+(f" · {e.get('duration')}s" if e.get('duration') else "")})
+    except Exception as e: print("dv yt",e)
+    return out
+
+IMGX=(".jpg",".jpeg",".gif",".png",".bmp")
+def deep_image():
+    out=[]
+    for _ in range(2):
+        try: out+=wayback("image")
+        except Exception as e: print("di wayback",e)
+    try:
+        from deeptext import _links, OPEN_SEEDS, _walk_any
+        for base in random.sample(OPEN_SEEDS,4)+[d["url"] for d in load("deep_opendir")[-4:] if "/wp-" not in d["url"]]:
+            where,imgs=_walk_any(base,IMGX)
+            print("di opendir",base,"->",where,len(imgs))
+            for u in random.sample(imgs,min(2,len(imgs))):
+                out.append({"source":"Open Directory image","title":u.split("/")[-1],"date":"","dateLabel":"","count":None,"countLabel":"","thumb":u,"kind":"img","mime":"image/*","src":u,"url":u,
+                  "query":f"random descent from {base}","extra":f"dir: {where}"})
+    except Exception as e: print("di opendir",e)
+    return out
+
 jobs=[
     ("deep_crawl", deep_crawl),
     ("deep_gopher", deep_gopher),
@@ -63,6 +97,22 @@ jobs=[
     ("youtube", lambda: yt("old tv")),
     ("youtube", lambda: yt("old film")),
     ("wayback_image", lambda: wayback("image")),
+    ("deep_video", deep_video),
+    ("invento_expired", lambda m="expired": mine_module(m)),
+    ("invento_abandoned", lambda m="abandoned": mine_module(m)),
+    ("invento_secret", lambda m="secret": mine_module(m)),
+    ("invento_wartech", lambda m="wartech": mine_module(m)),
+    ("invento_modernuse", lambda m="modernuse": mine_module(m)),
+    ("invento_formulas", lambda m="formulas": mine_module(m)),
+    ("invento_survival", lambda m="survival": mine_module(m)),
+    ("invento_dead", lambda m="dead": mine_module(m)),
+    ("invento_immortal", lambda m="immortal": mine_module(m)),
+    ("invento_mindctl", lambda m="mindctl": mine_module(m)),
+    ("invento_weather", lambda m="weather": mine_module(m)),
+    ("invento_aliens", lambda m="aliens": mine_module(m)),
+    ("invento_deterrent", lambda m="deterrent": mine_module(m)),
+
+    ("deep_image", deep_image),
     ("wayback_image", lambda: wayback("image")),
 ]
 

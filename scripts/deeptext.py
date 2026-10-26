@@ -73,41 +73,100 @@ def _warc_snip(row):
     except Exception as e: return ""
 
 CTLDS=[".nu",".is",".li",".ws",".md",".kg",".by",".ge",".am",".su",".tk",".ml",".fm",".museum",".coop",".aero",".int"]
-def cc_text(n=10):
-    out=[]
-    for _ in range(6):
-        if len(out)>=n: break
-        tld=random.choice(CTLDS)
+JUNKTXT=("robots.txt","ads.txt","app-ads.txt","security.txt","humans.txt","sitemap.txt","llms.txt","license.txt","readme.txt","changelog.txt")
+def _hosts_from_crawl():
+    try: d=json.load(open("finds/deep_crawl.json"))
+    except Exception: d=[]
+    h=list({x["url"].split("/")[2] for x in d if "://" in x.get("url","")})
+    random.shuffle(h); return h
+def _cdx_txt(host):
+    """Per-host text/plain captures: Common Crawl index first, Wayback CDX fallback (TLD-wide wildcards time out / need auth)."""
+    rows=[]
+    try:
+        r=requests.get(CC,params={"url":f"{host}/*","output":"json","limit":200,"filter":["mime:text/plain","status:200"]},headers=UA,timeout=40)
+        rows=[json.loads(l) for l in r.text.splitlines() if l.startswith("{")]
+        rows=[{"url":x["url"],"timestamp":x.get("timestamp",""),"length":x.get("length",0),"via":"Common Crawl"} for x in rows]
+    except Exception as e: print("cc host",host,e)
+    if not rows:
         try:
-            r=requests.get(CC,params={"url":f"*{tld}/*","output":"json","limit":60,"page":random.randint(0,4),"filter":["mime:text/plain","status:200"]},headers=UA,timeout=80)
-            rows=[json.loads(l) for l in r.text.splitlines() if l.startswith("{")]
-        except Exception as e: print("cc",tld,e); continue
-        rows=[x for x in rows if not is_bad(x.get("url","")) and not x["url"].endswith(("robots.txt","ads.txt","security.txt","humans.txt","sitemap.txt"))]
-        random.shuffle(rows)
-        for row in rows[:5]:
-            sn=_warc_snip(row)
-            if len(sn.strip())<60 or is_bad(sn): continue
-            b=bucket(row["url"]+" "+sn); ts=row.get("timestamp","")
-            out.append({"source":"Common Crawl text/plain","title":row["url"].split("://")[-1][:110],"date":f"{ts[:4]}-{ts[4:6]}-{ts[6:8]}","dateLabel":"captured",
-              "count":int(row.get("length",0)),"countLabel":"bytes (warc)","kind":"meta","depth":random.choice(DEPTHS),"mime":"text/plain","preview":sn,
-              "url":f"https://web.archive.org/web/{ts}/{row['url']}","query":f"{CC.split('/')[-1]} url=*{tld}/* mime:text/plain","bucket":b,
-              "extra":f"bucket: {b or 'unsorted'} · original: {row['url']} · host: {row['url'].split('/')[2]}"})
+            r=requests.get("https://web.archive.org/cdx/search/cdx",params={"url":f"{host}/*","filter":["mimetype:text/plain","statuscode:200"],"limit":200,"output":"json","collapse":"urlkey"},headers=UA,timeout=40)
+            j=r.json() if r.text.strip().startswith("[") else []
+            rows=[{"url":x[2],"timestamp":x[1],"length":x[6],"via":"Wayback CDX"} for x in j[1:]]
+        except Exception as e: print("wb host",host,e)
+    return [x for x in rows if not x.get("url","").lower().split("?")[0].endswith(JUNKTXT) and not is_bad(x["url"])]
+def cc_text(n=10, hosts=None):
+    out=[]; hosts=(hosts or _hosts_from_crawl())[:14]
+    for host in hosts:
+        if len(out)>=n: break
+        rows=_cdx_txt(host); random.shuffle(rows)
+        print("cc_text",host,len(rows))
+        for row in rows[:2]:
+            ts=row["timestamp"]
+            try: t=requests.get(f"https://web.archive.org/web/{ts}id_/{row['url']}",headers=UA,timeout=25).text[:3000]
+            except Exception: continue
+            if len(t.strip())<60 or is_bad(t) or "<html" in t[:300].lower(): continue
+            b=bucket(row["url"]+" "+t)
+            out.append({"source":row["via"]+" text/plain","title":row["url"].split("://")[-1][:110],"date":f"{ts[:4]}-{ts[4:6]}-{ts[6:8]}","dateLabel":"captured",
+              "count":int(row.get("length") or 0),"countLabel":"bytes","kind":"meta","depth":random.choice(DEPTHS),"mime":"text/plain","preview":t[:1500],
+              "url":f"https://web.archive.org/web/{ts}/{row['url']}","query":f"{row['via']} url={host}/* mime:text/plain (host from obscure-TLD crawl)","bucket":b,
+              "extra":f"bucket: {b or 'unsorted'} · original: {row['url']} · host: {host}"})
     return out
 
+TXT_EXT=(".txt",".nfo",".asc",".md",".text",".diz",".ascii",".doc",".1st",".me",".faq")
+def _istxt(f):
+    b=f.rsplit("/",1)[-1].lower()
+    return b.endswith(TXT_EXT) or ("." not in b and len(b)>2)
+def _links(url):
+    h=requests.get(url,headers=UA,timeout=15); body=h.text[:60000]
+    if "index of" not in body.lower() and "parent directory" not in body.lower(): return [],[]
+    L=[f.split("?")[0] for f in re.findall(r'href=["\']([^"\'#]+)["\']',body,flags=re.I)]
+    L=[f for f in L if not f.startswith(("?","/","..","http","mailto:"))]
+    return [f for f in L if f.endswith("/")],[f for f in L if _istxt(f)]
+OPEN_SEEDS=["http://cd.textfiles.com/","https://ftp.funet.fi/pub/culture/occult/","https://ftp.funet.fi/pub/culture/religion/","https://ftp.funet.fi/pub/culture/","https://www.ibiblio.org/pub/docs/","https://www.ibiblio.org/pub/academic/religion/","http://www.textfiles.com/"]
+def _walk_any(base,exts,depth=6):
+    path=base
+    for _ in range(depth):
+        try:
+            h=requests.get(path,headers=UA,timeout=15); body=h.text[:60000]
+        except Exception: return path,[]
+        if "index of" not in body.lower() and "parent directory" not in body.lower(): return path,[]
+        L=[f.split("?")[0] for f in re.findall(r'href=["\']([^"\'#]+)["\']',body,flags=re.I)]
+        L=[f for f in L if not f.startswith(("?","/","..","http","mailto:"))]
+        subs=[f for f in L if f.endswith("/")]; hits=[path+f for f in L if f.lower().endswith(exts)]
+        if hits and (not subs or random.random()<0.6): return path,hits
+        if not subs: return path,[]
+        path=path+random.choice(subs)
+    return path,[]
+def _walk(base,depth=6):
+    """Random descent through an open Index-of tree until text files appear."""
+    path=base
+    for _ in range(depth):
+        try: subs,txts=_links(path)
+        except Exception: return path,[]
+        if txts and (not subs or random.random()<0.6): return path,[path+t for t in txts]
+        if not subs: return path,[]
+        path=path+random.choice(subs)
+    return path,[]
 def opendir_text(dirs, n=8):
-    out=[]
-    for d in random.sample(dirs,min(8,len(dirs))):
-        names=[l.split("  [")[0] for l in d.get("preview","").splitlines()[1:] if l.endswith("[txt]") or l.endswith("[md]") or l.endswith("[nfo]")]
-        for nm in names[:2]:
-            u=d["url"].rstrip("/")+"/"+nm
-            try:
-                r=requests.get(u,headers=UA,timeout=15,stream=True); t=r.raw.read(4000,decode_content=True).decode("utf-8","replace")
-            except Exception: continue
-            if is_bad(u+t) or len(t.strip())<40: continue
-            b=bucket(nm+" "+t)
-            out.append({"source":"Open Directory .txt","title":nm,"date":d.get("date",""),"dateLabel":"seen","count":len(t),"countLabel":"chars read","kind":"meta",
-              "depth":random.choice(DEPTHS),"mime":"text/plain","preview":t[:1500],"url":u,"query":"Index of / → text file","bucket":b,"extra":f"bucket: {b or 'unsorted'} · dir: {d['url']}"})
+    """Random-walk public open directories (urlscan-found Index-of pages + long-lived public text mirrors) and read the first 4 KB of text files."""
+    out=[]; bases=[d["url"].split("?")[0] for d in dirs if "/wp-" not in d.get("url","")]
+    bases=[u if u.endswith("/") else u.rsplit("/",1)[0]+"/" for u in bases]
+    pool=random.sample(bases,min(4,len(bases)))+random.sample(OPEN_SEEDS*2,10)
+    for base in pool:
         if len(out)>=n: break
+        where,found=_walk(base); print("opendir",base,"->",where,len(found),"txt")
+        random.shuffle(found)
+        for u in [f for f in found if not f.lower().endswith(JUNKTXT)][:1]:
+            try:
+                r=requests.get(u,headers=UA,timeout=15,stream=True)
+                if "html" in r.headers.get("content-type","") or "octet" in r.headers.get("content-type","") and "." in u.rsplit("/",1)[-1]: continue
+                t=r.raw.read(4000,decode_content=True).decode("utf-8","replace")
+                if t.count("\ufffd")>20 or sum(c<" " and c not in "\r\n\t" for c in t)>40: continue
+            except Exception: continue
+            if is_bad(u+t) or len(t.strip())<40 or "<html" in t[:300].lower(): continue
+            b=bucket(u+" "+t)
+            out.append({"source":"Open Directory .txt","title":u.split("://")[-1][:110],"date":"","dateLabel":"seen","count":len(t),"countLabel":"chars read","kind":"meta",
+              "depth":random.choice(DEPTHS),"mime":"text/plain","preview":t[:1500],"url":u,"query":f"random descent from {base}","bucket":b,"extra":f"bucket: {b or 'unsorted'} · dir: {where}"})
     return out
 
 def deep_text(opendirs=()):

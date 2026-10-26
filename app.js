@@ -187,7 +187,7 @@ const MODULES={
   hidden:{name:'Forensics',f:logSrc('hidden','hidden'),note:'Scheduled analysis of mined images (EXIF, strings, GPS tags, impossible dates).'}}},
  tectonics:{half:'trench',name:'TECTONICS',icon:'🌐',blurb:'Live-ish BGP prefix announcements via RIPEstat.',sources:{
   ripe:{name:'BGP / RIPEstat',f:async o=>{try{const r=await ripeLive(o);if(r.length)return r}catch(e){console.warn(e)}return logSrc('tectonics','tectonics')(o)},note:'RIPEstat announced-prefixes + routing-status. Keyword = ASN number. Not a packet tap.'}}},
- radiation:{half:'trench',name:'RADIATION',icon:'📡',blurb:'Public darknet/telescope-style noise — botnet C2 samples.',sources:{
+ radiation:{half:'trench',name:'BOTNET / MALWARE FEED',icon:'📡',blurb:'BOTNET / MALWARE INFRASTRUCTURE FEED — known malware command-and-control IPs (abuse.ch Feodo Tracker). Reference only: do not visit these addresses.',sources:{
   feodo:{name:'Feodo / scan noise',f:logSrc('radiation','radiation'),note:'abuse.ch Feodo Tracker public JSON (scheduled). Indicators only — do not connect.'}}},
  timeskew:{half:'trench',name:'TIME SKEW',icon:'⏱',blurb:'Impossible timestamps across mined finds.',sources:{
   skew:{name:'Anomalies',f:logSrc('timeskew','timeskew'),note:'Flags pre-1970, unix-epoch defaults, and far-future dates in find metadata.'}}},
@@ -196,6 +196,7 @@ const MODULES={
  ...THEO_MODULES,
  ...INVENTO_MODULES,
  ...RELIQUARY_MODULES,
+ ...DEEPMEDIA_MODULES,
 };
 
 
@@ -317,7 +318,7 @@ function grid(sel,list){
  <button class="star rep" title="report" onclick="event.stopPropagation();report(LISTS['${sel}'][${i}])">⚑</button>
  <button class="star" onclick="event.stopPropagation();this.textContent=toggle(LISTS['${sel}'][${i}])?'★':'☆';topnav()">${V()[x.url]?'★':'☆'}</button>
  ${x.kind==='meta'?`<div class="thumb meta-thumb"><div class="depth">${esc(x.depth||'—')}</div><div class="fname">${esc(x.title)}</div><div class="ftype">${esc(x.mime||'file')}${x.count!=null?' · '+esc(x.count)+' '+(x.countLabel||''):''}</div></div>`
-  :`<div class="thumb" style="${x.thumb&&SAFE.thumbOK(x.thumb)?`background-image:url('${esc(x.thumb)}')`:''}">${x.thumb&&SAFE.thumbOK(x.thumb)?'':(x.kind==='cam'?'📷':MODULES[x.module]?.icon||'?')}</div>`}
+  :`<div class="thumb" style="${x.thumb&&SAFE.thumbOK(x.thumb,x)?`background-image:url('${esc(x.thumb)}')`:''}">${x.thumb&&SAFE.thumbOK(x.thumb,x)?'':(x.gated?'⚠':(x.kind==='cam'?'📷':MODULES[x.module]?.icon||'?'))}</div>`}
  <div class="meta"><div><span class="badge">${esc(x.source)}</span>${x.depth?`<span class="badge">${esc(x.depth)}</span>`:''}</div>
  <div class="t">${esc(x.title)}</div>
  <div>${x.date?esc(x.dateLabel+' '+x.date):'date n/a'}${x.count!=null&&x.kind!=='meta'?' · '+esc(x.count)+' '+esc(x.countLabel):''}</div>
