@@ -1,2 +1,14 @@
-# signal-miner
-Uncurated media miner: random low-view raw-filename public videos (Internet Archive, Wikimedia Commons in-browser; YouTube+Archive via scheduled Actions into finds.json).
+# Signal Miner
+
+Public-web miner on GitHub Pages: **LIVE · TRENCH · THEO · INVENTO**
+
+Live site: https://charlesanthonyleone.github.io/signal-miner/
+
+- **LIVE** — Archive, Commons, Dailymotion, Openverse, Met, Open Library, Gutenberg, YouTube & Wayback logs
+- **TRENCH** — Common Crawl, open dirs, gopher, gists, open cameras, SatNOGS, chain graffiti, BGP, radiation, hidden data, time-skew (no Tor; no scanning; no credentials)
+- **THEO** — Forgotten theology: manuscripts, Dead Sea / Nag Hammadi, apocrypha, Geniza, grimoires, marginalia, dead languages, heresies, clay tablets, comparative revelation (Archive.org, Open Library, Gutenberg, Sacred Texts)
+- **INVENTO** — Coming soon (patents / trademarks)
+
+Vault, disclaimer, and Report&hide (NCMEC / FBI / IC3 + GitHub issue) apply across all sections.
+
+Scheduled miner: `.github/workflows/mine.yml` → `scripts/collect.py` writes `finds/*.json`.

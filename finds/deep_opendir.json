@@ -118,5 +118,37 @@
   "url": "https://test.richgreenmasterscapital.com/",
   "query": "urlscan page.title:\"Index of /\"",
   "extra": "domain test.richgreenmasterscapital.com \u00b7 status 200"
+ },
+ {
+  "source": "Open Directory",
+  "title": "https://www.deltawst.us/",
+  "date": "2026-10-07",
+  "dateLabel": "seen",
+  "count": 0,
+  "countLabel": "files listed",
+  "kind": "meta",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "text/html",
+  "preview": "Index of / (filenames only)\n",
+  "url": "https://www.deltawst.us/",
+  "query": "urlscan page.title:\"Parent Directory\"",
+  "extra": "domain www.deltawst.us \u00b7 status 200",
+  "mined_at": "2026-10-26T17:17:53Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "https://deltawst.us/",
+  "date": "2026-10-07",
+  "dateLabel": "seen",
+  "count": 0,
+  "countLabel": "files listed",
+  "kind": "meta",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "text/html",
+  "preview": "Index of / (filenames only)\n",
+  "url": "https://deltawst.us/",
+  "query": "urlscan page.title:\"Parent Directory\"",
+  "extra": "domain deltawst.us \u00b7 status 200",
+  "mined_at": "2026-10-26T17:17:53Z"
  }
 ]

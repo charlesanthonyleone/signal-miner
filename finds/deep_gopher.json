@@ -106,5 +106,21 @@
   "query": "floodgap gateway gopher://gopher.floodgap.com/1/world/ka",
   "extra": "via public Floodgap HTTP gateway",
   "mined_at": "2026-10-26T16:03:49Z"
+ },
+ {
+  "source": "Gopher",
+  "title": "gopher.floodgap.com/1/",
+  "date": "",
+  "dateLabel": "",
+  "count": 1200,
+  "countLabel": "chars",
+  "kind": "meta",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "text/gopher",
+  "preview": "Floodgap Gopher-HTTP gateway gopher://gopher.floodgap.com/1/\n&nbsp;\nView in Gopher client\n |\nHELP! with proxy\n |\nwww.floodgap.com\n \nWelcome to Floodgap Systems' official gopher server.\n \nFloodgap has served the gopher community since 1999\n \n(formerly gopher.ptloma.edu).\n \n&nbsp;\n \nWe run Bucktooth 0.2.9 on xinetd as our server system.\n \ngopher.floodgap.com is an IBM Power 520 Express with a 2-way\n \n4.2GHz POWER6 CPU and 8GB of RAM, running AIX 6.1 +patches.\n \nSend gopher@floodgap.com your questions and suggestions.\n \n&nbsp;\n \n***********************************************************\n \n**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OVER 20 YEARS SERVING YOU!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**\n \n**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plain text is beautiful!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**\n \n***********************************************************\n \n&nbsp;\nDoes this gopher menu look correct?\n \n(plus using the Floodgap Public Gopher Proxy)\nAre you running a bot? Are we",
+  "url": "https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fgopher.floodgap.com%2F1%2F",
+  "query": "floodgap gateway gopher://gopher.floodgap.com/1/",
+  "extra": "via public Floodgap HTTP gateway",
+  "mined_at": "2026-10-26T17:17:50Z"
  }
 ]
