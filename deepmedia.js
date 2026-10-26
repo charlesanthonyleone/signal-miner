@@ -7,7 +7,7 @@ const cache={};
 async function L(file){if(!cache[file])cache[file]=fetch(`finds/${file}.json?`+Math.floor(Date.now()/6e5)).then(r=>r.ok?r.json():[]).catch(()=>[]);return cache[file]}
 const EXT=n=>{const e=(n.match(/\.([a-z0-9]{1,5})$/i)||[])[1]||'';e.toLowerCase();return /^(avi|mpe?g|mov|wmv|asf|rm|mp4|m4v|webm|flv|ogv|mkv)$/i.test(e)?'video':/^(jpe?g|gif|png|bmp|tiff?|webp|pcx)$/i.test(e)?'image':/^(txt|nfo|asc|doc|pdf|me|faq|ufo|her|aug|1st|diz|html?)$/i.test(e)?'text':/^(mp3|wav|mid|mod|ogg|au|ra)$/i.test(e)?'audio':'other'};
 // compact open-dir index rows [url,size,date] -> card
-const xp=r=>{const [u,size,date]=r,i=u.lastIndexOf('/'),parent=u.slice(0,i+1),name=decodeURIComponent(u.slice(i+1)),host=u.split('/')[2],k=EXT(name),g=k==='image'||k==='video';
+const xp=r=>{const [u,size,date]=r,i=u.lastIndexOf('/'),parent=u.slice(0,i+1),name=(s=>{try{return decodeURIComponent(s)}catch(e){return unescape(s)}})(u.slice(i+1)),host=u.split('/')[2],k=EXT(name),g=k==='image'||k==='video';
   return {source:'Open Directory',title:name,url:u,size,date,dateLabel:'listed',ftype:k,host,gated:g,kind:k==='image'?'img':k==='video'?'video':'link',thumb:k==='image'?u:'',src:g?u:'',
    query:'open-dir crawl of '+host,preview:`${k} · ${size||'? size'} · ${date||'no date'} · in ${parent}`,extra:'dir: '+parent,links:[['parent dir ↗',parent]]}};
 async function LX(file){if(file!=='odbig')return L(file);if(!cache.odbigx)cache.odbigx=L('odbig').then(a=>(a||[]).map(xp));return cache.odbigx}
