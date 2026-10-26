@@ -37,6 +37,15 @@ if __name__=="__main__":
 import re, requests, urllib.parse
 THEMES=["ufo","occult","vhs","conspiracy","paranormal","ghost","bbs","zine","textfiles","shortwave","numbers station","radio","tv","cult","esoteric","folklore","cryptid","mpg","avi","scans","newsletter","fanzine","mythology","magick","alchemy","tarot","psychic","cold war","propaganda","pulp","comics","amiga","demoscene","cassette","8mm","home movies","public domain film","sci-fi","horror","video","movies","midi","mod tracker","ham radio","astronomy"]
 NOHOST=re.compile(r"xxx|porn|sex|nude|adult|reddit|github|wikipedia|stackoverflow|bing\.|google\.|youtube|facebook|archive\.org|ubuntu|debian|centos|fedora|kernel\.org|pypi|npmjs|maven|\.(gov|mil)/",re.I)
+JUNKURL=re.compile(r"wp-content|/uploads?/|cgi-bin|\.php|\.aspx?|/tag/|/category/|blogspot|wordpress|/cache/|/tmp/|/logs?/|/backup|torrent|1080p|720p|x264|\.(ru|cn|tk|ml|ga|cf|gq|top|xyz|icu|buzz)/",re.I)
+GOODHOST=re.compile(r"\.(edu|ac\.[a-z]{2}|museum)/|^https?://(ftp|mirror|archive|library|files?)\.|/pub/|/ebooks?/|/texts?/|/library/",re.I)
+def quality(u,L):
+    """0-5: prefer academic/mirror hosts and listings full of documents/media rather than site assets."""
+    names=[str(x.get("name") if isinstance(x,dict) else x) for x in L]
+    docs=sum(bool(re.search(r"\.(txt|pdf|doc|rtf|html?|zip|mp3|ogg|mpe?g|avi|mov|jpe?g|gif|png|tif|djvu|epub)$",n,re.I)) for n in names)
+    assets=sum(bool(re.search(r"\.(js|css|php|map|woff2?|svg|ico)$|^(thumbs?|cache|tmp)",n,re.I)) for n in names)
+    q=(2 if GOODHOST.search(u) else 0)+(2 if docs>=max(5,len(names)//4) else 1 if docs else 0)+(1 if len(names)>=40 else 0)-(2 if assets>len(names)//3 else 0)
+    return max(0,min(5,q))
 def discover_hosts(n=6,known=()):
     found={}
     for kw in random.sample(THEMES,n):
@@ -45,7 +54,7 @@ def discover_hosts(n=6,known=()):
             t=requests.get("https://www.bing.com/search",params={"q":q,"format":"rss","count":30},headers={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) Chrome/120"},timeout=25).text
             for u in re.findall(r"<link>(https?://[^<]+)</link>",t):
                 u=urllib.parse.unquote(u)
-                if NOHOST.search(u) or SPAM.search(u) or BAD.search(u) or u in known: continue
+                if NOHOST.search(u) or SPAM.search(u) or BAD.search(u) or JUNKURL.search(u) or u in known: continue
                 found.setdefault(u,kw)
         except Exception as e: print("bing",kw,type(e).__name__)
         time.sleep(2)
@@ -53,6 +62,8 @@ def discover_hosts(n=6,known=()):
     for u,kw in list(found.items())[:40]:
         try:
             L=listing(u if u.endswith("/") else u.rsplit("/",1)[0]+"/")
-            if L and len(L)>=3: ok.append({"root":u if u.endswith("/") else u.rsplit("/",1)[0]+"/","kw":kw,"n":len(L),"found":time.strftime("%Y-%m-%d")})
+            if not L or len(L)<10: continue
+            q=quality(u,L)
+            if q>=2: ok.append({"root":u if u.endswith("/") else u.rsplit("/",1)[0]+"/","kw":kw,"n":len(L),"q":q,"found":time.strftime("%Y-%m-%d"),"via":"bing rss discovery (auto-verified)"})
         except Exception: pass
     print("discovered",len(found),"verified",len(ok)); return ok

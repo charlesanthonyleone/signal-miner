@@ -312,7 +312,8 @@ function render(){document.body.className=(state.half||state.m||'home');topnav()
 
 async function dig(){const o={kw:$('#kw').value.trim(),y1:+$('#y1').value||1900,y2:+$('#y2').value||2026,raw:!!$('#raw').value};localStorage.y1=o.y1;localStorage.y2=o.y2;localStorage.raw=o.raw?'1':'';
  const S=MODULES[state.m].sources[state.s],tag=state.m+state.s;$('#scan').classList.add('on');$('#st').textContent=`scanning ${S.name}…`;$('#grid').innerHTML='';
- const {res,err,note}=await mineWithRetry(S,o,m=>{$('#st').textContent=m});
+ const st0=NET.stale||0,gf0=NET.gistFallback;NET.gistFallback=false;let {res,err,note}=await mineWithRetry(S,o,m=>{$('#st').textContent=m});
+ if((NET.stale||0)>st0)note=(note||'')+'⚠ live source slow/down — showing last cached response · ';if(NET.gistFallback)note=(note||'')+'⚠ GitHub rate-limited — showing Action-harvested gists · ';
  if(tag!==state.m+state.s)return;$('#scan').classList.remove('on');items=res;
  $('#st').textContent=res.length?`${note}${res.length} finds · ${new Date().toLocaleTimeString()} · query: ${res[0].query}`:(err?'source error: '+err:'0 finds');grid('#grid',res);if(!res.length)$('#grid').innerHTML=`<div class="empty"><b>Nothing surfaced from ${esc(S.name)}${o.kw?` for “${esc(o.kw)}”`:''}.</b><br>${err?'The source failed to answer ('+esc(String(err))+') — it may be rate-limiting or down. ':''}${o.kw?'Try a broader or different keyword, or clear it for a random dig. ':'Random digs vary — press ⛏ MINE again. '}${/finds\//.test(S.f.toString())||S.note&&/3h|pre-?(mined|harvest)/i.test(S.note)?'This source is pre-harvested by the scheduled miner every 3 hours, so a fresh pool may still be filling. ':''}Other tabs: ${Object.entries(MODULES[state.m].sources).filter(([k])=>k!==state.s).map(([k,x])=>`<a href="#${state.half}/${state.m}/${k}">${esc(x.name)}</a>`).join(' · ')||'—'}</div>`}
 

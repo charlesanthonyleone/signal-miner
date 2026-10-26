@@ -39,7 +39,8 @@ SITES=["geocities.com/Hollywood/","geocities.com/SoHo/","geocities.com/TimesSqua
 
 from gemini import gemini_find
 from grayspace import opendir_index, cdx_media, gray_media
-def deep_video(): return cdx_media("video",14,10)+gray_media("video")
+def deep_video():
+    import vidharvest; return vidharvest.harvest(900)+vidharvest.opendir_videos(40)+gray_media("video")
 def deep_image():
     import skin; return skin.prescreen(cdx_media("image",14,8)+gray_media("image"))
 
