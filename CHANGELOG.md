@@ -32,3 +32,4 @@
 - INVENTO: weather queries rewritten (artificial rain, cloud seeding, hail cannon, fog dissipation…), title-gated filters for aliens/weather/dead, a negative filter for off-theme hits, and a fix for double-escaped regexes. Dead now finds ouija boards, coffin alarms and premature-burial devices.
 - DEEP TEXT: spam/blocklist screen on every text find. Common Crawl text now reads WARC byte ranges over curated obscure text hosts.
 - Fixed a quote syntax error in deepmedia.js. Vault save/view, empty states and the moderation portal were verified in a headless browser.
+- THEO "gray" sources now also mine the open-directory filename index by theme regex (lostciv gray: 0 → 1; 18/20 theo gray sources non-empty).

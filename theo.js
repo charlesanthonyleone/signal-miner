@@ -47,7 +47,14 @@ function theoGist(module){return async o=>{const r=await gistList(1+Math.floor(M
 // gray-space text pre-mined by Action: gopherspace (Veronica-2), Common Crawl text/plain, open-dir .txt
 const GRAY={};function theoGray(module){return async o=>{GRAY.d??=await fetch('finds/deep_text.json?'+Date.now()).then(r=>r.json()).catch(()=>[]);
   let L=GRAY.d.filter(x=>!o.kw||JSON.stringify(x).toLowerCase().includes(o.kw.toLowerCase()));
-  const mine=L.filter(x=>x.bucket===module),rest=L.filter(x=>x.bucket&&x.bucket!==module);return (o.kw?[...sh(mine),...sh(rest)]:sh(mine)).slice(0,30).map(x=>({...x,module}))}}
+  const mine=L.filter(x=>x.bucket===module),rest=L.filter(x=>x.bucket&&x.bucket!==module);
+  // Pass 4: also mine the open-directory filename index for on-theme documents (grayspace, not archive.org)
+  GRAY.od??=await fetch('finds/odbig.json?'+Math.floor(Date.now()/6e5)).then(r=>r.json()).catch(()=>[]);
+  const re=o.kw?new RegExp(o.kw.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'i'):(T[module]&&T[module].re);
+  const nm=u=>{try{return decodeURIComponent(u.split('/').slice(-2).join(' / '))}catch(e){return u.split('/').slice(-2).join(' / ')}};
+  const od=re?GRAY.od.filter(r=>/\.(txt|pdf|html?|doc|rtf|epub|djvu|zip)$/i.test(r[0])&&re.test(nm(r[0]).replace(/[_+.\-]+/g,' '))).map(([u,size,date])=>({module,source:'Open Directory (index)',title:nm(u),date:(date||'').slice(0,10),dateLabel:'listed',count:null,countLabel:'',
+    thumb:'',kind:'link',src:'',url:u,preview:`${size||'?'} · in ${u.replace(/[^/]*$/,'')}`,query:'open-dir filename index · theme regex',extra:'bucket: '+(T[module]?T[module].name:module)+' · host: '+u.split('/')[2]})):[];
+  return [...sh(o.kw?[...mine,...rest]:mine).slice(0,20).map(x=>({...x,module})),...sh(od).slice(0,16)].slice(0,30)}}
 
 // --- Open Library: subject queries
 function theoOL(T,module){return async o=>{
