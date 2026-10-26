@@ -31,6 +31,7 @@ SITES=["geocities.com/Hollywood/","geocities.com/SoHo/","geocities.com/TimesSqua
        "geocities.com/SunsetStrip/","geocities.com/EnchantedForest/","geocities.com/Athens/","geocities.com/CapeCanaveral/","members.aol.com/","angelfire.com/",
        "members.tripod.com/","geocities.com/Colosseum/","geocities.com/Paris/","geocities.com/Yosemite/"]
 
+from gemini import gemini_find
 from grayspace import opendir_index, cdx_media, gray_media
 def deep_video(): return cdx_media("video",14,10)+gray_media("video")
 def deep_image(): return cdx_media("image",14,8)+gray_media("image")
@@ -51,6 +52,7 @@ jobs=[
     ("youtube", lambda: yt("old film")),
     ("wayback_image", lambda: cdx_media("image",10,4)),
     ("deep_odindex", opendir_index),
+    ("deep_gemini", gemini_find),
     ("deep_video", deep_video),
     ("invento_expired", lambda m="expired": mine_module(m)),
     ("invento_abandoned", lambda m="abandoned": mine_module(m)),

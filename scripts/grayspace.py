@@ -1,5 +1,8 @@
 """Grayspace open-directory index + grayspace media (no archive.org items; Wayback CDX only for dead-host captures)."""
 import re, random, json, time, urllib.parse, requests
+DEAD=[0]
+def budget(sec): DEAD[0]=time.time()+sec
+def late(): return DEAD[0] and time.time()>DEAD[0]
 UA={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) SignalMiner/1.0 (+github.com/charlesanthonyleone/signal-miner)"}
 VIDX=(".avi",".mpg",".mpeg",".mov",".wmv",".asf",".rm",".ram",".mp4",".m4v",".webm",".flv",".3gp",".ogv",".mkv",".vob",".divx")
 IMGX=(".jpg",".jpeg",".gif",".png",".bmp",".tif",".tiff",".webp",".pcx")
@@ -17,7 +20,7 @@ def kind(name):
 def get(u,t=20,tries=2):
     for i in range(tries):
         try:
-            r=requests.get(u,headers=UA,timeout=t); return r
+            r=requests.get(u,headers=UA,timeout=(8,t)); return r
         except Exception as e: err=e; time.sleep(2)
     raise err
 ROW=re.compile(r'<a href="([^"?#][^"]*)"[^>]*>([^<]*)</a>\s*(?:</td>\s*<td[^>]*>)?\s*([0-9]{1,4}[-/][0-9A-Za-z]{2,3}[-/][0-9]{2,4}[ T]?[0-9:]{0,8})?\s*(?:</td>\s*<td[^>]*>)?\s*([0-9.]+[KMGT]?|-)?',re.I)
@@ -58,7 +61,7 @@ def urlscan_dirs(n=60):
 def crawl_dir(url,kw=None,depth=2,budget=6):
     """List a dir, then descend into subdirs (keyword-matching first)."""
     files,q,seen=[],[(url,0)],set()
-    while q and budget>0:
+    while q and budget>0 and not late():
         u,d=q.pop(0)
         if u in seen: continue
         seen.add(u); budget-=1
@@ -80,7 +83,7 @@ def card(f,via):
       "url":f["url"],"mime":k+"/*","query":via,"kw":f.get("kw",""),"preview":f"{k} · {f['size'] or '? size'} · {f['date'] or 'no date'} · in {f['parent']}",
       "extra":f"host: {f['host']} · dir: {f['parent']}","links":[["parent dir ↗",f["parent"]]]}
 def opendir_index(n_kw=5):
-    out=[]
+    budget(600); out=[]
     for kw in random.sample(KEYWORDS,n_kw):
         for d in discover(kw)[:6]:
             fs=crawl_dir(d,kw,depth=1,budget=3); print("  kwdir",kw,d,len(fs))
@@ -112,12 +115,14 @@ def seed_hosts():
     except Exception: pass
     random.shuffle(H); return H
 def cdx_media(kind,want=12,tries=8):
+    budget(300)
     mt="video/.*" if kind=="video" else "image/(gif|jpeg|png)"
     out=[]
     for host in seed_hosts()[:tries]:
         p={"url":host,"matchType":"prefix","filter":[f"mimetype:{mt}","statuscode:200"],"limit":300,"output":"json","fl":"timestamp,original,mimetype,length","collapse":"urlkey"}
         rows=[]
-        for t in (60,90):
+        if late(): break
+        for t in (40,):
             try:
                 txt=requests.get("https://web.archive.org/cdx/search/cdx",params=p,headers=UA,timeout=t).text.strip()
                 rows=json.loads(txt)[1:] if txt.startswith("[") else []; break
@@ -136,7 +141,7 @@ def cdx_media(kind,want=12,tries=8):
     return out
 def gray_media(kind):
     """Media files from the open-directory index and gopher/crawl finds."""
-    out=[]
+    budget(180); out=[]
     try:
         for x in json.load(open("finds/deep_opendir.json")):
             if x.get("ftype")==kind: out.append(x)

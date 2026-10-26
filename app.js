@@ -309,7 +309,7 @@ async function dig(){const o={kw:$('#kw').value.trim(),y1:+$('#y1').value||1900,
  const S=MODULES[state.m].sources[state.s],tag=state.m+state.s;$('#scan').classList.add('on');$('#st').textContent=`scanning ${S.name}…`;$('#grid').innerHTML='';
  const {res,err,note}=await mineWithRetry(S,o,m=>{$('#st').textContent=m});
  if(tag!==state.m+state.s)return;$('#scan').classList.remove('on');items=res;
- $('#st').textContent=res.length?`${note}${res.length} finds · ${new Date().toLocaleTimeString()} · query: ${res[0].query}`:(err?'source error: '+err:'no signal — try again');grid('#grid',res)}
+ $('#st').textContent=res.length?`${note}${res.length} finds · ${new Date().toLocaleTimeString()} · query: ${res[0].query}`:(err?'source error: '+err:'0 finds');grid('#grid',res);if(!res.length)$('#grid').innerHTML=`<div class="empty"><b>Nothing surfaced from ${esc(S.name)}${o.kw?` for “${esc(o.kw)}”`:''}.</b><br>${err?'The source failed to answer ('+esc(String(err))+') — it may be rate-limiting or down. ':''}${o.kw?'Try a broader or different keyword, or clear it for a random dig. ':'Random digs vary — press ⛏ MINE again. '}${/finds\//.test(S.f.toString())||S.note&&/3h|pre-?(mined|harvest)/i.test(S.note)?'This source is pre-harvested by the scheduled miner every 3 hours, so a fresh pool may still be filling. ':''}Other tabs: ${Object.entries(MODULES[state.m].sources).filter(([k])=>k!==state.s).map(([k,x])=>`<a href="#${state.half}/${state.m}/${k}">${esc(x.name)}</a>`).join(' · ')||'—'}</div>`}
 
 function grid(sel,list){
  list=SAFE.filter(list);$(sel).innerHTML=list.map((x,i)=>`<div class="card ${x.kind==='meta'?'meta':''}" style="animation-delay:${i*40}ms" onclick="openF('${sel}',${i})">
