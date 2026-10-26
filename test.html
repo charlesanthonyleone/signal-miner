@@ -1,0 +1,10 @@
+<!doctype html><html><head><meta charset="utf-8"><title>source self-test</title></head><body style="font-family:monospace;background:#000;color:#7f7"><h3>Signal Miner source self-test (runs live from this browser)</h3><pre id="o">running…</pre>
+<main></main><nav></nav><div id="mb"></div><div id="modal"></div>
+<script src="app.js"></script><script>
+(async()=>{const out=[];const t0=Date.now();const jobs=[];
+for(const [m,M] of Object.entries(MODULES))for(const [k,S] of Object.entries(M.sources))jobs.push((async()=>{const row=[m,k];
+ for(const [lbl,o] of [['random-raw',{kw:'',raw:true}],['random-any',{kw:'',raw:false}],['keyword',{kw:m==='video'&&k==='youtube'?'IMG':'dog',raw:false}]]){
+  const s=Date.now();const r=await mineWithRetry(S,{y1:1900,y2:2026,...o});row.push(`${lbl}:${r.res.length?'PASS':'FAIL'}(${r.res.length}${r.note?',loosened':''},${((Date.now()-s)/1000).toFixed(0)}s${r.err?','+r.err.slice(0,50):''})`)}
+ out.push(row.join(' | '))})());
+await Promise.all(jobs);document.getElementById('o').textContent=out.sort().join('\n')+`\nDONE ${((Date.now()-t0)/1000).toFixed(0)}s`})();
+</script></body></html>

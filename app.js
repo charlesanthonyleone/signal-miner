@@ -4,7 +4,7 @@ const J=async u=>{const r=await fetch(u);if(!r.ok)throw new Error(r.status+' '+u
 const shuffle=a=>a.map(x=>[Math.random(),x]).sort((a,b)=>a[0]-b[0]).map(x=>x[1]);
 const WORDS=["river","street","kitchen","party","dog","car","beach","snow","garden","school","church","train","birthday","night","city","farm","lake","road","bridge","market","house","window","forest","boat","horse","concert","rain","mountain","family","factory"];
 const RAWV=["IMG_*","MVI_*","DSC*","VID_*","MOV*","GOPR*","video*","untitled","clip*","DSCF*"];
-const yr=(o)=>o.kw?`publicdate:[${o.y1}-01-01T00:00:00Z TO ${o.y2}-12-31T23:59:59Z]`:(y=>`publicdate:[${y}-01-01T00:00:00Z TO ${y}-12-31T23:59:59Z]`)(rnd(Math.max(o.y1,2002),o.y2));
+const yr=(o)=>(o.kw||o.loose)?`publicdate:[${o.y1}-01-01T00:00:00Z TO ${o.y2}-12-31T23:59:59Z]`:(y=>`publicdate:[${y}-01-01T00:00:00Z TO ${y}-12-31T23:59:59Z]`)(rnd(Math.max(o.y1,2002),o.y2));
 const inYears=(d,o)=>{const y=parseInt(d);return !y||(y>=o.y1&&y<=o.y2)};
 
 /* ---------- Internet Archive (generic) ---------- */
@@ -90,6 +90,12 @@ const MODULES={
   openverse:{name:'Openverse',f:openverse('audio'),note:'Openly licensed audio (Freesound, Jamendo, etc.) via Openverse.'},
   commons:{name:'Wikimedia Commons',f:commonsSrc('audio','audio'),note:'Commons audio files.'}}}};
 
+/* ---------- retry / loosen ---------- */
+async function mineWithRetry(S,o,say=()=>{}){const steps=[{},{},{loose:1},{loose:1,raw:false},{loose:1,raw:false,y1:1900,y2:2026},{loose:1,raw:false,y1:1900,y2:2026}];
+ let err='';for(let i=0;i<steps.length;i++){const q={...o,...steps[i]};if(i)say(`no hits, loosening filters (try ${i+1}/${steps.length})…`);
+  try{const r=await S.f(q);if(r.length)return{res:r,err:'',note:i>=2?`[filters loosened: ${q.raw?'':'raw off, '}${q.loose?'full year range':''}] `:''}}catch(e){err=e.message;await new Promise(r=>setTimeout(r,600))}}
+ return{res:[],err,note:''}}
+
 /* ---------- vault ---------- */
 const V=()=>JSON.parse(localStorage.vault||'{}'),saveV=v=>localStorage.vault=JSON.stringify(v);
 function toggle(it){const v=V();v[it.url]?delete v[it.url]:v[it.url]={...it,saved_at:new Date().toISOString()};saveV(v);return !!v[it.url]}
@@ -110,9 +116,9 @@ function render(){document.body.className=state.m;nav();if(state.m==='vault')ret
  $('#raw').value=localStorage.raw??'1';$('#kw').onkeydown=e=>e.key==='Enter'&&dig();dig()}
 async function dig(){const o={kw:$('#kw').value.trim(),y1:+$('#y1').value||1900,y2:+$('#y2').value||2026,raw:!!$('#raw').value};localStorage.y1=o.y1;localStorage.y2=o.y2;localStorage.raw=o.raw?'1':'';
  const S=MODULES[state.m].sources[state.s],tag=state.m+state.s;$('#scan').classList.add('on');$('#st').textContent=`scanning ${S.name}…`;$('#grid').innerHTML='';
- let res=[],err='';for(let t=0;t<(o.kw?1:3)&&!res.length;t++){try{res=await S.f(o)}catch(e){err=e.message}}
+ const {res,err,note}=await mineWithRetry(S,o,m=>{$('#st').textContent=m});
  if(tag!==state.m+state.s)return;$('#scan').classList.remove('on');items=res;
- $('#st').textContent=res.length?`${res.length} finds · ${new Date().toLocaleTimeString()} · query: ${res[0].query}`:(err?'source error: '+err:'no signal, try again or loosen filters');grid('#grid',res)}
+ $('#st').textContent=res.length?`${note}${res.length} finds · ${new Date().toLocaleTimeString()} · query: ${res[0].query}`:(err?'source error: '+err:'no signal, try again or loosen filters');grid('#grid',res)}
 function grid(sel,list){$(sel).innerHTML=list.map((x,i)=>`<div class="card" style="animation-delay:${i*40}ms" onclick="openF('${sel}',${i})">
  <button class="star" onclick="event.stopPropagation();this.textContent=toggle(LISTS['${sel}'][${i}])?'★':'☆';nav()">${V()[x.url]?'★':'☆'}</button>
  <div class="thumb" style="${x.thumb?`background-image:url('${esc(x.thumb)}')`:''}">${x.thumb?'':MODULES[x.module]?.icon||'?'}</div>
@@ -133,4 +139,4 @@ function vault(){const v=Object.values(V()).sort((a,b)=>b.saved_at.localeCompare
  Object.values(g).forEach((l,j)=>grid('#v'+j,l))}
 function exp(){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(Object.values(V()),null,1)],{type:'application/json'}));a.download='signal-miner-vault.json';a.click()}
 async function imp(f){try{const l=JSON.parse(await f.text()),v=V();[].concat(l).forEach(x=>x.url&&(v[x.url]={saved_at:new Date().toISOString(),...x}));saveV(v);render()}catch(e){alert('bad file: '+e)}}
-document.addEventListener('keydown',e=>e.key==='Escape'&&closeM());route();
+document.addEventListener("keydown",e=>e.key==="Escape"&&closeM());if(!location.pathname.endsWith("test.html"))route();
