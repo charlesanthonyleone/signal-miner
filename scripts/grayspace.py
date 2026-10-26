@@ -118,18 +118,24 @@ def seed_hosts():
     random.shuffle(H); return H
 def cdx_media(kind,want=12,tries=8):
     budget(300)
-    mt="video/.*" if kind=="video" else "image/(gif|jpeg|png)"
+    mt="(video/.*|application/vnd.rn-realmedia|application/x-shockwave-flash)" if kind=="video" else "image/(gif|jpeg|png)"
     out=[]
-    for host in seed_hosts()[:tries]:
-        p={"url":host,"matchType":"prefix","filter":[f"mimetype:{mt}","statuscode:200"],"limit":300,"output":"json","fl":"timestamp,original,mimetype,length","collapse":"urlkey"}
+    hosts=seed_hosts()
+    if kind=="video":  # verified yielding: Angelfire themed neighbourhoods, sub-sharded by first letter for variety
+        hosts=[f"www.angelfire.com/{a}/{c}" for a in ("film","indie","music","rock","journal","80s","anime","biz","punk","scifi","tv") for c in "abcdefghijklmnopqrstuvwxyz0123456789"]
+        random.shuffle(hosts)
+    for host in hosts[:tries]:
+        flt=[f"mimetype:{mt}","statuscode:200"]
+        if kind=="video": flt.insert(0,"original:.*\\.(mpg|mpeg|avi|mov|wmv|asf|rm|flv|mp4|swf)$")
+        p={"url":host,"matchType":"prefix","filter":flt,"limit":300,"output":"json","fl":"timestamp,original,mimetype,length","collapse":"urlkey"}
         rows=[]
         if late(): break
-        for t in (40,):
+        for t in (60,40):
             try:
                 txt=requests.get("https://web.archive.org/cdx/search/cdx",params=p,headers=UA,timeout=t).text.strip()
                 rows=json.loads(txt)[1:] if txt.startswith("[") else []; break
             except Exception as e: print("cdx",kind,host,type(e).__name__); time.sleep(3)
-        rows=[r for r in rows if not BAD.search(r[1]) and (kind=="video" or (r[3].isdigit() and int(r[3])>6000))]
+        rows=[r for r in rows if not BAD.search(r[1]) and (r[3].isdigit() and int(r[3])>(30000 if kind=="video" else 6000))]
         print("cdx",kind,host,len(rows))
         for ts,orig,m,ln in random.sample(rows,min(4,len(rows))):
             name=urllib.parse.unquote(orig.rstrip("/").split("/")[-1]); h=orig.split("/")[2]
