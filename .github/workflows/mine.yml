@@ -1,6 +1,6 @@
 name: mine
 on:
-  schedule: [{cron: "17 * * * *"}]
+  schedule: [{cron: "17 */3 * * *"}]
   workflow_dispatch:
 permissions: {contents: write}
 concurrency: mine

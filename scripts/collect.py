@@ -64,7 +64,7 @@ def wayback(kind):
             "src":f"https://web.archive.org/web/{ts}{'im_' if kind=='image' else 'id_'}/{orig}","url":f"https://web.archive.org/web/{ts}/{orig}",
             "query":f"CDX url={site}* mimetype={mt}","extra":f"{m} · {ln} bytes · original: {orig}"})
     return out
-jobs=[("youtube_deep",lambda:yt("deep raw")),("youtube_deep",lambda:yt("deep raw")),("youtube_deep",lambda:yt("deep esoteric")),("youtube_deep",lambda:yt("deep esoteric")),("youtube_deep",lambda:yt("deep esoteric")),("youtube_deep",lambda:yt("deep esoteric")),("wayback_deep_video",lambda:deep("video")),("wayback_deep_image",lambda:deep("image")),("wayback_deep_image",lambda:deep("image")),("youtube",lambda:yt("raw clip")),("youtube",lambda:yt("raw clip")),("youtube",lambda:yt("old tv")),("youtube",lambda:yt("old film")),
+jobs=[("youtube",lambda:yt("raw clip")),("youtube",lambda:yt("raw clip")),("youtube",lambda:yt("old tv")),("youtube",lambda:yt("old film")),
       ("wayback_video",lambda:wayback("video")),("wayback_video",lambda:wayback("video")),("wayback_video",lambda:wayback("video")),("wayback_image",lambda:wayback("image")),("wayback_image",lambda:wayback("image"))]
 os.makedirs("finds",exist_ok=True); data={}
 for f,fn in jobs:

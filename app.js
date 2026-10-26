@@ -92,13 +92,6 @@ const MODULES={
 
 
 const ESOT=["occult","ritual","seance","ouija","numbers station","found footage","vhs","strange tape","unexplained","paranormal","ghost","haunted","ufo","esoteric","magick","tarot","witchcraft","analog","anomaly","untitled tape","ritual footage","occult ceremony","cinta extraña","grabación inexplicable","rituel","okkult","オカルト","странная запись"];
-MODULES.dvideo={half:'deep',name:'VIDEO',icon:'◬',sub:'DEEPWEB · near-zero-view and user-uploaded clips: raw filenames, found tapes, occult/unexplained subjects. Public sources only.',sources:{
-  youtube:{name:'YouTube ≤100 views',f:logSrc('youtube_deep','dvideo'),note:'Scheduled yt-dlp searches (hourly): default camera filenames and esoteric terms in several languages, kept only at ≤100 views.'},
-  ia_user:{name:'Archive · user uploads',f:iaSrc({mt:'movies',extra:'collection:(opensource_movies OR opensource_media)',rawPats:[...RAWV,...ESOT.slice(0,20).map(t=>`"${t}"`)],rawMax:50,source:'Internet Archive (user upload)',module:'dvideo',esot:1}),note:'Only community/user upload collections (opensource_movies), no institutional collections. Raw = ≤50 downloads.'},
-  wayback:{name:'Wayback · dead sites',f:logSrc('wayback_deep_video','dvideo'),note:'Video files (.avi .mpg .rm .wmv .mov…) captured 1996–2009 on GeoCities/Angelfire/Tripod paths with occult/paranormal words, from the scheduled miner.'}}};
-MODULES.dimage={half:'deep',name:'IMAGE',icon:'⛤',sub:'DEEPWEB · user-uploaded scans and photos and old-web graphics from occult/paranormal personal pages.',sources:{
-  ia_user:{name:'Archive · user uploads',f:iaSrc({mt:'image',extra:'collection:(opensource_image OR opensource_media OR opensource)',rawPats:["IMG_*","DSC*","scan*","untitled",...ESOT.slice(0,20).map(t=>`"${t}"`)],rawMax:50,source:'Internet Archive (user upload)',module:'dimage',esot:1}),note:'Community upload collections only. Raw = ≤50 downloads.'},
-  wayback:{name:'Wayback · dead sites',f:logSrc('wayback_deep_image','dimage'),note:'GIF/JPEG files captured 1996–2009 on GeoCities/Angelfire/Tripod paths with occult/paranormal words, from the scheduled miner.'}}};
 /* ---------- retry / loosen ---------- */
 async function mineWithRetry(S,o,say=()=>{}){const steps=[{},{},{loose:1},{loose:1,raw:false},{loose:1,raw:false,y1:1900,y2:2026},{loose:1,raw:false,y1:1900,y2:2026}];
  let err='';for(let i=0;i<steps.length;i++){const q={...o,...steps[i]};if(i)say(`no hits, loosening filters (try ${i+1}/${steps.length})…`);
@@ -114,10 +107,10 @@ const $=s=>document.querySelector(s);let state={m:'video',s:'youtube'},items=[];
 function route(){const [m,s]=(location.hash.slice(1)||'home').split('/');state.m=(MODULES[m]||m==='vault'||m==='home')?m:'home';state.s=MODULES[state.m]?.sources[s]?s:Object.keys(MODULES[state.m]?.sources||{x:1})[0];render()}
 window.onhashchange=route;
 const half=h=>Object.entries(MODULES).filter(([k,m])=>(m.half||'live')===h);
-function nav(){const b=([k,m])=>`<button class="${state.m==k?'on':''}" onclick="location.hash='${k}'">${m.icon} ${m.name}</button>`;$('nav').innerHTML=[`<button class="${state.m=='home'?'on':''}" onclick="location.hash='home'">⌂</button><span class="hl">LIVEWEB</span>`,...half('live').map(b),'<span class="hl deep">DEEPWEB</span>',...half('deep').map(b),
+function nav(){const b=([k,m])=>`<button class="${state.m==k?'on':''}" onclick="location.hash='${k}'">${m.icon} ${m.name}</button>`;$('nav').innerHTML=[`<button class="${state.m=='home'?'on':''}" onclick="location.hash='home'">⌂</button><span class="hl">LIVEWEB</span>`,...half('live').map(b),
  `<button class="${state.m=='vault'?'on':''}" onclick="location.hash='vault'">★ VAULT (${Object.keys(V()).length})</button>`].join('')}
 function home(){$('main').innerHTML=`<div class="split"><a class="halfc live" href="#video"><h2>LIVEWEB</h2><p>Live searches of big public archives: Internet Archive, Wikimedia Commons, Dailymotion, Openverse, The Met, Open Library, Project Gutenberg, plus YouTube and Wayback logs.</p><p>${half('live').map(([k,m])=>m.icon+' '+m.name).join(' · ')}</p></a>
-<a class="halfc deep" href="#dvideo"><h2>DEEPWEB</h2><p>The obscure end of the same public web: near-zero-view YouTube uploads, user-uploaded Archive items with raw filenames or occult/unexplained subjects, and media files from dead 1996–2009 personal sites.</p><p>${half('deep').map(([k,m])=>m.icon+' '+m.name).join(' · ')}</p><p class="q">Just a section name: public sources only, no Tor, nothing hidden or hacked.</p></a></div>`}
+<div class="halfc deep"><h2>DEEPWEB</h2><p>Coming soon.</p></div></div>`}
 function render(){document.body.className=state.m+' '+(MODULES[state.m]?.half||'');nav();if(state.m==='home')return home();if(state.m==='vault')return vault();const M=MODULES[state.m],S=M.sources[state.s];
  $('main').innerHTML=`<section class="world"><h2>${M.half==='deep'?'DEEPWEB · ':''}${M.icon} ${M.name} MINE</h2><p class="sub">${M.sub}</p>
  <div class="tabs">${Object.entries(M.sources).map(([k,s])=>`<button class="${k==state.s?'on':''}" onclick="location.hash='${state.m}/${k}'">${s.name}</button>`).join('')}</div>
