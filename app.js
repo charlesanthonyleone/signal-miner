@@ -194,10 +194,9 @@ const MODULES={
 
  /* ---- THEO: deep-mine engine in theo.js ---- */
  ...THEO_MODULES,
- invento_soon:{half:'invento',name:'COMING SOON',icon:'⚙',blurb:'Patent vault, weird filings, trademark graveyard — shipping next. THEO is live now.',sources:{
-  soon:{name:'Not yet mined',f:async ()=>[{module:'invento_soon',source:'Signal Miner',title:'INVENTO ships next',date:new Date().toISOString().slice(0,10),dateLabel:'status',count:null,countLabel:'',kind:'meta',mime:'status/note',
-    preview:'INVENTO modules (expired patents, abandoned filings, wild frontier patents, trademark graveyard, modern-use matcher) are next after THEO. Dig THEO now.',
-    url:'https://github.com/charlesanthonyleone/signal-miner',query:'status',extra:'hub placeholder'}],note:'Placeholder — full patent miners land in the next push.'}}}};
+ ...INVENTO_MODULES,
+ ...RELIQUARY_MODULES,
+};
 
 
 /* ---------- blocklist / hide ---------- */
@@ -217,7 +216,7 @@ function toggle(it){const v=V();v[it.url]?delete v[it.url]:v[it.url]={...it,save
 
 const $=s=>document.querySelector(s);let state={half:'',m:'home',s:''},items=[];
 function route(){const parts=(location.hash.slice(1)||'').split('/');
-  if(['live','trench','theo','invento'].includes(parts[0])){state.half=parts[0];state.m=parts[1]||'hub';state.s=parts[2]||''}
+  if(['live','trench','theo','invento','reliquary'].includes(parts[0])){state.half=parts[0];state.m=parts[1]||'hub';state.s=parts[2]||''}
   else if(parts[0]==='vault'||parts[0]==='report'){state.half=state.half||'';state.m=parts[0];state.s=''}
   else if(MODULES[parts[0]]){state.half=MODULES[parts[0]].half;state.m=parts[0];state.s=parts[1]||''}
   else{state.half='';state.m='home';state.s=''}
@@ -261,6 +260,7 @@ function topnav(){$('#topnav').innerHTML=`
  <button class="halfbtn trench ${state.half==='trench'?'on':''}" onclick="location.hash='trench'">TRENCH</button>
  <button class="halfbtn theo ${state.half==='theo'?'on':''}" onclick="location.hash='theo'">THEO</button>
  <button class="halfbtn invento ${state.half==='invento'?'on':''}" onclick="location.hash='invento'">INVENTO</button>
+ <button class="halfbtn reliquary ${state.half==='reliquary'?'on':''}" onclick="location.hash='reliquary'">RELIQUARY</button>
  <div class="util">
   <button class="${state.m==='vault'?'on':''}" onclick="location.hash='vault'">★ VAULT (${Object.keys(V()).length})</button>
   <button class="${state.m==='report'?'on':''}" onclick="REP=null;location.hash='report'">⚑ REPORT</button>
@@ -269,18 +269,20 @@ function topnav(){$('#topnav').innerHTML=`
 function subnav(){const h=state.half;if(!h||state.m==='vault'||state.m==='report'||state.m==='home'){$('#subnav').innerHTML='';return}
   $('#subnav').innerHTML=halfMods(h).map(([k,m])=>`<button class="${state.m===k?'on':''}" onclick="location.hash='${h}/${k}'">${m.icon} ${m.name}</button>`).join('')}
 
-function home(){$('main').innerHTML=`<div class="depth-gauge"><span>LIVE</span><i></i><span>TRENCH</span><i></i><span>THEO</span><i></i><span>INVENTO</span></div>
+function home(){$('main').innerHTML=`<div class="depth-gauge"><span>LIVE</span><i></i><span>TRENCH</span><i></i><span>THEO</span><i></i><span>INVENTO</span><i></i><span>RELIQUARY</span></div>
  <div class="hub">
   <a class="hubcard" href="#live" style="border-color:#1f5"><div class="ico">📡</div><h3>LIVE</h3><p>Surface web media — Archive, Commons, Dailymotion, Openverse, Met, Open Library, Gutenberg, YouTube &amp; Wayback. Open a module, then mine.</p></a>
   <a class="hubcard" href="#trench" style="border-color:#2cf"><div class="ico sonar">≋</div><h3>TRENCH</h3><p>Deep public layers — open cameras, SatNOGS, chain graffiti, BGP, crawl, gopher. Hardline non-curated. No Tor.</p></a>
   <a class="hubcard" href="#theo" style="border-color:#d4a"><div class="ico">🕯</div><h3>THEO</h3><p>Forgotten theology &amp; cultures — manuscripts, apocrypha, Geniza, grimoires, dead languages, clay tablets, lost civs, dead gods, mystery cults. Public archives only.</p></a>
-  <a class="hubcard" href="#invento" style="border-color:#fa3"><div class="ico">⚙</div><h3>INVENTO</h3><p>Coming soon — patent vault, weird filings, trademark graveyard. Dig THEO meanwhile.</p></a>
+  <a class="hubcard" href="#invento" style="border-color:#fa3"><div class="ico">⚙</div><h3>INVENTO</h3><p>Low-visibility USPTO filings — abandoned, expired, secret, war tech, weird & wild frontier patents seeded by real CPC codes.</p></a>
+  <a class="hubcard" href="#reliquary" style="border-color:#c9a36b"><div class="ico">🗝</div><h3>THE RELIQUARY</h3><p>Leads no one has followed — buried maps, deathbed confessions, unsolved ciphers, shipwreck manifests, forgotten time capsules.</p></a>
  </div>`}
 
 const HUBMETA={live:{title:'LIVE · module hub',a:'SURFACE',b:'BROADCAST',sub:'Pick a module, then generate finds inside it.'},
  trench:{title:'TRENCH · Mariana modules',a:'0 m',b:'10 994 m',sub:'Hardline random / unfiltered enumeration from public indexes. Safety filter (NSFW/blocklist) only. No scanning, no credentials, no Tor.'},
  theo:{title:'THEO · forgotten theology & cultures',a:'CANON',b:'CULTURES',sub:'Manuscripts, apocrypha, Geniza, grimoires, dead languages, clay tablets — plus Forgotten Cultures (lost civs, dead gods, mystery cults, suppressed faiths). Public archives only.'},
- invento:{title:'INVENTO · coming soon',a:'FILED',b:'SOON',sub:'Patent & trademark miners ship next. Open the Coming Soon card for status — dig THEO meanwhile.'}};
+ invento:{title:'INVENTO · patent vault',a:'FILED',b:'ABANDONED',sub:'USPTO application file wrappers (IA uspto collection), seeded with real CPC codes, fewest downloads first. Click a card for the drawing + OCR abstract.'},
+ reliquary:{title:'THE RELIQUARY · unfound leads',a:'SEALED',b:'LOST',sub:'Forgotten newspaper pages, zero-view scans and gray-space text that point at things still out there. OCR is raw — verify every lead.'}};
 function hub(h){const mods=halfMods(h),meta=HUBMETA[h]||HUBMETA.live;
  $('main').innerHTML=`<div class="depth-gauge"><span>${meta.a}</span><i></i><span>${meta.b}</span></div>
  <h2>${meta.title}</h2>
@@ -347,9 +349,9 @@ function openF(sel,i){const x=LISTS[sel][i];
  const s=esc(x.src);const m={iframe:`<iframe src="${s}" allowfullscreen allow="fullscreen"></iframe>`,video:`<video controls src="${s}"></video>`,
   img:`<img src="${s}">`,audio:`${x.thumb?`<img src="${esc(x.thumb)}" style="max-height:200px">`:''}<audio controls src="${s}"></audio>`,link:x.thumb?`<img src="${esc(x.thumb)}" style="max-height:300px">`:''}[x.kind]||'';const mm=SAFE.isMedia(x)?SAFE.gate(m,x):m;
  $('#mb').innerHTML=`${mm}<h3>${esc(x.title)}</h3><div><span class="badge">${esc((x.module||'').toUpperCase())}</span><span class="badge">${esc(x.source)}</span> ${x.date?esc(x.dateLabel+': '+x.date):''}${x.count!=null?' · '+esc(x.count)+' '+esc(x.countLabel):''}</div>
- <div>${esc(x.extra||'')}</div>${x.mined_at?`<div class="q">logged: ${esc(x.mined_at)}</div>`:''}<div class="q">query: ${esc(x.query)}</div>
+ <div>${esc(x.extra||'')}</div>${x.lazy?'<h4>abstract / text</h4><pre class="prevbox" id="lazy">loading…</pre>':(x.preview?`<pre class="prevbox">${esc(x.preview)}</pre>`:'')}${x.links?`<div class="row">${x.links.map(l=>`<a class="go" href="${esc(l[1])}" target="_blank" rel="noopener">${esc(l[0])}</a>`).join('')}</div>`:''}${x.mined_at?`<div class="q">logged: ${esc(x.mined_at)}</div>`:''}<div class="q">query: ${esc(x.query)}</div>
  <div class="row"><a class="go" href="${esc(x.url)}" target="_blank" rel="noopener">open at source ↗</a><button class="go" id="sv">${V()[x.url]?'★ saved':'☆ save'}</button><button class="go" id="rp">⚑ report</button><button class="go" onclick="closeM()">close</button></div>`;
- $('#rp').onclick=()=>report(x);$('#sv').onclick=()=>{$('#sv').textContent=toggle(x)?'★ saved':'☆ save';topnav();if(state.m==='vault')vault();else grid(sel,LISTS[sel])};$('#modal').classList.add('on')}
+ if(x.lazy)x.lazy().then(t=>{const e=$('#lazy');if(e)e.textContent=SAFE.screen({title:'',preview:t})?'(text hidden by safety screen)':t}).catch(e=>{const el=$('#lazy');if(el)el.textContent='could not load: '+e.message});$('#rp').onclick=()=>report(x);$('#sv').onclick=()=>{$('#sv').textContent=toggle(x)?'★ saved':'☆ save';topnav();if(state.m==='vault')vault();else grid(sel,LISTS[sel])};$('#modal').classList.add('on')}
 function closeM(){$('#modal').classList.remove('on');$('#mb').innerHTML=''}
 function vault(){const v=Object.values(V()).filter(x=>!blocked(x.url)).sort((a,b)=>b.saved_at.localeCompare(a.saved_at));const g={};v.forEach(x=>{(g[(x.module||'?')+' · '+x.source]??=[]).push(x)});
  $('main').innerHTML=`<section class="world"><h2>★ VAULT</h2><p class="sub">Saved finds across LIVE / TRENCH / THEO / INVENTO. Browser-local only.</p>

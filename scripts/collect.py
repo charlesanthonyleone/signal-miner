@@ -1,6 +1,7 @@
 import json, os, random, datetime, requests, yt_dlp, sys
 sys.path.insert(0, os.path.join(os.path.dirname(__file__) or "."))
 from deep import deep_gopher, deep_opendir, deep_crawl
+from deeptext import deep_text
 from trench import cameras, satnogs, blockchain, tectonics, radiation, deep_space, hidden_in_files, time_skew
 
 UA={"User-Agent":"SignalMiner/2.0 (github actions; hobby project)"}
@@ -51,6 +52,7 @@ jobs=[
     ("deep_crawl", deep_crawl),
     ("deep_gopher", deep_gopher),
     ("deep_opendir", deep_opendir),
+    ("deep_text", lambda: deep_text(load("deep_opendir"))),
     ("cameras", cameras),
     ("satnogs", satnogs),
     ("blockchain", blockchain),

@@ -44,6 +44,11 @@ function theoGist(module){return async o=>{const r=await JJ(`https://api.github.
   return [...pref,...rest].slice(0,24).map(([b,d,g,f])=>({module,source:'GitHub public gists',title:String(d.title).slice(0,140),date:g.created_at.slice(0,10),dateLabel:'posted',count:g.comments,countLabel:'comments',
     thumb:'',kind:'link',src:'',url:g.html_url,preview:'files: '+f.map(x=>`${x.filename} (${x.type}, ${x.size}B)`).join(', '),query:'api.github.com/gists/public random page',extra:`bucket: ${b?T[b].name:'unsorted'} · uploader: ${g.owner?g.owner.login:'anonymous'}`}))}}
 
+// gray-space text pre-mined by Action: gopherspace (Veronica-2), Common Crawl text/plain, open-dir .txt
+const GRAY={};function theoGray(module){return async o=>{GRAY.d??=await fetch('finds/deep_text.json?'+Date.now()).then(r=>r.json()).catch(()=>[]);
+  let L=GRAY.d.filter(x=>!o.kw||JSON.stringify(x).toLowerCase().includes(o.kw.toLowerCase()));
+  const mine=L.filter(x=>x.bucket===module),rest=L.filter(x=>x.bucket&&x.bucket!==module);return [...sh(mine),...sh(rest)].slice(0,30).map(x=>({...x,module}))}}
+
 // --- Open Library: subject queries
 function theoOL(T,module){return async o=>{
   const s=o.kw||pk(T.ol);const q=o.kw?o.kw:`subject:"${s}"`;
@@ -74,7 +79,7 @@ const T={
   re:/dead sea|qumran|nag hammadi|gospel of (thomas|philip|mary|truth)|apocryphon|pistis sophia|essene/i,ol:['Dead Sea scrolls','Nag Hammadi codices','Qumran community','Essenes'],gut:['Gnosticism','Dead Sea']},
  apocrypha:{name:'APOCRYPHA',icon:'📕',blurb:'Enoch, Jubilees, lost gospels, banned books.',
   ia:[['"book of enoch"','enoch','jubilees'],['apocrypha','pseudepigrapha'],['"lost books of the bible"','"apocryphal gospels"','"apocryphal new testament"'],['"testaments of the twelve patriarchs"','"ascension of isaiah"','"apocalypse of"']],
-  re:/enoch|jubilee|apocryph|pseudepigrap|lost books|testament[s]? of|apocalypse of|ascension of/i,ol:['Apocryphal books','Apocrypha','Apocryphal Gospels','Pseudepigrapha','Ethiopic book of Enoch'],gut:['Apocrypha','Apocryphal books']},
+  re:/\benoch\b|jubilees|apocryph|pseudepigrap|lost books of the bible|testaments of the twelve|apocalypse of (peter|paul|abraham|baruch|adam|elijah)|ascension of isaiah|gospel of (thomas|judas|peter|nicodemus|mary|philip)/i,ol:['Apocryphal books','Apocrypha','Apocryphal Gospels','Pseudepigrapha','Ethiopic book of Enoch'],gut:['Apocrypha','Apocryphal books']},
  geniza:{name:'CAIRO GENIZA',icon:'🧩',blurb:'Geniza fragments & Hebrew/Judeo-Arabic manuscript studies.',
   ia:[['geniza','genizah','"cairo genizah"'],['"Taylor-Schechter"','"hebrew fragments"','"fragments from the cairo"'],['"jewish manuscripts"','"hebrew manuscripts"','"judeo-arabic"']],
   re:/geniza|genizah|taylor.?schechter|hebrew (fragment|manuscript)|judeo.?arabic|jewish manuscript/i,ol:['Cairo Genizah','Manuscripts, Hebrew','Genizah'],gut:[]},
@@ -89,8 +94,8 @@ const T={
   ia:[['coptic','"coptic language"','"coptic manuscripts"'],['syriac','"syriac literature"','peshitta'],['ethiopic','geez','"ethiopic literature"'],['pali','"pali text"','tipitaka','"pali canon"'],['avestan','avesta','"zend avesta"'],['"old church slavonic"','"church slavic"','gothic bible','"ulfilas"']],
   re:/coptic|syriac|peshitta|ethiopic|ge.?ez|pali|tipitaka|avest|zend|slavonic|church slavic|ulfila|akkad|sumerian|aramaic|sahidic|bohairic/i,ol:['Coptic language','Syriac literature','Ethiopic literature','Pali literature','Avesta','Church Slavic language'],gut:['Coptic','Pali','Avesta']},
  heresies:{name:'VANISHED SECTS',icon:'⚡',blurb:'Cathars, Manichaeans, Bogomils, Gnostics & other heresies.',
-  ia:[['cathars','cathar','albigenses','albigensian'],['manichaeism','manichaean','manichean','mani'],['bogomils','bogomil','paulicians','messalians'],['gnosticism','gnostic','gnostics','valentinian','marcion'],['heresies','heresy','heretics','"history of heresies"']],
-  re:/cathar|albigen|manich|bogomil|paulician|messalian|gnostic|valentin|marcion|heres|heretic|montanis|arian|donatis|nestorian/i,ol:['Cathari','Albigenses','Manichaeism','Bogomils','Gnosticism','Heresies, Christian'],gut:['Heresies','Gnosticism']},
+  ia:[['cathars','cathar','albigenses','albigensian'],['manichaeism','manichaean','manichean','mani'],['bogomils','bogomil','paulicians','messalians'],['gnosticism','gnostic','gnostics','valentinian','marcion'],['"history of heresies"','"christian heresies"','heretics','lollards','hussites','waldenses','anabaptists']],
+  re:/cathar|albigen|manich|bogomil|paulician|messalian|gnostic|valentinian|marcion|heres(y|ies)\b|heretic|montanis|\barian(ism|s)?\b|donatis|nestorian|lollard|hussite|waldens|anabapt/i,ol:['Cathari','Albigenses','Manichaeism','Bogomils','Gnosticism','Heresies, Christian'],gut:['Heresies','Gnosticism']},
  tablets:{name:'CLAY TABLETS',icon:'🧱',blurb:'Cuneiform prayers, hymns & incantations.',
   ia:[['cuneiform','"cuneiform inscriptions"','"cuneiform texts"'],['"babylonian magic"','"assyrian incantations"','"babylonian hymns"','"sumerian hymns"'],['akkadian','sumerian','"babylonian religion"','"assyro-babylonian"'],['"clay tablets"','"seven tablets of creation"','gilgamesh','"enuma elish"']],
   re:/cuneiform|tablet|akkad|sumer|babylon|assyri|gilgamesh|enuma|chaldea|mesopotam|incantation/i,ol:['Cuneiform inscriptions','Assyro-Babylonian religion','Sumerian literature','Akkadian literature','Incantations, Assyro-Babylonian'],gut:['Babylonia','Assyria']},
@@ -117,7 +122,7 @@ const T={
   re:/folk|charm|spell|cunning|witch|superstit|hoodoo|pow.?wow|hex|conjur|amulet|talisman|magic|fairy|fairies/i,ol:['Witchcraft','Charms','Superstition','Folk medicine','Amulets','Magic'],gut:['Witchcraft','Superstition','Charms']},
  mystery:{name:'MYSTERY CULTS',icon:'🔮',blurb:'Eleusis, Mithras, Orphism, Dionysus, Isis, Cybele — mystery religions.',
   ia:[['eleusis','eleusinian','"eleusinian mysteries"'],['mithras','mithraism','mithraic','"mysteries of mithra"'],['orphism','orphic','orpheus','"orphic hymns"'],['dionysus','dionysian','bacchus','bacchic','bacchae'],['"mystery religions"','"mystery cults"','"isis and osiris"','"cult of isis"','cybele','attis','"magna mater"','samothrace']],
-  re:/eleusi|mithra|orph|dionys|bacch|mystery relig|mystery cult|isis and osiris|cult of isis|cybele|attis|magna mater|samothrac|demeter|persephone|sabazi/i,ol:['Mysteries, Religious','Mithraism','Eleusinian mysteries','Orphism','Dionysia'],gut:['Mysteries, Religious','Mithraism','Orphism']},
+  re:/eleusi|mithra|\borph(ic|ism|eus|ica)|dionys|bacch|mystery relig|mystery cult|isis and osiris|cult of isis|cybele|attis|magna mater|samothrac|demeter|persephone|sabazi/i,ol:['Mysteries, Religious','Mithraism','Eleusinian mysteries','Orphism','Dionysia'],gut:['Mysteries, Religious','Mithraism','Orphism']},
  astrorel:{name:'ASTRONOMICAL RELIGIONS',icon:'✦',blurb:'Sky cults, sun & star worship, archaeoastronomy.',
   ia:[['"sun worship"','"solar worship"','"sun-worship"','"worship of the sun"'],['"star worship"','"astral religion"','"astral mythology"','"star-lore"'],['archaeoastronomy','"stonehenge"','"astronomy of the ancients"','"ancient astronomy"'],['"star names"','"myths of the stars"','"sky gods"','"zodiac"']],
   re:/sun|solar|star|astral|astronom|stonehenge|zodiac|sky|moon|lunar|celestial|planet/i,ol:['Sun worship','Stars Folklore','Astronomy, Ancient','Archaeoastronomy','Astrology'],gut:['Astrology','Sun worship']},
@@ -125,16 +130,16 @@ const T={
   ia:[['"false messiahs"','"sabbatai zevi"','"shabbethai zebi"','"jacob frank"'],['mahdi','mahdism','"the mahdi"'],['"ghost dance"','wovoka','"prophet dance"','handsome lake','tenskwatawa'],['"messianic movements"','millenarian','millennialism','"cargo cult"'],['"joanna southcott"','"anne lee"','"jemima wilkinson"','"john of leiden"','"hong xiuquan"','taiping']],
   re:/messiah|messian|sabbatai|shabbeth|frank|mahdi|ghost dance|wovoka|prophet|handsome lake|tenskwat|millenar|millenn|cargo cult|southcott|anne lee|wilkinson|leiden|taiping|hong xiu/i,ol:['Messianism','Ghost dance','Mahdism','Millennialism','False Messiahs','Cargo cults'],gut:['Ghost dance','Messiah']},
  suppressed:{name:'SUPPRESSED FAITHS',icon:'⛓',blurb:'Colonized, banned & forcibly converted traditions.',
-  ia:[['"religious persecution"','"persecution of"','inquisition'],['"forced conversion"','conversos','moriscos','marranos','"crypto-jews"'],['"native american religion"','"potlatch ban"','"sun dance"','"peyote"','"native religions"'],['syncretism','santeria','vodou','voodoo','candomble','"vodun"'],['"old believers"','"religion in the soviet"','"suppression of"','"pagan survivals"']],
-  re:/persecut|inquisit|forced conver|converso|morisco|marrano|crypto|native|indian|potlatch|sun dance|peyote|syncret|santer|vodou|voodoo|vodun|candombl|old believer|suppress|pagan surviv/i,ol:['Persecution','Inquisition','Marranos','Moriscos','Indians of North America Religion','Santeria','Voodooism'],gut:['Inquisition','Persecution']},
+  ia:[['"religious persecution"','inquisition','"spanish inquisition"','huguenots','"persecution of the christians"'],['"forced conversion"','conversos','moriscos','marranos','"crypto-jews"'],['"native american religion"','"potlatch ban"','"sun dance"','"peyote"','"native religions"'],['syncretism','santeria','vodou','voodoo','candomble','"vodun"'],['"old believers"','"religion in the soviet"','"suppression of"','"pagan survivals"']],
+  re:/religious persecution|persecution of (the )?(christians|jews|witches|heretics|quakers|huguenots|catholics|protestants|mormons)|inquisition|forced conver|converso|morisco|marrano|crypto.?jew|native (american )?religion|indian religion|potlatch|sun dance|peyote|santer|vodou|voodoo|vodun|candombl|old believer|pagan surviv|suppression of the (monasteries|jesuits|religious)/i,ol:['Persecution','Inquisition','Marranos','Moriscos','Indians of North America Religion','Santeria','Voodooism'],gut:['Inquisition','Persecution']},
 };
 
 const out={};
 for(const [k,t] of Object.entries(T)){
-  const s={ia:{name:'Deep mine',f:theoIA(t,k),note:'Random upload window, downloads ≤5, undescribed first; theme is only a loose label filter.'},pile:{name:'Zero-download pile',f:theoPile(k),note:'Random 0–1 download texts from a random month, bucket-labelled (this theme first, other theo buckets after).'},gist:{name:'Raw gists',f:theoGist(k),note:'Random page of public GitHub gists; only bucketable ones shown (often empty — it is a raw pile).'}};
+  const s={ia:{name:'Deep mine',f:theoIA(t,k),note:'Random upload window, downloads ≤5, undescribed first; theme is only a loose label filter.'},pile:{name:'Zero-download pile',f:theoPile(k),note:'Random 0–1 download texts from a random month, bucket-labelled (this theme first, other theo buckets after).'},gray:{name:'Gray-space text',f:theoGray(k),note:'Pre-mined every 3h: Veronica-2 gopherspace search, Common Crawl text/plain on obscure TLDs, .txt inside open Index-of dirs. This bucket first.'},gist:{name:'Raw gists',f:theoGist(k),note:'Random page of public GitHub gists; only bucketable ones shown (often empty — it is a raw pile).'}};
   if(t.ol.length)s.openlib={name:'Open Library',f:theoOL(t,k),note:'Open Library subject queries.'};
   if(t.gut.length)s.gutenberg={name:'Gutenberg',f:theoGut(t,k),note:'Gutendex topic (subjects/bookshelves) search.'};
   out[k]={half:'theo',name:t.name,icon:t.icon,blurb:t.blurb,sources:s};
 }
-G.THEO_MODULES=out;G.THEO_T=T;
+G.THEO_MODULES=out;G.THEO_T=T;G.THEO_H={theoIA,theoGray,iaDeep,mapIA};
 })(typeof window!=='undefined'?window:globalThis);
