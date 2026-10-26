@@ -9,6 +9,11 @@ IMGX=(".jpg",".jpeg",".gif",".png",".bmp",".tif",".tiff",".webp",".pcx")
 TXTX=(".txt",".nfo",".asc",".text",".diz",".ascii",".doc",".pdf",".rtf",".htm",".html",".md",".faq",".1st")
 AUDX=(".mp3",".wav",".ogg",".mid",".midi",".ra",".au",".flac",".m4a")
 BAD=re.compile(r"porn|xxx|nsfw|nude|naked|sex|fuck|teen|loli|shota|jailbait|pthc|hentai|erotic|fetish|cam ?girl|onlyfans|escort|incest|rape|cp\b|preteen|underage|child",re.I)
+try:  # share the site blocklist with the miners so blocked hosts/keywords never get published
+    import json as _j,os as _o
+    _b=_j.load(open(_o.path.join(_o.path.dirname(__file__),"..","blocklist.json")))
+    BAD=re.compile(BAD.pattern+"|"+"|".join(re.escape(k) for k in _b.get("keywords",[])+_b.get("domains",[])),re.I)
+except Exception as _e: print("blocklist load",_e)
 SPAM=re.compile(r"\.(cfd|sbs|top|shop|online|xyz|click|buzz|icu|monster|rest|lol)(/|$)|bet|slot|casino|togel|gacor|4d|judi|toto|poker|loan|viagra|crypto|airdrop|domains",re.I)
 SKIPHOST=re.compile(r"archive\.org|google|bing\.com|duckduckgo|facebook|reddit|youtube|github\.com|wikipedia|amazon",re.I)
 KEYWORDS=["occult","ufo","vhs","theology","bible","gnostic","alchemy","patent","manual","radio","scan","sermon","monastery","conspiracy","cult","hermetic","tarot","newsletter","bbs","zine","apocrypha","shortwave","family","church","camcorder","prophecy","esoteric","cipher","grimoire","mythology"]
@@ -121,12 +126,13 @@ def cdx_media(kind,want=12,tries=8):
     mt="(video/.*|application/vnd.rn-realmedia|application/x-shockwave-flash)" if kind=="video" else "image/(gif|jpeg|png)"
     out=[]
     hosts=seed_hosts()
-    if kind=="video":  # verified yielding: Angelfire themed neighbourhoods, sub-sharded by first letter for variety
-        hosts=[f"www.angelfire.com/{a}/{c}" for a in ("film","indie","music","rock","journal","80s","anime","biz","punk","scifi","tv") for c in "abcdefghijklmnopqrstuvwxyz0123456789"]
-        random.shuffle(hosts)
-    for host in hosts[:tries]:
+    if kind=="video":
+        import vidshards; hosts=vidshards.shards()
+    queue=list(hosts[:tries]); done=0
+    while queue and done<tries*3:
+        host=queue.pop(0); done+=1
         flt=[f"mimetype:{mt}","statuscode:200"]
-        if kind=="video": flt.insert(0,"original:.*\\.(mpg|mpeg|avi|mov|wmv|asf|rm|flv|mp4|swf)$")
+        if kind=="video": flt.insert(0,__import__("vidshards").VIDRE)
         p={"url":host,"matchType":"prefix","filter":flt,"limit":300,"output":"json","fl":"timestamp,original,mimetype,length","collapse":"urlkey"}
         rows=[]
         if late(): break
@@ -135,7 +141,11 @@ def cdx_media(kind,want=12,tries=8):
                 txt=requests.get("https://web.archive.org/cdx/search/cdx",params=p,headers=UA,timeout=t).text.strip()
                 rows=json.loads(txt)[1:] if txt.startswith("[") else []; break
             except Exception as e: print("cdx",kind,host,type(e).__name__); time.sleep(3)
-        rows=[r for r in rows if not BAD.search(r[1]) and (r[3].isdigit() and int(r[3])>(30000 if kind=="video" else 6000))]
+        else:
+            if kind=="video" and len(host.rsplit("/",1)[-1])<3:  # chunked retry: split timed-out shard
+                import vidshards; queue[:0]=random.sample(vidshards.split(host),3)
+            continue
+        rows=[r for r in rows if not BAD.search(r[1]) and (r[3].isdigit() and int(r[3])>(30000 if kind=="video" else 6000)) and not (kind=="video" and r[1].lower().endswith(".swf") and int(r[3])<250000)]
         print("cdx",kind,host,len(rows))
         for ts,orig,m,ln in random.sample(rows,min(4,len(rows))):
             name=urllib.parse.unquote(orig.rstrip("/").split("/")[-1]); h=orig.split("/")[2]
