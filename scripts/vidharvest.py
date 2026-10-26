@@ -43,8 +43,12 @@ def opendir_videos(n=40):
     try: L=json.load(open("finds/odbig.json"))
     except Exception: return []
     V=[r for r in L if re.search(r"\.(mpe?g|avi|mov|wmv|asf|rm|flv|mp4|m4v|webm|mkv|ogv)$",r[0],re.I) and not BAD.search(r[0])]
-    out=[]
-    for u,size,date in random.sample(V,min(n,len(V))):
+    out=[];per={}
+    random.shuffle(V)
+    for u,size,date in V:
+        d=u.rsplit('/',1)[0]; per[d]=per.get(d,0)+1
+        if per[d]>3: continue
+        if len(out)>=n: break
         name=urllib.parse.unquote(u.rsplit("/",1)[-1]); h=u.split("/")[2]; ext=name.rsplit(".",1)[-1].lower()
         out.append({"source":"Open Directory (index)","title":name,"date":(date or "")[:10],"dateLabel":"modified","count":None,"countLabel":"","size":size,
           "ftype":"video/"+ext,"host":h,"gated":True,"thumb":"","kind":"video" if ext in("mp4","webm","ogv") else "link","src":u,"url":u,
