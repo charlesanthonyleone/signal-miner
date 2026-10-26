@@ -9,7 +9,13 @@ UA={"User-Agent":"SignalMiner/2.0 (github actions; hobby project)"}
 now=lambda: datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds").replace("+00:00","Z")
 def load(n):
     p=f"finds/{n}.json"; return json.load(open(p)) if os.path.exists(p) else []
-def save(n,L): json.dump(L[-(20000 if n=="deep_odindex" else 3000):],open(f"finds/{n}.json","w"),indent=1)
+import textfix
+def _fix(x):
+    if "opher" in str(x.get("source","")) or "opher" in str(x.get("mime","")):
+        for k in ("title","preview"):
+            if x.get(k): x[k]=textfix.fix(x[k])
+    return x
+def save(n,L): L=[_fix(x) for x in L]; json.dump(L[-(20000 if n=="deep_odindex" else 3000):],open(f"finds/{n}.json","w"),indent=1)
 
 PREF=["IMG","MVI","DSC","VID","MOV","DSCF","P100","GOPR","CIMG","PICT"]
 YT={"raw clip":lambda:f"{random.choice(PREF)} {random.randint(0,9999):04d}",
