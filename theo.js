@@ -35,12 +35,18 @@ function theoIA(T0,module){return async o=>{
 function theoPile(module){return async o=>{const [a,b]=winDate();const q=`mediatype:texts AND downloads:[0 TO 1] AND addeddate:[${a} TO ${b}]`;
   const docs=await iaDeep(q,20);const tagged=docs.map(d=>[bucket(d),d]);
   const mine=tagged.filter(x=>x[0]===module),other=tagged.filter(x=>x[0]&&x[0]!==module);
-  return mine.slice(0,24).map(x=>mapIA(x[1],module,q))}} // on-theme only (Pass 3): empty → retry picks a new random window
+  if(mine.length)return mine.slice(0,24).map(x=>mapIA(x[1],module,q));
+  // Pass 5: random window had nothing on-theme -> low-download texts whose title hits the theme's own keywords
+  const kws=themeWords(module);if(!kws.length)return [];
+  const q2=`mediatype:texts AND downloads:[0 TO 5] AND title:(${kws.map(w=>w+'*').join(' OR ')})`;
+  const d2=await iaDeep(q2,40);return d2.filter(d=>bucket(d)===module||T[module].re.test(d.title||'')).slice(0,24).map(d=>mapIA(d,module,q2))}}
+function themeWords(m){return T[m]?String(T[m].re.source).split('|').map(w=>w.replace(/\\b/g,'').replace(/[^a-z]/gi,'')).filter(w=>w.length>=4).slice(0,10):[]} // on-theme only (Pass 3): empty → retry picks a new random window
 
 // raw uncurated: random page of public gists (text), bucket-labelled
 function theoGist(module){return async o=>{const r=await gistList(1+Math.floor(Math.random()*30),100);
   const rows=r.map(g=>{const f=Object.values(g.files||{});const d={title:(g.description||f.map(x=>x.filename).join(', ')||g.id),subject:f.map(x=>x.filename+' '+(x.language||'')).join(' ')};return [bucket(d),d,g,f]});
   const pref=rows.filter(x=>x[0]===module),rest=rows.filter(x=>x[0]&&x[0]!==module);
+  if(!pref.length)throw new Error(`No on-theme gists in this sample (${rows.length} public gists scanned; gists are rarely about ${T[module]?T[module].name.toLowerCase():module}). Press DIG again or use the other tabs.`);
   return pref.slice(0,24).map(([b,d,g,f])=>({module,source:'GitHub public gists',title:String(d.title).slice(0,140),date:String(g.created_at||'').slice(0,10),dateLabel:'posted',count:g.comments,countLabel:'comments',
     thumb:'',kind:'link',src:'',url:g.html_url,preview:'files: '+f.map(x=>`${x.filename} (${x.type}, ${x.size}B)`).join(', '),query:'api.github.com/gists/public random page',extra:`bucket: ${b?T[b].name:'unsorted'} · uploader: ${g.owner?g.owner.login:'anonymous'}`}))}}
 
@@ -52,9 +58,12 @@ const GRAY={};function theoGray(module){return async o=>{GRAY.d??=await fetch('f
   GRAY.od??=await fetch('finds/odbig.json?'+Math.floor(Date.now()/6e5)).then(r=>r.json()).catch(()=>[]);
   const re=o.kw?new RegExp(o.kw.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'i'):(T[module]&&T[module].re);
   const nm=u=>{try{return decodeURIComponent(u.split('/').slice(-2).join(' / '))}catch(e){return u.split('/').slice(-2).join(' / ')}};
-  const od=re?GRAY.od.filter(r=>/\.(txt|pdf|html?|doc|rtf|epub|djvu|zip)$/i.test(r[0])&&re.test(nm(r[0]).replace(/[_+.\-]+/g,' '))).map(([u,size,date])=>({module,source:'Open Directory (index)',title:nm(u),date:(date||'').slice(0,10),dateLabel:'listed',count:null,countLabel:'',
+  const od=re?GRAY.od.filter(r=>/\.(txt|pdf|html?|doc|rtf|epub|djvu)$/i.test(r[0])&&!ODNOISE.test(r[0])&&re.test(nm(r[0]).replace(/[_+.\-]+/g,' '))).map(([u,size,date])=>({module,source:'Open Directory (index)',title:nm(u),date:(date||'').slice(0,10),dateLabel:'listed',count:null,countLabel:'',
     thumb:'',kind:'link',src:'',url:u,preview:`${size||'?'} · in ${u.replace(/[^/]*$/,'')}`,query:'open-dir filename index · theme regex',extra:'bucket: '+(T[module]?T[module].name:module)+' · host: '+u.split('/')[2]})):[];
-  return [...sh(o.kw?[...mine,...rest]:mine).slice(0,20).map(x=>({...x,module})),...sh(od).slice(0,16)].slice(0,30)}}
+  const out=[...sh(o.kw?[...mine,...rest]:mine).slice(0,20).map(x=>({...x,module})),...sh(od).slice(0,16)].slice(0,30);
+  if(!out.length)throw new Error(`No grayspace text on this theme yet (checked ${GRAY.d.length} gopher/Common Crawl/open-dir texts and ${GRAY.od.length} open-directory filenames). The 3-hourly Action keeps adding; the other tabs have results.`);
+  return out}}
+const ODNOISE=/aspell|ispell|hunspell|myspell|dictionar|wordlist|words?\.txt|\/games?\/|\/roms?\/|\/mods?\/|fonts?\/|drivers?\/|patch|\/src\/|source|license|readme|changelog|install|manual|\/doc\/|00index|index\.html?$|\/man\d?\//i;
 
 // --- Open Library: subject queries
 function theoOL(T,module){return async o=>{
@@ -111,7 +120,7 @@ const T={
   re:/flood|deluge|creation|cosmogon|comparative|religions|dying god|golden bough|savio|myth/i,ol:['Religions','Comparative religion','Deluge','Creation','Cosmogony'],gut:['Religion','Mythology']},
  lostciv:{name:'LOST CIVILIZATIONS',icon:'🏛',blurb:'Beliefs of Hittite, Etruscan, Minoan, Indus & kin.',
   ia:[['hittite','hittites','"hittite religion"'],['etruscan','etruscans','"etruscan religion"'],['minoan','"minoan religion"','crete','knossos'],['"indus valley"','harappan','"mohenjo-daro"','"indus civilization"'],['phoenician','carthaginian','canaanite','ugarit','ugaritic'],['scythian','thracian','dacian','"celtic religion"','druids']],
-  re:/hittit|etrusc|minoan|crete|cretan|knossos|indus|harappa|mohenjo|phoenic|carthag|canaan|ugarit|scyth|thrac|dacia|druid|celtic|olmec|maya|aztec|inca/i,ol:['Hittites','Etruscans','Minoans','Indus civilization','Phoenicians','Druids and druidism'],gut:['Druids','Etruscan']},
+  re:/hittit|etrusc|minoan|crete|cretan|knossos|\bindus\b|harappa|mohenjo|phoenic|carthag|canaan|ugarit|scyth|thrac|dacia|druid|celtic|olmec|maya|aztec|inca/i,ol:['Hittites','Etruscans','Minoans','Indus civilization','Phoenicians','Druids and druidism'],gut:['Druids','Etruscan']},
  oral:{name:'ORAL TRADITIONS',icon:'🗣',blurb:'Tribal myths & folk tales recorded from oral tradition.',
   ia:[['"oral tradition"','"oral traditions"'],['"folk tales"','"folk-tales"','folklore','"folk-lore"'],['"indian legends"','"myths and legends"','"tribal myths"'],['"bureau of american ethnology"','ethnology','"mythology of the"']],
   re:/\boral (tradition|history|lore)|folklor|folk ?tale|legend(s|ary)?\b|\bmyth|\btales?\b|ethnolog|\blore\b|\bsagas?\b/i,ol:['Oral tradition','Folklore','Tales','Indians of North America Folklore','Mythology, African'],gut:['Folklore','Mythology','Legends']},
