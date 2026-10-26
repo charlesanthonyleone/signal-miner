@@ -21,7 +21,7 @@ function iaSrc({mt,extra,rawPats,rawMax=25,source,module}){return async o=>{
   const q=p.join(' AND '),u=new URLSearchParams({q,rows:40,page:1,output:'json'});
   ["identifier","title","publicdate","downloads","creator"].forEach(f=>u.append('fl[]',f));
   let docs=(await J('https://archive.org/advancedsearch.php?'+u)).response.docs;let qq=q;
-  if(docs.length<8){const p2=p.filter(x=>!/^publicdate:/.test(x)&&!/^title:\(/.test(x));if(!o.kw&&!extra&&!o.raw)p2.push(`(${pick(WORDS)} OR ${pick(WORDS)} OR ${pick(WORDS)})`);
+  if(docs.length<8){const p2=p.filter(x=>!/^publicdate:/.test(x)&&(o.raw||!/^title:\(/.test(x)));if(!o.kw&&!extra&&!o.raw)p2.push(`(${pick(WORDS)} OR ${pick(WORDS)} OR ${pick(WORDS)})`);
     qq=p2.join(' AND ');const u2=new URLSearchParams({q:qq,rows:60,page:rnd(1,o.kw?1:5),output:'json'});["identifier","title","publicdate","downloads","creator"].forEach(f=>u2.append('fl[]',f));
     const more=(await J('https://archive.org/advancedsearch.php?'+u2).catch(()=>({response:{docs:[]}}))).response.docs.filter(d=>inYears(d.publicdate,o)||!o.kw);
     const ids=new Set(docs.map(d=>d.identifier));docs=docs.concat(more.filter(d=>!ids.has(d.identifier)))}
