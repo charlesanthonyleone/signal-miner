@@ -25,7 +25,9 @@ def wayback(kind):
     site=random.choice(SITES); mt="video/.*" if kind=="video" else random.choice(["image/gif","image/jpeg"])
     p={"url":site,"matchType":"prefix","filter":[f"mimetype:{mt}","statuscode:200"],"limit":400 if kind=="video" else 300,"output":"json","fl":"timestamp,original,mimetype,length",
        "collapse":"urlkey","offset":random.randint(0,3000) if kind=="image" else 0}
-    rows=requests.get("https://web.archive.org/cdx/search/cdx",params=p,headers=UA,timeout=120).json()[1:]
+    txt=requests.get("https://web.archive.org/cdx/search/cdx",params=p,headers=UA,timeout=150).text.strip()
+    rows=json.loads(txt)[1:] if txt.startswith("[") else []
+    if not rows: raise Exception(f"no rows for {site} {mt}")
     if kind=="image": rows=[r for r in rows if r[3].isdigit() and int(r[3])>8000]  # skip tiny buttons/spacers
     out=[]
     for ts,orig,m,ln in random.sample(rows,min(6,len(rows))):
@@ -37,7 +39,7 @@ def wayback(kind):
             "query":f"CDX url={site}* mimetype={mt}","extra":f"{m} · {ln} bytes · original: {orig}"})
     return out
 jobs=[("youtube",lambda:yt("raw clip")),("youtube",lambda:yt("raw clip")),("youtube",lambda:yt("old tv")),("youtube",lambda:yt("old film")),
-      ("wayback_video",lambda:wayback("video")),("wayback_image",lambda:wayback("image")),("wayback_image",lambda:wayback("image"))]
+      ("wayback_video",lambda:wayback("video")),("wayback_video",lambda:wayback("video")),("wayback_video",lambda:wayback("video")),("wayback_image",lambda:wayback("image")),("wayback_image",lambda:wayback("image"))]
 os.makedirs("finds",exist_ok=True); data={}
 for f,fn in jobs:
     L=data.setdefault(f,load(f)); seen={x["url"] for x in L}
