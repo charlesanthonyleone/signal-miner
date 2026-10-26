@@ -1,34 +1,31 @@
-// TRENCH deep VIDEO / IMAGE miners. Every item is gated: no thumbnail or media loads until the user clicks through.
+// TRENCH grayspace media + OPEN DIRECTORIES flagship. No archive.org items here (archive.org = LIVE section).
+// Wayback CDX is used only to reach files on dead hosts (GeoCities/Angelfire/Tripod/etc.) that no longer exist on the live web.
+// Every media item is gated: no thumbnail or player loads until the user clicks through.
 (function(G){
-const pk=a=>a[Math.floor(Math.random()*a.length)];
-const JJ=async u=>{const r=await fetch(u);if(!r.ok)throw new Error(r.status);return r.json()};
-function win(){const y=2008+Math.floor(Math.random()*(new Date().getFullYear()-2007)),m=1+Math.floor(Math.random()*12),s=`${y}-${String(m).padStart(2,'0')}-01`;const e=new Date(Date.UTC(y,m,0)).toISOString().slice(0,10);return [s,e]}
-const RAWV=['"VID_*"','"MOV_*"','"IMG_*"','"MVI_*"','"DSC*"','"video*"','"untitled*"','"New video*"','"GOPR*"','"20*"','"clip*"','"REC*"'];
-const RAWI=['"IMG_*"','"DSC*"','"scan*"','"image*"','"untitled*"','"photo*"','"P10*"','"CIMG*"'];
-function ia(mt,raw,module){return async o=>{let docs=[],q='';
-  for(const [cap,useWin,useRaw] of [[5,1,1],[5,1,0],[5,0,1],[5,0,0]]){if(docs.length>=6)break;const [a,b]=win();
-   q=`mediatype:${mt} AND downloads:[0 TO ${cap}]`+(o.kw?` AND (${o.kw})`:useRaw?` AND title:(${raw.slice().sort(()=>Math.random()-.5).slice(0,5).join(' OR ')})`:'')+(useWin?` AND addeddate:[${a} TO ${b}]`:'');
-   const u=new URLSearchParams({q,rows:100,page:1+Math.floor(Math.random()*(useWin?2:8)),output:'json'});
-   ['identifier','title','addeddate','downloads','description','uploader','format'].forEach(f=>u.append('fl[]',f));u.append('sort[]',pk(['downloads asc','addeddate desc','addeddate asc']));
-   docs=(await JJ('https://archive.org/advancedsearch.php?'+u)).response.docs.filter(d=>(d.downloads||0)<=cap)}
-  docs.sort((x,y)=>(x.downloads||0)-(y.downloads||0));
-  return docs.slice(0,30).map(d=>({module,source:'Internet Archive '+mt,title:[].concat(d.title||d.identifier).join(' '),date:String(d.addeddate||'').slice(0,10),dateLabel:'uploaded',
-   count:d.downloads||0,countLabel:'downloads',thumb:`https://archive.org/services/img/${d.identifier}`,gated:true,kind:mt==='movies'?'iframe':'img',mime:mt==='movies'?'video/*':'image/*',
-   src:mt==='movies'?`https://archive.org/embed/${d.identifier}`:`https://archive.org/services/img/${d.identifier}`,embed:mt==='movies',
-   url:`https://archive.org/details/${d.identifier}`,preview:String([].concat(d.description||'').join(' ')).replace(/<[^>]+>/g,' ').slice(0,300)||'(no description — never curated)',
-   query:q+' · fewest downloads first',extra:`uploader: ${d.uploader||'?'} · formats: ${[].concat(d.format||[]).slice(0,4).join(', ')}`}))}}
-function log(file,module){return async o=>{const L=await fetch(`finds/${file}.json?`+Date.now()).then(r=>r.json()).catch(()=>[]);
-  const f=L.filter(x=>!o.kw||JSON.stringify(x).toLowerCase().includes(o.kw.toLowerCase())).sort(()=>Math.random()-.5);
-  return f.slice(0,40).map(x=>({...x,module,gated:true}))}}
-const sub=(L,src)=>async o=>(await log(L,'')(o)).filter(x=>src.test(x.source||''));
-const wrap=(f,module)=>async o=>(await f(o)).map(x=>({...x,module}));
+const NOIA=x=>!/(^|\/\/|\.)archive\.org\/(details|embed|services|download)/.test(x.url||'')&&!/Internet Archive/.test(x.source||'');
+const cache={};
+async function L(file){if(!cache[file])cache[file]=fetch(`finds/${file}.json?`+Math.floor(Date.now()/6e5)).then(r=>r.ok?r.json():[]).catch(()=>[]);return cache[file]}
+const hay=x=>[x.title,x.url,x.query,x.extra,x.host,x.kw,x.preview].join(' ').toLowerCase();
+const match=(x,kw)=>!kw||kw.toLowerCase().split(/\s+/).filter(Boolean).every(w=>hay(x).includes(w));
+const show=(x,module)=>{const media=/^(image|video)/.test(x.ftype||x.mime||'')||x.kind==='img'||x.kind==='video';
+  return {...x,module,gated:media||!!x.gated,count:x.count??null,
+   extra:[x.ftype&&('type: '+x.ftype),x.size&&('size: '+x.size),x.date&&((x.dateLabel||'date')+': '+x.date),x.host&&('host: '+x.host),x.extra].filter(Boolean).join(' · ')}};
+function from(files,module,test){return async o=>{let A=[];for(const f of files)A=A.concat(await L(f));
+  const seen=new Set();A=A.filter(x=>NOIA(x)&&(!test||test(x))&&match(x,o.kw)&&!seen.has(x.url)&&seen.add(x.url));
+  return A.sort(()=>Math.random()-.5).slice(0,o.kw?80:40).map(x=>show(x,module))}}
+const isV=x=>/video/.test(x.ftype||x.mime||'')||/\.(avi|mpe?g|mov|wmv|asf|rm|ram|mp4|m4v|webm|flv|3gp|ogv|mkv|vob)(\?|$)/i.test(x.url||'');
+const isI=x=>/image/.test(x.ftype||x.mime||'')||/\.(jpe?g|gif|png|bmp|tiff?|webp|pcx)(\?|$)/i.test(x.url||'');
 G.DEEPMEDIA_MODULES={
- deepvideo:{half:'trench',name:'DEEP VIDEO',icon:'🎞',blurb:'Near-zero-view video: raw IA uploads (≤5 downloads), Wayback-archived video files from dead hosts, 0–100-view YouTube. Everything behind click-through.',sources:{
-  ia:{name:'IA raw uploads',f:ia('movies',RAWV,'deepvideo'),note:'Random month, downloads ≤5, raw camera filenames first. Thumbnail + player gated.'},
-  wayback:{name:'Wayback video files',f:wrap(sub('deep_video',/Wayback/),'deepvideo'),note:'Mined every 3h: CDX mimetype video/* under old GeoCities/Tripod/Angelfire/AOL member paths.'},
-  yt:{name:'Zero-view YouTube',f:wrap(sub('deep_video',/YouTube/),'deepvideo'),note:'Mined every 3h with yt-dlp: default camera filenames (IMG_1234, MVI_…) and obscure terms, views ≤100.'}}},
- deepimage:{half:'trench',name:'DEEP IMAGE',icon:'🖼',blurb:'Near-zero-view images: IA image items (≤5 downloads), Wayback images from dead domains, image files inside open directories. Thumbnails gated.',sources:{
-  ia:{name:'IA raw images',f:ia('image',RAWI,'deepimage'),note:'Random month, downloads ≤5, raw scan/camera names first. Thumbnail gated.'},
-  wayback:{name:'Wayback images',f:wrap(sub('deep_image',/Wayback/),'deepimage'),note:'Mined every 3h: old jpg/gif under dead member-site paths, >8 KB only.'},
-  opendir:{name:'Open-dir images',f:wrap(sub('deep_image',/Open Directory/),'deepimage'),note:'Image files found while random-walking public Index-of trees.'}}}};
+ opendirx:{half:'trench',name:'OPEN DIRECTORIES',icon:'📂',flagship:true,blurb:'FLAGSHIP grayspace miner. Type a keyword (occult, ufo, vhs…) to search every harvested "Index of /" listing — files found via search-engine dorks (intitle:"index of" <kw>), urlscan sightings, and random descent through old public mirrors. Blank = random mine. Name · type · size · date · host · parent dir. Media gated.',sources:{
+  all:{name:'All files',f:from(['deep_odindex'],'opendirx'),note:'Pre-harvested every 3h by the Action (browser CORS blocks most dir hosts). Keyword filters name, path, host and the search that found it.'},
+  text:{name:'Text / docs',f:from(['deep_odindex'],'opendirx',x=>/text|other/.test(x.ftype||'')),note:'txt/nfo/asc/doc/pdf and extensionless files.'},
+  media:{name:'Images & video',f:from(['deep_odindex'],'opendirx',x=>isV(x)||isI(x)),note:'Media in open dirs — gated behind the click-through.'},
+  dirs:{name:'Directories found',f:async o=>{const A=(await L('deep_odindex')).filter(x=>match(x,o.kw));const m=new Map();A.forEach(x=>{const p=(x.links&&x.links[0]&&x.links[0][1])||x.url;const e=m.get(p)||{n:0,host:x.host,q:x.query,t:new Set()};e.n++;e.t.add(x.ftype);m.set(p,e)});
+   return [...m].sort(()=>Math.random()-.5).slice(0,40).map(([p,e])=>({module:'opendirx',source:'Open Directory',title:p.replace(/^https?:\/\//,''),url:p,kind:'link',thumb:'',count:e.n,countLabel:'files indexed',date:'',preview:`types: ${[...e.t].join(', ')} · found via ${e.q}`,extra:'host: '+e.host}))},note:'Unique Index-of directories behind the hits.'}}},
+ deepvideo:{half:'trench',name:'DEEP VIDEO',icon:'🎞',blurb:'Grayspace video only: video files archived from dead personal hosts (GeoCities/Angelfire/Tripod/AOL…) via Wayback CDX, plus video files sitting in open directories and gopher/crawl finds. No archive.org items, no YouTube. Everything gated.',sources:{
+  dead:{name:'Dead-host video files',f:from(['deep_video'],'deepvideo',x=>/Wayback CDX/.test(x.source||'')),note:'CDX mimetype video/* under random dead member-site paths; pre-harvested every 3h.'},
+  opendir:{name:'Open-dir video',f:from(['deep_video','deep_odindex'],'deepvideo',x=>isV(x)&&/Open Directory|Gopher|Crawl/i.test(x.source||'')),note:'Video files in Index-of listings / gopher / crawl finds.'}}},
+ deepimage:{half:'trench',name:'DEEP IMAGE',icon:'🖼',blurb:'Grayspace images only: jpg/gif/png from dead personal hosts via Wayback CDX, image files in open directories and gopher/crawl finds. No archive.org items. Thumbnails gated.',sources:{
+  dead:{name:'Dead-host images',f:from(['deep_image'],'deepimage',x=>/Wayback CDX/.test(x.source||'')),note:'CDX image/* (>6 KB) under random dead member-site paths.'},
+  opendir:{name:'Open-dir images',f:from(['deep_image','deep_odindex'],'deepimage',x=>isI(x)&&/Open Directory|Gopher|Crawl/i.test(x.source||'')),note:'Image files in Index-of listings / gopher / crawl finds.'}}}};
 })(window);

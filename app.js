@@ -169,8 +169,6 @@ const MODULES={
 
  crawl:{half:'trench',name:'COMMON CRAWL',icon:'≋',blurb:'Obscure-TLD page captures. Text/metadata only.',sources:{
   crawl:{name:'Obscure pages',f:async o=>{try{const r=await ccObscureLive(o);if(r.length)return r}catch(e){console.warn(e)}return logSrc('deep_crawl','crawl')(o)},note:'Random obscure TLD captures from Common Crawl (public index). NSFW filtered. Hardline random — not a curated list.'}}},
- opendir:{half:'trench',name:'OPEN DIRS',icon:'📁',blurb:'Public Index-of listings. Filenames only.',sources:{
-  opendir:{name:'Index of /',f:logSrc('deep_opendir','opendir'),note:'Found via urlscan public search, pre-mined. Filenames/types only — media never fetched.'}}},
  gopher:{half:'trench',name:'GOPHER',icon:'🕳️',blurb:'Gopher holes via Floodgap HTTP gateway.',sources:{
   gopher:{name:'Gopher holes',f:logSrc('deep_gopher','gopher'),note:'Pre-mined via public Floodgap gateway. No Tor.'}}},
  gists:{half:'trench',name:'GISTS',icon:'📋',blurb:'Recent public GitHub gists (paste dumps).',sources:{
