@@ -1,36 +1,5 @@
-<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Uncurated Media Miner</title>
-<style>body{background:#050806;color:#7f7;font-family:monospace;max-width:900px;margin:auto;padding:20px}
-h1{letter-spacing:4px;text-shadow:0 0 8px #3f3}h2{font-size:15px;border-bottom:1px solid #1a3;margin-top:30px}button,select{background:#020;color:#7f7;border:1px solid #3f3;padding:10px 20px;font:inherit;cursor:pointer}
-#out{margin-top:20px;border:1px solid #1a3;padding:15px;min-height:200px}iframe,video{width:100%;aspect-ratio:16/9;border:0;background:#000}
-a{color:#9cf;word-break:break-all}.dim{color:#476}.log{font-size:12px;color:#5a7}.log div{margin:3px 0}</style></head><body>
-<h1>▓ UNCURATED MEDIA MINER ▓</h1>
-<p class="dim">Pulls random, low-view, raw-filename public uploads from Internet Archive and random videos from Wikimedia Commons, live from your browser. A scheduled GitHub Actions job also mines YouTube + Archive every 3 hours and logs finds below. Everything here is ordinary public media with real links and dates.</p>
-<select id="src"><option value="">any source</option><option value="ia">Internet Archive</option><option value="commons">Wikimedia Commons</option></select>
-<button onclick="mine()">⛏ MINE</button>
-<div id="out" class="dim">awaiting signal…</div>
-<h2>YOUR LOCAL LOG (this browser only)</h2><div id="local" class="log"></div>
-<h2>PUBLIC MINING LOG (automated, finds.json)</h2><div id="feed" class="log">loading…</div>
-<script>
-const pick=a=>a[Math.floor(Math.random()*a.length)],rnd=(a,b)=>a+Math.floor(Math.random()*(b-a+1));
-const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-async function ia(){const pat=pick(["IMG_*","MVI_*","DSC*","VID_*","MOV*","untitled","video*","GOPR*"]),y=rnd(2004,2025);
-const q=`mediatype:movies AND title:(${pat}) AND downloads:[0 TO 25] AND publicdate:[${y}-01-01T00:00:00Z TO ${y}-12-31T23:59:59Z]`;
-const p=new URLSearchParams({q,rows:50,page:1,output:'json'});["identifier","title","publicdate","downloads"].forEach(f=>p.append('fl[]',f));
-const docs=(await (await fetch('https://archive.org/advancedsearch.php?'+p)).json()).response.docs;if(!docs.length)return null;
-const d=pick(docs),i=d.identifier;return{source:"Internet Archive",title:d.title,date:(d.publicdate||'').slice(0,10),views:d.downloads,views_label:"downloads",url:`https://archive.org/details/${i}`,embed:`https://archive.org/embed/${i}`,query:q}}
-async function commons(){const p=new URLSearchParams({action:'query',format:'json',origin:'*',generator:'search',gsrsearch:'filetype:video',gsrnamespace:6,gsroffset:rnd(0,9999),gsrlimit:1,prop:'imageinfo',iiprop:'url|timestamp|user|mime'});
-const pg=Object.values((await (await fetch('https://commons.wikimedia.org/w/api.php?'+p)).json()).query.pages)[0],ii=pg.imageinfo[0];
-return{source:"Wikimedia Commons",title:pg.title,date:ii.timestamp.slice(0,10),views:null,views_label:"",url:ii.descriptionurl,video:ii.url,query:"random filetype:video (offset "+p.get('gsroffset')+")"}}
-const SRC={ia,commons};
-function card(d){const m=d.video?`<video controls src="${esc(d.video)}"></video>`:`<iframe src="${esc(d.embed)}" allowfullscreen></iframe>`;
-return `${m}<h3>${esc(d.title||'(untitled)')}</h3><div>source: ${esc(d.source)} · uploaded: ${esc(d.date||'unknown')} · ${d.views!=null?esc(d.views)+' '+esc(d.views_label):'views not reported'}</div><div><a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.url)}</a></div><div class="dim">query: ${esc(d.query)}</div>`}
-const line=d=>`<div>${esc(d.mined_at)} · ${esc(d.source)} · ${esc(d.title)} · <a href="${esc(d.url)}" target=_blank rel=noopener>${esc(d.url)}</a></div>`;
-function drawLocal(){document.getElementById('local').innerHTML=(JSON.parse(localStorage.miner||'[]')).map(line).join('')||'<span class=dim>nothing yet</span>'}
-async function mine(){const o=document.getElementById('out');o.innerHTML='scanning…';const s=document.getElementById('src').value;
-const keys=s?[s]:Object.keys(SRC).sort(()=>Math.random()-.5);
-for(const k of keys)for(let t=0;t<4;t++){try{const d=await SRC[k]();if(d){d.mined_at=new Date().toISOString().slice(0,19)+'Z';o.innerHTML=card(d);
-const L=JSON.parse(localStorage.miner||'[]');L.unshift(d);localStorage.miner=JSON.stringify(L.slice(0,200));drawLocal();return}}catch(e){console.warn(k,e)}}
-o.textContent='no signal found, try again'}
-fetch('finds.json?'+Date.now()).then(r=>r.json()).then(f=>{document.getElementById('feed').innerHTML=f.slice().reverse().slice(0,300).map(line).join('')||'<span class=dim>no automated finds yet</span>'}).catch(e=>feed.textContent='feed error: '+e);
-drawLocal();
-</script></body></html>
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Signal Miner · Uncurated Media</title><link rel="stylesheet" href="style.css"></head>
+<body class="video"><header><h1>▓ SIGNAL MINER ▓</h1><nav></nav></header><main></main>
+<div class="modal" id="modal" onclick="event.target===this&&closeM()"><div class="box" id="mb"></div></div>
+<footer>Finds are ordinary public media from Internet Archive, Wikimedia Commons, Dailymotion, Openverse, The Met, Open Library, Project Gutenberg, YouTube and the Wayback Machine. Media plays from the original source. Counts and dates are what each source reports. Vault is stored only in your browser. <a href="https://github.com/charlesanthonyleone/signal-miner" style="color:inherit">source</a></footer>
+<script src="app.js"></script></body></html>
