@@ -85,3 +85,5 @@ body.reliquary{--accent:#e8cf9a;--accent2:#a8743a;background:radial-gradient(900
 body.reliquary .card{background:#f1e4c4;color:#2a1c0c;border-color:#a8743a}body.reliquary .card a{color:#6a3a10}
 
 .empty{grid-column:1/-1;padding:24px;border:1px dashed #555;opacity:.85;line-height:1.6}.empty a{color:inherit;text-decoration:underline}
+.blurwrap{position:relative;cursor:pointer}.blurwrap.blurred img,.blurwrap.blurred video{filter:blur(28px) saturate(.4);pointer-events:none}
+.blurwrap .blurnote{font-size:12px;color:var(--mut,#9ab);padding:4px 0}.blurwrap:not(.blurred) .blurnote b{display:none}

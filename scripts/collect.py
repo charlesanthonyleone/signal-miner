@@ -34,7 +34,8 @@ SITES=["geocities.com/Hollywood/","geocities.com/SoHo/","geocities.com/TimesSqua
 from gemini import gemini_find
 from grayspace import opendir_index, cdx_media, gray_media
 def deep_video(): return cdx_media("video",14,10)+gray_media("video")
-def deep_image(): return cdx_media("image",14,8)+gray_media("image")
+def deep_image():
+    import skin; return skin.prescreen(cdx_media("image",14,8)+gray_media("image"))
 
 jobs=[
     ("deep_crawl", deep_crawl),
@@ -90,7 +91,14 @@ for f, fn in jobs:
 # OPEN DIRECTORIES big keyword index: incremental breadth crawl of public mirrors -> compact [url,size,date] rows
 try:
     import odcrawl, re as _re
-    roots=random.sample(odcrawl.ROOTS,5)
+    try: OH=json.load(open("finds/odhosts.json"))
+    except Exception: OH=[]
+    try:
+        known={h["root"] for h in OH}|set(odcrawl.ROOTS)
+        OH+=[h for h in odcrawl.discover_hosts(6,known) if h["root"] not in known]
+        json.dump(OH[-500:],open("finds/odhosts.json","w"),indent=0)
+    except Exception as e: print("discover error:",e)
+    roots=random.sample(odcrawl.ROOTS,4)+random.sample([h["root"] for h in OH],min(3,len(OH)))
     got=odcrawl.crawl(250,240,roots)
     J=_re.compile(r"recipes|linux|comp\.binaries|comp\.sources|eunet\.sources|/rfc|standards|errata|TED-talks|/(gnu|gentoo|debian|openbsd|slackware|apache)/|\.(sig|patch|diff|md5|rpm|deb|crate|iso)$",_re.I)
     old=json.load(open("finds/odbig.json")); have={r[0] for r in old}
