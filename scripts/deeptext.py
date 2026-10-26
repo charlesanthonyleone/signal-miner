@@ -74,6 +74,10 @@ def _warc_snip(row):
 
 CTLDS=[".nu",".is",".li",".ws",".md",".kg",".by",".ge",".am",".su",".tk",".ml",".fm",".museum",".coop",".aero",".int"]
 JUNKTXT=("robots.txt","ads.txt","app-ads.txt","security.txt","humans.txt","sitemap.txt","llms.txt","license.txt","readme.txt","changelog.txt")
+TXTHOSTS=["textfiles.com","www.textfiles.com","artifice.bbs.textfiles.com","ftp.funet.fi","www.sacred-texts.com","www.gutenberg.org","www.ibiblio.org","www.fourmilab.ch",
+ "www.cs.cmu.edu","www.etext.org","www.hermetic.com","www.esotericarchives.com","www.bibliotecapleyades.net","www.keelynet.com","www.rexresearch.com","www.ufoevidence.org",
+ "www.nicap.org","www.ccel.org","www.earlychristianwritings.com","www.gnosis.org","www.phrack.org","www.cuyamaca.net","www.mit.edu","www.lysator.liu.se"]
+SPAMTXT=re.compile(r"paynow|order now|buy now|casino|\bslot|betting|viagra|cialis|loan|crypto|forex|seo |backlink|escort|replica|discount|coupon|ideal_links|affiliate|click here",re.I)
 def _hosts_from_crawl():
     try: d=json.load(open("finds/deep_crawl.json"))
     except Exception: d=[]
@@ -85,7 +89,7 @@ def _cdx_txt(host):
     try:
         r=requests.get(CC,params={"url":f"{host}/*","output":"json","limit":200,"filter":["mime:text/plain","status:200"]},headers=UA,timeout=40)
         rows=[json.loads(l) for l in r.text.splitlines() if l.startswith("{")]
-        rows=[{"url":x["url"],"timestamp":x.get("timestamp",""),"length":x.get("length",0),"via":"Common Crawl"} for x in rows if isinstance(x,dict) and x.get("url")]
+        rows=[{"url":x["url"],"timestamp":x.get("timestamp",""),"length":x.get("length",0),"offset":x.get("offset"),"filename":x.get("filename"),"via":"Common Crawl"} for x in rows if isinstance(x,dict) and x.get("url")]
     except Exception as e: print("cc host",host,e)
     if not rows:
         try:
@@ -95,20 +99,22 @@ def _cdx_txt(host):
         except Exception as e: print("wb host",host,e)
     return [x for x in rows if not x.get("url","").lower().split("?")[0].endswith(JUNKTXT) and not is_bad(x.get("url","")) and x.get("url")]
 def cc_text(n=10, hosts=None):
-    out=[]; hosts=(hosts or _hosts_from_crawl())[:14]
+    out=[]; hosts=(hosts or (random.sample(TXTHOSTS,10)+_hosts_from_crawl()[:2]))
     for host in hosts:
         if len(out)>=n: break
-        rows=_cdx_txt(host); random.shuffle(rows)
+        rows=[r for r in _cdx_txt(host) if not re.search(r"json|xmlui|/linux/|install|changes|upgrade",r["url"],re.I)]; random.shuffle(rows); rows.sort(key=lambda r:not bucket(r["url"]))
         print("cc_text",host,len(rows))
         for row in rows[:2]:
             ts=row["timestamp"]
-            try: t=requests.get(f"https://web.archive.org/web/{ts}id_/{row['url']}",headers=UA,timeout=25).text[:3000]
-            except Exception: continue
+            if row.get("filename"): t=_warc_snip(row)
+            else:
+                try: t=requests.get(f"https://web.archive.org/web/{ts}id_/{row['url']}",headers=UA,timeout=25).text[:3000]
+                except Exception: continue
             if len(t.strip())<60 or is_bad(t) or "<html" in t[:300].lower(): continue
             b=bucket(row["url"]+" "+t)
             out.append({"source":row["via"]+" text/plain","title":row["url"].split("://")[-1][:110],"date":f"{ts[:4]}-{ts[4:6]}-{ts[6:8]}","dateLabel":"captured",
               "count":int(row.get("length") or 0),"countLabel":"bytes","kind":"meta","depth":random.choice(DEPTHS),"mime":"text/plain","preview":t[:1500],
-              "url":f"https://web.archive.org/web/{ts}/{row['url']}","query":f"{row['via']} url={host}/* mime:text/plain (host from obscure-TLD crawl)","bucket":b,
+              "url":row['url'] if row.get("filename") else f"https://web.archive.org/web/{ts}/{row['url']}","query":f"{row['via']} url={host}/* mime:text/plain (host from obscure-TLD crawl)","bucket":b,
               "extra":f"bucket: {b or 'unsorted'} · original: {row['url']} · host: {host}"})
     return out
 
@@ -174,7 +180,9 @@ def deep_text(opendirs=()):
     for fn in (veronica, cc_text, lambda: opendir_text(list(opendirs))):
         try: out+=fn()
         except Exception as e: print("deep_text",e)
-    return out
+    from grayspace import SPAM
+    return [x for x in out if not SPAM.search(x.get("url","").split("/")[2] if "://" in x.get("url","") else x.get("url",""))
+            and not SPAMTXT.search(x.get("url","")+" "+x.get("title","")+" "+x.get("preview","")[:600]) and not is_bad(x.get("preview",""))]
 
 if __name__=="__main__":
     r=veronica(6); print(json.dumps([(x["title"],x["extra"][:60],x["preview"][:80]) for x in r],indent=1))
