@@ -1,4 +1,48 @@
-# Changelog — 2026-10-26
+# Signal Miner — status & changelog
+
+## Status summary (end of Pass 5, 2026-10-26)
+
+**What it is.** A static site (GitHub Pages) for mining obscure, low-traffic public material: unwatched uploads, dead-host web media, open directories, gopher/Gemini text, live sensor feeds, forgotten patents and old religious and historical texts. It uses legal public sources only: no Tor/onion, no logins, no scanning.
+
+**Safety layer (unchanged, verified live).** Media gate (thumbnails hidden until clicked), keyword/domain blocklist on every card, per-card Report & hide, `moderation.html` portal with NCMEC CyberTipline, FBI and IC3 links plus per-platform report links, disclaimer, and a local-only Vault (saved finds) with 🔗 share links.
+
+**How it stays fed.** The `mine.yml` GitHub Action runs every 3 hours (cron `17 */3 * * *`, about 45 min cap) and runs `scripts/collect.py`, which commits refreshed JSON in `finds/`:
+- gopher (Veronica-2), Common Crawl text and open-dir .txt → `deep_text.json` (mojibake repaired)
+- open-directory discovery (DDG/Bing/Mojeek "Index of", curated mirrors, junk/quality filter) → `odbig.json` (about 17.8k quality rows)
+- Wayback CDX dead-host media, resumable and chunked (`vidstate.json`) → `deep_video.json` and deep images
+- public gists → `gists.json` (fallback for GitHub's 60 requests/hour browser limit)
+- loc.gov newspapers per RELIQUARY theme → `rel_news.json` (fallback for slow loc.gov)
+
+In the browser, `net.js` gives every fetch a timeout, a 15-minute cache for slow APIs, a last-good fallback and readable errors.
+
+### Final live smoke test (live site, 210 sources, 5 at a time)
+| Section | Modules | Result |
+|---|---|---|
+| LIVE | video, image, audio, book | PASS. 16/17 sources returned results. Openverse timed out once (25 s); it is intermittent and returned 20 in Pass 4. |
+| TRENCH (grayspace only, no archive.org) | opendirx (all/text/media/dirs 40 each), deepimage 74, deepvideo 36, gopher 8, gemini 32, crawl 48, gists 16, cameras 48, satnogs 48, space 20, chain 48, hidden 48, timeskew 48, tectonics 17, radiation 5 | PASS. 20/20 sources returned results. |
+| THEO (20 belief themes × ia / pile / gray / openlib / gutenberg / gist) | all 20 | PASS with gaps. Every theme has results from its deep-mine and Open Library tabs. The zero-download pile now falls back to a theme-keyword search. Gray is empty only for geniza and deadlang, and their message names what was checked. Gists are almost never on-theme, so that tab usually shows an honest "none in 500 scanned" message. |
+| INVENTO (14 patent themes × Google Patents / USPTO / gray) | all 14 | PASS. Google Patents and USPTO return results for 13 of 14 themes (inv_weird only has USPTO). USPTO is thin for aliens, dead and mindctl. Gray now adds open-directory invention files. |
+| RELIQUARY (maps, confessions, ciphers, wrecks, capsules) | all 5 | PASS. ia, gray and wd return results. News returns 12–25, but loc.gov can take more than 60 s (capsule timed out once; the cached harvest covers it). |
+| Vault / share / moderation | | PASS. Save, view and 🔗 work; `moderation.html` loads with NCMEC and IC3; no JS errors. |
+
+### Known limitations / blockers
+- archive.org, loc.gov, Openverse and Gutendex are slow at times. Modules show a timeout message or cached results rather than hanging.
+- Deep Video is still mostly Angelfire (the UI says so). Wayback CDX is slow, so each Action run adds only about 4–8 Wayback items.
+- THEO theme regexes are deliberately broad, so some pile hits are loosely related (for example "codex" or "annotation" in unrelated titles).
+- geniza and deadlang have no grayspace text yet. Gists are rarely on-theme.
+- Dailymotion raw mode (camera filenames with ≤300 views) is sparse because Dailymotion search favours popular videos. It widens automatically and says so when empty.
+- Open-directory discovery through Bing finds few new hosts. Growth comes mostly from curated mirrors.
+- The Vault is per-browser (localStorage). Share links encode the find in the URL.
+
+## Pass 5 — 2026-10-26 (wrap-up)
+- THEO zero-download pile: when the random window has nothing on-theme, it falls back to a low-download (≤20) title search built from the theme's own keywords and matched strictly on title. This fixed a bug that requested a random page up to 40 (lostciv pile 0 → 7).
+- THEO gist: scans one live page plus the Action pile (about 500 gists) and matches the theme regex strictly. When nothing matches, it says how many it scanned.
+- THEO gray: accurate empty state (counts of texts and filenames checked). Open-dir filename noise filter added (aspell/dictionaries/wordlists, games/roms/mods, fonts, drivers, src, readme/license/install, 00INDEX). .zip files are no longer treated as documents.
+- lostciv: `indus` is word-bounded, so it no longer matches "Industries".
+- INVENTO gray: adds open-directory files named for inventions (orgone, Schauberger, Tesla, patent…), deduplicated, at most 3 per directory. Previously every theme showed the same single file.
+- Dailymotion: when thin, widens (drops the date window, tries 2 more terms). Raw mode shows an honest message when empty.
+- CHANGELOG tidied (stray Pass 4 line moved into Pass 4) and this status summary added.
+
 - TRENCH is grayspace-only: archive.org/YouTube removed from all deep modules (NOIA filter); Internet Archive stays in LIVE only.
 - OPEN DIRECTORIES flagship (keyword + random): title-gated "Index of" discovery (DDG/Bing/Mojeek in Action), urlscan, curated mirror seeds (funet, ibiblio, textfiles, lip6, aarnet…); spam-TLD/gambling filter; harvested to finds/deep_odindex.json.
 - Deep video/image repointed to Wayback CDX of dead hosts (GeoCities/Angelfire/Tripod) + open-dir/gopher/crawl media; cards show name, type, size, date, host, source. 40 Angelfire images pre-harvested.
@@ -13,10 +57,11 @@
 - **GitHub gists**: now harvested in the Action (`scripts/gists.py` → `finds/gists.json`, using the Action token). TRENCH Gists and THEO Raw gists fall back to that pile when the visitor's IP hits the 60 requests/hour limit.
 - **RELIQUARY Old newspapers**: loc.gov takes about 30 s per query, so the Action pre-harvests each theme (`scripts/relnews.py` → `finds/rel_news.json`). The live search is limited to 2 attempts and 10 OCR-snippet fetches, then falls back to the cache, and shows a clear error if both fail.
 - **LIVE Archive image/texts/audio**: thin queries (under 8 hits) are widened by dropping the random single-year filter and OR-ing extra terms. Raw title patterns are kept.
-- **Deep Video**: `scripts/vidharvest.py` is a resumable, chunked Wayback CDX harvest. It saves its progress in `finds/vidstate.json`, does non-Angelfire hosts first, and splits a timed-out shard into 36 sub-shards that are queued for a later run. It runs every 3 hours, so the GeoCities/OoCities/Tripod/Xoom/50megs/FortuneCity/AOL mix grows over time. Open-directory video files from the 40k index are now added to the pool (at most 3 per directory). The UI says honestly that the pile is Angelfire-heavy for now.
+- **Deep Video**: `scripts/vidharvest.py` is a resumable, chunked Wayback CDX harvest. It saves its progress in `finds/vidstate.json`, does non-Angelfire hosts first, and splits a timed-out shard into 36 sub-shards that are queued for a later run. It runs every 3 hours, so the GeoCities/OoCities/Tripod/Xoom/50megs/FortuneCity/AOL mix grows over time. Open-directory video files from the open-directory index are now added to the pool (at most 3 per directory). The UI says honestly that the pile is Angelfire-heavy for now.
 - **Gopher text**: repairs garbled characters (mojibake) where gateway pages were decoded as latin-1 but were really UTF-8, Big5, GBK, Shift-JIS or EUC-KR (`scripts/textfix.py`). It runs at save time and has already cleaned existing finds.
 - **Open Directories**: Bing discovery now rejects junk URLs (wp-content, uploads, php/aspx, torrents and release tags, spam TLDs) and scores host quality (academic or mirror hosts, document/media-heavy listings, few site assets). A host needs a score of 2 or more and at least 10 entries. Added 1.4k files from the funet, lip6, aarnet and sunet mirrors. The junk filter was applied to old rows (8.8k numbered usenet .gz files, tarballs and source dumps removed). The index is now about 17.8k quality rows.
 - Fixed the OD "Directories found" tab showing `query: undefined`.
+- THEO "gray" sources now also mine the open-directory filename index by theme regex (lostciv gray: 0 → 1; 18/20 locally; verified live in Pass 5 theo gray sources non-empty).
 
 ## Pass 3 — 2026-10-26
 
@@ -32,4 +77,3 @@
 - INVENTO: weather queries rewritten (artificial rain, cloud seeding, hail cannon, fog dissipation…), title-gated filters for aliens/weather/dead, a negative filter for off-theme hits, and a fix for double-escaped regexes. Dead now finds ouija boards, coffin alarms and premature-burial devices.
 - DEEP TEXT: spam/blocklist screen on every text find. Common Crawl text now reads WARC byte ranges over curated obscure text hosts.
 - Fixed a quote syntax error in deepmedia.js. Vault save/view, empty states and the moderation portal were verified in a headless browser.
-- THEO "gray" sources now also mine the open-directory filename index by theme regex (lostciv gray: 0 → 1; 18/20 theo gray sources non-empty).
