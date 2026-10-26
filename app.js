@@ -72,8 +72,7 @@ const MODULES={
   ia_raw:{name:'Archive · raw clips',f:iaSrc({mt:'movies',rawPats:RAWV,source:'Internet Archive',module:'video'}),note:'archive.org movies, live search.'},
   ia_films:{name:'Archive · films & TV',f:iaSrc({mt:'movies',extra:'collection:(prelinger OR classic_tv OR feature_films OR ephemera OR classic_cartoons OR television OR moviesandfilms)',rawMax:100,source:'Internet Archive',module:'video'}),note:'Prelinger, classic TV, feature films, ephemeral films, cartoons.'},
   commons:{name:'Wikimedia Commons',f:commonsSrc('video','video'),note:'Commons video files, live search.'},
-  dailymotion:{name:'Dailymotion',f:dailymotion,note:'Dailymotion public API, live search.'},
-  wayback:{name:'Wayback Machine',f:logSrc('wayback_video','video'),note:'Video files captured on old websites, from the scheduled miner (the CDX API has no browser CORS). Old formats may only download, not play.'}}},
+  dailymotion:{name:'Dailymotion',f:dailymotion,note:'Dailymotion public API, live search.'}}},
  image:{name:'IMAGE',icon:'◩',sub:'Photos, scans, artworks and old web graphics.',sources:{
   commons:{name:'Wikimedia Commons',f:commonsSrc('bitmap','image'),note:'Commons images, live search.'},
   ia:{name:'Internet Archive',f:iaSrc({mt:'image',rawPats:["IMG_*","DSC*","DSCF*","P10*","scan*","photo*","untitled"],source:'Internet Archive',module:'image'}),note:'archive.org image items, live search.'},
@@ -104,14 +103,26 @@ function toggle(it){const v=V();v[it.url]?delete v[it.url]:v[it.url]={...it,save
 
 /* ---------- UI ---------- */
 const $=s=>document.querySelector(s);let state={m:'video',s:'youtube'},items=[];
-function route(){const [m,s]=(location.hash.slice(1)||'home').split('/');state.m=(MODULES[m]||m==='vault'||m==='home')?m:'home';state.s=MODULES[state.m]?.sources[s]?s:Object.keys(MODULES[state.m]?.sources||{x:1})[0];render()}
+function route(){const [m,s]=(location.hash.slice(1)||'home').split('/');state.m=(MODULES[m]||m==='vault'||m==='home'||m==='report')?m:'home';state.s=MODULES[state.m]?.sources[s]?s:Object.keys(MODULES[state.m]?.sources||{x:1})[0];render()}
 window.onhashchange=route;
+const REPORT_SITE={'YouTube':['YouTube: report via the video page (⋯ › Report) or YouTube help','https://support.google.com/youtube/answer/2802027'],
+ 'Internet Archive':['Internet Archive: email info@archive.org','mailto:info@archive.org?subject=Report%20item'],
+ 'Wikimedia Commons':['Wikimedia Commons: Administrators’ noticeboard','https://commons.wikimedia.org/wiki/Commons:Administrators%27_noticeboard'],
+ 'Dailymotion':['Dailymotion: report form','https://faq.dailymotion.com/hc/en-us/requests/new'],
+ 'Openverse':['Openverse: report content','https://docs.openverse.org/'],
+ 'Wayback Machine':['Internet Archive (Wayback): email info@archive.org','mailto:info@archive.org?subject=Report%20Wayback%20capture']};
+let REP=null;function report(x){REP=x;navigator.clipboard?.writeText(x.url).catch(()=>{});closeM();location.hash='report'}
+function reportPage(){const x=REP,site=x&&(REPORT_SITE[x.source]||[`${x.source}: use the report option on the source page`,x.url]);
+ $('main').innerHTML=`<section class="world"><h2>⚑ REPORT A FIND</h2>${x?`<p>Item: <b>${esc(x.title)}</b> (${esc(x.source)})<br><a href="${esc(x.url)}" target=_blank rel=noopener>${esc(x.url)}</a><br><span class="q">This URL was copied to your clipboard (if your browser allowed it).</span></p>
+ <p><button class="go" onclick="navigator.clipboard.writeText(REP.url)">copy item URL again</button></p><h3>Report to the platform hosting it</h3><p><a href="${esc(site[1])}" target=_blank rel=noopener>${esc(site[0])}</a></p>`:'<p class="sub">Use the ⚑ button on any find to start a report for that item. Links below work any time.</p>'}
+ <h3>Report illegal content to authorities</h3><ul><li><a href="https://report.cybertip.org/" target=_blank rel=noopener>NCMEC CyberTipline</a>: child sexual exploitation</li><li><a href="https://tips.fbi.gov/" target=_blank rel=noopener>FBI tips</a>: threats, violent crime, other federal crimes</li><li><a href="https://www.ic3.gov/" target=_blank rel=noopener>FBI IC3</a>: internet fraud and cybercrime</li></ul>
+ <p class="sub">This site does not host any media. Removing an item at its source removes it here.</p></section>`}
 const half=h=>Object.entries(MODULES).filter(([k,m])=>(m.half||'live')===h);
 function nav(){const b=([k,m])=>`<button class="${state.m==k?'on':''}" onclick="location.hash='${k}'">${m.icon} ${m.name}</button>`;$('nav').innerHTML=[`<button class="${state.m=='home'?'on':''}" onclick="location.hash='home'">⌂</button><span class="hl">LIVEWEB</span>`,...half('live').map(b),
- `<button class="${state.m=='vault'?'on':''}" onclick="location.hash='vault'">★ VAULT (${Object.keys(V()).length})</button>`].join('')}
-function home(){$('main').innerHTML=`<div class="split"><a class="halfc live" href="#video"><h2>LIVEWEB</h2><p>Live searches of big public archives: Internet Archive, Wikimedia Commons, Dailymotion, Openverse, The Met, Open Library, Project Gutenberg, plus YouTube and Wayback logs.</p><p>${half('live').map(([k,m])=>m.icon+' '+m.name).join(' · ')}</p></a>
-<div class="halfc deep"><h2>DEEPWEB</h2><p>Coming soon.</p></div></div>`}
-function render(){document.body.className=state.m+' '+(MODULES[state.m]?.half||'');nav();if(state.m==='home')return home();if(state.m==='vault')return vault();const M=MODULES[state.m],S=M.sources[state.s];
+ `<button class="${state.m=='vault'?'on':''}" onclick="location.hash='vault'">★ VAULT (${Object.keys(V()).length})</button>`,`<button class="${state.m=='report'?'on':''}" onclick="REP=null;location.hash='report'">⚑ REPORT</button>`].join('')}
+function home(){$('main').innerHTML=`<div class="split one"><a class="halfc live" href="#video"><h2>ENTER</h2><p>Live searches of big public archives: Internet Archive, Wikimedia Commons, Dailymotion, Openverse, The Met, Open Library, Project Gutenberg, plus YouTube and Wayback logs.</p><p>${half('live').map(([k,m])=>m.icon+' '+m.name).join(' · ')}</p></a>
+</div>`}
+function render(){document.body.className=state.m+' '+(MODULES[state.m]?.half||'');nav();if(state.m==='home')return home();if(state.m==='report')return reportPage();if(state.m==='vault')return vault();const M=MODULES[state.m],S=M.sources[state.s];
  $('main').innerHTML=`<section class="world"><h2>${M.half==='deep'?'DEEPWEB · ':''}${M.icon} ${M.name} MINE</h2><p class="sub">${M.sub}</p>
  <div class="tabs">${Object.entries(M.sources).map(([k,s])=>`<button class="${k==state.s?'on':''}" onclick="location.hash='${state.m}/${k}'">${s.name}</button>`).join('')}</div>
  <p class="sub">${S.note}</p>
@@ -125,7 +136,7 @@ async function dig(){const o={kw:$('#kw').value.trim(),y1:+$('#y1').value||1900,
  if(tag!==state.m+state.s)return;$('#scan').classList.remove('on');items=res;
  $('#st').textContent=res.length?`${note}${res.length} finds · ${new Date().toLocaleTimeString()} · query: ${res[0].query}`:(err?'source error: '+err:'no signal, try again or loosen filters');grid('#grid',res)}
 function grid(sel,list){$(sel).innerHTML=list.map((x,i)=>`<div class="card" style="animation-delay:${i*40}ms" onclick="openF('${sel}',${i})">
- <button class="star" onclick="event.stopPropagation();this.textContent=toggle(LISTS['${sel}'][${i}])?'★':'☆';nav()">${V()[x.url]?'★':'☆'}</button>
+ <button class="star rep" title="report this find" onclick="event.stopPropagation();report(LISTS['${sel}'][${i}])">⚑</button><button class="star" onclick="event.stopPropagation();this.textContent=toggle(LISTS['${sel}'][${i}])?'★':'☆';nav()">${V()[x.url]?'★':'☆'}</button>
  <div class="thumb" style="${x.thumb?`background-image:url('${esc(x.thumb)}')`:''}">${x.thumb?'':MODULES[x.module]?.icon||'?'}</div>
  <div class="meta"><div><span class="badge">${esc(x.source)}</span></div><div class="t">${esc(x.title)}</div>
  <div>${x.date?esc(x.dateLabel+' '+x.date):'date n/a'}${x.count!=null?' · '+esc(x.count)+' '+esc(x.countLabel):''}</div></div></div>`).join('');LISTS[sel]=list}
@@ -134,8 +145,8 @@ function openF(sel,i){const x=LISTS[sel][i],s=esc(x.src);const m={iframe:`<ifram
  img:`<img src="${s}">`,audio:`${x.thumb?`<img src="${esc(x.thumb)}" style="max-height:200px">`:''}<audio controls autoplay src="${s}"></audio>`,link:x.thumb?`<img src="${esc(x.thumb)}" style="max-height:300px">`:''}[x.kind]||'';
  $('#mb').innerHTML=`${m}<h3>${esc(x.title)}</h3><div><span class="badge">${esc(x.module?.toUpperCase())}</span><span class="badge">${esc(x.source)}</span> ${x.date?esc(x.dateLabel+': '+x.date):''}${x.count!=null?' · '+esc(x.count)+' '+esc(x.countLabel):''}</div>
  <div>${esc(x.extra||'')}</div>${x.mined_at?`<div class="q">logged by scheduled miner: ${esc(x.mined_at)}</div>`:''}<div class="q">query: ${esc(x.query)}</div>
- <div class="row"><a class="go" href="${esc(x.url)}" target="_blank" rel="noopener">open at source ↗</a><button class="go" id="sv">${V()[x.url]?'★ saved':'☆ save to vault'}</button><button class="go" onclick="closeM()">close</button></div>`;
- $('#sv').onclick=()=>{$('#sv').textContent=toggle(x)?'★ saved':'☆ save to vault';nav();if(state.m==='vault')vault();else grid(sel,LISTS[sel])};$('#modal').classList.add('on')}
+ <div class="row"><a class="go" href="${esc(x.url)}" target="_blank" rel="noopener">open at source ↗</a><button class="go" id="sv">${V()[x.url]?'★ saved':'☆ save to vault'}</button><button class="go" id="rp">⚑ report</button><button class="go" onclick="closeM()">close</button></div>`;
+ $('#rp').onclick=()=>report(x);$('#sv').onclick=()=>{$('#sv').textContent=toggle(x)?'★ saved':'☆ save to vault';nav();if(state.m==='vault')vault();else grid(sel,LISTS[sel])};$('#modal').classList.add('on')}
 function closeM(){$('#modal').classList.remove('on');$('#mb').innerHTML=''}
 function vault(){const v=Object.values(V()).sort((a,b)=>b.saved_at.localeCompare(a.saved_at));const g={};v.forEach(x=>{(g[x.module+' · '+x.source]??=[]).push(x)});
  $('main').innerHTML=`<section class="world"><h2>★ VAULT</h2><p class="sub">Your saved finds. Stored only in this browser (localStorage). Export to keep or move them.</p>
@@ -144,4 +155,4 @@ function vault(){const v=Object.values(V()).sort((a,b)=>b.saved_at.localeCompare
  Object.values(g).forEach((l,j)=>grid('#v'+j,l))}
 function exp(){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(Object.values(V()),null,1)],{type:'application/json'}));a.download='signal-miner-vault.json';a.click()}
 async function imp(f){try{const l=JSON.parse(await f.text()),v=V();[].concat(l).forEach(x=>x.url&&(v[x.url]={saved_at:new Date().toISOString(),...x}));saveV(v);render()}catch(e){alert('bad file: '+e)}}
-document.addEventListener("keydown",e=>e.key==="Escape"&&closeM());if(!location.pathname.endsWith("test.html"))route();
+document.addEventListener("keydown",e=>e.key==="Escape"&&closeM());if(!location.pathname.endsWith("test.html")){route();if(!localStorage.ack){$('#mb').innerHTML=`<h3>Before you dig</h3><p>Everything shown here is public third-party media pulled automatically from other sites. Nothing is hosted, reviewed, or endorsed by this site, and finds can be unexpected or upsetting. View at your own discretion. Use ⚑ to report anything harmful.</p><div class="row"><button class="go" onclick="localStorage.ack=1;closeM()">I understand, continue</button></div>`;$('#modal').classList.add('on')}}

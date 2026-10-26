@@ -45,3 +45,4 @@ body.home{--c:#9a9;--d:#2a332a;--bg:#030403;--glow:#6a6}
 .halfc.live{color:#7f7;border-color:#1d4a2a;background:radial-gradient(ellipse at top,#0d2a14,#030a05)}
 .halfc.deep{color:#d44;border-color:#3a0b0b;background:radial-gradient(ellipse at bottom,#2a0505,#010000);text-shadow:0 0 6px #a00}
 .halfc h2{letter-spacing:10px;font-size:30px}.halfc:hover{filter:brightness(1.3)}
+.split.one{grid-template-columns:1fr;max-width:700px;margin:auto}.star.rep{right:40px;color:#f66}

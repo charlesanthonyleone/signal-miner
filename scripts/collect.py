@@ -65,7 +65,7 @@ def wayback(kind):
             "query":f"CDX url={site}* mimetype={mt}","extra":f"{m} · {ln} bytes · original: {orig}"})
     return out
 jobs=[("youtube",lambda:yt("raw clip")),("youtube",lambda:yt("raw clip")),("youtube",lambda:yt("old tv")),("youtube",lambda:yt("old film")),
-      ("wayback_video",lambda:wayback("video")),("wayback_video",lambda:wayback("video")),("wayback_video",lambda:wayback("video")),("wayback_image",lambda:wayback("image")),("wayback_image",lambda:wayback("image"))]
+      ("wayback_image",lambda:wayback("image")),("wayback_image",lambda:wayback("image"))]
 os.makedirs("finds",exist_ok=True); data={}
 for f,fn in jobs:
     L=data.setdefault(f,load(f)); seen={x["url"] for x in L}
