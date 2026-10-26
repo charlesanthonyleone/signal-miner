@@ -1,0 +1,62 @@
+[
+ {
+  "source": "Gopher",
+  "title": "gopher.quux.org/1/",
+  "date": "",
+  "dateLabel": "",
+  "count": 1200,
+  "countLabel": "chars",
+  "kind": "meta",
+  "depth": "1.5 km \u00b7 bathypelagic",
+  "mime": "text/gopher",
+  "preview": "Floodgap Gopher-HTTP gateway gopher://gopher.quux.org/1/\n&nbsp;\nView in Gopher client\n |\nHELP! with proxy\n |\nwww.floodgap.com\n \nWelcome to gopher at quux.org!\n \n&nbsp;\n \nThis server has a lot of information of historic interest,\n \nfunny, or just plain entertaining -- all presented in Gopher.\n \nThere are many mirrors here of rare or valuable files with the\n \naim to preserve them in case their host disappears.&nbsp;&nbsp;PLEASE READ\n \n\"About This Server\" FOR IMPORTANT NOTES AND LEGAL INFORMATION.\n \n&nbsp;\nAbout This Server\nArchives\nBooks\nCommunication\n \nThis directory contains the entire text of the book\n \n\"We the Media: Grassroots Journalism by the People, for the People\"\n \nby Dan Gillmor in various formats.\n \n&nbsp;\n \nFeel free to download and enjoy.\nComputers\nCurrent Issues and Events (Updated Apr. 23, 2002)\nDevelopment Projects\nGopher's 10th Anniversary\nGovernment, Politics, Law, and Conflict\nHow To Help\nHumor and Fun\nIndex to Quux.Org\nInternet\nOther Gopher Servers\nPeople\nReference\nSoftware and Downloads\nThe Gopher Project\nWhat's New\nTop of page\n |\nGopher proxy home\n |\nFloodgap home gopher\n \nversion 645 port 2\nAll access must be in\naccordance with \nFloodgap Terms of Service\n.\nPro",
+  "url": "https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fgopher.quux.org%2F1%2F",
+  "query": "floodgap gateway gopher://gopher.quux.org/1/",
+  "extra": "via public Floodgap HTTP gateway"
+ },
+ {
+  "source": "Gopher",
+  "title": "gopher.floodgap.com/1/world",
+  "date": "",
+  "dateLabel": "",
+  "count": 1200,
+  "countLabel": "chars",
+  "kind": "meta",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "text/gopher",
+  "preview": "Floodgap Gopher-HTTP gateway gopher://gopher.floodgap.com/1/world\n&nbsp;\nView in Gopher client\n |\nHELP! with proxy\n |\nwww.floodgap.com\n[?]\ngopher.floodgap.com:70\n&gt; \nworld\nFloodgap Systems gopher root\n \n&nbsp;\n \n\"All the gopher servers (that we know of)\"\n \n&nbsp;\n \nAs the Veronica-2 robot patrols Gopherspace, it logs\n \nall the gopher servers it encounters here, along with\n \nstatistics on how many selectors it has found at that\n \nserver so far.\n \n&nbsp;\n \nThis data is extracted directly off V-2's MySQL database,\n \nso it is constantly up-to-date with the robot's progress.\n \n&nbsp;\n \nSend questions to gopher@floodgap.com.\n \n&nbsp;\n\"Greatest hits\": most recently verified gopher servers\n \n(most recently verified sites, new and old)\nNew Gopher servers since 1999\n \nNewest gopher servers (some are pending addition to\n \nthe database)\n \n&nbsp;\nSearch Gopherspace with Veronica-2\n \n&nbsp;\nTop-Level .com, .net, .info, .land, .org\nU.S. Academic, Government, Military Servers (.edu, .gov, .mil)\nNorth America and Caribbean\nCentral and South America\nEurope\nAfrica, Australasia, Asia, Pacific Rim\nAtlantic and Indian Oceans\nOther TLDs\n[?]\ngopher.floodgap.com:70\n&gt; \nworld\nTop of page\n |\nGopher proxy",
+  "url": "https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fgopher.floodgap.com%2F1%2Fworld",
+  "query": "floodgap gateway gopher://gopher.floodgap.com/1/world",
+  "extra": "via public Floodgap HTTP gateway"
+ },
+ {
+  "source": "Gopher",
+  "title": "sdf.org/1/",
+  "date": "",
+  "dateLabel": "",
+  "count": 1200,
+  "countLabel": "chars",
+  "kind": "meta",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "text/gopher",
+  "preview": "Floodgap Gopher-HTTP gateway gopher://sdf.org/1/\n&nbsp;\nView in Gopher client\n |\nHELP! with proxy\n |\nwww.floodgap.com\n \nWelcome to the SDF Public Access UNIX System .. est. 1987\n \n&nbsp;\n \nOfficial Site of the Internet Gopher Club Underground Syndicate\n \n&nbsp;\n \nWe offer FREE and inexpensive memberships for people interested\n \nin the UNIX system and internetworking.&nbsp;&nbsp;Personal GOPHERSPACE\n \nis available to all users as well as hundreds of UNIX utilities,\n \ngames and networking utilities.&nbsp;&nbsp;We are a federally recognized\n \nnon-profit 501(c)7 organization and we are supported entirely\n \nby donations and membership dues.&nbsp;&nbsp;ssh://sdf.org\n \n&nbsp;\n \nTo visit the SDF gemini server, type 'go gem.sdf.org'\n \n&nbsp;\nSDF PHLOGOSPHERE (474 phlogs)\nSDF GOPHERSPACE (1640 ACTIVE users)\nSDF GOPHERSPACE (834 AGED users)\nSDF GOPHERSPACE (2284 ANCIENT users)\nSDF Frequently Asked Questions (FAQ)\nSDF Accredited University Courses\nSDF Plan9 Boot Camp contrib, etc\nSoftware and Documentation for various computers\nGopherSpace SEARCH Engine\nFloodgap's GOPHERSPACE\nTop of page\n |\nGopher proxy home\n |\nFloodgap home gopher\n \nversion 645 port 2\nAll access must be in\naccordance with \nFl",
+  "url": "https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fsdf.org%2F1%2F",
+  "query": "floodgap gateway gopher://sdf.org/1/",
+  "extra": "via public Floodgap HTTP gateway"
+ },
+ {
+  "source": "Gopher",
+  "title": "gopher.floodgap.com/1/fun",
+  "date": "",
+  "dateLabel": "",
+  "count": 1200,
+  "countLabel": "chars",
+  "kind": "meta",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "text/gopher",
+  "preview": "Floodgap Gopher-HTTP gateway gopher://gopher.floodgap.com/1/fun\n&nbsp;\nView in Gopher client\n |\nHELP! with proxy\n |\nwww.floodgap.com\n[?]\ngopher.floodgap.com:70\n&gt; \nfun\nFloodgap Systems gopher root\n \n&nbsp;\n \n&nbsp;&nbsp;&nbsp;&nbsp;.o88o.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o8o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o8o\n \n&nbsp;&nbsp;&nbsp;&nbsp;888 `\"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`YP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`YP\n \n&nbsp;&nbsp;&nbsp;o888oo&nbsp;&nbsp;oooo&nbsp;&nbsp;oooo&nbsp;&nbsp;ooo. .oo.&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;ooo. .oo.&nbsp;&nbsp;&nbsp;&nbsp;'\n \n&nbsp;&nbsp;&nbsp;&nbsp;888&nbsp;&nbsp;&nbsp;&nbsp;`888&nbsp;&nbsp;`888&nbsp;&nbsp;`888P\"Y88b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`888P\"Y88b\n \n&nbsp;&nbsp;&nbsp;&nbsp;888&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;888&nbsp;&nbsp;&nbsp;888&nbsp;&nbsp;&nbsp;888&nbsp;&nbsp;&nbsp;888&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs",
+  "url": "https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fgopher.floodgap.com%2F1%2Ffun",
+  "query": "floodgap gateway gopher://gopher.floodgap.com/1/fun",
+  "extra": "via public Floodgap HTTP gateway"
+ }
+]
