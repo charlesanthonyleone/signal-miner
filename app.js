@@ -280,7 +280,7 @@ function home(){$('main').innerHTML=`<div class="depth-gauge"><span>LIVE</span><
 const HUBMETA={live:{title:'LIVE · module hub',a:'SURFACE',b:'BROADCAST',sub:'Pick a module, then generate finds inside it.'},
  trench:{title:'TRENCH · Mariana modules',a:'0 m',b:'10 994 m',sub:'Hardline random / unfiltered enumeration from public indexes. Safety filter (NSFW/blocklist) only. No scanning, no credentials, no Tor.'},
  theo:{title:'THEO · forgotten theology & cultures',a:'CANON',b:'CULTURES',sub:'Manuscripts, apocrypha, Geniza, grimoires, dead languages, clay tablets — plus Forgotten Cultures (lost civs, dead gods, mystery cults, suppressed faiths). Public archives only.'},
- invento:{title:'INVENTO · patent vault',a:'FILED',b:'ABANDONED',sub:'USPTO application file wrappers (IA uspto collection), seeded with real CPC codes, fewest downloads first. Click a card for the drawing + OCR abstract.'},
+ invento:{title:'INVENTO · patent vault',a:'FILED',b:'ABANDONED',sub:'Forgotten filings from Google Patents (old priority dates, real CPC codes, title-filtered to the theme) with a tightened USPTO fallback. Click a card for the abstract + drawing link.'},
  reliquary:{title:'THE RELIQUARY · unfound leads',a:'SEALED',b:'LOST',sub:'Forgotten newspaper pages, zero-view scans and gray-space text that point at things still out there. OCR is raw — verify every lead.'}};
 function hub(h){const mods=halfMods(h),meta=HUBMETA[h]||HUBMETA.live;
  $('main').innerHTML=`<div class="depth-gauge"><span>${meta.a}</span><i></i><span>${meta.b}</span></div>
