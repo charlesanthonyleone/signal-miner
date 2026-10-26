@@ -144,7 +144,7 @@ def mine_module(mod, n=16):
             if not key or key in seen: continue
             x["title"]=re.sub(r"<[^>]+>","",x.get("title","")); x["preview"]=re.sub(r"<[^>]+>","",x.get("preview",""))
             if x["title"].lstrip().startswith("&hellip"): continue
-            if re.search(r"security paper|counterfeit|banknote|pigment|television|ghost signal|battery|touch unit|radio terminal",x["title"],re.I): continue
+            if re.search(r"security paper|counterfeit|banknote|pigment|television|ghost signal|battery|touch unit|radio terminal|cerebral|board game|dealing|slip|cell burial|clay earth|phonograph|plug coupling|detonator|middling chute",x["title"],re.I): continue
             if rx and not rx.search(x["title"] if mod in ("aliens","weather","dead") else x["title"] + " " + x["preview"]): continue
             seen.add(key); x["module"] = mod; x["mined_at"] = now()
             x["query"] = f'google patents q="{q}"' + (f" cpc={cpc}" if cpc else "") + (f" before {before[:4]}" if before else "")
