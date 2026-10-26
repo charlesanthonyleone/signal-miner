@@ -304,5 +304,39 @@
   "extra": "from module formulas",
   "module": "timeskew",
   "mined_at": "2026-10-26T18:21:21Z"
+ },
+ {
+  "source": "Time-skew",
+  "title": "pre-epoch year 1959: High Energy Astronomy Observatory (HEAO)",
+  "date": "1959-01-01",
+  "dateLabel": "skewed",
+  "count": 1959,
+  "countLabel": "year",
+  "kind": "meta",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "time/anomaly",
+  "preview": "flagged pre-epoch year 1959\noriginal source NASA Images\ncenter MSFC \u00b7 nasa_id 7890338 \u00b7 keywords Crab Nebula, Hale Observatory",
+  "url": "https://images.nasa.gov/details/7890338",
+  "query": "timestamp scan across finds/*.json",
+  "extra": "from module space",
+  "module": "timeskew",
+  "mined_at": "2026-10-26T18:54:38Z"
+ },
+ {
+  "source": "Time-skew",
+  "title": "pre-epoch year 1951:  Direct postive photogrpahic color process",
+  "date": "1951-08-28",
+  "dateLabel": "skewed",
+  "count": 1951,
+  "countLabel": "year",
+  "kind": "meta",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "time/anomaly",
+  "preview": "flagged pre-epoch year 1951\noriginal source Google Patents\npatent US2566180A \u00b7 inventor Fallesen George Earle",
+  "url": "https://patents.google.com/patent/US2566180A/en",
+  "query": "timestamp scan across finds/*.json",
+  "extra": "from module formulas",
+  "module": "timeskew",
+  "mined_at": "2026-10-26T18:54:38Z"
  }
 ]
