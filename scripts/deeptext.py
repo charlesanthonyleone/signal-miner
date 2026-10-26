@@ -85,7 +85,7 @@ def _cdx_txt(host):
     try:
         r=requests.get(CC,params={"url":f"{host}/*","output":"json","limit":200,"filter":["mime:text/plain","status:200"]},headers=UA,timeout=40)
         rows=[json.loads(l) for l in r.text.splitlines() if l.startswith("{")]
-        rows=[{"url":x["url"],"timestamp":x.get("timestamp",""),"length":x.get("length",0),"via":"Common Crawl"} for x in rows]
+        rows=[{"url":x["url"],"timestamp":x.get("timestamp",""),"length":x.get("length",0),"via":"Common Crawl"} for x in rows if isinstance(x,dict) and x.get("url")]
     except Exception as e: print("cc host",host,e)
     if not rows:
         try:
@@ -93,7 +93,7 @@ def _cdx_txt(host):
             j=r.json() if r.text.strip().startswith("[") else []
             rows=[{"url":x[2],"timestamp":x[1],"length":x[6],"via":"Wayback CDX"} for x in j[1:]]
         except Exception as e: print("wb host",host,e)
-    return [x for x in rows if not x.get("url","").lower().split("?")[0].endswith(JUNKTXT) and not is_bad(x["url"])]
+    return [x for x in rows if not x.get("url","").lower().split("?")[0].endswith(JUNKTXT) and not is_bad(x.get("url","")) and x.get("url")]
 def cc_text(n=10, hosts=None):
     out=[]; hosts=(hosts or _hosts_from_crawl())[:14]
     for host in hosts:
