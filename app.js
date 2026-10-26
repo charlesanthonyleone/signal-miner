@@ -61,7 +61,7 @@ async function openlib(o){const term=o.kw||pick(WORDS);const q=`${term} first_pu
   return r.docs.map(d=>({module:'book',source:'Open Library',title:d.title,date:d.first_publish_year?String(d.first_publish_year):'',dateLabel:'first published',count:d.edition_count,countLabel:'editions',
     thumb:d.cover_i?`https://covers.openlibrary.org/b/id/${d.cover_i}-M.jpg`:'',kind:(d.ebook_access==='public'&&d.ia)?'iframe':'link',src:d.ia?`https://archive.org/embed/${d.ia[0]}`:'',
     url:'https://openlibrary.org'+d.key,query:q,extra:(d.author_name||[]).slice(0,2).join(', ')+(d.ebook_access?` · ebook: ${d.ebook_access}`:'')}))}
-async function gutendex(o){const u=new URLSearchParams();if(o.kw)u.set('search',o.kw);else u.set('page',o.raw?rnd(2350,2480):rnd(1,200));
+async function gutendex(o){const u=new URLSearchParams();if(o.kw)u.set('search',o.kw);else u.set('page',o.raw?rnd(2350,2480):rnd(1,120));
   const r=await J('https://gutendex.com/books/?'+u);
   return r.results.map(b=>({module:'book',source:'Project Gutenberg',title:b.title,date:'',dateLabel:'',count:b.download_count,countLabel:'downloads (30d)',
     thumb:b.formats['image/jpeg']||'',kind:'link',src:'',url:`https://www.gutenberg.org/ebooks/${b.id}`,query:'gutendex '+u,extra:b.authors.map(a=>a.name).join('; ')+(b.languages?' · '+b.languages.join(','):'')}))}
@@ -211,7 +211,7 @@ const blocked=u=>BLOCK.has(u)||HIDE().includes(u)||[...BLOCK].some(b=>{const h=h
 
 async function mineWithRetry(S,o,say=()=>{}){const steps=[{},{},{loose:1},{loose:1,raw:false},{loose:1,raw:false,y1:1900,y2:2026},{loose:1,raw:false,y1:1900,y2:2026}];
  let err='';for(let i=0;i<steps.length;i++){const q={...o,...steps[i]};if(i)say(`no hits, loosening filters (try ${i+1}/${steps.length})…`);
-  try{const r=SAFE.filter((await S.f(q)).filter(x=>!blocked(x.url)));if(r.length)return{res:r,err:'',note:i>=2?`[filters loosened] `:''}}catch(e){err=e.message;await new Promise(r=>setTimeout(r,600))}}
+  try{const r=SAFE.filter((await S.f(q)).filter(x=>!blocked(x.url)));if(r.length)return{res:r,err:'',note:i>=2?`[filters loosened] `:''}}catch(e){err=e.message;if(/timed out|rate limit|unreachable/i.test(err))break;await new Promise(r=>setTimeout(r,600))}}
  return{res:[],err,note:''}}
 
 const V=()=>JSON.parse(localStorage.vault||'{}'),saveV=v=>localStorage.vault=JSON.stringify(v);
