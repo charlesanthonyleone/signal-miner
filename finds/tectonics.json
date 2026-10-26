@@ -236,5 +236,22 @@
   "extra": "public RIS-derived view \u00b7 not a live websocket hijack feed",
   "module": "tectonics",
   "mined_at": "2026-10-26T19:43:33Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 213.228.204.0/24",
+  "date": "2026-10-26",
+  "dateLabel": "sampled",
+  "count": null,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "bgp/status",
+  "preview": "{}",
+  "url": "https://stat.ripe.net/213.228.204.0/24",
+  "query": "RIPEstat routing-status 213.228.204.0/24",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-10-26T20:11:00Z"
  }
 ]

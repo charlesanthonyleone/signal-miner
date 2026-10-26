@@ -838,5 +838,1965 @@
    ]
   ],
   "mined_at": "2026-10-26T19:45:38Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "releases.json",
+  "date": "",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1917",
+  "ftype": "other",
+  "host": "pegpvoxgldmz.pages.dev",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://pegpvoxgldmz.pages.dev/releases.json",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://pegpvoxgldmz.pages.dev/",
+  "kw": "",
+  "preview": "other \u00b7 1917 \u00b7 no date \u00b7 in https://pegpvoxgldmz.pages.dev/",
+  "extra": "host: pegpvoxgldmz.pages.dev \u00b7 dir: https://pegpvoxgldmz.pages.dev/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://pegpvoxgldmz.pages.dev/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ucsc-crl-91-18.ps.Z",
+  "date": "1991-08-22 14:40",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "251K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/UCSC/ucsc-crl-91-18.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 251K \u00b7 1991-08-22 14:40 \u00b7 in https://ftp.funet.fi/pub/doc/UCSC/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/UCSC/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/UCSC/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ucsc-crl-90-63.part2.ps.Z",
+  "date": "1991-08-22 14:05",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "254K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/UCSC/ucsc-crl-90-63.part2.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 254K \u00b7 1991-08-22 14:05 \u00b7 in https://ftp.funet.fi/pub/doc/UCSC/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/UCSC/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/UCSC/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ucsc-crl-90-16.ps.Z",
+  "date": "1991-08-22 13:32",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "63K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/UCSC/ucsc-crl-90-16.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 63K \u00b7 1991-08-22 13:32 \u00b7 in https://ftp.funet.fi/pub/doc/UCSC/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/UCSC/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/UCSC/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "impl.nofig.ps.Z",
+  "date": "1992-06-09 20:02",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "83K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/impl.nofig.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 83K \u00b7 1992-06-09 20:02 \u00b7 in https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ChangeLog",
+  "date": "1993-07-05 00:25",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.6K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/ChangeLog",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 2.6K \u00b7 1993-07-05 00:25 \u00b7 in https://ftp.funet.fi/pub/doc/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "nex.ps.Z",
+  "date": "1992-06-09 20:04",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "6.3K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/nex.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 6.3K \u00b7 1992-06-09 20:04 \u00b7 in https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "Nutshell-books.README",
+  "date": "1993-10-26 11:32",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "95",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/Nutshell-books.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 95 \u00b7 1993-10-26 11:32 \u00b7 in https://ftp.funet.fi/pub/doc/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ucsc-crl-90-19-nocode.ps.Z",
+  "date": "1991-08-22 13:37",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "189K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/UCSC/ucsc-crl-90-19-nocode.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 189K \u00b7 1991-08-22 13:37 \u00b7 in https://ftp.funet.fi/pub/doc/UCSC/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/UCSC/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/UCSC/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ucsc-crl-90-09.ps.Z",
+  "date": "1991-08-22 13:28",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "54K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/UCSC/ucsc-crl-90-09.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 54K \u00b7 1991-08-22 13:28 \u00b7 in https://ftp.funet.fi/pub/doc/UCSC/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/UCSC/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/UCSC/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ucsc-crl-90-54.fig2.ps.Z",
+  "date": "1991-08-22 13:53",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "8.2K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/UCSC/ucsc-crl-90-54.fig2.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 8.2K \u00b7 1991-08-22 13:53 \u00b7 in https://ftp.funet.fi/pub/doc/UCSC/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/UCSC/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/UCSC/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ucsc-crl-91-01.ps.Z",
+  "date": "1991-08-22 14:11",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "102K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/UCSC/ucsc-crl-91-01.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 102K \u00b7 1991-08-22 14:11 \u00b7 in https://ftp.funet.fi/pub/doc/UCSC/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/UCSC/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/UCSC/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "<papers-adm@ftp.funet.fi>",
+  "date": "1993-11-18 22:13",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "0",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/%3cpapers-adm@ftp.funet.fi%3e",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 0 \u00b7 1993-11-18 22:13 \u00b7 in https://ftp.funet.fi/pub/doc/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README_impl",
+  "date": "1992-06-09 20:01",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.1K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/README_impl",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 2.1K \u00b7 1992-06-09 20:01 \u00b7 in https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "FAQ",
+  "date": "1993-10-24 15:44",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "20K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/uu/FAQ",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 20K \u00b7 1993-10-24 15:44 \u00b7 in https://ftp.funet.fi/pub/doc/uu/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/uu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/uu/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ucsc-crl-90-36.ps.Z",
+  "date": "1991-08-22 13:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "51K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/UCSC/ucsc-crl-90-36.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 51K \u00b7 1991-08-22 13:50 \u00b7 in https://ftp.funet.fi/pub/doc/UCSC/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/UCSC/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/UCSC/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ucsc-crl-90-63.ps.Z",
+  "date": "1991-08-22 14:10",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "460K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/UCSC/ucsc-crl-90-63.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 460K \u00b7 1991-08-22 14:10 \u00b7 in https://ftp.funet.fi/pub/doc/UCSC/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/UCSC/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/UCSC/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "keywords-doc",
+  "date": "1992-08-30 08:28",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.5K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/uu/keywords-doc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 1.5K \u00b7 1992-08-30 08:28 \u00b7 in https://ftp.funet.fi/pub/doc/uu/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/uu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/uu/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "brfc0002.text",
+  "date": "1991-01-07 01:09",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "59K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/netinfo/BITNET/brfc0002.text",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 59K \u00b7 1991-01-07 01:09 \u00b7 in https://ftp.funet.fi/pub/doc/netinfo/BITNET/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/netinfo/BITNET/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/netinfo/BITNET/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README_solicit",
+  "date": "1992-06-09 20:01",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.7K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/README_solicit",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 1.7K \u00b7 1992-06-09 20:01 \u00b7 in https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "impl.ascii",
+  "date": "1992-06-09 20:01",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "71K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/impl.ascii",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 71K \u00b7 1992-06-09 20:01 \u00b7 in https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ucsc-crl-89-42.ps.Z",
+  "date": "1991-08-22 13:27",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "147K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/UCSC/ucsc-crl-89-42.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 147K \u00b7 1991-08-22 13:27 \u00b7 in https://ftp.funet.fi/pub/doc/UCSC/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/UCSC/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/UCSC/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "newlevel.ps.Z",
+  "date": "1992-06-09 20:03",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "5.6K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/newlevel.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 5.6K \u00b7 1992-06-09 20:03 \u00b7 in https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README",
+  "date": "1992-09-08 15:51",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "640",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/uu/README",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 640 \u00b7 1992-09-08 15:51 \u00b7 in https://ftp.funet.fi/pub/doc/uu/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/uu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/uu/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "thinknet-vu",
+  "date": "1992-08-30 07:51",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "92K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/uu/thinknet-vu",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 92K \u00b7 1992-08-30 07:51 \u00b7 in https://ftp.funet.fi/pub/doc/uu/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/uu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/uu/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ucsc-crl-90-31.ps.Z",
+  "date": "1991-08-22 13:48",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "166K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/UCSC/ucsc-crl-90-31.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 166K \u00b7 1991-08-22 13:48 \u00b7 in https://ftp.funet.fi/pub/doc/UCSC/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/UCSC/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/UCSC/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "IPNETWORKING.ps.gz",
+  "date": "1992-06-09 19:47",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "451K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/IPNETWORKING.ps.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 451K \u00b7 1992-06-09 19:47 \u00b7 in https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "newsgroups",
+  "date": "1992-08-02 09:45",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.6K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/uu/newsgroups",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 3.6K \u00b7 1992-08-02 09:45 \u00b7 in https://ftp.funet.fi/pub/doc/uu/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/uu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/uu/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "solicit_comment.ps.Z",
+  "date": "1992-06-09 20:04",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "39K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/solicit_comment.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 39K \u00b7 1992-06-09 20:04 \u00b7 in https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ucsc-crl-90-15.ps.Z",
+  "date": "1991-08-22 13:31",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "144K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/UCSC/ucsc-crl-90-15.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 144K \u00b7 1991-08-22 13:31 \u00b7 in https://ftp.funet.fi/pub/doc/UCSC/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/UCSC/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/UCSC/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README_Aiken",
+  "date": "1992-06-09 20:01",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "912",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/README_Aiken",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 912 \u00b7 1992-06-09 20:01 \u00b7 in https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/netinfo/NSFNET/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/netinfo/NSFNET/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "chneothl.txt",
+  "date": "1992-12-26 08:05",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.3K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/orgone/chneothl.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "text \u00b7 2.3K \u00b7 1992-12-26 08:05 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/orgone/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/orgone/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/orgone/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "sol.zip",
+  "date": "1992-09-23 10:04",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "7.2K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/misc/sol.zip",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 7.2K \u00b7 1992-09-23 10:04 \u00b7 in https://ftp.funet.fi/pub/culture/occult/misc/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/misc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/misc/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "orhist1.txt",
+  "date": "1992-12-26 08:05",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.1K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/orgone/orhist1.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "text \u00b7 3.1K \u00b7 1992-12-26 08:05 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/orgone/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/orgone/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/orgone/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "cybele.gif",
+  "date": "1992-08-29 18:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "97K",
+  "ftype": "image",
+  "host": "ftp.funet.fi",
+  "thumb": "https://ftp.funet.fi/pub/culture/occult/pics/cybele.gif",
+  "kind": "img",
+  "src": "https://ftp.funet.fi/pub/culture/occult/pics/cybele.gif",
+  "gated": true,
+  "url": "https://ftp.funet.fi/pub/culture/occult/pics/cybele.gif",
+  "mime": "image/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "image \u00b7 97K \u00b7 1992-08-29 18:54 \u00b7 in https://ftp.funet.fi/pub/culture/occult/pics/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/pics/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/pics/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "horus11.txt",
+  "date": "1992-12-26 08:05",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.5K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/orgone/horus11.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "text \u00b7 1.5K \u00b7 1992-12-26 08:05 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/orgone/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/orgone/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/orgone/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "tantric2.gif",
+  "date": "1992-08-29 18:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "130K",
+  "ftype": "image",
+  "host": "ftp.funet.fi",
+  "thumb": "https://ftp.funet.fi/pub/culture/occult/pics/tantric2.gif",
+  "kind": "img",
+  "src": "https://ftp.funet.fi/pub/culture/occult/pics/tantric2.gif",
+  "gated": true,
+  "url": "https://ftp.funet.fi/pub/culture/occult/pics/tantric2.gif",
+  "mime": "image/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "image \u00b7 130K \u00b7 1992-08-29 18:58 \u00b7 in https://ftp.funet.fi/pub/culture/occult/pics/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/pics/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/pics/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "oto_seal.gif",
+  "date": "1992-08-29 18:57",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.4K",
+  "ftype": "image",
+  "host": "ftp.funet.fi",
+  "thumb": "https://ftp.funet.fi/pub/culture/occult/pics/oto_seal.gif",
+  "kind": "img",
+  "src": "https://ftp.funet.fi/pub/culture/occult/pics/oto_seal.gif",
+  "gated": true,
+  "url": "https://ftp.funet.fi/pub/culture/occult/pics/oto_seal.gif",
+  "mime": "image/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "image \u00b7 2.4K \u00b7 1992-08-29 18:57 \u00b7 in https://ftp.funet.fi/pub/culture/occult/pics/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/pics/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/pics/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "tantric1.gif",
+  "date": "1992-08-29 18:57",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "262K",
+  "ftype": "image",
+  "host": "ftp.funet.fi",
+  "thumb": "https://ftp.funet.fi/pub/culture/occult/pics/tantric1.gif",
+  "kind": "img",
+  "src": "https://ftp.funet.fi/pub/culture/occult/pics/tantric1.gif",
+  "gated": true,
+  "url": "https://ftp.funet.fi/pub/culture/occult/pics/tantric1.gif",
+  "mime": "image/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "image \u00b7 262K \u00b7 1992-08-29 18:57 \u00b7 in https://ftp.funet.fi/pub/culture/occult/pics/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/pics/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/pics/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "libr811.zip",
+  "date": "1992-12-02 07:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "19K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/orgone/libr811.zip",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 19K \u00b7 1992-12-02 07:54 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/orgone/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/orgone/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/orgone/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ewords.idx",
+  "date": "1992-05-18 00:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "4.0K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/misc/ewords.idx",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 4.0K \u00b7 1992-05-18 00:00 \u00b7 in https://ftp.funet.fi/pub/culture/occult/misc/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/misc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/misc/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "beelzebub.gif",
+  "date": "1992-08-29 18:52",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "244K",
+  "ftype": "image",
+  "host": "ftp.funet.fi",
+  "thumb": "https://ftp.funet.fi/pub/culture/occult/pics/beelzebub.gif",
+  "kind": "img",
+  "src": "https://ftp.funet.fi/pub/culture/occult/pics/beelzebub.gif",
+  "gated": true,
+  "url": "https://ftp.funet.fi/pub/culture/occult/pics/beelzebub.gif",
+  "mime": "image/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "image \u00b7 244K \u00b7 1992-08-29 18:52 \u00b7 in https://ftp.funet.fi/pub/culture/occult/pics/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/pics/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/pics/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "wilson.on.cis",
+  "date": "1992-05-08 00:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "22K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/misc/wilson.on.cis",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 22K \u00b7 1992-05-08 00:00 \u00b7 in https://ftp.funet.fi/pub/culture/occult/misc/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/misc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/misc/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "aeongifs.zip",
+  "date": "1992-12-30 09:21",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "17K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/pics/aeongifs.zip",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 17K \u00b7 1992-12-30 09:21 \u00b7 in https://ftp.funet.fi/pub/culture/occult/pics/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/pics/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/pics/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "discordia_priest.gif",
+  "date": "1992-08-29 18:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "16K",
+  "ftype": "image",
+  "host": "ftp.funet.fi",
+  "thumb": "https://ftp.funet.fi/pub/culture/occult/pics/discordia_priest.gif",
+  "kind": "img",
+  "src": "https://ftp.funet.fi/pub/culture/occult/pics/discordia_priest.gif",
+  "gated": true,
+  "url": "https://ftp.funet.fi/pub/culture/occult/pics/discordia_priest.gif",
+  "mime": "image/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "image \u00b7 16K \u00b7 1992-08-29 18:54 \u00b7 in https://ftp.funet.fi/pub/culture/occult/pics/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/pics/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/pics/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "revival.txt",
+  "date": "1992-12-30 09:20",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "137K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/achad/revival.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "text \u00b7 137K \u00b7 1992-12-30 09:20 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/achad/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/achad/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/achad/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "chartor3.txt",
+  "date": "1992-12-26 08:04",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.4K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/orgone/chartor3.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "text \u00b7 2.4K \u00b7 1992-12-26 08:04 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/orgone/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/orgone/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/orgone/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "mercury.zip",
+  "date": "1992-09-23 10:04",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "6.6K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/misc/mercury.zip",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 6.6K \u00b7 1992-09-23 10:04 \u00b7 in https://ftp.funet.fi/pub/culture/occult/misc/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/misc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/misc/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "acrowley.zip",
+  "date": "1992-09-23 10:01",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "16K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/misc/acrowley.zip",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 16K \u00b7 1992-09-23 10:01 \u00b7 in https://ftp.funet.fi/pub/culture/occult/misc/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/misc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/misc/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "lies.zip",
+  "date": "1992-09-23 05:03",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "72K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/misc/lies.zip",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 72K \u00b7 1992-09-23 05:03 \u00b7 in https://ftp.funet.fi/pub/culture/occult/misc/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/misc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/misc/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "bennet1.gif",
+  "date": "1992-08-29 18:53",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "434K",
+  "ftype": "image",
+  "host": "ftp.funet.fi",
+  "thumb": "https://ftp.funet.fi/pub/culture/occult/pics/bennet1.gif",
+  "kind": "img",
+  "src": "https://ftp.funet.fi/pub/culture/occult/pics/bennet1.gif",
+  "gated": true,
+  "url": "https://ftp.funet.fi/pub/culture/occult/pics/bennet1.gif",
+  "mime": "image/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "image \u00b7 434K \u00b7 1992-08-29 18:53 \u00b7 in https://ftp.funet.fi/pub/culture/occult/pics/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/pics/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/pics/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "nuit11.txt",
+  "date": "1992-12-26 08:05",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.5K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/orgone/nuit11.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "text \u00b7 3.5K \u00b7 1992-12-26 08:05 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/orgone/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/orgone/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/orgone/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "crowley2.gif",
+  "date": "1992-08-29 18:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "113K",
+  "ftype": "image",
+  "host": "ftp.funet.fi",
+  "thumb": "https://ftp.funet.fi/pub/culture/occult/pics/crowley2.gif",
+  "kind": "img",
+  "src": "https://ftp.funet.fi/pub/culture/occult/pics/crowley2.gif",
+  "gated": true,
+  "url": "https://ftp.funet.fi/pub/culture/occult/pics/crowley2.gif",
+  "mime": "image/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "image \u00b7 113K \u00b7 1992-08-29 18:54 \u00b7 in https://ftp.funet.fi/pub/culture/occult/pics/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/pics/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/pics/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "hfin.idx",
+  "date": "1992-05-18 00:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.0K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/misc/hfin.idx",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 2.0K \u00b7 1992-05-18 00:00 \u00b7 in https://ftp.funet.fi/pub/culture/occult/misc/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/misc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/misc/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "eoctal.idx",
+  "date": "1992-05-18 00:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "4.0K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/misc/eoctal.idx",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 4.0K \u00b7 1992-05-18 00:00 \u00b7 in https://ftp.funet.fi/pub/culture/occult/misc/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/misc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/misc/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "blavatsky.gif",
+  "date": "1992-08-29 18:53",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "105K",
+  "ftype": "image",
+  "host": "ftp.funet.fi",
+  "thumb": "https://ftp.funet.fi/pub/culture/occult/pics/blavatsky.gif",
+  "kind": "img",
+  "src": "https://ftp.funet.fi/pub/culture/occult/pics/blavatsky.gif",
+  "gated": true,
+  "url": "https://ftp.funet.fi/pub/culture/occult/pics/blavatsky.gif",
+  "mime": "image/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "image \u00b7 105K \u00b7 1992-08-29 18:53 \u00b7 in https://ftp.funet.fi/pub/culture/occult/pics/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/pics/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/pics/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "moon",
+  "date": "1992-01-28 00:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "4.4K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/misc/moon",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "text \u00b7 4.4K \u00b7 1992-01-28 00:00 \u00b7 in https://ftp.funet.fi/pub/culture/occult/misc/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/misc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/misc/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "tgd-announce.txt",
+  "date": "1995-10-05 22:37",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.5K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/tgd-announce.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "text \u00b7 2.5K \u00b7 1995-10-05 22:37 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "sabian.txt",
+  "date": "1992-12-30 09:20",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "21K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/misc/sabian.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "text \u00b7 21K \u00b7 1992-12-30 09:20 \u00b7 in https://ftp.funet.fi/pub/culture/occult/misc/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/misc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/misc/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "libr111.zip",
+  "date": "1992-12-02 07:52",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "110K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/orgone/libr111.zip",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 110K \u00b7 1992-12-02 07:52 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/orgone/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/orgone/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/orgone/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "edlet3.txt",
+  "date": "1992-12-26 08:05",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "7.7K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/orgone/edlet3.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "text \u00b7 7.7K \u00b7 1992-12-26 08:05 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/orgone/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/orgone/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/orgone/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "forest.ohje",
+  "date": "1996-09-05 07:05",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "0",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/sci/forest/incoming/forest.ohje",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/sci/",
+  "kw": "",
+  "preview": "other \u00b7 0 \u00b7 1996-09-05 07:05 \u00b7 in https://ftp.funet.fi/pub/sci/forest/incoming/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/forest/incoming/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/sci/forest/incoming/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "message",
+  "date": "1996-03-13 12:39",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "104",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/sci/forest/message",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/sci/",
+  "kw": "",
+  "preview": "text \u00b7 104 \u00b7 1996-03-13 12:39 \u00b7 in https://ftp.funet.fi/pub/sci/forest/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/forest/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/sci/forest/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "lynx_bookmarks.html",
+  "date": "1996-04-11 10:47",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.5K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/sci/forest/incoming/lynx_bookmarks.html",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/sci/",
+  "kw": "",
+  "preview": "text \u00b7 1.5K \u00b7 1996-04-11 10:47 \u00b7 in https://ftp.funet.fi/pub/sci/forest/incoming/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/forest/incoming/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/sci/forest/incoming/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README",
+  "date": "1996-03-13 12:39",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "104",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/sci/forest/README",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/sci/",
+  "kw": "",
+  "preview": "text \u00b7 104 \u00b7 1996-03-13 12:39 \u00b7 in https://ftp.funet.fi/pub/sci/forest/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/forest/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/sci/forest/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "noll2noll.txt",
+  "date": "1997-08-01 21:47",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "45",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/sci/forest/incoming/noll2noll.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/sci/",
+  "kw": "",
+  "preview": "text \u00b7 45 \u00b7 1997-08-01 21:47 \u00b7 in https://ftp.funet.fi/pub/sci/forest/incoming/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/forest/incoming/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/sci/forest/incoming/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "noll2noll.txt.uploaderinfo",
+  "date": "1997-08-01 21:47",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "119",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/sci/forest/incoming/noll2noll.txt.uploaderinfo",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/sci/",
+  "kw": "",
+  "preview": "other \u00b7 119 \u00b7 1997-08-01 21:47 \u00b7 in https://ftp.funet.fi/pub/sci/forest/incoming/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/forest/incoming/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/sci/forest/incoming/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "lynx_bookmarks.html.uploaderinfo",
+  "date": "1996-04-11 10:47",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "121",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/sci/forest/incoming/lynx_bookmarks.html.uploaderinfo",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/sci/",
+  "kw": "",
+  "preview": "other \u00b7 121 \u00b7 1996-04-11 10:47 \u00b7 in https://ftp.funet.fi/pub/sci/forest/incoming/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/forest/incoming/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/sci/forest/incoming/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "INDEX",
+  "date": "1993-10-08 10:52",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "84",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/sci/simulation/INDEX",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/sci/",
+  "kw": "",
+  "preview": "text \u00b7 84 \u00b7 1993-10-08 10:52 \u00b7 in https://ftp.funet.fi/pub/sci/simulation/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/simulation/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/sci/simulation/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "forest.ohje.uploaderinfo",
+  "date": "1996-09-05 07:05",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "111",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/sci/forest/incoming/forest.ohje.uploaderinfo",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/sci/",
+  "kw": "",
+  "preview": "other \u00b7 111 \u00b7 1996-09-05 07:05 \u00b7 in https://ftp.funet.fi/pub/sci/forest/incoming/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/forest/incoming/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/sci/forest/incoming/"
+   ]
+  ],
+  "mined_at": "2026-10-26T20:13:04Z"
  }
 ]
