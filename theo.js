@@ -35,19 +35,19 @@ function theoIA(T0,module){return async o=>{
 function theoPile(module){return async o=>{const [a,b]=winDate();const q=`mediatype:texts AND downloads:[0 TO 1] AND addeddate:[${a} TO ${b}]`;
   const docs=await iaDeep(q,20);const tagged=docs.map(d=>[bucket(d),d]);
   const mine=tagged.filter(x=>x[0]===module),other=tagged.filter(x=>x[0]&&x[0]!==module);
-  return [...mine,...other].slice(0,24).map(x=>mapIA(x[1],module,q))}}
+  return mine.slice(0,24).map(x=>mapIA(x[1],module,q))}} // on-theme only (Pass 3): empty → retry picks a new random window
 
 // raw uncurated: random page of public gists (text), bucket-labelled
 function theoGist(module){return async o=>{const r=await JJ(`https://api.github.com/gists/public?per_page=100&page=${1+Math.floor(Math.random()*30)}`);
   const rows=r.map(g=>{const f=Object.values(g.files||{});const d={title:(g.description||f.map(x=>x.filename).join(', ')||g.id),subject:f.map(x=>x.filename+' '+(x.language||'')).join(' ')};return [bucket(d),d,g,f]});
   const pref=rows.filter(x=>x[0]===module),rest=rows.filter(x=>x[0]&&x[0]!==module);
-  return [...pref,...rest].slice(0,24).map(([b,d,g,f])=>({module,source:'GitHub public gists',title:String(d.title).slice(0,140),date:g.created_at.slice(0,10),dateLabel:'posted',count:g.comments,countLabel:'comments',
+  return pref.slice(0,24).map(([b,d,g,f])=>({module,source:'GitHub public gists',title:String(d.title).slice(0,140),date:g.created_at.slice(0,10),dateLabel:'posted',count:g.comments,countLabel:'comments',
     thumb:'',kind:'link',src:'',url:g.html_url,preview:'files: '+f.map(x=>`${x.filename} (${x.type}, ${x.size}B)`).join(', '),query:'api.github.com/gists/public random page',extra:`bucket: ${b?T[b].name:'unsorted'} · uploader: ${g.owner?g.owner.login:'anonymous'}`}))}}
 
 // gray-space text pre-mined by Action: gopherspace (Veronica-2), Common Crawl text/plain, open-dir .txt
 const GRAY={};function theoGray(module){return async o=>{GRAY.d??=await fetch('finds/deep_text.json?'+Date.now()).then(r=>r.json()).catch(()=>[]);
   let L=GRAY.d.filter(x=>!o.kw||JSON.stringify(x).toLowerCase().includes(o.kw.toLowerCase()));
-  const mine=L.filter(x=>x.bucket===module),rest=L.filter(x=>x.bucket&&x.bucket!==module);return [...sh(mine),...sh(rest)].slice(0,30).map(x=>({...x,module}))}}
+  const mine=L.filter(x=>x.bucket===module),rest=L.filter(x=>x.bucket&&x.bucket!==module);return (o.kw?[...sh(mine),...sh(rest)]:sh(mine)).slice(0,30).map(x=>({...x,module}))}}
 
 // --- Open Library: subject queries
 function theoOL(T,module){return async o=>{
@@ -107,28 +107,28 @@ const T={
   re:/hittit|etrusc|minoan|crete|cretan|knossos|indus|harappa|mohenjo|phoenic|carthag|canaan|ugarit|scyth|thrac|dacia|druid|celtic|olmec|maya|aztec|inca/i,ol:['Hittites','Etruscans','Minoans','Indus civilization','Phoenicians','Druids and druidism'],gut:['Druids','Etruscan']},
  oral:{name:'ORAL TRADITIONS',icon:'🗣',blurb:'Tribal myths & folk tales recorded from oral tradition.',
   ia:[['"oral tradition"','"oral traditions"'],['"folk tales"','"folk-tales"','folklore','"folk-lore"'],['"indian legends"','"myths and legends"','"tribal myths"'],['"bureau of american ethnology"','ethnology','"mythology of the"']],
-  re:/oral|folk|legend|myth|tale|ethnolog|lore|saga|tradition/i,ol:['Oral tradition','Folklore','Tales','Indians of North America Folklore','Mythology, African'],gut:['Folklore','Mythology','Legends']},
+  re:/\boral (tradition|history|lore)|folklor|folk ?tale|legend(s|ary)?\b|\bmyth|\btales?\b|ethnolog|\blore\b|\bsagas?\b/i,ol:['Oral tradition','Folklore','Tales','Indians of North America Folklore','Mythology, African'],gut:['Folklore','Mythology','Legends']},
  deadgods:{name:'DEAD GODS INDEX',icon:'🗿',blurb:'Forgotten deities & collapsed pantheons.',
   ia:[['"gods of the"','pantheon','deities'],['"slavic mythology"','"baltic mythology"','"prussian gods"','"finnish mythology"'],['"egyptian gods"','"gods of the egyptians"','"egyptian religion"'],['"celtic gods"','"teutonic mythology"','"norse gods"','"germanic mythology"'],['"semitic religion"','baal','astarte','moloch','"dagon"']],
-  re:/god|goddess|deit|pantheon|mytholog|baal|astart|moloch|dagon|idol|religion of/i,ol:['Gods','Goddesses','Mythology','Gods, Egyptian','Mythology, Slavic','Mythology, Norse'],gut:['Mythology','Gods']},
+  re:/\bgods\b|goddess|deit(y|ies)|pantheon|mytholog|\bbaal|astart|moloch|\bdagon\b|idolat|religion of/i,ol:['Gods','Goddesses','Mythology','Gods, Egyptian','Mythology, Slavic','Mythology, Norse'],gut:['Mythology','Gods']},
  endangered:{name:'ENDANGERED BELIEFS',icon:'🕊',blurb:'Mandaean, Yazidi, Zoroastrian, Samaritan & kin.',
   ia:[['mandaean','mandaeans','mandaeism','sabians','"ginza rba"'],['yazidi','yezidi','yezidis','"devil worshippers"'],['zoroastrian','zoroastrianism','parsi','parsees','avesta'],['samaritan','samaritans','"samaritan pentateuch"'],['druze','alawite','shabak','"ahl-e haqq"','yarsan']],
   re:/mandae|sabian|ginza|yazid|yezid|devil.?worship|zoroast|parsi|parsee|avest|samarit|druze|alawi|yarsan|ahl.?e.?haqq/i,ol:['Mandaeans','Yezidis','Zoroastrianism','Samaritans','Parsees','Druzes'],gut:['Zoroastrianism','Parsees']},
  burial:{name:'BURIAL & AFTERLIFE',icon:'⚰',blurb:'Funerary customs, tombs & afterlife maps across cultures.',
   ia:[['"book of the dead"','"egyptian book of the dead"','"tibetan book of the dead"'],['"burial customs"','"funeral rites"','"mortuary customs"','"funeral customs"'],['afterlife','"future life"','"the underworld"','hades','"land of the dead"'],['"ancestor worship"','"cult of the dead"','"barrows"','"burial mounds"']],
-  re:/dead|burial|funer|mortuar|afterlife|future life|underworld|hades|tomb|barrow|ancestor|death|grave|sepulch/i,ol:['Burial','Funeral rites and ceremonies','Future life','Ancestor worship','Book of the dead'],gut:['Funeral rites','Future life']},
+  re:/book of the dead|burial|funer|mortuar|afterlife|future life|underworld|\bhades\b|\btombs?\b|\bbarrows?\b|ancestor (worship|cult)|cult of the dead|sepulch/i,ol:['Burial','Funeral rites and ceremonies','Future life','Ancestor worship','Book of the dead'],gut:['Funeral rites','Future life']},
  folkmagic:{name:'FOLK MAGIC',icon:'🌿',blurb:'Village religion, charms, cunning-folk, hex & folk magic.',
   ia:[['"folk magic"','charms','"charms and spells"','"cunning folk"'],['witchcraft','witches','"witch trials"'],['superstition','superstitions','"popular superstitions"'],['hoodoo','powwow','"pow-wows"','hexerei','"brauche"','conjure'],['"folk medicine"','"magic and medicine"','amulets','talismans']],
-  re:/folk|charm|spell|cunning|witch|superstit|hoodoo|pow.?wow|hex|conjur|amulet|talisman|magic|fairy|fairies/i,ol:['Witchcraft','Charms','Superstition','Folk medicine','Amulets','Magic'],gut:['Witchcraft','Superstition','Charms']},
+  re:/folk|charm|spell|cunning|witch|superstit|hoodoo|pow.?wow|\bhex(es|ing)?\b|conjur|amulet|talisman|magic|fairy|fairies/i,ol:['Witchcraft','Charms','Superstition','Folk medicine','Amulets','Magic'],gut:['Witchcraft','Superstition','Charms']},
  mystery:{name:'MYSTERY CULTS',icon:'🔮',blurb:'Eleusis, Mithras, Orphism, Dionysus, Isis, Cybele — mystery religions.',
   ia:[['eleusis','eleusinian','"eleusinian mysteries"'],['mithras','mithraism','mithraic','"mysteries of mithra"'],['orphism','orphic','"orphic hymns"','"orphic mysteries"'],['dionysian','"dionysian mysteries"','"cult of dionysus"','bacchae','"bacchic mysteries"'],['"mystery religions"','"mystery cults"','"isis and osiris"','"cult of isis"','cybele','attis','"magna mater"','samothrace']],
   re:/eleusi|mithra|\borph(ic|ism|ica)\b|dionysia|cult of dionysus|bacchae|bacchic myster|mystery relig|mystery cult|isis and osiris|cult of isis|cybele|attis|magna mater|samothrac|demeter|persephone|sabazi/i,ol:['Mysteries, Religious','Mithraism','Eleusinian mysteries','Orphism','Dionysia'],gut:['Mysteries, Religious','Mithraism','Orphism']},
  astrorel:{name:'ASTRONOMICAL RELIGIONS',icon:'✦',blurb:'Sky cults, sun & star worship, archaeoastronomy.',
   ia:[['"sun worship"','"solar worship"','"sun-worship"','"worship of the sun"'],['"star worship"','"astral religion"','"astral mythology"','"star-lore"'],['archaeoastronomy','"stonehenge"','"astronomy of the ancients"','"ancient astronomy"'],['"star names"','"myths of the stars"','"sky gods"','"zodiac"']],
-  re:/sun|solar|star|astral|astronom|stonehenge|zodiac|sky|moon|lunar|celestial|planet/i,ol:['Sun worship','Stars Folklore','Astronomy, Ancient','Archaeoastronomy','Astrology'],gut:['Astrology','Sun worship']},
+  re:/\bsun (god|worship|cult)|solar (myth|cult|deit)|\bstar (lore|myth|worship)|astral|archaeoastronom|stonehenge|zodiac|sky.?god|moon (god|goddess|worship|myth)|lunar (myth|cult)|celestial/i,ol:['Sun worship','Stars Folklore','Astronomy, Ancient','Archaeoastronomy','Astrology'],gut:['Astrology','Sun worship']},
  prophets:{name:'FORGOTTEN PROPHETS',icon:'🔔',blurb:'Lesser messiahs, prophets & sect founders.',
   ia:[['"false messiahs"','"sabbatai zevi"','"shabbethai zebi"','"jacob frank"'],['mahdi','mahdism','"the mahdi"'],['"ghost dance"','wovoka','"prophet dance"','handsome lake','tenskwatawa'],['"messianic movements"','millenarian','millennialism','"cargo cult"'],['"joanna southcott"','"anne lee"','"jemima wilkinson"','"john of leiden"','"hong xiuquan"','taiping']],
-  re:/messiah|messian|sabbatai|shabbeth|frank|mahdi|ghost dance|wovoka|prophet|handsome lake|tenskwat|millenar|millenn|cargo cult|southcott|anne lee|wilkinson|leiden|taiping|hong xiu/i,ol:['Messianism','Ghost dance','Mahdism','Millennialism','False Messiahs','Cargo cults'],gut:['Ghost dance','Messiah']},
+  re:/messiah|messian|sabbatai|shabbeth|frankis|mahdi|ghost dance|wovoka|prophet|handsome lake|tenskwat|millenar|millenn|cargo cult|southcott|anne lee|wilkinson|leiden|taiping|hong xiu/i,ol:['Messianism','Ghost dance','Mahdism','Millennialism','False Messiahs','Cargo cults'],gut:['Ghost dance','Messiah']},
  suppressed:{name:'SUPPRESSED FAITHS',icon:'⛓',blurb:'Colonized, banned & forcibly converted traditions.',
   ia:[['"religious persecution"','inquisition','"spanish inquisition"','huguenots','"persecution of the christians"'],['"forced conversion"','conversos','moriscos','marranos','"crypto-jews"'],['"native american religion"','"potlatch ban"','"sun dance"','"peyote"','"native religions"'],['syncretism','santeria','vodou','voodoo','candomble','"vodun"'],['"old believers"','"religion in the soviet"','"suppression of"','"pagan survivals"']],
   re:/religious persecution|persecution of (the )?(christians|jews|witches|heretics|quakers|huguenots|catholics|protestants|mormons)|inquisition|forced conver|converso|morisco|marrano|crypto.?jew|native (american )?religion|indian religion|potlatch|sun dance|peyote|santer|vodou|voodoo|vodun|candombl|old believer|pagan surviv|suppression of the (monasteries|jesuits|religious)/i,ol:['Persecution','Inquisition','Marranos','Moriscos','Indians of North America Religion','Santeria','Voodooism'],gut:['Inquisition','Persecution']},
