@@ -58,5 +58,53 @@
   "url": "https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fgopher.floodgap.com%2F1%2Ffun",
   "query": "floodgap gateway gopher://gopher.floodgap.com/1/fun",
   "extra": "via public Floodgap HTTP gateway"
+ },
+ {
+  "source": "Gopher",
+  "title": "gopher.floodgap.com/1/new",
+  "date": "",
+  "dateLabel": "",
+  "count": 1200,
+  "countLabel": "chars",
+  "kind": "meta",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "text/gopher",
+  "preview": "Floodgap Gopher-HTTP gateway gopher://gopher.floodgap.com/1/new\n&nbsp;\nView in Gopher client\n |\nHELP! with proxy\n |\nwww.floodgap.com\n[?]\ngopher.floodgap.com:70\n&gt; \nnew\nFloodgap Systems gopher root\n \n&nbsp;\n \nIf you've installed a Gopher server after 1999, we'd love to list\n \nnew Gophers here. Newest submissions appear first.\n \n&nbsp;\n \nPlease note that these links go to servers that are not maintained\n \nby Floodgap and no opinion is expressed over the content therein.\n \nYour use is at your own risk.\n \n&nbsp;\n \nList your gopher resource here by mailing gopher@floodgap.com.\n \nWe ask that your site use consistent hostnames in your menu and\n \nplease consider a robots.txt file if you have gopher-based apps\n \nso that Veronica-2 won't get caught in an indexing loop in them.\nAbout the indexer\n \nServers that have persistent DNS or connect failures will be\n \nperiodically purged.\n \n&nbsp;\n \nYou can also see the most actively tested and verified servers as\n \nVeronica-2 crawls them:\n\"Greatest hits\": most recently verified gopher servers\n \n&nbsp;\n \n** NOTE: new links listed here may not yet be available for search\n \nin Veronica-2 or in the global database. **\n \n&nbsp;\nDigital Mark's Cyber Hole",
+  "url": "https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fgopher.floodgap.com%2F1%2Fnew",
+  "query": "floodgap gateway gopher://gopher.floodgap.com/1/new",
+  "extra": "via public Floodgap HTTP gateway",
+  "mined_at": "2026-10-26T16:03:49Z"
+ },
+ {
+  "source": "Gopher",
+  "title": "gopherpedia.com/1/",
+  "date": "",
+  "dateLabel": "",
+  "count": 1200,
+  "countLabel": "chars",
+  "kind": "meta",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "text/gopher",
+  "preview": "Floodgap Gopher-HTTP gateway gopher://gopherpedia.com/1/\n&nbsp;\nView in Gopher client\n |\nHELP! with proxy\n |\nwww.floodgap.com\n \n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ _&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_\n \n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| (_)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| |\n \n&nbsp;&nbsp;&nbsp;__ _&nbsp;&nbsp;___&nbsp;&nbsp;_ __ | |__&nbsp;&nbsp;&nbsp;___ _ __ _ __&nbsp;&nbsp;&nbsp;___&nbsp;&nbsp;__| |_&nbsp;&nbsp;__ _| |\n \n&nbsp;&nbsp;/ _` |/ _ \\| '_ \\| '_ \\ / _ \\ '__| '_ \\ / _ \\/ _` | |/ _` | |\n \n&nbsp;| (_| | (_) | |_) | | | |&nbsp;&nbsp;__/ |&nbsp;&nbsp;| |_) |&nbsp;&nbsp;__/ (_| | | (_| |_|\n \n&nbsp;&nbsp;\\__, |\\___/| .__/|_| |_|\\___|_|&nbsp;&nbsp;| .__/ \\___|\\",
+  "url": "https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fgopherpedia.com%2F1%2F",
+  "query": "floodgap gateway gopher://gopherpedia.com/1/",
+  "extra": "via public Floodgap HTTP gateway",
+  "mined_at": "2026-10-26T16:03:49Z"
+ },
+ {
+  "source": "Gopher",
+  "title": "gopher.floodgap.com/1/world/ka",
+  "date": "",
+  "dateLabel": "",
+  "count": 727,
+  "countLabel": "chars",
+  "kind": "meta",
+  "depth": "1.5 km \u00b7 bathypelagic",
+  "mime": "text/gopher",
+  "preview": "Floodgap Gopher-HTTP gateway gopher://gopher.floodgap.com/1/world/ka\n&nbsp;\nView in Gopher client\n |\nHELP! with proxy\n |\nwww.floodgap.com\n[?]\ngopher.floodgap.com:70\n&gt; \nworld\n&gt; \nka\n \n&nbsp;'/world/ka' doesn't exist!\n \n&nbsp;This resource cannot be located.\n[?]\ngopher.floodgap.com:70\n&gt; \nworld\n&gt; \nka\nTop of page\n |\nGopher proxy home\n |\nFloodgap home gopher\n \nversion 645 port 2\nAll access must be in\naccordance with \nFloodgap Terms of Service\n.\nProxy too slow?\nGet free clients and plugins for your favorite mobile and desktop browsers.\nVisit the \nOverbite Project\n.\nSimultaneous clients: 1 (capped at 8)\nAccess to the proxy is limited to 16K/sec and maximum 4MB per access. Please\nuse a full client for larger files.",
+  "url": "https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fgopher.floodgap.com%2F1%2Fworld%2Fka",
+  "query": "floodgap gateway gopher://gopher.floodgap.com/1/world/ka",
+  "extra": "via public Floodgap HTTP gateway",
+  "mined_at": "2026-10-26T16:03:49Z"
  }
 ]
