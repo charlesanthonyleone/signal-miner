@@ -14,18 +14,18 @@ QUERIES = {
     "modernuse": [("pneumatic tube","B65G51"),("phonograph","G11B3"),("telegraph","H04L15"),("clockwork","G04B")],
     "formulas":  [("tonic","A61K36"),("beverage","A23L2"),("confection","A23G"),("hair tonic","A61K8"),("liqueur","C12G")],
     "survival":  [("fallout shelter","E04H9"),("bomb shelter","E04H9"),("gas mask","A62B"),("water purification","C02F1"),("radiation shield","G21F")],
-    "dead":      [("spirit communication",""),("communicating with the dead",""),("seance",""),("ghost detector",""),("psychic",""),("casket signal","A61G17")],
+    "dead":      [("spirit communication",""),("communicating with the dead",""),("seance",""),("talking board",""),("planchette",""),("premature burial",""),("coffin alarm",""),("burial signal",""),("ouija",""),("spirit photograph",""),("communicating with spirits",""),("psychic",""),("casket signal","A61G17")],
     "immortal":  [("resurrection",""),("suspended animation","A01N1/02"),("rejuvenation","A61K35"),("immortality",""),("reviving","A61H31"),("cryopreservation","A01N1/02")],
     "mindctl":   [("hypnotizing","A61M21"),("subliminal","A61M21"),("mind control",""),("thought transmission",""),("brain wave","A61N1/36"),("mesmerism","")],
-    "weather":   [("rain making","A01G15"),("cloud seeding","A01G15"),("hurricane","A01G15"),("fog dispersal","E01H13"),("hail prevention","A01G15"),("lightning","H05F7")],
-    "aliens":    [("flying saucer","B64C39/06"),("extraterrestrial",""),("asteroid deflection","B64G"),("interplanetary","B64G"),("anti gravity","")],
+    "weather":   [("weather modification","A01G15"),("artificial rain",""),("cloud seeding",""),("hail cannon",""),("fog dissipation",""),("rain making",""),("tornado",""),("hurricane modification",""),("lightning prevention",""),("weather control","")],
+    "aliens":    [("flying saucer","B64C39/06"),("extraterrestrial life",""),("UFO detector",""),("asteroid deflection","B64G"),("interplanetary","B64G"),("anti gravity","")],
     "deterrent": [("death ray",""),("electromagnetic pulse","H05K9"),("nuclear explosion","G21J"),("blast shelter","E04H9"),("retaliation","")],
 }
 RE = {
-    "dead": r"spirit|\\bdead\\b|deceased|s[eé]ance|ghost(?! image)|psychic|grave|casket|burial|afterlife|paranormal|coffin",
+    "dead": r"spirit(ual|ist)? (commun|medium|board)|planchette|premature burial|burial alarm|coffin|casket signal|deceased|talking board|ouija|ectoplasm|s[eé]ance|spirit photo|haunt|psychic|grave|casket|burial|afterlife|paranormal|coffin",
     "mindctl": r"hypno|sublimin|mind|thought|brain|mesmer|trance|behavio|sleep|neural",
-    "weather": r"rain|cloud|weather|hail|fog|hurricane|storm|lightning|precipitat|atmospher",
-    "aliens": r"saucer|extraterrest|alien|asteroid|interplanet|anti.?grav|meteor|ufo|flying disc|levitat",
+    "weather": r"rain.?making|artificial rain|precipitat|cloud seed|seeding cloud|weather (modif|control)|\bhail\b|\bfog (disp|dissip)|hurricane|tornado|cyclone|rainfall induc|silver iodide|dispers.{0,12}(fog|cloud)",
+    "aliens": r"saucer|extraterrest|\balien (life|contact|signal|being)|asteroid|interplanet|anti.?grav|meteor|\bufo\b|flying disc|levitat",
     "immortal": r"resurrect|suspend|rejuven|immortal|reviv|cryo|preserv|aging|life",
     "deterrent": r"ray|pulse|nuclear|blast|explos|retaliat|weapon|shelter|emp\b",
 }
@@ -135,7 +135,7 @@ def mine_module(mod, n=16):
     rx = _re.compile(RE[mod], _re.I) if mod in RE else None
     found, seen = [], set()
     for q, cpc in qs:
-        before = random.choice(["19400101", "19600101", "19800101", "20000101", ""])
+        before = random.choice(["19400101", "19600101", "19800101", "19800101", "20000101"])
         qq = f'"{q}"' if " " in q else q
         hits = gp_search(qq, page=random.randint(0, 2), cpc=cpc, before=before) or gp_search(qq, cpc=cpc)
         print("gp", mod, q, cpc, before, len(hits))
@@ -143,7 +143,9 @@ def mine_module(mod, n=16):
             key = x.get("patent_number") or x.get("url")
             if not key or key in seen: continue
             x["title"]=re.sub(r"<[^>]+>","",x.get("title","")); x["preview"]=re.sub(r"<[^>]+>","",x.get("preview",""))
-            if rx and not rx.search(x["title"] + " " + x["preview"]): continue
+            if x["title"].lstrip().startswith("&hellip"): continue
+            if re.search(r"security paper|counterfeit|banknote|pigment|television|ghost signal|battery|touch unit|radio terminal",x["title"],re.I): continue
+            if rx and not rx.search(x["title"] if mod in ("aliens","weather","dead") else x["title"] + " " + x["preview"]): continue
             seen.add(key); x["module"] = mod; x["mined_at"] = now()
             x["query"] = f'google patents q="{q}"' + (f" cpc={cpc}" if cpc else "") + (f" before {before[:4]}" if before else "")
             found.append(x)
