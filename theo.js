@@ -38,15 +38,18 @@ function theoPile(module){return async o=>{const [a,b]=winDate();const q=`mediat
   if(mine.length)return mine.slice(0,24).map(x=>mapIA(x[1],module,q));
   // Pass 5: random window had nothing on-theme -> low-download texts whose title hits the theme's own keywords
   const kws=themeWords(module);if(!kws.length)return [];
-  const q2=`mediatype:texts AND downloads:[0 TO 5] AND title:(${kws.map(w=>w+'*').join(' OR ')})`;
-  const d2=await iaDeep(q2,40);return d2.filter(d=>bucket(d)===module||T[module].re.test(d.title||'')).slice(0,24).map(d=>mapIA(d,module,q2))}}
+  const q2=`mediatype:texts AND downloads:[0 TO 20] AND title:(${kws.map(w=>w+'*').join(' OR ')})`;
+  const d2=await iaDeep(q2,1);const r2=d2.filter(d=>T[module].re.test(d.title||'')).slice(0,24).map(d=>mapIA(d,module,q2));
+  if(!r2.length)throw new Error('Zero-download pile: nothing on this theme in this random window or in the low-download keyword search. DIG again — it re-rolls the window.');return r2}}
 function themeWords(m){return T[m]?String(T[m].re.source).split('|').map(w=>w.replace(/\\b/g,'').replace(/[^a-z]/gi,'')).filter(w=>w.length>=4).slice(0,10):[]} // on-theme only (Pass 3): empty → retry picks a new random window
 
 // raw uncurated: random page of public gists (text), bucket-labelled
-function theoGist(module){return async o=>{const r=await gistList(1+Math.floor(Math.random()*30),100);
+const GP={};function theoGist(module){return async o=>{let r=await gistList(1+Math.floor(Math.random()*30),100);
+  // Pass 5: also scan the Action-harvested gist pile so on-theme gists are not lost to one random page
+  GP.h??=await fetch('finds/gists.json?'+Math.floor(Date.now()/6e5)).then(x=>x.json()).catch(()=>[]);const seen=new Set(r.map(g=>g.id));r=r.concat((GP.h||[]).filter(g=>!seen.has(g.id)));
   const rows=r.map(g=>{const f=Object.values(g.files||{});const d={title:(g.description||f.map(x=>x.filename).join(', ')||g.id),subject:f.map(x=>x.filename+' '+(x.language||'')).join(' ')};return [bucket(d),d,g,f]});
-  const pref=rows.filter(x=>x[0]===module),rest=rows.filter(x=>x[0]&&x[0]!==module);
-  if(!pref.length)throw new Error(`No on-theme gists in this sample (${rows.length} public gists scanned; gists are rarely about ${T[module]?T[module].name.toLowerCase():module}). Press DIG again or use the other tabs.`);
+  const pref=rows.filter(x=>x[0]===module&&T[module]&&T[module].re.test(x[1].title+' '+x[1].subject)),rest=rows.filter(x=>x[0]&&x[0]!==module);
+  if(!pref.length)throw new Error(`No on-theme gists in this sample (${rows.length} public gists scanned, live page + Action pile; gists are rarely about ${T[module]?T[module].name.toLowerCase():module}). Press DIG again or use the other tabs.`);
   return pref.slice(0,24).map(([b,d,g,f])=>({module,source:'GitHub public gists',title:String(d.title).slice(0,140),date:String(g.created_at||'').slice(0,10),dateLabel:'posted',count:g.comments,countLabel:'comments',
     thumb:'',kind:'link',src:'',url:g.html_url,preview:'files: '+f.map(x=>`${x.filename} (${x.type}, ${x.size}B)`).join(', '),query:'api.github.com/gists/public random page',extra:`bucket: ${b?T[b].name:'unsorted'} · uploader: ${g.owner?g.owner.login:'anonymous'}`}))}}
 
