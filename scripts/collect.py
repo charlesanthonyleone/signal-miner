@@ -100,9 +100,10 @@ try:
     except Exception as e: print("discover error:",e)
     roots=random.sample(odcrawl.ROOTS,4)+random.sample([h["root"] for h in OH],min(3,len(OH)))
     got=odcrawl.crawl(250,240,roots)
-    J=_re.compile(r"recipes|linux|comp\.binaries|comp\.sources|eunet\.sources|/rfc|standards|errata|TED-talks|/(gnu|gentoo|debian|openbsd|slackware|apache)/|\.(sig|patch|diff|md5|rpm|deb|crate|iso)$",_re.I)
+    J=_re.compile(r"recipes|linux|comp\.binaries|comp\.sources|alt\.sources|eunet\.sources|/rfc|internet-drafts|/ietf/|/iesg/|gcrypt|nongnu|/viewers/|/Programming/|standards|errata|TED-talks|/(gnu|gentoo|debian|openbsd|slackware|apache|X11|NT|gimp|CTAN|kernel|centos|ubuntu)/|\.(sig|patch|diff|md5|sha\d*|rpm|deb|crate|iso|exe|dll|tar|tgz|bz2|xz|Z|o|so|c|h|f|py|pl|lzh)$|\.tar\.gz$|/diffs|/[\d.]+(\.gz|\.z)?$",_re.I)
     old=json.load(open("finds/odbig.json")); have={r[0] for r in old}
     new=[[x["url"],x.get("size",""),x.get("date","")] for x in got if x["url"] not in have and not J.search(x["url"])]
+    old=[r for r in old if not J.search(r[0])]
     json.dump((old+new)[-40000:],open("finds/odbig.json","w"),separators=(",",":")); print("odbig +",len(new))
 except Exception as e: print("odbig error:",e)
 
