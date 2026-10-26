@@ -13,16 +13,20 @@ const xp=r=>{const [u,size,date]=r,i=u.lastIndexOf('/'),parent=u.slice(0,i+1),na
 async function LX(file){if(file!=='odbig')return L(file);if(!cache.odbigx)cache.odbigx=L('odbig').then(a=>(a||[]).map(xp));return cache.odbigx}
 // keyword synonyms so short searches (vhs, ufo…) also catch period spellings
 const SYN={vhs:['vhs','vcr','videotape','video tape','betamax','camcorder','video'],ufo:['ufo','saucer','mufon','alien','abduct','roswell','extraterr'],occult:['occult','magick','thelema','hermetic','grimoire','tarot'],
- ghost:['ghost','haunt','poltergeist','spirit'],cia:['cia','mkultra','declass'],tv:['tv','television','tv+film'],conspiracy:['conspir','illuminati','coverup','cover-up']};
+ ghost:['ghost','haunt','poltergeist','spirit'],cia:['cia','mkultra','declass'],tv:['tv','television','tv+film'],conspiracy:['conspir','illuminati','coverup','cover-up'],paranormal:['paranorm','psychic','poltergeist','haunt','ufo'],cryptid:['cryptid','bigfoot','sasquatch','yeti','nessie','chupacabra'],
+ bbs:['bbs','sysop','fidonet','ansi','textfile'],zine:['zine','ezine','fanzine','newsletter'],radio:['radio','shortwave','ham radio','swl','numbers station'],cult:['cult','sect','manson','waco','heavensgate'],film:['film','movie','cinema','8mm','16mm','super8'],magic:['magic','magick','spell','grimoire','sigil']};
 const words=kw=>kw.toLowerCase().split(/\s+/).filter(Boolean).map(w=>SYN[w]||[w]);
-const hay=x=>[x.title,x.url,x.query,x.extra,x.host,x.kw,x.preview].join(' ').toLowerCase();
-const match=(x,kw)=>{if(!kw)return true;const h=hay(x);return words(kw).every(alts=>alts.some(w=>h.includes(w)))};
+const norm=t=>{t=String(t||'');try{t=decodeURIComponent(t)}catch(e){}return t.toLowerCase().replace(/[_+.\-]+/g,' ')};
+const hay=x=>norm([x.title,x.url,x.query,x.extra,x.host,x.kw,x.preview].join(' '));
+// relevance: filename hits outrank path hits; exact word beats synonym
+const score=(x,kw)=>{const t=norm(x.title),p=norm(x.url);let s=0;words(kw).forEach(alts=>alts.forEach((w,i)=>{const wt=i?1:2;if(t.includes(w))s+=3*wt;else if(p.includes(w))s+=wt}));return s+Math.random()};
+const match=(x,kw)=>{if(!kw)return true;const h=hay(x);return words(kw).every(alts=>alts.some(w=>h.includes(norm(w))))};
 const show=(x,module)=>{const media=/^(image|video)/.test(x.ftype||x.mime||'')||x.kind==='img'||x.kind==='video';
   return {...x,module,gated:media||!!x.gated,count:x.count??null,
    extra:[x.ftype&&('type: '+x.ftype),x.size&&('size: '+x.size),x.date&&((x.dateLabel||'date')+': '+x.date),x.host&&('host: '+x.host),x.extra].filter(Boolean).join(' · ')}};
 function from(files,module,test){return async o=>{let A=[];for(const f of files)A=A.concat(await LX(f));
   const seen=new Set();A=A.filter(x=>NOIA(x)&&(!test||test(x))&&match(x,o.kw)&&!seen.has(x.url)&&seen.add(x.url));
-  A.sort(()=>Math.random()-.5);
+  if(o.kw){const S=new Map(A.map(x=>[x.url,score(x,o.kw)]));A.sort((a,b)=>S.get(b.url)-S.get(a.url))}else A.sort(()=>Math.random()-.5);
   if(!o.kw&&A.length>60){const t=A.filter(x=>THEME.test(x.url)),r=A.filter(x=>!THEME.test(x.url));A=t.slice(0,30).concat(r.slice(0,10)).sort(()=>Math.random()-.5)}
   return A.slice(0,o.kw?80:40).map(x=>show(x,module))}}
 const THEME=/occult|ufo|relig|conspir|magick|thelema|tarot|ghost|myth|folk|bible|gnos|alien|paranorm|anarch|phreak|hack|ezine|magazine|bbs|ascii|tv\+film|origami|kites|pics|sci\/|apan|fringe|weird|mystic|pagan|wicca|eris/i;
