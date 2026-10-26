@@ -42,7 +42,13 @@ async function dailymotion(o){const term=o.kw||(o.raw?pick(["IMG_","MVI_","DSC",
   const u=new URLSearchParams({search:term,limit:50,page:(o.kw||o.raw)?1:rnd(1,3),fields:'id,title,created_time,views_total,thumbnail_360_url,duration,owner.username',
     created_after:Math.floor(Date.UTC(o.y1,0,1)/1000),created_before:Math.floor(Date.UTC(o.y2,11,31)/1000)});
   const r=await J('https://api.dailymotion.com/videos?'+u);
-  return r.list.filter(v=>!o.raw||v.views_total<=100).map(v=>({module:'video',source:'Dailymotion',title:v.title,date:new Date(v.created_time*1000).toISOString().slice(0,10),dateLabel:'uploaded',
+  let L=r.list.filter(v=>!o.raw||v.views_total<=100);
+  if(L.length<8&&!o.kw){ // Pass 5: thin -> widen (drop date window, up to 2 more terms)
+    for(let i=0;i<2&&L.length<8;i++){const t2=o.raw?pick(["IMG_","MVI_","DSC","VID_","MOV","GOPR"])+String(rnd(0,9999)).padStart(4,'0'):pick(WORDS);
+      const u2=new URLSearchParams({search:t2,limit:50,fields:'id,title,created_time,views_total,thumbnail_360_url,duration,owner.username'});
+      const r2=await J('https://api.dailymotion.com/videos?'+u2).catch(()=>({list:[]}));L=L.concat((r2.list||[]).filter(v=>!o.raw||v.views_total<=300).filter(v=>!L.some(x=>x.id===v.id)))}}
+  if(!L.length)throw new Error(o.raw?'Dailymotion: no low-view (≤300) camera-filename uploads in this draw — its search favours popular videos, so raw mode is thin. DIG again or use the other video sources.':'Dailymotion returned nothing for this term.');
+  return L.map(v=>({module:'video',source:'Dailymotion',title:v.title,date:new Date(v.created_time*1000).toISOString().slice(0,10),dateLabel:'uploaded',
     count:v.views_total,countLabel:'views',thumb:v.thumbnail_360_url,kind:'iframe',src:`https://geo.dailymotion.com/player.html?video=${v.id}`,url:`https://www.dailymotion.com/video/${v.id}`,query:`search="${term}"${o.raw?' views<=100':''}`,extra:`${v.duration}s · ${v['owner.username']||''}`}))}
 
 function openverse(kind){return async o=>{const term=o.kw||(o.raw?pick(['IMG','DSC','untitled','snapshot','photo']):pick(WORDS));
@@ -154,7 +160,7 @@ const MODULES={
   ia_raw:{name:'Archive · raw',f:iaSrc({mt:'movies',rawPats:RAWV,source:'Internet Archive',module:'video'}),note:'archive.org movies, live search.'},
   ia_films:{name:'Archive · films & TV',f:iaSrc({mt:'movies',extra:'collection:(prelinger OR classic_tv OR feature_films OR ephemera OR classic_cartoons OR television OR moviesandfilms)',rawMax:100,source:'Internet Archive',module:'video'}),note:'Prelinger, classic TV, feature films.'},
   commons:{name:'Wikimedia Commons',f:commonsSrc('video','video'),note:'Commons video files.'},
-  dailymotion:{name:'Dailymotion',f:dailymotion,note:'Dailymotion public API.'}}},
+  dailymotion:{name:'Dailymotion',f:dailymotion,note:'Dailymotion public API. Widens (no date window, extra terms) when thin; raw mode is honestly sparse because its search favours popular videos.'}}},
  image:{half:'live',name:'IMAGE',icon:'◩',blurb:'Photos, scans, artworks and old web graphics.',sources:{
   commons:{name:'Wikimedia Commons',f:commonsSrc('bitmap','image'),note:'Commons images.'},
   ia:{name:'Internet Archive',f:iaSrc({mt:'image',rawPats:["IMG_*","DSC*","DSCF*","P10*","scan*","photo*","untitled"],source:'Internet Archive',module:'image'}),note:'archive.org image items.'},
