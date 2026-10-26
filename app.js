@@ -20,10 +20,14 @@ function iaSrc({mt,extra,rawPats,rawMax=25,source,module}){return async o=>{
   if(o.raw)p.push(`downloads:[0 TO ${rawMax}]`);p.push(yr(o));
   const q=p.join(' AND '),u=new URLSearchParams({q,rows:40,page:1,output:'json'});
   ["identifier","title","publicdate","downloads","creator"].forEach(f=>u.append('fl[]',f));
-  const docs=(await J('https://archive.org/advancedsearch.php?'+u)).response.docs;
+  let docs=(await J('https://archive.org/advancedsearch.php?'+u)).response.docs;let qq=q;
+  if(docs.length<8){const p2=p.filter(x=>!/^publicdate:/.test(x)&&!/^title:\(/.test(x));if(!o.kw&&!extra&&!o.raw)p2.push(`(${pick(WORDS)} OR ${pick(WORDS)} OR ${pick(WORDS)})`);
+    qq=p2.join(' AND ');const u2=new URLSearchParams({q:qq,rows:60,page:rnd(1,o.kw?1:5),output:'json'});["identifier","title","publicdate","downloads","creator"].forEach(f=>u2.append('fl[]',f));
+    const more=(await J('https://archive.org/advancedsearch.php?'+u2).catch(()=>({response:{docs:[]}}))).response.docs.filter(d=>inYears(d.publicdate,o)||!o.kw);
+    const ids=new Set(docs.map(d=>d.identifier));docs=docs.concat(more.filter(d=>!ids.has(d.identifier)))}
   return shuffle(docs).slice(0,24).map(d=>({module,source,title:d.title||d.identifier,date:(d.publicdate||'').slice(0,10),dateLabel:'uploaded',
     count:d.downloads,countLabel:'downloads',thumb:`https://archive.org/services/img/${d.identifier}`,kind:'iframe',src:`https://archive.org/embed/${d.identifier}`,
-    url:`https://archive.org/details/${d.identifier}`,query:q,extra:d.creator?`creator: ${[].concat(d.creator).join(', ')}`:''}))}}
+    url:`https://archive.org/details/${d.identifier}`,query:docs.length&&qq!==q?q+' → widened: '+qq:q,extra:d.creator?`creator: ${[].concat(d.creator).join(', ')}`:''}))}}
 
 function commonsSrc(ft,module){return async o=>{
   let s=`filetype:${ft} `+(o.kw||(o.raw?pick(['intitle:IMG','intitle:DSC','intitle:MVI','intitle:VID','intitle:P10']):''));
@@ -83,7 +87,7 @@ async function ccObscureLive(o){
       url:r.url,query:`CC-MAIN-2026-39 url=${urlQ} page=${page}`,extra:`mime ${r.mime} · lang ${(r.languages||'?')} · status ${r.status}`});if(out.length>=16)break}
   return out}
 async function gists(o){
-  const page=o.kw?1:rnd(1,8);const list=await J(`https://api.github.com/gists/public?per_page=30&page=${page}`);
+  const page=o.kw?1:rnd(1,8);const list=await gistList(page,30);
   const out=[];
   for(const g of shuffle(list).slice(0,16)){
     const files=Object.values(g.files||{});const f=files[0];if(!f)continue;
@@ -94,7 +98,7 @@ async function gists(o){
       try{preview=sanitizeText(await (await fetch(f.raw_url)).text())}catch{}}
     out.push({module:'gists',source:'GitHub Gists',title:title.slice(0,100),date:(g.created_at||'').slice(0,10),dateLabel:'created',count:f.size,countLabel:'bytes',
       kind:'meta',depth:depth(),mime:f.type||f.language||'text',preview:preview||`(file: ${f.filename}, ${f.size||'?'} bytes — open gist for content)`,
-      url:g.html_url,query:`api.github.com/gists/public page=${page}`,extra:`${files.length} file(s) · ${f.filename}`})}
+      url:g.html_url,query:NET.gistFallback?'cached Action harvest (live API rate-limited)':`api.github.com/gists/public page=${page}`,extra:`${files.length} file(s) · ${f.filename}`})}
   return out}
 
 async function nasaSpace(o){

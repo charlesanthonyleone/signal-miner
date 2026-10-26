@@ -24,13 +24,19 @@ function loc(t,module){const T0=t;const one=async(o,ph)=>{
   const u=`https://www.loc.gov/collections/chronicling-america/?q=${encodeURIComponent('"'+ph+'"')}&dates=${y}/${y+12}&fo=json&c=25&sp=${1+Math.floor(Math.random()*4)}`;
   let r=await fetch(u).then(r=>r.ok?r.json():null).catch(()=>null);
   if(!r||!(r.results||[]).length)r=await fetch(u.replace(/&dates=[^&]+/,'').replace(/&sp=\d+/,'&sp=1')).then(r=>r.json());
-  const res=r.results||[];const sn=await Promise.all(res.map(x=>x.word_coordinates_url?fetch(x.word_coordinates_url).then(r=>r.json()).then(j=>String((Object.values(j)[0]||{}).relevant_snippet||'').replace(/\[\[\/?tag\]\]/g,'')).catch(()=>''):''));
+  const res=r.results||[];const sn=await Promise.all(res.map((x,i)=>i>=10?'':x.word_coordinates_url?fetch(x.word_coordinates_url).then(r=>r.json()).then(j=>String((Object.values(j)[0]||{}).relevant_snippet||'').replace(/\[\[\/?tag\]\]/g,'')).catch(()=>''):''));
   return res.map((x,i)=>[x,i]).filter(([x,i])=>{const t=sn[i]||'';return (!t)||(!o.kw?((!T0.nf||T0.nf.test(t))&&!(T0.nx&&T0.nx.test(t))):true)}).map(([x,i])=>{const d=[].concat(x.description||[]).join(' ');const img=[].concat(x.image_url||[])[0]||'';
    return {module,source:'Chronicling America (LoC)',title:String(x.title||'').replace(/^Image \d+ of /,''),date:x.date||'',dateLabel:'printed',count:null,countLabel:'',
     thumb:img,kind:'link',src:'',url:x.url||x.id,preview:sn[i]||snip(d,ph),query:`"${ph}" · ${y}–${y+12} · random page`,
     lazy:x.word_coordinates_url?async()=>{const j=await fetch(x.word_coordinates_url).then(r=>r.json());const v=Object.values(j)[0]||{};return 'OCR SNIPPET AROUND THE HIT:\n'+String(v.relevant_snippet||'(no snippet)').replace(/\[\[\/?tag\]\]/g,'**')}:null,
     extra:`lead type: ${t.name} · ${[].concat(x.location_city||[]).join(',')} ${[].concat(x.location_state||[]).join(',')} · OCR raw — verify against scan`}})};
-  return async o=>{for(let k=0;k<3;k++){const r=await one(o,o.kw||pk(t.news));if(r.length||o.kw)return r}return []}}
+  const key=module.replace('rel_','');
+  const cached=async(o,why)=>{const L=await fetch('finds/rel_news.json?'+Math.floor(Date.now()/6e5)).then(r=>r.ok?r.json():[]).catch(()=>[]);
+    const kw=(o.kw||'').toLowerCase();const m=L.filter(x=>x.theme===key&&(!kw||(x.title+' '+x.preview).toLowerCase().includes(kw)));
+    return m.map(x=>[Math.random(),x]).sort((a,b)=>a[0]-b[0]).slice(0,24).map(([_,x])=>({module,source:x.source+' · cached',title:x.title,date:x.date,dateLabel:'printed',count:null,countLabel:'',
+      thumb:x.thumb,kind:'link',src:'',url:x.url,preview:x.preview||'(open the page scan for the OCR text)',query:x.query+' — '+why,extra:`lead type: ${t.name} · ${x.place||''} · OCR raw — verify against scan`}))};
+  return async o=>{let err='';for(let k=0;k<2;k++){try{const r=await one(o,o.kw||pk(t.news));if(r.length)return r;if(o.kw)break}catch(e){err=e.message;break}}
+    const c=await cached(o,err?'live loc.gov failed: '+err:'live search empty');if(c.length)return c;if(err)throw new Error('Old newspapers: '+err);return []}}
 async function wikiWrecks(o){const off=Math.floor(Math.random()*2500);
   const q=`SELECT ?w ?wLabel ?date ?coord ?desc WHERE { ?w wdt:P31 wd:Q852190 . OPTIONAL{?w wdt:P585 ?date} OPTIONAL{?w wdt:P625 ?coord} OPTIONAL{?w schema:description ?desc FILTER(lang(?desc)='en')} ?w wikibase:sitelinks ?sl FILTER(?sl=0) SERVICE wikibase:label{bd:serviceParam wikibase:language "en,de,fr,nl,sv,fi,no,da,es,it"} } LIMIT 40 OFFSET ${off}`;
   const r=await fetch('https://query.wikidata.org/sparql?format=json&query='+encodeURIComponent(q),{headers:{Accept:'application/sparql-results+json'}}).then(r=>r.json());

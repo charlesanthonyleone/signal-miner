@@ -38,10 +38,10 @@ function theoPile(module){return async o=>{const [a,b]=winDate();const q=`mediat
   return mine.slice(0,24).map(x=>mapIA(x[1],module,q))}} // on-theme only (Pass 3): empty → retry picks a new random window
 
 // raw uncurated: random page of public gists (text), bucket-labelled
-function theoGist(module){return async o=>{const r=await JJ(`https://api.github.com/gists/public?per_page=100&page=${1+Math.floor(Math.random()*30)}`);
+function theoGist(module){return async o=>{const r=await gistList(1+Math.floor(Math.random()*30),100);
   const rows=r.map(g=>{const f=Object.values(g.files||{});const d={title:(g.description||f.map(x=>x.filename).join(', ')||g.id),subject:f.map(x=>x.filename+' '+(x.language||'')).join(' ')};return [bucket(d),d,g,f]});
   const pref=rows.filter(x=>x[0]===module),rest=rows.filter(x=>x[0]&&x[0]!==module);
-  return pref.slice(0,24).map(([b,d,g,f])=>({module,source:'GitHub public gists',title:String(d.title).slice(0,140),date:g.created_at.slice(0,10),dateLabel:'posted',count:g.comments,countLabel:'comments',
+  return pref.slice(0,24).map(([b,d,g,f])=>({module,source:'GitHub public gists',title:String(d.title).slice(0,140),date:String(g.created_at||'').slice(0,10),dateLabel:'posted',count:g.comments,countLabel:'comments',
     thumb:'',kind:'link',src:'',url:g.html_url,preview:'files: '+f.map(x=>`${x.filename} (${x.type}, ${x.size}B)`).join(', '),query:'api.github.com/gists/public random page',extra:`bucket: ${b?T[b].name:'unsorted'} · uploader: ${g.owner?g.owner.login:'anonymous'}`}))}}
 
 // gray-space text pre-mined by Action: gopherspace (Veronica-2), Common Crawl text/plain, open-dir .txt

@@ -94,6 +94,13 @@ for f, fn in jobs:
     except Exception as e:
         print(f, "error:", e)
 
+try:
+    import relnews; relnews.harvest(1)
+except Exception as e: print('relnews error:',e)
+try:
+    import gists; gists.harvest()
+except Exception as e: print('gists error:',e)
+
 # OPEN DIRECTORIES big keyword index: incremental breadth crawl of public mirrors -> compact [url,size,date] rows
 try:
     import odcrawl, re as _re
