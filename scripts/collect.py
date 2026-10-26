@@ -87,13 +87,24 @@ for f, fn in jobs:
     except Exception as e:
         print(f, "error:", e)
 
+# OPEN DIRECTORIES big keyword index: incremental breadth crawl of public mirrors -> compact [url,size,date] rows
+try:
+    import odcrawl, re as _re
+    roots=random.sample(odcrawl.ROOTS,5)
+    got=odcrawl.crawl(250,240,roots)
+    J=_re.compile(r"recipes|linux|comp\.binaries|comp\.sources|eunet\.sources|/rfc|standards|errata|TED-talks|/(gnu|gentoo|debian|openbsd|slackware|apache)/|\.(sig|patch|diff|md5|rpm|deb|crate|iso)$",_re.I)
+    old=json.load(open("finds/odbig.json")); have={r[0] for r in old}
+    new=[[x["url"],x.get("size",""),x.get("date","")] for x in got if x["url"] not in have and not J.search(x["url"])]
+    json.dump((old+new)[-40000:],open("finds/odbig.json","w"),separators=(",",":")); print("odbig +",len(new))
+except Exception as e: print("odbig error:",e)
+
 # forensics + time skew across current finds
 all_items = []
 for f, L in list(data.items()):
     all_items.extend(L)
 # also load any on-disk finds not in this run
 for name in os.listdir("finds"):
-    if name.endswith(".json") and name[:-5] not in data:
+    if name.endswith(".json") and name[:-5] not in data and name!="odbig.json":
         try: all_items.extend(load(name[:-5]))
         except Exception: pass
 
