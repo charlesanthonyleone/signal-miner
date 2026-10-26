@@ -77,3 +77,4 @@ body.invento{--accent:#ffb84d;--accent2:#ff6a3d;background:radial-gradient(900px
 .halfbtn.on.theo{background:linear-gradient(135deg,#a3c,#714);color:#210}
 .halfbtn.on.invento{background:linear-gradient(135deg,#fa3,#e63);color:#210}
 .halfbtn{min-width:100px;padding:14px 10px;font-size:14px}
+.gate{border:1px dashed #c96;padding:12px;margin:8px 0;background:rgba(200,120,60,.08)}

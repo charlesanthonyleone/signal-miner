@@ -1,0 +1,20 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Signal Miner · Moderation</title><link rel="stylesheet" href="style.css">
+<style>body{padding:20px;font-family:monospace}table{width:100%;border-collapse:collapse}td,th{border-bottom:1px solid #333;padding:6px;text-align:left;vertical-align:top}a.go,button.go{margin:2px}</style></head><body>
+<h1>MODERATION PORTAL</h1>
+<p class="warn">Quarantine list (<code>flagged.json</code>) and pre-display blocklist (<code>blocklist.json</code>). Approve/remove opens a prefilled GitHub issue; a maintainer edits the JSON. Items matching the blocklist are never shown in the miner. If you see child sexual abuse material, report it to NCMEC — do not download or share it.</p>
+<p><a class="go" href="https://report.cybertip.org/" target="_blank">NCMEC CyberTipline</a> <a class="go" href="https://tips.fbi.gov/" target="_blank">FBI tips</a> <a class="go" href="https://www.ic3.gov/" target="_blank">IC3</a> <a class="go" href="./">← back to miner</a></p>
+<h2>Quarantined / reported</h2><table id="f"><tr><th>item</th><th>reason</th><th>reported</th><th>actions</th></tr></table>
+<h2>Blocklist</h2><div id="b"></div>
+<h2>Propose block</h2><input id="nb" placeholder="domain, keyword, url or sha256" size="60"> <button class="go" onclick="iss('Blocklist add: '+nb.value,'Add to blocklist.json:\n\n'+nb.value)">open issue</button>
+<script>
+const R='https://github.com/charlesanthonyleone/signal-miner/issues/new';
+const iss=(t,b)=>open(R+'?'+new URLSearchParams({title:t,body:b,labels:'moderation'}),'_blank');
+const e=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const loc=JSON.parse(localStorage.hide||'[]').map(u=>({url:u,title:u,reason:'hidden locally (⚑ report & hide)',reported_at:'this browser'}));
+fetch('flagged.json',{cache:'no-store'}).then(r=>r.json()).catch(()=>[]).then(F=>{const all=[...F,...loc];
+ f.innerHTML+=all.length?all.map(x=>`<tr><td>${e(x.title)}<br><small>${e(x.url)}</small><br><small>${e(x.module||'')}</small></td><td>${e(x.reason)}</td><td>${e(x.reported_at)}</td>
+ <td><button class="go" onclick='iss("Moderation APPROVE: "+${JSON.stringify(JSON.stringify(x.url))},"Restore (remove from flagged.json):\\n"+${JSON.stringify(JSON.stringify(x.url))})'>approve</button>
+ <button class="go" onclick='iss("Moderation REMOVE: "+${JSON.stringify(JSON.stringify(x.url))},"Permanently block (add to blocklist.json urls):\\n"+${JSON.stringify(JSON.stringify(x.url))})'>remove + block</button>
+ <a class="go" href="https://report.cybertip.org/" target="_blank">NCMEC</a> <a class="go" href="https://tips.fbi.gov/" target="_blank">FBI</a> <a class="go" href="https://www.ic3.gov/" target="_blank">IC3</a></td></tr>`).join(''):'<tr><td colspan=4>queue empty</td></tr>'});
+fetch('blocklist.json',{cache:'no-store'}).then(r=>r.json()).then(j=>{b.innerHTML=['domains','keywords','urls','sha256'].map(k=>`<p><b>${k}</b> (${(j[k]||[]).length}): ${e((j[k]||[]).join(', '))}</p>`).join('')});
+</script></body></html>

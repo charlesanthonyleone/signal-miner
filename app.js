@@ -209,7 +209,7 @@ const blocked=u=>BLOCK.has(u)||HIDE().includes(u)||[...BLOCK].some(b=>{const h=h
 
 async function mineWithRetry(S,o,say=()=>{}){const steps=[{},{},{loose:1},{loose:1,raw:false},{loose:1,raw:false,y1:1900,y2:2026},{loose:1,raw:false,y1:1900,y2:2026}];
  let err='';for(let i=0;i<steps.length;i++){const q={...o,...steps[i]};if(i)say(`no hits, loosening filters (try ${i+1}/${steps.length})…`);
-  try{const r=(await S.f(q)).filter(x=>!blocked(x.url));if(r.length)return{res:r,err:'',note:i>=2?`[filters loosened] `:''}}catch(e){err=e.message;await new Promise(r=>setTimeout(r,600))}}
+  try{const r=SAFE.filter((await S.f(q)).filter(x=>!blocked(x.url)));if(r.length)return{res:r,err:'',note:i>=2?`[filters loosened] `:''}}catch(e){err=e.message;await new Promise(r=>setTimeout(r,600))}}
  return{res:[],err,note:''}}
 
 const V=()=>JSON.parse(localStorage.vault||'{}'),saveV=v=>localStorage.vault=JSON.stringify(v);
@@ -311,11 +311,11 @@ async function dig(){const o={kw:$('#kw').value.trim(),y1:+$('#y1').value||1900,
  $('#st').textContent=res.length?`${note}${res.length} finds · ${new Date().toLocaleTimeString()} · query: ${res[0].query}`:(err?'source error: '+err:'no signal — try again');grid('#grid',res)}
 
 function grid(sel,list){
- $(sel).innerHTML=list.map((x,i)=>`<div class="card ${x.kind==='meta'?'meta':''}" style="animation-delay:${i*40}ms" onclick="openF('${sel}',${i})">
+ list=SAFE.filter(list);$(sel).innerHTML=list.map((x,i)=>`<div class="card ${x.kind==='meta'?'meta':''}" style="animation-delay:${i*40}ms" onclick="openF('${sel}',${i})">
  <button class="star rep" title="report" onclick="event.stopPropagation();report(LISTS['${sel}'][${i}])">⚑</button>
  <button class="star" onclick="event.stopPropagation();this.textContent=toggle(LISTS['${sel}'][${i}])?'★':'☆';topnav()">${V()[x.url]?'★':'☆'}</button>
  ${x.kind==='meta'?`<div class="thumb meta-thumb"><div class="depth">${esc(x.depth||'—')}</div><div class="fname">${esc(x.title)}</div><div class="ftype">${esc(x.mime||'file')}${x.count!=null?' · '+esc(x.count)+' '+(x.countLabel||''):''}</div></div>`
-  :`<div class="thumb" style="${x.thumb?`background-image:url('${esc(x.thumb)}')`:''}">${x.thumb?'':(x.kind==='cam'?'📷':MODULES[x.module]?.icon||'?')}</div>`}
+  :`<div class="thumb" style="${x.thumb&&SAFE.thumbOK(x.thumb)?`background-image:url('${esc(x.thumb)}')`:''}">${x.thumb&&SAFE.thumbOK(x.thumb)?'':(x.kind==='cam'?'📷':MODULES[x.module]?.icon||'?')}</div>`}
  <div class="meta"><div><span class="badge">${esc(x.source)}</span>${x.depth?`<span class="badge">${esc(x.depth)}</span>`:''}</div>
  <div class="t">${esc(x.title)}</div>
  <div>${x.date?esc(x.dateLabel+' '+x.date):'date n/a'}${x.count!=null&&x.kind!=='meta'?' · '+esc(x.count)+' '+esc(x.countLabel):''}</div>
@@ -327,7 +327,7 @@ function openF(sel,i){const x=LISTS[sel][i];
   const still=x.mime&&x.mime.startsWith('image/');
   $('#mb').innerHTML=`<h3>${esc(x.title)}</h3><div><span class="badge">${esc((state.half||'trench').toUpperCase())}</span><span class="badge">OPEN CAMERA</span><span class="badge">${esc(x.depth||'')}</span></div>
   <p class="warn">Public unauthenticated stream from a public index. We did not scan or log in. Viewing may show private spaces — use ⚑ if inappropriate.</p>
-  ${still||x.thumb?`<img class="cam" src="${esc(x.src||x.thumb)}" alt="camera still">`:`<img class="cam" src="${esc(x.src)}" alt="camera stream (mjpeg)">`}
+  ${SAFE.gate(`<img class="cam" src="${esc(x.src||x.thumb)}" alt="camera">`,x)}
   <div class="meta-panel"><div>${esc(x.extra||'')}</div><div>type: ${esc(x.mime||'?')}</div></div>
   <pre class="prevbox">${esc(x.preview||'')}</pre>
   <div class="row"><a class="go" href="${esc(x.url)}" target="_blank" rel="noopener">open stream ↗</a>
@@ -344,9 +344,9 @@ function openF(sel,i){const x=LISTS[sel][i];
   <button class="go" id="sv">${V()[x.url]?'★ saved':'☆ save'}</button>
   <button class="go" id="rp">⚑ report & hide</button><button class="go" onclick="closeM()">close</button></div>`;
   $('#rp').onclick=()=>reportHide(x);$('#sv').onclick=()=>{$('#sv').textContent=toggle(x)?'★ saved':'☆ save';topnav()};$('#modal').classList.add('on');return}
- const s=esc(x.src);const m={iframe:`<iframe src="${s}" allowfullscreen allow="autoplay; fullscreen"></iframe>`,video:`<video controls autoplay src="${s}"></video>`,
-  img:`<img src="${s}">`,audio:`${x.thumb?`<img src="${esc(x.thumb)}" style="max-height:200px">`:''}<audio controls autoplay src="${s}"></audio>`,link:x.thumb?`<img src="${esc(x.thumb)}" style="max-height:300px">`:''}[x.kind]||'';
- $('#mb').innerHTML=`${m}<h3>${esc(x.title)}</h3><div><span class="badge">${esc((x.module||'').toUpperCase())}</span><span class="badge">${esc(x.source)}</span> ${x.date?esc(x.dateLabel+': '+x.date):''}${x.count!=null?' · '+esc(x.count)+' '+esc(x.countLabel):''}</div>
+ const s=esc(x.src);const m={iframe:`<iframe src="${s}" allowfullscreen allow="fullscreen"></iframe>`,video:`<video controls src="${s}"></video>`,
+  img:`<img src="${s}">`,audio:`${x.thumb?`<img src="${esc(x.thumb)}" style="max-height:200px">`:''}<audio controls src="${s}"></audio>`,link:x.thumb?`<img src="${esc(x.thumb)}" style="max-height:300px">`:''}[x.kind]||'';const mm=SAFE.isMedia(x)?SAFE.gate(m,x):m;
+ $('#mb').innerHTML=`${mm}<h3>${esc(x.title)}</h3><div><span class="badge">${esc((x.module||'').toUpperCase())}</span><span class="badge">${esc(x.source)}</span> ${x.date?esc(x.dateLabel+': '+x.date):''}${x.count!=null?' · '+esc(x.count)+' '+esc(x.countLabel):''}</div>
  <div>${esc(x.extra||'')}</div>${x.mined_at?`<div class="q">logged: ${esc(x.mined_at)}</div>`:''}<div class="q">query: ${esc(x.query)}</div>
  <div class="row"><a class="go" href="${esc(x.url)}" target="_blank" rel="noopener">open at source ↗</a><button class="go" id="sv">${V()[x.url]?'★ saved':'☆ save'}</button><button class="go" id="rp">⚑ report</button><button class="go" onclick="closeM()">close</button></div>`;
  $('#rp').onclick=()=>report(x);$('#sv').onclick=()=>{$('#sv').textContent=toggle(x)?'★ saved':'☆ save';topnav();if(state.m==='vault')vault();else grid(sel,LISTS[sel])};$('#modal').classList.add('on')}
