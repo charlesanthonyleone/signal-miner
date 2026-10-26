@@ -538,5 +538,109 @@
   "query": "CDX url=angelfire.com/* mimetype=image/jpeg",
   "extra": "image/jpeg \u00b7 38439 bytes \u00b7 original: http://www.angelfire.com/07rd5manly/73884305.jpg",
   "mined_at": "2026-10-26T18:46:18Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "dune01pullheath.jpg",
+  "date": "2019-07-25",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "48 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190725081253im_/http://www.angelfire.com/mi/4X4/images/dune01pullheath.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190725081253im_/http://www.angelfire.com/mi/4X4/images/dune01pullheath.jpg",
+  "url": "https://web.archive.org/web/20190725081253/http://www.angelfire.com/mi/4X4/images/dune01pullheath.jpg",
+  "query": "CDX angelfire.com/mi/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 50155 bytes \u00b7 originally at http://www.angelfire.com/mi/4X4/images/dune01pullheath.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/mi/4X4/images/dune01pullheath.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-26T19:44:59Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "shouts.jpg",
+  "date": "2019-01-29",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "11 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190129194056im_/http://www.angelfire.com/mi/49erz/images/shouts.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190129194056im_/http://www.angelfire.com/mi/49erz/images/shouts.jpg",
+  "url": "https://web.archive.org/web/20190129194056/http://www.angelfire.com/mi/49erz/images/shouts.jpg",
+  "query": "CDX angelfire.com/mi/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 11355 bytes \u00b7 originally at http://www.angelfire.com/mi/49erz/images/shouts.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/mi/49erz/images/shouts.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-26T19:44:59Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "bandfountian2.jpg",
+  "date": "2019-08-06",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "16 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190806224527im_/http://www.angelfire.com/mi/2against1/images/bandfountian2.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190806224527im_/http://www.angelfire.com/mi/2against1/images/bandfountian2.jpg",
+  "url": "https://web.archive.org/web/20190806224527/http://www.angelfire.com/mi/2against1/images/bandfountian2.jpg",
+  "query": "CDX angelfire.com/mi/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 16593 bytes \u00b7 originally at http://www.angelfire.com/mi/2against1/images/bandfountian2.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/mi/2against1/images/bandfountian2.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-26T19:44:59Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "britneybest3.jpg",
+  "date": "2019-07-27",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "11 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190727163358im_/http://www.angelfire.com/mi/49erz/images/britneybest3.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190727163358im_/http://www.angelfire.com/mi/49erz/images/britneybest3.jpg",
+  "url": "https://web.archive.org/web/20190727163358/http://www.angelfire.com/mi/49erz/images/britneybest3.jpg",
+  "query": "CDX angelfire.com/mi/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 12128 bytes \u00b7 originally at http://www.angelfire.com/mi/49erz/images/britneybest3.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/mi/49erz/images/britneybest3.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-26T19:44:59Z"
  }
 ]
