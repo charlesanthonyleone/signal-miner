@@ -25,8 +25,10 @@ async function iaDeep(q,pages=3){
 // Pass 8: drop self-help, podcast-track, listicle and marketing uploads that carry religious subject tags
 const TNZ=/^\S{1,14}$|podcast|episode|\bep\.? ?\d|^\d+\s*[.\-]\s|\btrack \d|law of attraction|manifesting|self.?help|motivat|coaching|\b\d+ (ways|tips|reasons|secrets|miraculous)\b|consciousness|lineages|webinar|mp3|audiobook sample|\bvlog\b/i;
 // Pass 9: grayspace plain-text from dead religion archives, themed
+// Pass 10: CCAT/Wiretap path codes -> words the theme regexes know
+const DSA=s=>s+(/pseudep/i.test(s)?' pseudepigrapha apocrypha lost books of the bible':'')+(/lxx/i.test(s)?' septuagint koine greek':'')+(/mbhs/i.test(s)?' hebrew manuscript biblia hebraica':'')+(/ApostolicFathers|churchwriters/i.test(s)?' apostolic fathers early church apocryph':'')+(/Bible\/(Swahili|Swedish|German)/.test(s)?' vernacular bible':'');
 function deadShelf(t,k){return async o=>{const L=window.RELTEXT?await window.RELTEXT():[];const re=o.kw?new RegExp(o.kw.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'i'):t.re;
-  const hit=sh(L.filter(x=>re.test((x.title||'')+' '+(x.orig||'')+' '+(x.preview||'').slice(0,300))));
+  const hit=sh(L.filter(x=>re.test(DSA((x.title||'')+' '+(x.orig||'')+' '+(x.url||''))+' '+(x.preview||'').slice(0,300))));
   if(!hit.length)throw new Error('No dead-shelf text on this theme yet (the Action grows the pile each run).');
   return hit.slice(0,24).map(x=>({module:k,source:'Dead text archive (Wayback)',title:(x.title||'').replace(/\s*\/\s*/g,' / '),date:x.date,dateLabel:'captured',count:null,countLabel:'',thumb:'',kind:'link',src:'',url:x.url,preview:x.preview||'',query:'Wiretap + CCAT gopher religion shelves',extra:'grayspace · unvetted plain text · original: '+(x.orig||'')}))}}
 function theoIA(T0,module){return async o=>{
@@ -118,7 +120,7 @@ const T={
   re:/marginal|annotat|manuscript note|handwrit|commonplace/i,ol:['Marginalia','Manuscript annotations','Commonplace books'],gut:[]},
  deadlang:{name:'DEAD LANGUAGES',icon:'𓁟',blurb:'Coptic, Ge\'ez, Syriac, Avestan, Pali, Akkadian scripture.',
   ia:[['coptic','"coptic language"','"coptic manuscripts"'],['syriac','"syriac literature"','peshitta'],['ethiopic','geez','"ethiopic literature"'],['pali','"pali text"','tipitaka','"pali canon"'],['avestan','avesta','"zend avesta"'],['"old church slavonic"','"church slavic"','gothic bible','"ulfilas"']],
-  re:/coptic|syriac|peshitta|ethiopic|ge.?ez|pali|tipitaka|avest|zend|slavonic|church slavic|ulfila|akkad|sumerian|aramaic|sahidic|bohairic/i,ol:['Coptic language','Syriac literature','Ethiopic literature','Pali literature','Avesta','Church Slavic language'],gut:['Coptic','Pali','Avesta']},
+  re:/septuagint|koine|coptic|syriac|peshitta|ethiopic|ge.?ez|pali|tipitaka|avest|zend|slavonic|church slavic|ulfila|akkad|sumerian|aramaic|sahidic|bohairic/i,ol:['Coptic language','Syriac literature','Ethiopic literature','Pali literature','Avesta','Church Slavic language'],gut:['Coptic','Pali','Avesta']},
  heresies:{name:'VANISHED SECTS',icon:'⚡',blurb:'Cathars, Manichaeans, Bogomils, Gnostics & other heresies.',
   ia:[['cathars','cathar','albigenses','albigensian'],['manichaeism','manichaean','manichean','mani'],['bogomils','bogomil','paulicians','messalians'],['gnosticism','gnostic','gnostics','valentinian','marcion'],['"history of heresies"','"christian heresies"','heretics','lollards','hussites','waldenses','anabaptists']],
   re:/cathar|albigen|manich|bogomil|paulician|messalian|gnostic|valentinian|marcion|heres(y|ies)\b|heretic|montanis|\barian(ism|s)?\b|donatis|nestorian|lollard|hussite|waldens|anabapt/i,ol:['Cathari','Albigenses','Manichaeism','Bogomils','Gnosticism','Heresies, Christian'],gut:['Heresies','Gnosticism']},

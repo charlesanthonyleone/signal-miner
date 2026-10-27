@@ -149,6 +149,6 @@ gwb('wb_soho.json','rel_soho','GeoCities SoHo (Wayback)','reliquary','SOHO HOMEP
 gwb('wb_tripod.json','tr_tripod','Tripod (Wayback)','trench','TRIPOD MEMBERS','🗿','members.tripod.com personal pages (1997–2004) as Wayback captures: grayspace, unvetted.');
 gwb('wb_angelfire.json','tr_angelfire','Angelfire (Wayback)','trench','ANGELFIRE','🔥','Angelfire personal pages (1997–2004) as Wayback captures: grayspace, unvetted.');
 gwb('wb_religtext.json','th_religtext','Dead religion text archive (Wayback)','theo','DEAD TEXT SHELVES','📚','The religion shelves of two dead text archives, the Wiretap gopher library and Penn CCAT\'s gopher, as Wayback captures: plain-text scriptures, apocrypha and FAQs.');
-G.RELTEXT=()=>cache('wb_religtext.json');
+G.RELTEXT=async()=>{const p=await Promise.all(['wb_religtext.json','wb_ccatbib.json','wb_religtext2.json'].map(f=>cache(f).catch(()=>[])));return p.flat()};
 G.WORLD_MODULES=out;
 })(typeof window!=='undefined'?window:globalThis);
