@@ -34,6 +34,27 @@ In the browser, `net.js` gives every fetch a timeout, a 15-minute cache for slow
 - Open-directory discovery through Bing finds few new hosts. Growth comes mostly from curated mirrors.
 - The Vault is per-browser (localStorage). Share links encode the find in the URL.
 
+## Pass 12 (2026-10-27)
+
+- **New grayspace modules, one per page** (dead hosts as Wayback captures, pre-harvested by the Action, pre-screened with the adult blocklist):
+  - THEO · `th_styx` **Olympus, Styx & Shadowlands**: GeoCities Athens/Olympus, Athens/Styx, Delphi, Oracle and Area51/Shadowlands (81 pages).
+  - TRENCH · `tr_aol` **AOL Hometown**: members.aol.com 1997–2004 (163).
+  - INVENTO · `in_keely` **Fringe Lab Notebooks**: KeelyNet BBS files and JLN Labs replication logs (151).
+  - BLACK VAULT · `g_parascope` **ParaScope Dossiers**: the dead AOL-era conspiracy/FOIA e-zine (183).
+  - XENO · `x_ufomind` **UFO Mind & CUFON**: Area 51 Research Center and Computer UFO Network FOIA files (60).
+  - VATICAN · `v_cin` **Catholic Info Network**: cin.org and the Patron Saints Index (195).
+  - RELIQUARY · `rel_yosemite` **Lost Mines & Back Trails**: GeoCities Yosemite, plus a "Treasure leads only" tab.
+  - LIVE · `l_fresh` **FRESH PIT**: Internet Archive uploads from the last 72 hours with 0–1 downloads, and random camera-named Commons files. Media is gated because fresh uploads are unmoderated. A spam filter drops SEO/casino/crypto titles and bot-batch identifiers.
+- **Theme buckets on every card:** a global tagger (`bucketsOf`, 19 buckets such as UFO/UAP, OCCULT, SCRIPTURE, GOV FILE, TREASURE, CIPHER, UNTITLED) puts up to 3 chips on each find. A chip bar above every grid filters by bucket.
+- **Off-theme cut:** the new themed modules redraw up to 4 times and keep only finds in that page's buckets, falling back to the raw draw if fewer than 6 match.
+- **UI:** the home page gets a hero with live module and source counts and a **⛏ DIG ANYWHERE** button that jumps to a random module and source. Home hub blurbs name the new modules.
+- **Mine Action fixes:**
+  - It crashed on the last 3 scheduled runs because `vidstate.json` is a dict; it now skips non-list piles.
+  - Gists retry anonymously when the Actions token gets a 403.
+  - The harvest is capped at 50 min and the commit step always runs.
+  - The push merges and retries if `main` moved during the run.
+- Safety layer unchanged on every new module.
+
 ## Pass 11
 
 - **Piles:**
