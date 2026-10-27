@@ -25,6 +25,7 @@ const crestTitle=w=>`identifier:cia-rdp* AND title:(${w.join(' OR ')})`;
 
 /* ---- cached-harvest miner (Action pre-harvests CORS-blocked APIs) ---- */
 function cached(file,module,map,filt=()=>true,n=24){return async o=>{const re=kwRe(o);const L=(await cache(file)).filter(filt).filter(x=>!re||re.test(JSON.stringify(x)));return sh(L).slice(0,n).map(x=>({module,count:null,countLabel:'',thumb:'',kind:'link',src:'',dateLabel:'date',...map(x)}))}}
+const TNOISE=/^ship\b|ship name|official number|gross tonnage|stick force|\bmk \d|aircraft type|\.pdf\b/i;
 const tnaMap=tag=>x=>({source:x.source,title:`${x.title} — ${x.ref}`,date:x.date,dateLabel:'covering',preview:x.preview||'(catalogue entry)',url:x.url,query:x.query+' · harvested by the Action',
   extra:`theme: ${tag} · reference ${x.ref} · ${x.closed==='O'?'open record':'closed/retained — catalogue only'} · UK National Archives Discovery`});
 
@@ -47,7 +48,7 @@ const GV={
 const out={};
 for(const [k,t] of Object.entries(GV)){const m='g_'+k;out[m]={half:'redacted',name:t.name,icon:t.icon,blurb:t.blurb,sources:{
   crest:{name:'CIA CREST (random)',f:iaQ(t.crest||crestTitle(t.w),m,'CIA CREST · via Internet Archive',t.name,t.crest?null:t.re),note:'Random deep pages of the 275k-document CIA CREST release mirrored on the Internet Archive (identifier cia-rdp*), lowest-download first. OCR text on click.'},
-  tna:{name:'UK National Archives',f:cached('tna.json',m,tnaMap(t.name),x=>x.theme===t.tna&&t.re.test(x.title+' '+x.preview)),note:'Discovery catalogue (MoD, Home Office, Cabinet…) harvested every 3h by the Action (no CORS) across random result pages.'},
+  tna:{name:'UK National Archives',f:cached('tna.json',m,tnaMap(t.name),x=>x.theme===t.tna&&t.re.test(x.title+' '+x.preview)&&!TNOISE.test(x.title)),note:'Discovery catalogue (MoD, Home Office, Cabinet…) harvested every 3h by the Action (no CORS) across random result pages.'},
   foia:{name:'FOIA deep mine',f:iaQ(`mediatype:texts AND (subject:(FOIA OR "freedom of information" OR declassified OR "government documents") OR title:(declassified OR FOIA)) AND title:(${t.w.filter(w=>!/^(SRI|GRILL|LSD)$/.test(w)).join(' OR ')}) AND NOT subject:("right to information" OR RTI OR kerala)`,m,'FOIA releases · Internet Archive',t.name,t.re),note:'FOIA / declassified uploads on the Internet Archive with ≤5 downloads first.'},
   news:{name:'Period press',f:NEWS({name:t.name,news:t.w.map(w=>w.replace(/"/g,'')),key:t.news,cache:'finds/world_news.json'},m),note:'Library of Congress Chronicling America, random window and page; falls back to the Action-harvested pile.'}}}}
 
@@ -66,7 +67,7 @@ async function grayUFO(o){const [T,OD]=await Promise.all([cache('deep_text.json'
   return sh([...a,...b]).slice(0,30)}
 out.x_nuforc={half:'xeno',name:'SIGHTING LOGS',icon:'📍',blurb:'Raw civilian sighting reports (NUFORC) — random, unverified, map-linked.',sources:{nuforc:{name:'NUFORC reports',f:nuforc,note:'Public NUFORC dataset (planetsig/ufo-reports CSV), 4000 random rows re-sampled every 3h.'}}};
 out.x_uk={half:'xeno',name:'FOREIGN GOV FILES',icon:'🇬🇧',blurb:'UK MoD UFO desk files and other foreign-government UAP catalogue entries.',sources:{
-  tna:{name:'UK MoD UFO files',f:cached('tna.json','x_uk',tnaMap('UK UFO'),x=>x.theme==='uap'),note:'UK National Archives Discovery (DEFE, AIR…). Harvested by the Action.'},
+  tna:{name:'UK MoD UFO files',f:cached('tna.json','x_uk',tnaMap('UK UFO'),x=>x.theme==='uap'&&UFO.test(x.title+' '+x.preview)),note:'UK National Archives Discovery (DEFE, AIR…). Harvested by the Action.'},
   ia:{name:'Foreign releases',f:iaQ('mediatype:texts AND title:(UFO OR UFOs OR OVNI OR "unidentified flying" OR "aerial phenomena" OR UAP) AND (GEIPAN OR CEFAA OR "Ministry of Defence" OR "MoD" OR Canada OR Brazil OR Chile OR Australia OR "New Zealand" OR Denmark OR Sweden OR Uruguay OR Peru)','x_uk','Foreign UFO releases · Internet Archive','foreign gov',UFO),note:'Uploaded foreign-government UFO file sets (GEIPAN, CEFAA, NZDF, Brazil…). GEIPAN direct is Cloudflare-blocked.'}}};
 out.x_bluebook={half:'xeno',name:'BLUE BOOK / CREST',icon:'📘',blurb:'Project Blue Book, Sign, Grudge case files and CIA UFO memos.',sources:{
   bb:{name:'Blue Book scans',f:iaQ('mediatype:texts AND ("project blue book" OR "project bluebook" OR "project sign" OR "project grudge" OR title:(UFO OR UFOs OR "unidentified flying")) AND ("air force" OR USAF OR NARA OR "case file" OR "blue book")','x_bluebook','Blue Book / NARA scans · Internet Archive','Blue Book',UFO),note:'NARA Blue Book microfilm uploads + USAF UFO reports, lowest-download first. (NARA catalog API needs a key.)'},
@@ -97,7 +98,7 @@ for(const [k,t] of Object.entries(VT)){const m='v_'+k;out[m]={half:'vatican',nam
   news:{name:'Old newspapers',f:NEWS({name:t.name,news:t.news,key:t.key,cache:'finds/world_news.json'},m),note:'LoC Chronicling America random window/page; cached fallback.'}}}}
 
 /* ---- TRENCH grayspace additions (Wayback captures only) ---- */
-const FJUNK=/signup|sign-?in|sign-up|logout|login|faq|register|adfree|password|profile|\?q=|kot=|terms|privacy|help\.|\.cgi\?page|advert/i;
+const FJUNK=/signup|sign-?in|registration|rules|sign-up|logout|login|faq|register|adfree|password|profile|\?q=|kot=|terms|privacy|help\.|\.cgi\?page|advert/i;
 const wb=(module,src,label)=>x=>({source:src,title:x.title,date:x.date,dateLabel:'captured',url:x.url,preview:x.preview||'(open the capture)',query:x.query||label,extra:`${label} · grayspace · unvetted text`});
 out.tr_bbs={half:'trench',name:'BBS TEXTFILES',icon:'☎',blurb:'80s/90s BBS text files (textfiles.com mirror captures): hacking lore, ufo, conspiracy, phreaking, humor.',sources:{wb:{name:'Wayback captures',f:cached('bbs.json','tr_bbs',wb('tr_bbs','BBS textfile (Wayback)','textfiles.com capture'),()=>true,30),note:'Wayback CDX of textfiles.com directories, adult/drug dirs excluded, harvested by the Action.'}}};
 out.tr_forums={half:'trench',name:'DEAD FORUMS',icon:'🪦',blurb:'Threads from extinct forum hosts (ezboard, network54, voy, delphi…) preserved only as captures.',sources:{wb:{name:'Wayback captures',f:cached('forums.json','tr_forums',wb('tr_forums','Dead forum (Wayback)','dead-forum capture'),x=>!FJUNK.test(x.url),30),note:'Wayback CDX over dead forum hosts, harvested by the Action.'}}};

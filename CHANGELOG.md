@@ -34,6 +34,22 @@ In the browser, `net.js` gives every fetch a timeout, a 15-minute cache for slow
 - Open-directory discovery through Bing finds few new hosts. Growth comes mostly from curated mirrors.
 - The Vault is per-browser (localStorage). Share links encode the find in the URL.
 
+## Pass 6 (2026-10-26): three new worlds + grayspace
+**New top pages**, each with its own theme: THE BLACK VAULT (`#redacted`, a redaction-bar/typewriter look), XENO (`#xeno`, green radar), VATICAN (`#vatican`, crimson and gold vellum). They also appear in the nav, the home hub and the depth gauge.
+- **THE BLACK VAULT.** Seven modules: UAP, MKULTRA/mind control, psychic research/Stargate, Cold War, unexplained deaths, weather/geo experiments, redacted oddities. Each module has four sources:
+  - CIA CREST: random deep pages of IA `cia-rdp*`, lowest downloads first. Stargate uses the CIA-RDP96-00788/89/91/92 series.
+  - UK National Archives: Discovery API, harvested by the Action.
+  - FOIA deep mine.
+  - Period press: LoC, with a 20 s live limit and then the cached harvest.
+- **XENO.** Sighting logs (NUFORC dataset, 4000 random rows), foreign government files (UK MoD via TNA, plus foreign releases on IA), Blue Book/CREST, saucer clippings (LoC), saucer patents (the INVENTO alien-tech harvest), and grayspace UFO text (gopher, crawl and open-dir).
+- **VATICAN.** Secret Stacks: random shelfmarks across 16 DigiVatLib fonds, opened to a random folio through IIIF; the image sits behind the media gate. Buried Bulls: random pope, document type and year index on vatican.va, harvested. Exorcism, Apparitions, Inquisition, Index of Forbidden Books and Lost Councils each have a deep mine plus LoC.
+- **TRENCH.** BBS TEXTFILES (Wayback captures of textfiles.com; adult and drug directories excluded) and DEAD FORUMS (ezboard, network54, quicktopic and similar captures, with admin and junk pages filtered out). No archive.org items.
+- **RELIQUARY extras.** Vanished People, Ghost Towns.
+- **Action.** `scripts/worlds.py` (TNA, NUFORC, vatican.va, BBS CDX, forum CDX, LoC per theme) runs from `collect.py` with a 900 s budget. The job cap is now 60 min.
+- **Safety.** Unchanged and applied centrally to every new module: blocklist pre-screen, `SAFE.filter`, media gate, Report & hide. The harvester also drops rows that match an adult-term regex. Adult or sexual content was requested and is declined.
+- **Blocked or skipped.** These are blocked by Cloudflare or return 403 from the runner: FBI Vault, DocumentCloud, MuckRock, AARO, NSA, GEIPAN direct, usenetarchives. CIA reading room is in maintenance. The NARA API needs a key. rtfm.mit.edu (Usenet FAQs) returns 500. Paste sites were skipped because of moderation risk.
+- **Live sweep.** 52/52 sources returned results (see the report).
+
 ## Pass 5 — 2026-10-26 (wrap-up)
 - THEO zero-download pile: when the random window has nothing on-theme, it falls back to a low-download (≤20) title search built from the theme's own keywords and matched strictly on title. This fixed a bug that requested a random page up to 40 (lostciv pile 0 → 7).
 - THEO gist: scans one live page plus the Action pile (about 500 gists) and matches the theme regex strictly. When nothing matches, it says how many it scanned.
