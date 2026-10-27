@@ -88,7 +88,7 @@ function theoOL(T,module){return async o=>{
 // --- Gutenberg via Gutendex topic (subjects+bookshelves)
 function theoGut(T,module){return async o=>{
   const t=o.kw||pk(T.gut);const u=new URLSearchParams(o.kw?{search:t}:{topic:t});
-  const r=await (window.PRE?PRE('https://gutendex.com/books/?'+u,'pre_gutendex.json','results',{}):JJ('https://gutendex.com/books/?'+u));const re=o.kw?/./:T.re;
+  const r=await (window.PRE?PRE('https://gutendex.com/books/?'+u,'pre_gutendex_theo.json','results',o.kw?{kw:o.kw}:{kw:t}):JJ('https://gutendex.com/books/?'+u));const re=o.kw?/./:T.re;
   return r.results.filter(b=>re.test(b.title+' '+flat(b.subjects)+' '+flat(b.bookshelves))).map(b=>({module,source:'Project Gutenberg',title:b.title,date:'',dateLabel:'',count:b.download_count,countLabel:'downloads (30d)',
     thumb:b.formats['image/jpeg']||'',kind:'link',src:'',url:`https://www.gutenberg.org/ebooks/${b.id}`,preview:'subjects: '+flat(b.subjects).slice(0,300),
     query:'gutendex '+u,extra:b.authors.map(a=>a.name).join('; ')}))}}

@@ -5,7 +5,7 @@ W="lantern harbor orchard mill lighthouse quarry ferry canal railway telegraph a
 def get(u,p,tries=2):
     for i in range(tries):
         try:
-            r=requests.get(u,params=p,headers=UA,timeout=25)
+            r=requests.get(u,params=p,headers=UA,timeout=70)
             if r.status_code==200: return r.json()
             print("pre",u,r.status_code)
         except Exception as e: print("pre",u,e)
@@ -25,4 +25,18 @@ def run(n=5):
             j=get(f"https://api.openverse.org/v1/{kind}/",{"q":random.choice(W),"page_size":20,"page":random.randint(1,10)}); acc+=(j or {}).get("results",[])
     for b in g: b.pop("summaries",None)
     keep("pre_gutendex",g,"id"); keep("pre_openlib",o,"key"); keep("pre_openverse_images",vi,"id"); keep("pre_openverse_audio",va,"id")
-if __name__=="__main__": run()
+
+def theo_gut(per=2):
+    """Pass 10: themed Gutendex pile — every gut:[...] topic in theo.js, so Theo's Gutenberg source has on-theme fallback when gutendex is slow."""
+    import re as _re
+    src=open(os.path.join(os.path.dirname(__file__),"..","theo.js")).read()
+    topics=sorted({t for g in _re.findall(r"gut:\[([^\]]*)\]",src) for t in _re.findall(r"'([^']+)'",g)})
+    out=[]
+    for t in topics:
+        for pg in range(1,per+1):
+            j=get("https://gutendex.com/books/",{"topic":t,"page":pg},tries=1)
+            for b in (j or {}).get("results",[]): b.pop("summaries",None); b["_topic"]=t; out.append(b)
+            if not j or not j.get("next"): break
+    keep("pre_gutendex_theo",out,"id",cap=5000)
+
+if __name__=="__main__": run(); theo_gut()

@@ -161,6 +161,6 @@ print("done", {k: len(v) for k,v in data.items()})
 try:
     sys.path.insert(0,os.path.dirname(__file__)); import worlds; worlds.run(budget_s=900)
     try:
-        import preharvest; preharvest.run()
+        import preharvest; preharvest.run(); preharvest.theo_gut()
     except Exception as e: print("preharvest error:",e)
 except Exception as e: print("worlds error:",e)
