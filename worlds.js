@@ -150,6 +150,10 @@ gwb('wb_silicon.json','in_silicon','GeoCities SiliconValley (Wayback)','invento'
 gwb('wb_soho.json','rel_soho','GeoCities SoHo (Wayback)','reliquary','SOHO HOMEPAGES','🖋','Dead GeoCities "SoHo" neighbourhood (writers and artists, 1996–2009): lost poetry, zines and unpublished stories.');
 gwb('wb_tokyo.json','rel_tokyo','GeoCities Tokyo (Wayback)','reliquary','TOKYO HOMEPAGES','🗼','Dead GeoCities "Tokyo" neighbourhood (Asia and anime, 1996–2009): fan galleries, BBS pages and personal sites in Japanese, Chinese, Vietnamese and English.');
 gwb('wb_paris.json','rel_paris','GeoCities Paris (Wayback)','reliquary','PARIS HOMEPAGES','🥐','Dead GeoCities "Paris" neighbourhood (romance, French culture and poetry, 1996–2009): love letters, travel diaries and francophone homepages.');
+gwb('wb_hollywood.json','rel_hollywood','GeoCities Hollywood (Wayback)','reliquary','HOLLYWOOD HOMEPAGES','🎬','Dead GeoCities "Hollywood" neighbourhood (film, TV and fandom, 1996–2009): fan shrines, episode guides and lost fan fiction indexes.');
+gwb('wb_colosseum.json','l_colosseum','GeoCities Colosseum (Wayback)','live','COLOSSEUM HOMEPAGES','🏟','Dead GeoCities "Colosseum" neighbourhood (sports, 1996–2009): little-league rosters, fantasy leagues and hometown team pages.');
+gwb('wb_tripod97.json','tr_tripod97','Tripod 1997–99 (Wayback)','trench','TRIPOD 1997–99','🗻','Tripod member pages captured 1997–1999, the dial-up years.');
+gwb('wb_tripod00.json','tr_tripod00','Tripod 2000–01 (Wayback)','trench','TRIPOD 2000–01','🗻','Tripod member pages captured 2000–2001, the dot-com bust.');
 gwb('wb_rainforest.json','l_rainforest','GeoCities RainForest (Wayback)','live','RAINFOREST HOMEPAGES','🌿','Dead GeoCities "RainForest" neighbourhood (ecology and the outdoors, 1996–2009): amateur field notes, garden logs and conservation pages.');
 gwb('wb_tripod.json','tr_tripod','Tripod (Wayback)','trench','TRIPOD MEMBERS','🗿','members.tripod.com personal pages (1997–2004) as Wayback captures: grayspace, unvetted.');
 gwb('wb_angelfire.json','tr_angelfire','Angelfire (Wayback)','trench','ANGELFIRE','🔥','Angelfire personal pages (1997–2004) as Wayback captures: grayspace, unvetted.');
