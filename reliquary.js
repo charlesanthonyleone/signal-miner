@@ -30,8 +30,8 @@ function loc(t,module){const T0=t;const one=async(o,ph)=>{
     thumb:img,kind:'link',src:'',url:x.url||x.id,preview:sn[i]||snip(d,ph),query:`"${ph}" · ${y}–${y+12} · random page`,
     lazy:x.word_coordinates_url?async()=>{const j=await fetch(x.word_coordinates_url).then(r=>r.json());const v=Object.values(j)[0]||{};return 'OCR SNIPPET AROUND THE HIT:\n'+String(v.relevant_snippet||'(no snippet)').replace(/\[\[\/?tag\]\]/g,'**')}:null,
     extra:`lead type: ${t.name} · ${[].concat(x.location_city||[]).join(',')} ${[].concat(x.location_state||[]).join(',')} · OCR raw — verify against scan`}})};
-  const key=module.replace('rel_','');
-  const cached=async(o,why)=>{const L=await fetch('finds/rel_news.json?'+Math.floor(Date.now()/6e5)).then(r=>r.ok?r.json():[]).catch(()=>[]);
+  const key=t.key||module.replace('rel_','');
+  const cached=async(o,why)=>{const L=await fetch((t.cache||'finds/rel_news.json')+'?'+Math.floor(Date.now()/6e5)).then(r=>r.ok?r.json():[]).catch(()=>[]);
     const kw=(o.kw||'').toLowerCase();const m=L.filter(x=>x.theme===key&&(!kw||(x.title+' '+x.preview).toLowerCase().includes(kw)));
     return m.map(x=>[Math.random(),x]).sort((a,b)=>a[0]-b[0]).slice(0,24).map(([_,x])=>({module,source:x.source+' · cached',title:x.title,date:x.date,dateLabel:'printed',count:null,countLabel:'',
       thumb:x.thumb,kind:'link',src:'',url:x.url,preview:x.preview||'(open the page scan for the OCR text)',query:x.query+' — '+why,extra:`lead type: ${t.name} · ${x.place||''} · OCR raw — verify against scan`}))};
@@ -50,5 +50,5 @@ for(const [k,t] of Object.entries(R)){out['rel_'+k]={half:'reliquary',name:t.nam
   ia:{name:'Deep mine',f:H.theoIA(t,'rel_'+k),note:'Internet Archive texts with ≤5 downloads, random upload window, undescribed first.'},
   gray:{name:'Gray-space text',f:async o=>(await H.theoGray('lost')(o)).map(x=>({...x,module:'rel_'+k})),note:'Pre-mined every 3h from gopherspace / crawl / open dirs, bucket "lost" first.'}}}}
 out.rel_wrecks.sources={wd:{name:'Unwritten wrecks',f:wikiWrecks,note:'Wikidata shipwrecks that no Wikipedia in any language covers — records with coordinates/dates and no write-up.'},...out.rel_wrecks.sources};
-G.RELIQUARY_MODULES=out;
+G.RELIQUARY_MODULES=out;G.REL_LOC=loc;
 })(typeof window!=='undefined'?window:globalThis);
