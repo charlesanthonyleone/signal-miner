@@ -208,8 +208,9 @@ gwb('wb_ufoupdates.json','x_ufoupdates','UFO UpDates list (Wayback)','xeno','UFO
 gwb('wb_christusrex.json','v_christusrex','Christus Rex (Wayback)','vatican','CHRISTUS REX','🗝','Christus Rex (1996–2010), the dead volunteer site that photographed the Vatican Museums, Sistine Chapel and Roman churches room by room, plus its daily Camino bulletins. Images stay gated.');
 gwb('wb_ghosttowns.json','rel_ghostweb','Ghost-town & treasure pages (Wayback)','reliquary','GHOST-TOWN WIRE','🏚','1997–2006 captures of ghosttowns.com town pages and the old TreasureNet lore pages: abandoned camps, lost-mine rumours and who-buried-what notes nobody re-checked.');
 // Pass 13: tighter treasure-lead regex (no bare cave/hidden/maps) and a ghost-town tab on Lost Mines
-const TREAS2=/treasure|lost (mine|gold|cabin|cache|city|ledge|lode|silver)|buried|gold ?(rush|camp|mine|nugget|coins?)|prospect(or|ing)|ghost ?town|outlaw|bandit|stagecoach|treasure maps?|relic hunt|metal detect|old mine|mining (camp|claim|town)|abandoned mine|hoard|cache of/i;
-out.rel_yosemite.sources.leads.f=cached('wb_yosemite.json','rel_yosemite',wbMap('GeoCities Yosemite'),x=>TREAS2.test((x.title||'')+' '+(x.preview||'')+' '+(x.orig||'')),30);
+const TREAS2=/\btreasures?\b|lost (mine|gold|cabin|cache|city|ledge|lode|silver)|buried|gold ?(rush|camp|mine|nugget|coins?)|prospect(or|ing)|ghost ?town|outlaw|bandit|stagecoach|treasure maps?|relic hunt|metal detect|old mine|mining (camp|claim|town)|abandoned mine|hoard|cache of/i;
+{const ly=cached('wb_yosemite.json','rel_yosemite',wbMap('GeoCities Yosemite'),x=>TREAS2.test((x.title||'')+' '+(x.preview||'')),30),lg=cached('wb_ghosttowns.json','rel_yosemite',wbMap('Ghost-town pages'),x=>TREAS2.test((x.title||'')+' '+(x.preview||'')),30);
+ out.rel_yosemite.sources.leads={...out.rel_yosemite.sources.leads,f:async o=>sh((await Promise.all([ly(o),lg(o)])).flat()).slice(0,30),note:'Yosemite homepages plus the ghost-town wire, only pages whose title or text mention treasure, lost mines, ghost towns, outlaws, hoards or treasure maps.'}}
 out.rel_yosemite.sources.ghost={name:'Ghost-town wire',f:cached('wb_ghosttowns.json','rel_yosemite',wbMap('Ghost-town pages'),()=>true,30),note:'Shared pile with GHOST-TOWN WIRE: dead ghost-town and treasure-lore pages.'};
 // LIVE: radio streams nobody has ever clicked (radio-browser.info community directory, clickcount 0)
 const RADULT=/\b(sex|xxx|adult|erotic|porn|nsfw|18\+|hot ?girls?|nude|strip)\b/i;
@@ -224,6 +225,8 @@ out.l_deadair={half:'live',name:'DEAD AIR',icon:'📻',blurb:'Live internet radi
 const themed2=(m,want)=>{const f0=m.sources.wb.f;m.sources.wb.f=async o=>{const first=await f0(o);if(o.kw||typeof G.bucketsOf!=='function')return first;const seen=new Set(),keep=[];
   for(let i=0;i<5&&keep.length<30;i++){const r=i?await f0(o):first;for(const x of r){const k2=(x.title||"").toLowerCase();if(seen.has(x.url)||seen.has(k2))continue;seen.add(x.url);seen.add(k2);if(G.bucketsOf(x).some(b=>want.test(b)))keep.push(x)}}
   return keep.length>=3?keep.slice(0,30):first}};
+{const fa=out.th_acropolis.sources.wb.f,fb=out.th_athens.sources.wb.f;out.th_acropolis.sources.wb.f=async o=>sh((await Promise.all([fa(o),fb(o).catch(()=>[])])).flat())}
+themed2(out.th_athens,/AFTERLIFE|MYSTERY|SCRIPTURE|OCCULT|SUPPRESSED|ANCIENT|FOLKLORE|VATICAN/);
 themed2(out.th_acropolis,/AFTERLIFE|MYSTERY|SCRIPTURE|OCCULT|SUPPRESSED|ANCIENT|FOLKLORE|VATICAN/);themed2(out.in_padrak,/INVENTION|FRINGE|MILITARY/);
 themed2(out.g_memoryhole,/GOV|MILITARY|UFO|CIPHER|SUPPRESSED/);themed2(out.x_ufoupdates,/UFO|FRINGE|GOV|MILITARY/);themed2(out.v_christusrex,/VATICAN|SCRIPTURE|SUPPRESSED|AFTERLIFE|CONFESSION|MYSTERY|ANCIENT/);
 themed2(out.rel_ghostweb,/TREASURE|FOLKLORE|SHIPWRECK|CIPHER|ANCIENT|TIME CAPSULE|CONFESSION|MILITARY/);
