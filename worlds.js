@@ -154,6 +154,7 @@ gwb('wb_hollywood.json','rel_hollywood','GeoCities Hollywood (Wayback)','reliqua
 gwb('wb_colosseum.json','l_colosseum','GeoCities Colosseum (Wayback)','live','COLOSSEUM HOMEPAGES','🏟','Dead GeoCities "Colosseum" neighbourhood (sports, 1996–2009): little-league rosters, fantasy leagues and hometown team pages.');
 gwb('wb_tripod97.json','tr_tripod97','Tripod 1997–99 (Wayback)','trench','TRIPOD 1997–99','🗻','Tripod member pages captured 1997–1999, the dial-up years.');
 gwb('wb_tripod00.json','tr_tripod00','Tripod 2000–01 (Wayback)','trench','TRIPOD 2000–01','🗻','Tripod member pages captured 2000–2001, the dot-com bust.');
+gwb('wb_tripod03.json','tr_tripod03','Tripod 2002–04 (Wayback)','trench','TRIPOD 2002–04','🗻','Tripod member pages captured 2002–2004, the last years before blogs.');
 gwb('wb_rainforest.json','l_rainforest','GeoCities RainForest (Wayback)','live','RAINFOREST HOMEPAGES','🌿','Dead GeoCities "RainForest" neighbourhood (ecology and the outdoors, 1996–2009): amateur field notes, garden logs and conservation pages.');
 gwb('wb_tripod.json','tr_tripod','Tripod (Wayback)','trench','TRIPOD MEMBERS','🗿','members.tripod.com personal pages (1997–2004) as Wayback captures: grayspace, unvetted.');
 gwb('wb_angelfire.json','tr_angelfire','Angelfire (Wayback)','trench','ANGELFIRE','🔥','Angelfire personal pages (1997–2004) as Wayback captures: grayspace, unvetted.');
