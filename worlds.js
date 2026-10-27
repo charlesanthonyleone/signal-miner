@@ -159,6 +159,45 @@ gwb('wb_rainforest.json','l_rainforest','GeoCities RainForest (Wayback)','live',
 gwb('wb_tripod.json','tr_tripod','Tripod (Wayback)','trench','TRIPOD MEMBERS','🗿','members.tripod.com personal pages (1997–2004) as Wayback captures: grayspace, unvetted.');
 gwb('wb_angelfire.json','tr_angelfire','Angelfire (Wayback)','trench','ANGELFIRE','🔥','Angelfire personal pages (1997–2004) as Wayback captures: grayspace, unvetted.');
 gwb('wb_religtext.json','th_religtext','Dead religion text archive (Wayback)','theo','DEAD TEXT SHELVES','📚','The religion shelves of two dead text archives, the Wiretap gopher library and Penn CCAT\'s gopher, as Wayback captures: plain-text scriptures, apocrypha and FAQs.');
-G.RELTEXT=async()=>{const p=await Promise.all(['wb_religtext.json','wb_ccatbib.json','wb_religtext2.json'].map(f=>cache(f).catch(()=>[])));return p.flat()};
+
+/* ---- Pass 12: one new dead-host module per page + LIVE fresh-upload pit ---- */
+gwb('wb_religtext3.json','th_styx','GeoCities Olympus/Styx/Shadowlands (Wayback)','theo','OLYMPUS, STYX & SHADOWLANDS','🜏','Dead GeoCities religion suburbs: Athens/Olympus (myth), Athens/Styx (death and the underworld), Delphi, Oracle and Area51/Shadowlands (occult), 1996–2009. Hand-typed pagan, afterlife and mystery-cult pages nobody indexed.');
+gwb('wb_aol.json','tr_aol','AOL Hometown (Wayback)','trench','AOL HOMETOWN','💿','members.aol.com personal pages 1997–2004 as Wayback captures: dial-up diaries, family pages and hobby shrines. Grayspace, unvetted.');
+gwb('wb_keely.json','in_keely','KeelyNet / JLN Labs (Wayback)','invento','FRINGE LAB NOTEBOOKS','🧲','Dead fringe-science bench notes: KeelyNet BBS text files (1996–2006) and Jean-Louis Naudin\'s JLN Labs replication logs (2000–2010). Unvetted claims; read as history.');
+gwb('wb_parascope.json','g_parascope','ParaScope (Wayback)','redacted','PARASCOPE DOSSIERS','📁','ParaScope (1996–2002), a dead AOL-era conspiracy and FOIA e-zine: its document centre, case files and declassified excerpts as Wayback captures.');
+gwb('wb_ufomind.json','x_ufomind','UFO Mind / CUFON (Wayback)','xeno','UFO MIND & CUFON','👽','Glenn Campbell\'s UFO Mind / Area 51 Research Center (1996–2004) and the Computer UFO Network FOIA files (1997–2008), as Wayback captures.');
+gwb('wb_cin.json','v_cin','Catholic Information Network (Wayback)','vatican','CATHOLIC INFO NETWORK','📜','The dead Catholic Information Network (cin.org, 1996–2006) and the Patron Saints Index (catholic-forum.com, 1999–2010): hand-keyed encyclicals, rites and obscure saints as Wayback captures.');
+gwb('wb_yosemite.json','rel_yosemite','GeoCities Yosemite (Wayback)','reliquary','LOST MINES & BACK TRAILS','⛏','Dead GeoCities "Yosemite" neighbourhood (the outdoors, 1996–2009): prospectors, ghost-town hikers and lost-mine legends.');
+const TREAS=/treasure|lost (mine|gold|cabin|cache|city|ledge|lode)|buried|gold ?(rush|camp|mine|nugget)|prospect|ghost ?town|outlaw|legend|cave|hidden|bandit|stagecoach|\bmaps?\b|relic|metal detect|old mine|mining camp/i;
+out.rel_yosemite.sources.leads={name:'Treasure leads only',f:cached('wb_yosemite.json','rel_yosemite',wbMap('GeoCities Yosemite'),x=>TREAS.test((x.title||'')+' '+(x.preview||'')+' '+(x.orig||'')),30),note:'Same pile, only pages whose title, text or path mention treasure, lost mines, ghost towns, outlaws or maps.'};
+// LIVE: things uploaded in the last 72 hours that nobody has opened yet (gated: fresh uploads are unmoderated)
+const JUNK=/^(untitled|new (recording|document|video|project)|img[_ -]?\d|dsc[_ -]?\d|vid[_ -]?\d|mvi[_ -]?\d|pxl[_ -]?\d|scan|document|test|video|audio|recording|file|doc)\b|^[\w-]{1,14}$|^\d[\d _-]+$/i;
+const FSPAM=/\b(seo|casino|betting|slots?|review|services?|agency|buy|cheap|best|top \d+|loan|crypto|bitcoin|forex|keto|cbd|essay|apk|mod|hack|cheats?|followers|coupon|promo|discount|price|for sale|rent(al)?|repair|cleaning|plumb\w*|dentist|lawyer|attorney|marketing|guide to|how to|tips|online|free download|pdf download|ebook download|torrent|crack|keygen|serial|login|official site|near me|company|solutions?|benefits|features)\b/i;
+out.l_fresh={half:'live',name:'FRESH PIT',icon:'🕳',blurb:'Uploaded in the last 72 hours and opened by nobody yet: untitled, junk-named, zero-download items, straight off the conveyor belt. Media stays gated.',sources:{
+  ia:{name:'Internet Archive · 0 downloads',f:async o=>{const d=new Date(),a=new Date(d-3*864e5).toISOString().slice(0,10),b=d.toISOString().slice(0,10);
+    const mt=o.kw?'(texts OR audio OR movies OR image)':pk(['texts','audio','movies','image','texts']);
+    const q=`mediatype:${mt} AND addeddate:[${a} TO ${b}] AND downloads:[0 TO 1]`+(o.kw?` AND (${o.kw})`:'');
+    const u=new URLSearchParams({q,rows:300,page:1,output:'json'});['identifier','title','addeddate','downloads','mediatype','uploader'].forEach(f=>u.append('fl[]',f));
+    const docs=(await (await fetch('https://archive.org/advancedsearch.php?'+u)).json()).response.docs.filter(x=>!/stream_only|librivox|podcast_|tv-?news|^in\.gov\.|^micro_IA|^gov\.|^pub_|^sim_|^bub_/i.test(x.identifier)&&!FSPAM.test(String(x.title||'')+' '+x.identifier));
+    const L=o.raw?docs.filter(x=>JUNK.test(String(x.title||x.identifier).trim())||String(x.title||'')===x.identifier):docs;
+    return sh(L.length>=6?L:docs).slice(0,30).map(x=>({module:'l_fresh',source:'Internet Archive (fresh)',title:String(x.title||x.identifier),date:String(x.addeddate||'').slice(0,16).replace('T',' '),dateLabel:'added',count:x.downloads||0,countLabel:'downloads',
+      thumb:`https://archive.org/services/img/${x.identifier}`,gated:true,kind:'iframe',src:`https://archive.org/embed/${x.identifier}`,url:`https://archive.org/details/${x.identifier}`,preview:'(fresh upload, no description read; media gated)',query:q+(o.raw?' · junk-named titles first':''),extra:`${x.mediatype} · uploader ${String(x.uploader||'?').replace(/@.*/,'@…')}`}))},
+    note:'IA advancedsearch, addeddate in the last 72 h and 0–1 downloads. "raw" keeps untitled / camera-named / identifier-only items. Thumbnails and players stay behind the media gate because fresh uploads are not yet moderated.'},
+  commons:{name:'Wikimedia Commons · random camera-named',f:async o=>{const re=kwRe(o),CAM=/^File:(IMG|DSC|PXL|VID|MVI|CIMG|DCIM|SAM_|GOPR|WP_|P\d{6,}|\d{8}|Untitled|Photo ?\d|Image ?\d|Scan|Snapshot)/i;let T=[];
+    for(let i=0;i<4&&T.length<30;i++){const r=await (await fetch('https://commons.wikimedia.org/w/api.php?'+new URLSearchParams({action:'query',format:'json',origin:'*',list:'random',rnnamespace:6,rnlimit:500}))).json();
+      T=T.concat((r.query?.random||[]).map(x=>x.title).filter(t=>re?re.test(t):CAM.test(t)))}
+    T=sh([...new Set(T)]).slice(0,30);if(!T.length)return [];
+    const r=await (await fetch('https://commons.wikimedia.org/w/api.php?'+new URLSearchParams({action:'query',format:'json',origin:'*',prop:'imageinfo',iiprop:'url|timestamp|user|mime|size',titles:T.join('|')}))).json();
+    return Object.values(r.query?.pages||{}).filter(p=>p.imageinfo).map(p=>{const x=p.imageinfo[0];return {module:'l_fresh',source:'Wikimedia Commons (random)',title:p.title.replace(/^File:/,'').replace(/_/g,' '),date:x.timestamp.slice(0,10),dateLabel:'uploaded',count:x.size?Math.round(x.size/1024):null,countLabel:'KB',thumb:'',gated:true,
+      kind:/video/.test(x.mime)?'video':/audio/.test(x.mime)?'audio':'img',mime:x.mime,src:x.url,url:x.descriptionurl,preview:'(camera-default filename pulled from a random sweep of Commons, never curated into a gallery)',query:'commons list=random ns=6 ×4, camera/untitled names',extra:`uploader: ${x.user||'?'}`}})},
+    note:'Up to 2,000 random Commons files per dig, keeping only camera-default or untitled filenames (IMG_, DSC, PXL_, VID_, GOPR…). Media gated, blurred until clicked.'}}};
+// Pass 12 off-theme cut: themed pages keep only finds whose title/text hits that page's buckets (app.js bucketsOf); falls back to the raw draw if <6 hit.
+const themed=(m,want)=>{const f0=m.sources.wb.f;m.sources.wb.f=async o=>{const first=await f0(o);if(o.kw||typeof G.bucketsOf!=='function')return first;const seen=new Set(),keep=[];
+  for(let i=0;i<4&&keep.length<30;i++){const r=i?await f0(o):first;for(const x of r){const k2=(x.title||"").toLowerCase();if(seen.has(x.url)||seen.has(k2))continue;seen.add(x.url);seen.add(k2);if(G.bucketsOf(x).some(b=>want.test(b)))keep.push(x)}}
+  return keep.length>=6?keep.slice(0,30):first}};
+themed(out.th_styx,/AFTERLIFE|MYSTERY|SCRIPTURE|OCCULT|SUPPRESSED|ANCIENT|FOLKLORE|VATICAN/);themed(out.in_keely,/INVENTION|FRINGE|MILITARY/);
+themed(out.g_parascope,/GOV|UFO|FRINGE|MILITARY|CIPHER/);themed(out.x_ufomind,/UFO|FRINGE|GOV|MILITARY/);themed(out.v_cin,/VATICAN|SCRIPTURE|SUPPRESSED|AFTERLIFE|CONFESSION|MYSTERY/);
+themed(out.rel_yosemite,/TREASURE|FOLKLORE|SHIPWRECK|CIPHER|ANCIENT|TIME CAPSULE|CONFESSION/);
+G.RELTEXT=async()=>{const p=await Promise.all(['wb_religtext.json','wb_ccatbib.json','wb_religtext2.json','wb_religtext3.json'].map(f=>cache(f).catch(()=>[])));return p.flat()};
 G.WORLD_MODULES=out;
 })(typeof window!=='undefined'?window:globalThis);

@@ -291,6 +291,8 @@ function subnav(){const h=state.half;if(!h||state.m==='vault'||state.m==='report
   $('#subnav').innerHTML=halfMods(h).map(([k,m])=>`<button class="${state.m===k?'on':''}" onclick="location.hash='${h}/${k}'">${m.icon} ${m.name}</button>`).join('')}
 
 function home(){$('main').innerHTML=`<div class="depth-gauge"><span>LIVE</span><i></i><span>TRENCH</span><i></i><span>THEO</span><i></i><span>INVENTO</span><i></i><span>RELIQUARY</span><i></i><span>BLACK VAULT</span><i></i><span>XENO</span><i></i><span>VATICAN</span></div>
+ <div class="hero"><h1>SIGNAL MINER</h1><p>${Object.keys(MODULES).length} modules · ${Object.values(MODULES).reduce((n,m)=>n+Object.keys(m.sources).length,0)} sources · 8 strata of the forgotten web. Every find is pre-screened; media stays behind a click-through.</p>
+ <button class="go big" onclick="digAnywhere()">⛏ DIG ANYWHERE</button></div>
  <div class="hub">
   <a class="hubcard" href="#redacted" style="border-color:#c22"><div class="ico">⬛</div><h3>THE BLACK VAULT</h3><p>Released government files — CIA CREST, UK MoD, FOIA dumps. UAP, MKULTRA, Stargate, Cold War, unexplained deaths, weather experiments.</p></a>
   <a class="hubcard" href="#xeno" style="border-color:#3f9"><div class="ico">🛸</div><h3>XENO</h3><p>Raw sighting logs, Blue Book scans, foreign UFO desks, 1896 airship clippings, saucer patents, 90s ufology text.</p></a>
@@ -302,6 +304,7 @@ function home(){$('main').innerHTML=`<div class="depth-gauge"><span>LIVE</span><
   <a class="hubcard" href="#reliquary" style="border-color:#c9a36b"><div class="ico">🗝</div><h3>THE RELIQUARY</h3><p>Leads no one has followed — buried maps, deathbed confessions, unsolved ciphers, shipwreck manifests, forgotten time capsules.</p></a>
  </div>`}
 
+function digAnywhere(){const ks=Object.keys(MODULES).filter(k=>MODULES[k].half&&Object.keys(MODULES[k].sources).length),k=ks[Math.floor(Math.random()*ks.length)],ss=Object.keys(MODULES[k].sources);location.hash=`${MODULES[k].half}/${k}/${ss[Math.floor(Math.random()*ss.length)]}`}
 const HUBMETA={live:{title:'LIVE · module hub',a:'SURFACE',b:'BROADCAST',sub:'Pick a module, then generate finds inside it.'},
  trench:{title:'TRENCH · Mariana modules',a:'0 m',b:'10 994 m',sub:'Hardline random / unfiltered enumeration from public indexes. Safety filter (NSFW/blocklist) only. No scanning, no credentials, no Tor.'},
  theo:{title:'THEO · forgotten theology & cultures',a:'CANON',b:'CULTURES',sub:'Manuscripts, apocrypha, Geniza, grimoires, dead languages, clay tablets — plus Forgotten Cultures (lost civs, dead gods, mystery cults, suppressed faiths). Public archives only.'},
@@ -330,24 +333,53 @@ function render(){document.body.className=(state.half||state.m||'home');topnav()
  <select id="raw"><option value="1">${trench?'smaller / rarer first':'raw / low-count only'}</option><option value="">any</option></select>
  <button class="go" onclick="dig()">⛏ MINE</button>
  <button class="go" onclick="location.hash='${state.half}'">← hub</button></div>
- <div class="scan" id="scan"></div><div class="status" id="st"></div><div class="grid" id="grid"></div></section>`;
+ <div class="scan" id="scan"></div><div class="status" id="st"></div><div class="bkbar" id="grid-bk"></div><div class="grid" id="grid"></div></section>`;
  $('#raw').value=localStorage.raw??'1';$('#kw').onkeydown=e=>e.key==='Enter'&&dig();dig()}
 
 async function dig(){const o={kw:$('#kw').value.trim(),y1:+$('#y1').value||1900,y2:+$('#y2').value||2026,raw:!!$('#raw').value};localStorage.y1=o.y1;localStorage.y2=o.y2;localStorage.raw=o.raw?'1':'';
- const S=MODULES[state.m].sources[state.s],tag=state.m+state.s;$('#scan').classList.add('on');$('#st').textContent=`scanning ${S.name}…`;$('#grid').innerHTML='';
+ BFILTER='';const S=MODULES[state.m].sources[state.s],tag=state.m+state.s;$('#scan').classList.add('on');$('#st').textContent=`scanning ${S.name}…`;$('#grid').innerHTML='';
  const st0=NET.stale||0,gf0=NET.gistFallback;NET.gistFallback=false;let {res,err,note}=await mineWithRetry(S,o,m=>{$('#st').textContent=m});
  if((NET.stale||0)>st0)note=(note||'')+'⚠ live source slow/down — showing last cached response · ';if(NET.gistFallback)note=(note||'')+'⚠ GitHub rate-limited — showing Action-harvested gists · ';
  if(tag!==state.m+state.s)return;$('#scan').classList.remove('on');items=res;
  $('#st').textContent=res.length?`${note}${res.length} finds · ${new Date().toLocaleTimeString()} · query: ${res[0].query}`:(err?'source error: '+err:'0 finds');grid('#grid',res);if(!res.length)$('#grid').innerHTML=`<div class="empty"><b>Nothing surfaced from ${esc(S.name)}${o.kw?` for “${esc(o.kw)}”`:''}.</b><br>${err?'The source failed to answer ('+esc(String(err))+') — it may be rate-limiting or down. ':''}${o.kw?'Try a broader or different keyword, or clear it for a random dig. ':'Random digs vary — press ⛏ MINE again. '}${/finds\//.test(S.f.toString())||S.note&&/3h|pre-?(mined|harvest)/i.test(S.note)?'This source is pre-harvested by the scheduled miner every 3 hours, so a fresh pool may still be filling. ':''}Other tabs: ${Object.entries(MODULES[state.m].sources).filter(([k])=>k!==state.s).map(([k,x])=>`<a href="#${state.half}/${state.m}/${k}">${esc(x.name)}</a>`).join(' · ')||'—'}</div>`}
 
+// Pass 12: global theme-bucket tagger — every find on every page gets bucket chips; a bar above the grid filters by bucket.
+const BUCKETS=[['UFO/UAP',/\b(ufo|uap|saucer|flying disc|alien|extraterrestr|abduct|roswell|blue book|close encounter|unidentified|sighting|crop circle|cufos?|mufon)/i],
+ ['OCCULT',/\b(occult|grimoire|magic[ka]?|witch|sorcer|alchem|kabbal|qabal|hermetic|tarot|spell|demon|necromanc|runes?\b|thelema|golden dawn|esoteric)/i],
+ ['SCRIPTURE',/\b(gospel|apocrypha|bible|scripture|psalm|torah|talmud|qur.?an|koran|sutra|veda|upanishad|codex|manuscript|epistle|testament|genizah?|midrash|hymn)/i],
+ ['AFTERLIFE',/\b(burial|funer|tomb|graves?\b|afterlife|underworld|hades|styx|mortuary|necropol|cemetery|mummif|ancestor|soul|resurrect|purgator)/i],
+ ['MYSTERY CULT',/\b(mysteries|mystery cult|eleusi|mithra|orphi|cult of|dionys|isis\b|cybele|oracle|delphi|sibyl|pagan|druid|shaman)/i],
+ ['SUPPRESSED',/\b(heres|inquisition|persecut|suppress|banned|forbidden|index librorum|condemn|martyr|cathar|gnostic|bogomil|excommunic|colonial|missionar)/i],
+ ['VATICAN',/\b(vatican|pope|papal|bulls?\b|cardinal|curia|catholic|saint|exorc|apparition|marian|monaster|abbey|benedict|jesuit|franciscan)/i],
+ ['GOV FILE',/\b((cia|fbi|nsa)\b|foia|declassif|classified|secrets?\b|memorandum|report no|dossier|mkultra|stargate|cold war|pentagon|ministry of defen[cs]e|national archives|redact)/i],
+ ['INVENTION',/\b(patent|invent|apparatus|device|engine|motor|generator|free energy|perpetual|tesla|coil|electric|magnet|antigravity|over-?unity|prototype|schematic)/i],
+ ['TREASURE',/\b(treasure|hoard|buried|cache|lost mine|gold|silver|doubloon|bullion|loot|map to|x marks|lost dutchman|pirate|coins?)\b/i],
+ ['CIPHER',/\b(cipher|cypher|cryptogram|code book|codex|encrypted|beale|zodiac|voynich|riddle|puzzle|steganograph)/i],
+ ['SHIPWRECK',/\b(shipwreck|wreck|manifest|sank|sunk|schooner|galleon|steamer|vessel|lighthouse|salvage|maritime|lost at sea)/i],
+ ['TIME CAPSULE',/\b(time capsule|cornerstone|sealed|to be opened|letter to the future)/i],
+ ['CONFESSION',/\b(confess|deathbed|last words|dying declaration|final statement|testimony)/i],
+ ['FRINGE SCIENCE',/\b(fringe|paranormal|psychic|esp\b|telepath|remote viewing|cryptozoo|bigfoot|sasquatch|ley line|pyramid power|orgone|radionics|scalar|conspiracy|fortean|unexplained)/i],
+ ['FOLKLORE',/\b(folk|legend|myth|fairy|ghost|haunt|superstition|charms?\b|ballad|oral tradition|tales?\b|lore)\b/i],
+ ['ANCIENT',/\b(ancient|sumer|babylon|assyri|egypt|hittite|maya|aztec|inca|olmec|etrus|minoan|phoenic|cuneiform|hieroglyph|papyrus|tablet|lost civili)/i],
+ ['MILITARY',/\b(army|navy|air force|military|regiment|wartime|world war|ww[12i]+|nuclear|atomic|missile|radar|bomb|soviet)\b/i],
+ ['UNTITLED',/^(img|dsc|pxl|vid|mvi|scan|untitled|new folder|document|file|image)[ _-]?\d*|^\d{6,}|^[a-z0-9_-]{1,12}$/i]];
+function bucketsOf(x){if(x._b)return x._b;const t=[x.title,x.preview].filter(Boolean).join(' ').slice(0,1200);
+ const b=BUCKETS.filter(([n,re])=>n==='UNTITLED'?re.test(String(x.title||'').trim()):re.test(t)).map(([n])=>n);
+ if(x.bucket&&!b.includes(String(x.bucket).toUpperCase()))b.unshift(String(x.bucket).toUpperCase());
+ return x._b=b.length?b.slice(0,3):['UNSORTED']}
+let BFILTER='';
+function bucketBar(sel,list){const c={};list.forEach(x=>bucketsOf(x).forEach(b=>c[b]=(c[b]||0)+1));const ks=Object.entries(c).sort((a,b)=>b[1]-a[1]);
+ const el=document.querySelector(sel+'-bk');if(!el)return;el.innerHTML=ks.length>1?`<button class="bk ${BFILTER?'':'on'}" onclick="BFILTER='';regrid('${sel}')">ALL ${list.length}</button>`+ks.map(([b,n])=>`<button class="bk ${BFILTER===b?'on':''}" onclick="BFILTER='${b}';regrid('${sel}')">${b} ${n}</button>`).join(''):''}
+const RAW={};function regrid(sel){grid(sel,RAW[sel]||[])}
 function grid(sel,list){
- list=SAFE.filter(list);$(sel).innerHTML=list.map((x,i)=>`<div class="card ${x.kind==='meta'?'meta':''}" style="animation-delay:${i*40}ms" onclick="openF('${sel}',${i})">
+ list=SAFE.filter(list);RAW[sel]=list;bucketBar(sel,list);if(BFILTER&&list.some(x=>bucketsOf(x).includes(BFILTER)))list=list.filter(x=>bucketsOf(x).includes(BFILTER));else BFILTER='';$(sel).innerHTML=list.map((x,i)=>`<div class="card ${x.kind==='meta'?'meta':''}" style="animation-delay:${i*40}ms" onclick="openF('${sel}',${i})">
  <button class="star rep" title="report" onclick="event.stopPropagation();report(LISTS['${sel}'][${i}])">⚑</button>
  <button class="star" onclick="event.stopPropagation();this.textContent=toggle(LISTS['${sel}'][${i}])?'★':'☆';topnav()">${V()[x.url]?'★':'☆'}</button>
  ${x.kind==='meta'?`<div class="thumb meta-thumb"><div class="depth">${esc(x.depth||'—')}</div><div class="fname">${esc(x.title)}</div><div class="ftype">${esc(x.mime||'file')}${x.count!=null?' · '+esc(x.count)+' '+(x.countLabel||''):''}</div></div>`
   :`<div class="thumb" style="${x.thumb&&SAFE.thumbOK(x.thumb,x)?`background-image:url('${esc(x.thumb)}')`:''}">${x.thumb&&SAFE.thumbOK(x.thumb,x)?'':(x.gated?'⚠':(x.kind==='cam'?'📷':MODULES[x.module]?.icon||'?'))}</div>`}
  <div class="meta"><div><span class="badge">${esc(x.source)}</span>${x.depth?`<span class="badge">${esc(x.depth)}</span>`:''}</div>
  <div class="t">${esc(x.title)}</div>
+ <div class="bks">${bucketsOf(x).map(b=>`<span class="bkc">${esc(b)}</span>`).join("")}</div>
  <div>${x.date?esc(x.dateLabel+' '+x.date):'date n/a'}${x.count!=null&&x.kind!=='meta'?' · '+esc(x.count)+' '+esc(x.countLabel):''}</div>
  ${x.preview?`<div class="prev">${esc(x.preview.slice(0,140))}</div>`:''}</div></div>`).join('');LISTS[sel]=list}
 const LISTS={};
