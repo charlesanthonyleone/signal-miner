@@ -126,3 +126,15 @@ body.xeno main{position:relative;z-index:1}
 body.vatican .hub a{border:1px solid #b08a2e;background:linear-gradient(160deg,#2a0a0d,#140405);box-shadow:inset 0 0 0 3px #140405,inset 0 0 0 4px #6b4e12}
 body.vatican h2::before{content:"✠ "}body.vatican h2::after{content:" ✠"}
 @media (prefers-reduced-motion:reduce){.card{animation:none}body.xeno::after{animation:none}}
+/* Pass 9 UI: LIVE / THEO / INVENTO / RELIQUARY atmospherics */
+body.live h2::before{content:"";display:inline-block;width:9px;height:9px;border-radius:50%;background:#f33;margin-right:9px;vertical-align:middle;box-shadow:0 0 0 0 rgba(255,51,51,.7);animation:onair 1.6s infinite}
+@keyframes onair{70%{box-shadow:0 0 0 10px rgba(255,51,51,0)}100%{box-shadow:0 0 0 0 rgba(255,51,51,0)}}
+body.live .hub a{background-image:repeating-linear-gradient(0deg,rgba(255,255,255,.025) 0 1px,transparent 1px 3px)}
+body.theo .hub a,body.theo .card{background-image:radial-gradient(circle at 100% 0,rgba(255,200,90,.09),transparent 55%)}
+body.theo h2{font-family:Georgia,serif;letter-spacing:.14em;text-shadow:0 0 18px rgba(255,200,90,.35)}
+body.invento .hub a,body.invento .card{background-image:linear-gradient(rgba(90,170,255,.07) 1px,transparent 1px),linear-gradient(90deg,rgba(90,170,255,.07) 1px,transparent 1px);background-size:18px 18px}
+body.invento h2{font-family:"Courier New",monospace;color:#9cf;border-bottom:1px dashed #9cf;display:inline-block}
+body.reliquary .hub a,body.reliquary .card{filter:sepia(.25);box-shadow:inset 0 0 40px rgba(0,0,0,.35)}
+body.reliquary h2{font-family:Georgia,serif;font-style:italic;letter-spacing:.06em}
+body.reliquary .hub a:hover{filter:none}
+@media (prefers-reduced-motion:reduce){body.live h2::before{animation:none}}
