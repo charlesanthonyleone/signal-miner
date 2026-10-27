@@ -205,6 +205,7 @@ const MODULES={
  ...INVENTO_MODULES,
  ...RELIQUARY_MODULES,
  ...DEEPMEDIA_MODULES,
+ ...(window.WORLD_MODULES||{}),
 };
 
 
@@ -225,7 +226,7 @@ function toggle(it){const v=V();v[it.url]?delete v[it.url]:v[it.url]={...it,save
 
 const $=s=>document.querySelector(s);let state={half:'',m:'home',s:''},items=[];
 function route(){const parts=(location.hash.slice(1)||'').split('/');
-  if(['live','trench','theo','invento','reliquary'].includes(parts[0])){state.half=parts[0];state.m=parts[1]||'hub';state.s=parts[2]||''}
+  if(['live','trench','theo','invento','reliquary','redacted','xeno','vatican'].includes(parts[0])){state.half=parts[0];state.m=parts[1]||'hub';state.s=parts[2]||''}
   else if(parts[0]==='find'&&parts[1]){state.half='';state.m='home';state.s='';render();return SAFE_READY.then(()=>openShared(parts.slice(1).join('/')))}
   else if(parts[0]==='vault'||parts[0]==='report'){state.half=state.half||'';state.m=parts[0];state.s=''}
   else if(MODULES[parts[0]]){state.half=MODULES[parts[0]].half;state.m=parts[0];state.s=parts[1]||''}
@@ -271,6 +272,9 @@ function topnav(){$('#topnav').innerHTML=`
  <button title="THEO — apocrypha, heresies and obscure religious texts" class="halfbtn theo ${state.half==='theo'?'on':''}" onclick="location.hash='theo'">THEO</button>
  <button title="INVENTO — forgotten, odd and expired patents" class="halfbtn invento ${state.half==='invento'?'on':''}" onclick="location.hash='invento'">INVENTO</button>
  <button title="RELIQUARY — lead hunter: buried maps, deathbed confessions, unsolved ciphers, shipwreck manifests" class="halfbtn reliquary ${state.half==='reliquary'?'on':''}" onclick="location.hash='reliquary'">RELIQUARY</button>
+ <button title="THE BLACK VAULT — released government files: CREST, UK MoD, FOIA, MKULTRA, Stargate" class="halfbtn redacted ${state.half==='redacted'?'on':''}" onclick="location.hash='redacted'">BLACK VAULT</button>
+ <button title="XENO — UFO/UAP public datasets, Blue Book, foreign files, saucer clippings" class="halfbtn xeno ${state.half==='xeno'?'on':''}" onclick="location.hash='xeno'">XENO</button>
+ <button title="VATICAN — random codices from the Vatican Library, papal archive, inquisition, exorcism" class="halfbtn vatican ${state.half==='vatican'?'on':''}" onclick="location.hash='vatican'">VATICAN</button>
  <div class="util">
   <button class="${state.m==='vault'?'on':''}" onclick="location.hash='vault'">★ VAULT (${Object.keys(V()).length})</button>
   <button class="${state.m==='report'?'on':''}" onclick="REP=null;location.hash='report'">⚑ REPORT</button>
@@ -279,8 +283,11 @@ function topnav(){$('#topnav').innerHTML=`
 function subnav(){const h=state.half;if(!h||state.m==='vault'||state.m==='report'||state.m==='home'){$('#subnav').innerHTML='';return}
   $('#subnav').innerHTML=halfMods(h).map(([k,m])=>`<button class="${state.m===k?'on':''}" onclick="location.hash='${h}/${k}'">${m.icon} ${m.name}</button>`).join('')}
 
-function home(){$('main').innerHTML=`<div class="depth-gauge"><span>LIVE</span><i></i><span>TRENCH</span><i></i><span>THEO</span><i></i><span>INVENTO</span><i></i><span>RELIQUARY</span></div>
+function home(){$('main').innerHTML=`<div class="depth-gauge"><span>LIVE</span><i></i><span>TRENCH</span><i></i><span>THEO</span><i></i><span>INVENTO</span><i></i><span>RELIQUARY</span><i></i><span>BLACK VAULT</span><i></i><span>XENO</span><i></i><span>VATICAN</span></div>
  <div class="hub">
+  <a class="hubcard" href="#redacted" style="border-color:#c22"><div class="ico">⬛</div><h3>THE BLACK VAULT</h3><p>Released government files — CIA CREST, UK MoD, FOIA dumps. UAP, MKULTRA, Stargate, Cold War, unexplained deaths, weather experiments.</p></a>
+  <a class="hubcard" href="#xeno" style="border-color:#3f9"><div class="ico">🛸</div><h3>XENO</h3><p>Raw sighting logs, Blue Book scans, foreign UFO desks, 1896 airship clippings, saucer patents, 90s ufology text.</p></a>
+  <a class="hubcard" href="#vatican" style="border-color:#eb4"><div class="ico">⛪</div><h3>VATICAN</h3><p>Random codices pulled from the Vatican Library stacks, buried papal bulls, inquisition, exorcism, the Index.</p></a>
   <a class="hubcard" href="#live" style="border-color:#1f5"><div class="ico">📡</div><h3>LIVE</h3><p>Surface web media — Archive, Commons, Dailymotion, Openverse, Met, Open Library, Gutenberg, YouTube &amp; Wayback. Open a module, then mine.</p></a>
   <a class="hubcard" href="#trench" style="border-color:#2cf"><div class="ico sonar">≋</div><h3>TRENCH</h3><p>Deep public layers — open cameras, SatNOGS, chain graffiti, BGP, crawl, gopher. Hardline non-curated. No Tor.</p></a>
   <a class="hubcard" href="#theo" style="border-color:#d4a"><div class="ico">🕯</div><h3>THEO</h3><p>Forgotten theology &amp; cultures — manuscripts, apocrypha, Geniza, grimoires, dead languages, clay tablets, lost civs, dead gods, mystery cults. Public archives only.</p></a>
@@ -292,6 +299,9 @@ const HUBMETA={live:{title:'LIVE · module hub',a:'SURFACE',b:'BROADCAST',sub:'P
  trench:{title:'TRENCH · Mariana modules',a:'0 m',b:'10 994 m',sub:'Hardline random / unfiltered enumeration from public indexes. Safety filter (NSFW/blocklist) only. No scanning, no credentials, no Tor.'},
  theo:{title:'THEO · forgotten theology & cultures',a:'CANON',b:'CULTURES',sub:'Manuscripts, apocrypha, Geniza, grimoires, dead languages, clay tablets — plus Forgotten Cultures (lost civs, dead gods, mystery cults, suppressed faiths). Public archives only.'},
  invento:{title:'INVENTO · patent vault',a:'FILED',b:'ABANDONED',sub:'Forgotten filings from Google Patents (old priority dates, real CPC codes, title-filtered to the theme) with a tightened USPTO fallback. Click a card for the abstract + drawing link.'},
+ redacted:{title:'THE BLACK VAULT · released files',a:'CLASSIFIED',b:'RELEASED',sub:'Random pages from declassified dumps (CIA CREST, UK National Archives, FOIA uploads) and period press. Low-download first. Released ≠ verified — read the source.'},
+ xeno:{title:'XENO · the sky files',a:'SIGHTED',b:'FILED',sub:'Civilian sighting data, military case files, foreign UFO desks, clippings and grayspace ufology. Witness reports are unverified.'},
+ vatican:{title:'VATICAN · the stacks',a:'SCRIPTORIUM',b:'ARCHIVUM',sub:'Random shelfmarks from the Vatican Library IIIF, buried papal documents, and inquisition / exorcism / apparition / Index material in zero-view scans.'},
  reliquary:{title:'THE RELIQUARY · unfound leads',a:'SEALED',b:'LOST',sub:'Forgotten newspaper pages, zero-view scans and gray-space text that point at things still out there. OCR is raw — verify every lead.'}};
 function hub(h){const mods=halfMods(h),meta=HUBMETA[h]||HUBMETA.live;
  $('main').innerHTML=`<div class="depth-gauge"><span>${meta.a}</span><i></i><span>${meta.b}</span></div>
