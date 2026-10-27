@@ -270,5 +270,39 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-10-26T20:57:42Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 153.45.151.0/24",
+  "date": "2026-10-27",
+  "dateLabel": "sampled",
+  "count": 323,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"153.45.151.0/24\",\n  \"origin\": \"8075\",\n  \"time\": \"2026-07-30T00:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"153.45.151.0/24\",\n  \"origin\": \"8075\",\n  \"time\": \"2026-10-27T16:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 323,\n   \"total_ris_peers\": 323\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 8075,\n   \"route_objects\": [\n    \"ARIN\",\n    \"RADB\"\n   ]\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/153.45.151.0/24",
+  "query": "RIPEstat routing-status 153.45.151.0/24",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-10-27T20:17:20Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "AS7018 announces 166.147.64.0/18",
+  "date": "2026-10-27",
+  "dateLabel": "sampled",
+  "count": 7018,
+  "countLabel": "ASN",
+  "kind": "meta",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "bgp/announce",
+  "preview": "prefix 166.147.64.0/18\nAS7018 \u00b7 from RIPEstat announced-prefixes",
+  "url": "https://stat.ripe.net/app/launchpad/AS7018",
+  "query": "RIPEstat announced-prefixes AS7018",
+  "extra": "public RIS-derived view \u00b7 not a live websocket hijack feed",
+  "module": "tectonics",
+  "mined_at": "2026-10-27T20:17:20Z"
  }
 ]

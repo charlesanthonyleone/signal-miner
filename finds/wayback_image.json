@@ -1266,5 +1266,239 @@
    ]
   ],
   "mined_at": "2026-10-26T21:17:10Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "Logo.jpg",
+  "date": "2019-08-03",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "19 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190803160500im_/http://www.angelfire.com/sc.zbracake/Logo.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190803160500im_/http://www.angelfire.com/sc.zbracake/Logo.jpg",
+  "url": "https://web.archive.org/web/20190803160500/http://www.angelfire.com/sc.zbracake/Logo.jpg",
+  "query": "CDX angelfire.com/sc/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 19919 bytes \u00b7 originally at http://www.angelfire.com/sc.zbracake/Logo.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/sc.zbracake/Logo.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-27T20:21:08Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "ChooChoo.jpg",
+  "date": "2019-08-06",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "20 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190806181643im_/http://www.angelfire.com/sc/14th/images/ChooChoo.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190806181643im_/http://www.angelfire.com/sc/14th/images/ChooChoo.jpg",
+  "url": "https://web.archive.org/web/20190806181643/http://www.angelfire.com/sc/14th/images/ChooChoo.jpg",
+  "query": "CDX angelfire.com/sc/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 20734 bytes \u00b7 originally at http://www.angelfire.com/sc/14th/images/ChooChoo.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/sc/14th/images/ChooChoo.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-27T20:21:08Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "shadelink2.jpg",
+  "date": "2019-07-14",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "16 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190714233136im_/http://www.angelfire.com/sc/12345678911234567890/images/shadelink2.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190714233136im_/http://www.angelfire.com/sc/12345678911234567890/images/shadelink2.jpg",
+  "url": "https://web.archive.org/web/20190714233136/http://www.angelfire.com/sc/12345678911234567890/images/shadelink2.jpg",
+  "query": "CDX angelfire.com/sc/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 16694 bytes \u00b7 originally at http://www.angelfire.com/sc/12345678911234567890/images/shadelink2.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/sc/12345678911234567890/images/shadelink2.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-27T20:21:08Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "danphone.gif",
+  "date": "2019-07-27",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "9 KB",
+  "ftype": "image/gif",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190727031315im_/http://www.angelfire.com/sc/12345678911234567890/images/danphone.gif",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190727031315im_/http://www.angelfire.com/sc/12345678911234567890/images/danphone.gif",
+  "url": "https://web.archive.org/web/20190727031315/http://www.angelfire.com/sc/12345678911234567890/images/danphone.gif",
+  "query": "CDX angelfire.com/sc/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/gif \u00b7 10119 bytes \u00b7 originally at http://www.angelfire.com/sc/12345678911234567890/images/danphone.gif",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/gif",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/sc/12345678911234567890/images/danphone.gif"
+   ]
+  ],
+  "mined_at": "2026-10-27T20:21:08Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "NAT.GIF",
+  "date": "2001-08-18",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "133 KB",
+  "ftype": "image/gif",
+  "host": "www.geocities.com:80",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20010818144144im_/http://www.geocities.com:80/Paris/3334/NAT.GIF",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20010818144144im_/http://www.geocities.com:80/Paris/3334/NAT.GIF",
+  "url": "https://web.archive.org/web/20010818144144/http://www.geocities.com:80/Paris/3334/NAT.GIF",
+  "query": "CDX geocities.com/Paris/3334/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/gif \u00b7 136382 bytes \u00b7 originally at http://www.geocities.com:80/Paris/3334/NAT.GIF",
+  "extra": "original host: www.geocities.com:80 (offline) \u00b7 image/gif",
+  "links": [
+   [
+    "original URL",
+    "http://www.geocities.com:80/Paris/3334/NAT.GIF"
+   ]
+  ],
+  "mined_at": "2026-10-27T20:21:08Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "17BDay_012.jpg",
+  "date": "2014-12-09",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "62 KB",
+  "ftype": "image/jpeg",
+  "host": "members.tripod.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20141209095459im_/http://members.tripod.com/j..j/17BDay_012.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20141209095459im_/http://members.tripod.com/j..j/17BDay_012.jpg",
+  "url": "https://web.archive.org/web/20141209095459/http://members.tripod.com/j..j/17BDay_012.jpg",
+  "query": "CDX members.tripod.com/j* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 63831 bytes \u00b7 originally at http://members.tripod.com/j..j/17BDay_012.jpg",
+  "extra": "original host: members.tripod.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://members.tripod.com/j..j/17BDay_012.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-27T20:47:29Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "47pic.jpg",
+  "date": "2026-04-10",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "19 KB",
+  "ftype": "image/jpeg",
+  "host": "www.members.tripod.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20260410201835im_/https://www.members.tripod.com/j-hall/images/47pic.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20260410201835im_/https://www.members.tripod.com/j-hall/images/47pic.jpg",
+  "url": "https://web.archive.org/web/20260410201835/https://www.members.tripod.com/j-hall/images/47pic.jpg",
+  "query": "CDX members.tripod.com/j* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 19462 bytes \u00b7 originally at https://www.members.tripod.com/j-hall/images/47pic.jpg",
+  "extra": "original host: www.members.tripod.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "https://www.members.tripod.com/j-hall/images/47pic.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-27T20:47:29Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "awjmstu2.jpg",
+  "date": "2003-06-14",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "9 KB",
+  "ftype": "image/jpeg",
+  "host": "members.tripod.com:80",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20030614052702im_/http://members.tripod.com:80/j-hall/images/awjmstu2.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20030614052702im_/http://members.tripod.com:80/j-hall/images/awjmstu2.jpg",
+  "url": "https://web.archive.org/web/20030614052702/http://members.tripod.com:80/j-hall/images/awjmstu2.jpg",
+  "query": "CDX members.tripod.com/j* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 10080 bytes \u00b7 originally at http://members.tripod.com:80/j-hall/images/awjmstu2.jpg",
+  "extra": "original host: members.tripod.com:80 (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://members.tripod.com:80/j-hall/images/awjmstu2.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-27T20:47:29Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "06tejan55.jpg",
+  "date": "2015-09-09",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "19 KB",
+  "ftype": "image/jpeg",
+  "host": "www.members.tripod.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20150909025549im_/http://www.members.tripod.com/j-hall/images/06tejan55.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20150909025549im_/http://www.members.tripod.com/j-hall/images/06tejan55.jpg",
+  "url": "https://web.archive.org/web/20150909025549/http://www.members.tripod.com/j-hall/images/06tejan55.jpg",
+  "query": "CDX members.tripod.com/j* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 19766 bytes \u00b7 originally at http://www.members.tripod.com/j-hall/images/06tejan55.jpg",
+  "extra": "original host: www.members.tripod.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.members.tripod.com/j-hall/images/06tejan55.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-27T20:47:29Z"
  }
 ]
