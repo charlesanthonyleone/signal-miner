@@ -34,6 +34,29 @@ In the browser, `net.js` gives every fetch a timeout, a 15-minute cache for slow
 - Open-directory discovery through Bing finds few new hosts. Growth comes mostly from curated mirrors.
 - The Vault is per-browser (localStorage). Share links encode the find in the URL.
 
+## Pass 10
+
+- **Openverse images pile:** went from 0 to 20 rows. The box's calls to the API time out (504 on 10 of 12 tries), so the scheduled Action keeps growing the pile.
+- **Live → Image → Wayback:** went from 0 to 48. `logSrc` now defaults the year window, which also fixes every other scheduled-log source called without years.
+- **'-->' title fix:** confirmed live (0 titles containing '-->').
+- **Theo dead shelves:**
+  - New CCAT shelf (pseudepigrapha, LXX morphology, Apostolic Fathers, BHS Hebrew; 150 pages).
+  - Path-code aliases (pseudep→apocrypha, lxx→septuagint, mbhs→Hebrew manuscript).
+  - RELTEXT now merges three piles.
+  - Results: apocrypha 0→24, geniza 0→11, deadlang 7→24.
+  - A textfiles.com / faqs.org religion spec was added but returned nothing on this run (Wayback throttling).
+- **Theo Gutenberg:**
+  - New themed Gutendex pile (`pre_gutendex_theo`, built by the Action).
+  - Fallback to IA's Gutenberg mirror, mined with words from the theme regex.
+  - Apocrypha 0→1; deadlang is still 0 because Gutenberg has almost nothing in those languages.
+- **GeoCities/Tripod/Angelfire cleanup:**
+  - Drops form, poll, chat, spoiler, 404/error and host-chrome pages (`GJUNK`).
+  - Slug titles fall back to a cleaned preview with Lycos/Hotbot chrome stripped.
+- **New modules:**
+  - `rel_tokyo` (192 pages), `rel_paris` (160), `l_rainforest` (189).
+  - All pre-screened with 0 BAD hits and served through the existing safety layer.
+- **Vatican shelfmarks:** 450→685.
+
 ## Pass 9 (2026-10-27)
 - Fixed: Wikimedia Commons (video, image and audio) returned 0 and Dailymotion returned HTTP 400 whenever a mine ran without a year range. Both now get a default range (1995 to the current year).
 - Pre-harvest: new `scripts/preharvest.py` (run by the Action) stores raw Gutendex, Open Library and Openverse results in `finds/pre_*.json`. If the live API takes more than 12 s, the site falls back to that stored pile. This covers the Live Book/Image/Audio sources and Theo's Gutenberg source.
