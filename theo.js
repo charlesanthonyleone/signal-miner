@@ -88,12 +88,19 @@ function theoOL(T,module){return async o=>{
     preview:'subjects: '+flat(d.subject).slice(0,300),query:`openlibrary ${q}`,extra:(d.author_name||[]).slice(0,2).join(', ')+(d.ebook_access?` · ebook: ${d.ebook_access}`:'')}))}}
 
 // --- Gutenberg via Gutendex topic (subjects+bookshelves)
+// Pass 10: when Gutendex is slow or the topic list is empty, mine IA's Gutenberg mirror with words lifted from the theme regex
+function gutWords(T){return (T.gut&&T.gut.length?T.gut:T.re.source.split('|').map(s=>s.replace(/\\b|[()?.*+\[\]\\]/g,'').trim()).filter(s=>/^[a-z ]{4,}$/i.test(s))).slice(0,14)}
+async function gutIA(T,module,o){const w=o.kw?[o.kw]:sh(gutWords(T)).slice(0,6);const q='collection:gutenberg AND ('+w.map(x=>'subject:('+x+') OR title:('+x+')').join(' OR ')+')';
+  const j=await JJ('https://archive.org/advancedsearch.php?'+new URLSearchParams({q,'fl[]':'identifier,title,date,downloads,subject,creator',rows:60,output:'json','sort[]':'downloads asc'}));
+  return sh((j.response&&j.response.docs)||[]).slice(0,24).map(d=>({module,source:'Project Gutenberg (IA mirror)',title:flat(d.title),date:(d.date||'').slice(0,10),dateLabel:'date',count:d.downloads??null,countLabel:'IA views',thumb:`https://archive.org/services/img/${d.identifier}`,kind:'link',src:'',url:`https://archive.org/details/${d.identifier}`,preview:'subjects: '+flat(d.subject).slice(0,300),query:q,extra:flat(d.creator)}))}
 function theoGut(T,module){return async o=>{
+  if(!o.kw&&!(T.gut&&T.gut.length))return gutIA(T,module,o);
   const t=o.kw||pk(T.gut);const u=new URLSearchParams(o.kw?{search:t}:{topic:t});
-  const r=await (window.PRE?PRE('https://gutendex.com/books/?'+u,'pre_gutendex_theo.json','results',o.kw?{kw:o.kw}:{kw:t}):JJ('https://gutendex.com/books/?'+u));const re=o.kw?/./:T.re;
-  return r.results.filter(b=>re.test(b.title+' '+flat(b.subjects)+' '+flat(b.bookshelves))).map(b=>({module,source:'Project Gutenberg',title:b.title,date:'',dateLabel:'',count:b.download_count,countLabel:'downloads (30d)',
+  const r=await (window.PRE?PRE('https://gutendex.com/books/?'+u,'pre_gutendex_theo.json','results',o.kw?{kw:o.kw}:{kw:t}):JJ('https://gutendex.com/books/?'+u)).catch(()=>({results:[]}));const re=o.kw?/./:T.re;
+  const hits=(r.results||[]).filter(b=>re.test(b.title+' '+flat(b.subjects)+' '+flat(b.bookshelves))).map(b=>({module,source:'Project Gutenberg',title:b.title,date:'',dateLabel:'',count:b.download_count,countLabel:'downloads (30d)',
     thumb:b.formats['image/jpeg']||'',kind:'link',src:'',url:`https://www.gutenberg.org/ebooks/${b.id}`,preview:'subjects: '+flat(b.subjects).slice(0,300),
-    query:'gutendex '+u,extra:b.authors.map(a=>a.name).join('; ')}))}}
+    query:'gutendex '+u,extra:b.authors.map(a=>a.name).join('; ')}));
+  return hits.length?hits:gutIA(T,module,o)}}
 
 // --- Sacred-texts.com mirror on IA (collection sacredtexts / uploader)
 const SACRED='(collection:(sacred-texts OR sacredtexts OR internetsacredtextarchive) OR creator:("Internet Sacred Text Archive") OR source:(sacred-texts))';
