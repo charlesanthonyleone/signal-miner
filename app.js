@@ -151,7 +151,7 @@ async function chainLive(o){
   return out}
 
 const cache={};
-function logSrc(file,module){return async o=>{o=YW(o);cache[file]??=await J(`finds/${file}.json?`+Date.now()).catch(()=>[]);
+function logSrc(file,module){return async o=>{o=file==='timeskew'?{...o,y1:0,y2:9999}:YW(o);cache[file]??=await J(`finds/${file}.json?`+Date.now()).catch(()=>[]);
   let L=cache[file].filter(x=>(!o.kw||(x.title+' '+(x.query||'')+' '+(x.preview||'')).toLowerCase().includes(o.kw.toLowerCase()))&&(!o.raw||x.count==null||x.count<=100)&&inYears(x.date,o));
   L=L.filter(x=>!isNsfw(x.url)&&!isNsfw(x.title));L=o.kw?L.slice().reverse():shuffle(L);return L.slice(0,48).map(x=>({...x,module:x.module||module}))}}
 

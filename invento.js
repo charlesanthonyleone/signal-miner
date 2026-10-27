@@ -56,6 +56,7 @@ async function uspto(T,module,o,extra=''){const ws=o.kw?[o.kw]:sh(T.w).slice(0,6
   const u=new URLSearchParams({q,rows:60,page:o.kw?1:1+Math.floor(Math.random()*6),output:'json'});['identifier','title','description','downloads'].forEach(f=>u.append('fl[]',f));u.append('sort[]','downloads asc');
   let docs=(await JJ('https://archive.org/advancedsearch.php?'+u)).response.docs;
   if(!docs.length){u.set('page',1);docs=(await JJ('https://archive.org/advancedsearch.php?'+u)).response.docs}
+  if(!docs.length&&/ABN/.test(q)){u.set('q',q.replace(' AND description:ABN',''));docs=(await JJ('https://archive.org/advancedsearch.php?'+u)).response.docs} // Pass 11: widen when the abandoned-flag filter is empty
   const re=o.kw?null:(T.tre||new RegExp('\\b('+T.w.join('|')+')','i'));
   return sh(docs.filter(d=>{const t=[].concat(d.description||[])[0]||'';return (!re||re.test(t))&&!(T.nx&&T.nx.test(t))})).slice(0,24).map(d=>mapDoc(d,module,T,q+' · sort downloads asc'))}
 async function tmGrave(o,module){const q=`mediatype:texts AND title:(${o.kw?o.kw+' AND ':''}(trademark OR trademarks OR "trade-marks" OR "trade marks")) AND downloads:[0 TO 15]`;
