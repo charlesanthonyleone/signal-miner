@@ -52,8 +52,12 @@ async function dailymotion(o){o=YW(o);const term=o.kw||(o.raw?pick(["IMG_","MVI_
   return L.map(v=>({module:'video',source:'Dailymotion',title:v.title,date:new Date(v.created_time*1000).toISOString().slice(0,10),dateLabel:'uploaded',
     count:v.views_total,countLabel:'views',thumb:v.thumbnail_360_url,kind:'iframe',src:`https://geo.dailymotion.com/player.html?video=${v.id}`,url:`https://www.dailymotion.com/video/${v.id}`,query:`search="${term}"${o.raw?' views<=100':''}`,extra:`${v.duration}s · ${v['owner.username']||''}`}))}
 
+// Pass 9: slow APIs fall back to the Action's pre-harvested pile (finds/pre_*.json) after 12s
+async function PRE(url,file,key,o){try{return await Promise.race([J(url),new Promise((_,j)=>setTimeout(()=>j(new Error('slow')),12000))])}
+  catch(e){const L=await fetch('finds/'+file+'?'+Math.floor(Date.now()/6e5)).then(r=>r.json()).catch(()=>null);if(!L||!L.length)throw e;
+    const re=o&&o.kw?new RegExp(o.kw.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'i'):null;return {[key]:shuffle(L.filter(x=>!re||re.test(JSON.stringify(x)))).slice(0,30),_cached:1}}}
 function openverse(kind){return async o=>{const term=o.kw||(o.raw?pick(['IMG','DSC','untitled','snapshot','photo']):pick(WORDS));
-  const pg=o.kw?1:rnd(1,10);const r=await J(`https://api.openverse.org/v1/${kind}/?`+new URLSearchParams({q:term,page_size:20,page:pg}));
+  const pg=o.kw?1:rnd(1,10);const r=await PRE(`https://api.openverse.org/v1/${kind}/?`+new URLSearchParams({q:term,page_size:20,page:pg}),`pre_openverse_${kind}.json`,'results',o);
   return r.results.map(x=>({module:kind==='images'?'image':'audio',source:'Openverse',title:x.title||'(untitled)',date:'',dateLabel:'',count:null,thumb:x.thumbnail,
     kind:kind==='images'?'img':'audio',src:x.url,url:x.foreign_landing_url,query:`q="${term}" page ${pg}`,extra:`${x.creator?'by '+x.creator+' · ':''}${x.license?'CC '+x.license.toUpperCase()+' · ':''}via ${x.provider||x.source}`}))}}
 
@@ -63,13 +67,13 @@ async function met(o){const term=o.kw||pick(WORDS);const r=await J('https://coll
   return objs.filter(x=>x&&x.primaryImageSmall).map(x=>({module:'image',source:'Met Museum',title:x.title||x.objectName,date:x.objectDate,dateLabel:'object date',count:null,
     thumb:x.primaryImageSmall,kind:'img',src:x.primaryImage||x.primaryImageSmall,url:x.objectURL,query:`v1.1/search q="${term}" hasImages`,extra:[x.artistDisplayName,x.department,x.isPublicDomain?'public domain':''].filter(Boolean).join(' · ')}))}
 
-async function openlib(o){const term=o.kw||pick(WORDS);const q=`${term} first_publish_year:[${o.y1} TO ${o.y2}]`+(o.raw?' edition_count:1':'');
-  const r=await J('https://openlibrary.org/search.json?'+new URLSearchParams({q,limit:30,page:o.kw?1:rnd(1,5),fields:'key,title,author_name,first_publish_year,cover_i,edition_count,ia,ebook_access'}));
+async function openlib(o){o=YW(o);const term=o.kw||pick(WORDS);const q=`${term} first_publish_year:[${o.y1} TO ${o.y2}]`+(o.raw?' edition_count:1':'');
+  const r=await PRE('https://openlibrary.org/search.json?'+new URLSearchParams({q,limit:30,page:o.kw?1:rnd(1,5),fields:'key,title,author_name,first_publish_year,cover_i,edition_count,ia,ebook_access'}),'pre_openlib.json','docs',o);
   return r.docs.map(d=>({module:'book',source:'Open Library',title:d.title,date:d.first_publish_year?String(d.first_publish_year):'',dateLabel:'first published',count:d.edition_count,countLabel:'editions',
     thumb:d.cover_i?`https://covers.openlibrary.org/b/id/${d.cover_i}-M.jpg`:'',kind:(d.ebook_access==='public'&&d.ia)?'iframe':'link',src:d.ia?`https://archive.org/embed/${d.ia[0]}`:'',
     url:'https://openlibrary.org'+d.key,query:q,extra:(d.author_name||[]).slice(0,2).join(', ')+(d.ebook_access?` · ebook: ${d.ebook_access}`:'')}))}
 async function gutendex(o){const u=new URLSearchParams();if(o.kw)u.set('search',o.kw);else u.set('page',o.raw?rnd(2350,2480):rnd(1,120));
-  const r=await J('https://gutendex.com/books/?'+u);
+  const r=await PRE('https://gutendex.com/books/?'+u,'pre_gutendex.json','results',o);
   return r.results.map(b=>({module:'book',source:'Project Gutenberg',title:b.title,date:'',dateLabel:'',count:b.download_count,countLabel:'downloads (30d)',
     thumb:b.formats['image/jpeg']||'',kind:'link',src:'',url:`https://www.gutenberg.org/ebooks/${b.id}`,query:'gutendex '+u,extra:b.authors.map(a=>a.name).join('; ')+(b.languages?' · '+b.languages.join(','):'')}))}
 

@@ -3,6 +3,18 @@ Everything here is public, unauthenticated HTTP; no scanning, no logins. Each ha
 import json, re, random, time, csv, io, requests, sys
 UA={"User-Agent":"SignalMiner/2.0 (github actions; hobby project; contact via github)"}
 BAD=re.compile(r"\b(sex|porn|xxx|nude|naked|erotic|adult|fetish|hentai|nsfw|escort|incest|rape|pedo|lolita|child abuse)\w*",re.I)
+# Pass 9: Wayback throttles (429/503, SSL EOF, resets) -> back off and retry instead of losing the whole harvest
+def _cdxget(params=None,headers=None,timeout=60,tries=4):
+    import time as _t
+    for i in range(tries):
+        try:
+            r=requests.get("https://web.archive.org/cdx/search/cdx",params=params,headers=headers,timeout=timeout)
+            if r.status_code in (429,502,503,504): raise IOError(f"wayback {r.status_code}")
+            return r
+        except Exception as e:
+            if i==tries-1: raise
+            w=20*(i+1); print("wayback throttled:",e,"- retry in",w,"s"); _t.sleep(w)
+
 def load(p):
     try: return json.load(open(p,encoding="utf-8"))
     except Exception: return []
@@ -91,7 +103,7 @@ FORUMS=["ezboard.com","network54.com","voy.com","delphiforums.com","forumer.com"
 def cdx(q,limit=600,extra=None):
     p={"url":q,"output":"json","limit":limit,"filter":["statuscode:200"],"collapse":"urlkey","fl":"timestamp,original,mimetype,length"}
     if extra: p["filter"]=p["filter"]+[extra]
-    r=requests.get("https://web.archive.org/cdx/search/cdx",params=p,headers=UA,timeout=60).json(); return r[1:] if r else []
+    r=_cdxget(params=p,headers=UA,timeout=60).json(); return r[1:] if r else []
 def bbs(dirs=5):
     old=load("finds/bbs.json"); new=[]
     for d in random.sample([x for x in TFDIRS if ".." not in x],dirs):
@@ -111,7 +123,7 @@ def bbs(dirs=5):
 def forums(hosts=4):
     old=load("finds/forums.json"); new=[]
     for h in random.sample(FORUMS,hosts):
-        try: rows=cdx(f"{h}/*",1500,"mimetype:text/html")
+        try: rows=cdx(f"{h}/*",1500,"mimetype:text/.*")
         except Exception as e: print("forums",h,e); continue
         rows=[r for r in rows if re.search(r"(topic|thread|message|read|viewtopic|showthread|messages|\?|/\d{3,})",r[1],re.I) and not re.search(r"\.(css|js|gif|jpg|png)$|login|register|search|profile",r[1],re.I)]
         random.shuffle(rows)
@@ -160,6 +172,7 @@ WBSPEC={
  "muckrock":[("www.muckrock.com/foi/*","2013","2024",r"/foi/[^/]+/[^/]+-\d+/?$",r"(\?|/embargo|/follow|/admin)")],
  "geipan":[("www.cnes-geipan.fr/index.php","2008","2016",r"cas|tt_news|id=",r"(no_cache=1&L=1|print|rss)"),("www.geipan.fr/index.php","2008","2016",r"tt_news|cas|id=",r"(print|rss)")],
  "area51":[("www.geocities.com/Area51/","1996","2009",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult)")],
+ "religtext":[("wiretap.area.com/Gopher/Library/Religion/","1997","2015",r"[^/]$",r"(\.(zip|gz|exe|gif|jpg)$|/sex|porn)"),("ccat.sas.upenn.edu/gopher/text/religion/","1996","2012",r"[^/]$",r"(\.(zip|gz|exe|gif|jpg)$|betacode|fonts)")],
  "athens":[("www.geocities.com/Athens/","1996","2009",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult|nude|erotic|porn)")],
  "cape":[("www.geocities.com/CapeCanaveral/","1996","2009",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult|nude|erotic|porn)")],
  "heartland":[("www.geocities.com/Heartland/","1996","2009",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult|nude|erotic|porn)")],
@@ -185,18 +198,19 @@ def _titles(rows,k=200):
     with ThreadPoolExecutor(6) as ex: return [r for r in ex.map(t,rows) if r.get("preview")]
 def wb(keys=None,limit=4000):
     out={}
+    if not keys: keys=random.sample(list(WBSPEC),min(4,len(WBSPEC)))  # Pass 9: rotate 4 sites per Action run so the budget holds
     for key,specs in WBSPEC.items():
         if keys and key not in keys: continue
         old=load(f"finds/wb_{key}.json"); new=[]
         for pre,a,b,keep,drop in specs:
             try:
-                r=requests.get("https://web.archive.org/cdx/search/cdx",params={"url":pre,**({} if pre.endswith("*") else {"matchType":"prefix"}),"output":"json","filter":["statuscode:200","mimetype:text/html"],"collapse":"urlkey","limit":limit,**({"from":a,"to":b} if key!="muckrock" and key!="area51" else {})},headers=UA,timeout=240).json()[1:]
+                r=_cdxget(params={"url":pre,**({} if pre.endswith("*") else {"matchType":"prefix"}),"output":"json","filter":["statuscode:200","mimetype:text/.*"],"collapse":"urlkey","limit":limit,**({"from":a,"to":b} if key!="muckrock" and key!="area51" else {})},headers=UA,timeout=240).json()[1:]
             except Exception as e: print("wb",key,e); continue
             random.shuffle(r)
             for x in r:
                 ts,orig=x[1],x[2]
                 if not re.search(keep,orig) or re.search(drop,orig,re.I): continue
-                new.append({"source":{"fbivault":"FBI Vault (Wayback copy)","muckrock":"MuckRock (Wayback copy)","geipan":"GEIPAN (Wayback copy)","area51":"GeoCities Area51 (Wayback)","athens":"GeoCities Athens (Wayback)","cape":"GeoCities CapeCanaveral (Wayback)","heartland":"GeoCities Heartland (Wayback)","pentagon":"GeoCities Pentagon (Wayback)"}[key],
+                new.append({"source":{"fbivault":"FBI Vault (Wayback copy)","muckrock":"MuckRock (Wayback copy)","geipan":"GEIPAN (Wayback copy)","area51":"GeoCities Area51 (Wayback)","religtext":"Dead religion text archive (Wayback)","athens":"GeoCities Athens (Wayback)","cape":"GeoCities CapeCanaveral (Wayback)","heartland":"GeoCities Heartland (Wayback)","pentagon":"GeoCities Pentagon (Wayback)"}[key],
                   "title":_slug(orig),"date":f"{ts[:4]}-{ts[4:6]}-{ts[6:8]}","url":f"https://web.archive.org/web/{ts}/{orig}","orig":orig,"query":f"Wayback CDX {pre} {a}–{b}, random draw"})
                 if len(new)>=600: break
             time.sleep(2)

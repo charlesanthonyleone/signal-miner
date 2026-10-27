@@ -160,4 +160,7 @@ print("done", {k: len(v) for k,v in data.items()})
 # Pass 6: worlds harvest (BLACK VAULT / XENO / VATICAN / Trench BBS + dead forums) — sources with no CORS or heavy rate limits
 try:
     sys.path.insert(0,os.path.dirname(__file__)); import worlds; worlds.run(budget_s=900)
+    try:
+        import preharvest; preharvest.run()
+    except Exception as e: print("preharvest error:",e)
 except Exception as e: print("worlds error:",e)
