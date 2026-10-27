@@ -159,7 +159,11 @@ WBSPEC={
  "fbivault":[("vault.fbi.gov/","2011","2016",r"vault\.fbi\.gov/[A-Za-z0-9%_\-]+(/[A-Za-z0-9%_\-]+)?/?$",r"(\+|search|login|author|sitemap|contact|front-page|recently-added|\.(js|css|png|gif|jpg)$)")],
  "muckrock":[("www.muckrock.com/foi/*","2013","2024",r"/foi/[^/]+/[^/]+-\d+/?$",r"(\?|/embargo|/follow|/admin)")],
  "geipan":[("www.cnes-geipan.fr/index.php","2008","2016",r"cas|tt_news|id=",r"(no_cache=1&L=1|print|rss)"),("www.geipan.fr/index.php","2008","2016",r"tt_news|cas|id=",r"(print|rss)")],
- "area51":[("www.geocities.com/Area51/","1996","2009",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult)")]}
+ "area51":[("www.geocities.com/Area51/","1996","2009",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult)")],
+ "athens":[("www.geocities.com/Athens/","1996","2009",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult|nude|erotic|porn)")],
+ "cape":[("www.geocities.com/CapeCanaveral/","1996","2009",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult|nude|erotic|porn)")],
+ "heartland":[("www.geocities.com/Heartland/","1996","2009",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult|nude|erotic|porn)")],
+ "pentagon":[("www.geocities.com/Pentagon/","2004","2009",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult|nude|erotic|porn)")]}
 def _slug(u):
     p=_up.unquote(_up.urlparse(u).path).strip("/").split("/"); q=_up.urlparse(u).query
     t=" / ".join(x for x in p if x)[-160:] or u
@@ -192,11 +196,11 @@ def wb(keys=None,limit=4000):
             for x in r:
                 ts,orig=x[1],x[2]
                 if not re.search(keep,orig) or re.search(drop,orig,re.I): continue
-                new.append({"source":{"fbivault":"FBI Vault (Wayback copy)","muckrock":"MuckRock (Wayback copy)","geipan":"GEIPAN (Wayback copy)","area51":"GeoCities Area51 (Wayback)"}[key],
+                new.append({"source":{"fbivault":"FBI Vault (Wayback copy)","muckrock":"MuckRock (Wayback copy)","geipan":"GEIPAN (Wayback copy)","area51":"GeoCities Area51 (Wayback)","athens":"GeoCities Athens (Wayback)","cape":"GeoCities CapeCanaveral (Wayback)","heartland":"GeoCities Heartland (Wayback)","pentagon":"GeoCities Pentagon (Wayback)"}[key],
                   "title":_slug(orig),"date":f"{ts[:4]}-{ts[4:6]}-{ts[6:8]}","url":f"https://web.archive.org/web/{ts}/{orig}","orig":orig,"query":f"Wayback CDX {pre} {a}–{b}, random draw"})
                 if len(new)>=600: break
             time.sleep(2)
-        if key in ("geipan","area51","muckrock"): new=_titles(new)
+        if key!="fbivault": new=_titles(new)
         out[key]=save(f"finds/wb_{key}.json",old,new,5000)
     return out
 

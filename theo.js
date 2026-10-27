@@ -22,13 +22,15 @@ async function iaDeep(q,pages=3){
   u.append('sort[]',pk(['downloads asc','addeddate desc','addeddate asc']));
   return (await JJ('https://archive.org/advancedsearch.php?'+u)).response.docs}
 // theme module: loose theme words, but only near-zero downloads, random upload window; prefer undescribed
+// Pass 8: drop self-help, podcast-track, listicle and marketing uploads that carry religious subject tags
+const TNZ=/^\S{1,14}$|podcast|episode|\bep\.? ?\d|^\d+\s*[.\-]\s|\btrack \d|law of attraction|manifesting|self.?help|motivat|coaching|\b\d+ (ways|tips|reasons|secrets|miraculous)\b|consciousness|lineages|webinar|mp3|audiobook sample|\bvlog\b/i;
 function theoIA(T0,module){return async o=>{
   const words=o.kw?[o.kw]:[...new Set(T0.ia.flat())];const grp=sh(words).slice(0,14).join(' OR ');
   const phr=words.filter(w=>w.startsWith('"'));const tq=phr.length?` OR title:(${sh(phr).slice(0,10).join(' OR ')})`:'';
   const tiers=[[MAXDL,1,2],[MAXDL,1,2],[MAXDL,0,3],[MAXDL,0,1],[25,0,1]];let docs=[],q='';
   for(const [cap,win,pg] of tiers){if(docs.length>=6)break;const [a,b]=winDate();
     q=`mediatype:texts AND (subject:(${grp})${tq}) AND downloads:[0 TO ${cap}]`+(win?` AND addeddate:[${a} TO ${b}]`:'');
-    docs=(await iaDeep(q,pg)).filter(d=>(d.downloads||0)<=cap&&(o.kw||T0.re.test(flat(d.title)+' '+flat(d.subject))))}
+    docs=(await iaDeep(q,pg)).filter(d=>(d.downloads||0)<=cap&&(o.kw||((T0.re.test(flat(d.title))||T0.re.test(flat(d.subject)))&&!TNZ.test(flat(d.title)))))}
   docs.sort((x,y)=>(!!flat(x.description)-!!flat(y.description))||((x.downloads||0)-(y.downloads||0)));
   return docs.slice(0,24).map(d=>mapIA(d,module,q+' · sorted fewest downloads, undescribed first'))}}
 // raw pile: zero-download texts in a random window, any topic, bucket-labelled
