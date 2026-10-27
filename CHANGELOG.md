@@ -34,6 +34,15 @@ In the browser, `net.js` gives every fetch a timeout, a 15-minute cache for slow
 - Open-directory discovery through Bing finds few new hosts. Growth comes mostly from curated mirrors.
 - The Vault is per-browser (localStorage). Share links encode the find in the URL.
 
+## Pass 8 (2026-10-27)
+- New modules on the four pages Pass 7 skipped:
+  - **LIVE · Solar Wire**: live NOAA space-weather alerts, plus active National Weather Service alerts with the 24 most common types removed so only rare events show.
+  - **THEO · Athens Homepages**, **INVENTO · Cape Canaveral Homepages**, **RELIQUARY · Heartland Homepages** and **Pentagon Homepages**: dead GeoCities neighbourhoods as Wayback captures, with titles and first text read from each page. Adult, zip and exe paths are excluded, and the Action harvests them.
+- Tighter Vatican matching: Exorcism, Apparitions, Index of Forbidden Books (now searched by catalogue subject heading and in several languages) and Lost Councils (church councils only, no colonial "provincial councils").
+- Theo noise: the IA deep mine drops podcast tracks, listicles, self-help, "consciousness" uploads and bare-identifier titles. The raw GitHub gists source, which kept returning tech gists, is removed from Theo.
+- Fixes from the live sweep: IA live sources get a default year window, so a direct call no longer builds a broken `publicdate:[NaN]` query. GeoCities cards with "Untitled" or path-only titles use their first line of text instead.
+- Safety layer unchanged on every new module.
+
 ## Pass 7 (2026-10-27)
 - Verified live: the Pass 6 filter fix (084ff2a), Reliquary Vanished People (24/19) and Ghost Towns (24/24).
 - Legal alternatives for blocked sites, built from Wayback CDX captures of public pages with titles pulled from each capture: **FBI Vault** (343 rows) and **MuckRock** (187) modules in Black Vault, **GEIPAN** (French UFO bureau, deduplicated) in Xeno, **GeoCities Area51** in Trench (grayspace) and as an Xeno source. Harvested by `worlds.wb()` in the Action.
