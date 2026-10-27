@@ -34,6 +34,30 @@ In the browser, `net.js` gives every fetch a timeout, a 15-minute cache for slow
 - Open-directory discovery through Bing finds few new hosts. Growth comes mostly from curated mirrors.
 - The Vault is per-browser (localStorage). Share links encode the find in the URL.
 
+## Pass 11
+
+- **Piles:**
+  - Openverse images stays at 20; the box still gets a 504 on every call.
+  - `pre_gutendex_theo` has not been built yet because no Action run has happened since Pass 10.
+  - The Openverse/pre-harvest search terms grew from ~25 to ~100 and no longer lean toward sermons.
+- **textfiles.com / faqs.org religion shelf:** 173 new pages, 358 in the pile. Theo dead-shelf results:
+  - grimoire: 24
+  - oral: 6
+  - heresies: 2
+  - marginalia: 1
+  - burial, mystery and suppressed: still 0
+- **Cairo Geniza:** new `pgp` source from the Princeton Geniza Project open metadata (CC BY 4.0). It holds 3000 fragments, 70% of them Cambridge Taylor-Schechter, linking to CUDL page images where they exist. Live result: 30. The Action refreshes it with `preharvest.genizah()`.
+- **GeoCities junk titles:** rows are dropped when the only title is a path slug and the preview is empty or markup junk (`-->`, `&nbsp;`).
+- **New modules:**
+  - `rel_hollywood` (190 pages)
+  - `l_colosseum` (166)
+  - `tr_tripod97` (186), `tr_tripod00` (166), `tr_tripod03` (192)
+  - All pre-screened with 0 blocked hits.
+- **Live sweep fixes:**
+  - Time Skew was emptied by Pass 10's default year window; it is now exempt (48 rows).
+  - The USPTO invento modules now widen past the ABN flag when empty (mind control 0→2).
+  - Chronicling America timeouts were transient (rel_maps news: 24).
+
 ## Pass 10
 
 - **Openverse images pile:** went from 0 to 20 rows. The box's calls to the API time out (504 on 10 of 12 tries), so the scheduled Action keeps growing the pile.
