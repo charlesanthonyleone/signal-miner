@@ -157,7 +157,7 @@ const T={
 
 const out={};
 for(const [k,t] of Object.entries(T)){
-  const s={ia:{name:'Deep mine',f:theoIA(t,k),note:'Random upload window, downloads ≤5, undescribed first; theme is only a loose label filter.'},pile:{name:'Zero-download pile',f:theoPile(k),note:'Random 0–1 download texts from a random month, bucket-labelled (this theme first, other theo buckets after).'},gray:{name:'Gray-space text',f:theoGray(k),note:'Pre-mined every 3h: Veronica-2 gopherspace search, Common Crawl text/plain on obscure TLDs, .txt inside open Index-of dirs. This bucket first.'},gist:{name:'Raw gists',f:theoGist(k),note:'Random page of public GitHub gists; only bucketable ones shown (often empty — it is a raw pile).'}};
+  const s={ia:{name:'Deep mine',f:theoIA(t,k),note:'Random upload window, downloads ≤5, undescribed first; theme is only a loose label filter.'},pile:{name:'Zero-download pile',f:theoPile(k),note:'Random 0–1 download texts from a random month, bucket-labelled (this theme first, other theo buckets after).'},gray:{name:'Gray-space text',f:theoGray(k),note:'Pre-mined every 3h: Veronica-2 gopherspace search, Common Crawl text/plain on obscure TLDs, .txt inside open Index-of dirs. This bucket first.'}};
   if(t.ol.length)s.openlib={name:'Open Library',f:theoOL(t,k),note:'Open Library subject queries.'};
   if(t.gut.length)s.gutenberg={name:'Gutenberg',f:theoGut(t,k),note:'Gutendex topic (subjects/bookshelves) search.'};
   out[k]={half:'theo',name:t.name,icon:t.icon,blurb:t.blurb,sources:s};

@@ -4,7 +4,7 @@ const J=async u=>{const r=await fetch(u);if(!r.ok)throw new Error(r.status+' '+u
 const shuffle=a=>a.map(x=>[Math.random(),x]).sort((a,b)=>a[0]-b[0]).map(x=>x[1]);
 const WORDS=["river","street","kitchen","party","dog","car","beach","snow","garden","school","church","train","birthday","night","city","farm","lake","road","bridge","market","house","window","forest","boat","horse","concert","rain","mountain","family","factory"];
 const RAWV=["IMG_*","MVI_*","DSC*","VID_*","MOV*","GOPR*","video*","untitled","clip*","DSCF*"];
-const yr=(o)=>(o.kw||o.loose)?`publicdate:[${o.y1}-01-01T00:00:00Z TO ${o.y2}-12-31T23:59:59Z]`:(y=>`publicdate:[${y}-01-01T00:00:00Z TO ${y}-12-31T23:59:59Z]`)(rnd(Math.max(o.y1,2002),o.y2));
+const yr=(o)=>{o={...o,y1:o.y1??1995,y2:o.y2??new Date().getFullYear()};return (o.kw||o.loose)?`publicdate:[${o.y1}-01-01T00:00:00Z TO ${o.y2}-12-31T23:59:59Z]`:(y=>`publicdate:[${y}-01-01T00:00:00Z TO ${y}-12-31T23:59:59Z]`)(rnd(Math.max(o.y1,2002),o.y2));}
 const inYears=(d,o)=>{const y=parseInt(d);return !y||(y>=o.y1&&y<=o.y2)};
 const CC='https://index.commoncrawl.org/CC-MAIN-2026-39-index';
 const TLDS=['.museum','.edu','.is','.li','.fm','.io','.nu','.ws','.ge','.md','.kg','.by'];
