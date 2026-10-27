@@ -169,9 +169,16 @@ const T={
   re:/religious persecution|persecution of (the )?(christians|jews|witches|heretics|quakers|huguenots|catholics|protestants|mormons)|inquisition|forced conver|converso|morisco|marrano|crypto.?jew|native (american )?religion|indian religion|potlatch|sun dance|peyote|santer|vodou|voodoo|vodun|candombl|old believer|pagan surviv|suppression of the (monasteries|jesuits|religious)/i,ol:['Persecution','Inquisition','Marranos','Moriscos','Indians of North America Religion','Santeria','Voodooism'],gut:['Inquisition','Persecution']},
 };
 
+// Pass 11: Cairo Geniza fragments from the Princeton Geniza Project open data (pile built by the Action)
+let PGP;function pgpGeniza(k){return async o=>{PGP??=await JJ('finds/geniza_pgp.json?'+Math.floor(Date.now()/6e5)).catch(()=>[]);
+  const re=o.kw?new RegExp(o.kw.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'i'):null;
+  const L=sh(PGP.filter(x=>!re||re.test(x.desc+' '+x.tags+' '+x.type+' '+x.shelfmark+' '+x.lang)));
+  return L.slice(0,30).map(x=>{const v=x.cudl?'https://cudl.lib.cam.ac.uk/view/'+x.iiif.split('/').pop():'';return {module:k,source:'Princeton Geniza Project',title:(x.shelfmark+' · '+(x.type||'fragment')).trim(),date:x.date,dateLabel:'dated',count:null,countLabel:'',thumb:'',kind:'link',src:'',url:v||x.url,preview:x.desc,query:'pgp-metadata documents.csv',extra:[x.lang,x.tags,x.library==='CUL'?'Cambridge T-S':x.library,v?'PGP record: '+x.url:''].filter(Boolean).join(' · ')}})}}
+
 const out={};
 for(const [k,t] of Object.entries(T)){
   const s={dead:{name:'Dead text shelves',f:deadShelf(t,k),note:'Wiretap gopher library and Penn CCAT gopher religion shelves (Wayback captures), filtered to this theme.'},ia:{name:'Deep mine',f:theoIA(t,k),note:'Random upload window, downloads ≤5, undescribed first; theme is only a loose label filter.'},pile:{name:'Zero-download pile',f:theoPile(k),note:'Random 0–1 download texts from a random month, bucket-labelled (this theme first, other theo buckets after).'},gray:{name:'Gray-space text',f:theoGray(k),note:'Pre-mined every 3h: Veronica-2 gopherspace search, Common Crawl text/plain on obscure TLDs, .txt inside open Index-of dirs. This bucket first.'}};
+  if(k==='geniza')s.pgp={name:'Princeton Geniza Project',f:pgpGeniza(k),note:'Open PGP metadata (CC BY 4.0): Cambridge Taylor-Schechter and other fragments, most never published in English. Links to the CUDL page images where they exist.'};
   if(t.ol.length)s.openlib={name:'Open Library',f:theoOL(t,k),note:'Open Library subject queries.'};
   if(t.gut.length)s.gutenberg={name:'Gutenberg',f:theoGut(t,k),note:'Gutendex topic (subjects/bookshelves) search.'};
   out[k]={half:'theo',name:t.name,icon:t.icon,blurb:t.blurb,sources:s};

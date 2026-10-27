@@ -39,4 +39,18 @@ def theo_gut(per=2):
             if not j or not j.get("next"): break
     keep("pre_gutendex_theo",out,"id",cap=5000)
 
-if __name__=="__main__": run(); theo_gut()
+if __name__=="__main__": run(); theo_gut(); genizah()
+
+def genizah(n=3000):
+    """Pass 11: Princeton Geniza Project open metadata (CC BY 4.0, GitHub). Cambridge T-S fragments first; obscure, unflashy rows only."""
+    import csv,io,random,requests
+    csv.field_size_limit(10**9)
+    t=requests.get("https://raw.githubusercontent.com/princetongenizalab/pgp-metadata/main/data/documents.csv",timeout=180).text.lstrip("\ufeff")
+    R=[r for r in csv.DictReader(io.StringIO(t)) if (r.get("description") or "").strip()]
+    cam=[r for r in R if r.get("library")=="CUL"]; oth=[r for r in R if r.get("library")!="CUL"]
+    random.shuffle(cam); random.shuffle(oth); pick=cam[:int(n*.7)]+oth[:n-int(n*.7)]
+    out=[{"id":r["pgpid"],"url":r["url"],"shelfmark":r["shelfmark"],"type":r["type"],"tags":r["tags"],"desc":r["description"][:600],
+          "lang":r["languages_primary"],"date":(r["doc_date_standard"] or r["inferred_date_standard"] or "")[:10],"library":r["library"],
+          "iiif":(r["iiif_urls"] or "").split(";")[0].strip(),"cudl":"cudl.lib.cam.ac.uk" in (r["iiif_urls"] or "")} for r in pick]
+    json.dump(out,open(os.path.join(os.path.dirname(__file__),"..","finds","geniza_pgp.json"),"w"),ensure_ascii=False)
+    print("geniza_pgp",len(out))
