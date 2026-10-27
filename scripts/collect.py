@@ -128,8 +128,11 @@ for f, L in list(data.items()):
 # also load any on-disk finds not in this run
 for name in os.listdir("finds"):
     if name.endswith(".json") and name[:-5] not in data and name!="odbig.json":
-        try: all_items.extend(load(name[:-5]))
+        try:
+            d=load(name[:-5])
+            if isinstance(d,list): all_items.extend(x for x in d if isinstance(x,dict))
         except Exception: pass
+all_items=[x for x in all_items if isinstance(x,dict)]  # Pass 12: vidstate.json is a dict -> its keys crashed this line for 3 runs
 
 img_items = [x for x in all_items if x.get("kind") in ("img",) or (x.get("thumb") or "").endswith((".jpg",".jpeg",".gif",".png")) or "image" in (x.get("mime") or "")]
 try:
@@ -154,7 +157,8 @@ except Exception as e:
     print("timeskew error:", e)
 
 for f, L in data.items():
-    save(f, L)
+    try: save(f, L)
+    except Exception as e: print("save error:", f, e)
 print("done", {k: len(v) for k,v in data.items()})
 
 # Pass 6: worlds harvest (BLACK VAULT / XENO / VATICAN / Trench BBS + dead forums) — sources with no CORS or heavy rate limits

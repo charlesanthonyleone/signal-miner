@@ -8,7 +8,11 @@ def harvest(pages=4):
     except Exception: old=[]
     have={g["id"] for g in old}; new=[]
     for p in range(1,pages+1):
-        try: r=requests.get("https://api.github.com/gists/public",params={"per_page":100,"page":p},headers=H,timeout=30); r.raise_for_status()
+        try:
+            r=requests.get("https://api.github.com/gists/public",params={"per_page":100,"page":p},headers=H,timeout=30)
+            if r.status_code==403 and "Authorization" in H:  # Pass 12: the Actions token is not allowed on /gists -> retry anonymously
+                H.pop("Authorization"); r=requests.get("https://api.github.com/gists/public",params={"per_page":100,"page":p},headers=H,timeout=30)
+            r.raise_for_status()
         except Exception as e: print("gists",p,e); break
         for g in r.json():
             fs={k:{x:v.get(x) for x in ("filename","type","language","size","raw_url")} for k,v in (g.get("files") or {}).items()}
