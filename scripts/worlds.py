@@ -173,6 +173,10 @@ WBSPEC={
  "geipan":[("www.cnes-geipan.fr/index.php","2008","2016",r"cas|tt_news|id=",r"(no_cache=1&L=1|print|rss)"),("www.geipan.fr/index.php","2008","2016",r"tt_news|cas|id=",r"(print|rss)")],
  "area51":[("www.geocities.com/Area51/","1996","2009",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult)")],
  "religtext":[("wiretap.area.com/Gopher/Library/Religion/","1997","2015",r"[^/]$",r"(\.(zip|gz|exe|gif|jpg)$|/sex|porn)"),("ccat.sas.upenn.edu/gopher/text/religion/","1996","2012",r"[^/]$",r"(\.(zip|gz|exe|gif|jpg)$|betacode|fonts)")],
+ "silicon":[("www.geocities.com/SiliconValley/","1996","2009",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult|nude|erotic|porn|naked|fetish|hentai|bikini|babe|hot ?girl|escort|18plus|playboy|lingerie)")],
+ "soho":[("www.geocities.com/SoHo/","1996","2009",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult|nude|erotic|porn|naked|fetish|hentai|bikini|babe|hot ?girl|escort|18plus|playboy|lingerie)")],
+ "tripod":[("members.tripod.com/","1997","2004",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult|nude|erotic|porn|naked|fetish|hentai|bikini|babe|hot ?girl|escort|18plus|playboy|lingerie)")],
+ "angelfire":[("www.angelfire.com/","1997","2004",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult|nude|erotic|porn|naked|fetish|hentai|bikini|babe|hot ?girl|escort|18plus|playboy|lingerie)")],
  "athens":[("www.geocities.com/Athens/","1996","2009",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult|nude|erotic|porn)")],
  "cape":[("www.geocities.com/CapeCanaveral/","1996","2009",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult|nude|erotic|porn)")],
  "heartland":[("www.geocities.com/Heartland/","1996","2009",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult|nude|erotic|porn)")],
@@ -210,11 +214,12 @@ def wb(keys=None,limit=4000):
             for x in r:
                 ts,orig=x[1],x[2]
                 if not re.search(keep,orig) or re.search(drop,orig,re.I): continue
-                new.append({"source":{"fbivault":"FBI Vault (Wayback copy)","muckrock":"MuckRock (Wayback copy)","geipan":"GEIPAN (Wayback copy)","area51":"GeoCities Area51 (Wayback)","religtext":"Dead religion text archive (Wayback)","athens":"GeoCities Athens (Wayback)","cape":"GeoCities CapeCanaveral (Wayback)","heartland":"GeoCities Heartland (Wayback)","pentagon":"GeoCities Pentagon (Wayback)"}[key],
+                new.append({"source":{"fbivault":"FBI Vault (Wayback copy)","muckrock":"MuckRock (Wayback copy)","geipan":"GEIPAN (Wayback copy)","area51":"GeoCities Area51 (Wayback)","religtext":"Dead religion text archive (Wayback)","silicon":"GeoCities SiliconValley (Wayback)","soho":"GeoCities SoHo (Wayback)","tripod":"Tripod (Wayback)","angelfire":"Angelfire (Wayback)","athens":"GeoCities Athens (Wayback)","cape":"GeoCities CapeCanaveral (Wayback)","heartland":"GeoCities Heartland (Wayback)","pentagon":"GeoCities Pentagon (Wayback)"}[key],
                   "title":_slug(orig),"date":f"{ts[:4]}-{ts[4:6]}-{ts[6:8]}","url":f"https://web.archive.org/web/{ts}/{orig}","orig":orig,"query":f"Wayback CDX {pre} {a}–{b}, random draw"})
                 if len(new)>=600: break
             time.sleep(2)
         if key!="fbivault": new=_titles(new)
+        new=[x for x in new if not BAD.search(x.get("title","")+" "+x.get("preview","")+" "+x.get("orig",""))]  # Pass 9: adult pre-screen on harvested pages
         out[key]=save(f"finds/wb_{key}.json",old,new,5000)
     return out
 

@@ -142,5 +142,11 @@ gwb('wb_athens.json','th_athens','GeoCities Athens (Wayback)','theo','ATHENS HOM
 gwb('wb_cape.json','in_cape','GeoCities CapeCanaveral (Wayback)','invento','CAPE CANAVERAL HOMEPAGES','🚀','Dead GeoCities "CapeCanaveral" neighbourhood (science and tech, 1996–2009): garage inventions, home rocketry, amateur physics.');
 gwb('wb_heartland.json','rel_heartland','GeoCities Heartland (Wayback)','reliquary','HEARTLAND HOMEPAGES','🏡','Dead GeoCities "Heartland" neighbourhood (family, hometowns, genealogy, 1996–2009): family trees and small-town pages nobody remembers.');
 gwb('wb_pentagon.json','rel_pentagon','GeoCities Pentagon (Wayback)','reliquary','PENTAGON HOMEPAGES','🎖','Dead GeoCities "Pentagon" neighbourhood (military, veterans, 1996–2009): unit histories, veterans\' memoirs, lost reunion pages.');
+gwb('wb_silicon.json','in_silicon','GeoCities SiliconValley (Wayback)','invento','SILICON VALLEY HOMEPAGES','💾','Dead GeoCities "SiliconValley" neighbourhood (computing, 1996–2009): homebrew software, hardware hacks, BBS-era how-tos.');
+gwb('wb_soho.json','rel_soho','GeoCities SoHo (Wayback)','reliquary','SOHO HOMEPAGES','🖋','Dead GeoCities "SoHo" neighbourhood (writers and artists, 1996–2009): lost poetry, zines and unpublished stories.');
+gwb('wb_tripod.json','tr_tripod','Tripod (Wayback)','trench','TRIPOD MEMBERS','🗿','members.tripod.com personal pages (1997–2004) as Wayback captures: grayspace, unvetted.');
+gwb('wb_angelfire.json','tr_angelfire','Angelfire (Wayback)','trench','ANGELFIRE','🔥','Angelfire personal pages (1997–2004) as Wayback captures: grayspace, unvetted.');
+gwb('wb_religtext.json','th_religtext','Dead religion text archive (Wayback)','theo','DEAD TEXT SHELVES','📚','The religion shelves of two dead text archives, the Wiretap gopher library and Penn CCAT\'s gopher, as Wayback captures: plain-text scriptures, apocrypha and FAQs.');
+G.RELTEXT=()=>cache('wb_religtext.json');
 G.WORLD_MODULES=out;
 })(typeof window!=='undefined'?window:globalThis);

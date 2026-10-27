@@ -24,6 +24,11 @@ async function iaDeep(q,pages=3){
 // theme module: loose theme words, but only near-zero downloads, random upload window; prefer undescribed
 // Pass 8: drop self-help, podcast-track, listicle and marketing uploads that carry religious subject tags
 const TNZ=/^\S{1,14}$|podcast|episode|\bep\.? ?\d|^\d+\s*[.\-]\s|\btrack \d|law of attraction|manifesting|self.?help|motivat|coaching|\b\d+ (ways|tips|reasons|secrets|miraculous)\b|consciousness|lineages|webinar|mp3|audiobook sample|\bvlog\b/i;
+// Pass 9: grayspace plain-text from dead religion archives, themed
+function deadShelf(t,k){return async o=>{const L=window.RELTEXT?await window.RELTEXT():[];const re=o.kw?new RegExp(o.kw.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'i'):t.re;
+  const hit=sh(L.filter(x=>re.test((x.title||'')+' '+(x.orig||'')+' '+(x.preview||'').slice(0,300))));
+  if(!hit.length)throw new Error('No dead-shelf text on this theme yet (the Action grows the pile each run).');
+  return hit.slice(0,24).map(x=>({module:k,source:'Dead text archive (Wayback)',title:(x.title||'').replace(/\s*\/\s*/g,' / '),date:x.date,dateLabel:'captured',count:null,countLabel:'',thumb:'',kind:'link',src:'',url:x.url,preview:x.preview||'',query:'Wiretap + CCAT gopher religion shelves',extra:'grayspace · unvetted plain text · original: '+(x.orig||'')}))}}
 function theoIA(T0,module){return async o=>{
   const words=o.kw?[o.kw]:[...new Set(T0.ia.flat())];const grp=sh(words).slice(0,14).join(' OR ');
   const phr=words.filter(w=>w.startsWith('"'));const tq=phr.length?` OR title:(${sh(phr).slice(0,10).join(' OR ')})`:'';
@@ -157,7 +162,7 @@ const T={
 
 const out={};
 for(const [k,t] of Object.entries(T)){
-  const s={ia:{name:'Deep mine',f:theoIA(t,k),note:'Random upload window, downloads ≤5, undescribed first; theme is only a loose label filter.'},pile:{name:'Zero-download pile',f:theoPile(k),note:'Random 0–1 download texts from a random month, bucket-labelled (this theme first, other theo buckets after).'},gray:{name:'Gray-space text',f:theoGray(k),note:'Pre-mined every 3h: Veronica-2 gopherspace search, Common Crawl text/plain on obscure TLDs, .txt inside open Index-of dirs. This bucket first.'}};
+  const s={dead:{name:'Dead text shelves',f:deadShelf(t,k),note:'Wiretap gopher library and Penn CCAT gopher religion shelves (Wayback captures), filtered to this theme.'},ia:{name:'Deep mine',f:theoIA(t,k),note:'Random upload window, downloads ≤5, undescribed first; theme is only a loose label filter.'},pile:{name:'Zero-download pile',f:theoPile(k),note:'Random 0–1 download texts from a random month, bucket-labelled (this theme first, other theo buckets after).'},gray:{name:'Gray-space text',f:theoGray(k),note:'Pre-mined every 3h: Veronica-2 gopherspace search, Common Crawl text/plain on obscure TLDs, .txt inside open Index-of dirs. This bucket first.'}};
   if(t.ol.length)s.openlib={name:'Open Library',f:theoOL(t,k),note:'Open Library subject queries.'};
   if(t.gut.length)s.gutenberg={name:'Gutenberg',f:theoGut(t,k),note:'Gutendex topic (subjects/bookshelves) search.'};
   out[k]={half:'theo',name:t.name,icon:t.icon,blurb:t.blurb,sources:s};
