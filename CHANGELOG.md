@@ -34,6 +34,16 @@ In the browser, `net.js` gives every fetch a timeout, a 15-minute cache for slow
 - Open-directory discovery through Bing finds few new hosts. Growth comes mostly from curated mirrors.
 - The Vault is per-browser (localStorage). Share links encode the find in the URL.
 
+## Pass 9 (2026-10-27)
+- Fixed: Wikimedia Commons (video, image and audio) returned 0 and Dailymotion returned HTTP 400 whenever a mine ran without a year range. Both now get a default range (1995 to the current year).
+- Pre-harvest: new `scripts/preharvest.py` (run by the Action) stores raw Gutendex, Open Library and Openverse results in `finds/pre_*.json`. If the live API takes more than 12 s, the site falls back to that stored pile. This covers the Live Book/Image/Audio sources and Theo's Gutenberg source.
+- Theo: new **Dead Text Shelves** module built from the religion shelves of two dead text archives, the Wiretap gopher library and Penn CCAT's gopher, as Wayback captures. Every Theo topic also gains a themed "Dead text shelves" source from that pile.
+- Vatican Secret Stacks: verified shelfmarks grew from 233 to 450.
+- New dead-site modules: **Silicon Valley Homepages** (Invento), **SoHo Homepages** (Reliquary), **Tripod Members** and **Angelfire** (Trench, grayspace).
+- Action: Wayback CDX calls back off and retry on 429/50x errors and connection resets. Each run harvests 4 rotating Wayback sites so the 15-minute budget holds. Every Wayback harvest is now checked against the adult blocklist (BAD) before it is saved.
+- UI: Live gets an on-air pulse and scanlines, Theo a candle glow, Invento a blueprint grid, Reliquary a sepia vignette. Motion is off under prefers-reduced-motion.
+- Safety layer unchanged on every new module.
+
 ## Pass 8 (2026-10-27)
 - New modules on the four pages Pass 7 skipped:
   - **LIVE · Solar Wire**: live NOAA space-weather alerts, plus active National Weather Service alerts with the 24 most common types removed so only rare events show.
