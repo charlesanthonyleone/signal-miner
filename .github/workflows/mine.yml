@@ -15,8 +15,12 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install -q requests yt-dlp Pillow
       - run: python -u scripts/collect.py
+        # Pass 12: cap the harvest so the commit step always gets to run inside the 60-min job limit
+        timeout-minutes: 50
+        continue-on-error: true
         env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
-      - run: |
+      - if: always()
+        run: |
           git config user.name "miner-bot"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add finds; git diff --cached --quiet && exit 0
           git commit -m "mining log: $(date -u +%FT%TZ)"
