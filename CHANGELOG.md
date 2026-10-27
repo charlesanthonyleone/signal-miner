@@ -34,6 +34,30 @@ In the browser, `net.js` gives every fetch a timeout, a 15-minute cache for slow
 - Open-directory discovery through Bing finds few new hosts. Growth comes mostly from curated mirrors.
 - The Vault is per-browser (localStorage). Share links encode the find in the URL.
 
+## Pass 13
+
+- **Pass 12 log written** (was missing from CHANGELOG).
+- **New grayspace modules: one per page** (Wayback CDX harvests of long-dead hosts via `scripts/worlds.py`, adult-screened at harvest + `SAFE.filter` at render, bucket-tagged):
+  - TRENCH: `tr_xoom` XOOM MEMBERS 🌀 (82 dead members.xoom.com pages, 1997–2001; one blocklist hit removed by hand)
+  - THEO: `th_acropolis` ACROPOLIS, PARTHENON & FORUM 🏺 (18 + merged Athens pile, theme-cut)
+  - INVENTO: `in_padrak` NEW ENERGY JOURNAL 🔋 (62 padrak.com free-energy pages)
+  - BLACK VAULT: `g_memoryhole` THE MEMORY HOLE 🕳 (thememoryhole.org FOIA releases; harvest hit Wayback SSL EOF this pass, the 3h Action fills it)
+  - XENO: `x_ufoupdates` UFO UPDATES LIST 📨 (121 virtuallystrange.net list posts)
+  - VATICAN: `v_christusrex` CHRISTUS REX 🗝 (139 christusrex.org www1 pages)
+  - RELIQUARY: `rel_ghostweb` GHOST-TOWN WIRE 🏚 (35 ghosttowns.com / treasurenet pages) + new `ghost` tab on `rel_yosemite`
+  - LIVE: `l_deadair` DEAD AIR 📻: zero/near-zero-click internet radio stations from radio-browser.info (random offset dig, https only, adult names dropped, audio gated)
+- **Fixes / noise cuts**
+  - RELIQUARY leads: treasure regex word-bounded (`treasurer`/bicycle-club junk gone); leads now merge Yosemite + ghost-town piles
+  - FRESH PIT: spam filter extended (warez bypass/activator/generator, airline/"customer care number" SEO spam)
+  - `themed()` floor 6→3, redraws 4→5; new `themed2()` applied to Athens, Acropolis and all new page-themed piles
+  - Ghost towns / lost mines now bucket as TREASURE (no longer FOLKLORE via "ghost")
+  - Theo dead shelves: RELTEXT now also reads the Athens/Acropolis piles; religtext3 regrown 81→268
+- **UI**
+  - `◆ UNTOUCHED` badge + glow on finds with zero downloads/views/plays
+  - Hero: drifting ore-dust canvas, glitch title, pulsing DIG ANYWHERE, sonar scan ring, 3D hub tilt, page fade-in; all off under prefers-reduced-motion
+- **Sweep**: 299 sources local, 10 empty (mostly transient USPTO/Gutenberg/news timeouts); Theo `mystery`/`suppressed` dead shelves still empty (no matching text in the piles yet), several theo gray tabs thin. No JS errors.
+- Safety layer unchanged and on every new module (media gate, blocklist, report & hide, moderation.html with NCMEC/FBI/IC3). TRENCH still grayspace-only.
+
 ## Pass 12 (2026-10-27)
 
 - **New grayspace modules, one per page** (dead hosts as Wayback captures, pre-harvested by the Action, pre-screened with the adult blocklist):
