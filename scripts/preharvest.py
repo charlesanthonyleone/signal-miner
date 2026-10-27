@@ -1,7 +1,7 @@
 """Pass 9: pre-harvest slow public APIs (Gutendex, Open Library, Openverse) so the site can fall back to a cached pile when they time out."""
 import json, random, requests, os, time
 UA={"User-Agent":"signal-miner/1.0 (github.com/charlesanthonyleone/signal-miner)"}
-W="lantern harbor orchard mill lighthouse quarry ferry canal railway telegraph almanac sermon diary letters ballad river forest winter garden island village chapel market bridge school".split()
+W="lantern harbor orchard mill lighthouse quarry ferry canal railway telegraph almanac diary letters ballad river forest winter garden island village market bridge school postcard tram signage mural ruin attic barn kiln loom tannery foundry dam aqueduct observatory greenhouse shipwreck tidepool glacier fungus lichen moth beetle fossil cave dune marsh fog storm frost harvest bakery laundromat arcade diner motel billboard neon carousel puppet kite typewriter radio jukebox gramophone map globe blueprint sketch woodcut engraving etching mosaic tapestry quilt pottery basket lace embroidery stamp coin ticket poster label matchbox toy doll mask lantern".split()
 def get(u,p,tries=2):
     for i in range(tries):
         try:
