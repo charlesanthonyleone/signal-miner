@@ -172,7 +172,7 @@ const TREAS=/treasure|lost (mine|gold|cabin|cache|city|ledge|lode)|buried|gold ?
 out.rel_yosemite.sources.leads={name:'Treasure leads only',f:cached('wb_yosemite.json','rel_yosemite',wbMap('GeoCities Yosemite'),x=>TREAS.test((x.title||'')+' '+(x.preview||'')+' '+(x.orig||'')),30),note:'Same pile, only pages whose title, text or path mention treasure, lost mines, ghost towns, outlaws or maps.'};
 // LIVE: things uploaded in the last 72 hours that nobody has opened yet (gated: fresh uploads are unmoderated)
 const JUNK=/^(untitled|new (recording|document|video|project)|img[_ -]?\d|dsc[_ -]?\d|vid[_ -]?\d|mvi[_ -]?\d|pxl[_ -]?\d|scan|document|test|video|audio|recording|file|doc)\b|^[\w-]{1,14}$|^\d[\d _-]+$/i;
-const FSPAM=/\b(seo|casino|betting|slots?|review|services?|agency|buy|cheap|best|top \d+|loan|crypto|bitcoin|forex|keto|cbd|essay|apk|mod|hack|cheats?|followers|coupon|promo|discount|price|for sale|rent(al)?|repair|cleaning|plumb\w*|dentist|lawyer|attorney|marketing|guide to|how to|tips|online|free download|pdf download|ebook download|torrent|crack|keygen|serial|login|official site|near me|company|solutions?|benefits|features)\b/i;
+const FSPAM=/\b(seo|casino|betting|slots?|review|services?|agency|buy|cheap|best|top \d+|loan|crypto|bitcoin|forex|keto|cbd|essay|apk|mod|hack|cheats?|followers|coupon|promo|discount|price|for sale|rent(al)?|repair|cleaning|plumb\w*|dentist|lawyer|attorney|marketing|guide to|how to|tips|online|free download|pdf download|ebook download|torrent|crack|keygen|serial|bypass|activator|flights?|airlines?|airways|expedia|booking|helpline|hotline|customer (care|service|support)|(phone|contact|support) number|refund|cancell?ation|reservations?|travel agent|unlocker|generator|injector|exploit|spoofer|aimbot|login|official site|near me|company|solutions?|benefits|features)\b/i;
 out.l_fresh={half:'live',name:'FRESH PIT',icon:'🕳',blurb:'Uploaded in the last 72 hours and opened by nobody yet: untitled, junk-named, zero-download items, straight off the conveyor belt. Media stays gated.',sources:{
   ia:{name:'Internet Archive · 0 downloads',f:async o=>{const d=new Date(),a=new Date(d-3*864e5).toISOString().slice(0,10),b=d.toISOString().slice(0,10);
     const mt=o.kw?'(texts OR audio OR movies OR image)':pk(['texts','audio','movies','image','texts']);
@@ -193,11 +193,40 @@ out.l_fresh={half:'live',name:'FRESH PIT',icon:'🕳',blurb:'Uploaded in the las
     note:'Up to 2,000 random Commons files per dig, keeping only camera-default or untitled filenames (IMG_, DSC, PXL_, VID_, GOPR…). Media gated, blurred until clicked.'}}};
 // Pass 12 off-theme cut: themed pages keep only finds whose title/text hits that page's buckets (app.js bucketsOf); falls back to the raw draw if <6 hit.
 const themed=(m,want)=>{const f0=m.sources.wb.f;m.sources.wb.f=async o=>{const first=await f0(o);if(o.kw||typeof G.bucketsOf!=='function')return first;const seen=new Set(),keep=[];
-  for(let i=0;i<4&&keep.length<30;i++){const r=i?await f0(o):first;for(const x of r){const k2=(x.title||"").toLowerCase();if(seen.has(x.url)||seen.has(k2))continue;seen.add(x.url);seen.add(k2);if(G.bucketsOf(x).some(b=>want.test(b)))keep.push(x)}}
-  return keep.length>=6?keep.slice(0,30):first}};
+  for(let i=0;i<5&&keep.length<30;i++){const r=i?await f0(o):first;for(const x of r){const k2=(x.title||"").toLowerCase();if(seen.has(x.url)||seen.has(k2))continue;seen.add(x.url);seen.add(k2);if(G.bucketsOf(x).some(b=>want.test(b)))keep.push(x)}}
+  return keep.length>=3?keep.slice(0,30):first}};
 themed(out.th_styx,/AFTERLIFE|MYSTERY|SCRIPTURE|OCCULT|SUPPRESSED|ANCIENT|FOLKLORE|VATICAN/);themed(out.in_keely,/INVENTION|FRINGE|MILITARY/);
 themed(out.g_parascope,/GOV|UFO|FRINGE|MILITARY|CIPHER/);themed(out.x_ufomind,/UFO|FRINGE|GOV|MILITARY/);themed(out.v_cin,/VATICAN|SCRIPTURE|SUPPRESSED|AFTERLIFE|CONFESSION|MYSTERY/);
 themed(out.rel_yosemite,/TREASURE|FOLKLORE|SHIPWRECK|CIPHER|ANCIENT|TIME CAPSULE|CONFESSION/);
-G.RELTEXT=async()=>{const p=await Promise.all(['wb_religtext.json','wb_ccatbib.json','wb_religtext2.json','wb_religtext3.json'].map(f=>cache(f).catch(()=>[])));return p.flat()};
+
+/* ---- Pass 13: one new dead-host module per page + LIVE dead-air radio ---- */
+gwb('wb_xoom.json','tr_xoom','Xoom members (Wayback)','trench','XOOM MEMBERS','🌀','members.xoom.com personal pages 1997–2001, the free host NBC bought and buried: shrines, family pages, untitled test pages. Grayspace, unvetted.');
+gwb('wb_acropolis.json','th_acropolis','GeoCities Athens suburbs (Wayback)','theo','ACROPOLIS, PARTHENON & FORUM','🏺','Dead GeoCities Athens suburbs (Acropolis, Parthenon, Forum; 1996–2009): hand-typed Bible studies, pagan reconstruction, sermon notes and philosophy pages nobody linked.');
+gwb('wb_padrak.json','in_padrak','Padrak / Institute for New Energy (Wayback)','invento','NEW ENERGY JOURNAL','🔋','Dead Padrak.com mirror of the Institute for New Energy journals and inventor databases (1997–2012): cold fusion, overunity motors, inventor bios. Unvetted claims; read as history.');
+gwb('wb_memoryhole.json','g_memoryhole','The Memory Hole (Wayback)','redacted','THE MEMORY HOLE','🕳','Russ Kick\'s The Memory Hole (2002–2009): FOIA-released documents, pulled government pages and released reports, mined from dead captures. Random page, never the famous scoops first.');
+gwb('wb_ufoupdates.json','x_ufoupdates','UFO UpDates list (Wayback)','xeno','UFO UPDATES LIST','📨','The UFO UpDates mailing list (1996–2009) as archived posts: random single messages from field investigators, skeptics and witnesses. Unvetted.');
+gwb('wb_christusrex.json','v_christusrex','Christus Rex (Wayback)','vatican','CHRISTUS REX','🗝','Christus Rex (1996–2010), the dead volunteer site that photographed the Vatican Museums, Sistine Chapel and Roman churches room by room, plus its daily Camino bulletins. Images stay gated.');
+gwb('wb_ghosttowns.json','rel_ghostweb','Ghost-town & treasure pages (Wayback)','reliquary','GHOST-TOWN WIRE','🏚','1997–2006 captures of ghosttowns.com town pages and the old TreasureNet lore pages: abandoned camps, lost-mine rumours and who-buried-what notes nobody re-checked.');
+// Pass 13: tighter treasure-lead regex (no bare cave/hidden/maps) and a ghost-town tab on Lost Mines
+const TREAS2=/treasure|lost (mine|gold|cabin|cache|city|ledge|lode|silver)|buried|gold ?(rush|camp|mine|nugget|coins?)|prospect(or|ing)|ghost ?town|outlaw|bandit|stagecoach|treasure maps?|relic hunt|metal detect|old mine|mining (camp|claim|town)|abandoned mine|hoard|cache of/i;
+out.rel_yosemite.sources.leads.f=cached('wb_yosemite.json','rel_yosemite',wbMap('GeoCities Yosemite'),x=>TREAS2.test((x.title||'')+' '+(x.preview||'')+' '+(x.orig||'')),30);
+out.rel_yosemite.sources.ghost={name:'Ghost-town wire',f:cached('wb_ghosttowns.json','rel_yosemite',wbMap('Ghost-town pages'),()=>true,30),note:'Shared pile with GHOST-TOWN WIRE: dead ghost-town and treasure-lore pages.'};
+// LIVE: radio streams nobody has ever clicked (radio-browser.info community directory, clickcount 0)
+const RADULT=/\b(sex|xxx|adult|erotic|porn|nsfw|18\+|hot ?girls?|nude|strip)\b/i;
+out.l_deadair={half:'live',name:'DEAD AIR',icon:'📻',blurb:'Live internet radio streams that nobody has ever clicked: zero-click stations from the community radio directory, random offset each dig. Streams stay behind the media gate.',sources:{
+  zero:{name:'Zero-click stations',f:async o=>{let L=[];for(let i=0;i<3&&L.length<12;i++){const off=Math.floor(Math.random()*30000);
+    const u='https://de1.api.radio-browser.info/json/stations/search?'+new URLSearchParams({order:'clickcount',reverse:'false',limit:300,offset:off,hidebroken:'true',...(o.kw?{name:o.kw}:{})});
+    const j=await (await fetch(u)).json();L=L.concat(j.filter(s=>s.clickcount<=(o.raw?0:3)&&/^https:/.test(s.url_resolved||'')&&!RADULT.test(s.name+' '+s.tags)).map(s=>({...s,_off:off})))}
+    return sh(L).slice(0,30).map(s=>({module:'l_deadair',source:'radio-browser.info',title:s.name.trim()||'(unnamed station)',date:(s.lastchangetime||'').slice(0,10),dateLabel:'listed',count:s.clickcount,countLabel:'clicks',thumb:'',gated:true,kind:'audio',src:s.url_resolved,url:s.homepage||s.url_resolved,
+      preview:`${s.tags||'no tags'} · ${s.country||'?'}${s.state?' / '+s.state:''} · ${s.language||'language n/a'}`,query:`stations by clickcount asc, offset ${s._off}`,extra:`${s.codec||'?'} ${s.bitrate||'?'} kbps · votes ${s.votes} · last check ${s.lastcheckok?'OK':'failed'}`}))},
+    note:'radio-browser.info public API (no key). "raw" keeps 0-click stations only; https streams only so they play on this page. Audio is gated: nothing plays until you click.'}}};
+// Pass 13: themed() keeps as few as 3 on-theme finds instead of falling back to the off-theme raw draw
+const themed2=(m,want)=>{const f0=m.sources.wb.f;m.sources.wb.f=async o=>{const first=await f0(o);if(o.kw||typeof G.bucketsOf!=='function')return first;const seen=new Set(),keep=[];
+  for(let i=0;i<5&&keep.length<30;i++){const r=i?await f0(o):first;for(const x of r){const k2=(x.title||"").toLowerCase();if(seen.has(x.url)||seen.has(k2))continue;seen.add(x.url);seen.add(k2);if(G.bucketsOf(x).some(b=>want.test(b)))keep.push(x)}}
+  return keep.length>=3?keep.slice(0,30):first}};
+themed2(out.th_acropolis,/AFTERLIFE|MYSTERY|SCRIPTURE|OCCULT|SUPPRESSED|ANCIENT|FOLKLORE|VATICAN/);themed2(out.in_padrak,/INVENTION|FRINGE|MILITARY/);
+themed2(out.g_memoryhole,/GOV|MILITARY|UFO|CIPHER|SUPPRESSED/);themed2(out.x_ufoupdates,/UFO|FRINGE|GOV|MILITARY/);themed2(out.v_christusrex,/VATICAN|SCRIPTURE|SUPPRESSED|AFTERLIFE|CONFESSION|MYSTERY|ANCIENT/);
+themed2(out.rel_ghostweb,/TREASURE|FOLKLORE|SHIPWRECK|CIPHER|ANCIENT|TIME CAPSULE|CONFESSION|MILITARY/);
+G.RELTEXT=async()=>{const p=await Promise.all(['wb_religtext.json','wb_ccatbib.json','wb_religtext2.json','wb_religtext3.json','wb_acropolis.json','wb_athens.json'].map(f=>cache(f).catch(()=>[])));return p.flat()};
 G.WORLD_MODULES=out;
 })(typeof window!=='undefined'?window:globalThis);

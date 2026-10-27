@@ -291,19 +291,27 @@ function subnav(){const h=state.half;if(!h||state.m==='vault'||state.m==='report
   $('#subnav').innerHTML=halfMods(h).map(([k,m])=>`<button class="${state.m===k?'on':''}" onclick="location.hash='${h}/${k}'">${m.icon} ${m.name}</button>`).join('')}
 
 function home(){$('main').innerHTML=`<div class="depth-gauge"><span>LIVE</span><i></i><span>TRENCH</span><i></i><span>THEO</span><i></i><span>INVENTO</span><i></i><span>RELIQUARY</span><i></i><span>BLACK VAULT</span><i></i><span>XENO</span><i></i><span>VATICAN</span></div>
- <div class="hero"><h1>SIGNAL MINER</h1><p>${Object.keys(MODULES).length} modules · ${Object.values(MODULES).reduce((n,m)=>n+Object.keys(m.sources).length,0)} sources · 8 strata of the forgotten web. Every find is pre-screened; media stays behind a click-through.</p>
+ <div class="hero"><canvas id="ore" aria-hidden="true"></canvas><h1 data-t="SIGNAL MINER">SIGNAL MINER</h1><p>${Object.keys(MODULES).length} modules · ${Object.values(MODULES).reduce((n,m)=>n+Object.keys(m.sources).length,0)} sources · 8 strata of the forgotten web. Every find is pre-screened; media stays behind a click-through.</p>
  <button class="go big" onclick="digAnywhere()">⛏ DIG ANYWHERE</button></div>
  <div class="hub">
-  <a class="hubcard" href="#redacted" style="border-color:#c22"><div class="ico">⬛</div><h3>THE BLACK VAULT</h3><p>Released government files — CIA CREST, UK MoD, FOIA dumps, dead ParaScope dossiers. UAP, MKULTRA, Stargate, Cold War, unexplained deaths, weather experiments.</p></a>
-  <a class="hubcard" href="#xeno" style="border-color:#3f9"><div class="ico">🛸</div><h3>XENO</h3><p>Raw sighting logs, Blue Book scans, foreign UFO desks, 1896 airship clippings, saucer patents, 90s ufology text, the lost UFO Mind / CUFON archive.</p></a>
-  <a class="hubcard" href="#vatican" style="border-color:#eb4"><div class="ico">⛪</div><h3>VATICAN</h3><p>Random codices pulled from the Vatican Library stacks, buried papal bulls, inquisition, exorcism, the Index, 1990s Catholic Info Network mailing lists.</p></a>
-  <a class="hubcard" href="#live" style="border-color:#1f5"><div class="ico">📡</div><h3>LIVE</h3><p>Surface web media — Archive, Commons, Dailymotion, Openverse, Met, Open Library, Gutenberg, YouTube &amp; Wayback, plus FRESH PIT: uploads from the last 72 h nobody has opened. Open a module, then mine.</p></a>
-  <a class="hubcard" href="#trench" style="border-color:#2cf"><div class="ico sonar">≋</div><h3>TRENCH</h3><p>Deep public layers — open cameras, SatNOGS, chain graffiti, BGP, crawl, gopher, dead Tripod / Angelfire / AOL Hometown pages. Hardline non-curated. No Tor.</p></a>
-  <a class="hubcard" href="#theo" style="border-color:#d4a"><div class="ico">🕯</div><h3>THEO</h3><p>Forgotten theology &amp; cultures — manuscripts, apocrypha, Geniza, grimoires, dead languages, clay tablets, lost civs, dead gods, mystery cults, dead Olympus/Styx homepages. Public archives only.</p></a>
-  <a class="hubcard" href="#invento" style="border-color:#fa3"><div class="ico">⚙</div><h3>INVENTO</h3><p>Low-visibility USPTO filings — abandoned, expired, secret, war tech, weird & wild frontier patents seeded by real CPC codes, plus dead fringe-lab notebooks (KeelyNet, JLN Labs).</p></a>
-  <a class="hubcard" href="#reliquary" style="border-color:#c9a36b"><div class="ico">🗝</div><h3>THE RELIQUARY</h3><p>Leads no one has followed — buried maps, deathbed confessions, unsolved ciphers, shipwreck manifests, forgotten time capsules, lost-mine back-trail pages.</p></a>
+  <a class="hubcard" href="#redacted" style="border-color:#c22"><div class="ico">⬛</div><h3>THE BLACK VAULT</h3><p>Released government files — CIA CREST, UK MoD, FOIA dumps, dead ParaScope dossiers, The Memory Hole. UAP, MKULTRA, Stargate, Cold War, unexplained deaths, weather experiments.</p></a>
+  <a class="hubcard" href="#xeno" style="border-color:#3f9"><div class="ico">🛸</div><h3>XENO</h3><p>Raw sighting logs, Blue Book scans, foreign UFO desks, 1896 airship clippings, saucer patents, 90s ufology text, the lost UFO Mind / CUFON archive, single posts from the UFO UpDates list.</p></a>
+  <a class="hubcard" href="#vatican" style="border-color:#eb4"><div class="ico">⛪</div><h3>VATICAN</h3><p>Random codices pulled from the Vatican Library stacks, buried papal bulls, inquisition, exorcism, the Index, 1990s Catholic Info Network mailing lists, Christus Rex's room-by-room Vatican photos.</p></a>
+  <a class="hubcard" href="#live" style="border-color:#1f5"><div class="ico">📡</div><h3>LIVE</h3><p>Surface web media — Archive, Commons, Dailymotion, Openverse, Met, Open Library, Gutenberg, YouTube &amp; Wayback, plus FRESH PIT: uploads from the last 72 h nobody has opened, and DEAD AIR: radio streams with zero clicks. Open a module, then mine.</p></a>
+  <a class="hubcard" href="#trench" style="border-color:#2cf"><div class="ico sonar">≋</div><h3>TRENCH</h3><p>Deep public layers — open cameras, SatNOGS, chain graffiti, BGP, crawl, gopher, dead Tripod / Angelfire / AOL Hometown / Xoom pages. Hardline non-curated. No Tor.</p></a>
+  <a class="hubcard" href="#theo" style="border-color:#d4a"><div class="ico">🕯</div><h3>THEO</h3><p>Forgotten theology &amp; cultures — manuscripts, apocrypha, Geniza, grimoires, dead languages, clay tablets, lost civs, dead gods, mystery cults, dead Olympus/Styx and Acropolis homepages. Public archives only.</p></a>
+  <a class="hubcard" href="#invento" style="border-color:#fa3"><div class="ico">⚙</div><h3>INVENTO</h3><p>Low-visibility USPTO filings — abandoned, expired, secret, war tech, weird & wild frontier patents seeded by real CPC codes, plus dead fringe-lab notebooks (KeelyNet, JLN Labs, the New Energy journals).</p></a>
+  <a class="hubcard" href="#reliquary" style="border-color:#c9a36b"><div class="ico">🗝</div><h3>THE RELIQUARY</h3><p>Leads no one has followed — buried maps, deathbed confessions, unsolved ciphers, shipwreck manifests, forgotten time capsules, lost-mine back-trail pages, the ghost-town wire.</p></a>
  </div>`}
 
+// Pass 13: finds with zero downloads/views/clicks get an UNTOUCHED badge; home hero gets a drifting ore-dust field
+function untouched(x){return x.kind!=='meta'&&(x.count===0||x.count==='0')&&/download|view|click|play|listen|hit/i.test(x.countLabel||'')}
+let OREFX=0;function oreFX(){const c=document.getElementById('ore');if(!c||matchMedia('(prefers-reduced-motion: reduce)').matches)return;const g=c.getContext('2d'),id=++OREFX;
+ const P=Array.from({length:70},()=>({x:Math.random(),y:Math.random(),r:Math.random()*1.6+.3,v:Math.random()*.0009+.0002,h:[150,190,320,45][Math.floor(Math.random()*4)]}));
+ (function f(){if(id!==OREFX||!c.isConnected)return;const w=c.width=c.offsetWidth,h=c.height=c.offsetHeight;g.clearRect(0,0,w,h);
+  for(const p of P){p.y-=p.v;if(p.y<0){p.y=1;p.x=Math.random()}const a=.35+.35*Math.sin(Date.now()/600+p.x*20);g.fillStyle=`hsla(${p.h},90%,65%,${a})`;g.beginPath();g.arc(p.x*w,p.y*h,p.r,0,7);g.fill()}
+  if(!document.hidden)requestAnimationFrame(f);else setTimeout(()=>requestAnimationFrame(f),1000)})()}
+const _home13=home;home=function(){_home13();oreFX()};
 function digAnywhere(){const ks=Object.keys(MODULES).filter(k=>MODULES[k].half&&Object.keys(MODULES[k].sources).length),k=ks[Math.floor(Math.random()*ks.length)],ss=Object.keys(MODULES[k].sources);location.hash=`${MODULES[k].half}/${k}/${ss[Math.floor(Math.random()*ss.length)]}`}
 const HUBMETA={live:{title:'LIVE · module hub',a:'SURFACE',b:'BROADCAST',sub:'Pick a module, then generate finds inside it.'},
  trench:{title:'TRENCH · Mariana modules',a:'0 m',b:'10 994 m',sub:'Hardline random / unfiltered enumeration from public indexes. Safety filter (NSFW/blocklist) only. No scanning, no credentials, no Tor.'},
@@ -372,13 +380,13 @@ function bucketBar(sel,list){const c={};list.forEach(x=>bucketsOf(x).forEach(b=>
  const el=document.querySelector(sel+'-bk');if(!el)return;el.innerHTML=ks.length>1?`<button class="bk ${BFILTER?'':'on'}" onclick="BFILTER='';regrid('${sel}')">ALL ${list.length}</button>`+ks.map(([b,n])=>`<button class="bk ${BFILTER===b?'on':''}" onclick="BFILTER='${b}';regrid('${sel}')">${b} ${n}</button>`).join(''):''}
 const RAW={};function regrid(sel){grid(sel,RAW[sel]||[])}
 function grid(sel,list){
- list=SAFE.filter(list);RAW[sel]=list;bucketBar(sel,list);if(BFILTER&&list.some(x=>bucketsOf(x).includes(BFILTER)))list=list.filter(x=>bucketsOf(x).includes(BFILTER));else BFILTER='';$(sel).innerHTML=list.map((x,i)=>`<div class="card ${x.kind==='meta'?'meta':''}" style="animation-delay:${i*40}ms" onclick="openF('${sel}',${i})">
+ list=SAFE.filter(list);RAW[sel]=list;bucketBar(sel,list);if(BFILTER&&list.some(x=>bucketsOf(x).includes(BFILTER)))list=list.filter(x=>bucketsOf(x).includes(BFILTER));else BFILTER='';$(sel).innerHTML=list.map((x,i)=>`<div class="card ${x.kind==='meta'?'meta':''} ${untouched(x)?'virgin':''}" style="animation-delay:${i*40}ms" onclick="openF('${sel}',${i})">
  <button class="star rep" title="report" onclick="event.stopPropagation();report(LISTS['${sel}'][${i}])">⚑</button>
  <button class="star" onclick="event.stopPropagation();this.textContent=toggle(LISTS['${sel}'][${i}])?'★':'☆';topnav()">${V()[x.url]?'★':'☆'}</button>
  ${x.kind==='meta'?`<div class="thumb meta-thumb"><div class="depth">${esc(x.depth||'—')}</div><div class="fname">${esc(x.title)}</div><div class="ftype">${esc(x.mime||'file')}${x.count!=null?' · '+esc(x.count)+' '+(x.countLabel||''):''}</div></div>`
   :`<div class="thumb" style="${x.thumb&&SAFE.thumbOK(x.thumb,x)?`background-image:url('${esc(x.thumb)}')`:''}">${x.thumb&&SAFE.thumbOK(x.thumb,x)?'':(x.gated?'⚠':(x.kind==='cam'?'📷':MODULES[x.module]?.icon||'?'))}</div>`}
  <div class="meta"><div><span class="badge">${esc(x.source)}</span>${x.depth?`<span class="badge">${esc(x.depth)}</span>`:''}</div>
- <div class="t">${esc(x.title)}</div>
+ ${untouched(x)?'<span class="vbadge">◆ UNTOUCHED</span>':''}<div class="t">${esc(x.title)}</div>
  <div class="bks">${bucketsOf(x).map(b=>`<span class="bkc">${esc(b)}</span>`).join("")}</div>
  <div>${x.date?esc(x.dateLabel+' '+x.date):'date n/a'}${x.count!=null&&x.kind!=='meta'?' · '+esc(x.count)+' '+esc(x.countLabel):''}</div>
  ${x.preview?`<div class="prev">${esc(x.preview.slice(0,140))}</div>`:''}</div></div>`).join('');LISTS[sel]=list}
