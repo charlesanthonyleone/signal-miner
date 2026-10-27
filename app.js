@@ -216,9 +216,11 @@ const HIDE=()=>JSON.parse(localStorage.hide||'[]'),hideLocal=u=>{const h=new Set
 const hostOf=u=>{try{return new URL(u).hostname.replace(/^www\./,'')}catch{return ''}};
 const blocked=u=>BLOCK.has(u)||HIDE().includes(u)||[...BLOCK].some(b=>{const h=hostOf(b);return h&&(hostOf(u)===h||hostOf(u).endsWith('.'+h))});
 
+// Pass 7: off-theme noise seen in deep mines (games, fandom, homework, RTI petitions, marketing) — dropped on themed pages unless the user typed a keyword
+const OFFHALF=['theo','redacted','xeno','vatican'],OFFTHEME=/\b(sega|nintendo|playstation|xbox|minecraft|roblox|fortnite|pok[eé]mon|anime|fanfic|wattpad|podcast|webinar|homework|worksheet|panchayat|kerala|right to information|auto market|coupon|promo code|seo|crypto ?currency|nft|vampire household|vlog)\b/i;
 async function mineWithRetry(S,o,say=()=>{}){const steps=[{},{},{loose:1},{loose:1,raw:false},{loose:1,raw:false,y1:1900,y2:2026},{loose:1,raw:false,y1:1900,y2:2026}];
  let err='';for(let i=0;i<steps.length;i++){const q={...o,...steps[i]};if(i)say(`no hits, loosening filters (try ${i+1}/${steps.length})…`);
-  try{const r=SAFE.filter((await S.f(q)).filter(x=>!blocked(x.url)));if(r.length)return{res:r,err:'',note:i>=2?`[filters loosened] `:''}}catch(e){err=e.message;if(/timed out|rate limit|unreachable/i.test(err))break;await new Promise(r=>setTimeout(r,600))}}
+  try{const r=SAFE.filter((await S.f(q)).filter(x=>!blocked(x.url))).filter(x=>!(OFFHALF.includes(state.half)&&!o.kw&&OFFTHEME.test(x.title+' '+(x.preview||'').slice(0,200))));if(r.length)return{res:r,err:'',note:i>=2?`[filters loosened] `:''}}catch(e){err=e.message;if(/timed out|rate limit|unreachable/i.test(err))break;await new Promise(r=>setTimeout(r,600))}}
  return{res:[],err,note:''}}
 
 const V=()=>JSON.parse(localStorage.vault||'{}'),saveV=v=>localStorage.vault=JSON.stringify(v);
@@ -307,7 +309,7 @@ function hub(h){const mods=halfMods(h),meta=HUBMETA[h]||HUBMETA.live;
  $('main').innerHTML=`<div class="depth-gauge"><span>${meta.a}</span><i></i><span>${meta.b}</span></div>
  <h2>${meta.title}</h2>
  <p class="sub">${meta.sub}</p>
- <div class="hub">${mods.map(([k,m])=>`<a href="#${h}/${k}"><div class="ico">${m.icon}</div><h3>${m.name}</h3><p>${m.blurb||m.sub||''}</p></a>`).join('')}</div>`}
+ <div class="hub">${mods.map(([k,m])=>`<a href="#${h}/${k}"><div class="ico">${m.icon}</div><h3>${m.name}<span class=n>${Object.keys(m.sources).length} src</span></h3><p>${m.blurb||m.sub||''}</p></a>`).join('')}</div>`}
 
 function render(){document.body.className=(state.half||state.m||'home');topnav();subnav();
  if(state.m==='home'||(!state.half&&state.m!=='vault'&&state.m!=='report'))return home();

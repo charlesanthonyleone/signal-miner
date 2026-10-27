@@ -34,6 +34,14 @@ In the browser, `net.js` gives every fetch a timeout, a 15-minute cache for slow
 - Open-directory discovery through Bing finds few new hosts. Growth comes mostly from curated mirrors.
 - The Vault is per-browser (localStorage). Share links encode the find in the URL.
 
+## Pass 7 (2026-10-27)
+- Verified live: the Pass 6 filter fix (084ff2a), Reliquary Vanished People (24/19) and Ghost Towns (24/24).
+- Legal alternatives for blocked sites, built from Wayback CDX captures of public pages with titles pulled from each capture: **FBI Vault** (343 rows) and **MuckRock** (187) modules in Black Vault, **GEIPAN** (French UFO bureau, deduplicated) in Xeno, **GeoCities Area51** in Trench (grayspace) and as an Xeno source. Harvested by `worlds.wb()` in the Action.
+- Vatican Secret Stacks: `worlds.vatlib()` probes 25 fonds and keeps verified IIIF shelfmarks (`finds/vatlib.json`, 233 to start, grows each run). `digi` draws from that list first, so it no longer depends on random probes.
+- Noise: stricter TNA patterns for psy/odd/weather, more junk terms dropped (Holy Ghost schools, criminal records), FOIA query excludes RTI/panchayat items. New global off-theme filter on Theo/Black Vault/Xeno/Vatican drops games, fandom, homework and marketing items unless you typed a keyword.
+- UI: cards fade in, hub cards glow and show a source count, a CLASSIFIED stamp on Black Vault, a radar sweep on Xeno, a gilded hub on Vatican. Motion is off under prefers-reduced-motion.
+- Safety layer unchanged on every new module. No adult content, no Tor, no logins, no scanning.
+
 ## Pass 6 (2026-10-26): three new worlds + grayspace
 **New top pages**, each with its own theme: THE BLACK VAULT (`#redacted`, a redaction-bar/typewriter look), XENO (`#xeno`, green radar), VATICAN (`#vatican`, crimson and gold vellum). They also appear in the nav, the home hub and the depth gauge.
 - **THE BLACK VAULT.** Seven modules: UAP, MKULTRA/mind control, psychic research/Stargate, Cold War, unexplained deaths, weather/geo experiments, redacted oddities. Each module has four sources:

@@ -112,3 +112,17 @@ body.xeno .card{background:#03140d;border-color:#2c8;color:#bfe}body.xeno .card 
 body.vatican{--accent:#f1cd5c;--accent2:#8b1a1a;background:radial-gradient(900px 600px at 50% 0%,#3b0d12 0%,#1a0608 60%,#080203 100%)}
 .halfbtn.vatican{border-color:#eb4;box-shadow:inset 0 0 30px #3a0a0a}.halfbtn.on.vatican{background:linear-gradient(135deg,#f1cd5c,#8b1a1a);color:#200}
 body.vatican .card{background:#f6eed8;color:#2a0d0d;border:2px solid #b08a2e;font-family:Georgia,serif}body.vatican .card a{color:#8b1a1a}body.vatican h2{font-family:Georgia,serif;font-variant:small-caps;letter-spacing:.08em}
+/* Pass 7 UI: world atmospherics */
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.card{animation:rise .35s ease both}.card:nth-child(3n+2){animation-delay:.05s}.card:nth-child(3n){animation-delay:.1s}
+.hub a:hover,.hubcard:hover{box-shadow:0 0 0 1px var(--accent,#9ab),0 10px 40px -10px var(--accent,#9ab)}
+.hub a .n{float:right;font-size:10px;opacity:.7;border:1px solid currentColor;border-radius:9px;padding:0 6px}
+body.redacted::before{content:"CLASSIFIED · RELEASED UNDER FOIA";position:fixed;right:-60px;top:120px;transform:rotate(18deg);font:700 34px "Courier New",monospace;color:#c22;opacity:.09;border:5px solid #c22;padding:6px 18px;pointer-events:none;z-index:0}
+body.redacted .card h3,body.redacted .hub h3{background:linear-gradient(#111,#111) left/0 100% no-repeat;transition:background-size .3s}
+body.redacted .hub a:hover h3{background-size:100% 100%;color:#ff3b3b}
+body.xeno::after{content:"";position:fixed;inset:0;pointer-events:none;z-index:0;background:conic-gradient(from 0deg at 85% 10%,rgba(77,255,154,.10),transparent 12%);animation:sweep 6s linear infinite}
+@keyframes sweep{to{transform:rotate(360deg)}}
+body.xeno main{position:relative;z-index:1}
+body.vatican .hub a{border:1px solid #b08a2e;background:linear-gradient(160deg,#2a0a0d,#140405);box-shadow:inset 0 0 0 3px #140405,inset 0 0 0 4px #6b4e12}
+body.vatican h2::before{content:"✠ "}body.vatican h2::after{content:" ✠"}
+@media (prefers-reduced-motion:reduce){.card{animation:none}body.xeno::after{animation:none}}

@@ -25,7 +25,7 @@ const crestTitle=w=>`identifier:cia-rdp* AND title:(${w.join(' OR ')})`;
 
 /* ---- cached-harvest miner (Action pre-harvests CORS-blocked APIs) ---- */
 function cached(file,module,map,filt=()=>true,n=24){return async o=>{const re=kwRe(o);const L=(await cache(file)).filter(filt).filter(x=>!re||re.test(JSON.stringify(x)));return sh(L).slice(0,n).map(x=>({module,count:null,countLabel:'',thumb:'',kind:'link',src:'',dateLabel:'date',...map(x)}))}}
-const TNOISE=/^ship\b|ship name|official number|gross tonnage|stick force|\bmk \d|aircraft type|\.pdf\b/i;
+const TNOISE=/^ship\b|ship name|official number|gross tonnage|stick force|\bmk \d|aircraft type|\.pdf\b|holy ghost|ghost (chapel|church)|primary school|criminal record/i;
 const tnaMap=tag=>x=>({source:x.source,title:`${x.title} — ${x.ref}`,date:x.date,dateLabel:'covering',preview:x.preview||'(catalogue entry)',url:x.url,query:x.query+' · harvested by the Action',
   extra:`theme: ${tag} · reference ${x.ref} · ${x.closed==='O'?'open record':'closed/retained — catalogue only'} · UK National Archives Discovery`});
 
@@ -35,21 +35,21 @@ const GV={
   blurb:'Released UAP / UFO government records: CIA CREST scans, UK MoD files, period press.'},
  mk:{name:'MKULTRA / MIND CONTROL',icon:'🧠',tna:'mkultra',news:'g_mk',w:['MKULTRA','"behavior control"','"behavioral"','LSD','hypnosis','"brain washing"','brainwashing','ARTICHOKE','BLUEBIRD','interrogation'],re:/mk.?ultra|behavio|lsd|hypno|brain.?wash|artichoke|bluebird|interrogat|drug/i,
   blurb:'Behaviour-control, hypnosis and drug-testing programmes in declassified files.'},
- psy:{name:'PSYCHIC RESEARCH / STARGATE',icon:'👁',tna:'psychic',news:'g_psy',crest:'identifier:(cia-rdp96-00788* OR cia-rdp96-00789* OR cia-rdp96-00791* OR cia-rdp96-00792*)',w:['psychic','parapsycholog','"remote viewing"','psychoenergetic','telepathy','"extrasensory"','SRI','GRILL'],re:/psych|remote view|parapsych|telepath|extrasensory|clairvoy|dowsing|spiritualis|stargate|sun streak/i,
+ psy:{name:'PSYCHIC RESEARCH / STARGATE',icon:'👁',tna:'psychic',news:'g_psy',crest:'identifier:(cia-rdp96-00788* OR cia-rdp96-00789* OR cia-rdp96-00791* OR cia-rdp96-00792*)',tre:/psychic|telepath|clairvoy|parapsych|extra.?sensory|dowsing|spiritualis|\bmediums?\b|psychical/i,w:['psychic','parapsycholog','"remote viewing"','psychoenergetic','telepathy','"extrasensory"','SRI','GRILL'],re:/psych|remote view|parapsych|telepath|extrasensory|clairvoy|dowsing|spiritualis|stargate|sun streak/i,
   blurb:'Remote viewing session transcripts and psi research from the Stargate-era CREST series.'},
  cold:{name:'COLD WAR OBSCURA',icon:'☢',tna:'coldwar',news:'g_cold',w:['"civil defense"','fallout','"nuclear test"','bunker','defector','"radio free"','sputnik','"soviet bloc"'],re:/civil defen|fallout|nuclear|bunker|defector|radio|sputnik|soviet|bloc/i,
   blurb:'Civil-defence plans, defectors, propaganda radio, odd Soviet-watch memos.'},
  deaths:{name:'UNEXPLAINED DEATHS',icon:'⚰',tna:'deaths',news:'g_deaths',w:['death','assassination','"died under"','inquest','suicide','"cause of death"','poisoning'],re:/death|died|assassin|inquest|suicide|poison|murder/i,
   blurb:'Inquests, mysterious deaths and suspicious cases mentioned in released files.'},
- weather:{name:'WEATHER / GEO EXPERIMENTS',icon:'🌩',tna:'weather',news:'g_weather',w:['"weather modification"','"cloud seeding"','"rain making"','"rainmaking"','seismic','ionosphere','"climate modification"','"geophysical warfare"'],re:/weather|cloud seed|rain.?mak|seismic|ionospher|climat|geophysic/i,
+ weather:{name:'WEATHER / GEO EXPERIMENTS',icon:'🌩',tna:'weather',news:'g_weather',tre:/cloud seed|rain.?mak|artificial rain|weather (modif|control)|fog (dispers|investig)|cumulus|lynmouth|ionospher|seismic/i,w:['"weather modification"','"cloud seeding"','"rain making"','"rainmaking"','seismic','ionosphere','"climate modification"','"geophysical warfare"'],re:/weather|cloud seed|rain.?mak|seismic|ionospher|climat|geophysic/i,
   blurb:'Cloud seeding, rainmaking, ionospheric and geophysical-warfare studies.'},
- odd:{name:'REDACTED ODDITIES',icon:'⬛',tna:'odd',news:'g_odd',w:['"mystery"','unusual','strange','anomalous','"poltergeist"','"sea serpent"','ghost','"unexplained"'],re:/myster|unusual|strange|anomal|poltergeist|serpent|ghost|unexplain|odd/i,
+ odd:{name:'REDACTED ODDITIES',icon:'⬛',tna:'odd',news:'g_odd',tre:/poltergeist|sea serpent|haunt|ghost|unexplain|myster|anomal|monster|strange (light|object|creature)/i,w:['"mystery"','unusual','strange','anomalous','"poltergeist"','"sea serpent"','ghost','"unexplained"'],re:/myster|unusual|strange|anomal|poltergeist|serpent|ghost|unexplain|odd/i,
   blurb:'The weird residue: strange memos, anomaly reports, ghost-adjacent paperwork.'}};
 const out={};
 for(const [k,t] of Object.entries(GV)){const m='g_'+k;out[m]={half:'redacted',name:t.name,icon:t.icon,blurb:t.blurb,sources:{
   crest:{name:'CIA CREST (random)',f:iaQ(t.crest||crestTitle(t.w),m,'CIA CREST · via Internet Archive',t.name,t.crest?null:t.re),note:'Random deep pages of the 275k-document CIA CREST release mirrored on the Internet Archive (identifier cia-rdp*), lowest-download first. OCR text on click.'},
-  tna:{name:'UK National Archives',f:cached('tna.json',m,tnaMap(t.name),x=>x.theme===t.tna&&t.re.test(x.title+' '+x.preview)&&!TNOISE.test(x.title)),note:'Discovery catalogue (MoD, Home Office, Cabinet…) harvested every 3h by the Action (no CORS) across random result pages.'},
-  foia:{name:'FOIA deep mine',f:iaQ(`mediatype:texts AND (subject:(FOIA OR "freedom of information" OR declassified OR "government documents") OR title:(declassified OR FOIA)) AND title:(${t.w.filter(w=>!/^(SRI|GRILL|LSD)$/.test(w)).join(' OR ')}) AND NOT subject:("right to information" OR RTI OR kerala)`,m,'FOIA releases · Internet Archive',t.name,t.re),note:'FOIA / declassified uploads on the Internet Archive with ≤5 downloads first.'},
+  tna:{name:'UK National Archives',f:cached('tna.json',m,tnaMap(t.name),x=>x.theme===t.tna&&(t.tre||t.re).test(x.title+' '+x.preview)&&!TNOISE.test(x.title+' '+x.preview)),note:'Discovery catalogue (MoD, Home Office, Cabinet…) harvested every 3h by the Action (no CORS) across random result pages.'},
+  foia:{name:'FOIA deep mine',f:iaQ(`mediatype:texts AND (subject:(FOIA OR "freedom of information" OR declassified OR "government documents") OR title:(declassified OR FOIA)) AND title:(${t.w.filter(w=>!/^(SRI|GRILL|LSD)$/.test(w)).join(' OR ')}) AND NOT subject:("right to information" OR RTI OR kerala OR panchayat) AND NOT title:(panchayat OR kerala OR RTI)`,m,'FOIA releases · Internet Archive',t.name,t.re),note:'FOIA / declassified uploads on the Internet Archive with ≤5 downloads first.'},
   news:{name:'Period press',f:NEWS({name:t.name,news:t.w.map(w=>w.replace(/"/g,'')),key:t.news,cache:'finds/world_news.json'},m),note:'Library of Congress Chronicling America, random window and page; falls back to the Action-harvested pile.'}}}}
 
 /* ---- XENO ---- */
@@ -79,14 +79,20 @@ out.x_gray={half:'xeno',name:'GRAYSPACE UFO TEXT',icon:'≋',blurb:'UFO text fil
 
 /* ---- VATICAN ---- */
 const FONDS=[['Vat.lat',15000],['Vat.gr',2600],['Vat.ebr',600],['Vat.ar',1000],['Vat.sir',600],['Barb.lat',9000],['Pal.lat',1900],['Reg.lat',2100],['Borg.lat',900],['Urb.lat',1700],['Ott.lat',3000],['Barb.gr',590],['Vat.copt',100],['Vat.pers',100],['Vat.turc',100],['Vat.eth',300]];
-async function digi(o){const tries=Array.from({length:10},()=>{const [f,n]=o.kw&&FONDS.find(x=>x[0].toLowerCase()===o.kw.toLowerCase())||pk(FONDS);return `${f}.${1+Math.floor(Math.random()*n)}`});
+async function digi(o){const V=await cache('vatlib.json');const kw=(o.kw||'').toLowerCase();
+  const pool=V.filter(x=>!kw||x.shelf.toLowerCase().startsWith(kw)||(x.preview||'').toLowerCase().includes(kw));
+  const pickd=sh(pool).slice(0,8).map(x=>x.shelf);
+  const got=await Promise.all(pickd.map(s=>fetch(`https://digi.vatlib.it/iiif/MSS_${s}/manifest.json`).then(r=>r.ok?r.json():null).catch(()=>null)));
+  const r=got.filter(Boolean).map(digiMap);if(r.length>=4)return r;return [...r,...await digiRand(o)]}
+async function digiRand(o){const tries=Array.from({length:10},()=>{const [f,n]=o.kw&&FONDS.find(x=>x[0].toLowerCase()===o.kw.toLowerCase())||pk(FONDS);return `${f}.${1+Math.floor(Math.random()*n)}`});
   const got=await Promise.all(tries.map(s=>fetch(`https://digi.vatlib.it/iiif/MSS_${s}/manifest.json`).then(r=>r.ok?r.json():null).catch(()=>null)));
-  return got.filter(Boolean).map(j=>{const c=j.sequences[0].canvases,cv=pk(c.slice(Math.min(4,c.length-1))),svc=cv.images[0].resource.service['@id'],shelf=String(j.label);
+  return got.filter(Boolean).map(digiMap)}
+function digiMap(j){{const c=j.sequences[0].canvases,cv=pk(c.slice(Math.min(4,c.length-1))),svc=cv.images[0].resource.service['@id'],shelf=String(j.label);
    const md=(j.metadata||[]).map(m=>`${flat(m.label)}: ${flat(m.value)}`.replace(/<[^>]+>/g,'')).join(' · ');
    return {module:'v_mss',source:'DigiVatLib (Vatican Library IIIF)',title:`${shelf} · folio ${cv.label}`,date:'',dateLabel:'',count:c.length,countLabel:'images',thumb:svc+'/full/300,/0/default.jpg',kind:'img',src:svc+'/full/1000,/0/default.jpg',
     url:`https://digi.vatlib.it/view/MSS_${shelf}`,preview:(md||String(j.description||'')).slice(0,500)||'(shelfmark only — uncatalogued in the manifest)',query:`random shelfmark draw from ${shelf.split('.').slice(0,2).join('.')} · random folio`,
-    extra:`fonds: ${shelf.split('.').slice(0,2).join('.')} · ${c.length} images · random folio ${cv.label}`,links:[['IIIF manifest ↗',j['@id']]]}})}
-out.v_mss={half:'vatican',name:'SECRET STACKS',icon:'📜',blurb:'Random shelfmarks from the Vatican Library — Latin, Greek, Hebrew, Syriac, Coptic, Ethiopic codices — opened to a random folio.',sources:{digi:{name:'DigiVatLib random codex',f:digi,note:'Draws random shelfmarks across 16 fonds, opens a random folio via IIIF. Keyword = fonds name (e.g. Vat.ebr).'}}};
+    extra:`fonds: ${shelf.split('.').slice(0,2).join('.')} · ${c.length} images · random folio ${cv.label}`,links:[['IIIF manifest ↗',j['@id']]]}}}
+out.v_mss={half:'vatican',name:'SECRET STACKS',icon:'📜',blurb:'Random shelfmarks from the Vatican Library — Latin, Greek, Hebrew, Syriac, Coptic, Ethiopic codices — opened to a random folio.',sources:{digi:{name:'DigiVatLib random codex',f:digi,note:'Draws from a verified shelfmark list (probed by the Action, growing every 3h) across 25 fonds, then random probes, opens a random folio via IIIF. Keyword = fonds name (e.g. Vat.ebr).'}}};
 out.v_papal={half:'vatican',name:'BURIED BULLS',icon:'⛪',blurb:'Forgotten encyclicals, bulls, briefs, letters and audiences from Leo XIII onward.',sources:{va:{name:'vatican.va archive',f:cached('vatva.json','v_papal',x=>({source:'vatican.va',title:x.title,date:x.date,dateLabel:'issued',url:x.url,preview:`${x.kind} of ${x.pope}`,query:'random pope × document type × year index · harvested by the Action',extra:`type: ${x.kind} · pope: ${x.pope}`})),note:'The Action walks random pope / type / year sub-indexes on vatican.va.'}}};
 const VT={exorc:{name:'EXORCISM',icon:'✝',w:['exorcism','exorcisms','"demoniac"','"possession"','"rituale romanum"','demonology'],re:/exorc|demoniac|demonic possession|possessed|demonolog|rituale|devil/i,news:['exorcism','possessed by a devil','exorcised','driving out the devil'],key:'v_exorc'},
  appar:{name:'APPARITIONS',icon:'✨',w:['apparitions','"marian apparitions"','"Mary, Blessed Virgin, Saint -- Apparitions and miracles"','"weeping statue"','stigmata','"miraculous"'],re:/apparition|marian|stigmat|miracul|weeping (statue|madonna|virgin)|our lady of/i,news:['apparition of the virgin','weeping statue','stigmata','miraculous cure','vision of the virgin'],key:'v_appar'},
@@ -108,5 +114,18 @@ const EX={rel_missing:{half:'reliquary',name:'VANISHED PEOPLE',icon:'❔',blurb:
 for(const [m,t] of Object.entries(EX))out[m]={half:t.half,name:t.name,icon:t.icon,blurb:t.blurb,sources:{
   news:{name:'Old newspapers',f:NEWS({name:t.name,news:t.news,key:t.key,cache:'finds/world_news.json'},m),note:'LoC Chronicling America random window/page; cached fallback.'},
   ia:{name:'Deep mine',f:H.theoIA({ia:[t.w],re:t.re},m),note:'Internet Archive texts with ≤5 downloads, random upload window.'}}};
+/* ---- Pass 7: legal stand-ins for blocked sites — Wayback copies of their public pages ---- */
+const un=s=>{const d=document.createElement('textarea');d.innerHTML=String(s||'');return d.value};
+const wbMap=(tag,clean=t=>t)=>x=>({source:x.source,title:clean(un(x.title)),date:x.date,dateLabel:'captured',url:x.url,preview:un(x.preview||'(open the archived copy)'),query:x.query,extra:`${tag} · archived public page · original: ${x.orig||''}`,links:x.orig?[['live original ↗',x.orig]]:[]});
+const dedupeT=f=>async o=>{const r=await f(o),s=new Set();return r.filter(x=>!s.has(x.title)&&s.add(x.title))};
+out.g_fbivault={half:'redacted',name:'FBI VAULT (MIRROR)',icon:'🗄',blurb:'The FBI\'s own FOIA reading room, mined through Wayback copies (vault.fbi.gov blocks automated fetches). Random file-set pages, never the famous ones first.',sources:{
+  wb:{name:'Vault pages (Wayback)',f:cached('wb_fbivault.json','g_fbivault',wbMap('FBI Vault',t=>t.replace(/^foia \/ /i,'').replace(/\b\w/g,c=>c.toUpperCase()))),note:'Wayback CDX of vault.fbi.gov 2011–2016, random draw. Opens the archived file-set page; PDFs link from there.'}}};
+out.g_muckrock={half:'redacted',name:'FOIA REQUEST TRAILS',icon:'📨',blurb:'Individual public-records requests and their released responses (MuckRock), via Wayback copies — oddly specific asks most people never read.',sources:{
+  wb:{name:'MuckRock requests (Wayback)',f:cached('wb_muckrock.json','g_muckrock',wbMap('MuckRock request',t=>t.replace(/\s*•\s*MuckRock\s*$/,''))),note:'Wayback CDX of muckrock.com/foi request pages, titles read from the archived page.'}}};
+out.x_geipan={half:'xeno',name:'GEIPAN (FRANCE)',icon:'🇫🇷',blurb:'France\'s official UAP bureau (CNES) — news items, case notes and docs from archived copies of geipan.fr / cnes-geipan.fr.',sources:{
+  wb:{name:'GEIPAN pages (Wayback)',f:dedupeT(cached('wb_geipan.json','x_geipan',wbMap('GEIPAN',t=>t.replace(/^GEIPAN:\s*/,'')),x=>!/glossaire/i.test(x.title),40)),note:'geipan.fr is Cloudflare-blocked; archived copies 2008–2016 are read instead.'}}};
+out.tr_area51={half:'trench',name:'GEOCITIES AREA51',icon:'👽',blurb:'The GeoCities "Area51" neighbourhood (sci-fi, UFO, fandom homepages, 1996–2009) — dead personal sites as Wayback captures.',sources:{
+  wb:{name:'Area51 homepages',f:cached('wb_area51.json','tr_area51',wbMap('GeoCities Area51'),()=>true,30),note:'Wayback CDX of geocities.com/Area51, adult/zip/exe paths excluded, titles + first text read from the capture.'}}};
+out.x_gray.sources.area51={name:'GeoCities Area51 (UFO)',f:cached('wb_area51.json','x_gray',wbMap('GeoCities Area51'),x=>UFO.test(x.title+' '+(x.preview||'')),30),note:'Area51 homepages whose title/text mention UFOs, aliens, abductions.'};
 G.WORLD_MODULES=out;
 })(typeof window!=='undefined'?window:globalThis);

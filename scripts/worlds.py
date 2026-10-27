@@ -148,10 +148,75 @@ def news(per=1):
 
 def run(budget_s=900):
     t0=time.time()
-    for f in (nuforc,tna,vatva,news,bbs,forums):
+    for f in (nuforc,tna,vatva,news,bbs,forums,wb,vatlib):
         if time.time()-t0>budget_s: print("worlds: budget hit before",f.__name__); break
         try: f()
         except Exception as e: print("worlds",f.__name__,"error:",e)
+
+# ---------- Pass 7: Wayback copies of blocked public FOIA/UFO sites (FBI Vault, MuckRock, GEIPAN, GeoCities Area51) ----------
+import urllib.parse as _up
+WBSPEC={
+ "fbivault":[("vault.fbi.gov/","2011","2016",r"vault\.fbi\.gov/[A-Za-z0-9%_\-]+(/[A-Za-z0-9%_\-]+)?/?$",r"(\+|search|login|author|sitemap|contact|front-page|recently-added|\.(js|css|png|gif|jpg)$)")],
+ "muckrock":[("www.muckrock.com/foi/*","2013","2024",r"/foi/[^/]+/[^/]+-\d+/?$",r"(\?|/embargo|/follow|/admin)")],
+ "geipan":[("www.cnes-geipan.fr/index.php","2008","2016",r"cas|tt_news|id=",r"(no_cache=1&L=1|print|rss)"),("www.geipan.fr/index.php","2008","2016",r"tt_news|cas|id=",r"(print|rss)")],
+ "area51":[("www.geocities.com/Area51/","1996","2009",r"\.html?$",r"(geoguide|\.zip|\.exe|guestbook|counter|banner|/sex|xxx|adult)")]}
+def _slug(u):
+    p=_up.unquote(_up.urlparse(u).path).strip("/").split("/"); q=_up.urlparse(u).query
+    t=" / ".join(x for x in p if x)[-160:] or u
+    t=re.sub(r"[-_]+"," ",re.sub(r"-\d+$","",t)); 
+    if "tt_news" in q: t+=" · item "+(re.search(r"tt_news\]=(\d+)",_up.unquote(q)) or re.search(r"(\d+)",q)).group(1)
+    return t.strip()
+def _titles(rows,k=200):
+    from concurrent.futures import ThreadPoolExecutor
+    def t(x):
+        try:
+            h=requests.get(x["url"].replace("/"+x["orig"],"id_/"+x["orig"],1),headers=UA,timeout=40); h.encoding=h.apparent_encoding or "utf-8"
+            m=re.search(r"<title[^>]*>(.*?)</title>",h.text,re.S|re.I); body=re.sub(r"<script.*?</script>|<style.*?</style>|<[^>]+>"," ",h.text,flags=re.S|re.I)
+            body=re.sub(r"\s+"," ",body).strip()
+            if m and len(m.group(1).strip())>3: x["title"]=re.sub(r"\s+"," ",m.group(1)).strip()[:160]
+            x["preview"]=body[:400]
+        except Exception: pass
+        return x
+    rows=rows[:k]
+    with ThreadPoolExecutor(6) as ex: return [r for r in ex.map(t,rows) if r.get("preview")]
+def wb(keys=None,limit=4000):
+    out={}
+    for key,specs in WBSPEC.items():
+        if keys and key not in keys: continue
+        old=load(f"finds/wb_{key}.json"); new=[]
+        for pre,a,b,keep,drop in specs:
+            try:
+                r=requests.get("https://web.archive.org/cdx/search/cdx",params={"url":pre,**({} if pre.endswith("*") else {"matchType":"prefix"}),"output":"json","filter":["statuscode:200","mimetype:text/html"],"collapse":"urlkey","limit":limit,**({"from":a,"to":b} if key!="muckrock" and key!="area51" else {})},headers=UA,timeout=240).json()[1:]
+            except Exception as e: print("wb",key,e); continue
+            random.shuffle(r)
+            for x in r:
+                ts,orig=x[1],x[2]
+                if not re.search(keep,orig) or re.search(drop,orig,re.I): continue
+                new.append({"source":{"fbivault":"FBI Vault (Wayback copy)","muckrock":"MuckRock (Wayback copy)","geipan":"GEIPAN (Wayback copy)","area51":"GeoCities Area51 (Wayback)"}[key],
+                  "title":_slug(orig),"date":f"{ts[:4]}-{ts[4:6]}-{ts[6:8]}","url":f"https://web.archive.org/web/{ts}/{orig}","orig":orig,"query":f"Wayback CDX {pre} {a}–{b}, random draw"})
+                if len(new)>=600: break
+            time.sleep(2)
+        if key in ("geipan","area51","muckrock"): new=_titles(new)
+        out[key]=save(f"finds/wb_{key}.json",old,new,5000)
+    return out
+
+# ---------- Pass 7: verified DigiVatLib shelfmark list (probe random shelfmarks, keep the ones that exist) ----------
+VFONDS=[("Vat.lat",15000),("Vat.gr",2600),("Vat.ebr",600),("Vat.ar",1000),("Vat.sir",600),("Barb.lat",9000),("Pal.lat",1900),("Reg.lat",2100),("Borg.lat",900),("Urb.lat",1700),("Ott.lat",3000),("Barb.gr",590),("Vat.copt",100),("Vat.pers",100),("Vat.turc",100),("Vat.eth",300),("Pal.gr",430),("Reg.gr",190),("Ross",1200),("Chig",3000),("Borg.ar",300),("Vat.arm",100),("Vat.slav",100),("Vat.ind",50),("Borg.cin",500)]
+def vatlib(n=500,workers=8):
+    from concurrent.futures import ThreadPoolExecutor
+    old=load("finds/vatlib.json"); have={x["shelf"] for x in old}
+    cand=list({f"{f}.{random.randint(1,m)}" for f,m in random.choices(VFONDS,k=n)}-have)
+    def probe(s):
+        try:
+            r=requests.get(f"https://digi.vatlib.it/iiif/MSS_{s}/manifest.json",headers=UA,timeout=40)
+            if r.status_code!=200: return None
+            j=r.json(); c=j["sequences"][0]["canvases"]
+            md=" · ".join(f"{m.get('label')}: {m.get('value')}" for m in j.get("metadata",[]) if isinstance(m.get('value'),str))
+            return {"shelf":s,"source":"DigiVatLib","title":s,"url":f"https://digi.vatlib.it/view/MSS_{s}","pages":len(c),"preview":re.sub(r"<[^>]+>","",md)[:300]}
+        except Exception: return None
+    with ThreadPoolExecutor(workers) as ex: new=[x for x in ex.map(probe,cand) if x]
+    print("vatlib hits",len(new),"of",len(cand)); return save("finds/vatlib.json",old,new,20000)
+
 if __name__=="__main__":
     fs=sys.argv[1:] or ["run"]
     for f in fs: globals()[f]()
