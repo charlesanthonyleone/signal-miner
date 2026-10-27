@@ -4,6 +4,7 @@ const J=async u=>{const r=await fetch(u);if(!r.ok)throw new Error(r.status+' '+u
 const shuffle=a=>a.map(x=>[Math.random(),x]).sort((a,b)=>a[0]-b[0]).map(x=>x[1]);
 const WORDS=["river","street","kitchen","party","dog","car","beach","snow","garden","school","church","train","birthday","night","city","farm","lake","road","bridge","market","house","window","forest","boat","horse","concert","rain","mountain","family","factory"];
 const RAWV=["IMG_*","MVI_*","DSC*","VID_*","MOV*","GOPR*","video*","untitled","clip*","DSCF*"];
+const YW=o=>({...o,y1:o.y1??1995,y2:o.y2??new Date().getFullYear()});
 const yr=(o)=>{o={...o,y1:o.y1??1995,y2:o.y2??new Date().getFullYear()};return (o.kw||o.loose)?`publicdate:[${o.y1}-01-01T00:00:00Z TO ${o.y2}-12-31T23:59:59Z]`:(y=>`publicdate:[${y}-01-01T00:00:00Z TO ${y}-12-31T23:59:59Z]`)(rnd(Math.max(o.y1,2002),o.y2));}
 const inYears=(d,o)=>{const y=parseInt(d);return !y||(y>=o.y1&&y<=o.y2)};
 const CC='https://index.commoncrawl.org/CC-MAIN-2026-39-index';
@@ -29,7 +30,7 @@ function iaSrc({mt,extra,rawPats,rawMax=25,source,module}){return async o=>{
     count:d.downloads,countLabel:'downloads',thumb:`https://archive.org/services/img/${d.identifier}`,kind:'iframe',src:`https://archive.org/embed/${d.identifier}`,
     url:`https://archive.org/details/${d.identifier}`,query:docs.length&&qq!==q?q+' → widened: '+qq:q,extra:d.creator?`creator: ${[].concat(d.creator).join(', ')}`:''}))}}
 
-function commonsSrc(ft,module){return async o=>{
+function commonsSrc(ft,module){return async o=>{o=YW(o);
   let s=`filetype:${ft} `+(o.kw||(o.raw?pick(['intitle:IMG','intitle:DSC','intitle:MVI','intitle:VID','intitle:P10']):''));
   const off=(o.kw||o.raw)?rnd(0,o.raw?150:0):rnd(0,ft==='video'?9000:5000);
   const u=new URLSearchParams({action:'query',format:'json',origin:'*',generator:'search',gsrsearch:s.trim(),gsrnamespace:6,gsrlimit:30,gsroffset:off,prop:'imageinfo',iiprop:'url|timestamp|mime|user',iiurlwidth:480});
@@ -38,7 +39,7 @@ function commonsSrc(ft,module){return async o=>{
     date:i.timestamp.slice(0,10),dateLabel:'uploaded',count:null,thumb:i.thumburl,kind:ft==='video'?'video':(ft==='audio'?'audio':'img'),src:ft==='bitmap'?(i.thumburl?.replace(/\/\d+px-/,'/1280px-')||i.url):i.url,
     url:i.descriptionurl,query:`${s.trim()} (offset ${off})`,extra:`uploader: ${i.user||'?'}`}}).filter(x=>inYears(x.date,o))}}
 
-async function dailymotion(o){const term=o.kw||(o.raw?pick(["IMG_","MVI_","DSC","VID_","MOV","GOPR"])+String(rnd(0,999)).padStart(4,'0'):pick(WORDS));
+async function dailymotion(o){o=YW(o);const term=o.kw||(o.raw?pick(["IMG_","MVI_","DSC","VID_","MOV","GOPR"])+String(rnd(0,999)).padStart(4,'0'):pick(WORDS));
   const u=new URLSearchParams({search:term,limit:50,page:(o.kw||o.raw)?1:rnd(1,3),fields:'id,title,created_time,views_total,thumbnail_360_url,duration,owner.username',
     created_after:Math.floor(Date.UTC(o.y1,0,1)/1000),created_before:Math.floor(Date.UTC(o.y2,11,31)/1000)});
   const r=await J('https://api.dailymotion.com/videos?'+u);
