@@ -294,14 +294,14 @@ function home(){$('main').innerHTML=`<div class="depth-gauge"><span>LIVE</span><
  <div class="hero"><canvas id="ore" aria-hidden="true"></canvas><h1 data-t="SIGNAL MINER">SIGNAL MINER</h1><p>${Object.keys(MODULES).length} modules · ${Object.values(MODULES).reduce((n,m)=>n+Object.keys(m.sources).length,0)} sources · 8 strata of the forgotten web. Every find is pre-screened; media stays behind a click-through.</p>
  <button class="go big" onclick="digAnywhere()">⛏ DIG ANYWHERE</button></div>
  <div class="hub">
-  <a class="hubcard" href="#redacted" style="border-color:#c22"><div class="ico">⬛</div><h3>THE BLACK VAULT</h3><p>Released government files — CIA CREST, UK MoD, FOIA dumps, dead ParaScope dossiers, The Memory Hole. UAP, MKULTRA, Stargate, Cold War, unexplained deaths, weather experiments.</p></a>
-  <a class="hubcard" href="#xeno" style="border-color:#3f9"><div class="ico">🛸</div><h3>XENO</h3><p>Raw sighting logs, Blue Book scans, foreign UFO desks, 1896 airship clippings, saucer patents, 90s ufology text, the lost UFO Mind / CUFON archive, single posts from the UFO UpDates list.</p></a>
-  <a class="hubcard" href="#vatican" style="border-color:#eb4"><div class="ico">⛪</div><h3>VATICAN</h3><p>Random codices pulled from the Vatican Library stacks, buried papal bulls, inquisition, exorcism, the Index, 1990s Catholic Info Network mailing lists, Christus Rex's room-by-room Vatican photos.</p></a>
-  <a class="hubcard" href="#live" style="border-color:#1f5"><div class="ico">📡</div><h3>LIVE</h3><p>Surface web media — Archive, Commons, Dailymotion, Openverse, Met, Open Library, Gutenberg, YouTube &amp; Wayback, plus FRESH PIT: uploads from the last 72 h nobody has opened, and DEAD AIR: radio streams with zero clicks. Open a module, then mine.</p></a>
-  <a class="hubcard" href="#trench" style="border-color:#2cf"><div class="ico sonar">≋</div><h3>TRENCH</h3><p>Deep public layers — open cameras, SatNOGS, chain graffiti, BGP, crawl, gopher, dead Tripod / Angelfire / AOL Hometown / Xoom pages. Hardline non-curated. No Tor.</p></a>
-  <a class="hubcard" href="#theo" style="border-color:#d4a"><div class="ico">🕯</div><h3>THEO</h3><p>Forgotten theology &amp; cultures — manuscripts, apocrypha, Geniza, grimoires, dead languages, clay tablets, lost civs, dead gods, mystery cults, dead Olympus/Styx and Acropolis homepages. Public archives only.</p></a>
-  <a class="hubcard" href="#invento" style="border-color:#fa3"><div class="ico">⚙</div><h3>INVENTO</h3><p>Low-visibility USPTO filings — abandoned, expired, secret, war tech, weird & wild frontier patents seeded by real CPC codes, plus dead fringe-lab notebooks (KeelyNet, JLN Labs, the New Energy journals).</p></a>
-  <a class="hubcard" href="#reliquary" style="border-color:#c9a36b"><div class="ico">🗝</div><h3>THE RELIQUARY</h3><p>Leads no one has followed — buried maps, deathbed confessions, unsolved ciphers, shipwreck manifests, forgotten time capsules, lost-mine back-trail pages, the ghost-town wire.</p></a>
+  <a class="hubcard" href="#redacted" style="border-color:#c22"><div class="ico">⬛</div><h3>THE BLACK VAULT</h3><p>Released government files — CIA CREST, UK MoD, FOIA dumps, dead ParaScope dossiers, The Memory Hole, the dead CIA FOIA reading room. UAP, MKULTRA, Stargate, Cold War, unexplained deaths, weather experiments.</p></a>
+  <a class="hubcard" href="#xeno" style="border-color:#3f9"><div class="ico">🛸</div><h3>XENO</h3><p>Raw sighting logs, Blue Book scans, foreign UFO desks, 1896 airship clippings, saucer patents, 90s ufology text, the lost UFO Mind / CUFON archive, single posts from the UFO UpDates list, the UFOINFO sighting wire.</p></a>
+  <a class="hubcard" href="#vatican" style="border-color:#eb4"><div class="ico">⛪</div><h3>VATICAN</h3><p>Random codices pulled from the Vatican Library stacks, buried papal bulls, inquisition, exorcism, the Index, 1990s Catholic Info Network mailing lists, Christus Rex's room-by-room Vatican photos, the dead EWTN document library.</p></a>
+  <a class="hubcard" href="#live" style="border-color:#1f5"><div class="ico">📡</div><h3>LIVE</h3><p>Surface web media — Archive, Commons, Dailymotion, Openverse, Met, Open Library, Gutenberg, YouTube &amp; Wayback, plus FRESH PIT: uploads from the last 72 h nobody has opened, DEAD AIR: radio streams with zero clicks, and ZERO VIEWS: research deposits nobody has opened. Open a module, then mine.</p></a>
+  <a class="hubcard" href="#trench" style="border-color:#2cf"><div class="ico sonar">≋</div><h3>TRENCH</h3><p>Deep public layers — open cameras, SatNOGS, chain graffiti, BGP, crawl, gopher, dead Tripod / Angelfire / AOL Hometown / Xoom / FortuneCity pages. Hardline non-curated. No Tor.</p></a>
+  <a class="hubcard" href="#theo" style="border-color:#d4a"><div class="ico">🕯</div><h3>THEO</h3><p>Forgotten theology &amp; cultures — manuscripts, apocrypha, Geniza, grimoires, dead languages, clay tablets, lost civs, dead gods, mystery cults, dead Olympus/Styx, Acropolis and Atlantis/Troy homepages. Public archives only.</p></a>
+  <a class="hubcard" href="#invento" style="border-color:#fa3"><div class="ico">⚙</div><h3>INVENTO</h3><p>Low-visibility USPTO filings — abandoned, expired, secret, war tech, weird & wild frontier patents seeded by real CPC codes, plus dead fringe-lab notebooks (KeelyNet, JLN Labs, the New Energy journals) and GeoCities ResearchTriangle garage science.</p></a>
+  <a class="hubcard" href="#reliquary" style="border-color:#c9a36b"><div class="ico">🗝</div><h3>THE RELIQUARY</h3><p>Leads no one has followed — buried maps, deathbed confessions, unsolved ciphers, shipwreck manifests, forgotten time capsules, lost-mine back-trail pages, the ghost-town wire, dead Unsolved Mysteries case files.</p></a>
  </div>`}
 
 // Pass 13: finds with zero downloads/views/clicks get an UNTOUCHED badge; home hero gets a drifting ore-dust field
@@ -355,16 +355,17 @@ async function dig(){const o={kw:$('#kw').value.trim(),y1:+$('#y1').value||1900,
 const BUCKETS=[['UFO/UAP',/\b(ufo|uap|saucer|flying disc|alien|extraterrestr|abduct|roswell|blue book|close encounter|unidentified|sighting|crop circle|cufos?|mufon)/i],
  ['OCCULT',/\b(occult|grimoire|magic[ka]?|witch|sorcer|alchem|kabbal|qabal|hermetic|tarot|spell|demon|necromanc|runes?\b|thelema|golden dawn|esoteric)/i],
  ['SCRIPTURE',/\b(gospel|apocrypha|bible|scripture|psalm|torah|talmud|qur.?an|koran|sutra|veda|upanishad|codex|manuscript|epistle|testament|genizah?|midrash|hymn)/i],
- ['AFTERLIFE',/\b(burial|funer|tomb|graves?\b|afterlife|underworld|hades|styx|mortuary|necropol|cemetery|mummif|ancestor|soul|resurrect|purgator)/i],
+ ['AFTERLIFE',/\b(burial|funer|tomb|graves?\b|afterlife|underworld|hades|styx|mortuary|necropol|cemetery|mummif|ancestor|souls?\b(?! (music|food|mates?))|resurrect|purgator)/i],
  ['MYSTERY CULT',/\b(mysteries|mystery cult|eleusi|mithra|orphi|cult of|dionys|isis\b|cybele|oracle|delphi|sibyl|pagan|druid|shaman)/i],
  ['SUPPRESSED',/\b(heres|inquisition|persecut|suppress|banned|forbidden|index librorum|condemn|martyr|cathar|gnostic|bogomil|excommunic|colonial|missionar)/i],
  ['VATICAN',/\b(vatican|pope|papal|bulls?\b|cardinal|curia|catholic|saint|exorc|apparition|marian|monaster|abbey|benedict|jesuit|franciscan)/i],
- ['GOV FILE',/\b((cia|fbi|nsa)\b|foia|declassif|classified|secrets?\b|memorandum|report no|dossier|mkultra|stargate|cold war|pentagon|ministry of defen[cs]e|national archives|redact)/i],
- ['INVENTION',/\b(patent|invent|apparatus|device|engine|motor|generator|free energy|perpetual|tesla|coil|electric|magnet|antigravity|over-?unity|prototype|schematic)/i],
- ['TREASURE',/\b(treasure|ghost ?towns?|lost mines?|mining camp|prospector|outlaw|hoard|buried|cache|lost mine|gold|silver|doubloon|bullion|loot|map to|x marks|lost dutchman|pirate|coins?)\b/i],
+ ['GOV FILE',/\b((cia|fbi|nsa)\b|foia|declassif|classified|top secret|secret (service|document|file|report|program|project|police)|memorandum|report no|dossier|mkultra|stargate|cold war|pentagon|ministry of defen[cs]e|national archives|redact)/i],
+ ['INVENTION',/\b(patent|invent|apparatus|device|(?<!search )engine|motor|generator|free energy|perpetual|tesla|coil|electric|magnet|antigravity|over-?unity|prototype|schematic)/i],
+ ['TREASURE',/\b(treasure|ghost ?towns?|lost mines?|mining camp|prospector|outlaw|hoard|buried|cache of|lost (mine|gold|silver|cabin|ledge|city)|gold (rush|coins?|nuggets?|mine|camp|bars?)|silver (mine|dollars?|bars?)|doubloon|bullion|loot|map to|x marks|lost dutchman|pirate|rare coins?|coin hoard)\b/i],
  ['CIPHER',/\b(cipher|cypher|cryptogram|code book|codex|encrypted|beale|zodiac|voynich|riddle|puzzle|steganograph)/i],
  ['SHIPWRECK',/\b(shipwreck|wreck|manifest|sank|sunk|schooner|galleon|steamer|vessel|lighthouse|salvage|maritime|lost at sea)/i],
  ['TIME CAPSULE',/\b(time capsule|cornerstone|sealed|to be opened|letter to the future)/i],
+ ['VANISHED',/\b(vanish|disappear|missing (person|persons|since|child|hiker|plane|ship)|never (seen|found|heard from) again|last seen|unsolved|cold case|unidentified (body|remains)|without a trace)/i],
  ['CONFESSION',/\b(confess|deathbed|last words|dying declaration|final statement|testimony)/i],
  ['FRINGE SCIENCE',/\b(fringe|paranormal|psychic|esp\b|telepath|remote viewing|cryptozoo|bigfoot|sasquatch|ley line|pyramid power|orgone|radionics|scalar|conspiracy|fortean|unexplained)/i],
  ['FOLKLORE',/\b(folk|legend|myth|fairy|ghost(?! ?town)|haunt|superstition|charms?\b|ballad|oral tradition|tales?\b|lore)\b/i],
@@ -436,5 +437,22 @@ function vault(){const v=Object.values(V()).filter(x=>!blocked(x.url)).sort((a,b
  Object.values(g).forEach((l,j)=>grid('#v'+j,l))}
 function exp(){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(Object.values(V()),null,1)],{type:'application/json'}));a.download='signal-miner-vault.json';a.click()}
 async function imp(f){try{const l=JSON.parse(await f.text()),v=V();let n=0,skip=0;[].concat(l).forEach(x=>x&&x.url&&(SAFE.screen(x)||blocked(x.url)?skip++:(n++,v[x.url]={saved_at:new Date().toISOString(),...x})));saveV(v);render();alert(`imported ${n} finds`+(skip?` · ${skip} dropped by the safety screen`:''))}catch(e){alert('bad file: '+e)}}
+
+// Pass 14: rarity tiers (MYTHIC/EPIC/RARE/RELIC) on every card, a STRIKE flash when a dig lands, and a strike ticker of this session's best finds
+function tier(x){if(x.kind==='meta'&&!/download|view|click|play/i.test(x.countLabel||''))return /^(19[89]\d|200[0-5])/.test(String(x.date||''))?'RELIC':'';const n=Number(x.count),lab=/download|view|click|play|listen|hit/i.test(x.countLabel||'');
+ if(lab&&x.count!=null&&x.count!==''&&!isNaN(n)){if(n===0)return 'MYTHIC';if(n<=3)return 'EPIC';if(n<=25)return 'RARE'}
+ return /^(1[0-9]{3}|19[0-9]{2}|200[0-5])/.test(String(x.date||''))?'RELIC':''}
+const STRIKES=JSON.parse(sessionStorage.strikes||'[]');
+function ticker(){let el=document.getElementById('ticker');if(!el){el=document.createElement('div');el.id='ticker';document.body.appendChild(el)}
+ const L=STRIKES.slice(-30).reverse();el.innerHTML=`<b>⛏ STRIKES</b><div class="tk"><div class="tkin">${L.length?L.concat(L).map(x=>`<a href="#${esc(x.h)}" class="tki ${esc(x.t.toLowerCase())}">${x.t?`<i>${esc(x.t)}</i>`:''}${esc(x.title.slice(0,70))} <u>${esc(x.m)}</u></a>`).join('<span class="sep">◆</span>'):'<span class="tki">no strikes yet this session — hit ⛏ DIG ANYWHERE</span>'}</div></div>`}
+const _grid14=grid;grid=function(sel,list){_grid14(sel,list);
+ document.querySelectorAll(sel+' .card').forEach((c,i)=>{const x=LISTS[sel][i],t=x&&tier(x);if(t){c.classList.add('tier-'+t.toLowerCase());const th=c.querySelector('.thumb');th&&th.insertAdjacentHTML('beforeend',`<span class="tier t-${t.toLowerCase()}">${t}</span>`)}});
+ if(sel!=='#grid'||!list.length||!state.m||!MODULES[state.m])return;const L=SAFE.filter(list),rank={MYTHIC:4,EPIC:3,RELIC:2,RARE:1,'':0};
+ const best=L.map(x=>[rank[tier(x)],x]).sort((a,b)=>b[0]-a[0]).slice(0,3).map(([r,x])=>({title:String(x.title||'?'),t:tier(x),m:MODULES[state.m].name,h:`${state.half}/${state.m}/${state.s}`}));
+ STRIKES.push(...best);while(STRIKES.length>60)STRIKES.shift();sessionStorage.strikes=JSON.stringify(STRIKES);ticker();
+ const my=L.filter(x=>tier(x)==='MYTHIC').length,ep=L.filter(x=>tier(x)==='EPIC').length;const f=document.createElement('div');f.className='strike';
+ f.innerHTML=`<div>⛏ STRIKE ×${L.length}</div><small>${my?my+' MYTHIC · ':''}${ep?ep+' EPIC · ':''}${MODULES[state.m].name}</small>`;document.body.appendChild(f);document.querySelector('main')?.classList.add('quake');
+ setTimeout(()=>{f.remove();document.querySelector('main')?.classList.remove('quake')},1500)};
+setTimeout(ticker,0);
 document.addEventListener("keydown",e=>e.key==="Escape"&&closeM());
 if(!location.pathname.endsWith("test.html")){route();if(!localStorage.ack){$('#mb').innerHTML=`<h3>Before you dig</h3><p>Everything shown here is public third-party media and text pulled automatically from other sites. Nothing is hosted, reviewed, or endorsed by this site. Finds can be unexpected or upsetting. TRENCH prefers text/metadata; open-camera cards only show streams already broadcasting with <b>no authentication</b>. We do not scan the internet or use passwords. No Tor. Use ⚑ to report anything harmful.</p><div class="row"><button class="go" onclick="localStorage.ack=1;closeM()">I understand, continue</button></div>`;$('#modal').classList.add('on')}}

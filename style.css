@@ -172,3 +172,28 @@ body.reliquary .hub a:hover{filter:none}
 .hub a:hover{transform:rotateX(4deg) rotateY(-4deg) translateY(-3px);box-shadow:0 14px 34px rgba(0,0,0,.5)}
 main{animation:pagein .35s ease both}@keyframes pagein{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
 @media (prefers-reduced-motion:reduce){.hero h1::after,.hero .go.big,.card.virgin::before,.scan.on::after,main{animation:none}.hub a:hover{transform:none}}
+
+/* Pass 14: rarity tiers, strike flash, strike ticker */
+.thumb{position:relative}
+.tier{position:absolute;top:6px;left:6px;font:700 10px/1 monospace;letter-spacing:.18em;padding:4px 7px;border-radius:2px;color:#000;box-shadow:0 0 12px currentColor}
+.t-mythic{background:linear-gradient(90deg,#ff3cac,#784ba0,#2b86c5,#ff3cac);background-size:300% 100%;color:#fff;animation:mythic 3s linear infinite;box-shadow:0 0 14px #ff3cac}
+.t-epic{background:#b26bff;color:#fff;box-shadow:0 0 12px #b26bff}.t-rare{background:#3cf;box-shadow:0 0 10px #3cf}.t-relic{background:#c9a36b;box-shadow:0 0 10px #c9a36b}
+.card.tier-mythic{border-color:#ff3cac!important;box-shadow:0 0 0 1px #ff3cac55,0 0 22px #ff3cac44}.card.tier-epic{border-color:#b26bff!important;box-shadow:0 0 16px #b26bff33}
+@keyframes mythic{to{background-position:300% 0}}
+.strike{position:fixed;left:50%;top:38%;transform:translate(-50%,-50%);z-index:60;pointer-events:none;text-align:center;font:900 clamp(28px,6vw,64px)/1 monospace;letter-spacing:.12em;color:#fff;
+ text-shadow:0 0 8px #fff,0 0 24px #fd3,0 0 48px #f60;animation:strike 1.5s ease-out forwards}
+.strike small{display:block;font-size:14px;letter-spacing:.3em;margin-top:10px;color:#fd3}
+@keyframes strike{0%{opacity:0;transform:translate(-50%,-50%) scale(2.4)}15%{opacity:1;transform:translate(-50%,-50%) scale(1)}75%{opacity:1}100%{opacity:0;transform:translate(-50%,-60%) scale(.96)}}
+main.quake{animation:quake .45s cubic-bezier(.36,.07,.19,.97)}
+@keyframes quake{10%,90%{transform:translate(-1px,0)}20%,80%{transform:translate(3px,1px)}30%,50%,70%{transform:translate(-5px,-1px)}40%,60%{transform:translate(5px,1px)}}
+#ticker{position:fixed;left:0;right:0;bottom:0;z-index:40;display:flex;align-items:center;gap:10px;background:#000d;border-top:1px solid #fd35;font:12px monospace;color:#cfc;height:26px;overflow:hidden;backdrop-filter:blur(4px)}
+#ticker>b{padding:0 10px;color:#fd3;white-space:nowrap;text-shadow:0 0 6px #fd3}
+#ticker .tk{overflow:hidden;flex:1;mask-image:linear-gradient(90deg,transparent,#000 4%,#000 96%,transparent)}
+#ticker .tkin{display:inline-flex;gap:14px;white-space:nowrap;animation:tick 70s linear infinite}
+#ticker:hover .tkin{animation-play-state:paused}
+#ticker a{color:#cfc;text-decoration:none}#ticker a:hover{color:#fff}#ticker u{text-decoration:none;opacity:.55}
+#ticker i{font-style:normal;font-weight:700;margin-right:6px;color:#fd3}#ticker .mythic i{color:#ff3cac}#ticker .epic i{color:#b26bff}#ticker .rare i{color:#3cf}
+#ticker .sep{color:#fd35}
+@keyframes tick{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+body{padding-bottom:30px}
+@media (prefers-reduced-motion: reduce){.strike,main.quake,#ticker .tkin,.t-mythic{animation:none}.strike{display:none}}

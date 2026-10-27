@@ -49,6 +49,7 @@ function theoPile(module){return async o=>{const [a,b]=winDate();const q=`mediat
   const kws=themeWords(module);if(!kws.length)return [];
   const q2=`mediatype:texts AND downloads:[0 TO 20] AND title:(${kws.map(w=>w+'*').join(' OR ')})`;
   const d2=await iaDeep(q2,1);const r2=d2.filter(d=>T[module].re.test(d.title||'')).slice(0,24).map(d=>mapIA(d,module,q2));
+  if(!r2.length&&module==='geniza'){const g=await pgpGeniza(module)(o);if(g.length)return g.map(x=>({...x,query:'zero-download IA window empty → Princeton Geniza Project fragments (Pass 14)'}))}
   if(!r2.length)throw new Error('Zero-download pile: nothing on this theme in this random window or in the low-download keyword search. DIG again — it re-rolls the window.');return r2}}
 function themeWords(m){return T[m]?String(T[m].re.source).split('|').map(w=>w.replace(/\\b/g,'').replace(/[^a-z]/gi,'')).filter(w=>w.length>=4).slice(0,10):[]} // on-theme only (Pass 3): empty → retry picks a new random window
 
@@ -139,7 +140,7 @@ const T={
   re:/flood|deluge|creation|cosmogon|comparative|religions|dying god|golden bough|savio|myth/i,ol:['Religions','Comparative religion','Deluge','Creation','Cosmogony'],gut:['Religion','Mythology']},
  lostciv:{name:'LOST CIVILIZATIONS',icon:'🏛',blurb:'Beliefs of Hittite, Etruscan, Minoan, Indus & kin.',
   ia:[['hittite','hittites','"hittite religion"'],['etruscan','etruscans','"etruscan religion"'],['minoan','"minoan religion"','crete','knossos'],['"indus valley"','harappan','"mohenjo-daro"','"indus civilization"'],['phoenician','carthaginian','canaanite','ugarit','ugaritic'],['scythian','thracian','dacian','"celtic religion"','druids']],
-  re:/hittit|etrusc|minoan|crete|cretan|knossos|\bindus\b|harappa|mohenjo|phoenic|carthag|canaan|ugarit|scyth|thrac|dacia|druid|celtic|olmec|maya|aztec|inca/i,ol:['Hittites','Etruscans','Minoans','Indus civilization','Phoenicians','Druids and druidism'],gut:['Druids','Etruscan']},
+  re:/hittit|etrusc|minoan|ancient crete|cretan|knossos|\bindus (valley|civili|script|seal)|harappa|mohenjo|phoenic|carthag|canaan|ugarit|scyth|thracian|dacian|druid|celtic (relig|god|myth|druid)|olmec|\bmayan?s?\b(?! angelou)|\baztecs?\b|\bincas?\b|\binca (empire|relig)/i,ol:['Hittites','Etruscans','Minoans','Indus civilization','Phoenicians','Druids and druidism'],gut:['Druids','Etruscan']},
  oral:{name:'ORAL TRADITIONS',icon:'🗣',blurb:'Tribal myths & folk tales recorded from oral tradition.',
   ia:[['"oral tradition"','"oral traditions"'],['"folk tales"','"folk-tales"','folklore','"folk-lore"'],['"indian legends"','"myths and legends"','"tribal myths"'],['"bureau of american ethnology"','ethnology','"mythology of the"']],
   re:/\boral (tradition|history|lore)|folklor|folk ?tale|legend(s|ary)?\b|\bmyth|\btales?\b|ethnolog|\blore\b|\bsagas?\b/i,ol:['Oral tradition','Folklore','Tales','Indians of North America Folklore','Mythology, African'],gut:['Folklore','Mythology','Legends']},
