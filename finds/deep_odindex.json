@@ -6382,5 +6382,33 @@
    ]
   ],
   "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "mta-sts.txt",
+  "date": "2023-09-06 21:44",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "179",
+  "ftype": "text",
+  "host": "mta-sts.48fm.com",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mta-sts.48fm.com/.well-known/mta-sts.txt",
+  "mime": "text/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://mta-sts.48fm.com/",
+  "kw": "",
+  "preview": "text \u00b7 179 \u00b7 2023-09-06 21:44 \u00b7 in https://mta-sts.48fm.com/.well-known/",
+  "extra": "host: mta-sts.48fm.com \u00b7 dir: https://mta-sts.48fm.com/.well-known/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mta-sts.48fm.com/.well-known/"
+   ]
+  ],
+  "mined_at": "2026-10-28T18:33:10Z"
  }
 ]

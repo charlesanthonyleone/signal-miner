@@ -1107,5 +1107,140 @@
   ],
   "skin": 0.112,
   "mined_at": "2026-10-28T01:04:16Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "error-bg-left.png",
+  "date": "2025-06-01",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "8 KB",
+  "ftype": "image/png",
+  "host": "iqac.du.ac.in",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20250601160515im_/http://iqac.du.ac.in/img-sys/error-bg-left.png",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20250601160515im_/http://iqac.du.ac.in/img-sys/error-bg-left.png",
+  "url": "https://web.archive.org/web/20250601160515/http://iqac.du.ac.in/img-sys/error-bg-left.png",
+  "query": "CDX iqac.du.ac.in/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/png \u00b7 8313 bytes \u00b7 originally at http://iqac.du.ac.in/img-sys/error-bg-left.png",
+  "extra": "original host: iqac.du.ac.in (offline) \u00b7 image/png \u00b7 pixel pre-screen failed",
+  "links": [
+   [
+    "original URL",
+    "http://iqac.du.ac.in/img-sys/error-bg-left.png"
+   ]
+  ],
+  "skin": null,
+  "mined_at": "2026-10-28T18:54:12Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "mughutz.gif",
+  "date": "2003-05-17",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "20 KB",
+  "ftype": "image/gif",
+  "host": "www.angelfire.com:80",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20030517224925im_/http://www.angelfire.com:80/ne/1forme/images/mughutz.gif",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20030517224925im_/http://www.angelfire.com:80/ne/1forme/images/mughutz.gif",
+  "url": "https://web.archive.org/web/20030517224925/http://www.angelfire.com:80/ne/1forme/images/mughutz.gif",
+  "query": "CDX angelfire.com/ne/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/gif \u00b7 21099 bytes \u00b7 originally at http://www.angelfire.com:80/ne/1forme/images/mughutz.gif",
+  "extra": "original host: www.angelfire.com:80 (offline) \u00b7 image/gif \u00b7 pixel pre-screen failed",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com:80/ne/1forme/images/mughutz.gif"
+   ]
+  ],
+  "skin": null,
+  "mined_at": "2026-10-28T18:54:12Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "all3.jpg",
+  "date": "2019-07-25",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "8 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190725033839im_/http://www.angelfire.com/ne/3sistahs/images/all3.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190725033839im_/http://www.angelfire.com/ne/3sistahs/images/all3.jpg",
+  "url": "https://web.archive.org/web/20190725033839/http://www.angelfire.com/ne/3sistahs/images/all3.jpg",
+  "query": "CDX angelfire.com/ne/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 8656 bytes \u00b7 originally at http://www.angelfire.com/ne/3sistahs/images/all3.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg \u00b7 pixel pre-screen failed",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/ne/3sistahs/images/all3.jpg"
+   ]
+  ],
+  "skin": null,
+  "mined_at": "2026-10-28T18:54:12Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "ndutgp.JPG",
+  "date": "2019-07-25",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "65 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190725040041im_/http://www.angelfire.com/ne/3leeged/triskelion/ndutgp.JPG",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190725040041im_/http://www.angelfire.com/ne/3leeged/triskelion/ndutgp.JPG",
+  "url": "https://web.archive.org/web/20190725040041/http://www.angelfire.com/ne/3leeged/triskelion/ndutgp.JPG",
+  "query": "CDX angelfire.com/ne/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 66899 bytes \u00b7 originally at http://www.angelfire.com/ne/3leeged/triskelion/ndutgp.JPG",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg \u00b7 pixel pre-screen failed",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/ne/3leeged/triskelion/ndutgp.JPG"
+   ]
+  ],
+  "skin": null,
+  "mined_at": "2026-10-28T18:54:12Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "2d01.gif",
+  "date": "2019-08-03",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "27 KB",
+  "ftype": "image/gif",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190803060621im_/http://www.angelfire.com/ne/2die4/2d01.gif",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190803060621im_/http://www.angelfire.com/ne/2die4/2d01.gif",
+  "url": "https://web.archive.org/web/20190803060621/http://www.angelfire.com/ne/2die4/2d01.gif",
+  "query": "CDX angelfire.com/ne/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/gif \u00b7 28626 bytes \u00b7 originally at http://www.angelfire.com/ne/2die4/2d01.gif",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/gif \u00b7 pixel pre-screen failed",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/ne/2die4/2d01.gif"
+   ]
+  ],
+  "skin": null,
+  "mined_at": "2026-10-28T18:54:12Z"
  }
 ]

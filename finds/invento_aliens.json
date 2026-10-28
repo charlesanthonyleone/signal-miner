@@ -698,5 +698,25 @@
   "inventor": "\u5468\u4fca\u8d3a",
   "module": "aliens",
   "mined_at": "2026-10-28T10:22:10Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Meteor particle impact sensing apparatus",
+  "date": "1960-07-05",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US2944250A/en",
+  "query": "google patents q=\"interplanetary\" cpc=B64G before 1980",
+  "extra": "patent US2944250A \u00b7 inventor John R Outt",
+  "patent_number": "US2944250A",
+  "inventor": "John R Outt",
+  "module": "aliens",
+  "mined_at": "2026-10-28T18:50:12Z"
  }
 ]

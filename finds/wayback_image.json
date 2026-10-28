@@ -1812,5 +1812,109 @@
    ]
   ],
   "mined_at": "2026-10-28T01:08:19Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "aysha_habib.jpg",
+  "date": "2024-07-10",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "9 KB",
+  "ftype": "image/jpeg",
+  "host": "scholars.aku.edu",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20240710103944im_/https://scholars.aku.edu/files-asset/21936035/aysha_habib.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20240710103944im_/https://scholars.aku.edu/files-asset/21936035/aysha_habib.jpg",
+  "url": "https://web.archive.org/web/20240710103944/https://scholars.aku.edu/files-asset/21936035/aysha_habib.jpg",
+  "query": "CDX scholars.aku.edu/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 9619 bytes \u00b7 originally at https://scholars.aku.edu/files-asset/21936035/aysha_habib.jpg",
+  "extra": "original host: scholars.aku.edu (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "https://scholars.aku.edu/files-asset/21936035/aysha_habib.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-28T18:56:01Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "lumaan_sheikh.jpg",
+  "date": "2024-07-09",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "8 KB",
+  "ftype": "image/jpeg",
+  "host": "scholars.aku.edu",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20240709172035im_/https://scholars.aku.edu/files-asset/10729870/lumaan_sheikh.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20240709172035im_/https://scholars.aku.edu/files-asset/10729870/lumaan_sheikh.jpg",
+  "url": "https://web.archive.org/web/20240709172035/https://scholars.aku.edu/files-asset/10729870/lumaan_sheikh.jpg",
+  "query": "CDX scholars.aku.edu/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 8258 bytes \u00b7 originally at https://scholars.aku.edu/files-asset/10729870/lumaan_sheikh.jpg",
+  "extra": "original host: scholars.aku.edu (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "https://scholars.aku.edu/files-asset/10729870/lumaan_sheikh.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-28T18:56:01Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "farah_qamar.jpg?w=200&f=jpg",
+  "date": "2024-07-09",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "9 KB",
+  "ftype": "image/jpeg",
+  "host": "scholars.aku.edu",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20240709144947im_/https://scholars.aku.edu/files-asset/21936181/farah_qamar.jpg?w=200&f=jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20240709144947im_/https://scholars.aku.edu/files-asset/21936181/farah_qamar.jpg?w=200&f=jpg",
+  "url": "https://web.archive.org/web/20240709144947/https://scholars.aku.edu/files-asset/21936181/farah_qamar.jpg?w=200&f=jpg",
+  "query": "CDX scholars.aku.edu/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 9226 bytes \u00b7 originally at https://scholars.aku.edu/files-asset/21936181/farah_qamar.jpg?w=200&f=jpg",
+  "extra": "original host: scholars.aku.edu (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "https://scholars.aku.edu/files-asset/21936181/farah_qamar.jpg?w=200&f=jpg"
+   ]
+  ],
+  "mined_at": "2026-10-28T18:56:01Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "anita_zaidi.jpg",
+  "date": "2025-12-20",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "83 KB",
+  "ftype": "image/jpeg",
+  "host": "scholars.aku.edu",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20251220142326im_/https://scholars.aku.edu/files-asset/21935843/anita_zaidi.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20251220142326im_/https://scholars.aku.edu/files-asset/21935843/anita_zaidi.jpg",
+  "url": "https://web.archive.org/web/20251220142326/https://scholars.aku.edu/files-asset/21935843/anita_zaidi.jpg",
+  "query": "CDX scholars.aku.edu/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 85928 bytes \u00b7 originally at https://scholars.aku.edu/files-asset/21935843/anita_zaidi.jpg",
+  "extra": "original host: scholars.aku.edu (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "https://scholars.aku.edu/files-asset/21935843/anita_zaidi.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-28T18:56:01Z"
  }
 ]
