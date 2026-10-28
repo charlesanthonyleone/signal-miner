@@ -304,5 +304,22 @@
   "extra": "public RIS-derived view \u00b7 not a live websocket hijack feed",
   "module": "tectonics",
   "mined_at": "2026-10-27T20:17:20Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 99.156.0.0/17",
+  "date": "2026-10-28",
+  "dateLabel": "sampled",
+  "count": 323,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "1.5 km \u00b7 bathypelagic",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"99.156.0.0/17\",\n  \"origin\": \"7018\",\n  \"time\": \"2017-12-14T08:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"99.156.0.0/17\",\n  \"origin\": \"7018\",\n  \"time\": \"2026-10-27T16:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 323,\n   \"total_ris_peers\": 323\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 7018,\n   \"route_objects\": []\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/99.156.0.0/17",
+  "query": "RIPEstat routing-status 99.156.0.0/17",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-10-28T00:39:20Z"
  }
 ]

@@ -378,5 +378,25 @@
   "inventor": "",
   "module": "dead",
   "mined_at": "2026-10-27T20:38:48Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Team spirit communication device",
+  "date": "2005-10-25",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/USD510958S1/en",
+  "query": "google patents q=\"spirit communication\" before 1980",
+  "extra": "patent USD510958S1 \u00b7 inventor Gene Strickland",
+  "patent_number": "USD510958S1",
+  "inventor": "Gene Strickland",
+  "module": "dead",
+  "mined_at": "2026-10-28T00:58:47Z"
  }
 ]

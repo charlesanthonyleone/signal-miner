@@ -1078,5 +1078,34 @@
   ],
   "skin": 0.022,
   "mined_at": "2026-10-27T20:44:27Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "simtel40.gif",
+  "date": "1998-06-18 18:08",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.9K",
+  "ftype": "image",
+  "host": "ftp.sunet.se",
+  "thumb": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/simtelnet/simtel40.gif",
+  "kind": "img",
+  "src": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/simtelnet/simtel40.gif",
+  "gated": true,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/simtelnet/simtel40.gif",
+  "mime": "image/*",
+  "query": "open-dir descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "image \u00b7 3.9K \u00b7 1998-06-18 18:08 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/simtelnet/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/simtelnet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/simtelnet/"
+   ]
+  ],
+  "skin": 0.112,
+  "mined_at": "2026-10-28T01:04:16Z"
  }
 ]
