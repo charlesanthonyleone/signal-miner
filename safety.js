@@ -15,8 +15,8 @@ G.SAFE={
   return null},
  filter(list){return list.filter(x=>!SAFE.screen(x))},
  // thumbnails auto-load only from known text/document hosts
- thumbOK(u,x){if(x&&x.gated)return false;return /(^|\.)(archive\.org|openlibrary\.org|gutenberg\.org)$/.test(host(u))},
- isMedia(x){return !!x.gated||['img','video','audio','cam'].includes(x.kind)||(x.kind==='iframe'&&!/archive\.org$/.test(host(x.src)))||/image|video|audio/i.test(x.mime||'')},
+ thumbOK(u,x){if(x&&x.gated)return false;return /(^|\.)(archive\.org|openlibrary\.org|gutenberg\.org|i\.ytimg\.com)$/.test(host(u))},
+ isMedia(x){return !!x.gated||['img','video','audio','cam'].includes(x.kind)||(x.kind==='iframe'&&!/(archive\.org|youtube-nocookie\.com)$/.test(host(x.src)))||/image|video|audio/i.test(x.mime||'')},
  gate(html,x){const id='g'+Math.random().toString(36).slice(2,8);G['_'+id]=html;
   return `<div class="gate" id="${id}"><div class="ftype">⚠ media not loaded · type: ${x.kind}${x.mime?' / '+x.mime:''} · file: ${String(x.src||x.url).split('/').pop().slice(0,80)}${x.skin!=null&&x.skin!==undefined?` · server pixel pre-screen: skin-tone ${Math.round(x.skin*100)}% (pass)`:(x.kind==='img'?' · server pixel pre-screen: not run':'')}</div>
   <p class="warn">Unknown media from an uncurated source. Signal Miner is text-first and never auto-plays. Load only if you accept the risk; report anything abusive (NCMEC / FBI / IC3 links below).</p>

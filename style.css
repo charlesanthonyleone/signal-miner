@@ -197,3 +197,5 @@ main.quake{animation:quake .45s cubic-bezier(.36,.07,.19,.97)}
 @keyframes tick{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 body{padding-bottom:30px}
 @media (prefers-reduced-motion: reduce){.strike,main.quake,#ticker .tkin,.t-mythic{animation:none}.strike{display:none}}
+
+.halfbtn.youtube{border-color:#f33;color:#f66;font-weight:700}.halfbtn.youtube.on{background:#f33;color:#fff}.seenc{font:12px monospace;opacity:.8;align-self:center}#ytkey{min-width:260px}

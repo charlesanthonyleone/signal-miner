@@ -159,6 +159,13 @@ function logSrc(file,module){return async o=>{o=file==='timeskew'?{...o,y1:0,y2:
 function sacredIA(extra,module){return iaSrc({mt:'texts',extra:extra+' OR collection:sacred_texts OR creator:("Internet Sacred Text Archive")',source:'Sacred Texts / Archive',module})}
 async function openlibTheo(o,module,fallbackKw){const oo={...o,kw:o.kw||pick(fallbackKw)};const r=await openlib(oo);return r.map(x=>({...x,module}))}
 
+/* Persistent seen-set: nothing already shown is ever shown again (YouTube by video ID, other modules by URL hash). */
+const SEEN=(()=>{let S;try{S=new Set(JSON.parse(localStorage.seen||'[]'))}catch(e){S=new Set()}
+ const h=s=>{let a=5381;for(let i=0;i<s.length;i++)a=(a*33^s.charCodeAt(i))>>>0;return a.toString(36)};
+ const key=x=>x.ytid?'yt:'+x.ytid:'h:'+h(x.url||x.title||'');
+ const save=()=>{let a=[...S];if(a.length>60000)a=a.slice(-60000);try{localStorage.seen=JSON.stringify(a)}catch(e){}};
+ return {has:k=>S.has(k),seen:x=>S.has(key(x)),add(list){list.forEach(x=>S.add(key(x)));save()},get size(){return S.size},reset(){S.clear();save()}}})();
+window.SEEN=SEEN;
 const MODULES={
  video:{half:'live',name:'VIDEO',icon:'▶',blurb:'Raw clips, old films, TV and forgotten uploads.',sources:{
   youtube:{name:'YouTube',f:logSrc('youtube','video'),note:'From the scheduled miner log (yt-dlp on GitHub Actions).'},
@@ -210,6 +217,7 @@ const MODULES={
  ...INVENTO_MODULES,
  ...RELIQUARY_MODULES,
  ...DEEPMEDIA_MODULES,
+ ...(window.YT_MODULES||{}),
  ...(window.WORLD_MODULES||{}),
 };
 
@@ -225,7 +233,7 @@ const blocked=u=>BLOCK.has(u)||HIDE().includes(u)||[...BLOCK].some(b=>{const h=h
 const OFFHALF=['theo','redacted','xeno','vatican'],OFFTHEME=/\b(sega|nintendo|playstation|xbox|minecraft|roblox|fortnite|pok[eé]mon|anime|fanfic|wattpad|podcast|webinar|homework|worksheet|panchayat|kerala|right to information|auto market|coupon|promo code|seo|crypto ?currency|nft|vampire household|vlog)\b/i;
 async function mineWithRetry(S,o,say=()=>{}){const steps=[{},{},{loose:1},{loose:1,raw:false},{loose:1,raw:false,y1:1900,y2:2026},{loose:1,raw:false,y1:1900,y2:2026}];
  let err='';for(let i=0;i<steps.length;i++){const q={...o,...steps[i]};if(i)say(`no hits, loosening filters (try ${i+1}/${steps.length})…`);
-  try{const r=SAFE.filter((await S.f(q)).filter(x=>!blocked(x.url))).filter(x=>!(OFFHALF.includes(state.half)&&!o.kw&&OFFTHEME.test(x.title+' '+(x.preview||'').slice(0,200))));if(r.length)return{res:r,err:'',note:i>=2?`[filters loosened] `:''}}catch(e){err=e.message;if(/timed out|rate limit|unreachable/i.test(err))break;await new Promise(r=>setTimeout(r,600))}}
+  try{const r=SAFE.filter((await S.f(q)).filter(x=>!blocked(x.url)&&!SEEN.seen(x))).filter(x=>!(OFFHALF.includes(state.half)&&!o.kw&&OFFTHEME.test(x.title+' '+(x.preview||'').slice(0,200))));if(r.length)return{res:r,err:'',note:i>=2?`[filters loosened] `:''}}catch(e){err=e.message;if(/timed out|rate limit|unreachable/i.test(err))break;await new Promise(r=>setTimeout(r,600))}}
  return{res:[],err,note:''}}
 
 const V=()=>JSON.parse(localStorage.vault||'{}'),saveV=v=>localStorage.vault=JSON.stringify(v);
@@ -233,7 +241,7 @@ function toggle(it){const v=V();v[it.url]?delete v[it.url]:v[it.url]={...it,save
 
 const $=s=>document.querySelector(s);let state={half:'',m:'home',s:''},items=[];
 function route(){const parts=(location.hash.slice(1)||'').split('/');
-  if(['live','trench','theo','invento','reliquary','redacted','xeno','vatican'].includes(parts[0])){state.half=parts[0];state.m=parts[1]||'hub';state.s=parts[2]||''}
+  if(['youtube','live','trench','theo','invento','reliquary','redacted','xeno','vatican'].includes(parts[0])){state.half=parts[0];state.m=parts[1]||'hub';state.s=parts[2]||''}
   else if(parts[0]==='find'&&parts[1]){state.half='';state.m='home';state.s='';render();return SAFE_READY.then(()=>openShared(parts.slice(1).join('/')))}
   else if(parts[0]==='vault'||parts[0]==='report'){state.half=state.half||'';state.m=parts[0];state.s=''}
   else if(MODULES[parts[0]]){state.half=MODULES[parts[0]].half;state.m=parts[0];state.s=parts[1]||''}
@@ -274,6 +282,7 @@ function reportPage(){const x=REP,site=x&&(REPORT_SITE[x.source]||[`${x.source}:
 
 function halfMods(h){return Object.entries(MODULES).filter(([,m])=>m.half===h)}
 function topnav(){$('#topnav').innerHTML=`
+ <button title="YOUTUBE · UNSEEN — dig YouTube for near-zero-view, forgotten uploads; never repeats" class="halfbtn youtube ${state.half==='youtube'?'on':''}" onclick="location.hash='youtube/youtube'">📼 YOUTUBE</button>
  <button title="LIVE — public archives & platforms (Internet Archive, Commons, Met, Open Library…)" class="halfbtn live ${state.half==='live'?'on':''}" onclick="location.hash='live'">LIVE</button>
  <button title="TRENCH — grayspace only: open directories, gopher, gemini, dead personal hosts, raw feeds" class="halfbtn trench ${state.half==='trench'?'on':''}" onclick="location.hash='trench'">TRENCH</button>
  <button title="THEO — apocrypha, heresies and obscure religious texts" class="halfbtn theo ${state.half==='theo'?'on':''}" onclick="location.hash='theo'">THEO</button>
@@ -313,7 +322,7 @@ let OREFX=0;function oreFX(){const c=document.getElementById('ore');if(!c||match
   if(!document.hidden)requestAnimationFrame(f);else setTimeout(()=>requestAnimationFrame(f),1000)})()}
 const _home13=home;home=function(){_home13();oreFX()};
 function digAnywhere(){const ks=Object.keys(MODULES).filter(k=>MODULES[k].half&&Object.keys(MODULES[k].sources).length),k=ks[Math.floor(Math.random()*ks.length)],ss=Object.keys(MODULES[k].sources);location.hash=`${MODULES[k].half}/${k}/${ss[Math.floor(Math.random()*ss.length)]}`}
-const HUBMETA={live:{title:'LIVE · module hub',a:'SURFACE',b:'BROADCAST',sub:'Pick a module, then generate finds inside it.'},
+const HUBMETA={youtube:{title:'YOUTUBE · UNSEEN',a:'0 VIEWS',b:'BURIED',sub:'Dig YouTube for uploads nobody has watched.'},live:{title:'LIVE · module hub',a:'SURFACE',b:'BROADCAST',sub:'Pick a module, then generate finds inside it.'},
  trench:{title:'TRENCH · Mariana modules',a:'0 m',b:'10 994 m',sub:'Hardline random / unfiltered enumeration from public indexes. Safety filter (NSFW/blocklist) only. No scanning, no credentials, no Tor.'},
  theo:{title:'THEO · forgotten theology & cultures',a:'CANON',b:'CULTURES',sub:'Manuscripts, apocrypha, Geniza, grimoires, dead languages, clay tablets — plus Forgotten Cultures (lost civs, dead gods, mystery cults, suppressed faiths). Public archives only.'},
  invento:{title:'INVENTO · patent vault',a:'FILED',b:'ABANDONED',sub:'Forgotten filings from Google Patents (old priority dates, real CPC codes, title-filtered to the theme) with a tightened USPTO fallback. Click a card for the abstract + drawing link.'},
@@ -340,16 +349,21 @@ function render(){document.body.className=(state.half||state.m||'home');topnav()
  <div class="ctl"><input type="text" id="kw" placeholder="${trench?'keyword / ASN (blank = random descent)':theo?'tradition / text (blank = random dig)':inv?'patent keyword (blank = random dig)':'keyword (blank = random dig)'}"><label>years <input type="number" id="y1" value="${localStorage.y1||1900}"> – <input type="number" id="y2" value="${localStorage.y2||new Date().getFullYear()}"></label>
  <select id="raw"><option value="1">${trench?'smaller / rarer first':'raw / low-count only'}</option><option value="">any</option></select>
  <button class="go" onclick="dig()">⛏ MINE</button>
- <button class="go" onclick="location.hash='${state.half}'">← hub</button></div>
+ ${state.half==='youtube'?`<button class="go" onclick="$('#kw').value='';dig()">🎲 random dig</button>`:''}
+ <button class="go" onclick="location.hash='${state.half}'">← hub</button>
+ <span class="seenc" id="seenc">👁 ${SEEN.size} mined/seen</span><button class="go" onclick="resetSeen()">reset history</button>
+ ${state.s==='api'&&state.half==='youtube'?`<input type="password" id="ytkey" placeholder="YouTube Data API key (stored only in this browser)" value="${esc(localStorage.ytkey||'')}">`:''}</div>
  <div class="scan" id="scan"></div><div class="status" id="st"></div><div class="bkbar" id="grid-bk"></div><div class="grid" id="grid"></div></section>`;
- $('#raw').value=localStorage.raw??'1';$('#kw').onkeydown=e=>e.key==='Enter'&&dig();dig()}
+ $('#raw').value=localStorage.raw??'1';$('#kw').onkeydown=e=>{if(e.key==='Enter'){e.preventDefault();dig()}};const yk=$('#ytkey');if(yk)yk.oninput=()=>localStorage.ytkey=yk.value.trim();dig()}
+function seenCtr(){const e=$('#seenc');if(e)e.textContent=`👁 ${SEEN.size} mined/seen`}
+function resetSeen(){if(confirm('Forget every find you have been shown? Old finds may reappear.')){SEEN.reset();seenCtr()}}
 
 async function dig(){const o={kw:$('#kw').value.trim(),y1:+$('#y1').value||1900,y2:+$('#y2').value||2026,raw:!!$('#raw').value};localStorage.y1=o.y1;localStorage.y2=o.y2;localStorage.raw=o.raw?'1':'';
  BFILTER='';const S=MODULES[state.m].sources[state.s],tag=state.m+state.s;$('#scan').classList.add('on');$('#st').textContent=`scanning ${S.name}…`;$('#grid').innerHTML='';
  const st0=NET.stale||0,gf0=NET.gistFallback;NET.gistFallback=false;let {res,err,note}=await mineWithRetry(S,o,m=>{$('#st').textContent=m});
  if((NET.stale||0)>st0)note=(note||'')+'⚠ live source slow/down — showing last cached response · ';if(NET.gistFallback)note=(note||'')+'⚠ GitHub rate-limited — showing Action-harvested gists · ';
- if(tag!==state.m+state.s)return;$('#scan').classList.remove('on');items=res;
- $('#st').textContent=res.length?`${note}${res.length} finds · ${new Date().toLocaleTimeString()} · query: ${res[0].query}`:(err?'source error: '+err:'0 finds');grid('#grid',res);if(!res.length)$('#grid').innerHTML=`<div class="empty"><b>Nothing surfaced from ${esc(S.name)}${o.kw?` for “${esc(o.kw)}”`:''}.</b><br>${err?'The source failed to answer ('+esc(String(err))+') — it may be rate-limiting or down. ':''}${o.kw?'Try a broader or different keyword, or clear it for a random dig. ':'Random digs vary — press ⛏ MINE again. '}${/finds\//.test(S.f.toString())||S.note&&/3h|pre-?(mined|harvest)/i.test(S.note)?'This source is pre-harvested by the scheduled miner every 3 hours, so a fresh pool may still be filling. ':''}Other tabs: ${Object.entries(MODULES[state.m].sources).filter(([k])=>k!==state.s).map(([k,x])=>`<a href="#${state.half}/${state.m}/${k}">${esc(x.name)}</a>`).join(' · ')||'—'}</div>`}
+ if(tag!==state.m+state.s)return;$('#scan').classList.remove('on');{const n0=res.length;res=res.filter(x=>!SEEN.seen(x));if(n0&&!res.length){err='';note='';}if(n0>res.length)note=(note||'')+`${n0-res.length} already-seen hidden · `}SEEN.add(res);seenCtr();items=res;
+ $('#st').textContent=res.length?`${note}${res.length} finds · ${new Date().toLocaleTimeString()} · query: ${res[0].query}`:(err?'source error: '+err:'0 finds');grid('#grid',res);if(!res.length)$('#grid').innerHTML=`<div class="empty"><b>Nothing new surfaced from ${esc(S.name)}${o.kw?` for “${esc(o.kw)}”`:''}.</b><br>${err?'The source failed to answer ('+esc(String(err))+') — it may be rate-limiting or down. ':''}${o.kw?'Try a broader or different keyword, or clear it for a random dig. ':'Random digs vary — press ⛏ MINE again. '}${/finds\//.test(S.f.toString())||S.note&&/3h|pre-?(mined|harvest)/i.test(S.note)?'This source is pre-harvested by the scheduled miner every 3 hours, so a fresh pool may still be filling. ':''}Other tabs: ${Object.entries(MODULES[state.m].sources).filter(([k])=>k!==state.s).map(([k,x])=>`<a href="#${state.half}/${state.m}/${k}">${esc(x.name)}</a>`).join(' · ')||'—'}</div>`}
 
 // Pass 12: global theme-bucket tagger — every find on every page gets bucket chips; a bar above the grid filters by bucket.
 const BUCKETS=[['UFO/UAP',/\b(ufo|uap|saucer|flying disc|alien|extraterrestr|abduct|roswell|blue book|close encounter|unidentified|sighting|crop circle|cufos?|mufon)/i],
@@ -385,7 +399,7 @@ function grid(sel,list){
  <button class="star rep" title="report" onclick="event.stopPropagation();report(LISTS['${sel}'][${i}])">⚑</button>
  <button class="star" onclick="event.stopPropagation();this.textContent=toggle(LISTS['${sel}'][${i}])?'★':'☆';topnav()">${V()[x.url]?'★':'☆'}</button>
  ${x.kind==='meta'?`<div class="thumb meta-thumb"><div class="depth">${esc(x.depth||'—')}</div><div class="fname">${esc(x.title)}</div><div class="ftype">${esc(x.mime||'file')}${x.count!=null?' · '+esc(x.count)+' '+(x.countLabel||''):''}</div></div>`
-  :`<div class="thumb" style="${x.thumb&&SAFE.thumbOK(x.thumb,x)?`background-image:url('${esc(x.thumb)}')`:''}">${x.thumb&&SAFE.thumbOK(x.thumb,x)?'':(x.gated?'⚠':(x.kind==='cam'?'📷':MODULES[x.module]?.icon||'?'))}</div>`}
+  :`<div class="thumb" style="${x.thumb&&SAFE.thumbOK(x.thumb,x)?`background-image:url('${esc(x.thumb)}')${x.thumb2?`,url('${esc(x.thumb2)}')`:''}`:''}">${x.thumb&&SAFE.thumbOK(x.thumb,x)?'':(x.gated?'⚠':(x.kind==='cam'?'📷':MODULES[x.module]?.icon||'?'))}</div>`}
  <div class="meta"><div><span class="badge">${esc(x.source)}</span>${x.depth?`<span class="badge">${esc(x.depth)}</span>`:''}</div>
  ${untouched(x)?'<span class="vbadge">◆ UNTOUCHED</span>':''}<div class="t">${esc(x.title)}</div>
  <div class="bks">${bucketsOf(x).map(b=>`<span class="bkc">${esc(b)}</span>`).join("")}</div>
