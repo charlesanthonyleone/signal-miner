@@ -5486,5 +5486,901 @@
    ]
   ],
   "mined_at": "2026-10-28T00:41:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "IMG_0148_01.jpg",
+  "date": "2009-10-13 01:11",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "23K",
+  "ftype": "image",
+  "host": "allegro.sigreg.pl",
+  "thumb": "https://allegro.sigreg.pl/zawor/IMG_0148_01.jpg",
+  "kind": "img",
+  "src": "https://allegro.sigreg.pl/zawor/IMG_0148_01.jpg",
+  "gated": true,
+  "url": "https://allegro.sigreg.pl/zawor/IMG_0148_01.jpg",
+  "mime": "image/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://allegro.sigreg.pl/",
+  "kw": "",
+  "preview": "image \u00b7 23K \u00b7 2009-10-13 01:11 \u00b7 in https://allegro.sigreg.pl/zawor/",
+  "extra": "host: allegro.sigreg.pl \u00b7 dir: https://allegro.sigreg.pl/zawor/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://allegro.sigreg.pl/zawor/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "IMG_0146_01.jpg",
+  "date": "2009-10-13 01:10",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "35K",
+  "ftype": "image",
+  "host": "allegro.sigreg.pl",
+  "thumb": "https://allegro.sigreg.pl/zawor/IMG_0146_01.jpg",
+  "kind": "img",
+  "src": "https://allegro.sigreg.pl/zawor/IMG_0146_01.jpg",
+  "gated": true,
+  "url": "https://allegro.sigreg.pl/zawor/IMG_0146_01.jpg",
+  "mime": "image/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://allegro.sigreg.pl/",
+  "kw": "",
+  "preview": "image \u00b7 35K \u00b7 2009-10-13 01:10 \u00b7 in https://allegro.sigreg.pl/zawor/",
+  "extra": "host: allegro.sigreg.pl \u00b7 dir: https://allegro.sigreg.pl/zawor/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://allegro.sigreg.pl/zawor/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "Viewtek-1.04a.readme",
+  "date": "1993-03-23 07:42",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "125",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/Viewtek-1.04a.readme",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 125 \u00b7 1993-03-23 07:42 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ZGif-0.4.readme",
+  "date": "1993-12-18 03:43",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "382",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/ZGif-0.4.readme",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 382 \u00b7 1993-12-18 03:43 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README.ancient",
+  "date": "2004-07-07 08:47",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.7K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/adm/README.ancient",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 3.7K \u00b7 2004-07-07 08:47 \u00b7 in https://ftp.funet.fi/pub/pics/adm/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/adm/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/adm/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "BigAnim-3.3.readme",
+  "date": "1993-07-28 01:39",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.2K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/BigAnim-3.3.readme",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 1.2K \u00b7 1993-07-28 01:39 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "www-glip",
+  "date": "1997-02-24 12:05",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "42",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/unix/www-glip",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "text \u00b7 42 \u00b7 1997-02-24 12:05 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/unix/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/unix/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/unix/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "levyn.du",
+  "date": "1999-10-17 04:14",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "55K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/levyn.du",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 55K \u00b7 1999-10-17 04:14 \u00b7 in https://ftp.funet.fi/pub/pics/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "CyberShow-3.4.readme",
+  "date": "1995-07-28 16:39",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.3K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/CyberShow-3.4.readme",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 1.3K \u00b7 1995-07-28 16:39 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "Viewtek-1.03.lha",
+  "date": "1992-12-16 21:19",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "85K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/Viewtek-1.03.lha",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 85K \u00b7 1992-12-16 21:19 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "FastGIF-2.08.readme",
+  "date": "1993-07-02 17:55",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.3K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/FastGIF-2.08.readme",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 1.3K \u00b7 1993-07-02 17:55 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "WinPlay-2.0.lha",
+  "date": "1995-07-10 20:21",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "41K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/WinPlay-2.0.lha",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 41K \u00b7 1995-07-10 20:21 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "Viewtek-1.04a.lha",
+  "date": "1993-03-23 07:34",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "123K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/Viewtek-1.04a.lha",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 123K \u00b7 1993-03-23 07:34 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "View-2.0.lha",
+  "date": "1992-09-21 23:22",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "49K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/View-2.0.lha",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 49K \u00b7 1992-09-21 23:22 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "levyn-vanha.du",
+  "date": "1999-10-16 04:15",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "55K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/levyn-vanha.du",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 55K \u00b7 1999-10-16 04:15 \u00b7 in https://ftp.funet.fi/pub/pics/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "RxSlides-1.2.lha",
+  "date": "1993-12-21 04:10",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "27K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/RxSlides-1.2.lha",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 27K \u00b7 1993-12-21 04:10 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "Viewtek-1.04.lha",
+  "date": "1993-03-15 11:34",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "124K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/Viewtek-1.04.lha",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 124K \u00b7 1993-03-15 11:34 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "Mostra-2.0.lha",
+  "date": "1993-05-29 23:02",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "53K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/Mostra-2.0.lha",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 53K \u00b7 1993-05-29 23:02 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "VirtGIF-1.0.lha",
+  "date": "1992-06-18 00:22",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "11K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/VirtGIF-1.0.lha",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 11K \u00b7 1992-06-18 00:22 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README.GIF89a",
+  "date": "1995-11-16 20:55",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "383",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/README.GIF89a",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 383 \u00b7 1995-11-16 20:55 \u00b7 in https://ftp.funet.fi/pub/pics/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "MPEGPlay_bin-2.01.lha",
+  "date": "1993-02-16 00:06",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "147K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/MPEGPlay_bin-2.01.lha",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 147K \u00b7 1993-02-16 00:06 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "flick-1.2.lha",
+  "date": "1994-03-06 22:47",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "64K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/flick-1.2.lha",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 64K \u00b7 1994-03-06 22:47 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README.non-Europeans",
+  "date": "1993-05-16 21:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "947",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/adm/README.non-Europeans",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 947 \u00b7 1993-05-16 21:58 \u00b7 in https://ftp.funet.fi/pub/pics/adm/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/adm/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/adm/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "GIF_view-4.0.lha",
+  "date": "1992-06-18 00:16",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "13K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/GIF_view-4.0.lha",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 13K \u00b7 1992-06-18 00:16 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "BigAnim-3.3.lha",
+  "date": "1993-07-27 09:36",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "10K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/BigAnim-3.3.lha",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 10K \u00b7 1993-07-27 09:36 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "EDTView-0.5.readme",
+  "date": "1993-12-16 01:34",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "519",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/EDTView-0.5.readme",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 519 \u00b7 1993-12-16 01:34 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "MPEGPlay_src-2.01.lha",
+  "date": "1993-05-05 17:45",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "170K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/MPEGPlay_src-2.01.lha",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 170K \u00b7 1993-05-05 17:45 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "Kim-3.0.readme",
+  "date": "1993-12-12 04:52",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "528",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/Kim-3.0.readme",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 528 \u00b7 1993-12-12 04:52 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "RTAP-1.0.lha",
+  "date": "1992-12-14 20:53",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "7.1K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/RTAP-1.0.lha",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 7.1K \u00b7 1992-12-14 20:53 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "Dyna-Show-1.4.lha",
+  "date": "1992-06-17 21:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "7.1K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/Dyna-Show-1.4.lha",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 7.1K \u00b7 1992-06-17 21:58 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "flick-1.2.readme",
+  "date": "1994-03-06 22:48",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "265",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/flick-1.2.readme",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 265 \u00b7 1994-03-06 22:48 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "PCXaga.readme",
+  "date": "1995-02-08 12:24",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "485",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/viewers/amiga/PCXaga.readme",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 485 \u00b7 1995-02-08 12:24 \u00b7 in https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/amiga/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/viewers/amiga/"
+   ]
+  ],
+  "mined_at": "2026-10-28T10:05:03Z"
  }
 ]

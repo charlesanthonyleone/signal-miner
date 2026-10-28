@@ -321,5 +321,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-10-28T00:39:20Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 172.124.0.0/14",
+  "date": "2026-10-28",
+  "dateLabel": "sampled",
+  "count": 322,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"172.124.0.0/14\",\n  \"origin\": \"7018\",\n  \"time\": \"2015-07-30T16:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"172.124.0.0/14\",\n  \"origin\": \"7018\",\n  \"time\": \"2026-10-28T08:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 322,\n   \"total_ris_peers\": 322\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 7018,\n   \"route_objects\": []\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/172.124.0.0/14",
+  "query": "RIPEstat routing-status 172.124.0.0/14",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-10-28T10:00:23Z"
  }
 ]
