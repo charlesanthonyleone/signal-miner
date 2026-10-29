@@ -6637,5 +6637,25 @@
   "preview": "warriors-1150.mpg \u00b7 121M \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/warriors/",
   "extra": "open directory on ftp.sunet.se",
   "mined_at": "2026-10-29T10:30:58Z"
+ },
+ {
+  "source": "Open Directory (index)",
+  "title": "warriors-700-de-VBR.mpg",
+  "date": "2002-11-27",
+  "dateLabel": "modified",
+  "count": null,
+  "countLabel": "",
+  "size": "71M",
+  "ftype": "video/mpg",
+  "host": "ftp.sunet.se",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/warriors/warriors-700-de-VBR.mpg",
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/warriors/warriors-700-de-VBR.mpg",
+  "query": "open-directory index (odbig) video extensions",
+  "preview": "warriors-700-de-VBR.mpg \u00b7 71M \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/warriors/",
+  "extra": "open directory on ftp.sunet.se",
+  "mined_at": "2026-10-29T19:00:31Z"
  }
 ]
