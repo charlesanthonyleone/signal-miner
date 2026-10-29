@@ -1916,5 +1916,239 @@
    ]
   ],
   "mined_at": "2026-10-28T18:56:01Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "cloud.jpeg",
+  "date": "2019-08-05",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "25 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190805185427im_/http://www.angelfire.com/il/1dc/cloud.jpeg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190805185427im_/http://www.angelfire.com/il/1dc/cloud.jpeg",
+  "url": "https://web.archive.org/web/20190805185427/http://www.angelfire.com/il/1dc/cloud.jpeg",
+  "query": "CDX angelfire.com/il/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 26349 bytes \u00b7 originally at http://www.angelfire.com/il/1dc/cloud.jpeg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/il/1dc/cloud.jpeg"
+   ]
+  ],
+  "mined_at": "2026-10-29T10:13:23Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "9991.jpg",
+  "date": "2019-07-28",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "10 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190728042527im_/http://www.angelfire.com/il/159753/images/9991.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190728042527im_/http://www.angelfire.com/il/159753/images/9991.jpg",
+  "url": "https://web.archive.org/web/20190728042527/http://www.angelfire.com/il/159753/images/9991.jpg",
+  "query": "CDX angelfire.com/il/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 11055 bytes \u00b7 originally at http://www.angelfire.com/il/159753/images/9991.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/il/159753/images/9991.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-29T10:13:23Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "Moaswe.gif",
+  "date": "2007-04-12",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "7 KB",
+  "ftype": "image/gif",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20070412070529im_/http://www.angelfire.com/il/159753/images/Moaswe.gif",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20070412070529im_/http://www.angelfire.com/il/159753/images/Moaswe.gif",
+  "url": "https://web.archive.org/web/20070412070529/http://www.angelfire.com/il/159753/images/Moaswe.gif",
+  "query": "CDX angelfire.com/il/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/gif \u00b7 7979 bytes \u00b7 originally at http://www.angelfire.com/il/159753/images/Moaswe.gif",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/gif",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/il/159753/images/Moaswe.gif"
+   ]
+  ],
+  "mined_at": "2026-10-29T10:13:23Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "as2.JPG",
+  "date": "2019-07-28",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "34 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190728042524im_/http://www.angelfire.com/il/159753/images/as2.JPG",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190728042524im_/http://www.angelfire.com/il/159753/images/as2.JPG",
+  "url": "https://web.archive.org/web/20190728042524/http://www.angelfire.com/il/159753/images/as2.JPG",
+  "query": "CDX angelfire.com/il/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 35418 bytes \u00b7 originally at http://www.angelfire.com/il/159753/images/as2.JPG",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/il/159753/images/as2.JPG"
+   ]
+  ],
+  "mined_at": "2026-10-29T10:13:23Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "natrou.jpg",
+  "date": "2001-06-11",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "108 KB",
+  "ftype": "image/jpeg",
+  "host": "www.geocities.com:80",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20010611030637im_/http://www.geocities.com:80/enchantedforest/7550/natrou.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20010611030637im_/http://www.geocities.com:80/enchantedforest/7550/natrou.jpg",
+  "url": "https://web.archive.org/web/20010611030637/http://www.geocities.com:80/enchantedforest/7550/natrou.jpg",
+  "query": "CDX geocities.com/EnchantedForest/7550/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 111531 bytes \u00b7 originally at http://www.geocities.com:80/enchantedforest/7550/natrou.jpg",
+  "extra": "original host: www.geocities.com:80 (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.geocities.com:80/enchantedforest/7550/natrou.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-29T10:44:21Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "jffnetwork2.gif",
+  "date": "2000-09-15",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "14 KB",
+  "ftype": "image/gif",
+  "host": "members.tripod.com:80",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20000915083145im_/http://members.tripod.com:80/g-jffn/jffnetwork2.gif",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20000915083145im_/http://members.tripod.com:80/g-jffn/jffnetwork2.gif",
+  "url": "https://web.archive.org/web/20000915083145/http://members.tripod.com:80/g-jffn/jffnetwork2.gif",
+  "query": "CDX members.tripod.com/g* mimetype image/(gif|jpeg|png)",
+  "preview": "image/gif \u00b7 14864 bytes \u00b7 originally at http://members.tripod.com:80/g-jffn/jffnetwork2.gif",
+  "extra": "original host: members.tripod.com:80 (offline) \u00b7 image/gif",
+  "links": [
+   [
+    "original URL",
+    "http://members.tripod.com:80/g-jffn/jffnetwork2.gif"
+   ]
+  ],
+  "mined_at": "2026-10-29T10:44:21Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "calflag.gif",
+  "date": "2000-09-15",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "9 KB",
+  "ftype": "image/gif",
+  "host": "members.tripod.com:80",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20000915083147im_/http://members.tripod.com:80/g-jffn/calflag.gif",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20000915083147im_/http://members.tripod.com:80/g-jffn/calflag.gif",
+  "url": "https://web.archive.org/web/20000915083147/http://members.tripod.com:80/g-jffn/calflag.gif",
+  "query": "CDX members.tripod.com/g* mimetype image/(gif|jpeg|png)",
+  "preview": "image/gif \u00b7 9874 bytes \u00b7 originally at http://members.tripod.com:80/g-jffn/calflag.gif",
+  "extra": "original host: members.tripod.com:80 (offline) \u00b7 image/gif",
+  "links": [
+   [
+    "original URL",
+    "http://members.tripod.com:80/g-jffn/calflag.gif"
+   ]
+  ],
+  "mined_at": "2026-10-29T10:44:21Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "img5.gif",
+  "date": "2001-09-11",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "9 KB",
+  "ftype": "image/gif",
+  "host": "members.tripod.com:80",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20010911180027im_/http://members.tripod.com:80/g.siber/img5.gif",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20010911180027im_/http://members.tripod.com:80/g.siber/img5.gif",
+  "url": "https://web.archive.org/web/20010911180027/http://members.tripod.com:80/g.siber/img5.gif",
+  "query": "CDX members.tripod.com/g* mimetype image/(gif|jpeg|png)",
+  "preview": "image/gif \u00b7 10178 bytes \u00b7 originally at http://members.tripod.com:80/g.siber/img5.gif",
+  "extra": "original host: members.tripod.com:80 (offline) \u00b7 image/gif",
+  "links": [
+   [
+    "original URL",
+    "http://members.tripod.com:80/g.siber/img5.gif"
+   ]
+  ],
+  "mined_at": "2026-10-29T10:44:21Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "FR152e.jpg",
+  "date": "2000-09-17",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "12 KB",
+  "ftype": "image/jpeg",
+  "host": "members.tripod.com:80",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20000917003811im_/http://members.tripod.com:80/G2Entertainment/FR152e.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20000917003811im_/http://members.tripod.com:80/G2Entertainment/FR152e.jpg",
+  "url": "https://web.archive.org/web/20000917003811/http://members.tripod.com:80/G2Entertainment/FR152e.jpg",
+  "query": "CDX members.tripod.com/g* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 12406 bytes \u00b7 originally at http://members.tripod.com:80/G2Entertainment/FR152e.jpg",
+  "extra": "original host: members.tripod.com:80 (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://members.tripod.com:80/G2Entertainment/FR152e.jpg"
+   ]
+  ],
+  "mined_at": "2026-10-29T10:44:21Z"
  }
 ]
