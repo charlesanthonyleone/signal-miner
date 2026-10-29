@@ -6031,5 +6031,77 @@
   "preview": "laputa.mpg \u00b7 216K \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/anime-manga/anim/mpg/",
   "extra": "open directory on ftp.sunet.se",
   "mined_at": "2026-10-28T18:49:52Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "c5.mov",
+  "date": "2026-04-17",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "148 KB",
+  "ftype": "video/quicktime",
+  "host": "www.oocities.org",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20260417032259id_/https://www.oocities.org/motorcity/speedway/8256/c5.mov",
+  "url": "https://web.archive.org/web/20260417032259/https://www.oocities.org/motorcity/speedway/8256/c5.mov",
+  "query": "CDX www.oocities.org/motorcity/* (resumable harvest)",
+  "preview": "video/quicktime \u00b7 152188 bytes \u00b7 originally at https://www.oocities.org/motorcity/speedway/8256/c5.mov",
+  "extra": "original host: www.oocities.org (offline) \u00b7 video/quicktime",
+  "links": [
+   [
+    "original URL",
+    "https://www.oocities.org/motorcity/speedway/8256/c5.mov"
+   ]
+  ],
+  "mined_at": "2026-10-29T01:25:16Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "lengua.swf",
+  "date": "2025-12-27",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "375 KB",
+  "ftype": "application/x-shockwave-flash",
+  "host": "www.geocities.ws",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20251227151148id_/http://www.geocities.ws/zikykal/lengua.swf",
+  "url": "https://web.archive.org/web/20251227151148/http://www.geocities.ws/zikykal/lengua.swf",
+  "query": "CDX www.geocities.ws/z* (resumable harvest)",
+  "preview": "application/x-shockwave-flash \u00b7 384143 bytes \u00b7 originally at http://www.geocities.ws/zikykal/lengua.swf",
+  "extra": "original host: www.geocities.ws (offline) \u00b7 application/x-shockwave-flash",
+  "links": [
+   [
+    "original URL",
+    "http://www.geocities.ws/zikykal/lengua.swf"
+   ]
+  ],
+  "mined_at": "2026-10-29T01:25:16Z"
+ },
+ {
+  "source": "Open Directory (index)",
+  "title": "glr-dream.mpg",
+  "date": "1994-01-05",
+  "dateLabel": "modified",
+  "count": null,
+  "countLabel": "",
+  "size": "1.7M",
+  "ftype": "video/mpg",
+  "host": "ftp.sunet.se",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/anime-manga/anim/mpg/glr-dream.mpg",
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/anime-manga/anim/mpg/glr-dream.mpg",
+  "query": "open-directory index (odbig) video extensions",
+  "preview": "glr-dream.mpg \u00b7 1.7M \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/anime-manga/anim/mpg/",
+  "extra": "open directory on ftp.sunet.se",
+  "mined_at": "2026-10-29T01:25:16Z"
  }
 ]

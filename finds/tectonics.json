@@ -355,5 +355,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-10-28T18:27:55Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 71.152.128.0/17",
+  "date": "2026-10-29",
+  "dateLabel": "sampled",
+  "count": 323,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"71.152.128.0/17\",\n  \"origin\": \"7018\",\n  \"time\": \"2017-12-14T08:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"71.152.128.0/17\",\n  \"origin\": \"7018\",\n  \"time\": \"2026-10-29T00:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 323,\n   \"total_ris_peers\": 323\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 7018,\n   \"route_objects\": []\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/71.152.128.0/17",
+  "query": "RIPEstat routing-status 71.152.128.0/17",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-10-29T01:05:16Z"
  }
 ]
