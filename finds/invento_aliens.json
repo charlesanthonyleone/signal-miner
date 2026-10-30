@@ -1058,5 +1058,25 @@
   "inventor": "\u90ed\u671d\u7ea2",
   "module": "aliens",
   "mined_at": "2026-10-30T01:34:10Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Anti-gravity mold",
+  "date": "1988-04-15",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/JPS6384756A/en",
+  "query": "google patents q=\"anti gravity\" before 2000",
+  "extra": "patent JPS6384756A \u00b7 inventor \u30ed\u30b8\u30e3\u30fc \u30a8\u30eb\uff0e\u30a2\u30fc\u30e2\u30f3\u30c9",
+  "patent_number": "JPS6384756A",
+  "inventor": "\u30ed\u30b8\u30e3\u30fc \u30a8\u30eb\uff0e\u30a2\u30fc\u30e2\u30f3\u30c9",
+  "module": "aliens",
+  "mined_at": "2026-10-30T10:33:49Z"
  }
 ]

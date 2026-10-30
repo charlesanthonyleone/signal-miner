@@ -423,5 +423,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-10-30T01:14:11Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 151.240.16.0/24",
+  "date": "2026-10-30",
+  "dateLabel": "sampled",
+  "count": 322,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"151.240.16.0/24\",\n  \"origin\": \"834\",\n  \"time\": \"2025-03-05T16:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"151.240.16.0/24\",\n  \"origin\": \"2914\",\n  \"time\": \"2026-10-30T08:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 322,\n   \"total_ris_peers\": 323\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 2914,\n   \"route_objects\": [\n    \"RIPE\",\n    \"radb\"\n   ]\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/151.240.16.0/24",
+  "query": "RIPEstat routing-status 151.240.16.0/24",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-10-30T10:13:53Z"
  }
 ]
