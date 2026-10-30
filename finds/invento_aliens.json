@@ -1038,5 +1038,25 @@
   "inventor": "John G. Bridge",
   "module": "aliens",
   "mined_at": "2026-10-29T19:00:56Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Anti-gravity heat pipe",
+  "date": "2016-06-15",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/CN105674780A/en",
+  "query": "google patents q=\"anti gravity\" before 1960",
+  "extra": "patent CN105674780A \u00b7 inventor \u90ed\u671d\u7ea2",
+  "patent_number": "CN105674780A",
+  "inventor": "\u90ed\u671d\u7ea2",
+  "module": "aliens",
+  "mined_at": "2026-10-30T01:34:10Z"
  }
 ]

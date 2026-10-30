@@ -406,5 +406,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-10-29T18:37:33Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 207.250.89.0/24",
+  "date": "2026-10-30",
+  "dateLabel": "sampled",
+  "count": 323,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"207.250.89.0/24\",\n  \"origin\": \"4323\",\n  \"time\": \"2001-02-03T08:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"207.250.89.0/24\",\n  \"origin\": \"3356\",\n  \"time\": \"2026-10-30T00:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 323,\n   \"total_ris_peers\": 323\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 3356,\n   \"route_objects\": []\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/207.250.89.0/24",
+  "query": "RIPEstat routing-status 207.250.89.0/24",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-10-30T01:14:11Z"
  }
 ]

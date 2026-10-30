@@ -2014,5 +2014,197 @@
    ]
   ],
   "mined_at": "2026-10-29T18:45:22Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "\"part of a whole\" tarot spread",
+  "url": "https://portal.mozz.us/gemini/dogboy.smol.pub/partofawholespread",
+  "gemini": "gemini://dogboy.smol.pub/partofawholespread",
+  "date": "",
+  "dateLabel": "",
+  "count": 2668,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "dogboy.smol.pub",
+  "preview": "# \"part of a whole\" tarot spread\n\n04/06/24\r\n=> https://iv.melmac.space/watch?v=iArXv64tCJA listening to: young folks - peter, bjorn and john\r\n\r\n=> flower2.png\r\n\r\nart is at a standstill recently. i did however manage to add backs to my \"candyfloss\" tarot deck. annoyingly every step of the pattern made it progressively worse, until i painted over everything with gesso (beloved) and arrived at the perfect look. unfortunately that meant recreating the shitshow on every single card. but i managed to get it done within one day, so that's a relief - not having to look at the ugly stage for long.\r\ni do seem to be more in a tarot/spirituality phase at the moment. looking for interesting tarot materials. maybe i'll get another one of Pollack's books. here's a talk from her about gender in tarot, i've already linked it on masto:\r\n=> https://iv.melmac.space/watch?v=FXMGFsg3Rzc transgender magic and the tarot\r\nand here's a little spread i've been toying with. it's kind of a \"diagnostic\" landscape of any situation, but you could use it in a more \"active\"/prescriptive way - like what needs to be in place in order to achieve x? either way, it looks at the interior/exterior - particular/universal -",
+  "query": "gemini search \"tarot\"",
+  "kw": "tarot",
+  "extra": "capsule: dogboy.smol.pub \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://dogboy.smol.pub/partofawholespread"
+   ]
+  ],
+  "mined_at": "2026-10-30T01:18:39Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Dev Log 5 - Implementing Tarot Spreads",
+  "url": "https://portal.mozz.us/gemini/vigrey.com/tarot/gb/log/5.gmi",
+  "gemini": "gemini://vigrey.com/tarot/gb/log/5.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 8393,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "vigrey.com",
+  "preview": "# Dev Log 5 - Implementing Tarot Spreads\n2025-01-04 - [53] 10:20\n\nI'm a bit farther than this post implies, but I figured I'd give an update explaining that I have arbitrary tarot spreads working!  At least for now, I have 13 different tarot spreads represented.  They are:\n* 1 Card\n* 3 Card\n* 5 Card\n* 5 Card Cross\n* 6 Card Cross\n* Celtic Cross\n* Split Path\n* Zodiac\n* Year\n* Week Ahead\n* Horseshoe\n* Tetraktys\n* Tree of Life\n\nAll of these tarot spreads fit within 20 by 16 tiles and use fewer than 16 cards, which turns out to be very useful, as I'll explain a little later.\n\nSome spread examples can be seen in the 3 images below.\n\n=> ../../../images/tarot/gb/log/5/0.gif Game Boy screenshot showing the 10 card Celtic Cross tarot spread.  A cursor is over a horizontal card near the center of the screen which is laid on top of a vertical card.  That card is specified on the bottom of the screen as tarot card position 2 and the card is \"THE LOVERS\".\n\n=> ../../../images/tarot/gb/log/5/1.gif Game Boy screenshot showing the 15 card Year tarot spread.  A cursor is over a vertical card near the center of the screen.  That card is specified on the bottom of the screen as tarot card position 15 a",
+  "query": "gemini search \"tarot\"",
+  "kw": "tarot",
+  "extra": "capsule: vigrey.com \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://vigrey.com/tarot/gb/log/5.gmi"
+   ]
+  ],
+  "mined_at": "2026-10-30T01:18:39Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "upcoming tarot projects",
+  "url": "https://portal.mozz.us/gemini/dogboy.smol.pub/tarotprojects",
+  "gemini": "gemini://dogboy.smol.pub/tarotprojects",
+  "date": "",
+  "dateLabel": "",
+  "count": 813,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "dogboy.smol.pub",
+  "preview": "# upcoming tarot projects\n\ntarot project ideas:\r\n* write up a solo playthrough of tarot-telling for two\r\n* pathworking the entirety of the thoth deck\r\n* make another tarot deck from this nature book i found (what could i supplement with if it's not enough?)\r\n* let the cards teach me more about the cards - do readings on meanings of each card, perhaps invite others to participate with a hashtag? i'm curious. write up a document? kind of miss having a \"general\" tarot journal in the old style of one card per spread, all my journals are now deck-specific to address the imagery\r\n* next year: fill up my ritual tarot and black veil tarot journals (at least one)\r\n* next year: another tarot bracket? further narrowing down my main decks?\r\n\r\n=> flower1.png\r\n=> /tarotcorner back to the tarot corner\r\n=> / back home",
+  "query": "gemini search \"tarot\"",
+  "kw": "tarot",
+  "extra": "capsule: dogboy.smol.pub \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://dogboy.smol.pub/tarotprojects"
+   ]
+  ],
+  "mined_at": "2026-10-30T01:18:39Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Occult",
+  "url": "https://portal.mozz.us/gemini/gemi.dev/cgi-bin/wp.cgi/view?Occult",
+  "gemini": "gemini://gemi.dev/cgi-bin/wp.cgi/view?Occult",
+  "date": "",
+  "dateLabel": "",
+  "count": 8131,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gemi.dev",
+  "preview": "# Occult\n=> /cgi-bin/wp.cgi/images?Occult Gallery: 2 images\n=> /cgi-bin/wp.cgi/search?Occult Other articles that mention 'Occult'\n\nThe occult (from Latin \" \"occultus\"\"\u00a0'hidden, secret') is a category of esoteric or supernatural beliefs and practices which generally fall outside the scope of organized religion and science, encompassing phenomena involving a 'hidden' or 'secret' agency, such as magic and mysticism. It can also refer to paranormal ideas such as extra-sensory perception and parapsychology. \n\nThe term occult sciences was used in 16th-century Europe to refer to astrology, alchemy, and natural magic. The term occultism emerged in 19th-century France, among figures such as Antoine Court de G\u00e9belin. It came to be associated with various French esoteric groups connected to \u00c9liphas L\u00e9vi and Papus, and in 1875 was introduced into the English language by the esotericist Helena Blavatsky. \n\nThroughout the 20th century, the term 'occult' was used idiosyncratically by a range of different authors. By the 21st century the term 'occultism' was commonly employed \u2013including by academic scholars in the field of Western esotericism studies\u2013 to refer to a range of esoteric currents that ",
+  "query": "gemini search \"occult\"",
+  "kw": "occult",
+  "extra": "capsule: gemi.dev \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gemi.dev/cgi-bin/wp.cgi/view?Occult"
+   ]
+  ],
+  "mined_at": "2026-10-30T01:18:39Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "cow orker (n.)",
+  "url": "https://portal.mozz.us/gemini/tilde.club/~sfelicio/glossary/cow-orker.gmi",
+  "gemini": "gemini://tilde.club/~sfelicio/glossary/cow-orker.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 598,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "tilde.club",
+  "preview": "# cow orker (n.)\n\n[Usenet] n. fortuitous typo for co-worker, widely used in Usenet, with perhaps a hint that orking cows is illegal.  This term was popularized by Scott Adams (the creator of Dilbert) but already appears in the January 1996 version of the scary devil monastery FAQ, and has been traced back to a 1989 sig block. Compare hing, grilf, filk, newsfroup.\n\n=> Dilbert.gmi Dilbert\n=> filk.gmi filk\n=> grilf.gmi grilf\n=> hing.gmi hing\n=> newsfroup.gmi newsfroup\n=> scary-devil-monastery.gmi scary devil monastery\n=> sig-block.gmi sig block\n\n=> /~sfelicio/glossary.gmi back to glossary index",
+  "query": "gemini search \"monastery\"",
+  "kw": "monastery",
+  "extra": "capsule: tilde.club \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://tilde.club/~sfelicio/glossary/cow-orker.gmi"
+   ]
+  ],
+  "mined_at": "2026-10-30T01:18:39Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Up All Night",
+  "url": "https://portal.mozz.us/gemini/musicbrainz.uploadedlobster.com/recording/08a95cbe-41c7-41f8-8d05-7b99cd7a0f6f",
+  "gemini": "gemini://musicbrainz.uploadedlobster.com/recording/08a95cbe-41c7-41f8-8d05-7b99cd7a0f6f",
+  "date": "",
+  "dateLabel": "",
+  "count": 742,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "musicbrainz.uploadedlobster.com",
+  "preview": "# Up All Night\n\nRecording by Grails\nDuration: 5:38\nFirst release year: 2010\n\n\n## Appears on releases\n\n=> /release/b9c09480-15f8-489e-8e08-351c38ed2e44 Black Tar Prophecies, Volume 4 by Grails\nUS 2010-05-04\n=> /release/f6e63b11-86b1-484c-9522-f8babb3e8012 Black Tar Prophecies, Volumes 4, 5 & 6 by Grails\nUS 2013-10-01\n=> /release/647645a9-ed06-4a70-adfa-fe5f5a50c562 Black Tar Prophecies, Volumes 4, 5 & 6 by Grails\nXW 2013-10-01\n\n\n## Relations\n mix\n=> /artist/6cdbb461-d99d-4571-95d6-cc09cbde7517 \ud83e\uddd1 Emil Amos\n mix\n=> /artist/4cdbfb08-b44a-42ee-81cf-431ec02b3a6d \ud83e\uddd1 Alex Hall\n producer\n=> /artist/6cdbb461-d99d-4571-95d6-cc09cbde7517 \ud83e\uddd1 Emil Amos\n producer\n=> /artist/4cdbfb08-b44a-42ee-81cf-431ec02b3a6d \ud83e\uddd1 Alex Hall\n\n\n=> / Return to start page",
+  "query": "gemini search \"prophecy\"",
+  "kw": "prophecy",
+  "extra": "capsule: musicbrainz.uploadedlobster.com \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://musicbrainz.uploadedlobster.com/recording/08a95cbe-41c7-41f8-8d05-7b99cd7a0f6f"
+   ]
+  ],
+  "mined_at": "2026-10-30T01:18:39Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Grails",
+  "url": "https://portal.mozz.us/gemini/musicbrainz.uploadedlobster.com/artist/2f911bc5-8619-40c9-ae9a-9c6250ba5b25",
+  "gemini": "gemini://musicbrainz.uploadedlobster.com/artist/2f911bc5-8619-40c9-ae9a-9c6250ba5b25",
+  "date": "",
+  "dateLabel": "",
+  "count": 2681,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "musicbrainz.uploadedlobster.com",
+  "preview": "# Grails\n\nGroup, US, Portland\n\n## Releases\n\n### Albums\n=> /release-group/0dde7b14-23e5-3084-a0b1-2982d01f8380 2003 The Burden of Hope\n=> /release-group/52178163-b64a-3ebc-89f5-82fc8defff68 2004 Redlight\n=> /release-group/7c95b71e-f10c-3d7e-98cb-26349537618a 2006 Black Tar Prophecies, Volumes 1, 2, & 3\n=> /release-group/0100da3b-f714-3434-b6eb-db906e42fe5a 2007 Burning Off Impurities\n=> /release-group/94a283ff-ae40-35e8-af95-3b804f7f8447 2008 Take Refuge in Clean Living\n=> /release-group/6c06a2e5-f432-394f-b6fe-1f8cf465527d 2008 Doomsdayer\u2019s Holiday\n=> /release-group/eeeb33e4-2b8f-4ea5-8116-0a4c92a91f67 2011 Deep Politics\n=> /release-group/6e137719-4fcf-445c-a3d9-e2f0cd361007 2012 The Black Tar Prophecies Vol 5 / Palmu\n=> /release-group/d4745003-b808-4e38-b534-05fd211f15ad 2013 Black Tar Prophecies, Volumes 4, 5 & 6\n=> /release-group/8561c699-d800-491a-bab0-43954bea5060 2017 Chalice Hymnal\n=> /release-group/14f15773-8299-445b-aa6a-2af847d59f0e 2023 Anches En Maat\n=> /release-group/51830940-f32c-411f-a3d7-662f69ec971d 2025 Miracle Music\n\n### Singles\n=> /release-group/87e9b94a-27fe-44ea-a328-a828ea6a8142 2017 Pelham\n=> /release-group/9e8572dc-0704-4d44-87b7-ce3f8d61dabe 2017 Adam\u2019s Pe",
+  "query": "gemini search \"prophecy\"",
+  "kw": "prophecy",
+  "extra": "capsule: musicbrainz.uploadedlobster.com \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://musicbrainz.uploadedlobster.com/artist/2f911bc5-8619-40c9-ae9a-9c6250ba5b25"
+   ]
+  ],
+  "mined_at": "2026-10-30T01:18:39Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Chapter Three: Must We Apply The Bible's Tests For a True Prophet to Paul?",
+  "url": "https://portal.mozz.us/gemini/tilde.pink/~eriounious/jesuswordsonly/jwobook/chapterthree.gmi",
+  "gemini": "gemini://tilde.pink/~eriounious/jesuswordsonly/jwobook/chapterthree.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 8192,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "tilde.pink",
+  "preview": "#Chapter Three: Must We Apply The Bible's Tests For a True Prophet to Paul?\n##Test for Valid Prophets\nOnly a true prophet from God can add text to the Bible. (Deut. 18:15.) The Bible itself lays out the tests for such authorized additions to the Bible. These tests are spelled out in Deuteronomy chs. 4, 12, 13 & 18. A key test is that no prophet could be legitimate who tried to \"diminish\" (subtract) any command previously given. (Deut. 4:2; 12:32 (quoted in inset).) This was true even if they had \"sign and wonders that came to pass.\" (Deut.13:1-5.) This is reiterated in Isaiah 8:20.\n\nHowever, no Christian council or scholar has ever systematically applied the Bible's tests for false prophets to any writing in our New Testament. This is especially true when Paul's teachings are in question. Of course, this is partly because other than for Paul, there is no need to be concerned about canonicity. The apostles John and Peter along with bishops Jude and James never say anything remotely contradictory of Jesus. Yet, Paul is in a different category. Paul makes statements at apparent odds with Jesus. For example, Paul says the law is abolished while Jesus says this will not happen until hea",
+  "query": "gemini search \"prophecy\"",
+  "kw": "prophecy",
+  "extra": "capsule: tilde.pink \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://tilde.pink/~eriounious/jesuswordsonly/jwobook/chapterthree.gmi"
+   ]
+  ],
+  "mined_at": "2026-10-30T01:18:39Z"
  }
 ]

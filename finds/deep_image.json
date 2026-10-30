@@ -1952,5 +1952,63 @@
   ],
   "skin": 0.058,
   "mined_at": "2026-10-29T19:03:24Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "f3v.gif",
+  "date": "1992-10-28 18:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "34K",
+  "ftype": "image",
+  "host": "ftp.funet.fi",
+  "thumb": "https://ftp.funet.fi/pub/culture/occult/necronomicon/voynich/f3v.gif",
+  "kind": "img",
+  "src": "https://ftp.funet.fi/pub/culture/occult/necronomicon/voynich/f3v.gif",
+  "gated": true,
+  "url": "https://ftp.funet.fi/pub/culture/occult/necronomicon/voynich/f3v.gif",
+  "mime": "image/*",
+  "query": "open-dir descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "",
+  "preview": "image \u00b7 34K \u00b7 1992-10-28 18:58 \u00b7 in https://ftp.funet.fi/pub/culture/occult/necronomicon/voynich/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/necronomicon/voynich/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/necronomicon/voynich/"
+   ]
+  ],
+  "skin": 0.0,
+  "mined_at": "2026-10-30T01:39:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "f79v.gif",
+  "date": "1992-10-28 18:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "94K",
+  "ftype": "image",
+  "host": "ftp.funet.fi",
+  "thumb": "https://ftp.funet.fi/pub/culture/occult/necronomicon/voynich/f79v.gif",
+  "kind": "img",
+  "src": "https://ftp.funet.fi/pub/culture/occult/necronomicon/voynich/f79v.gif",
+  "gated": true,
+  "url": "https://ftp.funet.fi/pub/culture/occult/necronomicon/voynich/f79v.gif",
+  "mime": "image/*",
+  "query": "open-dir descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "",
+  "preview": "image \u00b7 94K \u00b7 1992-10-28 18:58 \u00b7 in https://ftp.funet.fi/pub/culture/occult/necronomicon/voynich/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/necronomicon/voynich/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/necronomicon/voynich/"
+   ]
+  ],
+  "skin": 0.0,
+  "mined_at": "2026-10-30T01:39:28Z"
  }
 ]
