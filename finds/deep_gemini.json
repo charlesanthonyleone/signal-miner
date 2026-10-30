@@ -2470,5 +2470,197 @@
    ]
   ],
   "mined_at": "2026-10-30T18:18:31Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Links",
+  "url": "https://portal.mozz.us/gemini/station.martinrue.com/moddedbear/2805172d9e75455680b2ca2523136ac6",
+  "gemini": "gemini://station.martinrue.com/moddedbear/2805172d9e75455680b2ca2523136ac6",
+  "date": "",
+  "dateLabel": "",
+  "count": 373,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "station.martinrue.com",
+  "preview": "=>/moddedbear \ud83d\udc7d moddedbear\nI discovered a really interesting gemini maze game a couple of days ago\n\ngemini://alchemi.dev/maze\n\nAfter following scrawlings left by other mice I've been able to make it pretty far\n\n4 years ago \u00b7 \ud83d\udc4d acidus, twotwos, cobradile94, kocka_collector\n### Links\n\n=>gemini://alchemi.dev/maze gemini://alchemi.dev/maze\n### Actions\n\n=>/join \ud83d\udc4b Join Station",
+  "query": "gemini search \"alchemy\"",
+  "kw": "alchemy",
+  "extra": "capsule: station.martinrue.com \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://station.martinrue.com/moddedbear/2805172d9e75455680b2ca2523136ac6"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:35:49Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "alchemy.occ.gmi",
+  "url": "https://portal.mozz.us/gemini/gem.snork.ca/textfiles.com/occult/alchemy.occ.gmi",
+  "gemini": "gemini://gem.snork.ca/textfiles.com/occult/alchemy.occ.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 8192,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gem.snork.ca",
+  "preview": "------------------------------------------------------------------------\r\n    Taken from a 1960 reprint of \"AN ENCYCLOPAEDIA OF OCCULTISM\", by\r\n    Lewis Spence; University Press, Hyde Park, New York.  Originally\r\n    Published in 1920, it is considered to be one of the most complete\r\n    texts on the subject.\r\n------------------------------------------------------------------------\r\n \r\n  ALCHEMY: The science by aid of which the chemical philosophers of\r\nmedieval times attempted to transmute the baser metals into gold or\r\nsilver.  There is considerable divergence of opinion as to the etymology\r\nof the word, but it would seem to be derived from the Arabic al=the, and\r\nkimya=chemistry, which in turn derives from the late Greek\r\nchemica=chemistry, from chumeia=a mingling, or cheein, `to pour out` or\r\n`mix', Aryan root ghu, to pour, whence the word `gush'.  Mr. A. Wallis\r\nBudge in his \"Egyptian Magic\", however, states that it is possible that\r\nit may be derived from the Egyptian word khemeia, that is to say 'the\r\npreparation of the black ore', or `powder', which was regarded as the\r\nactive principle in the transmutation of metals.  To this name the Arabs\r\naffixed the article `al', thus",
+  "query": "gemini search \"alchemy\"",
+  "kw": "alchemy",
+  "extra": "capsule: gem.snork.ca \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gem.snork.ca/textfiles.com/occult/alchemy.occ.gmi"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:35:49Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Alchemy",
+  "url": "https://portal.mozz.us/gemini/gemi.dev/cgi-bin/wp.cgi/view?Alchemy",
+  "gemini": "gemini://gemi.dev/cgi-bin/wp.cgi/view?Alchemy",
+  "date": "",
+  "dateLabel": "",
+  "count": 8051,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gemi.dev",
+  "preview": "# Alchemy\n=> /cgi-bin/wp.cgi/images?Alchemy Gallery: 14 images\n=> /cgi-bin/wp.cgi/search?Alchemy Other articles that mention 'Alchemy'\n\n=> /cgi-bin/wp.cgi/media/media.jpg?https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff2%2FE-codices_zbz-Ms-Rh-0172_044_max_copy.jpg%2F500px-E-codices_zbz-Ms-Rh-0172_044_max_copy.jpg%3Futm_source%3Den.wikipedia.org%26utm_campaign%3Dparser%26utm_content%3Dthumbnail 15th century depiction of an Ouroboros from the alchemical treatise Aurora consurgens (Zurich, Rheinau 172).\nAlchemy (from the Arabic word \"al-k\u012bm\u012b\u0101\", \u0627\u0644\u0643\u06cc\u0645\u06cc\u0627\u0621) is an ancient branch of natural philosophy, a philosophical and protoscientific tradition that was once practised in China, India, the Muslim world, and Europe. In its Western form, alchemy is first attested in pseudepigraphical texts written in Greco-Roman Egypt during the first few centuries AD. Greek-speaking alchemists often named their craft \"the Art\" (\u03c4\u03ad\u03c7\u03bd\u03b7) or \"Knowledge\" (\u1f10\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b7), and it was often characterised as mystic (\u03bc\u03c5\u03c3\u03c4\u03b9\u03ba\u03ae), sacred (\u1f31\u025b\u03c1\u03ac), or divine (\u03b8\u025b\u00ed\u03b1).\n\nAlchemists attempted to purify, mature, and perfect certain materials. Common aims were chrysopoeia, the transmutation of \"base metals\" (e.",
+  "query": "gemini search \"alchemy\"",
+  "kw": "alchemy",
+  "extra": "capsule: gemi.dev \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gemi.dev/cgi-bin/wp.cgi/view?Alchemy"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:35:49Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Newsfin Groups",
+  "url": "https://portal.mozz.us/gemini/bbs.geminispace.org/s/misfin/20924",
+  "gemini": "gemini://bbs.geminispace.org/s/misfin/20924",
+  "date": "",
+  "dateLabel": "",
+  "count": 4847,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "bbs.geminispace.org",
+  "preview": "# Newsfin Groups\n\nFor those interested in Newsfin - the misfin alternative to netnews/usenet - I have started a hierarchy list for newsfin groups here. Feedback is welcome:\n\n=> gemini://newsfin.us.to/hierarchy.gmi Newsfin Groups Hierarchy\n\n=> /s/misfin Posted in: s/misfin\n=> /u/clseibold \ud83d\ude80 clseibold [\ud83d\udec2 Code of Conduct rule 1 violations]\n2024-10-16 \u00b7 2 years ago\n\n\n## 6 Comments \u2193\n\n=> /u/zzo38/20926 \ud83e\udd82 zzo38 \u00b7 2024-10-16 at 21:20:\nIt looks like OK to me, although I do have some comments relating to it.\n\nYou misspelled \"Fuchsia\" (if that is what you meant).\n\nAstrology is not a religion; it is a method of divination.\n\nAnother thing to consider in the \"religion\" section is comparative religion.\n\nWhen bridging the Newsfin groups starting with \"newsfin.\" to Netnews, the \"newsfin.\" prefix will appear twice. This is not a problem, but might be worth mentioning.\n\nI also have some ideas relating to how the specification of the bridging might work, and will mention them later.\n\n\n=> /u/clseibold/20928 \ud83d\ude80 clseibold [OP, \ud83d\udec2] \u00b7 2024-10-16 at 21:47:\n@zzo38 Yes, I meant Fuchsia, and I will get that fixed. Thanks.\n\nAs for astrology... yes, it's not a self-contained religion (and neither is hinduism, fyi",
+  "query": "gemini search \"occult\"",
+  "kw": "occult",
+  "extra": "capsule: bbs.geminispace.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://bbs.geminispace.org/s/misfin/20924"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:35:49Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Prophecy",
+  "url": "https://portal.mozz.us/gemini/gemi.dev/cgi-bin/wp.cgi/view?Prophecy",
+  "gemini": "gemini://gemi.dev/cgi-bin/wp.cgi/view?Prophecy",
+  "date": "",
+  "dateLabel": "",
+  "count": 8149,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gemi.dev",
+  "preview": "# Prophecy\n=> /cgi-bin/wp.cgi/images?Prophecy Gallery: 3 images\n=> /cgi-bin/wp.cgi/search?Prophecy Other articles that mention 'Prophecy'\n\n=> /cgi-bin/wp.cgi/media/media.jpg?https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ffb%2FOlaus_Magnus_-_On_the_Art_of_Prophecy.jpg%2F960px-Olaus_Magnus_-_On_the_Art_of_Prophecy.jpg%3Futm_source%3Den.wikipedia.org%26utm_campaign%3Dparser%26utm_content%3Dthumbnail 16th century woodcut of a soothsayer delivering a prophecy to a king, deriving it from stars, fishes, and noises from the mountains\nIn religion, mythology, and fiction, a prophecy is a message that has been communicated to a person (typically called a \"prophet\") by a supernatural entity. Prophecies are a feature of many cultures and belief systems and usually contain divine will or law, or preternatural knowledge, for example of future events. They can be revealed to the prophet in various ways depending on the religion and the story, such as visions, or direct interaction with divine beings in physical form. Stories of prophetic deeds sometimes receive considerable attention and some have been known to survive for centuries through oral tradition or as religious tex",
+  "query": "gemini search \"prophecy\"",
+  "kw": "prophecy",
+  "extra": "capsule: gemi.dev \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gemi.dev/cgi-bin/wp.cgi/view?Prophecy"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:35:49Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Ice Station Zebra",
+  "url": "https://portal.mozz.us/gemini/musicbrainz.uploadedlobster.com/recording/2ecafae2-e5db-4375-8913-b600075e5ab1",
+  "gemini": "gemini://musicbrainz.uploadedlobster.com/recording/2ecafae2-e5db-4375-8913-b600075e5ab1",
+  "date": "",
+  "dateLabel": "",
+  "count": 774,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "musicbrainz.uploadedlobster.com",
+  "preview": "# Ice Station Zebra\n\nRecording by Grails\nDuration: 4:36\nFirst release year: 2012\n\n\n## Appears on releases\n\n=> /release/0ad75033-1e17-4da5-8db7-bfc3941cf9aa The Black Tar Prophecies Vol 5 / Palmu by Grails / Pharaoh Overlord\nUS 2012-10-30\n=> /release/f6e63b11-86b1-484c-9522-f8babb3e8012 Black Tar Prophecies, Volumes 4, 5 & 6 by Grails\nUS 2013-10-01\n=> /release/647645a9-ed06-4a70-adfa-fe5f5a50c562 Black Tar Prophecies, Volumes 4, 5 & 6 by Grails\nXW 2013-10-01\n\n\n## Relations\n mix\n=> /artist/6cdbb461-d99d-4571-95d6-cc09cbde7517 \ud83e\uddd1 Emil Amos\n mix\n=> /artist/4cdbfb08-b44a-42ee-81cf-431ec02b3a6d \ud83e\uddd1 Alex Hall\n producer\n=> /artist/6cdbb461-d99d-4571-95d6-cc09cbde7517 \ud83e\uddd1 Emil Amos\n producer\n=> /artist/4cdbfb08-b44a-42ee-81cf-431ec02b3a6d \ud83e\uddd1 Alex Hall\n\n\n=> / Return to start page",
+  "query": "gemini search \"prophecy\"",
+  "kw": "prophecy",
+  "extra": "capsule: musicbrainz.uploadedlobster.com \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://musicbrainz.uploadedlobster.com/recording/2ecafae2-e5db-4375-8913-b600075e5ab1"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:35:49Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "I Want a New Drug",
+  "url": "https://portal.mozz.us/gemini/musicbrainz.uploadedlobster.com/recording/958996c0-991b-41b2-a749-6ee8fbcd1e7e",
+  "gemini": "gemini://musicbrainz.uploadedlobster.com/recording/958996c0-991b-41b2-a749-6ee8fbcd1e7e",
+  "date": "",
+  "dateLabel": "",
+  "count": 747,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "musicbrainz.uploadedlobster.com",
+  "preview": "# I Want a New Drug\n\nRecording by Grails\nDuration: 2:41\nFirst release year: 2010\n\n\n## Appears on releases\n\n=> /release/b9c09480-15f8-489e-8e08-351c38ed2e44 Black Tar Prophecies, Volume 4 by Grails\nUS 2010-05-04\n=> /release/f6e63b11-86b1-484c-9522-f8babb3e8012 Black Tar Prophecies, Volumes 4, 5 & 6 by Grails\nUS 2013-10-01\n=> /release/647645a9-ed06-4a70-adfa-fe5f5a50c562 Black Tar Prophecies, Volumes 4, 5 & 6 by Grails\nXW 2013-10-01\n\n\n## Relations\n mix\n=> /artist/6cdbb461-d99d-4571-95d6-cc09cbde7517 \ud83e\uddd1 Emil Amos\n mix\n=> /artist/4cdbfb08-b44a-42ee-81cf-431ec02b3a6d \ud83e\uddd1 Alex Hall\n producer\n=> /artist/6cdbb461-d99d-4571-95d6-cc09cbde7517 \ud83e\uddd1 Emil Amos\n producer\n=> /artist/4cdbfb08-b44a-42ee-81cf-431ec02b3a6d \ud83e\uddd1 Alex Hall\n\n\n=> / Return to start page",
+  "query": "gemini search \"prophecy\"",
+  "kw": "prophecy",
+  "extra": "capsule: musicbrainz.uploadedlobster.com \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://musicbrainz.uploadedlobster.com/recording/958996c0-991b-41b2-a749-6ee8fbcd1e7e"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:35:49Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "cdeath.dis.gmi",
+  "url": "https://portal.mozz.us/gemini/gem.snork.ca/textfiles.com/music/DISCOGRAPHY/cdeath.dis.gmi",
+  "gemini": "gemini://gem.snork.ca/textfiles.com/music/DISCOGRAPHY/cdeath.dis.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 8192,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gem.snork.ca",
+  "preview": "Newsgroups: alt.gothic\r\nFrom: fracer@aix.rpi.edu (Roger Charles Frace)\r\nSubject: new updated expanded Christian Death discography\r\nMessage-ID: <r=-3twr@rpi.edu>\r\nKeywords: christian death, discography\r\nDate: Tue, 12 Jan 1993 01:19:48 GMT\r\nLines: 283\r\n\r\nhere we are, a new updated christian death discography for everyone.\r\nsources are mine and friends personal collections, the c.d.s. \"official\"\r\ndiscography, and other literature from the c.d.s.\r\n\r\nDiscography of Christian Death\r\n    compiled by Roger Frace (fracer@rpi.edu)\r\n    \r\n1981 deathwish\r\n\t  1984 (fr/I.A.S.: )\r\n\t ?1986 (it/contempo: conte 137)\r\n\tdeathwish, romeo's distress, dogs, desperate hell, \r\n\tspiritual cramp, cavity  \r\n\t* outtakes and demos from theatre of pain sessions *\r\n\t* official release from 1984 *\r\n\r\n1982 only theatre of pain\r\n       1982/83 (usa/frontier: flp/fcd 1007)\r\n\t  1983 (uk/future: )\r\n\t  1983 (fr/I.A.S.: )\r\n\t  1983 (jp/vap: )\r\n\tcavity-first communion, figurative theatre, \r\n\tburnt offerings, mysterium iniquitatis, dream for mother, \r\n\tstairs-uncertain journey, spiritual cramp, \r\n\tromeo's distress, resurrection-sixth communion, \r\n\tprayer\r\n\t** this is the CD order.  the record and 4t order \r\n\tmay be differen",
+  "query": "gemini search \"heresy\"",
+  "kw": "heresy",
+  "extra": "capsule: gem.snork.ca \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gem.snork.ca/textfiles.com/music/DISCOGRAPHY/cdeath.dis.gmi"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:35:49Z"
  }
 ]

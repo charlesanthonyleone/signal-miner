@@ -2469,5 +2469,302 @@
   ],
   "skin": null,
   "mined_at": "2026-10-30T18:41:14Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "ryan.jpg",
+  "date": "2012-06-17",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "52 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20120617080311im_/http://www.angelfire.com/ms/1blink182/images/ryan.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20120617080311im_/http://www.angelfire.com/ms/1blink182/images/ryan.jpg",
+  "url": "https://web.archive.org/web/20120617080311/http://www.angelfire.com/ms/1blink182/images/ryan.jpg",
+  "query": "CDX angelfire.com/ms/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 54236 bytes \u00b7 originally at http://www.angelfire.com/ms/1blink182/images/ryan.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/ms/1blink182/images/ryan.jpg"
+   ]
+  ],
+  "skin": 0.294,
+  "mined_at": "2026-10-30T22:58:13Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "boxertom.jpg",
+  "date": "2005-12-20",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "16 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20051220071037im_/http://www.angelfire.com/ms/1blink182/boxertom.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20051220071037im_/http://www.angelfire.com/ms/1blink182/boxertom.jpg",
+  "url": "https://web.archive.org/web/20051220071037/http://www.angelfire.com/ms/1blink182/boxertom.jpg",
+  "query": "CDX angelfire.com/ms/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 17371 bytes \u00b7 originally at http://www.angelfire.com/ms/1blink182/boxertom.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/ms/1blink182/boxertom.jpg"
+   ]
+  ],
+  "skin": 0.167,
+  "mined_at": "2026-10-30T22:58:13Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "dress10.jpg",
+  "date": "2019-08-03",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "73 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190803213805im_/http://www.angelfire.com/ms.tiffany2010/IMAGES/dress10.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190803213805im_/http://www.angelfire.com/ms.tiffany2010/IMAGES/dress10.jpg",
+  "url": "https://web.archive.org/web/20190803213805/http://www.angelfire.com/ms.tiffany2010/IMAGES/dress10.jpg",
+  "query": "CDX angelfire.com/ms/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 75173 bytes \u00b7 originally at http://www.angelfire.com/ms.tiffany2010/IMAGES/dress10.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/ms.tiffany2010/IMAGES/dress10.jpg"
+   ]
+  ],
+  "skin": 0.085,
+  "mined_at": "2026-10-30T22:58:13Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "060227comet.jpg",
+  "date": "2019-08-03",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "88 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190803010850im_/http://www.angelfire.com/ms.damato/images/060227comet.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190803010850im_/http://www.angelfire.com/ms.damato/images/060227comet.jpg",
+  "url": "https://web.archive.org/web/20190803010850/http://www.angelfire.com/ms.damato/images/060227comet.jpg",
+  "query": "CDX angelfire.com/ms/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 90442 bytes \u00b7 originally at http://www.angelfire.com/ms.damato/images/060227comet.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/ms.damato/images/060227comet.jpg"
+   ]
+  ],
+  "skin": 0.0,
+  "mined_at": "2026-10-30T22:58:13Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "IMAG0010.JPG",
+  "date": "2003-11-20",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "22 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com:80",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20031120151236im_/http://www.angelfire.com:80/tx/101AbnDivVietVets/101stADVVA/ReUnPhotosC/IMAG0010.JPG",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20031120151236im_/http://www.angelfire.com:80/tx/101AbnDivVietVets/101stADVVA/ReUnPhotosC/IMAG0010.JPG",
+  "url": "https://web.archive.org/web/20031120151236/http://www.angelfire.com:80/tx/101AbnDivVietVets/101stADVVA/ReUnPhotosC/IMAG0010.JPG",
+  "query": "CDX angelfire.com/tx/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 23539 bytes \u00b7 originally at http://www.angelfire.com:80/tx/101AbnDivVietVets/101stADVVA/ReUnPhotosC/IMAG0010.JPG",
+  "extra": "original host: www.angelfire.com:80 (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com:80/tx/101AbnDivVietVets/101stADVVA/ReUnPhotosC/IMAG0010.JPG"
+   ]
+  ],
+  "skin": 0.187,
+  "mined_at": "2026-10-30T22:58:13Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "IMAG0007.JPG",
+  "date": "2002-01-15",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "25 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com:80",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20020115031846im_/http://www.angelfire.com:80/tx/101AbnDivVietVets/101stADVVA/ReUnPhotosA/IMAG0007.JPG",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20020115031846im_/http://www.angelfire.com:80/tx/101AbnDivVietVets/101stADVVA/ReUnPhotosA/IMAG0007.JPG",
+  "url": "https://web.archive.org/web/20020115031846/http://www.angelfire.com:80/tx/101AbnDivVietVets/101stADVVA/ReUnPhotosA/IMAG0007.JPG",
+  "query": "CDX angelfire.com/tx/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 25805 bytes \u00b7 originally at http://www.angelfire.com:80/tx/101AbnDivVietVets/101stADVVA/ReUnPhotosA/IMAG0007.JPG",
+  "extra": "original host: www.angelfire.com:80 (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com:80/tx/101AbnDivVietVets/101stADVVA/ReUnPhotosA/IMAG0007.JPG"
+   ]
+  ],
+  "skin": 0.11,
+  "mined_at": "2026-10-30T22:58:13Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "GOIM0022.GIF",
+  "date": "2003-11-23",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "12 KB",
+  "ftype": "image/gif",
+  "host": "www.angelfire.com:80",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20031123182842im_/http://www.angelfire.com:80/tx/101AbnDivVietVets/101stADVVA/ReUnPhotosC/GOIM0022.GIF",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20031123182842im_/http://www.angelfire.com:80/tx/101AbnDivVietVets/101stADVVA/ReUnPhotosC/GOIM0022.GIF",
+  "url": "https://web.archive.org/web/20031123182842/http://www.angelfire.com:80/tx/101AbnDivVietVets/101stADVVA/ReUnPhotosC/GOIM0022.GIF",
+  "query": "CDX angelfire.com/tx/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/gif \u00b7 12622 bytes \u00b7 originally at http://www.angelfire.com:80/tx/101AbnDivVietVets/101stADVVA/ReUnPhotosC/GOIM0022.GIF",
+  "extra": "original host: www.angelfire.com:80 (offline) \u00b7 image/gif",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com:80/tx/101AbnDivVietVets/101stADVVA/ReUnPhotosC/GOIM0022.GIF"
+   ]
+  ],
+  "skin": 0.0,
+  "mined_at": "2026-10-30T22:58:13Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "ch_sprachen.png",
+  "date": "2023-09-05",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "1696 KB",
+  "ftype": "image/png",
+  "host": "www.interlingua.li",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20230905185053im_/https://www.interlingua.li/application/files/8115/8937/8936/ch_sprachen.png",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20230905185053im_/https://www.interlingua.li/application/files/8115/8937/8936/ch_sprachen.png",
+  "url": "https://web.archive.org/web/20230905185053/https://www.interlingua.li/application/files/8115/8937/8936/ch_sprachen.png",
+  "query": "CDX www.interlingua.li/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/png \u00b7 1737473 bytes \u00b7 originally at https://www.interlingua.li/application/files/8115/8937/8936/ch_sprachen.png",
+  "extra": "original host: www.interlingua.li (offline) \u00b7 image/png",
+  "links": [
+   [
+    "original URL",
+    "https://www.interlingua.li/application/files/8115/8937/8936/ch_sprachen.png"
+   ]
+  ],
+  "skin": 0.198,
+  "mined_at": "2026-10-30T22:58:13Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "Interlingua_Web_FR_2.png",
+  "date": "2026-01-21",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "31 KB",
+  "ftype": "image/png",
+  "host": "www.interlingua.li",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20260121123535im_/https://www.interlingua.li/application/files/2616/0009/1162/Interlingua_Web_FR_2.png",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20260121123535im_/https://www.interlingua.li/application/files/2616/0009/1162/Interlingua_Web_FR_2.png",
+  "url": "https://web.archive.org/web/20260121123535/https://www.interlingua.li/application/files/2616/0009/1162/Interlingua_Web_FR_2.png",
+  "query": "CDX www.interlingua.li/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/png \u00b7 31751 bytes \u00b7 originally at https://www.interlingua.li/application/files/2616/0009/1162/Interlingua_Web_FR_2.png",
+  "extra": "original host: www.interlingua.li (offline) \u00b7 image/png",
+  "links": [
+   [
+    "original URL",
+    "https://www.interlingua.li/application/files/2616/0009/1162/Interlingua_Web_FR_2.png"
+   ]
+  ],
+  "skin": 0.028,
+  "mined_at": "2026-10-30T22:58:13Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "1640025892.jpg",
+  "date": "2016-04-25",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "17 KB",
+  "ftype": "image/jpeg",
+  "host": "www.interlingua.li",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20160425214257im_/http://www.interlingua.li/contortionist/0/contortionistUniverses/415/img/-301512769/1640025892.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20160425214257im_/http://www.interlingua.li/contortionist/0/contortionistUniverses/415/img/-301512769/1640025892.jpg",
+  "url": "https://web.archive.org/web/20160425214257/http://www.interlingua.li/contortionist/0/contortionistUniverses/415/img/-301512769/1640025892.jpg",
+  "query": "CDX www.interlingua.li/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 17924 bytes \u00b7 originally at http://www.interlingua.li/contortionist/0/contortionistUniverses/415/img/-301512769/1640025892.jpg",
+  "extra": "original host: www.interlingua.li (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.interlingua.li/contortionist/0/contortionistUniverses/415/img/-301512769/1640025892.jpg"
+   ]
+  ],
+  "skin": 0.154,
+  "mined_at": "2026-10-30T22:58:13Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "swiso.png",
+  "date": "2016-01-12",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "7 KB",
+  "ftype": "image/png",
+  "host": "interlingua.li",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20160112022636im_/http://interlingua.li/Portals/0/Bilder/swiso.png",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20160112022636im_/http://interlingua.li/Portals/0/Bilder/swiso.png",
+  "url": "https://web.archive.org/web/20160112022636/http://interlingua.li/Portals/0/Bilder/swiso.png",
+  "query": "CDX www.interlingua.li/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/png \u00b7 7592 bytes \u00b7 originally at http://interlingua.li/Portals/0/Bilder/swiso.png",
+  "extra": "original host: interlingua.li (offline) \u00b7 image/png",
+  "links": [
+   [
+    "original URL",
+    "http://interlingua.li/Portals/0/Bilder/swiso.png"
+   ]
+  ],
+  "skin": 0.012,
+  "mined_at": "2026-10-30T22:58:13Z"
  }
 ]

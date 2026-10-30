@@ -15986,5 +15986,1041 @@
    ]
   ],
   "mined_at": "2026-10-30T18:17:02Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "vrweb.README",
+  "date": "2000-06-05 09:52",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "201",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/vrweb.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 201 \u00b7 2000-06-05 09:52 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "chrootuid1.3.tar.gz",
+  "date": "2001-07-25 12:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "5.3K",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/chrootuid1.3.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 5.3K \u00b7 2001-07-25 12:50 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "satan_doc.tar.Z.asc",
+  "date": "1995-04-24 11:51",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "282",
+  "ftype": "text",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/satan_doc.tar.Z.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "text \u00b7 282 \u00b7 1995-04-24 11:51 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "xpm.README",
+  "date": "2000-06-05 08:59",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "199",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/xpm.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 199 \u00b7 2000-06-05 08:59 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "bsd-net2.README",
+  "date": "1998-01-29 00:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "531",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/bsd-net2.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 531 \u00b7 1998-01-29 00:00 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "tcp_wrapper.dutch.pdf",
+  "date": "2007-09-28 11:27",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "32K",
+  "ftype": "text",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/tcp_wrapper.dutch.pdf",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "text \u00b7 32K \u00b7 2007-09-28 11:27 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "tcpd-sendmail-8.8.8.patch.sig",
+  "date": "1997-11-21 01:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "152",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/tcpd-sendmail-8.8.8.patch.sig",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 152 \u00b7 1997-11-21 01:00 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rpcbind_2.1.README",
+  "date": "1998-04-10 21:56",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "5.3K",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/rpcbind_2.1.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 5.3K \u00b7 1998-04-10 21:56 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "index.html",
+  "date": "2013-08-24 21:11",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "11K",
+  "ftype": "text",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/index.html",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "text \u00b7 11K \u00b7 2013-08-24 21:11 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "TeX.README",
+  "date": "1999-01-28 00:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "778",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/TeX.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 778 \u00b7 1999-01-28 00:00 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "FreelyAvailableTexts",
+  "date": "2000-06-06 07:57",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "4.5K",
+  "ftype": "text",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/FreelyAvailableTexts",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "text \u00b7 4.5K \u00b7 2000-06-06 07:57 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "SATAN_Extensions.tar.Z",
+  "date": "2000-01-03 16:43",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "29K",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/SATAN_Extensions.tar.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 29K \u00b7 2000-01-03 16:43 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "apache.README",
+  "date": "1999-07-22 00:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "375",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/apache.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 375 \u00b7 1999-07-22 00:00 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "tcp_wrappers_7.6.tar.gz",
+  "date": "1999-01-22 06:25",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "97K",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/tcp_wrappers_7.6.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 97K \u00b7 1999-01-22 06:25 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "sh-apache-license",
+  "date": "2002-02-22 13:38",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.1K",
+  "ftype": "text",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/sh-apache-license",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "text \u00b7 1.1K \u00b7 2002-02-22 13:38 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "btyacc.README",
+  "date": "1999-07-16 00:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "112",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/btyacc.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 112 \u00b7 1999-07-16 00:00 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "satan.tar.Z",
+  "date": "1995-04-11 02:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "369K",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/satan.tar.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 369K \u00b7 1995-04-11 02:00 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "vmailer-sans98.ps.gz",
+  "date": "1998-06-14 02:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "10K",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/vmailer-sans98.ps.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 10K \u00b7 1998-06-14 02:00 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "xmcd.README",
+  "date": "1999-08-12 00:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "363",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/xmcd.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 363 \u00b7 1999-08-12 00:00 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "vmailer-slides.ps.gz",
+  "date": "1998-01-09 00:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "6.3K",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/vmailer-slides.ps.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 6.3K \u00b7 1998-01-09 00:00 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rpcbind_2.1.tar.gz.sig",
+  "date": "1998-04-11 02:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "152",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/rpcbind_2.1.tar.gz.sig",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 152 \u00b7 1998-04-11 02:18 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "logdaemon-5.11.tar.gz.sig",
+  "date": "2001-04-16 15:52",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "152",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/logdaemon-5.11.tar.gz.sig",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 152 \u00b7 2001-04-16 15:52 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "exim.README",
+  "date": "1996-09-05 00:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "452",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/exim.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 452 \u00b7 1996-09-05 00:00 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "logdaemon-5.12.tar.gz.sig",
+  "date": "2001-07-19 09:47",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "152",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/logdaemon-5.12.tar.gz.sig",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 152 \u00b7 2001-07-19 09:47 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "f2c.README",
+  "date": "1996-12-19 00:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "208",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/f2c.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 208 \u00b7 1996-12-19 00:00 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "chrootuid_license",
+  "date": "2001-07-25 10:46",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.2K",
+  "ftype": "text",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/chrootuid_license",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "text \u00b7 1.2K \u00b7 2001-07-25 10:46 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README.obst",
+  "date": "2000-06-12 07:36",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "170",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/README.obst",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 170 \u00b7 2000-06-12 07:36 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "tcp_wrappers_7.6-ipv6.1.tar.gz.sig",
+  "date": "2000-08-21 14:06",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "152",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/tcp_wrappers_7.6-ipv6.1.tar.gz.sig",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 152 \u00b7 2000-08-21 14:06 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "X11.README",
+  "date": "1996-09-05 00:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "4.5K",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/X11.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 4.5K \u00b7 1996-09-05 00:00 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/gnuish/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "tcp_wrappers_7.6.tar.gz.sig",
+  "date": "1999-01-22 06:25",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "152",
+  "ftype": "other",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/tcp_wrappers_7.6.tar.gz.sig",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "other \u00b7 152 \u00b7 1999-01-22 06:25 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/unix/security/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "contents.cache.db",
+  "date": "2026-10-27 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "98M",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/contents.cache.db",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 98M \u00b7 2026-10-27 12:58 \u00b7 in https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "references.db",
+  "date": "2026-10-27 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "6.5M",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/references.db",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 6.5M \u00b7 2026-10-27 12:58 \u00b7 in https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "releases.json",
+  "date": "2026-09-23 08:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.9K",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/linuxmint-packages/releases.json",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1.9K \u00b7 2026-09-23 08:54 \u00b7 in https://mirror.aarnet.edu.au/pub/linuxmint-packages/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/linuxmint-packages/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/linuxmint-packages/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "checksums.db",
+  "date": "2026-10-27 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "12M",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/checksums.db",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 12M \u00b7 2026-10-27 12:58 \u00b7 in https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "release.caches.db",
+  "date": "2026-10-27 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.0M",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/release.caches.db",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 2.0M \u00b7 2026-10-27 12:58 \u00b7 in https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "packages.db",
+  "date": "2026-10-27 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "108M",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/packages.db",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 108M \u00b7 2026-10-27 12:58 \u00b7 in https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "version",
+  "date": "2026-10-27 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "31",
+  "ftype": "text",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/version",
+  "mime": "text/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "text \u00b7 31 \u00b7 2026-10-27 12:58 \u00b7 in https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/linuxmint-packages/db/"
+   ]
+  ],
+  "mined_at": "2026-10-30T22:33:44Z"
  }
 ]
