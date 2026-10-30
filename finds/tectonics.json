@@ -440,5 +440,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-10-30T10:13:53Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 199.103.90.0/23",
+  "date": "2026-10-30",
+  "dateLabel": "sampled",
+  "count": 322,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"199.103.90.0/23\",\n  \"origin\": \"8075\",\n  \"time\": \"2003-03-01T08:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"199.103.90.0/23\",\n  \"origin\": \"8075\",\n  \"time\": \"2026-10-30T16:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 322,\n   \"total_ris_peers\": 322\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 8075,\n   \"route_objects\": [\n    \"RADB\"\n   ]\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/199.103.90.0/23",
+  "query": "RIPEstat routing-status 199.103.90.0/23",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-10-30T18:11:04Z"
  }
 ]
