@@ -2928,5 +2928,86 @@
   ],
   "skin": 0.002,
   "mined_at": "2026-10-31T06:27:04Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "flowrx5.gif",
+  "date": "2001-06-19",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "31 KB",
+  "ftype": "image/gif",
+  "host": "members.tripod.com:80",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20010619163502im_/http://members.tripod.com:80/k.owens/flowrx5.gif",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20010619163502im_/http://members.tripod.com:80/k.owens/flowrx5.gif",
+  "url": "https://web.archive.org/web/20010619163502/http://members.tripod.com:80/k.owens/flowrx5.gif",
+  "query": "CDX members.tripod.com/k* mimetype image/(gif|jpeg|png)",
+  "preview": "image/gif \u00b7 32070 bytes \u00b7 originally at http://members.tripod.com:80/k.owens/flowrx5.gif",
+  "extra": "original host: members.tripod.com:80 (offline) \u00b7 image/gif \u00b7 pixel pre-screen failed",
+  "links": [
+   [
+    "original URL",
+    "http://members.tripod.com:80/k.owens/flowrx5.gif"
+   ]
+  ],
+  "skin": null,
+  "mined_at": "2026-10-31T13:11:33Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "07b4cf10.jpg",
+  "date": "2001-06-20",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "96 KB",
+  "ftype": "image/jpeg",
+  "host": "members.tripod.com:80",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20010620141713im_/http://members.tripod.com:80/k-hersheysr/07b4cf10.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20010620141713im_/http://members.tripod.com:80/k-hersheysr/07b4cf10.jpg",
+  "url": "https://web.archive.org/web/20010620141713/http://members.tripod.com:80/k-hersheysr/07b4cf10.jpg",
+  "query": "CDX members.tripod.com/k* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 99311 bytes \u00b7 originally at http://members.tripod.com:80/k-hersheysr/07b4cf10.jpg",
+  "extra": "original host: members.tripod.com:80 (offline) \u00b7 image/jpeg \u00b7 pixel pre-screen failed",
+  "links": [
+   [
+    "original URL",
+    "http://members.tripod.com:80/k-hersheysr/07b4cf10.jpg"
+   ]
+  ],
+  "skin": null,
+  "mined_at": "2026-10-31T13:11:33Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "starsview.jpg",
+  "date": "2000-08-29",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "13 KB",
+  "ftype": "image/jpeg",
+  "host": "members.tripod.com:80",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20000829211323im_/http://members.tripod.com:80/k.marie/starsview.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20000829211323im_/http://members.tripod.com:80/k.marie/starsview.jpg",
+  "url": "https://web.archive.org/web/20000829211323/http://members.tripod.com:80/k.marie/starsview.jpg",
+  "query": "CDX members.tripod.com/k* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 13530 bytes \u00b7 originally at http://members.tripod.com:80/k.marie/starsview.jpg",
+  "extra": "original host: members.tripod.com:80 (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://members.tripod.com:80/k.marie/starsview.jpg"
+   ]
+  ],
+  "skin": 0.053,
+  "mined_at": "2026-10-31T13:11:33Z"
  }
 ]
