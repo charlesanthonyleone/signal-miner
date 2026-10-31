@@ -4018,5 +4018,25 @@
   "inventor": "Oliver Johnson",
   "module": "formulas",
   "mined_at": "2026-10-30T22:50:54Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Hair growth composition",
+  "date": "2020-01-28",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US10543227B2/en",
+  "query": "google patents q=\"hair tonic\" cpc=A61K8 before 1940",
+  "extra": "patent US10543227B2 \u00b7 inventor Takeo Yoshikawa",
+  "patent_number": "US10543227B2",
+  "inventor": "Takeo Yoshikawa",
+  "module": "formulas",
+  "mined_at": "2026-10-31T06:21:54Z"
  }
 ]
