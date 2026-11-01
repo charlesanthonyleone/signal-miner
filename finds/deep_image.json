@@ -3171,5 +3171,258 @@
   ],
   "skin": 0.0,
   "mined_at": "2026-10-31T20:00:43Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "WLGPbanner.jpg",
+  "date": "2014-01-04",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "197 KB",
+  "ftype": "image/jpeg",
+  "host": "bff.fm",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20140104145021im_/http://bff.fm/wp-content/uploads/2013/07/WLGPbanner.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20140104145021im_/http://bff.fm/wp-content/uploads/2013/07/WLGPbanner.jpg",
+  "url": "https://web.archive.org/web/20140104145021/http://bff.fm/wp-content/uploads/2013/07/WLGPbanner.jpg",
+  "query": "CDX bff.fm/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 202588 bytes \u00b7 originally at http://bff.fm/wp-content/uploads/2013/07/WLGPbanner.jpg",
+  "extra": "original host: bff.fm (offline) \u00b7 image/jpeg \u00b7 pixel pre-screen failed",
+  "links": [
+   [
+    "original URL",
+    "http://bff.fm/wp-content/uploads/2013/07/WLGPbanner.jpg"
+   ]
+  ],
+  "skin": null,
+  "mined_at": "2026-11-01T00:42:55Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "lightblueskulls.png",
+  "date": "2015-09-14",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "90 KB",
+  "ftype": "image/png",
+  "host": "bff.fm",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20150914154241im_/http://bff.fm/theme/39/img/lightblueskulls.png",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20150914154241im_/http://bff.fm/theme/39/img/lightblueskulls.png",
+  "url": "https://web.archive.org/web/20150914154241/http://bff.fm/theme/39/img/lightblueskulls.png",
+  "query": "CDX bff.fm/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/png \u00b7 92270 bytes \u00b7 originally at http://bff.fm/theme/39/img/lightblueskulls.png",
+  "extra": "original host: bff.fm (offline) \u00b7 image/png \u00b7 pixel pre-screen failed",
+  "links": [
+   [
+    "original URL",
+    "http://bff.fm/theme/39/img/lightblueskulls.png"
+   ]
+  ],
+  "skin": null,
+  "mined_at": "2026-11-01T00:42:55Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "grey-linen-background.png",
+  "date": "2013-10-06",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "599 KB",
+  "ftype": "image/png",
+  "host": "bff.fm",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20131006065337im_/http://bff.fm/wp-content/uploads/2013/09/grey-linen-background.png",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20131006065337im_/http://bff.fm/wp-content/uploads/2013/09/grey-linen-background.png",
+  "url": "https://web.archive.org/web/20131006065337/http://bff.fm/wp-content/uploads/2013/09/grey-linen-background.png",
+  "query": "CDX bff.fm/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/png \u00b7 613884 bytes \u00b7 originally at http://bff.fm/wp-content/uploads/2013/09/grey-linen-background.png",
+  "extra": "original host: bff.fm (offline) \u00b7 image/png",
+  "links": [
+   [
+    "original URL",
+    "http://bff.fm/wp-content/uploads/2013/09/grey-linen-background.png"
+   ]
+  ],
+  "skin": 0.0,
+  "mined_at": "2026-11-01T00:42:55Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "show-placeholder-150.png",
+  "date": "2015-09-14",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "6 KB",
+  "ftype": "image/png",
+  "host": "bff.fm",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20150914154239im_/http://bff.fm/theme/39/img/show-placeholder-150.png",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20150914154239im_/http://bff.fm/theme/39/img/show-placeholder-150.png",
+  "url": "https://web.archive.org/web/20150914154239/http://bff.fm/theme/39/img/show-placeholder-150.png",
+  "query": "CDX bff.fm/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/png \u00b7 6465 bytes \u00b7 originally at http://bff.fm/theme/39/img/show-placeholder-150.png",
+  "extra": "original host: bff.fm (offline) \u00b7 image/png \u00b7 pixel pre-screen failed",
+  "links": [
+   [
+    "original URL",
+    "http://bff.fm/theme/39/img/show-placeholder-150.png"
+   ]
+  ],
+  "skin": null,
+  "mined_at": "2026-11-01T00:42:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "LTLANGEL.jpg",
+  "date": "1996-09-09 15:36",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "119K",
+  "ftype": "image",
+  "host": "ftp.funet.fi",
+  "thumb": "https://ftp.funet.fi/pub/pics/nature/fossiles/LTLANGEL.jpg",
+  "kind": "img",
+  "src": "https://ftp.funet.fi/pub/pics/nature/fossiles/LTLANGEL.jpg",
+  "gated": true,
+  "url": "https://ftp.funet.fi/pub/pics/nature/fossiles/LTLANGEL.jpg",
+  "mime": "image/*",
+  "query": "open-dir descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "image \u00b7 119K \u00b7 1996-09-09 15:36 \u00b7 in https://ftp.funet.fi/pub/pics/nature/fossiles/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/fossiles/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/nature/fossiles/"
+   ]
+  ],
+  "skin": 0.174,
+  "mined_at": "2026-11-01T00:42:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "PHACOPS1.jpg",
+  "date": "1996-09-09 15:16",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "57K",
+  "ftype": "image",
+  "host": "ftp.funet.fi",
+  "thumb": "https://ftp.funet.fi/pub/pics/nature/fossiles/PHACOPS1.jpg",
+  "kind": "img",
+  "src": "https://ftp.funet.fi/pub/pics/nature/fossiles/PHACOPS1.jpg",
+  "gated": true,
+  "url": "https://ftp.funet.fi/pub/pics/nature/fossiles/PHACOPS1.jpg",
+  "mime": "image/*",
+  "query": "open-dir descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "image \u00b7 57K \u00b7 1996-09-09 15:16 \u00b7 in https://ftp.funet.fi/pub/pics/nature/fossiles/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/fossiles/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/nature/fossiles/"
+   ]
+  ],
+  "skin": 0.0,
+  "mined_at": "2026-11-01T00:42:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "PHACOPS2.jpg",
+  "date": "1996-09-09 15:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "102K",
+  "ftype": "image",
+  "host": "ftp.funet.fi",
+  "thumb": "https://ftp.funet.fi/pub/pics/nature/fossiles/PHACOPS2.jpg",
+  "kind": "img",
+  "src": "https://ftp.funet.fi/pub/pics/nature/fossiles/PHACOPS2.jpg",
+  "gated": true,
+  "url": "https://ftp.funet.fi/pub/pics/nature/fossiles/PHACOPS2.jpg",
+  "mime": "image/*",
+  "query": "open-dir descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "image \u00b7 102K \u00b7 1996-09-09 15:17 \u00b7 in https://ftp.funet.fi/pub/pics/nature/fossiles/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/fossiles/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/nature/fossiles/"
+   ]
+  ],
+  "skin": 0.0,
+  "mined_at": "2026-11-01T00:42:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "PHACOPS3.jpg",
+  "date": "1996-09-09 15:19",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "120K",
+  "ftype": "image",
+  "host": "ftp.funet.fi",
+  "thumb": "https://ftp.funet.fi/pub/pics/nature/fossiles/PHACOPS3.jpg",
+  "kind": "img",
+  "src": "https://ftp.funet.fi/pub/pics/nature/fossiles/PHACOPS3.jpg",
+  "gated": true,
+  "url": "https://ftp.funet.fi/pub/pics/nature/fossiles/PHACOPS3.jpg",
+  "mime": "image/*",
+  "query": "open-dir descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "image \u00b7 120K \u00b7 1996-09-09 15:19 \u00b7 in https://ftp.funet.fi/pub/pics/nature/fossiles/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/fossiles/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/nature/fossiles/"
+   ]
+  ],
+  "skin": 0.0,
+  "mined_at": "2026-11-01T00:42:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "PHACOPS4.jpg",
+  "date": "1996-09-09 15:21",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "120K",
+  "ftype": "image",
+  "host": "ftp.funet.fi",
+  "thumb": "https://ftp.funet.fi/pub/pics/nature/fossiles/PHACOPS4.jpg",
+  "kind": "img",
+  "src": "https://ftp.funet.fi/pub/pics/nature/fossiles/PHACOPS4.jpg",
+  "gated": true,
+  "url": "https://ftp.funet.fi/pub/pics/nature/fossiles/PHACOPS4.jpg",
+  "mime": "image/*",
+  "query": "open-dir descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "image \u00b7 120K \u00b7 1996-09-09 15:21 \u00b7 in https://ftp.funet.fi/pub/pics/nature/fossiles/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/fossiles/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/nature/fossiles/"
+   ]
+  ],
+  "skin": 0.0,
+  "mined_at": "2026-11-01T00:42:55Z"
  }
 ]

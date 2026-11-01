@@ -19598,5 +19598,1461 @@
    ]
   ],
   "mined_at": "2026-10-31T19:36:19Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "releases.json",
+  "date": "23-Sep-2026 08:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1917",
+  "ftype": "other",
+  "host": "mdnfyuaxck.pages.dev",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mdnfyuaxck.pages.dev/releases.json",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://mdnfyuaxck.pages.dev/",
+  "kw": "",
+  "preview": "other \u00b7 1917 \u00b7 23-Sep-2026 08:54 \u00b7 in https://mdnfyuaxck.pages.dev/",
+  "extra": "host: mdnfyuaxck.pages.dev \u00b7 dir: https://mdnfyuaxck.pages.dev/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mdnfyuaxck.pages.dev/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "checksums.db",
+  "date": "27-Oct-2026 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "12M",
+  "ftype": "other",
+  "host": "mdnfyuaxck.pages.dev",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mdnfyuaxck.pages.dev/db/checksums.db",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://mdnfyuaxck.pages.dev/",
+  "kw": "",
+  "preview": "other \u00b7 12M \u00b7 27-Oct-2026 12:58 \u00b7 in https://mdnfyuaxck.pages.dev/db/",
+  "extra": "host: mdnfyuaxck.pages.dev \u00b7 dir: https://mdnfyuaxck.pages.dev/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mdnfyuaxck.pages.dev/db/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "references.db",
+  "date": "27-Oct-2026 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "7M",
+  "ftype": "other",
+  "host": "mdnfyuaxck.pages.dev",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mdnfyuaxck.pages.dev/db/references.db",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://mdnfyuaxck.pages.dev/",
+  "kw": "",
+  "preview": "other \u00b7 7M \u00b7 27-Oct-2026 12:58 \u00b7 in https://mdnfyuaxck.pages.dev/db/",
+  "extra": "host: mdnfyuaxck.pages.dev \u00b7 dir: https://mdnfyuaxck.pages.dev/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mdnfyuaxck.pages.dev/db/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "contents.cache.db",
+  "date": "27-Oct-2026 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "98M",
+  "ftype": "other",
+  "host": "mdnfyuaxck.pages.dev",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mdnfyuaxck.pages.dev/db/contents.cache.db",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://mdnfyuaxck.pages.dev/",
+  "kw": "",
+  "preview": "other \u00b7 98M \u00b7 27-Oct-2026 12:58 \u00b7 in https://mdnfyuaxck.pages.dev/db/",
+  "extra": "host: mdnfyuaxck.pages.dev \u00b7 dir: https://mdnfyuaxck.pages.dev/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mdnfyuaxck.pages.dev/db/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "version",
+  "date": "27-Oct-2026 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "31",
+  "ftype": "text",
+  "host": "mdnfyuaxck.pages.dev",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mdnfyuaxck.pages.dev/db/version",
+  "mime": "text/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://mdnfyuaxck.pages.dev/",
+  "kw": "",
+  "preview": "text \u00b7 31 \u00b7 27-Oct-2026 12:58 \u00b7 in https://mdnfyuaxck.pages.dev/db/",
+  "extra": "host: mdnfyuaxck.pages.dev \u00b7 dir: https://mdnfyuaxck.pages.dev/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mdnfyuaxck.pages.dev/db/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "packages.db",
+  "date": "27-Oct-2026 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "108M",
+  "ftype": "other",
+  "host": "mdnfyuaxck.pages.dev",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mdnfyuaxck.pages.dev/db/packages.db",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://mdnfyuaxck.pages.dev/",
+  "kw": "",
+  "preview": "other \u00b7 108M \u00b7 27-Oct-2026 12:58 \u00b7 in https://mdnfyuaxck.pages.dev/db/",
+  "extra": "host: mdnfyuaxck.pages.dev \u00b7 dir: https://mdnfyuaxck.pages.dev/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mdnfyuaxck.pages.dev/db/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "release.caches.db",
+  "date": "27-Oct-2026 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2M",
+  "ftype": "other",
+  "host": "mdnfyuaxck.pages.dev",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mdnfyuaxck.pages.dev/db/release.caches.db",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://mdnfyuaxck.pages.dev/",
+  "kw": "",
+  "preview": "other \u00b7 2M \u00b7 27-Oct-2026 12:58 \u00b7 in https://mdnfyuaxck.pages.dev/db/",
+  "extra": "host: mdnfyuaxck.pages.dev \u00b7 dir: https://mdnfyuaxck.pages.dev/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mdnfyuaxck.pages.dev/db/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": ".bash_profile",
+  "date": "2022-06-07 16:43",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "236",
+  "ftype": "other",
+  "host": "www.tandheel-kundigedienst.cliniqueduprince.com",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.tandheel-kundigedienst.cliniqueduprince.com/.bash_profile",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://www.tandheel-kundigedienst.cliniqueduprince.com/",
+  "kw": "",
+  "preview": "other \u00b7 236 \u00b7 2022-06-07 16:43 \u00b7 in https://www.tandheel-kundigedienst.cliniqueduprince.com/",
+  "extra": "host: www.tandheel-kundigedienst.cliniqueduprince.com \u00b7 dir: https://www.tandheel-kundigedienst.cliniqueduprince.com/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.tandheel-kundigedienst.cliniqueduprince.com/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": ".bashrc",
+  "date": "2022-06-07 16:43",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "131",
+  "ftype": "other",
+  "host": "www.tandheel-kundigedienst.cliniqueduprince.com",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.tandheel-kundigedienst.cliniqueduprince.com/.bashrc",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://www.tandheel-kundigedienst.cliniqueduprince.com/",
+  "kw": "",
+  "preview": "other \u00b7 131 \u00b7 2022-06-07 16:43 \u00b7 in https://www.tandheel-kundigedienst.cliniqueduprince.com/",
+  "extra": "host: www.tandheel-kundigedienst.cliniqueduprince.com \u00b7 dir: https://www.tandheel-kundigedienst.cliniqueduprince.com/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.tandheel-kundigedienst.cliniqueduprince.com/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": ".bash_logout",
+  "date": "2022-06-07 16:43",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "24",
+  "ftype": "other",
+  "host": "www.tandheel-kundigedienst.cliniqueduprince.com",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.tandheel-kundigedienst.cliniqueduprince.com/.bash_logout",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://www.tandheel-kundigedienst.cliniqueduprince.com/",
+  "kw": "",
+  "preview": "other \u00b7 24 \u00b7 2022-06-07 16:43 \u00b7 in https://www.tandheel-kundigedienst.cliniqueduprince.com/",
+  "extra": "host: www.tandheel-kundigedienst.cliniqueduprince.com \u00b7 dir: https://www.tandheel-kundigedienst.cliniqueduprince.com/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.tandheel-kundigedienst.cliniqueduprince.com/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "releases.json",
+  "date": "23-Sep-2026 08:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1917",
+  "ftype": "other",
+  "host": "wecbdoaqqwwof.pages.dev",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://wecbdoaqqwwof.pages.dev/releases.json",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://wecbdoaqqwwof.pages.dev/",
+  "kw": "",
+  "preview": "other \u00b7 1917 \u00b7 23-Sep-2026 08:54 \u00b7 in https://wecbdoaqqwwof.pages.dev/",
+  "extra": "host: wecbdoaqqwwof.pages.dev \u00b7 dir: https://wecbdoaqqwwof.pages.dev/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://wecbdoaqqwwof.pages.dev/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "checksums.db",
+  "date": "27-Oct-2026 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "12M",
+  "ftype": "other",
+  "host": "xxwacbtaqtuj.pages.dev",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://xxwacbtaqtuj.pages.dev/db/checksums.db",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://xxwacbtaqtuj.pages.dev/",
+  "kw": "",
+  "preview": "other \u00b7 12M \u00b7 27-Oct-2026 12:58 \u00b7 in https://xxwacbtaqtuj.pages.dev/db/",
+  "extra": "host: xxwacbtaqtuj.pages.dev \u00b7 dir: https://xxwacbtaqtuj.pages.dev/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://xxwacbtaqtuj.pages.dev/db/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "release.caches.db",
+  "date": "27-Oct-2026 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2M",
+  "ftype": "other",
+  "host": "xxwacbtaqtuj.pages.dev",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://xxwacbtaqtuj.pages.dev/db/release.caches.db",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://xxwacbtaqtuj.pages.dev/",
+  "kw": "",
+  "preview": "other \u00b7 2M \u00b7 27-Oct-2026 12:58 \u00b7 in https://xxwacbtaqtuj.pages.dev/db/",
+  "extra": "host: xxwacbtaqtuj.pages.dev \u00b7 dir: https://xxwacbtaqtuj.pages.dev/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://xxwacbtaqtuj.pages.dev/db/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "version",
+  "date": "27-Oct-2026 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "31",
+  "ftype": "text",
+  "host": "xxwacbtaqtuj.pages.dev",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://xxwacbtaqtuj.pages.dev/db/version",
+  "mime": "text/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://xxwacbtaqtuj.pages.dev/",
+  "kw": "",
+  "preview": "text \u00b7 31 \u00b7 27-Oct-2026 12:58 \u00b7 in https://xxwacbtaqtuj.pages.dev/db/",
+  "extra": "host: xxwacbtaqtuj.pages.dev \u00b7 dir: https://xxwacbtaqtuj.pages.dev/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://xxwacbtaqtuj.pages.dev/db/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "packages.db",
+  "date": "27-Oct-2026 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "108M",
+  "ftype": "other",
+  "host": "xxwacbtaqtuj.pages.dev",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://xxwacbtaqtuj.pages.dev/db/packages.db",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://xxwacbtaqtuj.pages.dev/",
+  "kw": "",
+  "preview": "other \u00b7 108M \u00b7 27-Oct-2026 12:58 \u00b7 in https://xxwacbtaqtuj.pages.dev/db/",
+  "extra": "host: xxwacbtaqtuj.pages.dev \u00b7 dir: https://xxwacbtaqtuj.pages.dev/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://xxwacbtaqtuj.pages.dev/db/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "references.db",
+  "date": "27-Oct-2026 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "7M",
+  "ftype": "other",
+  "host": "xxwacbtaqtuj.pages.dev",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://xxwacbtaqtuj.pages.dev/db/references.db",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://xxwacbtaqtuj.pages.dev/",
+  "kw": "",
+  "preview": "other \u00b7 7M \u00b7 27-Oct-2026 12:58 \u00b7 in https://xxwacbtaqtuj.pages.dev/db/",
+  "extra": "host: xxwacbtaqtuj.pages.dev \u00b7 dir: https://xxwacbtaqtuj.pages.dev/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://xxwacbtaqtuj.pages.dev/db/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "contents.cache.db",
+  "date": "27-Oct-2026 12:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "98M",
+  "ftype": "other",
+  "host": "xxwacbtaqtuj.pages.dev",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://xxwacbtaqtuj.pages.dev/db/contents.cache.db",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://xxwacbtaqtuj.pages.dev/",
+  "kw": "",
+  "preview": "other \u00b7 98M \u00b7 27-Oct-2026 12:58 \u00b7 in https://xxwacbtaqtuj.pages.dev/db/",
+  "extra": "host: xxwacbtaqtuj.pages.dev \u00b7 dir: https://xxwacbtaqtuj.pages.dev/db/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://xxwacbtaqtuj.pages.dev/db/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "releases.json",
+  "date": "23-Sep-2026 08:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1917",
+  "ftype": "other",
+  "host": "xxwacbtaqtuj.pages.dev",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://xxwacbtaqtuj.pages.dev/releases.json",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://xxwacbtaqtuj.pages.dev/",
+  "kw": "",
+  "preview": "other \u00b7 1917 \u00b7 23-Sep-2026 08:54 \u00b7 in https://xxwacbtaqtuj.pages.dev/",
+  "extra": "host: xxwacbtaqtuj.pages.dev \u00b7 dir: https://xxwacbtaqtuj.pages.dev/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://xxwacbtaqtuj.pages.dev/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rpki-client-9.3.tar.gz.asc",
+  "date": "2024-09-19 22:46",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "833",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-9.3.tar.gz.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 833 \u00b7 2024-09-19 22:46 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "INSTALL.macppc",
+  "date": "2026-10-09 03:10",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "47K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/INSTALL.macppc",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 47K \u00b7 2026-10-09 03:10 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "SHA256.asc",
+  "date": "2026-08-22 14:25",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "870",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/SHA256.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 870 \u00b7 2026-08-22 14:25 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rpki-client-9.9.tar.gz.asc",
+  "date": "2026-08-22 14:25",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "870",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-9.9.tar.gz.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 870 \u00b7 2026-08-22 14:25 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rpki-client-7.7.tar.gz",
+  "date": "2022-04-07 22:48",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "441K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-7.7.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 441K \u00b7 2022-04-07 22:48 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ANNOUNCEMENT",
+  "date": "2026-10-19 19:51",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "57K",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/ANNOUNCEMENT",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 57K \u00b7 2026-10-19 19:51 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "SHA256.sig",
+  "date": "2026-08-22 14:25",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "6.7K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/SHA256.sig",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 6.7K \u00b7 2026-08-22 14:25 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rpki-client-8.6.tar.gz",
+  "date": "2023-10-04 22:13",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "514K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-8.6.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 514K \u00b7 2023-10-04 22:13 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "bsd.rd",
+  "date": "2026-10-09 03:10",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.4M",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/bsd.rd",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 3.4M \u00b7 2026-10-09 03:10 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbsd-80-base.pub",
+  "date": "2026-09-28 18:44",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "104",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/openbsd-80-base.pub",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 104 \u00b7 2026-09-28 18:44 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rpki-client-9.0.txt",
+  "date": "2024-03-02 21:47",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.3K",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-9.0.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 3.3K \u00b7 2024-03-02 21:47 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openntpd-4.3.tgz",
+  "date": "2008-05-23 13:16",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "26K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/openntpd-4.3.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 26K \u00b7 2008-05-23 13:16 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rpki-client-9.9.txt",
+  "date": "2026-08-22 14:10",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.4K",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-9.9.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 3.4K \u00b7 2026-08-22 14:10 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rpki-client-9.9.tar.gz",
+  "date": "2026-08-22 14:24",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "574K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-9.9.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 574K \u00b7 2026-08-22 14:24 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openntpd-5.7p3.tar.gz.asc",
+  "date": "2015-01-28 04:51",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "819",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/openntpd-5.7p3.tar.gz.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 819 \u00b7 2015-01-28 04:51 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openntpd-6.2p2.tar.gz.asc",
+  "date": "2017-09-07 21:25",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "801",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/openntpd-6.2p2.tar.gz.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 801 \u00b7 2017-09-07 21:25 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "SHA256.asc",
+  "date": "2026-07-02 06:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "870",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/SHA256.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 870 \u00b7 2026-07-02 06:58 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openntpd-7.9p1.tar.gz.asc",
+  "date": "2026-07-02 06:12",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "870",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/openntpd-7.9p1.tar.gz.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 870 \u00b7 2026-07-02 06:12 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rpki-client-9.8.tar.gz.asc",
+  "date": "2026-04-14 22:49",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "870",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-9.8.tar.gz.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 870 \u00b7 2026-04-14 22:49 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rpki-client-8.7.tar.gz.asc",
+  "date": "2023-12-20 21:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "833",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-8.7.tar.gz.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 833 \u00b7 2023-12-20 21:17 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rpki-client-8.9.tar.gz",
+  "date": "2024-02-12 21:37",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "530K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-8.9.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 530K \u00b7 2024-02-12 21:37 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rpki-client-9.7.tar.gz.asc",
+  "date": "2026-01-13 19:43",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "833",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-9.7.tar.gz.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 833 \u00b7 2026-01-13 19:43 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openntpd-5.7p4.tar.gz",
+  "date": "2015-03-25 02:36",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "418K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/openntpd-5.7p4.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 418K \u00b7 2015-03-25 02:36 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenNTPD/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "game80.tgz",
+  "date": "2026-10-09 02:24",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.7M",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/game80.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 2.7M \u00b7 2026-10-09 02:24 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "BUILDINFO",
+  "date": "2026-10-09 03:10",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "54",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/BUILDINFO",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 54 \u00b7 2026-10-09 03:10 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rpki-client-7.6.txt",
+  "date": "2022-02-07 21:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.1K",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-7.6.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 2.1K \u00b7 2022-02-07 21:58 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "bsd.tbxi",
+  "date": "2026-10-09 00:44",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "6.8K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/bsd.tbxi",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 6.8K \u00b7 2026-10-09 00:44 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/macppc/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "fullfilelist",
+  "date": "2026-10-31 18:38",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "168M",
+  "ftype": "text",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/fedora/fullfilelist",
+  "mime": "text/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "text \u00b7 168M \u00b7 2026-10-31 18:38 \u00b7 in https://mirror.aarnet.edu.au/pub/fedora/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/fedora/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/fedora/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "update-fullfiletimelist.lock",
+  "date": "2026-10-20 20:39",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "0",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/fedora/update-fullfiletimelist.lock",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 0 \u00b7 2026-10-20 20:39 \u00b7 in https://mirror.aarnet.edu.au/pub/fedora/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/fedora/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/fedora/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "fullfiletimelist-fedora.1Zx5yLNqiQ",
+  "date": "2025-10-25 22:36",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "106M",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/fedora/fullfiletimelist-fedora.1Zx5yLNqiQ",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 106M \u00b7 2025-10-25 22:36 \u00b7 in https://mirror.aarnet.edu.au/pub/fedora/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/fedora/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/fedora/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "state",
+  "date": "2026-10-31 15:24",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "259",
+  "ftype": "text",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/manjaro/state",
+  "mime": "text/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "text \u00b7 259 \u00b7 2026-10-31 15:24 \u00b7 in https://mirror.aarnet.edu.au/pub/manjaro/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/manjaro/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/manjaro/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "fullfiletimelist-fedora",
+  "date": "2026-10-31 18:38",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "196M",
+  "ftype": "text",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/fedora/fullfiletimelist-fedora",
+  "mime": "text/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "text \u00b7 196M \u00b7 2026-10-31 18:38 \u00b7 in https://mirror.aarnet.edu.au/pub/fedora/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/fedora/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/fedora/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "imagelist-fedora",
+  "date": "2026-10-31 15:28",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "45K",
+  "ftype": "text",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/fedora/imagelist-fedora",
+  "mime": "text/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "text \u00b7 45K \u00b7 2026-10-31 15:28 \u00b7 in https://mirror.aarnet.edu.au/pub/fedora/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/fedora/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/fedora/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "testing.diff",
+  "date": "2026-09-07 06:05",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "0",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/manjaro/testing.diff",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 0 \u00b7 2026-09-07 06:05 \u00b7 in https://mirror.aarnet.edu.au/pub/manjaro/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/manjaro/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/manjaro/"
+   ]
+  ],
+  "mined_at": "2026-11-01T00:20:00Z"
  }
 ]
