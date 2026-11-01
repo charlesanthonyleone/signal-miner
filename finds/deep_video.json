@@ -9121,5 +9121,311 @@
   "preview": "trailer-700-VBR.mpg \u00b7 5.3M \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/warriors/",
   "extra": "open directory on ftp.sunet.se",
   "mined_at": "2026-11-01T00:36:20Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "dancingbush.swf",
+  "date": "2019-07-28",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "359 KB",
+  "ftype": "application/x-shockwave-flash",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190728184848id_/http://www.angelfire.com/nc/woodyra/flash/dancingbush.swf",
+  "url": "https://web.archive.org/web/20190728184848/http://www.angelfire.com/nc/woodyra/flash/dancingbush.swf",
+  "query": "CDX www.angelfire.com/nc/w* (resumable harvest)",
+  "preview": "application/x-shockwave-flash \u00b7 367797 bytes \u00b7 originally at http://www.angelfire.com/nc/woodyra/flash/dancingbush.swf",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 application/x-shockwave-flash",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/nc/woodyra/flash/dancingbush.swf"
+   ]
+  ],
+  "mined_at": "2026-11-01T06:44:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "Kevinjp.wmv",
+  "date": "2019-07-30",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "1025 KB",
+  "ftype": "video/x-ms-wmv",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190730190814id_/http://www.angelfire.com/nc/wazup2/Movies/Kevinjp.wmv",
+  "url": "https://web.archive.org/web/20190730190814/http://www.angelfire.com/nc/wazup2/Movies/Kevinjp.wmv",
+  "query": "CDX www.angelfire.com/nc/w* (resumable harvest)",
+  "preview": "video/x-ms-wmv \u00b7 1050231 bytes \u00b7 originally at http://www.angelfire.com/nc/wazup2/Movies/Kevinjp.wmv",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 video/x-ms-wmv",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/nc/wazup2/Movies/Kevinjp.wmv"
+   ]
+  ],
+  "mined_at": "2026-11-01T06:44:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "walkch.mpg",
+  "date": "2019-08-04",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "113 KB",
+  "ftype": "video/mpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190804094809id_/http://www.angelfire.com/nc/wetbandits/images/walkch.mpg",
+  "url": "https://web.archive.org/web/20190804094809/http://www.angelfire.com/nc/wetbandits/images/walkch.mpg",
+  "query": "CDX www.angelfire.com/nc/w* (resumable harvest)",
+  "preview": "video/mpeg \u00b7 115788 bytes \u00b7 originally at http://www.angelfire.com/nc/wetbandits/images/walkch.mpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 video/mpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/nc/wetbandits/images/walkch.mpg"
+   ]
+  ],
+  "mined_at": "2026-11-01T06:44:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "Jpkevin2.wmv",
+  "date": "2019-07-30",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "1657 KB",
+  "ftype": "video/x-ms-wmv",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190730190817id_/http://www.angelfire.com/nc/wazup2/Movies/Jpkevin2.wmv",
+  "url": "https://web.archive.org/web/20190730190817/http://www.angelfire.com/nc/wazup2/Movies/Jpkevin2.wmv",
+  "query": "CDX www.angelfire.com/nc/w* (resumable harvest)",
+  "preview": "video/x-ms-wmv \u00b7 1696845 bytes \u00b7 originally at http://www.angelfire.com/nc/wazup2/Movies/Jpkevin2.wmv",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 video/x-ms-wmv",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/nc/wazup2/Movies/Jpkevin2.wmv"
+   ]
+  ],
+  "mined_at": "2026-11-01T06:44:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "swanton.mpeg",
+  "date": "2019-07-30",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "891 KB",
+  "ftype": "video/mpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190730190811id_/http://www.angelfire.com/nc/wazup2/Movies/swanton.mpeg",
+  "url": "https://web.archive.org/web/20190730190811/http://www.angelfire.com/nc/wazup2/Movies/swanton.mpeg",
+  "query": "CDX www.angelfire.com/nc/w* (resumable harvest)",
+  "preview": "video/mpeg \u00b7 912665 bytes \u00b7 originally at http://www.angelfire.com/nc/wazup2/Movies/swanton.mpeg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 video/mpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/nc/wazup2/Movies/swanton.mpeg"
+   ]
+  ],
+  "mined_at": "2026-11-01T06:44:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "walkv.mpg",
+  "date": "2019-08-04",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "113 KB",
+  "ftype": "video/mpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190804094810id_/http://www.angelfire.com/nc/wetbandits/images/walkv.mpg",
+  "url": "https://web.archive.org/web/20190804094810/http://www.angelfire.com/nc/wetbandits/images/walkv.mpg",
+  "query": "CDX www.angelfire.com/nc/w* (resumable harvest)",
+  "preview": "video/mpeg \u00b7 115895 bytes \u00b7 originally at http://www.angelfire.com/nc/wetbandits/images/walkv.mpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 video/mpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/nc/wetbandits/images/walkv.mpg"
+   ]
+  ],
+  "mined_at": "2026-11-01T06:44:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "Kaliostro.rm",
+  "date": "2019-08-10",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "467 KB",
+  "ftype": "application/vnd.rn-realmedia",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190810005736id_/http://www.angelfire.com/ok/dixonhill/video/Kaliostro.rm",
+  "url": "https://web.archive.org/web/20190810005736/http://www.angelfire.com/ok/dixonhill/video/Kaliostro.rm",
+  "query": "CDX www.angelfire.com/ok/d* (resumable harvest)",
+  "preview": "application/vnd.rn-realmedia \u00b7 478429 bytes \u00b7 originally at http://www.angelfire.com/ok/dixonhill/video/Kaliostro.rm",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 application/vnd.rn-realmedia",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/ok/dixonhill/video/Kaliostro.rm"
+   ]
+  ],
+  "mined_at": "2026-11-01T06:44:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "CAPTURE.rm",
+  "date": "2019-07-28",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "295 KB",
+  "ftype": "application/vnd.rn-realmedia",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190728000739id_/http://www.angelfire.com/ok/DigitalImplosion/CAPTURE.rm",
+  "url": "https://web.archive.org/web/20190728000739/http://www.angelfire.com/ok/DigitalImplosion/CAPTURE.rm",
+  "query": "CDX www.angelfire.com/ok/d* (resumable harvest)",
+  "preview": "application/vnd.rn-realmedia \u00b7 302965 bytes \u00b7 originally at http://www.angelfire.com/ok/DigitalImplosion/CAPTURE.rm",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 application/vnd.rn-realmedia",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/ok/DigitalImplosion/CAPTURE.rm"
+   ]
+  ],
+  "mined_at": "2026-11-01T06:44:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "onlive.rm",
+  "date": "2019-07-28",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "836 KB",
+  "ftype": "application/vnd.rn-realmedia",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190728000741id_/http://www.angelfire.com/ok/DigitalImplosion/images/onlive.rm",
+  "url": "https://web.archive.org/web/20190728000741/http://www.angelfire.com/ok/DigitalImplosion/images/onlive.rm",
+  "query": "CDX www.angelfire.com/ok/d* (resumable harvest)",
+  "preview": "application/vnd.rn-realmedia \u00b7 856069 bytes \u00b7 originally at http://www.angelfire.com/ok/DigitalImplosion/images/onlive.rm",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 application/vnd.rn-realmedia",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/ok/DigitalImplosion/images/onlive.rm"
+   ]
+  ],
+  "mined_at": "2026-11-01T06:44:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "index.swf",
+  "date": "2019-07-27",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "5182 KB",
+  "ftype": "application/x-shockwave-flash",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190727031623id_/http://www.angelfire.com/ok/deathowl/index.swf",
+  "url": "https://web.archive.org/web/20190727031623/http://www.angelfire.com/ok/deathowl/index.swf",
+  "query": "CDX www.angelfire.com/ok/d* (resumable harvest)",
+  "preview": "application/x-shockwave-flash \u00b7 5307039 bytes \u00b7 originally at http://www.angelfire.com/ok/deathowl/index.swf",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 application/x-shockwave-flash",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/ok/deathowl/index.swf"
+   ]
+  ],
+  "mined_at": "2026-11-01T06:44:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "Home.rm",
+  "date": "2019-07-28",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "1053 KB",
+  "ftype": "application/vnd.rn-realmedia",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190728000734id_/http://www.angelfire.com/ok/DigitalImplosion/images/Home.rm",
+  "url": "https://web.archive.org/web/20190728000734/http://www.angelfire.com/ok/DigitalImplosion/images/Home.rm",
+  "query": "CDX www.angelfire.com/ok/d* (resumable harvest)",
+  "preview": "application/vnd.rn-realmedia \u00b7 1078623 bytes \u00b7 originally at http://www.angelfire.com/ok/DigitalImplosion/images/Home.rm",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 application/vnd.rn-realmedia",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/ok/DigitalImplosion/images/Home.rm"
+   ]
+  ],
+  "mined_at": "2026-11-01T06:44:37Z"
+ },
+ {
+  "source": "Open Directory (index)",
+  "title": "warriors-700-nl-VBR.mpg",
+  "date": "2002-10-31",
+  "dateLabel": "modified",
+  "count": null,
+  "countLabel": "",
+  "size": "71M",
+  "ftype": "video/mpg",
+  "host": "ftp.sunet.se",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/warriors/warriors-700-nl-VBR.mpg",
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/warriors/warriors-700-nl-VBR.mpg",
+  "query": "open-directory index (odbig) video extensions",
+  "preview": "warriors-700-nl-VBR.mpg \u00b7 71M \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/warriors/",
+  "extra": "open directory on ftp.sunet.se",
+  "mined_at": "2026-11-01T06:44:37Z"
  }
 ]

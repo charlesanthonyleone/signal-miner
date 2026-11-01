@@ -542,5 +542,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-01T00:18:39Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 2606:4700:8ca5::/48",
+  "date": "2026-11-01",
+  "dateLabel": "sampled",
+  "count": 0,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"2606:4700:8ca5::/48\",\n  \"origin\": \"13335\",\n  \"time\": \"2023-06-07T16:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"2606:4700:8ca5::/48\",\n  \"origin\": \"13335\",\n  \"time\": \"2026-11-01T00:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 313,\n   \"total_ris_peers\": 313\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 13335,\n   \"route_objects\": [\n    \"ARIN\"\n   ]\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/2606:4700:8ca5::/48",
+  "query": "RIPEstat routing-status 2606:4700:8ca5::/48",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-01T06:21:42Z"
  }
 ]
