@@ -3454,5 +3454,125 @@
    ]
   ],
   "mined_at": "2026-11-01T06:28:29Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "New Akademy 2023 and LinDoz 2023 Videos",
+  "url": "https://portal.mozz.us/gemini/gemini.tuxmachines.org/n/2023/12/12/New_Akademy_2023_and_LinDoz_2023_Videos.gmi",
+  "gemini": "gemini://gemini.tuxmachines.org/n/2023/12/12/New_Akademy_2023_and_LinDoz_2023_Videos.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 1384,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gemini.tuxmachines.org",
+  "preview": "Tux Machines\n\n# New Akademy 2023 and LinDoz 2023 Videos\n\nPosted by Roy Schestowitz on Dec 12, 2023\n\n=>\t/n/2023/12/12/Open_Hardware_and_Linux_Devices.gmi\tOpen Hardware and Linux Devices\n=>\t/n/2023/12/12/Security_Leftovers.1.gmi\tSecurity Leftovers\n\n\n\n### Akademy 2023 - Over a million reasons why Snaps are important.\n\n=>\thttps://tube.kockatoo.org/w/87ihEWfMY48d4PhfCsqT5J\t\u21ba Akademy 2023 - Over a million reasons why Snaps are important.\n\n> I will start out with the fact that snaps have had over a million downloads and with those kind of numbers, they cannot be ignored. I will continue on to describe here my journey in creating a vast amount of snaps, the automation of said snap building using invent.kde.org and Ubuntu launchpad builders. I will explain the hurdles I have overcome and what needs to be done to keep the snaps updated and how developers can help ensure the users are getting updates in a timely manner. The hard part is done, I have made it easy, just a few more minutes of your time at release.\n\n=>\thttps://invent.kde.org\t\u21ba invent.kde.org\n\n=>\thttps://invent.kde.org\t\u21ba invent.kde.org\n\n \n###  LinDoz 2023 \u2013 Virtual Cam\n\n=>\thttp://www.makululinux.com/wp/2023/12/11/lindoz-2023-virtu",
+  "query": "gemini search \"invention\"",
+  "kw": "invention",
+  "extra": "capsule: gemini.tuxmachines.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gemini.tuxmachines.org/n/2023/12/12/New_Akademy_2023_and_LinDoz_2023_Videos.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:48:34Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Open Invention Network (OIN) Homepage: Microsoft is \"Community of Global Leaders\"",
+  "url": "https://portal.mozz.us/gemini/techrights.org/n/2024/03/16/Open_Invention_Network_OIN_Homepage_Microsoft_is_Community_of_G.gmi",
+  "gemini": "gemini://techrights.org/n/2024/03/16/Open_Invention_Network_OIN_Homepage_Microsoft_is_Community_of_G.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 1657,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "techrights.org",
+  "preview": "Techrights\n\n# Open Invention Network (OIN) Homepage: Microsoft is \"Community of Global Leaders\"\n\nPosted by Roy Schestowitz on Mar 16, 2024,\nupdated Mar 16, 2024\n\n=>\t/n/2024/03/16/Gemini_Links_16_03_2024_gplaces_in_Flathub_and_the_Scroll_Proto.gmi\tGemini Links 16/03/2024: gplaces in Flathub and the Scroll Protocol\n=>\t/n/2024/03/16/Open_Invention_Network_OIN_Fails_to_Explain_If_Linux_is_Safe_Fr.gmi\tOpen Invention Network (OIN) Fails to Explain If Linux is Safe From Microsoft's Software Patent Royalties (Charges)\n\nScreenshot of the OIN homepage (front page) right now:\n\nContext:  Open Invention Network (OIN) Fails to Explain If Linux is Safe From Microsoft's Software Patent Royalties (Charges)\n\n=>\t/n/2024/03/16/Open_Invention_Network_OIN_Fails_to_Explain_If_Linux_is_Safe_Fr.gmi\tOpen Invention Network (OIN) Fails to Explain If Linux is Safe From Microsoft's Software Patent Royalties (Charges)\n\nOlder: Open Invention Network is a Proponent of Software Patents -- Just Like Microsoft -- and Microsoft Keeps Patents It Uses to Blackmail Linux Vendors\n\n=>\thttp://techrights.org/o/2018/10/10/lotnetwork-msft-and-now-oin/\tHTTP: Open Invention Network is a Proponent of Software Patents -- Just Like",
+  "query": "gemini search \"invention\"",
+  "kw": "invention",
+  "extra": "capsule: techrights.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://techrights.org/n/2024/03/16/Open_Invention_Network_OIN_Homepage_Microsoft_is_Community_of_G.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:48:34Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "\u25cf 04.29.21",
+  "url": "https://portal.mozz.us/gemini/techrights.org/2021/04/29/ritual-defamation/",
+  "gemini": "gemini://techrights.org/2021/04/29/ritual-defamation/",
+  "date": "",
+  "dateLabel": "",
+  "count": 7324,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "techrights.org",
+  "preview": "#\t\u25cf 04.29.21\n\n##\t\u25cf\u25cf The Practice of Ritual Defamation (Relevant to Cancel Mobs)\n\nPosted in Deception, Free/Libre Software at 6:03 am by Dr. Roy Schestowitz\n\nSummary: Published on April 26, 2021. Reproduced with permission from here.\n\nWritten in 1990, this short essay by Laird Wilcox[1] is pertinent today and specially applicable to the defamation of Richard Stallman. The modus operandi described by Wilcox matches seamlessly the procedure adopted by Stallman\u2019s attackers. We are reproducing it verbatim from the original[2] with permission from the author. A 5 minutes read worth one or two whole books on the subject.\n\n###\t\u25cf\u25cf\u25cf The Practice of Ritual Defamation  How values, opinions and beliefs are controlled in democratic societies\n\nby Laird Wilcox \u2013 1990\n\nDefamation is the destruction or attempted destruction of the reputation, status, character or standing in the community of a person or group of persons by unfair, wrongful, or malicious speech or publication. For the purposes of this essay, the central element is defamation in retaliation for the real or imagined attitudes, opinions or beliefs of the victim, with the intention of silencing or neutralizing his or her influence, and/o",
+  "query": "gemini search \"ritual\"",
+  "kw": "ritual",
+  "extra": "capsule: techrights.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://techrights.org/2021/04/29/ritual-defamation/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:48:34Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "pentnote.occ.gmi",
+  "url": "https://portal.mozz.us/gemini/gem.snork.ca/textfiles.com/occult/pentnote.occ.gmi",
+  "gemini": "gemini://gem.snork.ca/textfiles.com/occult/pentnote.occ.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 5684,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gem.snork.ca",
+  "preview": "NOTES ON THE LESSER AND\r\n                 GREATER RITUAL OF THE PENTAGRAM\r\n\r\n                             PART II\r\n\r\n                            Issued by\r\n                       the Thelemic Order\r\n                       of the Golden Dawn\r\n                   (Novus Ordo Aureae Aurora)\r\n\r\n                               By\r\n                       John M. Demmitt III\r\n                     and Sir David Cherubim\r\n                     Copyright (c) 1991 e.v.\r\n\r\nThe Ritual of the Pentagram is a much used Magical Ritual which\r\nutilizes the symbol of the Pentagram as a general means to banish\r\nand invoke elemental forces. Yet we should not simply regard it\r\nas a mere device to invoke or banish, for it is really the Stone\r\nof the Wise and involves a high formula of self-initiation when\r\nproperly performed with the right type of magical awareness and\r\nwill power.  It is given to the Neophyte of the New Order of the\r\nGolden Dawn as a means for him to come into contact with\r\ninvisible forces and to know how to direct and apply those forces\r\nto his Magical Will.\r\n\r\nThe Pentagram Ritual affirms the Magician's identity with the\r\nInner Logos, which the Pentagram as a symbol represents. In fact,\r",
+  "query": "gemini search \"ritual\"",
+  "kw": "ritual",
+  "extra": "capsule: gem.snork.ca \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gem.snork.ca/textfiles.com/occult/pentnote.occ.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:48:34Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Creative Faithfulness",
+  "url": "https://portal.mozz.us/gemini/vigilia.cc/gemlog/2024-05-11_creative_faithfulness.gmi?&fnote=2",
+  "gemini": "gemini://vigilia.cc/gemlog/2024-05-11_creative_faithfulness.gmi?&fnote=2",
+  "date": "",
+  "dateLabel": "",
+  "count": 2807,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "vigilia.cc",
+  "preview": "# Creative Faithfulness\n\nThe Pope addressed INSECT [^FN] thuswise:\n\u2028> In this light, dear friends, I would like to point to three guidelines for theology: creative fidelity to tradition, a cross-disciplinary approach and collegiality (cf. Address to the International Theological Commission, 4 November 2022). These are the essential \u201cingredients\u201d of the vocation of Catholic theologians in the heart of the Church. For theologians, are like the scouting party sent by Joshua to explore the land of Canaan: they are charged with finding the right paths towards the inculturation of the faith. 3 lines of development for theology according to the Pope: creative fidelity to tradition, a cross-disciplinary approach and collegiality.\n=> https://zenit.org/2024/05/11/3-lines-of-development-for-theology-according-to-the-pope-creative-fidelity-to-tradition-a-cross-disciplinary-approach-and-collegiality/ 3 lines of development for theology according to the Pope: creative fidelity to tradition, a cross-disciplinary approach and collegiality | ZENIT - English\n\nSending this on to my dear friend Ioannes (PhD Theol), he had this to add:\n\n> [Ioannes]: g had a good line on this\n> [Ioannes]: he said--at a ",
+  "query": "gemini search \"theology\"",
+  "kw": "theology",
+  "extra": "capsule: vigilia.cc \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://vigilia.cc/gemlog/2024-05-11_creative_faithfulness.gmi?&fnote=2"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:48:34Z"
  }
 ]

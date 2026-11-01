@@ -9427,5 +9427,577 @@
   "preview": "warriors-700-nl-VBR.mpg \u00b7 71M \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/warriors/",
   "extra": "open directory on ftp.sunet.se",
   "mined_at": "2026-11-01T06:44:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "Thunderstorm.wmv",
+  "date": "2019-07-25",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "1692 KB",
+  "ftype": "video/x-ms-wmv",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190725094703id_/http://www.angelfire.com/tx/flaxorca/Thunderstorm.wmv",
+  "url": "https://web.archive.org/web/20190725094703/http://www.angelfire.com/tx/flaxorca/Thunderstorm.wmv",
+  "query": "CDX www.angelfire.com/tx/f* (resumable harvest)",
+  "preview": "video/x-ms-wmv \u00b7 1733301 bytes \u00b7 originally at http://www.angelfire.com/tx/flaxorca/Thunderstorm.wmv",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 video/x-ms-wmv",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/tx/flaxorca/Thunderstorm.wmv"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "Michael2.swf",
+  "date": "2019-08-03",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "251 KB",
+  "ftype": "application/x-shockwave-flash",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190803090650id_/http://www.angelfire.com/tx/forbes21/images/Michael2.swf",
+  "url": "https://web.archive.org/web/20190803090650/http://www.angelfire.com/tx/forbes21/images/Michael2.swf",
+  "query": "CDX www.angelfire.com/tx/f* (resumable harvest)",
+  "preview": "application/x-shockwave-flash \u00b7 257221 bytes \u00b7 originally at http://www.angelfire.com/tx/forbes21/images/Michael2.swf",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 application/x-shockwave-flash",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/tx/forbes21/images/Michael2.swf"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "outlawcom.swf",
+  "date": "2003-04-10",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "589 KB",
+  "ftype": "application/x-shockwave-flash",
+  "host": "www.angelfire.com:80",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20030410053928id_/http://www.angelfire.com:80/tx/fuelcarfan/outlaws/outlawcom.swf",
+  "url": "https://web.archive.org/web/20030410053928/http://www.angelfire.com:80/tx/fuelcarfan/outlaws/outlawcom.swf",
+  "query": "CDX www.angelfire.com/tx/f* (resumable harvest)",
+  "preview": "application/x-shockwave-flash \u00b7 603757 bytes \u00b7 originally at http://www.angelfire.com:80/tx/fuelcarfan/outlaws/outlawcom.swf",
+  "extra": "original host: www.angelfire.com:80 (offline) \u00b7 application/x-shockwave-flash",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com:80/tx/fuelcarfan/outlaws/outlawcom.swf"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "Trk2.rm",
+  "date": "2019-07-27",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "79 KB",
+  "ftype": "application/vnd.rn-realmedia",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190727012610id_/http://www.angelfire.com/music/tryx/images/cd/Trk2.rm",
+  "url": "https://web.archive.org/web/20190727012610/http://www.angelfire.com/music/tryx/images/cd/Trk2.rm",
+  "query": "CDX www.angelfire.com/music/t* (resumable harvest)",
+  "preview": "application/vnd.rn-realmedia \u00b7 80991 bytes \u00b7 originally at http://www.angelfire.com/music/tryx/images/cd/Trk2.rm",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 application/vnd.rn-realmedia",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/music/tryx/images/cd/Trk2.rm"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "Trk5.rm",
+  "date": "2019-07-27",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "151 KB",
+  "ftype": "application/vnd.rn-realmedia",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190727012605id_/http://www.angelfire.com/music/tryx/images/cd/Trk5.rm",
+  "url": "https://web.archive.org/web/20190727012605/http://www.angelfire.com/music/tryx/images/cd/Trk5.rm",
+  "query": "CDX www.angelfire.com/music/t* (resumable harvest)",
+  "preview": "application/vnd.rn-realmedia \u00b7 155576 bytes \u00b7 originally at http://www.angelfire.com/music/tryx/images/cd/Trk5.rm",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 application/vnd.rn-realmedia",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/music/tryx/images/cd/Trk5.rm"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "Trk7.rm",
+  "date": "2019-07-27",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "133 KB",
+  "ftype": "application/vnd.rn-realmedia",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190727012602id_/http://www.angelfire.com/music/tryx/images/cd/Trk7.rm",
+  "url": "https://web.archive.org/web/20190727012602/http://www.angelfire.com/music/tryx/images/cd/Trk7.rm",
+  "query": "CDX www.angelfire.com/music/t* (resumable harvest)",
+  "preview": "application/vnd.rn-realmedia \u00b7 136872 bytes \u00b7 originally at http://www.angelfire.com/music/tryx/images/cd/Trk7.rm",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 application/vnd.rn-realmedia",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/music/tryx/images/cd/Trk7.rm"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "Trk6.rm",
+  "date": "2019-07-27",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "147 KB",
+  "ftype": "application/vnd.rn-realmedia",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190727012604id_/http://www.angelfire.com/music/tryx/images/cd/Trk6.rm",
+  "url": "https://web.archive.org/web/20190727012604/http://www.angelfire.com/music/tryx/images/cd/Trk6.rm",
+  "query": "CDX www.angelfire.com/music/t* (resumable harvest)",
+  "preview": "application/vnd.rn-realmedia \u00b7 151329 bytes \u00b7 originally at http://www.angelfire.com/music/tryx/images/cd/Trk6.rm",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 application/vnd.rn-realmedia",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/music/tryx/images/cd/Trk6.rm"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "crazylove.mov",
+  "date": "2019-08-05",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "370 KB",
+  "ftype": "video/quicktime",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190805190855id_/http://www.angelfire.com/mn/TAROTANDASTROLOGY/MUSIC/crazylove.mov",
+  "url": "https://web.archive.org/web/20190805190855/http://www.angelfire.com/mn/TAROTANDASTROLOGY/MUSIC/crazylove.mov",
+  "query": "CDX www.angelfire.com/mn/t* (resumable harvest)",
+  "preview": "video/quicktime \u00b7 379162 bytes \u00b7 originally at http://www.angelfire.com/mn/TAROTANDASTROLOGY/MUSIC/crazylove.mov",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 video/quicktime",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/mn/TAROTANDASTROLOGY/MUSIC/crazylove.mov"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "shortTCK.swf",
+  "date": "2004-03-03",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "286 KB",
+  "ftype": "application/x-shockwave-flash",
+  "host": "www.angelfire.com:80",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20040303194913id_/http://www.angelfire.com:80/mn/TCK/shortTCK.swf",
+  "url": "https://web.archive.org/web/20040303194913/http://www.angelfire.com:80/mn/TCK/shortTCK.swf",
+  "query": "CDX www.angelfire.com/mn/t* (resumable harvest)",
+  "preview": "application/x-shockwave-flash \u00b7 293042 bytes \u00b7 originally at http://www.angelfire.com:80/mn/TCK/shortTCK.swf",
+  "extra": "original host: www.angelfire.com:80 (offline) \u00b7 application/x-shockwave-flash",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com:80/mn/TCK/shortTCK.swf"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "arms.asf",
+  "date": "2019-08-01",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "547 KB",
+  "ftype": "video/x-ms-asf",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190801010851id_/http://www.angelfire.com/mn/Terrigenous/arms.asf",
+  "url": "https://web.archive.org/web/20190801010851/http://www.angelfire.com/mn/Terrigenous/arms.asf",
+  "query": "CDX www.angelfire.com/mn/t* (resumable harvest)",
+  "preview": "video/x-ms-asf \u00b7 560444 bytes \u00b7 originally at http://www.angelfire.com/mn/Terrigenous/arms.asf",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 video/x-ms-asf",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/mn/Terrigenous/arms.asf"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "blind.asf",
+  "date": "2019-08-01",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "516 KB",
+  "ftype": "video/x-ms-asf",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190801010847id_/http://www.angelfire.com/mn/Terrigenous/blind.asf",
+  "url": "https://web.archive.org/web/20190801010847/http://www.angelfire.com/mn/Terrigenous/blind.asf",
+  "query": "CDX www.angelfire.com/mn/t* (resumable harvest)",
+  "preview": "video/x-ms-asf \u00b7 528942 bytes \u00b7 originally at http://www.angelfire.com/mn/Terrigenous/blind.asf",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 video/x-ms-asf",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/mn/Terrigenous/blind.asf"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "EmptyArm.rm",
+  "date": "2019-07-30",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "282 KB",
+  "ftype": "application/vnd.rn-realmedia",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190730140948id_/http://www.angelfire.com/mn/thebings/EmptyArm.rm",
+  "url": "https://web.archive.org/web/20190730140948/http://www.angelfire.com/mn/thebings/EmptyArm.rm",
+  "query": "CDX www.angelfire.com/mn/t* (resumable harvest)",
+  "preview": "application/vnd.rn-realmedia \u00b7 289702 bytes \u00b7 originally at http://www.angelfire.com/mn/thebings/EmptyArm.rm",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 application/vnd.rn-realmedia",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/mn/thebings/EmptyArm.rm"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "TubRogS2000_1.rm",
+  "date": "2019-08-08",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "1552 KB",
+  "ftype": "application/vnd.rn-realmedia",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190808053859id_/http://www.angelfire.com/mn/TubRog/TubRogS2000_1.rm",
+  "url": "https://web.archive.org/web/20190808053859/http://www.angelfire.com/mn/TubRog/TubRogS2000_1.rm",
+  "query": "CDX www.angelfire.com/mn/t* (resumable harvest)",
+  "preview": "application/vnd.rn-realmedia \u00b7 1589751 bytes \u00b7 originally at http://www.angelfire.com/mn/TubRog/TubRogS2000_1.rm",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 application/vnd.rn-realmedia",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/mn/TubRog/TubRogS2000_1.rm"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "india.mpg",
+  "date": "2019-08-04",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "4157 KB",
+  "ftype": "video/mpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190804073544id_/http://www.angelfire.com/journal/lucyworld/vids/india.mpg",
+  "url": "https://web.archive.org/web/20190804073544/http://www.angelfire.com/journal/lucyworld/vids/india.mpg",
+  "query": "CDX www.angelfire.com/journal/l* (resumable harvest)",
+  "preview": "video/mpeg \u00b7 4257344 bytes \u00b7 originally at http://www.angelfire.com/journal/lucyworld/vids/india.mpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 video/mpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/journal/lucyworld/vids/india.mpg"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "JoeySurfacing.mpg",
+  "date": "2019-08-05",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "880 KB",
+  "ftype": "video/mpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190805062337id_/http://www.angelfire.com/rock/jj1/JoeySurfacing.mpg",
+  "url": "https://web.archive.org/web/20190805062337/http://www.angelfire.com/rock/jj1/JoeySurfacing.mpg",
+  "query": "CDX www.angelfire.com/rock/j* (resumable harvest)",
+  "preview": "video/mpeg \u00b7 902109 bytes \u00b7 originally at http://www.angelfire.com/rock/jj1/JoeySurfacing.mpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 video/mpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/rock/jj1/JoeySurfacing.mpg"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "zaddika3.swf",
+  "date": "2019-08-03",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "4419 KB",
+  "ftype": "application/x-shockwave-flash",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190803143454id_/http://www.angelfire.com/punk/zaddikacorp/zaddika3.swf",
+  "url": "https://web.archive.org/web/20190803143454/http://www.angelfire.com/punk/zaddikacorp/zaddika3.swf",
+  "query": "CDX www.angelfire.com/punk/z* (resumable harvest)",
+  "preview": "application/x-shockwave-flash \u00b7 4525920 bytes \u00b7 originally at http://www.angelfire.com/punk/zaddikacorp/zaddika3.swf",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 application/x-shockwave-flash",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/punk/zaddikacorp/zaddika3.swf"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "black_8.wmv",
+  "date": "2019-08-06",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "603 KB",
+  "ftype": "video/x-ms-wmv",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190806015135id_/http://www.angelfire.com/80s/yipsir/poomse/black_8.wmv",
+  "url": "https://web.archive.org/web/20190806015135/http://www.angelfire.com/80s/yipsir/poomse/black_8.wmv",
+  "query": "CDX www.angelfire.com/80s/y* (resumable harvest)",
+  "preview": "video/x-ms-wmv \u00b7 617858 bytes \u00b7 originally at http://www.angelfire.com/80s/yipsir/poomse/black_8.wmv",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 video/x-ms-wmv",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/80s/yipsir/poomse/black_8.wmv"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "3d1.wmv",
+  "date": "2019-08-06",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "377 KB",
+  "ftype": "video/x-ms-wmv",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190806015313id_/http://www.angelfire.com/80s/yipsir/poomse/3d1.wmv",
+  "url": "https://web.archive.org/web/20190806015313/http://www.angelfire.com/80s/yipsir/poomse/3d1.wmv",
+  "query": "CDX www.angelfire.com/80s/y* (resumable harvest)",
+  "preview": "video/x-ms-wmv \u00b7 386228 bytes \u00b7 originally at http://www.angelfire.com/80s/yipsir/poomse/3d1.wmv",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 video/x-ms-wmv",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/80s/yipsir/poomse/3d1.wmv"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "3.wmv",
+  "date": "2019-08-06",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "562 KB",
+  "ftype": "video/x-ms-wmv",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190806015303id_/http://www.angelfire.com/80s/yipsir/poomse/3.wmv",
+  "url": "https://web.archive.org/web/20190806015303/http://www.angelfire.com/80s/yipsir/poomse/3.wmv",
+  "query": "CDX www.angelfire.com/80s/y* (resumable harvest)",
+  "preview": "video/x-ms-wmv \u00b7 576282 bytes \u00b7 originally at http://www.angelfire.com/80s/yipsir/poomse/3.wmv",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 video/x-ms-wmv",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/80s/yipsir/poomse/3.wmv"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "Mov03251.mpg",
+  "date": "2019-08-06",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "1197 KB",
+  "ftype": "video/mpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190806015109id_/http://www.angelfire.com/80s/yipsir/movie/Mov03251.mpg",
+  "url": "https://web.archive.org/web/20190806015109/http://www.angelfire.com/80s/yipsir/movie/Mov03251.mpg",
+  "query": "CDX www.angelfire.com/80s/y* (resumable harvest)",
+  "preview": "video/mpeg \u00b7 1225904 bytes \u00b7 originally at http://www.angelfire.com/80s/yipsir/movie/Mov03251.mpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 video/mpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/80s/yipsir/movie/Mov03251.mpg"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "ya9a7bi.swf",
+  "date": "2019-07-27",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "1132 KB",
+  "ftype": "application/x-shockwave-flash",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190727145406id_/http://www.angelfire.com/80s/ya9a7bi/ya9a7bi.swf",
+  "url": "https://web.archive.org/web/20190727145406/http://www.angelfire.com/80s/ya9a7bi/ya9a7bi.swf",
+  "query": "CDX www.angelfire.com/80s/y* (resumable harvest)",
+  "preview": "application/x-shockwave-flash \u00b7 1159815 bytes \u00b7 originally at http://www.angelfire.com/80s/ya9a7bi/ya9a7bi.swf",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 application/x-shockwave-flash",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/80s/ya9a7bi/ya9a7bi.swf"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "black_7.wmv",
+  "date": "2019-08-06",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "1091 KB",
+  "ftype": "video/x-ms-wmv",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://web.archive.org/web/20190806015141id_/http://www.angelfire.com/80s/yipsir/poomse/black_7.wmv",
+  "url": "https://web.archive.org/web/20190806015141/http://www.angelfire.com/80s/yipsir/poomse/black_7.wmv",
+  "query": "CDX www.angelfire.com/80s/y* (resumable harvest)",
+  "preview": "video/x-ms-wmv \u00b7 1117859 bytes \u00b7 originally at http://www.angelfire.com/80s/yipsir/poomse/black_7.wmv",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 video/x-ms-wmv",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/80s/yipsir/poomse/black_7.wmv"
+   ]
+  ],
+  "mined_at": "2026-11-01T14:03:37Z"
  }
 ]

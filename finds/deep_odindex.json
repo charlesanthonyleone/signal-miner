@@ -22874,5 +22874,789 @@
    ]
   ],
   "mined_at": "2026-11-01T06:26:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ICTWEB305.html",
+  "date": "2024-02-13 21:48",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.3K",
+  "ftype": "text",
+  "host": "www.s379103.brambling.cdu.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.s379103.brambling.cdu.edu.au/assessment2/ICTWEB305.html",
+  "mime": "text/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://www.s379103.brambling.cdu.edu.au/",
+  "kw": "",
+  "preview": "text \u00b7 1.3K \u00b7 2024-02-13 21:48 \u00b7 in https://www.s379103.brambling.cdu.edu.au/assessment2/",
+  "extra": "host: www.s379103.brambling.cdu.edu.au \u00b7 dir: https://www.s379103.brambling.cdu.edu.au/assessment2/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.s379103.brambling.cdu.edu.au/assessment2/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-4.6.16.tar.gz",
+  "date": "13-Aug-2018 07:27",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "20M",
+  "ftype": "other",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-4.6.16.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "other \u00b7 20M \u00b7 13-Aug-2018 07:27 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-latest.tar.gz",
+  "date": "24-Oct-2019 09:33",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "18M",
+  "ftype": "other",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-latest.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "other \u00b7 18M \u00b7 24-Oct-2019 09:33 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-4.4.16.tar.asc",
+  "date": "13-Sep-2017 18:29",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "195",
+  "ftype": "text",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-4.4.16.tar.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "text \u00b7 195 \u00b7 13-Sep-2017 18:29 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-3.6.25.tar.gz",
+  "date": "23-Feb-2015 10:14",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "33M",
+  "ftype": "other",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-3.6.25.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "other \u00b7 33M \u00b7 23-Feb-2015 10:14 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-4.3.13.tar.gz",
+  "date": "09-Dec-2016 11:12",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "20M",
+  "ftype": "other",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-4.3.13.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "other \u00b7 20M \u00b7 09-Dec-2016 11:12 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "COPYING",
+  "date": "21-Oct-2009 09:49",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "34K",
+  "ftype": "text",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/COPYING",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "text \u00b7 34K \u00b7 21-Oct-2009 09:49 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-4.8.12.tar.asc",
+  "date": "07-May-2019 10:37",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "224",
+  "ftype": "text",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-4.8.12.tar.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "text \u00b7 224 \u00b7 07-May-2019 10:37 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-pubkey_6F33915B6568B7EA.asc.bak",
+  "date": "08-May-2017 08:40",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "5253",
+  "ftype": "other",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-pubkey_6F33915B6568B7EA.asc.bak",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "other \u00b7 5253 \u00b7 08-May-2017 08:40 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README",
+  "date": "31-Mar-2011 20:43",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "6001",
+  "ftype": "text",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/README",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "text \u00b7 6001 \u00b7 31-Mar-2011 20:43 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-4.0.26.tar.gz",
+  "date": "06-May-2015 19:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "21M",
+  "ftype": "other",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-4.0.26.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "other \u00b7 21M \u00b7 06-May-2015 19:17 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-4.0.26.tar.asc",
+  "date": "06-May-2015 19:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "181",
+  "ftype": "text",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-4.0.26.tar.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "text \u00b7 181 \u00b7 06-May-2015 19:17 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-4.4.16.tar.gz",
+  "date": "13-Sep-2017 18:28",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "20M",
+  "ftype": "other",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-4.4.16.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "other \u00b7 20M \u00b7 13-Sep-2017 18:28 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-4.10.10.tar.gz",
+  "date": "24-Oct-2019 10:16",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "17M",
+  "ftype": "other",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-4.10.10.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "other \u00b7 17M \u00b7 24-Oct-2019 10:16 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-3.4.17.tar.asc",
+  "date": "30-Apr-2012 12:22",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "190",
+  "ftype": "text",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-3.4.17.tar.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "text \u00b7 190 \u00b7 30-Apr-2012 12:22 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-4.11.2.tar.asc",
+  "date": "24-Oct-2019 09:33",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "224",
+  "ftype": "text",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-4.11.2.tar.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "text \u00b7 224 \u00b7 24-Oct-2019 09:33 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-4.11.2.tar.gz",
+  "date": "24-Oct-2019 09:33",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "18M",
+  "ftype": "other",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-4.11.2.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "other \u00b7 18M \u00b7 24-Oct-2019 09:33 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-pubkey.asc",
+  "date": "04-Jun-2019 09:01",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "5296",
+  "ftype": "text",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-pubkey.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "text \u00b7 5296 \u00b7 04-Jun-2019 09:01 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-3.5.22.tar.asc",
+  "date": "05-Aug-2013 07:34",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "190",
+  "ftype": "text",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-3.5.22.tar.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "text \u00b7 190 \u00b7 05-Aug-2013 07:34 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-4.7.12.tar.gz",
+  "date": "26-Nov-2018 08:45",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "16M",
+  "ftype": "other",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-4.7.12.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "other \u00b7 16M \u00b7 26-Nov-2018 08:45 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-3.2.15.tar.asc",
+  "date": "01-Oct-2009 08:05",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "189",
+  "ftype": "text",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-3.2.15.tar.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "text \u00b7 189 \u00b7 01-Oct-2009 08:05 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "LATEST-IS-SAMBA-4.11.2",
+  "date": "29-Oct-2019 09:15",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "0",
+  "ftype": "other",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/LATEST-IS-SAMBA-4.11.2",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "other \u00b7 0 \u00b7 29-Oct-2019 09:15 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "welcome.msg",
+  "date": "25-Jul-1997 11:19",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "400",
+  "ftype": "other",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/old/welcome.msg",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "other \u00b7 400 \u00b7 25-Jul-1997 11:19 \u00b7 in https://ftp.cc.uoc.gr/old/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/old/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/old/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-3.0.37.tar.gz",
+  "date": "01-Oct-2009 08:07",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "22M",
+  "ftype": "other",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-3.0.37.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "other \u00b7 22M \u00b7 01-Oct-2009 08:07 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-3.3.16.tar.asc",
+  "date": "26-Jul-2011 17:26",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "190",
+  "ftype": "text",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-3.3.16.tar.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "text \u00b7 190 \u00b7 26-Jul-2011 17:26 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-pubkey_6F33915B6568B7EA.asc",
+  "date": "04-Jun-2019 09:01",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "5296",
+  "ftype": "text",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-pubkey_6F33915B6568B7EA.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "text \u00b7 5296 \u00b7 04-Jun-2019 09:01 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-4.7.12.tar.asc",
+  "date": "26-Nov-2018 08:45",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "224",
+  "ftype": "text",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-4.7.12.tar.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "text \u00b7 224 \u00b7 26-Nov-2018 08:45 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "samba-4.5.16.tar.asc",
+  "date": "12-Mar-2018 12:12",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "195",
+  "ftype": "text",
+  "host": "ftp.cc.uoc.gr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.cc.uoc.gr/pub/samba/samba-4.5.16.tar.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.cc.uoc.gr/",
+  "kw": "",
+  "preview": "text \u00b7 195 \u00b7 12-Mar-2018 12:12 \u00b7 in https://ftp.cc.uoc.gr/pub/samba/",
+  "extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/pub/samba/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.cc.uoc.gr/pub/samba/"
+   ]
+  ],
+  "mined_at": "2026-11-01T13:46:52Z"
  }
 ]
