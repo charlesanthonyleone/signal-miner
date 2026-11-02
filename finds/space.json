@@ -3076,5 +3076,24 @@
   "extra": "center KSC \u00b7 nasa_id KSC-08pd0644 \u00b7 keywords ",
   "module": "space",
   "mined_at": "2026-11-02T00:55:35Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "W2246-0526 Accretion",
+  "date": "2018-11-15",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA22359/PIA22359~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/PIA22359/PIA22359~thumb.jpg",
+  "preview": "This image of galaxy W2246-0526 was created using data from the Atacama Large Millimeter/submillimeter Array (ALMA) - a collection of individual radio antennas that work together as a single telescope. The galaxy is syphoning material away from three companion galaxies through trans-galactic streamers. The main galaxy and one of its companions are in the center. To the lower left is another companion and its large tidal tail that connects it to the main galaxy. The upper left concentration is th",
+  "url": "https://images.nasa.gov/details/PIA22359",
+  "query": "images-api.nasa.gov q=\"radio telescope\"",
+  "extra": "center JPL \u00b7 nasa_id PIA22359 \u00b7 keywords Wide-field Infrared Survey Explorer (WISE)",
+  "module": "space",
+  "mined_at": "2026-11-02T21:52:39Z"
  }
 ]

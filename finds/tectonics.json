@@ -627,5 +627,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-02T11:27:51Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 142.251.127.0/24",
+  "date": "2026-11-02",
+  "dateLabel": "sampled",
+  "count": 322,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"142.251.127.0/24\",\n  \"origin\": \"15169\",\n  \"time\": \"2024-06-07T16:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"142.251.127.0/24\",\n  \"origin\": \"15169\",\n  \"time\": \"2026-11-02T16:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 322,\n   \"total_ris_peers\": 322\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 15169,\n   \"route_objects\": [\n    \"RADB\"\n   ]\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/142.251.127.0/24",
+  "query": "RIPEstat routing-status 142.251.127.0/24",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-02T21:52:38Z"
  }
 ]
