@@ -1538,5 +1538,25 @@
   "inventor": "",
   "module": "immortal",
   "mined_at": "2026-11-01T06:44:47Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Fence, consisting of a number of posts and a net suspended from them and &hellip;",
+  "date": "1970-12-23",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/DE2028189A1/en",
+  "query": "google patents q=\"immortality\" before 1980",
+  "extra": "patent DE2028189A1 \u00b7 inventor Hans Peter Rddorre Jensen (D\u00e4nemark )",
+  "patent_number": "DE2028189A1",
+  "inventor": "Hans Peter Rddorre Jensen (D\u00e4nemark )",
+  "module": "immortal",
+  "mined_at": "2026-11-02T01:17:41Z"
  }
 ]
