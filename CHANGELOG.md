@@ -242,3 +242,9 @@ In the browser, `net.js` gives every fetch a timeout, a 15-minute cache for slow
 - Consent notice is now a centered modal dialog (role=dialog, aria-modal, focused primary action, plus Moderation portal link).
 - Reader restores focus to the triggering element on close; emoji stripped from world h2 headings (report/vault).
 - CHANGELOG spacing fix.
+
+## SA-3 (2026-11-02) — worker A
+- Reader: real focus trap (Tab/Shift-Tab cycle), Escape closes reader (no longer dismisses the consent notice), reader auto-closes on navigation, focus returns to the opener. Raw search query collapsed into a "How this was found" disclosure.
+- Cards per stratum: text-only cards get a ruled top; scanned documents (Black Vault, Reliquary, Theo, Invento) dimmed slightly on dark and full on hover; patent drawings shown whole on paper; Vatican/Reliquary titles in italic; monospace titles limited to TRENCH metadata cards (fixes Invento titles rendering in mono).
+- Nav: horizontally scrolling strata/module bars hide scrollbars with a fade edge; "1 sources" pluralization; empty state cleaned (no emoji).
+- Screenshot harness /workspace/shot3.py: pre-acks consent, picks module from the hub, verifies all 9 strata desktop+phone. All mined cards except THEO's default shelf (Dead text shelves / Gray-space text return 0 — flagged for worker B); THEO Deep mine returns 21–24 finds; phone reader verified.
