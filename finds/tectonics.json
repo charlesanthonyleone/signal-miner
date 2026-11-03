@@ -695,5 +695,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-03T07:00:19Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 216.127.224.0/19",
+  "date": "2026-11-03",
+  "dateLabel": "sampled",
+  "count": 323,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"216.127.224.0/19\",\n  \"origin\": \"3356\",\n  \"time\": \"2008-07-01T08:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"216.127.224.0/19\",\n  \"origin\": \"3356\",\n  \"time\": \"2026-11-03T08:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 323,\n   \"total_ris_peers\": 323\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 3356,\n   \"route_objects\": []\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/216.127.224.0/19",
+  "query": "RIPEstat routing-status 216.127.224.0/19",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-03T17:13:31Z"
  }
 ]

@@ -3323,5 +3323,24 @@
   "extra": "center GSFC \u00b7 nasa_id GSFC_20171208_Archive_e000046 \u00b7 keywords Neutron star Interior Composition Explorer (NICER)",
   "module": "space",
   "mined_at": "2026-11-03T07:00:20Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "Space Science",
+  "date": "1991-01-01",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/9127922/9127922~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/9127922/9127922~thumb.jpg",
+  "preview": "In this photograph, Dr. Gerald Fishman of the Marshall Space Flight Center (MSFC), a principal investigator of the Compton Gamma-Ray Observatory's (GRO's) instrument, the Burst and Transient Source Experiment (BATSE), works on the BATSE detector module. For nearly 9 years, GRO's BATSE, designed and built by MSFC, kept an unblinking watch on the universe to alert scientist to the invisible, mysterious gamma-ray bursts. By studying gamma-rays from objects like black holes, pulsars, quasars, neutro",
+  "url": "https://images.nasa.gov/details/9127922",
+  "query": "images-api.nasa.gov q=\"pulsar\"",
+  "extra": "center MSFC \u00b7 nasa_id 9127922 \u00b7 keywords Comption Gamma-Ray Observatory, GRO, Burst and Transient Source Experiment, BATSE, Fishman",
+  "module": "space",
+  "mined_at": "2026-11-03T17:13:32Z"
  }
 ]

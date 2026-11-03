@@ -29314,5 +29314,117 @@
 ]
 ],
 "mined_at": "2026-11-03T07:02:17Z"
+},
+{
+"source": "Open Directory",
+"title": "expect.php",
+"date": "2021-07-16 15:58",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "0",
+"ftype": "other",
+"host": "pms.ofcomcrm.com",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://pms.ofcomcrm.com/expect.php",
+"mime": "other/*",
+"query": "urlscan 'Index of' sighting \u2192 https://pms.ofcomcrm.com/",
+"kw": "",
+"preview": "other \uff77 0 \uff77 2021-07-16 15:58 \uff77 in https://pms.ofcomcrm.com/",
+"extra": "host: pms.ofcomcrm.com \u00b7 dir: https://pms.ofcomcrm.com/",
+"links": [
+[
+"parent dir \u2197",
+"https://pms.ofcomcrm.com/"
+]
+],
+"mined_at": "2026-11-03T17:17:55Z"
+},
+{
+"source": "Open Directory",
+"title": "mageia_timestamp",
+"date": "2026-11-03 08:20",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "40",
+"ftype": "text",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/mageia/mageia_timestamp",
+"mime": "text/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "text \uff77 40 \uff77 2026-11-03 08:20 \uff77 in https://mirror.aarnet.edu.au/pub/mageia/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/mageia/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/mageia/"
+]
+],
+"mined_at": "2026-11-03T17:17:55Z"
+},
+{
+"source": "Open Directory",
+"title": "paths.readme",
+"date": "2011-06-02 21:30",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "665",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/mageia/paths.readme",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 665 \uff77 2011-06-02 21:30 \uff77 in https://mirror.aarnet.edu.au/pub/mageia/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/mageia/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/mageia/"
+]
+],
+"mined_at": "2026-11-03T17:17:55Z"
+},
+{
+"source": "Open Directory",
+"title": "mirror.readme",
+"date": "2024-09-15 13:04",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.3K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/mageia/mirror.readme",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 2.3K \uff77 2024-09-15 13:04 \uff77 in https://mirror.aarnet.edu.au/pub/mageia/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/mageia/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/mageia/"
+]
+],
+"mined_at": "2026-11-03T17:17:55Z"
 }
 ]

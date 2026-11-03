@@ -2606,5 +2606,37 @@
   "query": "CC-MAIN-2026-39 url=*.edu/* page=9",
   "extra": "mime text/html \u00b7 status 200 \u00b7 host www.albany.edu",
   "mined_at": "2026-11-02T21:46:20Z"
+ },
+ {
+  "source": "Common Crawl",
+  "title": "212.by/leto-na-ishode-no-temperaturnie-rekordi-fiksiruyutsya.html",
+  "date": "2026-09-05",
+  "dateLabel": "captured",
+  "count": 5570,
+  "countLabel": "bytes (warc)",
+  "kind": "meta",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "text/html",
+  "preview": "(open source link for live text \u2014 pre-mined metadata only)",
+  "url": "https://212.by/leto-na-ishode-no-temperaturnie-rekordi-fiksiruyutsya.html",
+  "query": "CC-MAIN-2026-39 url=*.by/* page=6",
+  "extra": "mime text/html \u00b7 status 200 \u00b7 host 212.by",
+  "mined_at": "2026-11-03T17:07:54Z"
+ },
+ {
+  "source": "Common Crawl",
+  "title": "212.by/Kriminalniy-avtoritet-iz-Kirgizstana-ubit-v-Minske.html",
+  "date": "2026-09-05",
+  "dateLabel": "captured",
+  "count": 5561,
+  "countLabel": "bytes (warc)",
+  "kind": "meta",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "text/html",
+  "preview": "(open source link for live text \u2014 pre-mined metadata only)",
+  "url": "https://212.by/Kriminalniy-avtoritet-iz-Kirgizstana-ubit-v-Minske.html",
+  "query": "CC-MAIN-2026-39 url=*.by/* page=6",
+  "extra": "mime text/html \u00b7 status 200 \u00b7 host 212.by",
+  "mined_at": "2026-11-03T17:07:54Z"
  }
 ]

@@ -4366,5 +4366,149 @@
    ]
   ],
   "mined_at": "2026-11-03T07:04:20Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "force101.txt.gmi",
+  "url": "https://portal.mozz.us/gemini/gem.snork.ca/textfiles.com/occult/WICCA/force101.txt.gmi",
+  "gemini": "gemini://gem.snork.ca/textfiles.com/occult/WICCA/force101.txt.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 8191,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gem.snork.ca",
+  "preview": ".---------------\r\noccult main 14\r\n.---------------\r\nFrom Taliesin!somewhere!Taliesin!Melisande Wed Apr 26 13:49:52 1989\r\nSubject: Re:witchcraft\r\n  Jrohr states that\"Magic to a witch is the same thing as prayer to\r\na Christian\" Then jrohr goes on to say\"A witch would use magick in\r\nthe form of a spell or a circle to focus the power of mind that is\r\nwithin us all.\"\r\n  Magick is not the same thing as prayer!Prayer is not used to focus\r\nthe power of mind that is within us all.Prayer is sent to outside\r\nforces.The benefits are attributed to whatever god or gods the\r\nsupplicant believes in.It is also used without much hope of success.\r\nIt is considered \"God's will\",no matter whether your god is benevolent\r\nor a zealous tyrant.I'm speaking in general about religions,not just\r\nchristianity.\r\n  If a ritual{such as the one's described}were being used to augment\r\nthe psychic abilities of us all,given that they exist,I fail to see\r\nin what way it would be related to prayer,religion,or any sort of\r\nspirituality.\r\n If a spell or circle were being used to achieve the desired results\r\nby calling on gods or goddesses in a carefully proscribed way,intending\r\nto enforce their aid,willing or not,to en",
+  "query": "gemini search \"occult\"",
+  "kw": "occult",
+  "extra": "capsule: gem.snork.ca \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gem.snork.ca/textfiles.com/occult/WICCA/force101.txt.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-03T17:20:14Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Books, Journals, Articles and Presentation about Archaeoentomology",
+  "url": "https://portal.mozz.us/gemini/tilde.team/~mimas/AE.gmi",
+  "gemini": "gemini://tilde.team/~mimas/AE.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 531,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "tilde.team",
+  "preview": "\ufeff#Archaeoentomology\n\n##Books, Journals, Articles and Presentation about Archaeoentomology\n\nAn annotadet bibliography of Archaeoentomology.pdf\n=>Archaeoentomology.pdf  Publication PDF\n\nPowerpoint presentation about Archaeoentomology\n=>FORNACIARIPRESENTATION17_11_2017.pdf Presentation PDF\n\nThere is an article from Marck Benecke et.al about insect traces at the Capuchin Monastery in Palermo\n=>Kristina_Baumjohann_Mark_Benecke_2019_Insect_traces_forensics_archaeology.pdf\n Article PDF\n\nPostcards of the Capuchin Monastery in Palermo",
+  "query": "gemini search \"monastery\"",
+  "kw": "monastery",
+  "extra": "capsule: tilde.team \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://tilde.team/~mimas/AE.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-03T17:20:14Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Projects",
+  "url": "https://portal.mozz.us/gemini/tilde.team/~cybermantid/gemlog/projects.gmi",
+  "gemini": "gemini://tilde.team/~cybermantid/gemlog/projects.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 3362,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "tilde.team",
+  "preview": "# Projects\n\nWhat I am currently doing with my (personal) life\n### UPDATED: 2026-05-06\n### POSTED: 2026-05-06\n\nWoah! I haven't updated this place for a looooooong while. I guess it's time to revive this and talk about what I am currently doing during my spare time.\n\nNo, it's not the Dragonfly stuff. I have now bigger and better plans. Specifically, I am creating my own kernel! That's right! \n\n## Termite, my kernel project\nThe last couple of months I have been digging around Plan 9 and came to really appreciate its core philosophy and design. Which is why I decided to make a modern version of it! I really don't want to just make a clone, however; I really want to make something that stands on its own and has its own merit and charm. So, currently, the plan around some of its features is the following:\n### The Plan 9 feats\n* Everything is a file. And when I say everything, I do mean everything. From actual chunks of hard disk space, to the peripherals in this computer. And no ioctl nonsense either; it's all going to be reading and writing to files, just as God (and Plan 9) intended\n* Every process gets its own namespace! Not only that, but it can also serve its own namespace to other ",
+  "query": "gemini search \"heresy\"",
+  "kw": "heresy",
+  "extra": "capsule: tilde.team \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://tilde.team/~cybermantid/gemlog/projects.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-03T17:20:14Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Gemini Links 04/12/2024: Soviet Esotericism, Mikrotik is Awesome, and More",
+  "url": "https://portal.mozz.us/gemini/techrights.org/n/2024/12/04/Gemini_Links_04_12_2024_Soviet_Esotericism_Mikrotik_is_Awesome_.gmi",
+  "gemini": "gemini://techrights.org/n/2024/12/04/Gemini_Links_04_12_2024_Soviet_Esotericism_Mikrotik_is_Awesome_.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 8154,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "techrights.org",
+  "preview": "Techrights\n\n# Gemini Links 04/12/2024: Soviet Esotericism, Mikrotik is Awesome, and More\n\nPosted by Roy Schestowitz on Dec 04, 2024\n\n=>\t/n/2024/12/04/Links_04_12_2024_Social_Control_Media_Thoughts_Enrons_of_2024_a.gmi\tLinks 04/12/2024: Social Control Media Thoughts, Enrons of 2024, and More\n=>\t/n/2024/12/04/Technology_rights_or_responsibilities_Part_IX.gmi\tTechnology: rights or responsibilities? - Part IX\n\n=>\thttps://techrights.org/i/2024/12/snow-and-garden-gate.thumbnail.jpg\t HTTPS image: Snow and garden gate\n\n> GNOME bluefish\n\n### Contents\n\n* Gemini* and GopherPersonal/OpinionsPolitics and World EventsTechnology and Free SoftwareInternet/GeminiProgramming\n=>\thttps://techrights.org/#m0418333801\tHTTPS: Gemini* and Gopher\n \n * ### Gemini* and Gopher\n### Personal/Opinions\n### \ud83d\udd24SpellBinding: DFHUNSI Wordo: GAILY\n=>\tgemini://tilde.cafe/~spellbinding/gemlog/2024-12-04.gmi\t\u21ba \ud83d\udd24SpellBinding: DFHUNSI Wordo: GAILY\n### How Can You Reach Your Audience Across Borders?\n=>\tgemini://midnight.pub/posts/2403\t\u21ba How Can You Reach Your Audience Across Borders?\nExpanding your reach beyond borders is essential for any business aiming to grow in international markets. The strategies you adopt should reson",
+  "query": "gemini search \"esoteric\"",
+  "kw": "esoteric",
+  "extra": "capsule: techrights.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://techrights.org/n/2024/12/04/Gemini_Links_04_12_2024_Soviet_Esotericism_Mikrotik_is_Awesome_.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-03T17:20:14Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Gemini Links 04/12/2024: Soviet Esotericism, Mikrotik is Awesome, and More",
+  "url": "https://portal.mozz.us/gemini/tardis.northwire.xyz/archive/gemini/x/techrights.org%2Fn%2F2024%2F12%2F04%2FGemini_Links_04_12_2024_Soviet_Esotericism_Mikrotik_is_Awesome_.gmi",
+  "gemini": "gemini://tardis.northwire.xyz/archive/gemini/x/techrights.org%2Fn%2F2024%2F12%2F04%2FGemini_Links_04_12_2024_Soviet_Esotericism_Mikrotik_is_Awesome_.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 8152,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "tardis.northwire.xyz",
+  "preview": "```\nArchive of gemini://techrights.org/n/2024/12/04/Gemini_Links_04_12_2024_Soviet_Esotericism_Mikrotik_is_Awesome_.gmi received at 2026-09-22T17:55:51.666Z.\n> mime: text/gemini;lang=en-GB\n> size: 8782\n> certificate: f84ec785fd70f220f38824bab7290d86a53ecbd5ea5519fba6e69689044d7228\n```\n\n> Links in this page are rewritten to point to TARDIS archive for better archive viewing experience\n\n=> /archive/gemini/x/techrights.org%2Fn%2F2024%2F12%2F04%2FGemini_Links_04_12_2024_Soviet_Esotericism_Mikrotik_is_Awesome_.gmi/history \ud83d\udcdc Page history\n\n---\n\nTechrights\n\n# Gemini Links 04/12/2024: Soviet Esotericism, Mikrotik is Awesome, and More\n\nPosted by Roy Schestowitz on Dec 04, 2024\n\n=>\t/archive/gemini/x/techrights.org%2Fn%2F2024%2F12%2F04%2FLinks_04_12_2024_Social_Control_Media_Thoughts_Enrons_of_2024_a.gmi\tLinks 04/12/2024: Social Control Media Thoughts, Enrons of 2024, and More\n=>\t/archive/gemini/x/techrights.org%2Fn%2F2024%2F12%2F04%2FTechnology_rights_or_responsibilities_Part_IX.gmi\tTechnology: rights or responsibilities? - Part IX\n\n=>\thttps://techrights.org/i/2024/12/snow-and-garden-gate.thumbnail.jpg\t HTTPS image: Snow and garden gate\n\n> GNOME bluefish\n\n### Contents\n\n* Gemini* and GopherPer",
+  "query": "gemini search \"esoteric\"",
+  "kw": "esoteric",
+  "extra": "capsule: tardis.northwire.xyz \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://tardis.northwire.xyz/archive/gemini/x/techrights.org%2Fn%2F2024%2F12%2F04%2FGemini_Links_04_12_2024_Soviet_Esotericism_Mikrotik_is_Awesome_.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-03T17:20:14Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Help me build a different kind of platform cooperative",
+  "url": "https://portal.mozz.us/gemini/tardis.northwire.xyz/archive/gemini/x/gemini.njms.ca%2Fgemlog%2Fpeoples-data-center.gmi",
+  "gemini": "gemini://tardis.northwire.xyz/archive/gemini/x/gemini.njms.ca%2Fgemlog%2Fpeoples-data-center.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 8175,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "tardis.northwire.xyz",
+  "preview": "```\nArchive of gemini://gemini.njms.ca/gemlog/peoples-data-center.gmi received at 2026-09-17T00:22:53.442Z.\n> mime: text/gemini; lang=en\n> size: 9589\n> certificate: 6c1f0e5c76b8c30dabae93d06e5ba02a33135c2f876a530abf1494e78e555c53\n```\n\n> Links in this page are rewritten to point to TARDIS archive for better archive viewing experience\n\n=> /archive/gemini/x/gemini.njms.ca%2Fgemlog%2Fpeoples-data-center.gmi/history \ud83d\udcdc Page history\n\n---\n\n=> /archive/gemini/x/gemini.njms.ca%2Fgemlog%2F\tReturn to index\n\n# Help me build a different kind of platform cooperative\n\nIn short: I have a vision for a platform cooperative\u2014one that aims to serve regional needs, that empowers communities to own and govern their own data and online services along cooperative principles, served from a distributed data center built from improvised and recycled hardware. Will it work? I don't know, but I'd be remiss if I didn't try, and I can't try without your help. If you are a socially/ecologically minded person who wants to make this a reality (whether you have technical skills or don't), I'd love to hear from you.\n\n---\n\n> What we crave is not trickle-down, faceless profits but reciprocal, face-to-face relationships, ",
+  "query": "gemini search \"esoteric\"",
+  "kw": "esoteric",
+  "extra": "capsule: tardis.northwire.xyz \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://tardis.northwire.xyz/archive/gemini/x/gemini.njms.ca%2Fgemlog%2Fpeoples-data-center.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-03T17:20:14Z"
  }
 ]

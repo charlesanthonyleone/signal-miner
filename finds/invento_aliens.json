@@ -1118,5 +1118,25 @@
 "inventor": "\u674e\u70b3\u6797",
 "module": "aliens",
 "mined_at": "2026-11-01T14:03:56Z"
+},
+{
+"source": "Google Patents",
+"title": "Interplanetary spacecraft transporter unit - can carry several craft to",
+"date": "1981-07-30",
+"dateLabel": "published",
+"count": null,
+"countLabel": "",
+"kind": "meta",
+"mime": "patent/text",
+"thumb": "",
+"src": "",
+"preview": "",
+"url": "https://patents.google.com/patent/DE3002551A1/en",
+"query": "google patents q=\"interplanetary\" cpc=B64G before 2000",
+"extra": "patent DE3002551A1 \u00b7 inventor Peter 1000 Berlin Rohr",
+"patent_number": "DE3002551A1",
+"inventor": "Peter 1000 Berlin Rohr",
+"module": "aliens",
+"mined_at": "2026-11-03T17:26:13Z"
 }
 ]
