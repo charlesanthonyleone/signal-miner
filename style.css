@@ -216,3 +216,13 @@ body.vatican .card h3,body.reliquary .card h3{font-style:italic}
 .card.meta h3{overflow-wrap:anywhere}
 details.q{margin-top:18px;border-top:1px solid var(--rule);padding-top:12px;font:400 12px/1.6 var(--mono);color:var(--faint);overflow-wrap:anywhere}
 details.q summary{cursor:pointer;color:var(--mute);font-family:var(--sans);font-size:13px}
+
+/* ---------- SA-4 polish: depth, motion, texture ---------- */
+body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:0;opacity:.05;
+ background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='.85' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+body{background:radial-gradient(1200px 600px at 15% -10%,color-mix(in srgb,var(--accent) 9%,transparent),transparent 70%),var(--ink)}
+.card{transition:transform .25s cubic-bezier(.2,.7,.2,1),border-color .25s,box-shadow .25s}
+.card:hover{transform:translateY(-3px);border-color:color-mix(in srgb,var(--accent) 45%,var(--rule));box-shadow:0 14px 34px -18px #000,0 0 0 1px color-mix(in srgb,var(--accent) 18%,transparent)}
+.card img{transition:filter .3s,transform .5s}.card:hover img{filter:saturate(1.15) contrast(1.05);transform:scale(1.02)}
+.kicker,.badge{letter-spacing:.08em}
+@media (prefers-reduced-motion:reduce){.card,.card img{transition:none}.card:hover,.card:hover img{transform:none}}
