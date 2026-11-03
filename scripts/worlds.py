@@ -4,15 +4,21 @@ import json, re, random, time, csv, io, requests, sys
 UA={"User-Agent":"SignalMiner/2.0 (github actions; hobby project; contact via github)"}
 BAD=re.compile(r"\b(sex|porn|xxx|nude|naked|erotic|adult|fetish|hentai|nsfw|escort|incest|rape|pedo|lolita|child abuse)\w*",re.I)
 # Pass 9: Wayback throttles (429/503, SSL EOF, resets) -> back off and retry instead of losing the whole harvest
+class _Throttle(Exception): pass
+_DOWN=[0]   # SA-10 circuit breaker: after 2 calls die on refused/timeout (host down, not throttling), fail fast for the rest of the run
 def _cdxget(params=None,headers=None,timeout=60,tries=4):
     import time as _t
+    if _DOWN[0]>=2: raise IOError("wayback down this run (circuit open)")
     for i in range(tries):
         try:
-            r=requests.get("https://web.archive.org/cdx/search/cdx",params=params,headers=headers,timeout=timeout)
-            if r.status_code in (429,502,503,504): raise IOError(f"wayback {r.status_code}")
-            return r
+            r=requests.get("https://web.archive.org/cdx/search/cdx",params=params,headers=headers,timeout=min(timeout,90))
+            if r.status_code in (429,502,503,504): raise _Throttle(f"wayback {r.status_code}")
+            _DOWN[0]=0; return r
         except Exception as e:
-            if i==tries-1: raise
+            down=isinstance(e,(requests.ConnectionError,requests.Timeout))
+            if i==tries-1 or (down and _DOWN[0]>=1):
+                if down: _DOWN[0]+=1
+                raise
             w=20*(i+1); print("wayback throttled:",e,"- retry in",w,"s"); _t.sleep(w)
 
 def load(p):

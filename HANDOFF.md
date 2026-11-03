@@ -23,5 +23,9 @@
 - curate.py cross-file URL dedupe retried, scoped to same-prefix piles only (wb_*, invento_*, deep_*, pre_*); hidden/nuforc/news etc. untouched cross-file. Local dry-run: wb_* lose 1–24 rows each (tripod variants most), deep_odindex −11; finds restored (Actions commits).
 - Run 41571292264 still in collect.py at ~11:00 PM ET (setup steps green).
 
+## SA-10 (Nov 2, ~11:15 PM ET)
+- Run 41571292264 **succeeded** (finished 11:07 PM ET, committed a5f8ad7). Its log showed web.archive.org refusing connections, with each wb_/forums call burning ~2–4 min on retries (one with a 240 s timeout).
+- worlds.py `_cdxget`: per-call timeout capped at 90 s; circuit breaker opens after 2 calls die on refused/timeout (429/5xx still retry normally; success resets it). Mock-tested: the 3rd+ call fails instantly. grayspace/vidharvest/deeptext call CDX directly and are not covered yet (next candidate).
+
 ## Next ideas
 - Rules: stage only own files, `git pull --rebase` (no autostash), $0, no secrets, safety layer stays on, don't touch other builds.
