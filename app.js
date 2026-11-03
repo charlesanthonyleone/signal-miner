@@ -483,10 +483,10 @@ grid=function(sel,list){list=SAFE.filter(list);RAW[sel]=list;bucketBar(sel,list)
   const media=x.kind==='meta'?'':th?`<div class="media${yt?' yt':''}">${yt?`<button class="play" aria-label="Play ${esc(x.title)} here" onclick="event.stopPropagation();ytPlay(this,'${esc(x.ytid)}')">`:''}<img loading="lazy" decoding="async" src="${esc(x.thumb2||x.thumb)}" alt="">${yt?`<span class="play-ico" aria-hidden="true"></span></button>`:''}</div>`
    :`<div class="media none" aria-hidden="true"><span>${x.gated?'Media held behind a click-through':esc(x.mime||x.kind||'text')}</span></div>`;
   return `<article class="card ${x.kind==='meta'?'meta':''} ${th?'has-media':'text'}">${media}
-  <div class="body"><p class="src">${esc(x.source)}${x.depth?` · ${esc(x.depth)}`:''}</p>
+  <div class="body"><p class="src">${x.fresh?'<span class="fresh">New</span>':''}${esc(x.source)}${x.depth?` · ${esc(x.depth)}`:''}</p>
   <h3><a href="javascript:void 0" onclick="openF('${sel}',${i})">${esc(x.title)}</a></h3>
   ${x.preview&&!th?`<p class="prev">${esc(x.preview.slice(0,220))}</p>`:''}
-  <p class="facts-line">${x.date?`<span>${esc(x.date)}</span>`:''}${fmtCount(x)?`<span class="${z?'zero':''}">${fmtCount(x)}</span>`:''}${bucketsOf(x).slice(0,2).map(b=>`<span>${esc(b.toLowerCase())}</span>`).join('')}</p>
+  <p class="facts-line">${x.date&&!x.harvested?`<span>${esc(x.date)}</span>`:''}${x.harvested&&/harvested ([^·]+)/.test(x.extra||'')?`<span>found ${esc(x.extra.match(/harvested ([^·]+)/)[1].trim())}</span>`:''}${fmtCount(x)?`<span class="${z?'zero':''}">${fmtCount(x)}</span>`:''}${bucketsOf(x).slice(0,2).map(b=>`<span>${esc(b.toLowerCase())}</span>`).join('')}</p>
   <div class="acts"><button onclick="this.textContent=toggle(LISTS['${sel}'][${i}])?'Saved':'Save';topnav()" aria-label="Save to vault">${V()[x.url]?'Saved':'Save'}</button><button onclick="report(LISTS['${sel}'][${i}])" aria-label="Report this find">Report</button></div></div></article>`}).join('');LISTS[sel]=list};
 function ytPlay(b,id){if(!/^[\w-]{6,15}$/.test(id))return;const f=document.createElement('iframe');f.src=`https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0`;f.title='YouTube player';f.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';f.allowFullscreen=true;f.loading='lazy';b.parentNode.replaceChildren(f)}
 let LASTF=null;const _closeM=closeM;closeM=function(){_closeM();$('#modal').classList.remove('notice');LASTF&&LASTF.focus&&LASTF.focus();LASTF=null};

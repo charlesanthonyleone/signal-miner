@@ -226,3 +226,6 @@ body{background:radial-gradient(1200px 600px at 15% -10%,color-mix(in srgb,var(-
 .card img{transition:filter .3s,transform .5s}.card:hover img{filter:saturate(1.15) contrast(1.05);transform:scale(1.02)}
 .kicker,.badge{letter-spacing:.08em}
 @media (prefers-reduced-motion:reduce){.card,.card img{transition:none}.card:hover,.card:hover img{transform:none}}
+.fresh{display:inline-block;margin-right:.6em;padding:1px 6px;border-radius:2px;background:var(--accent);color:var(--ink);font:600 10px/1.5 var(--mono);letter-spacing:.1em;text-transform:uppercase;animation:freshp 2.4s ease-in-out infinite}
+@keyframes freshp{50%{box-shadow:0 0 0 4px color-mix(in srgb,var(--accent) 20%,transparent)}}
+@media (prefers-reduced-motion:reduce){.fresh{animation:none}}
