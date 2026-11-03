@@ -320,7 +320,7 @@ let OREFX=0;function oreFX(){const c=document.getElementById('ore');if(!c||match
  (function f(){if(id!==OREFX||!c.isConnected)return;const w=c.width=c.offsetWidth,h=c.height=c.offsetHeight;g.clearRect(0,0,w,h);
   for(const p of P){p.y-=p.v;if(p.y<0){p.y=1;p.x=Math.random()}const a=.35+.35*Math.sin(Date.now()/600+p.x*20);g.fillStyle=`hsla(${p.h},90%,65%,${a})`;g.beginPath();g.arc(p.x*w,p.y*h,p.r,0,7);g.fill()}
   if(!document.hidden)requestAnimationFrame(f);else setTimeout(()=>requestAnimationFrame(f),1000)})()}
-const _home13=home;home=function(){_home13();oreFX()};
+
 function digAnywhere(){const ks=Object.keys(MODULES).filter(k=>MODULES[k].half&&Object.keys(MODULES[k].sources).length),k=ks[Math.floor(Math.random()*ks.length)],ss=Object.keys(MODULES[k].sources);location.hash=`${MODULES[k].half}/${k}/${ss[Math.floor(Math.random()*ss.length)]}`}
 const HUBMETA={youtube:{title:'YOUTUBE · UNSEEN',a:'0 VIEWS',b:'BURIED',sub:'Dig YouTube for uploads nobody has watched.'},live:{title:'LIVE · module hub',a:'SURFACE',b:'BROADCAST',sub:'Pick a module, then generate finds inside it.'},
  trench:{title:'TRENCH · Mariana modules',a:'0 m',b:'10 994 m',sub:'Hardline random / unfiltered enumeration from public indexes. Safety filter (NSFW/blocklist) only. No scanning, no credentials, no Tor.'},
@@ -452,21 +452,45 @@ function vault(){const v=Object.values(V()).filter(x=>!blocked(x.url)).sort((a,b
 function exp(){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(Object.values(V()),null,1)],{type:'application/json'}));a.download='signal-miner-vault.json';a.click()}
 async function imp(f){try{const l=JSON.parse(await f.text()),v=V();let n=0,skip=0;[].concat(l).forEach(x=>x&&x.url&&(SAFE.screen(x)||blocked(x.url)?skip++:(n++,v[x.url]={saved_at:new Date().toISOString(),...x})));saveV(v);render();alert(`imported ${n} finds`+(skip?` · ${skip} dropped by the safety screen`:''))}catch(e){alert('bad file: '+e)}}
 
-// Pass 14: rarity tiers (MYTHIC/EPIC/RARE/RELIC) on every card, a STRIKE flash when a dig lands, and a strike ticker of this session's best finds
-function tier(x){if(x.kind==='meta'&&!/download|view|click|play/i.test(x.countLabel||''))return /^(19[89]\d|200[0-5])/.test(String(x.date||''))?'RELIC':'';const n=Number(x.count),lab=/download|view|click|play|listen|hit/i.test(x.countLabel||'');
- if(lab&&x.count!=null&&x.count!==''&&!isNaN(n)){if(n===0)return 'MYTHIC';if(n<=3)return 'EPIC';if(n<=25)return 'RARE'}
- return /^(1[0-9]{3}|19[0-9]{2}|200[0-5])/.test(String(x.date||''))?'RELIC':''}
-const STRIKES=JSON.parse(sessionStorage.strikes||'[]');
-function ticker(){let el=document.getElementById('ticker');if(!el){el=document.createElement('div');el.id='ticker';document.body.appendChild(el)}
- const L=STRIKES.slice(-30).reverse();el.innerHTML=`<b>⛏ STRIKES</b><div class="tk"><div class="tkin">${L.length?L.concat(L).map(x=>`<a href="#${esc(x.h)}" class="tki ${esc(x.t.toLowerCase())}">${x.t?`<i>${esc(x.t)}</i>`:''}${esc(x.title.slice(0,70))} <u>${esc(x.m)}</u></a>`).join('<span class="sep">◆</span>'):'<span class="tki">no strikes yet this session — hit ⛏ DIG ANYWHERE</span>'}</div></div>`}
-const _grid14=grid;grid=function(sel,list){_grid14(sel,list);
- document.querySelectorAll(sel+' .card').forEach((c,i)=>{const x=LISTS[sel][i],t=x&&tier(x);if(t){c.classList.add('tier-'+t.toLowerCase());const th=c.querySelector('.thumb');th&&th.insertAdjacentHTML('beforeend',`<span class="tier t-${t.toLowerCase()}">${t}</span>`)}});
- if(sel!=='#grid'||!list.length||!state.m||!MODULES[state.m])return;const L=SAFE.filter(list),rank={MYTHIC:4,EPIC:3,RELIC:2,RARE:1,'':0};
- const best=L.map(x=>[rank[tier(x)],x]).sort((a,b)=>b[0]-a[0]).slice(0,3).map(([r,x])=>({title:String(x.title||'?'),t:tier(x),m:MODULES[state.m].name,h:`${state.half}/${state.m}/${state.s}`}));
- STRIKES.push(...best);while(STRIKES.length>60)STRIKES.shift();sessionStorage.strikes=JSON.stringify(STRIKES);ticker();
- const my=L.filter(x=>tier(x)==='MYTHIC').length,ep=L.filter(x=>tier(x)==='EPIC').length;const f=document.createElement('div');f.className='strike';
- f.innerHTML=`<div>⛏ STRIKE ×${L.length}</div><small>${my?my+' MYTHIC · ':''}${ep?ep+' EPIC · ':''}${MODULES[state.m].name}</small>`;document.body.appendChild(f);document.querySelector('main')?.classList.add('quake');
- setTimeout(()=>{f.remove();document.querySelector('main')?.classList.remove('quake')},1500)};
-setTimeout(ticker,0);
+
 document.addEventListener("keydown",e=>e.key==="Escape"&&closeM());
+
+/* SA-1 redesign: editorial layout. Text-link strata nav, list-based hubs, quiet find cards, inline YouTube, side reader. */
+const STRATA=[['live','Live','Surface archives, broadcasting now'],['youtube','YouTube','Uploads nobody has watched'],['trench','Trench','Grayspace: open directories, gopher, dead hosts'],['theo','Theo','Apocrypha, heresies, forgotten faiths'],['invento','Invento','Abandoned and expired patents'],['reliquary','Reliquary','Leads no one has followed'],['redacted','Black Vault','Released government files'],['xeno','Xeno','The sky files'],['vatican','Vatican','Codices, bulls, the Index']];
+const nSrc=h=>halfMods(h).reduce((n,[,m])=>n+Object.keys(m.sources).length,0);
+const ACR=new Set('UFO UAP CIA FBI FOIA USPTO BGP NASA UK MOD CREST DIY AOL TV VHS IIIF II III IV EWTN CUFON MKULTRA NSA KGB USSR DOD API NCMEC IC3 PDF TXT ASN NUFORC MUFON'.split(' '));
+const SMALL=new Set('a an and as at by for in of on or the to vs via'.split(' '));
+const plainName=m=>String(m.name||'').replace(/^[^\w(]+/,'').split(/(\s+|·|\/|-)/).map((w,i)=>{const u=w.toUpperCase();if(u==='YOUTUBE')return 'YouTube';if(ACR.has(u.replace(/[^A-Z0-9]/g,'')))return u;if(!/[A-Za-z]/.test(w))return w;const l=w.toLowerCase();return i&&SMALL.has(l)?l:l.charAt(0).toUpperCase()+l.slice(1)}).join('');
+topnav=function(){const v=Object.keys(V()).length;$('#topnav').innerHTML=`<a class="brand" href="#" aria-label="Signal Miner home"><span class="brand-mark" aria-hidden="true"></span>Signal Miner</a>
+ <ul class="strata" role="list">${STRATA.map(([k,n],i)=>`<li><a href="#${k}" class="${state.half===k?'on':''}" ${state.half===k?'aria-current="page"':''}><span class="num">${String(i+1).padStart(2,'0')}</span>${n}</a></li>`).join('')}</ul>
+ <div class="util"><a href="#vault" class="${state.m==='vault'?'on':''}">Vault<span class="count">${v}</span></a><a href="#report" onclick="REP=null" class="${state.m==='report'?'on':''}">Report</a></div>`};
+subnav=function(){const h=state.half;if(!h||['vault','report','home','hub'].includes(state.m)){$('#subnav').innerHTML='';$('#subnav').hidden=true;return}$('#subnav').hidden=false;
+ $('#subnav').innerHTML=`<a class="crumb" href="#${h}">${esc((STRATA.find(s=>s[0]===h)||[,h])[1])}</a><span class="sep" aria-hidden="true">/</span>`+halfMods(h).map(([k,m])=>`<a href="#${h}/${k}" class="${state.m===k?'on':''}" ${state.m===k?'aria-current="page"':''}>${esc(plainName(m))}</a>`).join('')};
+home=function(){const nm=Object.keys(MODULES).length,ns=Object.values(MODULES).reduce((n,m)=>n+Object.keys(m.sources).length,0);
+ $('main').innerHTML=`<section class="masthead"><p class="kicker">A field index of the forgotten web</p>
+ <h1>Things nobody<br>has looked at yet.</h1>
+ <p class="lede">Signal Miner digs public archives, dead personal homepages, open directories, patent offices and declassified dumps for material with almost no audience: the zero-view upload, the unread codex, the abandoned filing.</p>
+ <div class="mast-actions"><button class="btn primary" onclick="digAnywhere()">Dig anywhere</button><a class="btn" href="#youtube/youtube">Browse unseen video</a></div>
+ <dl class="facts"><div><dt>Strata</dt><dd>${STRATA.length}</dd></div><div><dt>Modules</dt><dd>${nm}</dd></div><div><dt>Sources</dt><dd>${ns}</dd></div><div><dt>Accounts needed</dt><dd>0</dd></div></dl></section>
+ <section class="index" aria-labelledby="ix"><h2 id="ix" class="section-label">The strata</h2>
+ <ol class="rows">${STRATA.map(([k,n,t],i)=>`<li class="s-${k}"><a href="#${k}"><span class="num">${String(i+1).padStart(2,'0')}</span><span class="name">${n}</span><span class="desc">${esc(t)}</span><span class="cnt">${halfMods(k).length} modules · ${nSrc(k)} sources</span><span class="arrow" aria-hidden="true">→</span></a></li>`).join('')}</ol></section>`};
+hub=function(h){const mods=halfMods(h),meta=HUBMETA[h]||HUBMETA.live,i=STRATA.findIndex(s=>s[0]===h),st=STRATA[i]||[h,h,''];
+ $('main').innerHTML=`<section class="masthead small"><p class="kicker">Stratum ${String(i+1).padStart(2,'0')} · ${mods.length} modules · ${nSrc(h)} sources</p><h1>${esc(st[1])}</h1><p class="lede">${meta.sub}</p></section>
+ <ol class="rows mods">${mods.map(([k,m],j)=>`<li><a href="#${h}/${k}"><span class="num">${String(j+1).padStart(2,'0')}</span><span class="name">${esc(plainName(m))}</span><span class="desc">${esc(m.blurb||m.sub||'')}</span><span class="cnt">${Object.keys(m.sources).length} sources</span><span class="arrow" aria-hidden="true">→</span></a></li>`).join('')}</ol>`};
+function fmtCount(x){if(x.count==null||x.count===''||x.kind==='meta')return '';const n=Number(x.count);return (isNaN(n)?esc(x.count):n.toLocaleString())+' '+esc(x.countLabel||'')}
+grid=function(sel,list){list=SAFE.filter(list);RAW[sel]=list;bucketBar(sel,list);if(BFILTER&&list.some(x=>bucketsOf(x).includes(BFILTER)))list=list.filter(x=>bucketsOf(x).includes(BFILTER));else BFILTER='';
+ $(sel).innerHTML=list.map((x,i)=>{const th=x.thumb&&SAFE.thumbOK(x.thumb,x),yt=!!x.ytid&&!SAFE.isMedia(x),z=untouched(x);
+  const media=x.kind==='meta'?'':th?`<div class="media${yt?' yt':''}">${yt?`<button class="play" aria-label="Play ${esc(x.title)} here" onclick="event.stopPropagation();ytPlay(this,'${esc(x.ytid)}')">`:''}<img loading="lazy" decoding="async" src="${esc(x.thumb2||x.thumb)}" alt="">${yt?`<span class="play-ico" aria-hidden="true"></span></button>`:''}</div>`
+   :`<div class="media none" aria-hidden="true"><span>${x.gated?'Media held behind a click-through':esc(x.mime||x.kind||'text')}</span></div>`;
+  return `<article class="card ${x.kind==='meta'?'meta':''} ${th?'has-media':'text'}">${media}
+  <div class="body"><p class="src">${esc(x.source)}${x.depth?` · ${esc(x.depth)}`:''}</p>
+  <h3><a href="javascript:void 0" onclick="openF('${sel}',${i})">${esc(x.title)}</a></h3>
+  ${x.preview&&!th?`<p class="prev">${esc(x.preview.slice(0,220))}</p>`:''}
+  <p class="facts-line">${x.date?`<span>${esc(x.date)}</span>`:''}${fmtCount(x)?`<span class="${z?'zero':''}">${fmtCount(x)}</span>`:''}${bucketsOf(x).slice(0,2).map(b=>`<span>${esc(b.toLowerCase())}</span>`).join('')}</p>
+  <div class="acts"><button onclick="this.textContent=toggle(LISTS['${sel}'][${i}])?'Saved':'Save';topnav()" aria-label="Save to vault">${V()[x.url]?'Saved':'Save'}</button><button onclick="report(LISTS['${sel}'][${i}])" aria-label="Report this find">Report</button></div></div></article>`}).join('');LISTS[sel]=list};
+function ytPlay(b,id){if(!/^[\w-]{6,15}$/.test(id))return;const f=document.createElement('iframe');f.src=`https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0`;f.title='YouTube player';f.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';f.allowFullscreen=true;f.loading='lazy';b.parentNode.replaceChildren(f)}
+const _openF=openF;openF=function(sel,i){_openF(sel,i);const b=$('#mb');b.setAttribute('role','dialog');b.setAttribute('aria-modal','true');b.insertAdjacentHTML('afterbegin','<button class="close" aria-label="Close reader" onclick="closeM()">×</button>');b.querySelectorAll('.row .go').forEach(e=>{if(e.children.length)return;const t=e.textContent.replace(/^[^\w]+/,'').trim();e.textContent=t.charAt(0).toUpperCase()+t.slice(1)});b.querySelector('.close').focus()};
+const _render=render;render=function(){_render();const m=MODULES[state.m];if(m&&state.s){document.title=`${plainName(m)} · Signal Miner`;const sec=$('main .world');if(sec&&!sec.querySelector('.kicker')){const h=sec.querySelector('h2');h&&(h.textContent=plainName(m),h.insertAdjacentHTML('beforebegin',`<p class="kicker">${esc((STRATA.find(s=>s[0]===state.half)||[,state.half])[1])} · ${Object.keys(m.sources).length} sources</p>`))}}else document.title='Signal Miner · a field index of the forgotten web';const ctl=$('main .ctl');if(ctl){ctl.querySelectorAll('button.go').forEach(b=>{const t=b.textContent.replace(/[^\w\s←-]/g,'').trim().toLowerCase();b.textContent=t==='mine'?'Mine':t==='random dig'?'Random dig':t.includes('hub')?'All modules':t==='reset history'?'Reset history':b.textContent});const sc=$('#seenc');sc&&(sc.textContent=SEEN.size+' seen')}window.scrollTo(0,0)};
+seenCtr=function(){const e=$('#seenc');if(e)e.textContent=SEEN.size+' seen'};
+
 if(!location.pathname.endsWith("test.html")){route();if(!localStorage.ack){$('#mb').innerHTML=`<h3>Before you dig</h3><p>Everything shown here is public third-party media and text pulled automatically from other sites. Nothing is hosted, reviewed, or endorsed by this site. Finds can be unexpected or upsetting. TRENCH prefers text/metadata; open-camera cards only show streams already broadcasting with <b>no authentication</b>. We do not scan the internet or use passwords. No Tor. Use ⚑ to report anything harmful.</p><div class="row"><button class="go" onclick="localStorage.ack=1;closeM()">I understand, continue</button></div>`;$('#modal').classList.add('on')}}

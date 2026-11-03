@@ -40,6 +40,18 @@ In the browser, `net.js` gives every fetch a timeout, a 15-minute cache for slow
 - **SB-2 curation layer** `scripts/curate.py` (runs last in every Action run): strips HTML/`&hellip;` from titles, removes duplicate patent titles, and requires each INVENTO pile to match its theme regex. Results: formulas 282→90, wartech 243→103, secret 251→106, survival 206→115, immortal 78→49, deterrent 81→55. Forums 940→737 (adfree-signup/api/insert junk removed).
 
 - **SB-3 dead-site noise cut**: `curate.py` now also cleans every `wb_*` Wayback-world pile and `hidden.json`. It decodes HTML entities in titles, drops boilerplate pages (Links, About Me, Home, Index, Page Title, Guestbook, unsaved:///, FrontPage stubs, 404/redirect), and drops repeated short titles. For example: ccatbib 150→81, geipan 183→99, tokyo 192→146, angelfire 170→130. About 600 junk rows removed across 39 piles.
+## SA-1 (2026-11-02) · full UI redesign, worker A
+
+- **New design system** (`style.css` rewritten from scratch): warm ink background, Newsreader serif for display and reading, Inter for UI, IBM Plex Mono for metadata. Each stratum gets one restrained accent colour, used only for rules, kickers and the active state.
+- **Navigation**: sticky header with wordmark, numbered strata links (01 Live … 09 Vatican) with an underline for the active stratum, and Vault/Report links. A module breadcrumb bar sits under it. Skip link, `aria-current`, focus rings.
+- **Home**: editorial masthead ("Things nobody has looked at yet."), lede, Dig anywhere, a facts row, and the strata as a ruled index list instead of a tile grid.
+- **Hubs**: stratum masthead with module and source counts; modules as a numbered ruled list with title-cased names.
+- **Find cards**: image-led cards with source kicker, serif title, mono facts line (date, count, theme), Save/Report text actions. Text finds get an index-card rule with a serif excerpt.
+- **YouTube**: thumbnails always shown (i.ytimg is on the safe-thumb list), and the play button swaps in a youtube-nocookie player inside the card. The title opens the reader.
+- **Reader**: the modal is now a right-side sheet with a close button, focus moved into it, `role=dialog`, and serif long-form text.
+- **Removed gimmicks**: rarity tiers, STRIKE flash/quake, strike ticker, glitch title, ore-dust canvas, 3D hub tilt, glow and shimmer.
+- **Mobile**: strata scroll horizontally under the brand, cards in a single column, controls stack, and the reader is full-screen. Reduced-motion and forced-colours are respected. Images use lazy loading and async decoding.
+- Safety layer unchanged: consent notice on first visit, media gate and blur, blocklist screen, per-card Report, report page, moderation portal, and the footer disclaimer with NCMEC/FBI/IC3 links.
 
 ## Pass 13
 
