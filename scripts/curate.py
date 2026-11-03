@@ -17,6 +17,7 @@ TAG=re.compile(r"<[^>]+>")
 def clean(t): return re.sub(r"\s+"," ",html.unescape(TAG.sub("",t or ""))).replace("…","…").strip(" .…")
 def norm(t): return re.sub(r"[^a-z0-9]+"," ",t.lower()).strip()[:60]
 FORUMJUNK=re.compile(r"adfree|signup|/api/|insert\?|login|register|\.cgi\?.*(signup|ad)|privacy|terms|banner|/ads?/|Home$",re.I)
+BOILER=re.compile(r"^(links?|related links|cool links|my links|about me|about|home ?page|home|welcome|index|untitled|untitled document|page title|new page \d*|picture page|pictures?|photos?|my page|contact|contact me|email me|guestbook|sign my guestbook|search links|introduction|main|menu|navigation|frames?|blank|test|default|no title|document|unsaved:.*|ppt slide|frontpage run-time component page|redirect\w*|moved|404.*|error.*|object moved|search)$",re.I)
 def run(root="finds"):
     rep={}
     for f in sorted(os.listdir(root)):
@@ -33,6 +34,7 @@ def run(root="finds"):
             t=x.get("title","");n=norm(t)
             if f.startswith("invento_") and n and n in seen: continue
             if rx and not rx.search(t+" "+x.get("preview","")+" "+x.get("query","").split("q=")[0]): continue
+            if (f.startswith("wb_") or f=="hidden.json") and (BOILER.match(t) or (len(t.split())<=4 and n in seen)): continue
             if f=="forums.json" and FORUMJUNK.search(t+" "+x.get("url","")): continue
             seen.add(n);out.append(x)
         if len(out)!=len(L):
