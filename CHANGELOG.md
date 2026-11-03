@@ -53,6 +53,9 @@ In the browser, `net.js` gives every fetch a timeout, a 15-minute cache for slow
 - **Removed gimmicks**: rarity tiers, STRIKE flash/quake, strike ticker, glitch title, ore-dust canvas, 3D hub tilt, glow and shimmer.
 - **Mobile**: strata scroll horizontally under the brand, cards in a single column, controls stack, and the reader is full-screen. Reduced-motion and forced-colours are respected. Images use lazy loading and async decoding.
 - Safety layer unchanged: consent notice on first visit, media gate and blur, blocklist screen, per-card Report, report page, moderation portal, and the footer disclaimer with NCMEC/FBI/IC3 links.
+- **SB-4 YouTube junk cut**: the live sweep showed random 4-char Piped queries surfacing nursery rhymes, CEO talks and trailers. Live Piped hits now go through a junk regex (kids/cartoon/webinar/marketing/trailer/review/unboxing/podcast…), and pool finds are shown first (16 pool + up to 8 live, 24 max).
+- **SB-5 THEO forgotten cultures in grayspace**: `deeptext.py` now has `geniza`, `deadlang` and `lostciv` buckets and Veronica-2 terms (druid, etruscan, hittite, atlantis, coptic, syriac, aramaic, ogham, runes, talmud, midrash…). A new `GJUNK` gopher filter drops debian/package/builder/Stargate/game/commit/storm/404 menus, which removed 54 junk rows from `deep_text.json`. Seeded harvest: Coptic Lectionary files (CopticNet mirror via quux gopher), Druid texts, Talmud/Geniza items. The geniza/deadlang/lostciv gray tabs are no longer empty.
+- **Live sweep (322 sources, 8 at a time, 30 s cap)**: 306 returned results. Empty or failing: theo pile for scrolls/deadlang/lostciv/suppressed (honest zero-download message), deadlang gutenberg, inv_aliens USPTO, RELIQUARY news (loc.gov >30 s; the cached harvest covers it), and youtube api (needs your own key). No JS errors.
 
 ## Pass 13
 

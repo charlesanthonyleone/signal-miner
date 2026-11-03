@@ -18,13 +18,16 @@ BUCKETS={
  "tablets":r"cuneiform|sumer|akkad|babylon|gilgamesh|enuma elish",
  "suppressed":r"inquisition|persecut|forbidden|banned book|suppressed|censored|secret society|illuminati|freemason|rosicruc",
  "patent":r"patent|invention|perpetual motion|free energy|tesla|apparatus|device for",
+ "geniza":r"geniza|genizah|taylor.?schechter|hebrew (fragment|manuscript)|judeo.?arabic|jewish manuscript|talmud|mishnah?|midrash",
+ "deadlang":r"septuagint|koine|coptic|syriac|peshitta|ethiopic|pali|tipitaka|avest|zend|slavonic|ulfila|aramaic|sahidic|bohairic|old norse|runic|\brunes?\b|ogham|gothic bible",
+ "lostciv":r"hittit|etrusc|minoan|knossos|harappa|mohenjo|phoenic|carthag|canaan|ugarit|scyth|thracian|druid|olmec|\bmaya\b|mayan|aztec|\binca\b|anasazi|mound builder|atlantis|lemuria|megalith|stonehenge|nazca",
  "lost":r"treasure|buried|cipher|cryptogram|shipwreck|time capsule|deathbed|confession|lost mine",
 }
 RX={k:re.compile(v,re.I) for k,v in BUCKETS.items()}
 def bucket(t):
     hits=[(len(r.findall(t)),k) for k,r in RX.items()]; hits=[h for h in hits if h[0]]
     return max(hits)[1] if hits else None
-TERMS=["grimoire","goetia","necronomicon","enochian","mithras","eleusis","orphic","gnostic","cathar","apocrypha","enoch","nag hammadi",
+TERMS=["druid","etruscan","hittite","atlantis","lemuria","mayan","aztec","megalith","coptic","syriac","aramaic","runes","ogham","old norse","talmud","midrash","judaica","geniza","grimoire","goetia","necronomicon","enochian","mithras","eleusis","orphic","gnostic","cathar","apocrypha","enoch","nag hammadi",
        "hoodoo","witchcraft","demonology","alchemy","hermetic","kabbalah","prophecy","heresy","rosicrucian","sumerian","egyptian book of the dead",
        "perpetual motion","free energy","patent","time capsule","buried treasure","cipher","beale","shipwreck","deathbed confession","lost mine"]
 
@@ -38,9 +41,10 @@ def _gw_text(url):
         t="\n".join(l for l in t.splitlines() if junk not in l)
     return t.strip()
 
-def veronica(n=14):
+GJUNK=re.compile(r'debian|ubuntu|/packages?/|builder|stargate|\\(game\\)|game|/scm/|commit|File or directory not found|tropical|storm|hurricane|\\bTS \\w|fidonet|wget\\.cgi|zxart|\\.(gph)$',re.I)
+def veronica(n=14,terms=None):
     out=[]
-    for term in random.sample(TERMS,6):
+    for term in (terms or random.sample(TERMS,6)):
         try: html=requests.get(GW,params={"ss":"gopher://gopher.floodgap.com:70/7/v2/vs","sq":term},headers=UA,timeout=50).text
         except Exception as e: print("veronica",term,e); continue
         links=re.findall(r'href = "/gopher/gw\?=([^"+]+)\+(\d+)\+([0-9a-f]+)">([^<]*)</a>',html)
@@ -55,7 +59,7 @@ def veronica(n=14):
             if typ=="0":
                 try: prev=_gw_text(gw)[:1500]
                 except Exception: pass
-            if is_bad(prev): continue
+            if is_bad(prev) or GJUNK.search(label+' '+path+' '+prev[:300]): continue
             b=bucket(f"{label} {path} {prev}") or bucket(term)
             out.append({"source":"Gopherspace (Veronica-2)","title":f"{label.strip() or path} — {host}","date":"","dateLabel":"",
               "count":len(prev) if prev else None,"countLabel":"chars","kind":"meta","depth":random.choice(DEPTHS),
