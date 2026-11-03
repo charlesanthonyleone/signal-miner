@@ -7,7 +7,11 @@ def fix(s):
     s=str(s or "")
     if not HI.search(s): return s
     try: b=s.encode("latin1")
-    except UnicodeEncodeError: return s
+    except UnicodeEncodeError:
+        def f(m):
+            try: return m.group(0).encode("latin1").decode("utf-8")
+            except Exception: return m.group(0)
+        return re.sub(r"[\xc2-\xf4][\x80-\xbf]{1,3}",f,s)
     try: return b.decode("utf-8")
     except UnicodeDecodeError: pass
     for enc in ("big5","gbk","shift_jis","euc_kr","koi8_r"):

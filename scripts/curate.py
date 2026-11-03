@@ -1,6 +1,8 @@
 """SB-2: curate harvested piles in finds/: strip HTML, drop exact/near duplicate titles, and cut off-theme rows
 (INVENTO themes must hit a weird-tech regex; forum piles drop signup/api/ad junk). Runs at the end of collect.py."""
-import json, re, html, os
+import json, re, html, os, sys
+sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
+from textfix import fix as tfix
 TH={
  "dead":r"spirit|ouija|planchette|talking board|séance|seance|medium|afterlife|ghost|paranormal|premature burial|coffin|grave|corpse|deceased|dead|necro|evp|soul|ectoplasm|apparition",
  "immortal":r"immortal|longevity|life[- ]?extension|rejuvenat|revival|reviv|resuscitat|cryo|suspended animation|preserv\w* (of )?(body|bodies|human|cells?|organism)|aging|ageing|youth|elixir|vitrif|freez\w* (human|body)|regenerat|telomer",
@@ -14,7 +16,7 @@ TH={
  "wartech":r"weapon|war|military|bomb|explosi|flame ?thrower|torpedo|missile|gun|artillery|tank|armou?r|submarine|grenade|mine\b|ray|death|sonic|infrasound|incapacit|warfare|bullet|projectile|rocket",
 }
 TAG=re.compile(r"<[^>]+>")
-def clean(t): return re.sub(r"\s+"," ",html.unescape(TAG.sub("",t or ""))).replace("…","…").strip(" .…")
+def clean(t): return re.sub(r"\s+"," ",tfix(html.unescape(TAG.sub("",t or "")))).replace("…","…").strip(" .…")
 def norm(t): return re.sub(r"[^a-z0-9]+"," ",t.lower()).strip()[:60]
 FORUMJUNK=re.compile(r"adfree|signup|/api/|insert\?|login|register|\.cgi\?.*(signup|ad)|privacy|terms|banner|/ads?/|Home$",re.I)
 BOILER=re.compile(r"^(links?|related links|cool links|my links|about me|about|home ?page|home|welcome|index|untitled|untitled document|page title|new page \d*|picture page|pictures?|photos?|my page|contact|contact me|email me|guestbook|sign my guestbook|search links|introduction|main|menu|navigation|frames?|blank|test|default|no title|document|unsaved:.*|ppt slide|frontpage run-time component page|redirect\w*|moved|404.*|error.*|object moved|search)$",re.I)
@@ -28,16 +30,17 @@ def run(root="finds"):
         if not isinstance(L,list) or not L or not isinstance(L[0],dict): continue
         k=f[8:-5] if f.startswith("invento_") else None
         rx=re.compile(r"\b("+TH[k]+")",re.I) if k in TH else None
-        out=[];seen=set()
+        before=json.loads(json.dumps(L));out=[];seen=set()
         for x in L:
             if "title" in x and isinstance(x["title"],str): x["title"]=clean(x["title"])
+            if isinstance(x.get("preview"),str): x["preview"]=tfix(x["preview"])
             t=x.get("title","");n=norm(t)
             if f.startswith("invento_") and n and n in seen: continue
             if rx and not rx.search(t+" "+x.get("preview","")+" "+x.get("query","").split("q=")[0]): continue
             if (f.startswith("wb_") or f=="hidden.json") and (BOILER.match(t) or (len(t.split())<=4 and n in seen)): continue
             if f=="forums.json" and FORUMJUNK.search(t+" "+x.get("url","")): continue
             seen.add(n);out.append(x)
-        if len(out)!=len(L):
-            rep[f]=(len(L),len(out)); json.dump(out,open(p,"w"),indent=0 if len(out)>200 else 1)
+        if out!=before:
+            rep[f]=(len(L),len(out)); json.dump(out,open(p,"w"),indent=0)
     print("curate",rep); return rep
 if __name__=="__main__": os.chdir(os.path.join(os.path.dirname(__file__),"..")); run()
