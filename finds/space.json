@@ -3285,5 +3285,43 @@
   "extra": "center ARC \u00b7 nasa_id ARC-2009-ACD09-0108-050 \u00b7 keywords Asteroid",
   "module": "space",
   "mined_at": "2026-11-03T04:18:00Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "Fermi's Motion Produces a Study in Spirograph",
+  "date": "2017-12-08",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001547/GSFC_20171208_Archive_e001547~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001547/GSFC_20171208_Archive_e001547~thumb.jpg",
+  "preview": "Final still from Fermi video [<a href=\"http://bit.ly/Y2K4LN\" rel=\"nofollow\">bit.ly/Y2K4LN</a>].  Credit: NASA/DOE/Fermi LAT Collaboration  -----  NASA's Fermi Gamma-ray Space Telescope orbits our planet every 95 minutes, building up increasingly deeper views of the universe with every circuit. Its wide-eyed Large Area Telescope (LAT) sweeps across the entire sky every three hours, capturing the highest-energy form of light -- gamma rays -- from sources across the universe. These range from super",
+  "url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001547",
+  "query": "images-api.nasa.gov q=\"pulsar\"",
+  "extra": "center GSFC \u00b7 nasa_id GSFC_20171208_Archive_e001547 \u00b7 keywords Fermi's Motion Produces a Study in Spirograph, space, nasa, fermi, goddard, gammaray",
+  "module": "space",
+  "mined_at": "2026-11-03T07:00:20Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "Neutron star Interior Composition Explorer (NICER)",
+  "date": "2017-12-08",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000046/GSFC_20171208_Archive_e000046~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000046/GSFC_20171208_Archive_e000046~thumb.jpg",
+  "preview": "NICER engineer Steven Kenyon prepares seven of the 56 X-ray concentrators for installation in the NICER instrument.  The payload\u2019s 56 mirror assemblies concentrate X-rays onto silicon detectors to gather data that will probe the interior makeup of neutron stars, including those that appear to flash regularly, called pulsars.  The Neutron star Interior Composition Explorer (NICER) is a NASA Explorer Mission of Opportunity dedicated to studying the extraordinary environments \u2014 strong gravity, ultr",
+  "url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000046",
+  "query": "images-api.nasa.gov q=\"pulsar\"",
+  "extra": "center GSFC \u00b7 nasa_id GSFC_20171208_Archive_e000046 \u00b7 keywords Neutron star Interior Composition Explorer (NICER)",
+  "module": "space",
+  "mined_at": "2026-11-03T07:00:20Z"
  }
 ]

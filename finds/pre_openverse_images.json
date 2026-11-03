@@ -9559,5 +9559,8103 @@
 "detail_url": "https://api.openverse.org/v1/images/e05c10c3-bc24-49ce-a38b-9dd11b5ca0e4/",
 "related_url": "https://api.openverse.org/v1/images/e05c10c3-bc24-49ce-a38b-9dd11b5ca0e4/related/",
 "unstable__sensitivity": []
+},
+{
+"id": "30ec8e32-0409-46e2-b17f-5dc012bcd456",
+"title": "Pottery Road bridge",
+"indexed_on": "2020-04-10T02:46:25.119513Z",
+"foreign_landing_url": "https://www.flickr.com/photos/23664989@N00/9927370896",
+"url": "https://live.staticflickr.com/2825/9927370896_f4ed38560a_b.jpg",
+"creator": "Ashton Emanuel",
+"creator_url": "https://www.flickr.com/photos/23664989@N00",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "1928",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1977",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "blackandwhite",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "blogto",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "concretebowstringbridge",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "donriver",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "downtowntoronto",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "july2013",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "potteryroad",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "potteryroadbridge",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "summer2013",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "toronto",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "torontobridges",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "torontoist",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "torontostreetphotography",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "urbantoronto",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Pottery Road bridge\" by Ashton Emanuel is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"height": 683,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/30ec8e32-0409-46e2-b17f-5dc012bcd456/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/30ec8e32-0409-46e2-b17f-5dc012bcd456/",
+"related_url": "https://api.openverse.org/v1/images/30ec8e32-0409-46e2-b17f-5dc012bcd456/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "ff3d45c7-c30c-412e-b880-3518ed2cd447",
+"title": "George Jennings' South Western Pottery, Parkstone, Poole, Dorset",
+"indexed_on": "2018-11-08T17:31:32.467511Z",
+"foreign_landing_url": "https://www.flickr.com/photos/79522672@N00/5569439077",
+"url": "https://live.staticflickr.com/5260/5569439077_3bcd9edd0d_b.jpg",
+"creator": "Alwyn Ladell",
+"creator_url": "https://www.flickr.com/photos/79522672@N00",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "dorset",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "georgejennings",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "parkstone",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "poole",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "southwesternpottery",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"George Jennings' South Western Pottery, Parkstone, Poole, Dorset\" by Alwyn Ladell is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"height": 657,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/ff3d45c7-c30c-412e-b880-3518ed2cd447/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/ff3d45c7-c30c-412e-b880-3518ed2cd447/",
+"related_url": "https://api.openverse.org/v1/images/ff3d45c7-c30c-412e-b880-3518ed2cd447/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "b9f02886-8e97-4962-a5ef-ae296e469d97",
+"title": "MS Delta Tour: McCarty Pottery Studio and Gardens",
+"indexed_on": "2020-02-28T17:20:23.557222Z",
+"foreign_landing_url": "https://www.flickr.com/photos/41454560@N04/18150677886",
+"url": "https://live.staticflickr.com/7796/18150677886_f38915aa72_b.jpg",
+"creator": "ilovememphis",
+"creator_url": "https://www.flickr.com/photos/41454560@N04",
+"license": "by-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [],
+"attribution": "\"MS Delta Tour: McCarty Pottery Studio and Gardens\" by ilovememphis is licensed under CC BY-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/2.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/b9f02886-8e97-4962-a5ef-ae296e469d97/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/b9f02886-8e97-4962-a5ef-ae296e469d97/",
+"related_url": "https://api.openverse.org/v1/images/b9f02886-8e97-4962-a5ef-ae296e469d97/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "050e6c53-17c3-4a81-abbf-779d110358a9",
+"title": "North Carolina Pottery Center",
+"indexed_on": "2020-04-28T21:18:26.969640Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=45523747",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/22/North_Carolina_Pottery_Center.JPG",
+"creator": "DavidBailey at English Wikipedia",
+"creator_url": "https://en.wikipedia.org/wiki/User:DavidBailey",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia",
+"source": "wikimedia",
+"category": null,
+"filesize": 315853,
+"filetype": "jpg",
+"tags": [],
+"attribution": "\"North Carolina Pottery Center\" by DavidBailey at English Wikipedia is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/050e6c53-17c3-4a81-abbf-779d110358a9/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/050e6c53-17c3-4a81-abbf-779d110358a9/",
+"related_url": "https://api.openverse.org/v1/images/050e6c53-17c3-4a81-abbf-779d110358a9/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "bb586785-a58d-413c-9a90-7c4c4a7cdc8a",
+"title": "MS Delta Tour: McCarty Pottery Studio and Gardens",
+"indexed_on": "2020-02-28T17:20:23.557222Z",
+"foreign_landing_url": "https://www.flickr.com/photos/41454560@N04/17556596493",
+"url": "https://live.staticflickr.com/7796/17556596493_70ecb697d6_b.jpg",
+"creator": "ilovememphis",
+"creator_url": "https://www.flickr.com/photos/41454560@N04",
+"license": "by-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [],
+"attribution": "\"MS Delta Tour: McCarty Pottery Studio and Gardens\" by ilovememphis is licensed under CC BY-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/2.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/bb586785-a58d-413c-9a90-7c4c4a7cdc8a/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/bb586785-a58d-413c-9a90-7c4c4a7cdc8a/",
+"related_url": "https://api.openverse.org/v1/images/bb586785-a58d-413c-9a90-7c4c4a7cdc8a/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "28007828-35cd-4aae-8eb5-6403912ebab0",
+"title": "Coffee pot in blue delphinium lustre glaze, Ruskin pottery, Smethwick DPP_043",
+"indexed_on": "2018-11-08T17:31:32.467511Z",
+"foreign_landing_url": "https://www.flickr.com/photos/41006267@N06/4383937441",
+"url": "https://live.staticflickr.com/4032/4383937441_b8b6303204_b.jpg",
+"creator": "Black Country Museums",
+"creator_url": "https://www.flickr.com/photos/41006267@N06",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "blackcountry",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ceramic",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "coffee",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "coffeepot",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "drink",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "history",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lustreglaze",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "madeintheblackcountry",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "museum",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "museumobject",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "museums",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pot",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pottery",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ruskinpottery",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sandwell",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "smethwick",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tea",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "teadrinking",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "teapot",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wednesbury",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wednesburymuseumandartgallery",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Coffee pot in blue delphinium lustre glaze, Ruskin pottery, Smethwick DPP_043\" by Black Country Museums is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 693,
+"thumbnail": "https://api.openverse.org/v1/images/28007828-35cd-4aae-8eb5-6403912ebab0/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/28007828-35cd-4aae-8eb5-6403912ebab0/",
+"related_url": "https://api.openverse.org/v1/images/28007828-35cd-4aae-8eb5-6403912ebab0/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "a4fe8717-1082-4686-bc11-eb4beb51e979",
+"title": "Pottery Studio",
+"indexed_on": "2018-12-05T14:16:05.995495Z",
+"foreign_landing_url": "https://www.flickr.com/photos/45813625@N05/44607860842",
+"url": "https://live.staticflickr.com/1879/44607860842_fc644bddfd_b.jpg",
+"creator": "City of Fort Collins, CO",
+"creator_url": "https://www.flickr.com/photos/45813625@N05",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "classes",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "facility",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pottery",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "potterystudio",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "recreation",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Pottery Studio\" by City of Fort Collins, CO is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 683,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/a4fe8717-1082-4686-bc11-eb4beb51e979/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/a4fe8717-1082-4686-bc11-eb4beb51e979/",
+"related_url": "https://api.openverse.org/v1/images/a4fe8717-1082-4686-bc11-eb4beb51e979/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "f959459f-5065-4e1c-9650-e47d038e96a1",
+"title": "Pottery, Vatican Museums",
+"indexed_on": "2020-03-28T12:42:35.654261Z",
+"foreign_landing_url": "https://www.flickr.com/photos/44534236@N00/16871598167",
+"url": "https://live.staticflickr.com/8781/16871598167_13451af8fb_b.jpg",
+"creator": "faungg's photos",
+"creator_url": "https://www.flickr.com/photos/44534236@N00",
+"license": "by-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "exhibits",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "historical",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pottery",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "square",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stilllifephotography",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u5c55u54c1",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u65b9u56fe",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u68b5u8482u5188u535au7269u9986",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u9676u5668",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u9759u7269u6444u5f71",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vaticanmuseum",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "\u5c55\u54c1",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "\u65b9\u56fe",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "\u68b5\u8482\u5188\u535a\u7269\u9986",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "\u9676\u5668",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "\u9759\u7269\u6444\u5f71",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ancient",
+"accuracy": 0.98459,
+"unstable__provider": "clarifai"
+},
+{
+"name": "antique",
+"accuracy": 0.98021,
+"unstable__provider": "clarifai"
+},
+{
+"name": "art",
+"accuracy": 0.98465,
+"unstable__provider": "clarifai"
+},
+{
+"name": "bowl",
+"accuracy": 0.98913,
+"unstable__provider": "clarifai"
+},
+{
+"name": "ceramic",
+"accuracy": 0.99571,
+"unstable__provider": "clarifai"
+},
+{
+"name": "clay",
+"accuracy": 0.99941,
+"unstable__provider": "clarifai"
+},
+{
+"name": "container",
+"accuracy": 0.99904,
+"unstable__provider": "clarifai"
+},
+{
+"name": "decoration",
+"accuracy": 0.98022,
+"unstable__provider": "clarifai"
+},
+{
+"name": "earthenware",
+"accuracy": 0.99941,
+"unstable__provider": "clarifai"
+},
+{
+"name": "handmade",
+"accuracy": 0.98785,
+"unstable__provider": "clarifai"
+},
+{
+"name": "jar",
+"accuracy": 0.9863,
+"unstable__provider": "clarifai"
+},
+{
+"name": "jug",
+"accuracy": 0.99716,
+"unstable__provider": "clarifai"
+},
+{
+"name": "kitchenware",
+"accuracy": 0.98671,
+"unstable__provider": "clarifai"
+},
+{
+"name": "pot",
+"accuracy": 0.99847,
+"unstable__provider": "clarifai"
+},
+{
+"name": "pottery",
+"accuracy": 0.99995,
+"unstable__provider": "clarifai"
+},
+{
+"name": "still life",
+"accuracy": 0.99582,
+"unstable__provider": "clarifai"
+},
+{
+"name": "tableware",
+"accuracy": 0.99497,
+"unstable__provider": "clarifai"
+},
+{
+"name": "urn",
+"accuracy": 0.99113,
+"unstable__provider": "clarifai"
+},
+{
+"name": "vase",
+"accuracy": 0.99826,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Pottery, Vatican Museums\" by faungg's photos is licensed under CC BY-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 1023,
+"thumbnail": "https://api.openverse.org/v1/images/f959459f-5065-4e1c-9650-e47d038e96a1/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/f959459f-5065-4e1c-9650-e47d038e96a1/",
+"related_url": "https://api.openverse.org/v1/images/f959459f-5065-4e1c-9650-e47d038e96a1/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "053c50a4-5fbe-4707-8c90-57de28a10df9",
+"title": "Medieval pottery",
+"indexed_on": "2018-11-09T02:22:56.756031Z",
+"foreign_landing_url": "https://www.flickr.com/photos/32884265@N00/9269055874",
+"url": "https://live.staticflickr.com/7431/9269055874_a6e655c4fa_b.jpg",
+"creator": "Wessex Archaeology",
+"creator_url": "https://www.flickr.com/photos/32884265@N00",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "85401",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "archaeological",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "archaeology",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "artefacts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ceramic",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "medieval",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pottery",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Medieval pottery\" by Wessex Archaeology is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 611,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/053c50a4-5fbe-4707-8c90-57de28a10df9/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/053c50a4-5fbe-4707-8c90-57de28a10df9/",
+"related_url": "https://api.openverse.org/v1/images/053c50a4-5fbe-4707-8c90-57de28a10df9/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "9a43234b-c306-44d2-84a4-b65dfea86715",
+"title": "Ming Pottery Residential Compound, 130cm",
+"indexed_on": "2020-03-30T21:44:37.759562Z",
+"foreign_landing_url": "https://www.flickr.com/photos/101561334@N08/22462544772",
+"url": "https://live.staticflickr.com/650/22462544772_1ba80028c0_b.jpg",
+"creator": "Gary Lee Todd, Ph.D.",
+"creator_url": "https://www.flickr.com/photos/101561334@N08",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "ancient",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "auroramuseum",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "house",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mansion",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ming",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pottery",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "shanghai",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Ming Pottery Residential Compound, 130cm\" by Gary Lee Todd, Ph.D. is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 683,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/9a43234b-c306-44d2-84a4-b65dfea86715/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/9a43234b-c306-44d2-84a4-b65dfea86715/",
+"related_url": "https://api.openverse.org/v1/images/9a43234b-c306-44d2-84a4-b65dfea86715/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "e4b146f7-3ea0-41a4-83f4-9b5a032b01e1",
+"title": "YN06WMK 65037 First Potteries",
+"indexed_on": "2020-06-02T10:44:30.984955Z",
+"foreign_landing_url": "https://www.flickr.com/photos/37938224@N03/27109678581",
+"url": "https://live.staticflickr.com/7445/27109678581_828f0a8058_b.jpg",
+"creator": "martin 65",
+"creator_url": "https://www.flickr.com/photos/37938224@N03",
+"license": "pdm",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "22515",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "britannia",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bus",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "buses",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "first",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "on",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "optare",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pops",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "potteries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "preservation",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "preserved",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "public",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rally",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "road",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "scania",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "solo",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stadium",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stoke",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "streetdeck",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "transport",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "trent",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vehicle",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "worcester",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wrightbus",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"YN06WMK 65037 First Potteries\" by martin 65 is marked with Public Domain Mark 1.0. To view the terms, visit https://creativecommons.org/publicdomain/mark/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 720,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/e4b146f7-3ea0-41a4-83f4-9b5a032b01e1/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/e4b146f7-3ea0-41a4-83f4-9b5a032b01e1/",
+"related_url": "https://api.openverse.org/v1/images/e4b146f7-3ea0-41a4-83f4-9b5a032b01e1/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "a0af0c16-b7c9-4fa8-b4ea-4e9716b1fe47",
+"title": "CN06BXH 53155 First Potteries",
+"indexed_on": "2020-06-02T10:44:30.984955Z",
+"foreign_landing_url": "https://www.flickr.com/photos/37938224@N03/27178152955",
+"url": "https://live.staticflickr.com/7484/27178152955_340a01c0b8_b.jpg",
+"creator": "martin 65",
+"creator_url": "https://www.flickr.com/photos/37938224@N03",
+"license": "pdm",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "22515",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "britannia",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bus",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "buses",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "first",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "on",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "optare",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pops",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "potteries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "preservation",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "preserved",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "public",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rally",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "road",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "scania",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "solo",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stadium",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stoke",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "streetdeck",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "transport",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "trent",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vehicle",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "worcester",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wrightbus",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"CN06BXH 53155 First Potteries\" by martin 65 is marked with Public Domain Mark 1.0. To view the terms, visit https://creativecommons.org/publicdomain/mark/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 809,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/a0af0c16-b7c9-4fa8-b4ea-4e9716b1fe47/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/a0af0c16-b7c9-4fa8-b4ea-4e9716b1fe47/",
+"related_url": "https://api.openverse.org/v1/images/a0af0c16-b7c9-4fa8-b4ea-4e9716b1fe47/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "2264401b-de19-44fc-8770-b0fbb98c027b",
+"title": "Detroit Michigan ~ Pewabic Pottery ~ Od Photo",
+"indexed_on": "2020-03-31T13:15:35.340058Z",
+"foreign_landing_url": "https://www.flickr.com/photos/7156765@N05/23921248442",
+"url": "https://live.staticflickr.com/5657/23921248442_1e0d460b77_b.jpg",
+"creator": "Onasill ~ Bill",
+"creator_url": "https://www.flickr.com/photos/7156765@N05",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "1903",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "american",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "attraction",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "clouds",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "detroit",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "galleries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "historic",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "historical",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "international",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "landmark",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mi",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "michigan",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mshs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "museums",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "national",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nrhp",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pewabic",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "photo",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "places",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pottery",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "register",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rivertown",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "scan",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "site",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sky",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "state",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "unitedstates",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "us",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vintage",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "waynecounty",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "works",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Detroit Michigan ~ Pewabic Pottery ~ Od Photo\" by Onasill ~ Bill is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 677,
+"thumbnail": "https://api.openverse.org/v1/images/2264401b-de19-44fc-8770-b0fbb98c027b/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/2264401b-de19-44fc-8770-b0fbb98c027b/",
+"related_url": "https://api.openverse.org/v1/images/2264401b-de19-44fc-8770-b0fbb98c027b/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "eb4e9ef7-648e-4b8f-a21d-d68f3c56fa63",
+"title": "Talavera Pottery",
+"indexed_on": "2016-11-17T14:22:58.883974Z",
+"foreign_landing_url": "https://www.flickr.com/photos/15979571@N00/2606029292",
+"url": "https://live.staticflickr.com/3090/2606029292_0382e059a9_b.jpg",
+"creator": "RussBowling",
+"creator_url": "https://www.flickr.com/photos/15979571@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "mexico",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "puebla",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rb",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "russbowling",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "talavera",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "travel",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "art",
+"accuracy": 0.97589,
+"unstable__provider": "clarifai"
+},
+{
+"name": "arts and crafts",
+"accuracy": 0.9149,
+"unstable__provider": "clarifai"
+},
+{
+"name": "bazaar",
+"accuracy": 0.93837,
+"unstable__provider": "clarifai"
+},
+{
+"name": "craft",
+"accuracy": 0.93315,
+"unstable__provider": "clarifai"
+},
+{
+"name": "culture",
+"accuracy": 0.93352,
+"unstable__provider": "clarifai"
+},
+{
+"name": "decoration",
+"accuracy": 0.96014,
+"unstable__provider": "clarifai"
+},
+{
+"name": "design",
+"accuracy": 0.94207,
+"unstable__provider": "clarifai"
+},
+{
+"name": "handmade",
+"accuracy": 0.94813,
+"unstable__provider": "clarifai"
+},
+{
+"name": "market",
+"accuracy": 0.98445,
+"unstable__provider": "clarifai"
+},
+{
+"name": "ornate",
+"accuracy": 0.91862,
+"unstable__provider": "clarifai"
+},
+{
+"name": "pattern",
+"accuracy": 0.96791,
+"unstable__provider": "clarifai"
+},
+{
+"name": "pottery",
+"accuracy": 0.95468,
+"unstable__provider": "clarifai"
+},
+{
+"name": "religion",
+"accuracy": 0.91773,
+"unstable__provider": "clarifai"
+},
+{
+"name": "sale",
+"accuracy": 0.96245,
+"unstable__provider": "clarifai"
+},
+{
+"name": "souvenir",
+"accuracy": 0.99263,
+"unstable__provider": "clarifai"
+},
+{
+"name": "stock",
+"accuracy": 0.93968,
+"unstable__provider": "clarifai"
+},
+{
+"name": "traditional",
+"accuracy": 0.9513,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Talavera Pottery\" by RussBowling is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 687,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/eb4e9ef7-648e-4b8f-a21d-d68f3c56fa63/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/eb4e9ef7-648e-4b8f-a21d-d68f3c56fa63/",
+"related_url": "https://api.openverse.org/v1/images/eb4e9ef7-648e-4b8f-a21d-d68f3c56fa63/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "c7d21aea-8214-4160-857c-2eea66f8efb5",
+"title": "Pottery",
+"indexed_on": "2020-03-21T05:06:44.003197Z",
+"foreign_landing_url": "https://www.flickr.com/photos/37286454@N07/35901274736",
+"url": "https://live.staticflickr.com/4325/35901274736_7276a25f87_b.jpg",
+"creator": "sswj",
+"creator_url": "https://www.flickr.com/photos/37286454@N07",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "abstraction",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "abstractreality",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "availablelight",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "beautifullight",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "california",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "composition",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "dl4",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "existinglight",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "geometry",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "halfmoonbay",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "largepots",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "leica",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "middaylight",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mouth",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "naturallight",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "northerncalifornia",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "oval",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pots",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pottery",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sanmateocounty",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "scottjohnson",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "texture",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tone",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "viewfullscreen",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Pottery\" by sswj is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 563,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/c7d21aea-8214-4160-857c-2eea66f8efb5/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/c7d21aea-8214-4160-857c-2eea66f8efb5/",
+"related_url": "https://api.openverse.org/v1/images/c7d21aea-8214-4160-857c-2eea66f8efb5/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "682e2e25-18d0-4138-8c6a-e2d717e303b5",
+"title": "Mexican Pottery",
+"indexed_on": "2019-06-05T17:53:39.638024Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58582637@N00/424887662",
+"url": "https://live.staticflickr.com/185/424887662_c968ca6add.jpg",
+"creator": "blue_stopsign",
+"creator_url": "https://www.flickr.com/photos/58582637@N00",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "california",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "losangeles",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mexican",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nationalparkla",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "olvera",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pottery",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pueblo",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "street",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Mexican Pottery\" by blue_stopsign is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 375,
+"width": 500,
+"thumbnail": "https://api.openverse.org/v1/images/682e2e25-18d0-4138-8c6a-e2d717e303b5/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/682e2e25-18d0-4138-8c6a-e2d717e303b5/",
+"related_url": "https://api.openverse.org/v1/images/682e2e25-18d0-4138-8c6a-e2d717e303b5/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "b3f1b60c-7f02-4275-9d47-ce321a31b776",
+"title": "Mexican Pottery",
+"indexed_on": "2020-03-31T05:08:22.847911Z",
+"foreign_landing_url": "https://www.flickr.com/photos/37286454@N07/23079594586",
+"url": "https://live.staticflickr.com/609/23079594586_6f9a2b5e75_b.jpg",
+"creator": "sswj",
+"creator_url": "https://www.flickr.com/photos/37286454@N07",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "abstract",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "abstraction",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "abstractreality",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "artfulcpmpsition",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "artisticphotography",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "availablelight",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "brightcolors",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "brightlypainted",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "composing",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "composition",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "creativephotography",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "design",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "dl4",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "existinglight",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "handpainted",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "intensecolors",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "leica",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "makingfinephotos",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mexican",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mexicanpottery",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "naturallight",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "photographicart",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "photographiccreativity",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pottery",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "raw",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "scottjohnson",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Mexican Pottery\" by sswj is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 576,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/b3f1b60c-7f02-4275-9d47-ce321a31b776/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/b3f1b60c-7f02-4275-9d47-ce321a31b776/",
+"related_url": "https://api.openverse.org/v1/images/b3f1b60c-7f02-4275-9d47-ce321a31b776/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "e0eaeba8-b16f-4479-95f1-0ab0791cb663",
+"title": "Tajines in a pottery shop in Morocco",
+"indexed_on": "2020-05-14T08:21:22.317603Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=35889604",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Tajines_in_a_pottery_shop_in_Morocco.jpg",
+"creator": "Jafri Ali",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Eb0la",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia",
+"source": "wikimedia",
+"category": null,
+"filesize": 1478500,
+"filetype": "jpg",
+"tags": [],
+"attribution": "\"Tajines in a pottery shop in Morocco\" by Jafri Ali is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"height": 1368,
+"width": 2048,
+"thumbnail": "https://api.openverse.org/v1/images/e0eaeba8-b16f-4479-95f1-0ab0791cb663/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/e0eaeba8-b16f-4479-95f1-0ab0791cb663/",
+"related_url": "https://api.openverse.org/v1/images/e0eaeba8-b16f-4479-95f1-0ab0791cb663/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "33d68eb0-d361-4fdc-97ec-2093fc4fbb68",
+"title": "Attic Pottery in Fiesole \u2013 II",
+"indexed_on": "2023-03-10T16:28:13.434875Z",
+"foreign_landing_url": "https://www.flickr.com/photos/69716881@N02/51629451687",
+"url": "https://live.staticflickr.com/65535/51629451687_555126322d_b.jpg",
+"creator": "Egisto Sani",
+"creator_url": "https://www.flickr.com/photos/69716881@N02",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": "photograph",
+"filesize": null,
+"filetype": "jpg",
+"tags": [
+{
+"name": "archaeologicalmuseum",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "atticpottery",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ceramicaattica",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fiesole",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "figurerosse",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "firenze",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "florence",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "greekvases",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kylix",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "museoarcheologico",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "redfigure",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vasigreci",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Attic Pottery in Fiesole \u2013 II\" by Egisto Sani is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/33d68eb0-d361-4fdc-97ec-2093fc4fbb68/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/33d68eb0-d361-4fdc-97ec-2093fc4fbb68/",
+"related_url": "https://api.openverse.org/v1/images/33d68eb0-d361-4fdc-97ec-2093fc4fbb68/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "b747996f-38fd-4d8f-862c-d19c3aed1371",
+"title": "Roman pottery African Red Slip",
+"indexed_on": "2020-10-07T19:28:37.159927Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=11268129",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Roman_pottery_African_Red_Slip.jpg",
+"creator": "AgTigress",
+"creator_url": "https://commons.wikimedia.org/wiki/User:AgTigress",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia",
+"source": "wikimedia",
+"category": null,
+"filesize": 1306329,
+"filetype": "jpg",
+"tags": [],
+"attribution": "\"Roman pottery African Red Slip\" by AgTigress is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"height": 1201,
+"width": 1253,
+"thumbnail": "https://api.openverse.org/v1/images/b747996f-38fd-4d8f-862c-d19c3aed1371/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/b747996f-38fd-4d8f-862c-d19c3aed1371/",
+"related_url": "https://api.openverse.org/v1/images/b747996f-38fd-4d8f-862c-d19c3aed1371/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "dafec2fc-ef9b-446b-b200-6324a455d408",
+"title": "letters to friends",
+"indexed_on": "2019-01-30T18:56:14.126448Z",
+"foreign_landing_url": "https://www.flickr.com/photos/54552940@N00/305309204",
+"url": "https://live.staticflickr.com/106/305309204_7d82d69004_b.jpg",
+"creator": "peyri",
+"creator_url": "https://www.flickr.com/photos/54552940@N00",
+"license": "by-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "goodmailday",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "handwriting",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "letter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lettering",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "snailmail",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stationery",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"letters to friends\" by peyri is licensed under CC BY-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 613,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/dafec2fc-ef9b-446b-b200-6324a455d408/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/dafec2fc-ef9b-446b-b200-6324a455d408/",
+"related_url": "https://api.openverse.org/v1/images/dafec2fc-ef9b-446b-b200-6324a455d408/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "5ee46e68-3312-4627-a5a3-b39fa94314a4",
+"title": "Letters to Aussie MPs - No Clean Feed Please",
+"indexed_on": "2020-04-29T06:24:24.962794Z",
+"foreign_landing_url": "https://www.flickr.com/photos/94814114@N00/2967554597",
+"url": "https://live.staticflickr.com/3245/2967554597_90d765eb7b_b.jpg",
+"creator": "kattekrab",
+"creator_url": "https://www.flickr.com/photos/94814114@N00",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "letters",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nocleanfeed",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Letters to Aussie MPs - No Clean Feed Please.\" by kattekrab is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 685,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/5ee46e68-3312-4627-a5a3-b39fa94314a4/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/5ee46e68-3312-4627-a5a3-b39fa94314a4/",
+"related_url": "https://api.openverse.org/v1/images/5ee46e68-3312-4627-a5a3-b39fa94314a4/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "42d514cd-fa70-4564-9dbe-40b47a9ddf2c",
+"title": "Letters",
+"indexed_on": "2018-12-21T12:34:40.573425Z",
+"foreign_landing_url": "https://www.flickr.com/photos/18091121@N00/5708753833",
+"url": "https://live.staticflickr.com/3285/5708753833_640180653d_b.jpg",
+"creator": "Digitalnative",
+"creator_url": "https://www.flickr.com/photos/18091121@N00",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "alphabet",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kindergarten",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "letters",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Letters\" by Digitalnative is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 768,
+"thumbnail": "https://api.openverse.org/v1/images/42d514cd-fa70-4564-9dbe-40b47a9ddf2c/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/42d514cd-fa70-4564-9dbe-40b47a9ddf2c/",
+"related_url": "https://api.openverse.org/v1/images/42d514cd-fa70-4564-9dbe-40b47a9ddf2c/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "4dc21679-7477-45be-a505-3b3b611f0ba4",
+"title": "letter",
+"indexed_on": "2020-04-28T13:52:25.717421Z",
+"foreign_landing_url": "https://www.flickr.com/photos/41894194320@N01/2699181969",
+"url": "https://live.staticflickr.com/3030/2699181969_a661604801.jpg",
+"creator": "Katey Nicosia",
+"creator_url": "https://www.flickr.com/photos/41894194320@N01",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "handwrittem",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "letter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "scribbles",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"letter\" by Katey Nicosia is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 500,
+"width": 322,
+"thumbnail": "https://api.openverse.org/v1/images/4dc21679-7477-45be-a505-3b3b611f0ba4/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/4dc21679-7477-45be-a505-3b3b611f0ba4/",
+"related_url": "https://api.openverse.org/v1/images/4dc21679-7477-45be-a505-3b3b611f0ba4/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "839c96f5-b6d5-412c-a0af-11a60182fa25",
+"title": "Lettering",
+"indexed_on": "2020-04-25T08:45:26.934466Z",
+"foreign_landing_url": "https://www.flickr.com/photos/30799144@N00/3835448131",
+"url": "https://live.staticflickr.com/2545/3835448131_3b6c75dc6f_b.jpg",
+"creator": "phot0matt",
+"creator_url": "https://www.flickr.com/photos/30799144@N00",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "letters",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "records",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vinyl",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Lettering\" by phot0matt is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 681,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/839c96f5-b6d5-412c-a0af-11a60182fa25/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/839c96f5-b6d5-412c-a0af-11a60182fa25/",
+"related_url": "https://api.openverse.org/v1/images/839c96f5-b6d5-412c-a0af-11a60182fa25/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "0aa12809-ee8e-4f48-8a5e-25516a40daea",
+"title": "The letter E",
+"indexed_on": "2020-04-23T19:06:30.980401Z",
+"foreign_landing_url": "https://www.flickr.com/photos/34276921@N03/3190576002",
+"url": "https://live.staticflickr.com/3375/3190576002_d01eac39f5_b.jpg",
+"creator": "isconniethere",
+"creator_url": "https://www.flickr.com/photos/34276921@N03",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "alphabet",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "alphabetdiva",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "black",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "digital",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "diva",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "e",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "letter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lettere",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "letters",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "musical",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "photo",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "photos",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "white",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "machinery",
+"accuracy": 0.90137,
+"unstable__provider": "clarifai"
+},
+{
+"name": "technology",
+"accuracy": 0.92558,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"The letter E\" by isconniethere is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 685,
+"thumbnail": "https://api.openverse.org/v1/images/0aa12809-ee8e-4f48-8a5e-25516a40daea/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/0aa12809-ee8e-4f48-8a5e-25516a40daea/",
+"related_url": "https://api.openverse.org/v1/images/0aa12809-ee8e-4f48-8a5e-25516a40daea/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "ec1dfb2a-9c01-4795-b5c5-a01bea98bd5f",
+"title": "A letter of explanation",
+"indexed_on": "2020-05-05T14:18:21.016811Z",
+"foreign_landing_url": "https://www.flickr.com/photos/57054262@N00/99779066",
+"url": "https://live.staticflickr.com/39/99779066_08ff885db0_b.jpg",
+"creator": "~Aphrodite",
+"creator_url": "https://www.flickr.com/photos/57054262@N00",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "expression",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "letter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pen",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"A letter of explanation\" by ~Aphrodite is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1004,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/ec1dfb2a-9c01-4795-b5c5-a01bea98bd5f/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/ec1dfb2a-9c01-4795-b5c5-a01bea98bd5f/",
+"related_url": "https://api.openverse.org/v1/images/ec1dfb2a-9c01-4795-b5c5-a01bea98bd5f/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "e69c38e8-5f42-4b07-bd14-ce4824ef8f42",
+"title": "Letter",
+"indexed_on": "2020-04-27T11:59:32.066394Z",
+"foreign_landing_url": "https://www.flickr.com/photos/37996592430@N01/2245352674",
+"url": "https://live.staticflickr.com/2281/2245352674_1d9881f327_b.jpg",
+"creator": "dansays",
+"creator_url": "https://www.flickr.com/photos/37996592430@N01",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "apple",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "appleiic",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "letter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stevejobs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vintage",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Letter\" by dansays is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 708,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/e69c38e8-5f42-4b07-bd14-ce4824ef8f42/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/e69c38e8-5f42-4b07-bd14-ce4824ef8f42/",
+"related_url": "https://api.openverse.org/v1/images/e69c38e8-5f42-4b07-bd14-ce4824ef8f42/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "a44fc9a4-4baa-43d3-84ca-1b72c4582b73",
+"title": "Letter mosaic mosaic",
+"indexed_on": "2020-05-03T06:20:30.770899Z",
+"foreign_landing_url": "https://www.flickr.com/photos/50318388@N00/1088024844",
+"url": "https://live.staticflickr.com/1265/1088024844_e730aa26c8_b.jpg",
+"creator": "mag3737",
+"creator_url": "https://www.flickr.com/photos/50318388@N00",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "fdsflickrtoys",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lettermosaicmosaic",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "letters",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mosaic",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mosaicmosaic",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Letter mosaic mosaic\" by mag3737 is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/a44fc9a4-4baa-43d3-84ca-1b72c4582b73/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/a44fc9a4-4baa-43d3-84ca-1b72c4582b73/",
+"related_url": "https://api.openverse.org/v1/images/a44fc9a4-4baa-43d3-84ca-1b72c4582b73/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "61fc47b8-a1ab-46db-aa9b-18afdeb8f682",
+"title": "Roman Lowercase Letters (for 24\u2033 widescreen displays)",
+"indexed_on": "2020-04-24T20:56:32.917624Z",
+"foreign_landing_url": "https://www.flickr.com/photos/37049314@N02/3642083994",
+"url": "https://live.staticflickr.com/2480/3642083994_562a100f72_b.jpg",
+"creator": "arnoKath",
+"creator_url": "https://www.flickr.com/photos/37049314@N02",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "design",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "font",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fontsinuseromansketch",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lettering",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "letters",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lowercase",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "roman",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tipografia",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "type",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "typeface",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "typo",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "typografie",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "typographie",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "typography",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wallpaper",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Roman Lowercase Letters (for 24\u2033 widescreen displays)\" by arnoKath is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 640,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/61fc47b8-a1ab-46db-aa9b-18afdeb8f682/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/61fc47b8-a1ab-46db-aa9b-18afdeb8f682/",
+"related_url": "https://api.openverse.org/v1/images/61fc47b8-a1ab-46db-aa9b-18afdeb8f682/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "0fe2e2d5-f325-48a3-a951-a7a39e1d4138",
+"title": "A scarlet letter - Explored!",
+"indexed_on": "2020-05-05T15:48:24.638015Z",
+"foreign_landing_url": "https://www.flickr.com/photos/60139144@N00/112660442",
+"url": "https://live.staticflickr.com/36/112660442_191785650a_b.jpg",
+"creator": "Monceau",
+"creator_url": "https://www.flickr.com/photos/60139144@N00",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "aa",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "explored",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "letter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "scarletletter",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"A scarlet letter - Explored!\" by Monceau is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 1014,
+"thumbnail": "https://api.openverse.org/v1/images/0fe2e2d5-f325-48a3-a951-a7a39e1d4138/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/0fe2e2d5-f325-48a3-a951-a7a39e1d4138/",
+"related_url": "https://api.openverse.org/v1/images/0fe2e2d5-f325-48a3-a951-a7a39e1d4138/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "c3873f13-244c-47f7-b221-351521fea5e7",
+"title": "Letters I've written never meaning to send",
+"indexed_on": "2018-11-08T17:31:32.467511Z",
+"foreign_landing_url": "https://www.flickr.com/photos/33363480@N05/6122139098",
+"url": "https://live.staticflickr.com/6206/6122139098_7cc4ab748c_b.jpg",
+"creator": "Nick Kenrick..",
+"creator_url": "https://www.flickr.com/photos/33363480@N05",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "cornflower",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "flowers",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "letter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "motat",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tatot",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "zedzap",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Letters I've written never meaning to send\" by Nick Kenrick.. is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/c3873f13-244c-47f7-b221-351521fea5e7/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/c3873f13-244c-47f7-b221-351521fea5e7/",
+"related_url": "https://api.openverse.org/v1/images/c3873f13-244c-47f7-b221-351521fea5e7/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "a5b5d26e-9fb7-4653-b578-8ebd6767dcb6",
+"title": "C'\u0425 posta per te - A letter for you",
+"indexed_on": "2018-11-08T17:31:32.467511Z",
+"foreign_landing_url": "https://www.flickr.com/photos/26876910@N08/6283173772",
+"url": "https://live.staticflickr.com/6038/6283173772_4e73c39c5a_b.jpg",
+"creator": "RaSeLaSeD - Il Pinguino",
+"creator_url": "https://www.flickr.com/photos/26876910@N08",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "civitellaroveto",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "letter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lettera",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "message",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "post",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "posta",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"C'\u00e8 posta per te - A letter for you\" by RaSeLaSeD - Il Pinguino is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 785,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/a5b5d26e-9fb7-4653-b578-8ebd6767dcb6/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/a5b5d26e-9fb7-4653-b578-8ebd6767dcb6/",
+"related_url": "https://api.openverse.org/v1/images/a5b5d26e-9fb7-4653-b578-8ebd6767dcb6/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "b1f95ba6-b99d-4e28-b3a6-35bba34b8e59",
+"title": "Letters with tilt shift",
+"indexed_on": "2020-04-23T19:06:30.980401Z",
+"foreign_landing_url": "https://www.flickr.com/photos/7272154@N05/3189189213",
+"url": "https://live.staticflickr.com/3411/3189189213_9dbfa24d96.jpg",
+"creator": "mbgrigby",
+"creator_url": "https://www.flickr.com/photos/7272154@N05",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "letters",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "littlecomptonrhodeisland",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mailboxes",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "oneofthemostbeautifulplacesintheworld",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sakonnetpoint",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tiltshift",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Letters with tilt shift\" by mbgrigby is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 456,
+"width": 500,
+"thumbnail": "https://api.openverse.org/v1/images/b1f95ba6-b99d-4e28-b3a6-35bba34b8e59/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/b1f95ba6-b99d-4e28-b3a6-35bba34b8e59/",
+"related_url": "https://api.openverse.org/v1/images/b1f95ba6-b99d-4e28-b3a6-35bba34b8e59/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "b3d6a79a-c43a-49ef-b33c-31220a19d6e0",
+"title": "Typewriter Letters",
+"indexed_on": "2020-05-05T23:37:24.369719Z",
+"foreign_landing_url": "https://www.flickr.com/photos/76283671@N00/184612848",
+"url": "https://live.staticflickr.com/52/184612848_ae5e301f7e_b.jpg",
+"creator": "Laineys Repertoire",
+"creator_url": "https://www.flickr.com/photos/76283671@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "letters",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "business",
+"accuracy": 0.95187,
+"unstable__provider": "clarifai"
+},
+{
+"name": "dial in",
+"accuracy": 0.90934,
+"unstable__provider": "clarifai"
+},
+{
+"name": "number",
+"accuracy": 0.96779,
+"unstable__provider": "clarifai"
+},
+{
+"name": "symbol",
+"accuracy": 0.92452,
+"unstable__provider": "clarifai"
+},
+{
+"name": "telephone",
+"accuracy": 0.93129,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Typewriter Letters\" by Laineys Repertoire is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/b3d6a79a-c43a-49ef-b33c-31220a19d6e0/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/b3d6a79a-c43a-49ef-b33c-31220a19d6e0/",
+"related_url": "https://api.openverse.org/v1/images/b3d6a79a-c43a-49ef-b33c-31220a19d6e0/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "ab779122-c1e5-44d9-839a-e29c82683c54",
+"title": "Disney Rejection Letter, 1938",
+"indexed_on": "2020-05-02T23:41:29.767961Z",
+"foreign_landing_url": "https://www.flickr.com/photos/99163043@N00/632255233",
+"url": "https://live.staticflickr.com/1129/632255233_23bbb1cb91_b.jpg",
+"creator": "sim sandwich",
+"creator_url": "https://www.flickr.com/photos/99163043@N00",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "animator",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "disney",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "letter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rejection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "people",
+"accuracy": 0.94534,
+"unstable__provider": "clarifai"
+},
+{
+"name": "retro",
+"accuracy": 0.90452,
+"unstable__provider": "clarifai"
+},
+{
+"name": "text",
+"accuracy": 0.95221,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Disney Rejection Letter, 1938\" by sim sandwich is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 791,
+"thumbnail": "https://api.openverse.org/v1/images/ab779122-c1e5-44d9-839a-e29c82683c54/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/ab779122-c1e5-44d9-839a-e29c82683c54/",
+"related_url": "https://api.openverse.org/v1/images/ab779122-c1e5-44d9-839a-e29c82683c54/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "e90f44c8-05c9-4fe4-bd3a-c9c900d29f39",
+"title": "Letter collage",
+"indexed_on": "2020-04-24T23:37:29.538044Z",
+"foreign_landing_url": "https://www.flickr.com/photos/38176485@N08/3686445489",
+"url": "https://live.staticflickr.com/2612/3686445489_0919c6dfb2_b.jpg",
+"creator": "~Bob~West~",
+"creator_url": "https://www.flickr.com/photos/38176485@N08",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "alphabet",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "canon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "collage",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "denmark",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "g10",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "letter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "norway",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Letter collage\" by ~Bob~West~ is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 853,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/e90f44c8-05c9-4fe4-bd3a-c9c900d29f39/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/e90f44c8-05c9-4fe4-bd3a-c9c900d29f39/",
+"related_url": "https://api.openverse.org/v1/images/e90f44c8-05c9-4fe4-bd3a-c9c900d29f39/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "d3c222a7-63e7-495d-8f92-bd6b20a4b0fb",
+"title": "Child's letter to a friend",
+"indexed_on": "2016-11-17T04:55:40.459984Z",
+"foreign_landing_url": "https://www.flickr.com/photos/22658750@N02/4640371219",
+"url": "https://live.staticflickr.com/4021/4640371219_719c562ba5.jpg",
+"creator": "melanie_hughes",
+"creator_url": "https://www.flickr.com/photos/22658750@N02",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "child",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "letter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "penpal",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "writing",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "desktop",
+"accuracy": 0.94082,
+"unstable__provider": "clarifai"
+},
+{
+"name": "diary",
+"accuracy": 0.9082,
+"unstable__provider": "clarifai"
+},
+{
+"name": "monthly",
+"accuracy": 0.92442,
+"unstable__provider": "clarifai"
+},
+{
+"name": "text",
+"accuracy": 0.94655,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Child's letter to a friend\" by melanie_hughes is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 500,
+"width": 355,
+"thumbnail": "https://api.openverse.org/v1/images/d3c222a7-63e7-495d-8f92-bd6b20a4b0fb/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/d3c222a7-63e7-495d-8f92-bd6b20a4b0fb/",
+"related_url": "https://api.openverse.org/v1/images/d3c222a7-63e7-495d-8f92-bd6b20a4b0fb/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "f0c62f61-d127-4cee-8ff4-860bf6167b86",
+"title": "* Letter 2 *",
+"indexed_on": "2020-04-28T13:12:30.542209Z",
+"foreign_landing_url": "https://www.flickr.com/photos/8078381@N03/2683864843",
+"url": "https://live.staticflickr.com/3238/2683864843_9f60e27d68_b.jpg",
+"creator": "pareeerica",
+"creator_url": "https://www.flickr.com/photos/8078381@N03",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "creativecommons",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "letter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "paper",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "t4lagree",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "texture",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "textures",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"* Letter 2 *\" by pareeerica is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 818,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/f0c62f61-d127-4cee-8ff4-860bf6167b86/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/f0c62f61-d127-4cee-8ff4-860bf6167b86/",
+"related_url": "https://api.openverse.org/v1/images/f0c62f61-d127-4cee-8ff4-860bf6167b86/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "33e1332f-fd77-41c9-9f8b-e2e195d16fb1",
+"title": "Letters in the Round",
+"indexed_on": "2018-12-20T18:53:39.954299Z",
+"foreign_landing_url": "https://www.flickr.com/photos/50065510@N07/6870752363",
+"url": "https://live.staticflickr.com/7205/6870752363_ff707ff42b_b.jpg",
+"creator": "denisedaysmith",
+"creator_url": "https://www.flickr.com/photos/50065510@N07",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "alpha",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "artjournal",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "color",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lettering",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "letterlove",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "write",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Letters in the Round\" by denisedaysmith is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 768,
+"thumbnail": "https://api.openverse.org/v1/images/33e1332f-fd77-41c9-9f8b-e2e195d16fb1/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/33e1332f-fd77-41c9-9f8b-e2e195d16fb1/",
+"related_url": "https://api.openverse.org/v1/images/33e1332f-fd77-41c9-9f8b-e2e195d16fb1/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "0a2734f7-6038-4d54-9c8d-84eccb267deb",
+"title": "My almanac October 2009",
+"indexed_on": "2020-04-25T18:36:27.321105Z",
+"foreign_landing_url": "https://www.flickr.com/photos/40036489@N00/4013357893",
+"url": "https://live.staticflickr.com/3508/4013357893_f9c7a5bc76_b.jpg",
+"creator": "eagle1effi",
+"creator_url": "https://www.flickr.com/photos/40036489@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "ae1fave",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "almanac",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "almanach",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "art",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "artistic",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "attributioncreativecommons",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "attributionnoncommercialnoderivativeworks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "attributionnoncommercialnoderivs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "attributionnoncommercialnoderivscreativecommons",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bestof",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calendar",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calendario",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calender",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calendrier",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cclizenz",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cclizenzen",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "closeup",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "creativecommons",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "damncool",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "dandelion",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "dentdelion",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "digitalretouched",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "downloadable",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "eagle1effi",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "edition",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "effiart",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "effiarteagle1effi",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "effiartkunstcopyrightartisteagle1effi",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "effinger",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "erwin",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fairuse",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fdsflickrtoys",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "flickr",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "foliage",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kalender",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "keinebearbeitung",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "keinekommerziellenutzung",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kunst",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lu00f6wenzahn",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "macro",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "namensnennung",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "namensnennungnichtkommerziellkeinebearbeitung",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "naturemasterclass",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nichtkommerziellenutzung",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "openaccess",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ppc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pusteblume",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "silver",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "taraxacum",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u201ermu201cu201erightsmanagedu201cu201elizenzpflichtigu201c",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "yourbestoftoday",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "zumherunterladen",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bright",
+"accuracy": 0.94942,
+"unstable__provider": "clarifai"
+},
+{
+"name": "fireworks",
+"accuracy": 0.90921,
+"unstable__provider": "clarifai"
+},
+{
+"name": "nature",
+"accuracy": 0.94273,
+"unstable__provider": "clarifai"
+},
+{
+"name": "summer",
+"accuracy": 0.92997,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"My almanac October 2009\" by eagle1effi is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 819,
+"thumbnail": "https://api.openverse.org/v1/images/0a2734f7-6038-4d54-9c8d-84eccb267deb/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/0a2734f7-6038-4d54-9c8d-84eccb267deb/",
+"related_url": "https://api.openverse.org/v1/images/0a2734f7-6038-4d54-9c8d-84eccb267deb/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "67da8dca-44c2-4488-876e-71828cb9d068",
+"title": "January 2015 - Kalender, Calender, Calendar, Kalender, almanac, calendario, calendrier",
+"indexed_on": "2020-03-27T17:16:21.495225Z",
+"foreign_landing_url": "https://www.flickr.com/photos/40036489@N00/15660612934",
+"url": "https://live.staticflickr.com/7487/15660612934_4494807f3a_b.jpg",
+"creator": "eagle1effi",
+"creator_url": "https://www.flickr.com/photos/40036489@N00",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "2015",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "60",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "almanac",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "art",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "attributionnoncommercialnoderivscreativecommons",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "beste",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bridge",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bridgecamera",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calendar",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calendario",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calender",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calendrier",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "camera",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "canon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "canonpowershotsx60",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "canonpowershotsx60hs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "canonsx60",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "canonsx60hs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "caonon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cclizenz",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cclizenzen",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "damncool",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "digitalretouched",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "eagle1effi",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "effiart",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "effiart2015",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "effinger",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "erwin",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fdsflickrtoys",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "januar",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "january",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kalender",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "photo",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "photograph",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "photography",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "photos",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "powershot",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "powershotsx60",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ppc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sx",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sx60",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sx60best",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sx60hs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tu00fcbingen",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tu00fcbingenamneckar",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tubinga",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tubingen",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tubingue",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tuebingen",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"January 2015 - Kalender, Calender, Calendar, Kalender, almanac, calendario, calendrier\" by eagle1effi is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 774,
+"thumbnail": "https://api.openverse.org/v1/images/67da8dca-44c2-4488-876e-71828cb9d068/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/67da8dca-44c2-4488-876e-71828cb9d068/",
+"related_url": "https://api.openverse.org/v1/images/67da8dca-44c2-4488-876e-71828cb9d068/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "c2751717-145c-470e-a145-1387ad8bdea2",
+"title": "August 2009 almanac Calendar Kalender",
+"indexed_on": "2016-11-17T19:16:51.508275Z",
+"foreign_landing_url": "https://www.flickr.com/photos/40036489@N00/3788387872",
+"url": "https://live.staticflickr.com/2591/3788387872_6f371b8918_b.jpg",
+"creator": "eagle1effi",
+"creator_url": "https://www.flickr.com/photos/40036489@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "2009",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ae1fave",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "almanac",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "art",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "artistic",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "attribution",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "attributionnoncommercialnoderivativeworks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "attributionnoncommercialnoderivs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "attributionnoncommercialnoderivscreativecommons",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "august",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "auswahl",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "beste",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bestof",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calendar",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calendario",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calender",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calendrier",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cclizenz",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cclizenzen",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "commons",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "creative",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "creativecommons",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "damncool",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "digitalretouched",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "dmcfx10",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "downloadable",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "eagle1effi",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "edition",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "effiart",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "effiarteagle1effi",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "effiartkunstcopyrightartisteagle1effi",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "effinger",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "erwin",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fairuse",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "favoriten",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fdsflickrtoys",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "flickr",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fotos",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kalender",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "keinebearbeitung",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "keinekommerziellenutzung",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kunst",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lieblingsbilder",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lumix",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "namensnennung",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "namensnennungnichtkommerziellkeinebearbeitung",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nichtkommerziellenutzung",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "openaccess",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "photos",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ppc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "selection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "selektion",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tagesbeste",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u201ermu201cu201erightsmanagedu201cu201elizenzpflichtigu201c",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "yourbestoftoday",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "zumherunterladen",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "adult",
+"accuracy": 0.9744,
+"unstable__provider": "clarifai"
+},
+{
+"name": "bar",
+"accuracy": 0.96036,
+"unstable__provider": "clarifai"
+},
+{
+"name": "city",
+"accuracy": 0.94203,
+"unstable__provider": "clarifai"
+},
+{
+"name": "horizontal",
+"accuracy": 0.95788,
+"unstable__provider": "clarifai"
+},
+{
+"name": "indoors",
+"accuracy": 0.94606,
+"unstable__provider": "clarifai"
+},
+{
+"name": "man",
+"accuracy": 0.93812,
+"unstable__provider": "clarifai"
+},
+{
+"name": "people",
+"accuracy": 0.99002,
+"unstable__provider": "clarifai"
+},
+{
+"name": "restaurant",
+"accuracy": 0.94622,
+"unstable__provider": "clarifai"
+},
+{
+"name": "sit",
+"accuracy": 0.9136,
+"unstable__provider": "clarifai"
+},
+{
+"name": "street",
+"accuracy": 0.91147,
+"unstable__provider": "clarifai"
+},
+{
+"name": "woman",
+"accuracy": 0.97256,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"August 2009 almanac Calendar Kalender\" by eagle1effi is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/c2751717-145c-470e-a145-1387ad8bdea2/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/c2751717-145c-470e-a145-1387ad8bdea2/",
+"related_url": "https://api.openverse.org/v1/images/c2751717-145c-470e-a145-1387ad8bdea2/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "18919f6d-908f-49c9-8c59-f4f55908e446",
+"title": "San Diego Comic-Con 2011 - Back to the Future II Grays Sports Almanac and Oh LaLa Magazine (Profiles in History booth)",
+"indexed_on": "2016-11-17T01:47:59.654708Z",
+"foreign_landing_url": "https://www.flickr.com/photos/26728047@N05/6039240375",
+"url": "https://live.staticflickr.com/6076/6039240375_0a6244225f_b.jpg",
+"creator": "Doug Kline",
+"creator_url": "https://www.flickr.com/photos/26728047@N05",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": 252768,
+"filetype": null,
+"tags": [
+{
+"name": "2",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "2011",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "almanac",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "auction",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "backtothefuture",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "biff",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "booth",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "comic",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "comiccon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "convention",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "grays",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ii",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "magazine",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ohlala",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "profilesinhistory",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "props",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sandiego",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sdcc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sports",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "business",
+"accuracy": 0.97737,
+"unstable__provider": "clarifai"
+},
+{
+"name": "indoors",
+"accuracy": 0.92904,
+"unstable__provider": "clarifai"
+},
+{
+"name": "money",
+"accuracy": 0.93844,
+"unstable__provider": "clarifai"
+},
+{
+"name": "paper",
+"accuracy": 0.93117,
+"unstable__provider": "clarifai"
+},
+{
+"name": "technology",
+"accuracy": 0.94527,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"San Diego Comic-Con 2011 - Back to the Future II Grays Sports Almanac and Oh LaLa Magazine (Profiles in History booth)\" by Doug Kline is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/18919f6d-908f-49c9-8c59-f4f55908e446/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/18919f6d-908f-49c9-8c59-f4f55908e446/",
+"related_url": "https://api.openverse.org/v1/images/18919f6d-908f-49c9-8c59-f4f55908e446/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "0e35f209-8379-4c65-9431-eb0575074d8b",
+"title": "February 2015 - Kalender, Calender, Calendar, Kalender, almanac, calendario, calendrier. Calendrier du f\u619drier 2015",
+"indexed_on": "2020-03-27T20:12:28.028524Z",
+"foreign_landing_url": "https://www.flickr.com/photos/40036489@N00/16198895619",
+"url": "https://live.staticflickr.com/8571/16198895619_21a7c35eab_b.jpg",
+"creator": "eagle1effi",
+"creator_url": "https://www.flickr.com/photos/40036489@N00",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "2015",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "almanac",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "attribution",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calendar",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calendario",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calender",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calendrier",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fdsflickrtoys",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "februar",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "february",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kalender",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "noderivativeworks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "noncommercial",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"February 2015 - Kalender, Calender, Calendar, Kalender, almanac, calendario, calendrier. Calendrier du f\u00e9vrier 2015.\" by eagle1effi is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 791,
+"thumbnail": "https://api.openverse.org/v1/images/0e35f209-8379-4c65-9431-eb0575074d8b/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/0e35f209-8379-4c65-9431-eb0575074d8b/",
+"related_url": "https://api.openverse.org/v1/images/0e35f209-8379-4c65-9431-eb0575074d8b/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "7e31cf75-5c28-4a55-91a6-08fbd03b8941",
+"title": "Boston almanacs",
+"indexed_on": "2016-11-16T22:30:16.316500Z",
+"foreign_landing_url": "https://www.flickr.com/photos/53133240@N00/95306135",
+"url": "https://live.staticflickr.com/42/95306135_8a8da4ea3d_b.jpg",
+"creator": "Muffet",
+"creator_url": "https://www.flickr.com/photos/53133240@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": 2178501,
+"filetype": null,
+"tags": [
+{
+"name": "almanac",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "antiquebooks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "boston",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "administration",
+"accuracy": 0.90845,
+"unstable__provider": "clarifai"
+},
+{
+"name": "book",
+"accuracy": 0.94516,
+"unstable__provider": "clarifai"
+},
+{
+"name": "book bindings",
+"accuracy": 0.92006,
+"unstable__provider": "clarifai"
+},
+{
+"name": "book series",
+"accuracy": 0.9255,
+"unstable__provider": "clarifai"
+},
+{
+"name": "business",
+"accuracy": 0.95261,
+"unstable__provider": "clarifai"
+},
+{
+"name": "currency",
+"accuracy": 0.92023,
+"unstable__provider": "clarifai"
+},
+{
+"name": "document",
+"accuracy": 0.92974,
+"unstable__provider": "clarifai"
+},
+{
+"name": "education",
+"accuracy": 0.90318,
+"unstable__provider": "clarifai"
+},
+{
+"name": "literature",
+"accuracy": 0.90889,
+"unstable__provider": "clarifai"
+},
+{
+"name": "money",
+"accuracy": 0.94257,
+"unstable__provider": "clarifai"
+},
+{
+"name": "paper",
+"accuracy": 0.96072,
+"unstable__provider": "clarifai"
+},
+{
+"name": "print",
+"accuracy": 0.90387,
+"unstable__provider": "clarifai"
+},
+{
+"name": "religion",
+"accuracy": 0.91803,
+"unstable__provider": "clarifai"
+},
+{
+"name": "scripture",
+"accuracy": 0.9172,
+"unstable__provider": "clarifai"
+},
+{
+"name": "text",
+"accuracy": 0.95069,
+"unstable__provider": "clarifai"
+},
+{
+"name": "wealth",
+"accuracy": 0.91761,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Boston almanacs\" by Muffet is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 743,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/7e31cf75-5c28-4a55-91a6-08fbd03b8941/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/7e31cf75-5c28-4a55-91a6-08fbd03b8941/",
+"related_url": "https://api.openverse.org/v1/images/7e31cf75-5c28-4a55-91a6-08fbd03b8941/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "4334c4e9-2da2-479c-bef3-858718cdffae",
+"title": "Announcing the Release of Texas Public Higher Education Almanac",
+"indexed_on": "2020-04-16T05:37:29.296590Z",
+"foreign_landing_url": "https://www.flickr.com/photos/57305064@N03/5619819370",
+"url": "https://live.staticflickr.com/5102/5619819370_63d728f035_b.jpg",
+"creator": "Texas Governor Rick Perry",
+"creator_url": "https://www.flickr.com/photos/57305064@N03",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "82ndlegislature",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "austin",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "chairman",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "college",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "commissioner",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "danbranch",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "education",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fredwheldenfels",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "governor",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "highereducation",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "house",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pressconference",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "qualityoflife",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "raymundparedes",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "representative",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rickperry",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "senate",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "texas",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "texashighereducationcoordinatingboardthecb",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "texaspublichighereducationalmanac",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "texasstatecapitol",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "transparency",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tx",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Announcing the Release of Texas Public Higher Education Almanac\" by Texas Governor Rick Perry is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"height": 683,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/4334c4e9-2da2-479c-bef3-858718cdffae/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/4334c4e9-2da2-479c-bef3-858718cdffae/",
+"related_url": "https://api.openverse.org/v1/images/4334c4e9-2da2-479c-bef3-858718cdffae/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "f32721c6-44e9-4fa5-853d-1b1c270ee379",
+"title": "Almanac's ICHIbier. Brewed with sushi rice, shiso and yuzu",
+"indexed_on": "2020-04-03T06:12:30.390380Z",
+"foreign_landing_url": "https://www.flickr.com/photos/44124434485@N01/13369545654",
+"url": "https://live.staticflickr.com/7355/13369545654_16deb45e58.jpg",
+"creator": "Nicole Lee",
+"creator_url": "https://www.flickr.com/photos/44124434485@N01",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "ifttt",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "instagram",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Almanac's ICHIbier. Brewed with sushi rice, shiso and yuzu.\" by Nicole Lee is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"height": 500,
+"width": 500,
+"thumbnail": "https://api.openverse.org/v1/images/f32721c6-44e9-4fa5-853d-1b1c270ee379/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/f32721c6-44e9-4fa5-853d-1b1c270ee379/",
+"related_url": "https://api.openverse.org/v1/images/f32721c6-44e9-4fa5-853d-1b1c270ee379/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "7e4e9a31-a1a4-4619-a1f7-98fbd63277cb",
+"title": "Farmer's Almanac 1946",
+"indexed_on": "2020-04-07T06:01:30.617165Z",
+"foreign_landing_url": "https://www.flickr.com/photos/22970579@N06/8566188615",
+"url": "https://live.staticflickr.com/8392/8566188615_6fbb7c57cd_b.jpg",
+"creator": "one woman's hands",
+"creator_url": "https://www.flickr.com/photos/22970579@N06",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "almanac",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vintage",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Farmer's Almanac 1946\" by one woman's hands is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 612,
+"thumbnail": "https://api.openverse.org/v1/images/7e4e9a31-a1a4-4619-a1f7-98fbd63277cb/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/7e4e9a31-a1a4-4619-a1f7-98fbd63277cb/",
+"related_url": "https://api.openverse.org/v1/images/7e4e9a31-a1a4-4619-a1f7-98fbd63277cb/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "d20d729d-573b-4b9f-8ed0-6f93a0eebc96",
+"title": "Farmer's Almanac 1946",
+"indexed_on": "2020-04-07T06:01:30.617165Z",
+"foreign_landing_url": "https://www.flickr.com/photos/22970579@N06/8567284490",
+"url": "https://live.staticflickr.com/8531/8567284490_5749a787fc_b.jpg",
+"creator": "one woman's hands",
+"creator_url": "https://www.flickr.com/photos/22970579@N06",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "almanac",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vintage",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Farmer's Almanac 1946\" by one woman's hands is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 628,
+"thumbnail": "https://api.openverse.org/v1/images/d20d729d-573b-4b9f-8ed0-6f93a0eebc96/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/d20d729d-573b-4b9f-8ed0-6f93a0eebc96/",
+"related_url": "https://api.openverse.org/v1/images/d20d729d-573b-4b9f-8ed0-6f93a0eebc96/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "4121612a-6e75-455f-bdd2-1e3129894b83",
+"title": "anniversary almanac in memorial of Ivan Kotlyarevsky",
+"indexed_on": "2018-12-20T18:53:39.954299Z",
+"foreign_landing_url": "https://www.flickr.com/photos/75962440@N06/6967367581",
+"url": "https://live.staticflickr.com/7190/6967367581_805b7c01da_b.jpg",
+"creator": "felixum8888",
+"creator_url": "https://www.flickr.com/photos/75962440@N06",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "1700s",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1800s",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1900",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1900s",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1900ssovietukrainianbookgraphics",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "19th",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "abc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "adc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "almanac",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bookdesign",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cover",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "earlyprinting",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "engravings",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "firstperiodicals",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "graphics",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunables",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "magazine",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "newspaper",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "newspapers",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "newspapersandmagazinesgraphicsmanuscripts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "periodicals",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "shevchenko",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "soviet",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sovietposters",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ukraine",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ukrainian",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ukrainianbooks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "west",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"anniversary almanac in memorial of Ivan Kotlyarevsky\" by felixum8888 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 768,
+"thumbnail": "https://api.openverse.org/v1/images/4121612a-6e75-455f-bdd2-1e3129894b83/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/4121612a-6e75-455f-bdd2-1e3129894b83/",
+"related_url": "https://api.openverse.org/v1/images/4121612a-6e75-455f-bdd2-1e3129894b83/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "b451f528-8aa7-4c5d-997e-3fe0f7f05f6c",
+"title": "Almanac 'Lastivka' (The Swallow), 1841",
+"indexed_on": "2020-04-11T17:47:17.724839Z",
+"foreign_landing_url": "https://www.flickr.com/photos/75962440@N06/6821244532",
+"url": "https://live.staticflickr.com/7044/6821244532_f4cd10e7da_b.jpg",
+"creator": "felixum8888",
+"creator_url": "https://www.flickr.com/photos/75962440@N06",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "1700s",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1800s",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1900",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1900s",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1900ssovietukrainianbookgraphics",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "19th",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "abc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "adc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "almanac",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bookdesign",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cover",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "earlyprinting",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "engravings",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "firstperiodicals",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "graphics",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunables",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "magazine",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "newspaper",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "newspapers",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "newspapersandmagazinesgraphicsmanuscripts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "periodicals",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "shevchenko",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "soviet",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sovietposters",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ukraine",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ukrainian",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ukrainianbooks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "west",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "administration",
+"accuracy": 0.90394,
+"unstable__provider": "clarifai"
+},
+{
+"name": "business",
+"accuracy": 0.94113,
+"unstable__provider": "clarifai"
+},
+{
+"name": "page",
+"accuracy": 0.94658,
+"unstable__provider": "clarifai"
+},
+{
+"name": "paper",
+"accuracy": 0.93437,
+"unstable__provider": "clarifai"
+},
+{
+"name": "text",
+"accuracy": 0.98176,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Almanac 'Lastivka' (The Swallow), 1841\" by felixum8888 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 768,
+"thumbnail": "https://api.openverse.org/v1/images/b451f528-8aa7-4c5d-997e-3fe0f7f05f6c/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/b451f528-8aa7-4c5d-997e-3fe0f7f05f6c/",
+"related_url": "https://api.openverse.org/v1/images/b451f528-8aa7-4c5d-997e-3fe0f7f05f6c/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "847d2490-caca-450f-b76f-2d9d27e05821",
+"title": "Anaconda Standard Almanac 1893 (1892) by The Standard Publishing Company",
+"indexed_on": "2020-04-21T08:20:27.940179Z",
+"foreign_landing_url": "https://www.flickr.com/photos/42776950@N04/4487374803",
+"url": "https://live.staticflickr.com/4032/4487374803_dc85fe9f95_b.jpg",
+"creator": "Butte-Silver Bow Public Library",
+"creator_url": "https://www.flickr.com/photos/42776950@N04",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "1893",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1893calendar",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "almanac",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "anaconda",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "anacondastandard",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "book",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bsblibrary",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "butte",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "buttedigitalimageproject",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "buttepubliclibrary",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "buttesilverbowpubliclibrary",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "montanadata1890s",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "montanastatistics",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Anaconda Standard Almanac 1893 (1892) by The Standard Publishing Company\" by Butte-Silver Bow Public Library is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 578,
+"thumbnail": "https://api.openverse.org/v1/images/847d2490-caca-450f-b76f-2d9d27e05821/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/847d2490-caca-450f-b76f-2d9d27e05821/",
+"related_url": "https://api.openverse.org/v1/images/847d2490-caca-450f-b76f-2d9d27e05821/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "afe053bf-796b-42ea-a23c-18bb1870c9fb",
+"title": "L0016558 Prophetic almanac. 1832 edition",
+"indexed_on": "2020-04-02T20:46:20.682872Z",
+"foreign_landing_url": "https://www.flickr.com/photos/76635305@N03/12050979703",
+"url": "https://live.staticflickr.com/2855/12050979703_33af0664ae.jpg",
+"creator": "The Public Domain Review",
+"creator_url": "https://www.flickr.com/photos/76635305@N03",
+"license": "pdm",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [],
+"attribution": "\"L0016558 Prophetic almanac. 1832 edition.\" by The Public Domain Review is marked with Public Domain Mark 1.0. To view the terms, visit https://creativecommons.org/publicdomain/mark/1.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"height": 373,
+"width": 500,
+"thumbnail": "https://api.openverse.org/v1/images/afe053bf-796b-42ea-a23c-18bb1870c9fb/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/afe053bf-796b-42ea-a23c-18bb1870c9fb/",
+"related_url": "https://api.openverse.org/v1/images/afe053bf-796b-42ea-a23c-18bb1870c9fb/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "71701230-8a27-4cb5-b535-569b97756365",
+"title": "Vintage Ad: 12 more good reasons why you should buy the 1973 Toronto Star edition of the World Almanac",
+"indexed_on": "2018-11-09T02:22:56.756031Z",
+"foreign_landing_url": "https://www.flickr.com/photos/69131582@N00/11280440094",
+"url": "https://live.staticflickr.com/2852/11280440094_e4eef03af6_b.jpg",
+"creator": "jbcurio",
+"creator_url": "https://www.flickr.com/photos/69131582@N00",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "almanacs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "books",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "torontostar",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vintagead",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "worldalmanac",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Vintage Ad: 12 more good reasons why you should buy the 1973 Toronto Star edition of the World Almanac\" by jbcurio is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 603,
+"thumbnail": "https://api.openverse.org/v1/images/71701230-8a27-4cb5-b535-569b97756365/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/71701230-8a27-4cb5-b535-569b97756365/",
+"related_url": "https://api.openverse.org/v1/images/71701230-8a27-4cb5-b535-569b97756365/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "cfb31498-a69d-44b8-a455-6c24a8dc54af",
+"title": "Farmer's Almanac 1946",
+"indexed_on": "2020-04-07T06:01:30.617165Z",
+"foreign_landing_url": "https://www.flickr.com/photos/22970579@N06/8567284374",
+"url": "https://live.staticflickr.com/8232/8567284374_ab64ddac5a_b.jpg",
+"creator": "one woman's hands",
+"creator_url": "https://www.flickr.com/photos/22970579@N06",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "almanac",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vintage",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Farmer's Almanac 1946\" by one woman's hands is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 610,
+"thumbnail": "https://api.openverse.org/v1/images/cfb31498-a69d-44b8-a455-6c24a8dc54af/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/cfb31498-a69d-44b8-a455-6c24a8dc54af/",
+"related_url": "https://api.openverse.org/v1/images/cfb31498-a69d-44b8-a455-6c24a8dc54af/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "725bc98d-13e8-4124-a60c-057f4c89c37b",
+"title": "December 2014 - Dezember 2014 Kalender - Calender, Calendar, almanac, calendario, calendrier,",
+"indexed_on": "2020-04-06T04:49:18.712397Z",
+"foreign_landing_url": "https://www.flickr.com/photos/40036489@N00/15770905700",
+"url": "https://live.staticflickr.com/7579/15770905700_9509074b2b_b.jpg",
+"creator": "eagle1effi",
+"creator_url": "https://www.flickr.com/photos/40036489@N00",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "2014",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "almanac",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "art",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calendar",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calendario",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calendarkalendercalendariocalender",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calendrier",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "december",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "december2014dezember2014kalendercalender",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "dezember",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "digitalretouched",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "effiart",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "effinger",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "erwin",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fdsflickrtoys",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kalender",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "keinebearbeitung",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "namensnennung",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nichtkommerziellenutzung",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ppc",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"December 2014 - Dezember 2014 Kalender - Calender, Calendar, almanac, calendario, calendrier,\" by eagle1effi is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 813,
+"thumbnail": "https://api.openverse.org/v1/images/725bc98d-13e8-4124-a60c-057f4c89c37b/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/725bc98d-13e8-4124-a60c-057f4c89c37b/",
+"related_url": "https://api.openverse.org/v1/images/725bc98d-13e8-4124-a60c-057f4c89c37b/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "fffda7a4-e1e0-4f99-9a1d-5bbbaa9e33b3",
+"title": "Sand County Almanac - Chinese Edition",
+"indexed_on": "2016-11-16T20:37:09.865976Z",
+"foreign_landing_url": "https://www.flickr.com/photos/49208525@N08/7043085833",
+"url": "https://live.staticflickr.com/7088/7043085833_fa83a40206_b.jpg",
+"creator": "U.S. Fish and Wildlife Service - Midwest Region",
+"creator_url": "https://www.flickr.com/photos/49208525@N08",
+"license": "pdm",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": 5698644,
+"filetype": null,
+"tags": [
+{
+"name": "animal",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bird",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "birding",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "crane",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "endangered",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "endangeredspecies",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "melius",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nationalwildliferefuge",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "necedah",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nwr",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "publicland",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rd",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "refuge",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "regionaldirector",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tommelius",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "whoopingcrane",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wi",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wildlife",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wisconsin",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "banking",
+"accuracy": 0.9145,
+"unstable__provider": "clarifai"
+},
+{
+"name": "business",
+"accuracy": 0.94842,
+"unstable__provider": "clarifai"
+},
+{
+"name": "exhibition",
+"accuracy": 0.9435,
+"unstable__provider": "clarifai"
+},
+{
+"name": "landscape",
+"accuracy": 0.94557,
+"unstable__provider": "clarifai"
+},
+{
+"name": "museum",
+"accuracy": 0.90806,
+"unstable__provider": "clarifai"
+},
+{
+"name": "one",
+"accuracy": 0.90683,
+"unstable__provider": "clarifai"
+},
+{
+"name": "paper",
+"accuracy": 0.95642,
+"unstable__provider": "clarifai"
+},
+{
+"name": "people",
+"accuracy": 0.9458,
+"unstable__provider": "clarifai"
+},
+{
+"name": "text",
+"accuracy": 0.90162,
+"unstable__provider": "clarifai"
+},
+{
+"name": "travel",
+"accuracy": 0.94256,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Sand County Almanac - Chinese Edition\" by U.S. Fish and Wildlife Service - Midwest Region is marked with Public Domain Mark 1.0. To view the terms, visit https://creativecommons.org/publicdomain/mark/1.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"height": 1024,
+"width": 683,
+"thumbnail": "https://api.openverse.org/v1/images/fffda7a4-e1e0-4f99-9a1d-5bbbaa9e33b3/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/fffda7a4-e1e0-4f99-9a1d-5bbbaa9e33b3/",
+"related_url": "https://api.openverse.org/v1/images/fffda7a4-e1e0-4f99-9a1d-5bbbaa9e33b3/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "cfcb2997-c946-482d-bdd5-e8d529934d8c",
+"title": "Almanac 'Hrono' designed by Marko Kyrnarsky (1920)",
+"indexed_on": "2016-11-17T06:54:36.876424Z",
+"foreign_landing_url": "https://www.flickr.com/photos/75962440@N06/7044699121",
+"url": "https://live.staticflickr.com/7241/7044699121_09e2c4f920_b.jpg",
+"creator": "felixum8888",
+"creator_url": "https://www.flickr.com/photos/75962440@N06",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": 4014667,
+"filetype": null,
+"tags": [
+{
+"name": "1700s",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1800s",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1900ssovietukrainianbookgraphics",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1920",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1930",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1940",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1960",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1970",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "abc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "art",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "avantgarde",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "books",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "civilwar",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "communism",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "earlyprinting",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "engravings",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "firstperiodicals",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "graphics",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "heorhiynarbut",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "illustration",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunables",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lenin",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "magazines",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "modernism",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "narbut",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "national",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "newspapersandmagazinesgraphicsmanuscripts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "revolution",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sedlyar",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "soviet",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sovietposters",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stalin",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ukraine",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ukrainian",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ukrainianbooks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "abstract",
+"accuracy": 0.90303,
+"unstable__provider": "clarifai"
+},
+{
+"name": "art",
+"accuracy": 0.94493,
+"unstable__provider": "clarifai"
+},
+{
+"name": "card",
+"accuracy": 0.9326,
+"unstable__provider": "clarifai"
+},
+{
+"name": "decoration",
+"accuracy": 0.98101,
+"unstable__provider": "clarifai"
+},
+{
+"name": "design",
+"accuracy": 0.97411,
+"unstable__provider": "clarifai"
+},
+{
+"name": "floral",
+"accuracy": 0.95041,
+"unstable__provider": "clarifai"
+},
+{
+"name": "graphic",
+"accuracy": 0.94063,
+"unstable__provider": "clarifai"
+},
+{
+"name": "illustration",
+"accuracy": 0.98861,
+"unstable__provider": "clarifai"
+},
+{
+"name": "invitation",
+"accuracy": 0.93147,
+"unstable__provider": "clarifai"
+},
+{
+"name": "margin",
+"accuracy": 0.92739,
+"unstable__provider": "clarifai"
+},
+{
+"name": "ornate",
+"accuracy": 0.98484,
+"unstable__provider": "clarifai"
+},
+{
+"name": "pattern",
+"accuracy": 0.94668,
+"unstable__provider": "clarifai"
+},
+{
+"name": "picture frame",
+"accuracy": 0.97666,
+"unstable__provider": "clarifai"
+},
+{
+"name": "retro",
+"accuracy": 0.9637,
+"unstable__provider": "clarifai"
+},
+{
+"name": "vector",
+"accuracy": 0.98893,
+"unstable__provider": "clarifai"
+},
+{
+"name": "victorian",
+"accuracy": 0.94604,
+"unstable__provider": "clarifai"
+},
+{
+"name": "vignette",
+"accuracy": 0.92436,
+"unstable__provider": "clarifai"
+},
+{
+"name": "vintage",
+"accuracy": 0.96021,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Almanac 'Hrono' designed by Marko Kyrnarsky (1920)\" by felixum8888 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"height": 1024,
+"width": 768,
+"thumbnail": "https://api.openverse.org/v1/images/cfcb2997-c946-482d-bdd5-e8d529934d8c/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/cfcb2997-c946-482d-bdd5-e8d529934d8c/",
+"related_url": "https://api.openverse.org/v1/images/cfcb2997-c946-482d-bdd5-e8d529934d8c/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "b9499494-1c86-4b43-9b93-7e911e9268e4",
+"title": "York Almanac and Royal Calendar (1825)",
+"indexed_on": "2020-04-12T18:23:33.132276Z",
+"foreign_landing_url": "https://www.flickr.com/photos/43021516@N06/7511183148",
+"url": "https://live.staticflickr.com/8026/7511183148_15b49a81d3.jpg",
+"creator": "Toronto Public Library Special Collections",
+"creator_url": "https://www.flickr.com/photos/43021516@N06",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "1820s",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "2012",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "almanac",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "book",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "canada",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "city",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "country",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "exhibition",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "history",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "jamesbain",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ontario",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rural",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "settlement",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "specialcollections",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tdgallery",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "torontopubliclibrary",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "town",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "uppercanada",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "urban",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "york",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"York Almanac and Royal Calendar (1825)\" by Toronto Public Library Special Collections is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 500,
+"width": 298,
+"thumbnail": "https://api.openverse.org/v1/images/b9499494-1c86-4b43-9b93-7e911e9268e4/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/b9499494-1c86-4b43-9b93-7e911e9268e4/",
+"related_url": "https://api.openverse.org/v1/images/b9499494-1c86-4b43-9b93-7e911e9268e4/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "fd6eb61f-725b-4006-950f-3accb5cc29dd",
+"title": "Lacing",
+"indexed_on": "2019-04-23T13:51:10.900034Z",
+"foreign_landing_url": "https://www.flickr.com/photos/45519687@N06/5394100856",
+"url": "https://live.staticflickr.com/4073/5394100856_6b3d4969d4_b.jpg",
+"creator": "Kirsi L-M",
+"creator_url": "https://www.flickr.com/photos/45519687@N06",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "corset",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lacing",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "satin",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Lacing\" by Kirsi L-M is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 943,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/fd6eb61f-725b-4006-950f-3accb5cc29dd/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/fd6eb61f-725b-4006-950f-3accb5cc29dd/",
+"related_url": "https://api.openverse.org/v1/images/fd6eb61f-725b-4006-950f-3accb5cc29dd/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "2431a2a0-1089-4bb5-8b28-76d5ac16bdd3",
+"title": "Lace",
+"indexed_on": "2018-11-08T01:45:17.652714Z",
+"foreign_landing_url": "https://www.flickr.com/photos/36521956512@N01/528400733",
+"url": "https://live.staticflickr.com/1011/528400733_dae49fabc2_b.jpg",
+"creator": "Nefi",
+"creator_url": "https://www.flickr.com/photos/36521956512@N01",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "bedfordshirelace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bobbinlace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "handmade",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "torchonlace",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Lace\" by Nefi is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 768,
+"thumbnail": "https://api.openverse.org/v1/images/2431a2a0-1089-4bb5-8b28-76d5ac16bdd3/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/2431a2a0-1089-4bb5-8b28-76d5ac16bdd3/",
+"related_url": "https://api.openverse.org/v1/images/2431a2a0-1089-4bb5-8b28-76d5ac16bdd3/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "68474805-0073-472c-912b-bbddb095cb5b",
+"title": "freeform lace",
+"indexed_on": "2019-06-25T16:00:36.522728Z",
+"foreign_landing_url": "https://www.flickr.com/photos/20982135@N07/2042003394",
+"url": "https://live.staticflickr.com/2063/2042003394_8392c2ddd9.jpg",
+"creator": "freeform by prudence",
+"creator_url": "https://www.flickr.com/photos/20982135@N07",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "crochet",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "freeform",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "knitting",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "scrumble",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"freeform lace\" by freeform by prudence is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 333,
+"width": 500,
+"thumbnail": "https://api.openverse.org/v1/images/68474805-0073-472c-912b-bbddb095cb5b/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/68474805-0073-472c-912b-bbddb095cb5b/",
+"related_url": "https://api.openverse.org/v1/images/68474805-0073-472c-912b-bbddb095cb5b/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "5b8e8ffc-07eb-4ca2-aa78-664d1818ad55",
+"title": "Lace",
+"indexed_on": "2023-03-09T22:40:31.364227Z",
+"foreign_landing_url": "https://www.flickr.com/photos/22573324@N06/51289536729",
+"url": "https://live.staticflickr.com/65535/51289536729_7483ed6c5e_b.jpg",
+"creator": "magda-liebe",
+"creator_url": "https://www.flickr.com/photos/22573324@N06",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": "photograph",
+"filesize": null,
+"filetype": "jpg",
+"tags": [
+{
+"name": "french",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "genderfluid",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "skirt",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tgirl",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "transgender",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "transgenre",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Lace\" by magda-liebe is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 737,
+"thumbnail": "https://api.openverse.org/v1/images/5b8e8ffc-07eb-4ca2-aa78-664d1818ad55/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/5b8e8ffc-07eb-4ca2-aa78-664d1818ad55/",
+"related_url": "https://api.openverse.org/v1/images/5b8e8ffc-07eb-4ca2-aa78-664d1818ad55/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "91109c7f-bde7-4f47-89f8-ea3289d5c57c",
+"title": "White lace and promises",
+"indexed_on": "2023-03-12T22:24:47.025870Z",
+"foreign_landing_url": "https://www.flickr.com/photos/52995682@N07/52477786189",
+"url": "https://live.staticflickr.com/65535/52477786189_668549282a_b.jpg",
+"creator": "Karon Elliott Edleson -",
+"creator_url": "https://www.flickr.com/photos/52995682@N07",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": "photograph",
+"filesize": null,
+"filetype": "jpg",
+"tags": [
+{
+"name": "jewelry",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "love",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "macro",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pearls",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ring",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "smileonsaturday",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "weddingring",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "whitelace",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"White lace and promises...\" by Karon Elliott Edleson - is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 739,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/91109c7f-bde7-4f47-89f8-ea3289d5c57c/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/91109c7f-bde7-4f47-89f8-ea3289d5c57c/",
+"related_url": "https://api.openverse.org/v1/images/91109c7f-bde7-4f47-89f8-ea3289d5c57c/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "c1e8005c-1b83-4c32-9c0c-c6effa4dfb23",
+"title": "Leather and Lace",
+"indexed_on": "2020-04-25T19:45:34.005488Z",
+"foreign_landing_url": "https://www.flickr.com/photos/44442915@N00/4034751016",
+"url": "https://live.staticflickr.com/2644/4034751016_10f7564ae8_b.jpg",
+"creator": "gfpeck",
+"creator_url": "https://www.flickr.com/photos/44442915@N00",
+"license": "by-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "baseball",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "glove",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kitchenlighting",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "leather",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "noflash",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pca83",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tabletop",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Leather and Lace\" by gfpeck is licensed under CC BY-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 732,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/c1e8005c-1b83-4c32-9c0c-c6effa4dfb23/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/c1e8005c-1b83-4c32-9c0c-c6effa4dfb23/",
+"related_url": "https://api.openverse.org/v1/images/c1e8005c-1b83-4c32-9c0c-c6effa4dfb23/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "eeb3ea89-5269-4c7c-ad4f-122a052a4ede",
+"title": "lace",
+"indexed_on": "2020-04-29T06:47:30.616715Z",
+"foreign_landing_url": "https://www.flickr.com/photos/31788029@N07/2974863466",
+"url": "https://live.staticflickr.com/2275/2974863466_80aaab3fb0_b.jpg",
+"creator": "liyinglace",
+"creator_url": "https://www.flickr.com/photos/31788029@N07",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "trimming",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"lace\" by liyinglace is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 831,
+"thumbnail": "https://api.openverse.org/v1/images/eeb3ea89-5269-4c7c-ad4f-122a052a4ede/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/eeb3ea89-5269-4c7c-ad4f-122a052a4ede/",
+"related_url": "https://api.openverse.org/v1/images/eeb3ea89-5269-4c7c-ad4f-122a052a4ede/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "27dc6767-390b-4a4e-9788-e6d99044225e",
+"title": "New babyblue lace top (IMG_2238",
+"indexed_on": "2020-03-26T16:03:53.379162Z",
+"foreign_landing_url": "https://www.flickr.com/photos/99275457@N00/31660167815",
+"url": "https://live.staticflickr.com/478/31660167815_1e59714395_b.jpg",
+"creator": "cindy richardson",
+"creator_url": "https://www.flickr.com/photos/99275457@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "babyblue",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "crossdress",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "heel",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hose",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pumps",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "redhead",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "santoned",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "skincolored",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "skirt",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stiletto",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tgirl",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "top",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "transgender",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"New babyblue lace top (IMG_2238\" by cindy richardson is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 683,
+"thumbnail": "https://api.openverse.org/v1/images/27dc6767-390b-4a4e-9788-e6d99044225e/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/27dc6767-390b-4a4e-9788-e6d99044225e/",
+"related_url": "https://api.openverse.org/v1/images/27dc6767-390b-4a4e-9788-e6d99044225e/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "4ca45e34-8bce-48ae-b016-ef242bfccde6",
+"title": "* A Touch Of Lace 2 *",
+"indexed_on": "2018-11-08T01:45:17.652714Z",
+"foreign_landing_url": "https://www.flickr.com/photos/8078381@N03/2799028367",
+"url": "https://live.staticflickr.com/3186/2799028367_89fe67d19c_b.jpg",
+"creator": "pareeerica",
+"creator_url": "https://www.flickr.com/photos/8078381@N03",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "border",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "creativecommons",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "grunge",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "grungeworks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "grungy",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "texture",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "textures",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "texturesonly",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "thestockyard",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"* A Touch Of Lace 2 *\" by pareeerica is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/4ca45e34-8bce-48ae-b016-ef242bfccde6/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/4ca45e34-8bce-48ae-b016-ef242bfccde6/",
+"related_url": "https://api.openverse.org/v1/images/4ca45e34-8bce-48ae-b016-ef242bfccde6/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "5718b7c9-c112-4cf8-8d32-78c7f56d8fb9",
+"title": "* Paper Lace *",
+"indexed_on": "2020-04-28T23:10:33.989480Z",
+"foreign_landing_url": "https://www.flickr.com/photos/8078381@N03/2855146837",
+"url": "https://live.staticflickr.com/3068/2855146837_d616dde8f8_b.jpg",
+"creator": "pareeerica",
+"creator_url": "https://www.flickr.com/photos/8078381@N03",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "cc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "creativecommons",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "grungeworks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "paper",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "t4l",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "t4lagree",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "texture",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "textures",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "texturesonly",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "thestockyard",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"* Paper Lace *\" by pareeerica is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 751,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/5718b7c9-c112-4cf8-8d32-78c7f56d8fb9/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/5718b7c9-c112-4cf8-8d32-78c7f56d8fb9/",
+"related_url": "https://api.openverse.org/v1/images/5718b7c9-c112-4cf8-8d32-78c7f56d8fb9/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "0f7c3d02-2b46-4f66-9f9c-50c6d9b0cfca",
+"title": "* A Touch Of Lace 1 *",
+"indexed_on": "2020-04-28T19:26:33.166132Z",
+"foreign_landing_url": "https://www.flickr.com/photos/8078381@N03/2799035071",
+"url": "https://live.staticflickr.com/3204/2799035071_0aeb521c57_b.jpg",
+"creator": "pareeerica",
+"creator_url": "https://www.flickr.com/photos/8078381@N03",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "border",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "creativecommons",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "grunge",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "grungeworks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "grungy",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "t4lagree",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "texture",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "textures",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "texturesonly",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "thestockyard",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"* A Touch Of Lace 1 *\" by pareeerica is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/0f7c3d02-2b46-4f66-9f9c-50c6d9b0cfca/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/0f7c3d02-2b46-4f66-9f9c-50c6d9b0cfca/",
+"related_url": "https://api.openverse.org/v1/images/0f7c3d02-2b46-4f66-9f9c-50c6d9b0cfca/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "ae69de8c-0328-4b4a-84f0-dbd33c88867f",
+"title": "Azalea lace bug - Stephanitis pyrioides - Oregon",
+"indexed_on": "2020-03-27T22:34:29.643980Z",
+"foreign_landing_url": "https://www.flickr.com/photos/7539598@N04/16282893237",
+"url": "https://live.staticflickr.com/7435/16282893237_305788ca61_b.jpg",
+"creator": "Thomas Shahan",
+"creator_url": "https://www.flickr.com/photos/7539598@N04",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "21",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bug",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "colorful",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hemipteran",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "insect",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "iridescent",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lens",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "macro",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "macrophotography",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pentax",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "shahan",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stephanitis",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "thomas",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tingid",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "venus60mm",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Azalea lace bug - Stephanitis pyrioides - Oregon\" by Thomas Shahan is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/ae69de8c-0328-4b4a-84f0-dbd33c88867f/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/ae69de8c-0328-4b4a-84f0-dbd33c88867f/",
+"related_url": "https://api.openverse.org/v1/images/ae69de8c-0328-4b4a-84f0-dbd33c88867f/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "d76d05c3-e452-4fd9-b5a6-c49c4156fd3f",
+"title": "Navy Lace Dress (IMG_4245)",
+"indexed_on": "2020-02-20T16:03:11.797465Z",
+"foreign_landing_url": "https://www.flickr.com/photos/99275457@N00/24220191258",
+"url": "https://live.staticflickr.com/4445/24220191258_1ece522716_b.jpg",
+"creator": "cindy richardson",
+"creator_url": "https://www.flickr.com/photos/99275457@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "beauty",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "chic",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "crossdress",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "dress",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kors",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "michael",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "navy",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pumps",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "redhead",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tgirl",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "transgender",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woman",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Navy Lace Dress (IMG_4245)\" by cindy richardson is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 683,
+"thumbnail": "https://api.openverse.org/v1/images/d76d05c3-e452-4fd9-b5a6-c49c4156fd3f/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/d76d05c3-e452-4fd9-b5a6-c49c4156fd3f/",
+"related_url": "https://api.openverse.org/v1/images/d76d05c3-e452-4fd9-b5a6-c49c4156fd3f/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "4f629420-470a-4edc-a78d-214e2d4a1df3",
+"title": "Louisbourg-02395 - Lace Making",
+"indexed_on": "2020-04-07T11:53:23.634041Z",
+"foreign_landing_url": "https://www.flickr.com/photos/22490717@N02/8176524432",
+"url": "https://live.staticflickr.com/8063/8176524432_96844ae280_b.jpg",
+"creator": "archer10 (Dennis)",
+"creator_url": "https://www.flickr.com/photos/22490717@N02",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "18200diiiivc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "archer10",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "canada",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "chair",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "dennis",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "dennisgjarvis",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "dennisjarvis",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "english",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fortress",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "free",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "freepicture",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "french",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "iamcanadian",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "jarvis",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "louisbourg",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "making",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nationalhistoricsite",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nex7",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "novascotia",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "parkscanada",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "red",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sony",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woman",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Louisbourg-02395 - Lace Making\" by archer10 (Dennis) is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 683,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/4f629420-470a-4edc-a78d-214e2d4a1df3/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/4f629420-470a-4edc-a78d-214e2d4a1df3/",
+"related_url": "https://api.openverse.org/v1/images/4f629420-470a-4edc-a78d-214e2d4a1df3/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "6bd58c1e-5e0f-414a-8976-3b4bbd6746f7",
+"title": "Lace Bug, MD, PG County_2013-08-20-16.56.18 ZS PMax",
+"indexed_on": "2020-04-09T05:00:22.156454Z",
+"foreign_landing_url": "https://www.flickr.com/photos/54563451@N08/9563647525",
+"url": "https://live.staticflickr.com/5496/9563647525_ee78c6fcb2_b.jpg",
+"creator": "Sam Droege",
+"creator_url": "https://www.flickr.com/photos/54563451@N08",
+"license": "pdm",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "animal",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "animalia",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "animals",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "arthropod",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "arthropoda",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "arthropods",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "biml",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "brown",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bug",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bugs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "droege",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hemiptera",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "heteroptera",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "insect",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "insecta",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "insects",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lacebug",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "maryland",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "princegeorgescounty",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "skeleton",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stackshot",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tingidae",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "truebug",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "truebugs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "usgs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "usgsbiml",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "zerenestacker",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Lace Bug, MD, PG County_2013-08-20-16.56.18 ZS PMax\" by Sam Droege is marked with Public Domain Mark 1.0. To view the terms, visit https://creativecommons.org/publicdomain/mark/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 705,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/6bd58c1e-5e0f-414a-8976-3b4bbd6746f7/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/6bd58c1e-5e0f-414a-8976-3b4bbd6746f7/",
+"related_url": "https://api.openverse.org/v1/images/6bd58c1e-5e0f-414a-8976-3b4bbd6746f7/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "e5270a58-c91b-4f1c-85e3-39b04b4f4f92",
+"title": "Needle Lace, in Progress",
+"indexed_on": "2020-04-16T02:52:24.186253Z",
+"foreign_landing_url": "https://www.flickr.com/photos/9350569@N08/5572938031",
+"url": "https://live.staticflickr.com/5230/5572938031_74058327e7_b.jpg",
+"creator": "ShardsOfBlue",
+"creator_url": "https://www.flickr.com/photos/9350569@N08",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "handmade",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "muslin",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "needlelace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "odc2",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ourdailychallenge",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "thread",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Needle Lace, in Progress\" by ShardsOfBlue is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 680,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/e5270a58-c91b-4f1c-85e3-39b04b4f4f92/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/e5270a58-c91b-4f1c-85e3-39b04b4f4f92/",
+"related_url": "https://api.openverse.org/v1/images/e5270a58-c91b-4f1c-85e3-39b04b4f4f92/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "e41c2653-3ce8-43d4-81c1-cfb6db6fa0ab",
+"title": "Lace",
+"indexed_on": "2020-04-11T22:06:22.440894Z",
+"foreign_landing_url": "https://www.flickr.com/photos/49526657@N04/6889269424",
+"url": "https://live.staticflickr.com/7098/6889269424_88f5fbbc26.jpg",
+"creator": "rennes_i",
+"creator_url": "https://www.flickr.com/photos/49526657@N04",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "2012",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "50mm",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "blackdress",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bokeh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "eyes",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "girl",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "irynayeroshko",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lutsk",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "naturallight",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nikond3000",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "portrait",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rennesi",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "studio",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ukraine",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fashion",
+"accuracy": 0.97081,
+"unstable__provider": "clarifai"
+},
+{
+"name": "indoors",
+"accuracy": 0.96115,
+"unstable__provider": "clarifai"
+},
+{
+"name": "one",
+"accuracy": 0.91168,
+"unstable__provider": "clarifai"
+},
+{
+"name": "people",
+"accuracy": 0.95148,
+"unstable__provider": "clarifai"
+},
+{
+"name": "portrait",
+"accuracy": 0.96338,
+"unstable__provider": "clarifai"
+},
+{
+"name": "pretty",
+"accuracy": 0.923,
+"unstable__provider": "clarifai"
+},
+{
+"name": "woman",
+"accuracy": 0.99487,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Lace\" by rennes_i is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 500,
+"width": 334,
+"thumbnail": "https://api.openverse.org/v1/images/e41c2653-3ce8-43d4-81c1-cfb6db6fa0ab/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/e41c2653-3ce8-43d4-81c1-cfb6db6fa0ab/",
+"related_url": "https://api.openverse.org/v1/images/e41c2653-3ce8-43d4-81c1-cfb6db6fa0ab/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "4bc6fe0a-bd5e-4ad8-9f93-47e37744b53a",
+"title": "Laces",
+"indexed_on": "2020-04-05T11:44:21.966239Z",
+"foreign_landing_url": "https://www.flickr.com/photos/27365066@N02/15240623190",
+"url": "https://live.staticflickr.com/5597/15240623190_646d43fedf_b.jpg",
+"creator": "-Reji",
+"creator_url": "https://www.flickr.com/photos/27365066@N02",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "beautiful",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "beauty",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "charm",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "delicate",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lacebeauty",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "laces",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "light",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "love",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lovely",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lovelyone",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mobile",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "petals",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rejik",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "s3",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "samsung",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tender",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "white",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Laces\" by -Reji is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 936,
+"width": 755,
+"thumbnail": "https://api.openverse.org/v1/images/4bc6fe0a-bd5e-4ad8-9f93-47e37744b53a/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/4bc6fe0a-bd5e-4ad8-9f93-47e37744b53a/",
+"related_url": "https://api.openverse.org/v1/images/4bc6fe0a-bd5e-4ad8-9f93-47e37744b53a/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "c3bfbed7-f5a3-48b3-9289-f3ac454dc7d3",
+"title": "Texture: Real Old Lace w Scrapbook Paper",
+"indexed_on": "2020-05-02T08:34:20.563005Z",
+"foreign_landing_url": "https://www.flickr.com/photos/82518118@N00/388619148",
+"url": "https://live.staticflickr.com/181/388619148_3fec9b20c3_b.jpg",
+"creator": "'Playingwithbrushes'",
+"creator_url": "https://www.flickr.com/photos/82518118@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "alteredart",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "art",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "commons",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "copyrightfree",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "creative",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "creativecommons",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "free2use",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "freetouse",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "playingwithbrushes",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "scanned",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "scrapbookpaper",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "t4l",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "t4lagree",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "texture",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "textures4layers",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vintage",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ancient",
+"accuracy": 0.97598,
+"unstable__provider": "clarifai"
+},
+{
+"name": "antique",
+"accuracy": 0.96422,
+"unstable__provider": "clarifai"
+},
+{
+"name": "architecture",
+"accuracy": 0.93381,
+"unstable__provider": "clarifai"
+},
+{
+"name": "art",
+"accuracy": 0.94431,
+"unstable__provider": "clarifai"
+},
+{
+"name": "decoration",
+"accuracy": 0.90273,
+"unstable__provider": "clarifai"
+},
+{
+"name": "design",
+"accuracy": 0.92665,
+"unstable__provider": "clarifai"
+},
+{
+"name": "desktop",
+"accuracy": 0.96198,
+"unstable__provider": "clarifai"
+},
+{
+"name": "old",
+"accuracy": 0.9745,
+"unstable__provider": "clarifai"
+},
+{
+"name": "paper",
+"accuracy": 0.96518,
+"unstable__provider": "clarifai"
+},
+{
+"name": "parchment",
+"accuracy": 0.93999,
+"unstable__provider": "clarifai"
+},
+{
+"name": "retro",
+"accuracy": 0.95385,
+"unstable__provider": "clarifai"
+},
+{
+"name": "texture",
+"accuracy": 0.93935,
+"unstable__provider": "clarifai"
+},
+{
+"name": "vintage",
+"accuracy": 0.92129,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Texture: Real Old Lace w Scrapbook Paper\" by 'Playingwithbrushes' is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 622,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/c3bfbed7-f5a3-48b3-9289-f3ac454dc7d3/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/c3bfbed7-f5a3-48b3-9289-f3ac454dc7d3/",
+"related_url": "https://api.openverse.org/v1/images/c3bfbed7-f5a3-48b3-9289-f3ac454dc7d3/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "5f4c7d88-fdb3-4aab-928b-efff55e1fdb3",
+"title": "lace trimming 28",
+"indexed_on": "2020-04-29T07:09:32.998120Z",
+"foreign_landing_url": "https://www.flickr.com/photos/31788029@N07/2980373975",
+"url": "https://live.staticflickr.com/3238/2980373975_a69f4d4e1c.jpg",
+"creator": "liyinglace",
+"creator_url": "https://www.flickr.com/photos/31788029@N07",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "chemical",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cotton",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "crochet",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "elastic",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "embroidery",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lace",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "telxtile",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "trimming",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"lace trimming 28\" by liyinglace is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 463,
+"width": 400,
+"thumbnail": "https://api.openverse.org/v1/images/5f4c7d88-fdb3-4aab-928b-efff55e1fdb3/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/5f4c7d88-fdb3-4aab-928b-efff55e1fdb3/",
+"related_url": "https://api.openverse.org/v1/images/5f4c7d88-fdb3-4aab-928b-efff55e1fdb3/related/",
+"unstable__sensitivity": []
 }
 ]

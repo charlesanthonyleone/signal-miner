@@ -7945,5 +7945,5031 @@
 "related_url": "https://api.openverse.org/v1/audio/91c8c353-e164-49c3-a490-523a1358328d/related/",
 "waveform": "https://api.openverse.org/v1/audio/91c8c353-e164-49c3-a490-523a1358328d/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "e6793d8a-8288-4773-be80-5e1a45125efc",
+"title": "gramophone turntable or thumbtack",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/lollosound/sounds/387005",
+"url": "https://cdn.freesound.org/previews/387/387005_804763-hq.mp3",
+"creator": "lollosound",
+"creator_url": "https://freesound.org/people/lollosound",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1978128,
+"filetype": "mp3",
+"tags": [
+{
+"name": "LP",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "album",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crackle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dust",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gramophone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hiss",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lofi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "or",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "phonograph",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "record",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "retro",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scratch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scratched",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stadium",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "static",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "surface",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "surface-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "thumbtack",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "turntable",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vintage",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vinyl",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/387005/download/",
+"bit_rate": 0,
+"filesize": 7303674,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"gramophone turntable or thumbtack\" by lollosound is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "SUONI BY LOLLO",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/7776/",
+"creator": "lollosound",
+"creator_url": "https://freesound.org/people/lollosound/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 72640,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e6793d8a-8288-4773-be80-5e1a45125efc/",
+"related_url": "https://api.openverse.org/v1/audio/e6793d8a-8288-4773-be80-5e1a45125efc/related/",
+"waveform": "https://api.openverse.org/v1/audio/e6793d8a-8288-4773-be80-5e1a45125efc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5f5fd5cf-c373-461a-be0a-2045d0ec9713",
+"title": "LL-Q1860 (eng)-Vininn126-gramophone",
+"indexed_on": "2023-10-29T13:59:34.823726Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=114623696",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/LL-Q1860_%28eng%29-Vininn126-gramophone.wav",
+"creator": "Speaker: Vininn126 Recorder: Vininn126",
+"creator_url": "http://lingualibre.org/wiki/Q747313",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vininn126-gramophone\" by Speaker: Vininn126 Recorder: Vininn126 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5f5fd5cf-c373-461a-be0a-2045d0ec9713/",
+"related_url": "https://api.openverse.org/v1/audio/5f5fd5cf-c373-461a-be0a-2045d0ec9713/related/",
+"waveform": "https://api.openverse.org/v1/audio/5f5fd5cf-c373-461a-be0a-2045d0ec9713/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0bcc119b-23e7-43e6-86f9-9c39d7de74f0",
+"title": "LL-Q1860 (eng)-Wodencafe-gramophones",
+"indexed_on": "2024-02-03T00:04:45.803910Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=144934951",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/53/LL-Q1860_%28eng%29-Wodencafe-gramophones.wav",
+"creator": "Speaker: Wodencafe Recorder: Wodencafe",
+"creator_url": "https://lingualibre.org/wiki/Q1207413",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 120876,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Wodencafe-gramophones\" by Speaker: Wodencafe Recorder: Wodencafe is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1258,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0bcc119b-23e7-43e6-86f9-9c39d7de74f0/",
+"related_url": "https://api.openverse.org/v1/audio/0bcc119b-23e7-43e6-86f9-9c39d7de74f0/related/",
+"waveform": "https://api.openverse.org/v1/audio/0bcc119b-23e7-43e6-86f9-9c39d7de74f0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "af232dfc-b058-41e1-a3d6-5eedc6455a8c",
+"title": "LL-Q1860 (eng)-Wodencafe-gramophone",
+"indexed_on": "2024-02-03T00:04:45.803910Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=144934950",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/LL-Q1860_%28eng%29-Wodencafe-gramophone.wav",
+"creator": "Speaker: Wodencafe Recorder: Wodencafe",
+"creator_url": "https://lingualibre.org/wiki/Q1207413",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 101996,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Wodencafe-gramophone\" by Speaker: Wodencafe Recorder: Wodencafe is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1062,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/af232dfc-b058-41e1-a3d6-5eedc6455a8c/",
+"related_url": "https://api.openverse.org/v1/audio/af232dfc-b058-41e1-a3d6-5eedc6455a8c/related/",
+"waveform": "https://api.openverse.org/v1/audio/af232dfc-b058-41e1-a3d6-5eedc6455a8c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5db550c0-cf07-47f2-a825-1c16ca73684d",
+"title": "LL-Q150 (fra)-VictorDtmtc-gramophone",
+"indexed_on": "2024-02-25T11:38:42.868757Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=100434512",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/74/LL-Q150_%28fra%29-VictorDtmtc-gramophone.wav",
+"creator": "Speaker: VictorDtmtc Recorder: VictorDtmtc",
+"creator_url": "http://lingualibre.org/wiki/Q415196",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 140564,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-VictorDtmtc-gramophone\" by Speaker: VictorDtmtc Recorder: VictorDtmtc is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1593,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5db550c0-cf07-47f2-a825-1c16ca73684d/",
+"related_url": "https://api.openverse.org/v1/audio/5db550c0-cf07-47f2-a825-1c16ca73684d/related/",
+"waveform": "https://api.openverse.org/v1/audio/5db550c0-cf07-47f2-a825-1c16ca73684d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f1180ef3-06a7-4cda-8849-44fe08df2ffe",
+"title": "Vanha levysoitin, gramofoni / Old record player, gramophone with a crank",
+"indexed_on": "2024-04-18T18:52:10.009444Z",
+"foreign_landing_url": "https://freesound.org/people/YleArkisto/sounds/249654",
+"url": "https://cdn.freesound.org/previews/249/249654_4415905-hq.mp3",
+"creator": "YleArkisto",
+"creator_url": "https://freesound.org/people/YleArkisto",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 906816,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Device",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Finland",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Finnish-Broadcasting-Company",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Laitteet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Soundfx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Suomi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Tehosteet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Yle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Yleisradio",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/249654/download/",
+"bit_rate": 0,
+"filesize": 11469572,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Vanha levysoitin, gramofoni / Old record player, gramophone with a crank\" by YleArkisto is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Ty\u00f6 Work",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/15046/",
+"creator": "YleArkisto",
+"creator_url": "https://freesound.org/people/YleArkisto/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 39824,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f1180ef3-06a7-4cda-8849-44fe08df2ffe/",
+"related_url": "https://api.openverse.org/v1/audio/f1180ef3-06a7-4cda-8849-44fe08df2ffe/related/",
+"waveform": "https://api.openverse.org/v1/audio/f1180ef3-06a7-4cda-8849-44fe08df2ffe/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d03b64b3-73f1-4812-bb6f-280c4a0573ad",
+"title": "Gramophone switched on",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/smand/sounds/523162",
+"url": "https://cdn.freesound.org/previews/523/523162_3657069-hq.mp3",
+"creator": "smand",
+"creator_url": "https://freesound.org/people/smand",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 135264,
+"filetype": "mp3",
+"tags": [
+{
+"name": "gramophone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanics",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "switch-on",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/523162/download/",
+"bit_rate": 0,
+"filesize": 1582006,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Gramophone switched on\" by smand is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Gramophone sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/29470/",
+"creator": "smand",
+"creator_url": "https://freesound.org/people/smand/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 5492,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d03b64b3-73f1-4812-bb6f-280c4a0573ad/",
+"related_url": "https://api.openverse.org/v1/audio/d03b64b3-73f1-4812-bb6f-280c4a0573ad/related/",
+"waveform": "https://api.openverse.org/v1/audio/d03b64b3-73f1-4812-bb6f-280c4a0573ad/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3945e286-db55-400f-b67f-3824a671ce9a",
+"title": "Gramophone, old record player, motor noise, surface static, start stop scratches, pops (2012).wav",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/TRP/sounds/616831",
+"url": "https://cdn.freesound.org/previews/616/616831_97550-hq.mp3",
+"creator": "TRP",
+"creator_url": "https://freesound.org/people/TRP",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2816784,
+"filetype": "mp3",
+"tags": [
+{
+"name": "gramophone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "phonograph",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "record",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scratch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "surface-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/616831/download/",
+"bit_rate": 0,
+"filesize": 42955056,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Gramophone, old record player, motor noise, surface static, start stop scratches, pops (2012).wav\" by TRP is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 148947,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/3945e286-db55-400f-b67f-3824a671ce9a/",
+"related_url": "https://api.openverse.org/v1/audio/3945e286-db55-400f-b67f-3824a671ce9a/related/",
+"waveform": "https://api.openverse.org/v1/audio/3945e286-db55-400f-b67f-3824a671ce9a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "45d21a11-d122-4100-9eed-90a5ea854652",
+"title": "Gramophone record scratch skip screech 190319.flac",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/TRP/sounds/573940",
+"url": "https://cdn.freesound.org/previews/573/573940_97550-hq.mp3",
+"creator": "TRP",
+"creator_url": "https://freesound.org/people/TRP",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 4116888,
+"filetype": "mp3",
+"tags": [
+{
+"name": "gramophone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "record",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scratch",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/573940/download/",
+"bit_rate": 0,
+"filesize": 17437484,
+"filetype": "flac",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Gramophone record scratch skip screech 190319.flac\" by TRP is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 218818,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/45d21a11-d122-4100-9eed-90a5ea854652/",
+"related_url": "https://api.openverse.org/v1/audio/45d21a11-d122-4100-9eed-90a5ea854652/related/",
+"waveform": "https://api.openverse.org/v1/audio/45d21a11-d122-4100-9eed-90a5ea854652/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8bea4528-aa49-4e0a-89c4-076fbdf18a77",
+"title": "Gramophone lullaby v6",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/853776",
+"url": "https://prod-1.storage.jamendo.com/?trackid=853776&format=mp32",
+"creator": "Rescio",
+"creator_url": "https://www.jamendo.com/artist/362564/Rescio",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Gramophone lullaby v6\" by Rescio is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Epic",
+"foreign_landing_url": "https://www.jamendo.com/album/99823/epic",
+"creator": "Rescio",
+"creator_url": "https://www.jamendo.com/artist/362564/Rescio",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 375000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/8bea4528-aa49-4e0a-89c4-076fbdf18a77/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/8bea4528-aa49-4e0a-89c4-076fbdf18a77/",
+"related_url": "https://api.openverse.org/v1/audio/8bea4528-aa49-4e0a-89c4-076fbdf18a77/related/",
+"waveform": "https://api.openverse.org/v1/audio/8bea4528-aa49-4e0a-89c4-076fbdf18a77/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "60ac76ad-727f-4761-835e-1a201a20eddf",
+"title": "Tu m'as voulu, tu m'as eu (1935, Gramophone K 7549)",
+"indexed_on": "2022-04-21T00:12:16.357514Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=117062409",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Tu_m%27as_voulu%2C_tu_m%27as_eu_%281935%2C_Gramophone_K_7549%29.ogg",
+"creator": "Jean Eblinger et Louis Despax",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 1256308,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Tu m'as voulu, tu m'as eu (1935, Gramophone K 7549)\" by Jean Eblinger et Louis Despax is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 146750,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/60ac76ad-727f-4761-835e-1a201a20eddf/",
+"related_url": "https://api.openverse.org/v1/audio/60ac76ad-727f-4761-835e-1a201a20eddf/related/",
+"waveform": "https://api.openverse.org/v1/audio/60ac76ad-727f-4761-835e-1a201a20eddf/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3c3484b2-3192-4182-b2da-72fb12509a91",
+"title": "Camille (1935, Gramophone K 7549)",
+"indexed_on": "2022-04-21T00:12:16.357514Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=117062272",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Camille_%281935%2C_Gramophone_K_7549%29.ogg",
+"creator": "Georgius",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 2546894,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Camille (1935, Gramophone K 7549)\" by Georgius is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 196989,
+"bit_rate": 160000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/3c3484b2-3192-4182-b2da-72fb12509a91/",
+"related_url": "https://api.openverse.org/v1/audio/3c3484b2-3192-4182-b2da-72fb12509a91/related/",
+"waveform": "https://api.openverse.org/v1/audio/3c3484b2-3192-4182-b2da-72fb12509a91/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c65eec88-1c58-4b6e-8c2f-b1924c5e469e",
+"title": "Toute la banlieue fait la bringue (1935, Gramophone K 7624)",
+"indexed_on": "2022-04-21T00:12:16.357514Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=117063865",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Toute_la_banlieue_fait_la_bringue_%281935%2C_Gramophone_K_7624%29.ogg",
+"creator": "Emilio Armengol et Claude Loris",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 2208231,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Toute la banlieue fait la bringue (1935, Gramophone K 7624)\" by Emilio Armengol et Claude Loris is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 206915,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c65eec88-1c58-4b6e-8c2f-b1924c5e469e/",
+"related_url": "https://api.openverse.org/v1/audio/c65eec88-1c58-4b6e-8c2f-b1924c5e469e/related/",
+"waveform": "https://api.openverse.org/v1/audio/c65eec88-1c58-4b6e-8c2f-b1924c5e469e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "34d452f7-63c1-4bdf-9b66-bc1d259f1257",
+"title": "Joinville-musette (1935, Gramophone K 7624)",
+"indexed_on": "2022-04-21T00:12:16.357514Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=117063187",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Joinville-musette_%281935%2C_Gramophone_K_7624%29.ogg",
+"creator": "Marcel Bertal et Louis Maubon",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 1967026,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Joinville-musette (1935, Gramophone K 7624)\" by Marcel Bertal et Louis Maubon is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 199810,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/34d452f7-63c1-4bdf-9b66-bc1d259f1257/",
+"related_url": "https://api.openverse.org/v1/audio/34d452f7-63c1-4bdf-9b66-bc1d259f1257/related/",
+"waveform": "https://api.openverse.org/v1/audio/34d452f7-63c1-4bdf-9b66-bc1d259f1257/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "08f19e27-ca30-47eb-8bff-f7120e43f637",
+"title": "Moi c'est pas \u84f7 (1935, Gramophone K 7594)",
+"indexed_on": "2022-04-21T00:12:16.357514Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=117059404",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Moi_c%27est_pas_%C3%A7a_%281935%2C_Gramophone_K_7594%29.ogg",
+"creator": "Roger Sarbib",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 2088614,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Moi c'est pas \u00e7a (1935, Gramophone K 7594)\" by Roger Sarbib is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 185965,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/08f19e27-ca30-47eb-8bff-f7120e43f637/",
+"related_url": "https://api.openverse.org/v1/audio/08f19e27-ca30-47eb-8bff-f7120e43f637/related/",
+"waveform": "https://api.openverse.org/v1/audio/08f19e27-ca30-47eb-8bff-f7120e43f637/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c029a269-3607-443a-963a-1de95319e5f3",
+"title": "Vanha levysoitin, gramofoni, neula rahisee / Old record player, gramophone, needle rasping on vinyl",
+"indexed_on": "2022-11-01T13:48:32.970278Z",
+"foreign_landing_url": "https://freesound.org/people/YleArkisto/sounds/244589",
+"url": "https://cdn.freesound.org/previews/244/244589_4415905-hq.mp3",
+"creator": "YleArkisto",
+"creator_url": "https://freesound.org/people/YleArkisto",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2935718,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Device",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Finland",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Finnish-Broadcasting-Company",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Laitteet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Soundfx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Suomi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Tehosteet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Yle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Yleisradio",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/244589/download/",
+"bit_rate": 0,
+"filesize": 20255440,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Vanha levysoitin, gramofoni, neula rahisee / Old record player, gramophone, needle rasping on vinyl\" by YleArkisto is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Ty\u00f6 Work",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/15046/",
+"creator": "YleArkisto",
+"creator_url": "https://freesound.org/people/YleArkisto/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 114827,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c029a269-3607-443a-963a-1de95319e5f3/",
+"related_url": "https://api.openverse.org/v1/audio/c029a269-3607-443a-963a-1de95319e5f3/related/",
+"waveform": "https://api.openverse.org/v1/audio/c029a269-3607-443a-963a-1de95319e5f3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "02c97eb6-edd6-4f95-83de-c74c1d8fc8e5",
+"title": "Gramophone starts and stops",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/smand/sounds/523169",
+"url": "https://cdn.freesound.org/previews/523/523169_3657069-hq.mp3",
+"creator": "smand",
+"creator_url": "https://freesound.org/people/smand",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 466080,
+"filetype": "mp3",
+"tags": [
+{
+"name": "warm-vinyl",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "surface-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crackle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "phonograph",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dusty-vinyl",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "record",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "turntable",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "static",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vinyl",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hiss",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gramophone",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/523169/download/",
+"bit_rate": 0,
+"filesize": 5694370,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Gramophone starts and stops\" by smand is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Gramophone sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/29470/",
+"creator": "smand",
+"creator_url": "https://freesound.org/people/smand/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 19772,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/02c97eb6-edd6-4f95-83de-c74c1d8fc8e5/",
+"related_url": "https://api.openverse.org/v1/audio/02c97eb6-edd6-4f95-83de-c74c1d8fc8e5/related/",
+"waveform": "https://api.openverse.org/v1/audio/02c97eb6-edd6-4f95-83de-c74c1d8fc8e5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "dd4ba4d3-f935-487c-967b-53baa4b45e58",
+"title": "Old Gramophone Melody 100bpm.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Johnnie_Holiday/sounds/609698",
+"url": "https://cdn.freesound.org/previews/609/609698_4819210-hq.mp3",
+"creator": "Johnnie_Holiday",
+"creator_url": "https://freesound.org/people/Johnnie_Holiday",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 523789,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Audjoo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Barrel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Clarnet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Gramophone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Helix",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Hurdy-Gurdy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Melody",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Oboe",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Old",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Organ",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Record",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Retro",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Synthesizer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Vintage",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Vinyl",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/609698/download/",
+"bit_rate": 0,
+"filesize": 7622866,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Old Gramophone Melody 100bpm.wav\" by Johnnie_Holiday is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 21606,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/dd4ba4d3-f935-487c-967b-53baa4b45e58/",
+"related_url": "https://api.openverse.org/v1/audio/dd4ba4d3-f935-487c-967b-53baa4b45e58/related/",
+"waveform": "https://api.openverse.org/v1/audio/dd4ba4d3-f935-487c-967b-53baa4b45e58/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8371e7d2-5821-4ab7-b8a0-3cdafaf85467",
+"title": "Gramophone starts playing and slows down",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/smand/sounds/523168",
+"url": "https://cdn.freesound.org/previews/523/523168_3657069-hq.mp3",
+"creator": "smand",
+"creator_url": "https://freesound.org/people/smand",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 482592,
+"filetype": "mp3",
+"tags": [
+{
+"name": "78rpm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crackle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dusty-vinyl",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gramophone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gramophone-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hiss",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "music-slows-down",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "phonograph",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scratch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "slow-music",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "surface-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vinyl",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vinyl-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/523168/download/",
+"bit_rate": 0,
+"filesize": 6132004,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Gramophone starts playing and slows down\" by smand is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Gramophone sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/29470/",
+"creator": "smand",
+"creator_url": "https://freesound.org/people/smand/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 21291,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8371e7d2-5821-4ab7-b8a0-3cdafaf85467/",
+"related_url": "https://api.openverse.org/v1/audio/8371e7d2-5821-4ab7-b8a0-3cdafaf85467/related/",
+"waveform": "https://api.openverse.org/v1/audio/8371e7d2-5821-4ab7-b8a0-3cdafaf85467/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f526ea4c-87bf-4852-9e89-c8397a746a71",
+"title": "Gramophone Flick.wav",
+"indexed_on": "2023-03-20T17:21:54.283284Z",
+"foreign_landing_url": "https://freesound.org/people/Soundud3/sounds/409117",
+"url": "https://cdn.freesound.org/previews/409/409117_7113909-hq.mp3",
+"creator": "Soundud3",
+"creator_url": "https://freesound.org/people/Soundud3",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 3533744,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Brass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Drum",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Gramophone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Impact",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Metal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "OWI",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/409117/download/",
+"bit_rate": 0,
+"filesize": 41319904,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Gramophone Flick.wav\" by Soundud3 is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 156157,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f526ea4c-87bf-4852-9e89-c8397a746a71/",
+"related_url": "https://api.openverse.org/v1/audio/f526ea4c-87bf-4852-9e89-c8397a746a71/related/",
+"waveform": "https://api.openverse.org/v1/audio/f526ea4c-87bf-4852-9e89-c8397a746a71/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2d0463c2-6673-4fff-855d-fc3016d26152",
+"title": "Woodcutting",
+"indexed_on": "2023-03-10T13:20:18.216530Z",
+"foreign_landing_url": "https://freesound.org/people/ryanconway/sounds/240804",
+"url": "https://cdn.freesound.org/previews/240/240804_2698284-hq.mp3",
+"creator": "ryanconway",
+"creator_url": "https://freesound.org/people/ryanconway",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 14455,
+"filetype": "mp3",
+"tags": [
+{
+"name": "a",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "axe",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cutting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "effect",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hitting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Metal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tree",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wood",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/240804/download/",
+"bit_rate": 0,
+"filesize": 98380,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Woodcutting\" by ryanconway is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Real World Sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/14768/",
+"creator": "ryanconway",
+"creator_url": "https://freesound.org/people/ryanconway/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 557,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2d0463c2-6673-4fff-855d-fc3016d26152/",
+"related_url": "https://api.openverse.org/v1/audio/2d0463c2-6673-4fff-855d-fc3016d26152/related/",
+"waveform": "https://api.openverse.org/v1/audio/2d0463c2-6673-4fff-855d-fc3016d26152/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "dd813b1a-1e4b-4fee-9dae-117bcd8d32d1",
+"title": "LL-Q1860 (eng)-Flame, not lame-woodcut",
+"indexed_on": "2024-11-12T00:07:06.283469Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=155107205",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/LL-Q1860_%28eng%29-Flame%2C_not_lame-woodcut.wav",
+"creator": "Speaker: Flame, not lame Recorder: Flame, not lame",
+"creator_url": "https://lingualibre.org/wiki/Q1191054",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 101164,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Flame, not lame-woodcut\" by Speaker: Flame, not lame Recorder: Flame, not lame is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1053,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/dd813b1a-1e4b-4fee-9dae-117bcd8d32d1/",
+"related_url": "https://api.openverse.org/v1/audio/dd813b1a-1e4b-4fee-9dae-117bcd8d32d1/related/",
+"waveform": "https://api.openverse.org/v1/audio/dd813b1a-1e4b-4fee-9dae-117bcd8d32d1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "56a67f12-f435-44de-8377-2a368bb11a52",
+"title": "Kirves, halonhakkuu / Axe, woodcutting",
+"indexed_on": "2022-11-01T13:48:32.970278Z",
+"foreign_landing_url": "https://freesound.org/people/YleArkisto/sounds/250309",
+"url": "https://cdn.freesound.org/previews/250/250309_4415905-hq.mp3",
+"creator": "YleArkisto",
+"creator_url": "https://freesound.org/people/YleArkisto",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 4700520,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Field-Recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Finland",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Finnish-Broadcasting-Company",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Puu",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Soundfx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Suomi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Tehosteet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Wood",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Yle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Yleisradio",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/250309/download/",
+"bit_rate": 0,
+"filesize": 35686840,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Kirves, halonhakkuu / Axe, woodcutting\" by YleArkisto is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Ty\u00f6 Work",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/15046/",
+"creator": "YleArkisto",
+"creator_url": "https://freesound.org/people/YleArkisto/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 185865,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/56a67f12-f435-44de-8377-2a368bb11a52/",
+"related_url": "https://api.openverse.org/v1/audio/56a67f12-f435-44de-8377-2a368bb11a52/related/",
+"waveform": "https://api.openverse.org/v1/audio/56a67f12-f435-44de-8377-2a368bb11a52/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4673ade0-a59c-4b8f-948e-64400fa88c9b",
+"title": "Glass Smash 3",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/magnuswaker/sounds/528260",
+"url": "https://cdn.freesound.org/previews/528/528260_11537497-hq.mp3",
+"creator": "magnuswaker",
+"creator_url": "https://freesound.org/people/magnuswaker",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 18720,
+"filetype": "mp3",
+"tags": [
+{
+"name": "broken",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "glass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shards",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shatter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "smash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "unprocessed",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/528260/download/",
+"bit_rate": 0,
+"filesize": 377378,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Glass Smash 3\" by magnuswaker is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Deconstruction",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/29808/",
+"creator": "magnuswaker",
+"creator_url": "https://freesound.org/people/magnuswaker/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 654,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4673ade0-a59c-4b8f-948e-64400fa88c9b/",
+"related_url": "https://api.openverse.org/v1/audio/4673ade0-a59c-4b8f-948e-64400fa88c9b/related/",
+"waveform": "https://api.openverse.org/v1/audio/4673ade0-a59c-4b8f-948e-64400fa88c9b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fbce1a21-63cb-4991-8db5-5e40c863dc39",
+"title": "Semi-urban ambience_1",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/josephvm/sounds/477341",
+"url": "https://cdn.freesound.org/previews/477/477341_6940680-hq.mp3",
+"creator": "josephvm",
+"creator_url": "https://freesound.org/people/josephvm",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1389071,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds-chirping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drizzle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drizzling",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rain",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "semi-urban",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sprinkling",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wind",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "woodcutting",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/477341/download/",
+"bit_rate": 0,
+"filesize": 10618988,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Semi-urban ambience_1\" by josephvm is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Semi-urban ambience",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/27005/",
+"creator": "josephvm",
+"creator_url": "https://freesound.org/people/josephvm/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 60198,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/fbce1a21-63cb-4991-8db5-5e40c863dc39/",
+"related_url": "https://api.openverse.org/v1/audio/fbce1a21-63cb-4991-8db5-5e40c863dc39/related/",
+"waveform": "https://api.openverse.org/v1/audio/fbce1a21-63cb-4991-8db5-5e40c863dc39/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9d9b62a1-094d-4aa6-bc50-e1bb415ea63c",
+"title": "Mechanic Woodcutter",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/Urkki69/sounds/588620",
+"url": "https://cdn.freesound.org/previews/588/588620_12244617-hq.mp3",
+"creator": "Urkki69",
+"creator_url": "https://freesound.org/people/Urkki69",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 738520,
+"filetype": "mp3",
+"tags": [
+{
+"name": "cutting-machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fire-wood",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wood",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wood-cutting",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/588620/download/",
+"bit_rate": 160000,
+"filesize": 778365,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Mechanic Woodcutter\" by Urkki69 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 38701,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9d9b62a1-094d-4aa6-bc50-e1bb415ea63c/",
+"related_url": "https://api.openverse.org/v1/audio/9d9b62a1-094d-4aa6-bc50-e1bb415ea63c/related/",
+"waveform": "https://api.openverse.org/v1/audio/9d9b62a1-094d-4aa6-bc50-e1bb415ea63c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4cbe5c2b-67db-4b37-a30c-e9137f9afd58",
+"title": "Semi-urban ambience_2",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/josephvm/sounds/477342",
+"url": "https://cdn.freesound.org/previews/477/477342_6940680-hq.mp3",
+"creator": "josephvm",
+"creator_url": "https://freesound.org/people/josephvm",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1389579,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds-chirping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drizzle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drizzling",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rain",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "semi-urban",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sprinkling",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wind",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "woodcutting",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/477342/download/",
+"bit_rate": 0,
+"filesize": 10707308,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Semi-urban ambience_2\" by josephvm is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Semi-urban ambience",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/27005/",
+"creator": "josephvm",
+"creator_url": "https://freesound.org/people/josephvm/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 60698,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4cbe5c2b-67db-4b37-a30c-e9137f9afd58/",
+"related_url": "https://api.openverse.org/v1/audio/4cbe5c2b-67db-4b37-a30c-e9137f9afd58/related/",
+"waveform": "https://api.openverse.org/v1/audio/4cbe5c2b-67db-4b37-a30c-e9137f9afd58/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "65486e0e-2a51-4152-b49c-9c497073caa5",
+"title": "Wood Cutting Saw",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/denizenpatrol/sounds/625285",
+"url": "https://cdn.freesound.org/previews/625/625285_13833107-hq.mp3",
+"creator": "denizenpatrol",
+"creator_url": "https://freesound.org/people/denizenpatrol",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 994368,
+"filetype": "mp3",
+"tags": [
+{
+"name": "industrial",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "woodwork",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "motor",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sharp",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "circular-saw",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tools",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "saw",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "factory",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "woodcutting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wood",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "circular",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "engine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electric",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "construction",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "construction-site",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "blade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "metal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cutting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machinery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sawing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "carpentry",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/625285/download/",
+"bit_rate": 0,
+"filesize": 17095724,
+"filetype": "wav",
+"sample_rate": 192000
+}
+],
+"attribution": "\"Wood Cutting Saw\" by denizenpatrol is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Machinery",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/34597/",
+"creator": "denizenpatrol",
+"creator_url": "https://freesound.org/people/denizenpatrol/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 44520,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/65486e0e-2a51-4152-b49c-9c497073caa5/",
+"related_url": "https://api.openverse.org/v1/audio/65486e0e-2a51-4152-b49c-9c497073caa5/related/",
+"waveform": "https://api.openverse.org/v1/audio/65486e0e-2a51-4152-b49c-9c497073caa5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4b89e4bd-a5f0-4079-89e9-4533da393635",
+"title": "Bandsaw.wav",
+"indexed_on": "2024-04-18T18:52:10.009444Z",
+"foreign_landing_url": "https://freesound.org/people/LiezelDippenaar/sounds/707509",
+"url": "https://cdn.freesound.org/previews/707/707509_14747739-hq.mp3",
+"creator": "LiezelDippenaar",
+"creator_url": "https://freesound.org/people/LiezelDippenaar",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 304416,
+"filetype": "mp3",
+"tags": [
+{
+"name": "OWI",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "woodcutting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "woodworking-tool",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/707509/download/",
+"bit_rate": 0,
+"filesize": 3744690,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Bandsaw.wav\" by LiezelDippenaar is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 13000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4b89e4bd-a5f0-4079-89e9-4533da393635/",
+"related_url": "https://api.openverse.org/v1/audio/4b89e4bd-a5f0-4079-89e9-4533da393635/related/",
+"waveform": "https://api.openverse.org/v1/audio/4b89e4bd-a5f0-4079-89e9-4533da393635/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0d950fb5-a6b5-44f6-b850-ba7f6075c915",
+"title": "Bandsaw cutting wood.wav",
+"indexed_on": "2024-04-18T18:52:10.009444Z",
+"foreign_landing_url": "https://freesound.org/people/LiezelDippenaar/sounds/707508",
+"url": "https://cdn.freesound.org/previews/707/707508_14747739-hq.mp3",
+"creator": "LiezelDippenaar",
+"creator_url": "https://freesound.org/people/LiezelDippenaar",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 501792,
+"filetype": "mp3",
+"tags": [
+{
+"name": "OWI",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "woodcutting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "woodworking-tool",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/707508/download/",
+"bit_rate": 0,
+"filesize": 6222168,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Bandsaw cutting wood.wav\" by LiezelDippenaar is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 21602,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0d950fb5-a6b5-44f6-b850-ba7f6075c915/",
+"related_url": "https://api.openverse.org/v1/audio/0d950fb5-a6b5-44f6-b850-ba7f6075c915/related/",
+"waveform": "https://api.openverse.org/v1/audio/0d950fb5-a6b5-44f6-b850-ba7f6075c915/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c0150e63-7625-4a1d-98a1-23d8f6b34522",
+"title": "Journallewisandclarke 06 lewis-clark 64kb",
+"indexed_on": "2024-12-29T15:25:50.870924Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=123472075",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Journallewisandclarke_06_lewis-clark_64kb.ogg",
+"creator": "Librivox (Denny Sayers)",
+"creator_url": null,
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 3393571,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Journallewisandclarke 06 lewis-clark 64kb\" by Librivox (Denny Sayers) is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 635988,
+"bit_rate": 40222,
+"sample_rate": 22050,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c0150e63-7625-4a1d-98a1-23d8f6b34522/",
+"related_url": "https://api.openverse.org/v1/audio/c0150e63-7625-4a1d-98a1-23d8f6b34522/related/",
+"waveform": "https://api.openverse.org/v1/audio/c0150e63-7625-4a1d-98a1-23d8f6b34522/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8e9e95c5-d946-43c0-8843-d00eeccd506a",
+"title": "Neon Heart",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/920619",
+"url": "https://prod-1.storage.jamendo.com/?trackid=920619&format=mp32",
+"creator": "Neon NiteClub",
+"creator_url": "https://www.jamendo.com/artist/371777/Neon_NiteClub_(2)",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Heart\" by Neon NiteClub is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Beauty & The Beats",
+"foreign_landing_url": "https://www.jamendo.com/album/109026/beauty-and-the-beats",
+"creator": "Neon NiteClub",
+"creator_url": "https://www.jamendo.com/artist/371777/Neon_NiteClub_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 232000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/8e9e95c5-d946-43c0-8843-d00eeccd506a/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/8e9e95c5-d946-43c0-8843-d00eeccd506a/",
+"related_url": "https://api.openverse.org/v1/audio/8e9e95c5-d946-43c0-8843-d00eeccd506a/related/",
+"waveform": "https://api.openverse.org/v1/audio/8e9e95c5-d946-43c0-8843-d00eeccd506a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "91f78a9b-2827-4481-bcef-020df967ac0b",
+"title": "Neon Angels",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/114422",
+"url": "https://prod-1.storage.jamendo.com/?trackid=114422&format=mp32",
+"creator": "C.J.ROGERS",
+"creator_url": "https://www.jamendo.com/artist/336426/c.j.rogers",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "lounge",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Angels\" by C.J.ROGERS is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "NEON LIGHTS",
+"foreign_landing_url": "https://www.jamendo.com/album/14964/neon-lights",
+"creator": "C.J.ROGERS",
+"creator_url": "https://www.jamendo.com/artist/336426/c.j.rogers",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 296000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/91f78a9b-2827-4481-bcef-020df967ac0b/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/91f78a9b-2827-4481-bcef-020df967ac0b/",
+"related_url": "https://api.openverse.org/v1/audio/91f78a9b-2827-4481-bcef-020df967ac0b/related/",
+"waveform": "https://api.openverse.org/v1/audio/91f78a9b-2827-4481-bcef-020df967ac0b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "037b2349-9ef7-44ab-bd35-df74e5bab380",
+"title": "Neon Glow",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/113815",
+"url": "https://prod-1.storage.jamendo.com/?trackid=113815&format=mp32",
+"creator": "Fortadelis",
+"creator_url": "https://www.jamendo.com/artist/8004/tomislav.ocvirek",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"breakbeat",
+"chillout"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "lounge",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Glow\" by Fortadelis is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Fortadelis",
+"foreign_landing_url": "https://www.jamendo.com/album/14763/fortadelis",
+"creator": "Fortadelis",
+"creator_url": "https://www.jamendo.com/artist/8004/tomislav.ocvirek",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 316000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/037b2349-9ef7-44ab-bd35-df74e5bab380/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/037b2349-9ef7-44ab-bd35-df74e5bab380/",
+"related_url": "https://api.openverse.org/v1/audio/037b2349-9ef7-44ab-bd35-df74e5bab380/related/",
+"waveform": "https://api.openverse.org/v1/audio/037b2349-9ef7-44ab-bd35-df74e5bab380/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "39627b1a-6dde-4bed-9930-39e57df61fbe",
+"title": "neon sign stereo closeup.flac",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/kyles/sounds/454094",
+"url": "https://cdn.freesound.org/previews/454/454094_612689-hq.mp3",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2260152,
+"filetype": "mp3",
+"tags": [
+{
+"name": "close",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "neon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sign",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/454094/download/",
+"bit_rate": 0,
+"filesize": 7089420,
+"filetype": "flac",
+"sample_rate": 48000
+}
+],
+"attribution": "\"neon sign stereo closeup.flac\" by kyles is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "random",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/3340/",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 74223,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/39627b1a-6dde-4bed-9930-39e57df61fbe/",
+"related_url": "https://api.openverse.org/v1/audio/39627b1a-6dde-4bed-9930-39e57df61fbe/related/",
+"waveform": "https://api.openverse.org/v1/audio/39627b1a-6dde-4bed-9930-39e57df61fbe/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "17bf3ae7-faac-4b48-b98d-9948699af3a9",
+"title": "Neon Glass Pledge",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/642167",
+"url": "https://prod-1.storage.jamendo.com/?trackid=642167&format=mp32",
+"creator": "Icon Girl Pistols",
+"creator_url": "https://www.jamendo.com/artist/362723/Icon_Girl_Pistols",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"indie",
+"rock",
+"world"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "japanese",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Glass Pledge\" by Icon Girl Pistols is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Crushed Beneath The Wheels",
+"foreign_landing_url": "https://www.jamendo.com/album/74358/crushed-beneath-the-wheels",
+"creator": "Icon Girl Pistols",
+"creator_url": "https://www.jamendo.com/artist/362723/Icon_Girl_Pistols",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 166000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/17bf3ae7-faac-4b48-b98d-9948699af3a9/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/17bf3ae7-faac-4b48-b98d-9948699af3a9/",
+"related_url": "https://api.openverse.org/v1/audio/17bf3ae7-faac-4b48-b98d-9948699af3a9/related/",
+"waveform": "https://api.openverse.org/v1/audio/17bf3ae7-faac-4b48-b98d-9948699af3a9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "caaf2f2c-a967-4b0e-93df-c0a08c0c90dc",
+"title": "Neon lights flickering on",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Pastabra/sounds/366151",
+"url": "https://cdn.freesound.org/previews/366/366151_6097925-hq.mp3",
+"creator": "Pastabra",
+"creator_url": "https://freesound.org/people/Pastabra",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 172896,
+"filetype": "mp3",
+"tags": [
+{
+"name": "OWI",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "UV",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "UV-light",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bulb",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bulbs",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "click",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "come",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "flash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "flashing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "flicker",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "flickering",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "flicks",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fluorescent",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fluorescent-tube",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lamp",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "life",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "light",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lighting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lights",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "neon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "switch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "switched",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "switched-on",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "switches",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "switching",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tinging",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tings",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tube",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tube-light",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/366151/download/",
+"bit_rate": 0,
+"filesize": 2261670,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Neon lights flickering on\" by Pastabra is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 7850,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/caaf2f2c-a967-4b0e-93df-c0a08c0c90dc/",
+"related_url": "https://api.openverse.org/v1/audio/caaf2f2c-a967-4b0e-93df-c0a08c0c90dc/related/",
+"waveform": "https://api.openverse.org/v1/audio/caaf2f2c-a967-4b0e-93df-c0a08c0c90dc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ebbbdda7-51ec-40cb-9817-b3e29d4dd6e7",
+"title": "Igor Pumphonia - Neon Night (Dub)",
+"indexed_on": "2024-01-01T16:22:33.076923Z",
+"foreign_landing_url": "https://www.jamendo.com/track/2134324",
+"url": "https://prod-1.storage.jamendo.com/?trackid=2134324&format=mp32",
+"creator": "Igor Pumphonia",
+"creator_url": "https://www.jamendo.com/artist/475967/ChillRecords",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"downtempo",
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "abstract",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "calm",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Igor Pumphonia - Neon Night (Dub)\" by Igor Pumphonia is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Igor Pumphonia - Neon Night",
+"foreign_landing_url": "https://www.jamendo.com/album/549678/igor-pumphonia-neon-night",
+"creator": "Igor Pumphonia",
+"creator_url": "https://www.jamendo.com/artist/475967/ChillRecords",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 255000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/ebbbdda7-51ec-40cb-9817-b3e29d4dd6e7/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/ebbbdda7-51ec-40cb-9817-b3e29d4dd6e7/",
+"related_url": "https://api.openverse.org/v1/audio/ebbbdda7-51ec-40cb-9817-b3e29d4dd6e7/related/",
+"waveform": "https://api.openverse.org/v1/audio/ebbbdda7-51ec-40cb-9817-b3e29d4dd6e7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "58c26839-6f13-4e9c-bebf-f6026217327f",
+"title": "guitar-pickup-amp-crt-neon-light-noise.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/DrNI/sounds/27789",
+"url": "https://cdn.freesound.org/previews/27/27789_154509-hq.mp3",
+"creator": "DrNI",
+"creator_url": "https://freesound.org/people/DrNI",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 4487919,
+"filetype": "mp3",
+"tags": [
+{
+"name": "50hz",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "buzz",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crt",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "display",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hum",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mobile",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "phone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pickup",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "static",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/27789/download/",
+"bit_rate": 0,
+"filesize": 23946344,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"guitar-pickup-amp-crt-neon-light-noise.wav\" by DrNI is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Bass and Git Pickup Noises",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/2069/",
+"creator": "DrNI",
+"creator_url": "https://freesound.org/people/DrNI/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 181000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/58c26839-6f13-4e9c-bebf-f6026217327f/",
+"related_url": "https://api.openverse.org/v1/audio/58c26839-6f13-4e9c-bebf-f6026217327f/related/",
+"waveform": "https://api.openverse.org/v1/audio/58c26839-6f13-4e9c-bebf-f6026217327f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "63c612ff-54e6-4f62-8576-d9a4b4ec7d6e",
+"title": "Neon",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/892983",
+"url": "https://prod-1.storage.jamendo.com/?trackid=892983&format=mp32",
+"creator": "METROGNOMI",
+"creator_url": "https://www.jamendo.com/artist/377564/METROGNOMI",
+"license": "by-nc-nd",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.5/it/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"poprock",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon\" by METROGNOMI is licensed under CC BY-NC-ND 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.5/it/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "SHARE!",
+"foreign_landing_url": "https://www.jamendo.com/album/105041/share",
+"creator": "METROGNOMI",
+"creator_url": "https://www.jamendo.com/artist/377564/METROGNOMI",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 208000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/63c612ff-54e6-4f62-8576-d9a4b4ec7d6e/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/63c612ff-54e6-4f62-8576-d9a4b4ec7d6e/",
+"related_url": "https://api.openverse.org/v1/audio/63c612ff-54e6-4f62-8576-d9a4b4ec7d6e/related/",
+"waveform": "https://api.openverse.org/v1/audio/63c612ff-54e6-4f62-8576-d9a4b4ec7d6e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c5c2834b-72d3-4231-b536-b8207422bcc1",
+"title": "Neon Taylor - Stalker",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1157685",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1157685&format=mp32",
+"creator": "Neon Taylor",
+"creator_url": "https://www.jamendo.com/artist/454728/Neon_Taylor",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"edm",
+"hardcore",
+"hiphop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "soft",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Taylor - Stalker\" by Neon Taylor is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "As above so below",
+"foreign_landing_url": "https://www.jamendo.com/album/138925/as-above-so-below",
+"creator": "Neon Taylor",
+"creator_url": "https://www.jamendo.com/artist/454728/Neon_Taylor",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 142000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/c5c2834b-72d3-4231-b536-b8207422bcc1/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/c5c2834b-72d3-4231-b536-b8207422bcc1/",
+"related_url": "https://api.openverse.org/v1/audio/c5c2834b-72d3-4231-b536-b8207422bcc1/related/",
+"waveform": "https://api.openverse.org/v1/audio/c5c2834b-72d3-4231-b536-b8207422bcc1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8fd85a28-55d1-4ac3-adda-65fba5cc592e",
+"title": "01049 neon blink 2.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Robinhood76/sounds/72700",
+"url": "https://cdn.freesound.org/previews/72/72700_321967-hq.mp3",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 45819,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bar",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "blink",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bulb",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lamp",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "neon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "neons",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "start",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "starter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "switch",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/72700/download/",
+"bit_rate": 0,
+"filesize": 310206,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"01049 neon blink 2.wav\" by Robinhood76 is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Old HOUSE atmosphere sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/4054/",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 1753,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8fd85a28-55d1-4ac3-adda-65fba5cc592e/",
+"related_url": "https://api.openverse.org/v1/audio/8fd85a28-55d1-4ac3-adda-65fba5cc592e/related/",
+"waveform": "https://api.openverse.org/v1/audio/8fd85a28-55d1-4ac3-adda-65fba5cc592e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b0f0618d-08df-4bf4-8e4f-bb2ec2db41ae",
+"title": "Neon Taylor - SWINGIN",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1157686",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1157686&format=mp32",
+"creator": "Neon Taylor",
+"creator_url": "https://www.jamendo.com/artist/454728/Neon_Taylor",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"edm",
+"hardcore",
+"hiphop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "soft",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Taylor - SWINGIN\" by Neon Taylor is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "As above so below",
+"foreign_landing_url": "https://www.jamendo.com/album/138925/as-above-so-below",
+"creator": "Neon Taylor",
+"creator_url": "https://www.jamendo.com/artist/454728/Neon_Taylor",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 166000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/b0f0618d-08df-4bf4-8e4f-bb2ec2db41ae/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/b0f0618d-08df-4bf4-8e4f-bb2ec2db41ae/",
+"related_url": "https://api.openverse.org/v1/audio/b0f0618d-08df-4bf4-8e4f-bb2ec2db41ae/related/",
+"waveform": "https://api.openverse.org/v1/audio/b0f0618d-08df-4bf4-8e4f-bb2ec2db41ae/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6b90eb7d-4fb7-4ee0-aeda-f9f796ee3969",
+"title": "Neon",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/169386",
+"url": "https://prod-1.storage.jamendo.com/?trackid=169386&format=mp32",
+"creator": "The Modern Fighting Vehicles",
+"creator_url": "https://www.jamendo.com/artist/339644/The_Modern_Fighting_Vehicles",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon\" by The Modern Fighting Vehicles is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Neon",
+"foreign_landing_url": "https://www.jamendo.com/album/24868/neon",
+"creator": "The Modern Fighting Vehicles",
+"creator_url": "https://www.jamendo.com/artist/339644/The_Modern_Fighting_Vehicles",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 167000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/6b90eb7d-4fb7-4ee0-aeda-f9f796ee3969/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/6b90eb7d-4fb7-4ee0-aeda-f9f796ee3969/",
+"related_url": "https://api.openverse.org/v1/audio/6b90eb7d-4fb7-4ee0-aeda-f9f796ee3969/related/",
+"waveform": "https://api.openverse.org/v1/audio/6b90eb7d-4fb7-4ee0-aeda-f9f796ee3969/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4a3fa247-71be-421b-86f9-dc9b11ef45e9",
+"title": "pied sur Neon Eclate.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/cidchili/sounds/51734",
+"url": "https://cdn.freesound.org/previews/51/51734_506609-hq.mp3",
+"creator": "cidchili",
+"creator_url": "https://freesound.org/people/cidchili",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 66584,
+"filetype": "mp3",
+"tags": [
+{
+"name": "break",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bulb",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "concrete",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crack",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crunch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crushed",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foot",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "glass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "light",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "neon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "smash",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/51734/download/",
+"bit_rate": 0,
+"filesize": 373932,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"pied sur Neon Eclate.wav\" by cidchili is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2810,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4a3fa247-71be-421b-86f9-dc9b11ef45e9/",
+"related_url": "https://api.openverse.org/v1/audio/4a3fa247-71be-421b-86f9-dc9b11ef45e9/related/",
+"waveform": "https://api.openverse.org/v1/audio/4a3fa247-71be-421b-86f9-dc9b11ef45e9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4e8856e2-e22d-4197-8c6e-b2249b05b903",
+"title": "De-Neon",
+"indexed_on": "2025-08-17T19:35:48.725557Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=49650509",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/De-Neon.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 12852,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-Neon\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1375,
+"bit_rate": 60000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4e8856e2-e22d-4197-8c6e-b2249b05b903/",
+"related_url": "https://api.openverse.org/v1/audio/4e8856e2-e22d-4197-8c6e-b2249b05b903/related/",
+"waveform": "https://api.openverse.org/v1/audio/4e8856e2-e22d-4197-8c6e-b2249b05b903/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4e611b28-7456-4155-bb5b-68413f0e28c3",
+"title": "Neon Sun",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1399581",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1399581&format=mp32",
+"creator": "Libra Makowski",
+"creator_url": "https://www.jamendo.com/artist/6916/solaris.project",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"breakbeat",
+"drumnbass",
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "bass",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "drums",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Sun\" by Libra Makowski is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Mindsphere",
+"foreign_landing_url": "https://www.jamendo.com/album/163826/mindsphere",
+"creator": "Libra Makowski",
+"creator_url": "https://www.jamendo.com/artist/6916/solaris.project",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 397000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/4e611b28-7456-4155-bb5b-68413f0e28c3/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/4e611b28-7456-4155-bb5b-68413f0e28c3/",
+"related_url": "https://api.openverse.org/v1/audio/4e611b28-7456-4155-bb5b-68413f0e28c3/related/",
+"waveform": "https://api.openverse.org/v1/audio/4e611b28-7456-4155-bb5b-68413f0e28c3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0c77d4e2-c8b1-45ce-a215-af650c99784b",
+"title": "neon hypnotizing.mp3",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/szalonegacie/sounds/506434",
+"url": "https://cdn.freesound.org/previews/506/506434_823913-hq.mp3",
+"creator": "szalonegacie",
+"creator_url": "https://freesound.org/people/szalonegacie",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 254798,
+"filetype": "mp3",
+"tags": [
+{
+"name": "city",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electric",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electricity",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hypnotizing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "neon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/506434/download/",
+"bit_rate": 128000,
+"filesize": 173871,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"neon hypnotizing.mp3\" by szalonegacie is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 10854,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0c77d4e2-c8b1-45ce-a215-af650c99784b/",
+"related_url": "https://api.openverse.org/v1/audio/0c77d4e2-c8b1-45ce-a215-af650c99784b/related/",
+"waveform": "https://api.openverse.org/v1/audio/0c77d4e2-c8b1-45ce-a215-af650c99784b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e915bd1e-e497-47ac-a945-764f27ab7ecd",
+"title": "Igor Pumphonia - Neon Groove Queen (Dub)",
+"indexed_on": "2024-08-02T23:04:21.063963Z",
+"foreign_landing_url": "https://www.jamendo.com/track/2193167",
+"url": "https://prod-1.storage.jamendo.com/?trackid=2193167&format=mp32",
+"creator": "Igor Pumphonia",
+"creator_url": "https://www.jamendo.com/artist/475967/ChillRecords",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"chillout",
+"dance",
+"disco",
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "atmospheric",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "inspirational",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Igor Pumphonia - Neon Groove Queen (Dub)\" by Igor Pumphonia is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Igor Pumphonia - Neon Groove Queen",
+"foreign_landing_url": "https://www.jamendo.com/album/576088/igor-pumphonia-neon-groove-queen",
+"creator": "Igor Pumphonia",
+"creator_url": "https://www.jamendo.com/artist/475967/ChillRecords",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 181000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e915bd1e-e497-47ac-a945-764f27ab7ecd/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e915bd1e-e497-47ac-a945-764f27ab7ecd/",
+"related_url": "https://api.openverse.org/v1/audio/e915bd1e-e497-47ac-a945-764f27ab7ecd/related/",
+"waveform": "https://api.openverse.org/v1/audio/e915bd1e-e497-47ac-a945-764f27ab7ecd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "965b14ea-3710-4f5f-9df9-54dd7e918815",
+"title": "Neon Taylor - My Heart",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1157681",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1157681&format=mp32",
+"creator": "Neon Taylor",
+"creator_url": "https://www.jamendo.com/artist/454728/Neon_Taylor",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"edm",
+"hardcore",
+"hiphop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "soft",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Taylor - My Heart\" by Neon Taylor is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "As above so below",
+"foreign_landing_url": "https://www.jamendo.com/album/138925/as-above-so-below",
+"creator": "Neon Taylor",
+"creator_url": "https://www.jamendo.com/artist/454728/Neon_Taylor",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 141000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/965b14ea-3710-4f5f-9df9-54dd7e918815/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/965b14ea-3710-4f5f-9df9-54dd7e918815/",
+"related_url": "https://api.openverse.org/v1/audio/965b14ea-3710-4f5f-9df9-54dd7e918815/related/",
+"waveform": "https://api.openverse.org/v1/audio/965b14ea-3710-4f5f-9df9-54dd7e918815/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9ed5bfc7-0f68-4553-b23e-c36505fc7ae4",
+"title": "Nl-neon",
+"indexed_on": "2023-03-26T12:27:46.314881Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=6035053",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Nl-neon.ogg",
+"creator": "Ejhoekstra",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Ejhoekstra",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16014,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-neon\" by Ejhoekstra is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1300,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9ed5bfc7-0f68-4553-b23e-c36505fc7ae4/",
+"related_url": "https://api.openverse.org/v1/audio/9ed5bfc7-0f68-4553-b23e-c36505fc7ae4/related/",
+"waveform": "https://api.openverse.org/v1/audio/9ed5bfc7-0f68-4553-b23e-c36505fc7ae4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "df314e22-80c2-4811-a125-6fdf23615a7d",
+"title": "LL-Q1860 (eng)-Persent101-bridges",
+"indexed_on": "2023-11-07T00:10:24.264819Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=140197671",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/LL-Q1860_%28eng%29-Persent101-bridges.wav",
+"creator": "Speaker: Persent101 Recorder: Persent101",
+"creator_url": "https://lingualibre.org/wiki/Q1099971",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 104236,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Persent101-bridges\" by Speaker: Persent101 Recorder: Persent101 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1085,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/df314e22-80c2-4811-a125-6fdf23615a7d/",
+"related_url": "https://api.openverse.org/v1/audio/df314e22-80c2-4811-a125-6fdf23615a7d/related/",
+"waveform": "https://api.openverse.org/v1/audio/df314e22-80c2-4811-a125-6fdf23615a7d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2fe0d5b7-5f04-49a9-9fc4-51692c03ee03",
+"title": "burning_ bridges",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/860038",
+"url": "https://prod-1.storage.jamendo.com/?trackid=860038&format=mp32",
+"creator": "Evgeniy_serdiuk",
+"creator_url": "https://www.jamendo.com/artist/373289/evgeniy_serdiuk",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"burning_ bridges\" by Evgeniy_serdiuk is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Demotape",
+"foreign_landing_url": "https://www.jamendo.com/album/100675/demotape",
+"creator": "Evgeniy_serdiuk",
+"creator_url": "https://www.jamendo.com/artist/373289/evgeniy_serdiuk",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 256000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/2fe0d5b7-5f04-49a9-9fc4-51692c03ee03/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/2fe0d5b7-5f04-49a9-9fc4-51692c03ee03/",
+"related_url": "https://api.openverse.org/v1/audio/2fe0d5b7-5f04-49a9-9fc4-51692c03ee03/related/",
+"waveform": "https://api.openverse.org/v1/audio/2fe0d5b7-5f04-49a9-9fc4-51692c03ee03/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e9811ca5-1f43-4550-8896-3c4baf07e01b",
+"title": "Tingsha under vaulted stone bridge mountain stream 19jul2008.wav",
+"indexed_on": "2022-10-01T04:02:44.560321Z",
+"foreign_landing_url": "https://freesound.org/people/henderda/sounds/57603",
+"url": "https://cdn.freesound.org/previews/57/57603_659689-hq.mp3",
+"creator": "henderda",
+"creator_url": "https://freesound.org/people/henderda",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2569936,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bells",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dingsha",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dingshaw",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mountain",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stone-bridge",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stream",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tibetan",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tingsha",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/57603/download/",
+"bit_rate": 0,
+"filesize": 20292988,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Tingsha under vaulted stone bridge mountain stream 19jul2008.wav\" by henderda is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 115039,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e9811ca5-1f43-4550-8896-3c4baf07e01b/",
+"related_url": "https://api.openverse.org/v1/audio/e9811ca5-1f43-4550-8896-3c4baf07e01b/related/",
+"waveform": "https://api.openverse.org/v1/audio/e9811ca5-1f43-4550-8896-3c4baf07e01b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6316ce6b-1f15-43ea-9163-3509f5fd2018",
+"title": "the old man beside the bridge",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/238749",
+"url": "https://prod-1.storage.jamendo.com/?trackid=238749&format=mp32",
+"creator": "Nocreeps",
+"creator_url": "https://www.jamendo.com/artist/3498/nocreeps",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"the old man beside the bridge\" by Nocreeps is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Nice Noise",
+"foreign_landing_url": "https://www.jamendo.com/album/34802/nice-noise",
+"creator": "Nocreeps",
+"creator_url": "https://www.jamendo.com/artist/3498/nocreeps",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 260000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/6316ce6b-1f15-43ea-9163-3509f5fd2018/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/6316ce6b-1f15-43ea-9163-3509f5fd2018/",
+"related_url": "https://api.openverse.org/v1/audio/6316ce6b-1f15-43ea-9163-3509f5fd2018/related/",
+"waveform": "https://api.openverse.org/v1/audio/6316ce6b-1f15-43ea-9163-3509f5fd2018/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "79ee726e-1214-4408-b9cb-66de66ca9208",
+"title": "Bridge Over Troubled Water",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1710275",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1710275&format=mp32",
+"creator": "DreamHeaven",
+"creator_url": "https://www.jamendo.com/artist/524872/DreamHeaven",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"classical",
+"newage"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "atmospheric",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Bridge Over Troubled Water\" by DreamHeaven is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Solo Piano Journey, Vol.2",
+"foreign_landing_url": "https://www.jamendo.com/album/189734/solo-piano-journey-vol-2",
+"creator": "DreamHeaven",
+"creator_url": "https://www.jamendo.com/artist/524872/DreamHeaven",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 191000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/79ee726e-1214-4408-b9cb-66de66ca9208/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/79ee726e-1214-4408-b9cb-66de66ca9208/",
+"related_url": "https://api.openverse.org/v1/audio/79ee726e-1214-4408-b9cb-66de66ca9208/related/",
+"waveform": "https://api.openverse.org/v1/audio/79ee726e-1214-4408-b9cb-66de66ca9208/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0161bddf-8069-4c7a-95bf-a579ebfc2f40",
+"title": "The Iron Bridge",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/264033",
+"url": "https://prod-1.storage.jamendo.com/?trackid=264033&format=mp32",
+"creator": "Memories Lab",
+"creator_url": "https://www.jamendo.com/artist/346137/Memories_Lab_(2)",
+"license": "by-nc-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.5/it/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"metal"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The Iron Bridge\" by Memories Lab is licensed under CC BY-NC-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.5/it/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Stronger Than Hate",
+"foreign_landing_url": "https://www.jamendo.com/album/37645/stronger-than-hate",
+"creator": "Memories Lab",
+"creator_url": "https://www.jamendo.com/artist/346137/Memories_Lab_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 391000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/0161bddf-8069-4c7a-95bf-a579ebfc2f40/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/0161bddf-8069-4c7a-95bf-a579ebfc2f40/",
+"related_url": "https://api.openverse.org/v1/audio/0161bddf-8069-4c7a-95bf-a579ebfc2f40/related/",
+"waveform": "https://api.openverse.org/v1/audio/0161bddf-8069-4c7a-95bf-a579ebfc2f40/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f49d97c1-25a0-4cfa-add4-eed87271093b",
+"title": "Space Bridge",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/84744",
+"url": "https://prod-1.storage.jamendo.com/?trackid=84744&format=mp32",
+"creator": "C.J.ROGERS",
+"creator_url": "https://www.jamendo.com/artist/336426/c.j.rogers",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"dance",
+"techno",
+"trance"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "soft",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Space Bridge\" by C.J.ROGERS is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "MUSIC 4 All",
+"foreign_landing_url": "https://www.jamendo.com/album/7819/music-4-all",
+"creator": "C.J.ROGERS",
+"creator_url": "https://www.jamendo.com/artist/336426/c.j.rogers",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 193000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/f49d97c1-25a0-4cfa-add4-eed87271093b/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/f49d97c1-25a0-4cfa-add4-eed87271093b/",
+"related_url": "https://api.openverse.org/v1/audio/f49d97c1-25a0-4cfa-add4-eed87271093b/related/",
+"waveform": "https://api.openverse.org/v1/audio/f49d97c1-25a0-4cfa-add4-eed87271093b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9ca42690-9090-4d53-bdf3-fcbd339f65f0",
+"title": "Burning Bridges",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1427116",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1427116&format=mp32",
+"creator": "Pavlyuch",
+"creator_url": "https://www.jamendo.com/artist/497837/Pavlyuch",
+"license": "by-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"postrock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "atmospheric",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_verylow",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Burning Bridges\" by Pavlyuch is licensed under CC BY-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Leaving The Earth",
+"foreign_landing_url": "https://www.jamendo.com/album/166354/leaving-the-earth",
+"creator": "Pavlyuch",
+"creator_url": "https://www.jamendo.com/artist/497837/Pavlyuch",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 342000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/9ca42690-9090-4d53-bdf3-fcbd339f65f0/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/9ca42690-9090-4d53-bdf3-fcbd339f65f0/",
+"related_url": "https://api.openverse.org/v1/audio/9ca42690-9090-4d53-bdf3-fcbd339f65f0/related/",
+"waveform": "https://api.openverse.org/v1/audio/9ca42690-9090-4d53-bdf3-fcbd339f65f0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "df9fa20d-a737-4989-8640-8d18d6f1e544",
+"title": "The Mirabeau Bridge",
+"indexed_on": "2023-04-09T07:26:48.611578Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=98594330",
+"url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/The_Mirabeau_Bridge.ogg",
+"creator": "Neil Carmichael",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Back_ache",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 657699,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"The Mirabeau Bridge\" by Neil Carmichael is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 59292,
+"bit_rate": 96000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/df9fa20d-a737-4989-8640-8d18d6f1e544/",
+"related_url": "https://api.openverse.org/v1/audio/df9fa20d-a737-4989-8640-8d18d6f1e544/related/",
+"waveform": "https://api.openverse.org/v1/audio/df9fa20d-a737-4989-8640-8d18d6f1e544/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4864cef0-5c30-4c1c-aa06-da904707e496",
+"title": "Menai Suspension Bridge",
+"indexed_on": "2022-10-09T12:57:33.997634Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=2752447",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Menai_Suspension_Bridge.ogg",
+"creator": "Speaker: Jdhowens90 Menai Suspension Bridge",
+"creator_url": "https://commons.wikimedia.org/w/index.php?title=User:Jdhowens90&action=edit&redlink=1",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 2561987,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Menai Suspension Bridge\" by Speaker: Jdhowens90 Menai Suspension Bridge is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 262925,
+"bit_rate": 96000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4864cef0-5c30-4c1c-aa06-da904707e496/",
+"related_url": "https://api.openverse.org/v1/audio/4864cef0-5c30-4c1c-aa06-da904707e496/related/",
+"waveform": "https://api.openverse.org/v1/audio/4864cef0-5c30-4c1c-aa06-da904707e496/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3ed596db-97b4-4f92-aa52-8fb5e46e725f",
+"title": "LL-Q1860 (eng)-Nattes \u042e chat-bridge",
+"indexed_on": "2023-10-15T12:52:22.475946Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=73934273",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/LL-Q1860_%28eng%29-Nattes_%C3%A0_chat-bridge.wav",
+"creator": "Speaker: Nattes \u00e0 chat Recorder: Nattes \u00e0 chat",
+"creator_url": "https://lingualibre.org/wiki/Q820",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 99604,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Nattes \u00e0 chat-bridge\" by Speaker: Nattes \u00e0 chat Recorder: Nattes \u00e0 chat is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1128,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/3ed596db-97b4-4f92-aa52-8fb5e46e725f/",
+"related_url": "https://api.openverse.org/v1/audio/3ed596db-97b4-4f92-aa52-8fb5e46e725f/related/",
+"waveform": "https://api.openverse.org/v1/audio/3ed596db-97b4-4f92-aa52-8fb5e46e725f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c48826f5-682b-4ad1-851f-82191bde38fd",
+"title": "Walking the Narrow Bridge",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/309599",
+"url": "https://prod-1.storage.jamendo.com/?trackid=309599&format=mp32",
+"creator": "ARTSomerville",
+"creator_url": "https://www.jamendo.com/artist/6453/artsomerville",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_verylow",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Walking the Narrow Bridge\" by ARTSomerville is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Yael Bat-Shimon and Ariel Burger - Improvisations",
+"foreign_landing_url": "https://www.jamendo.com/album/42144/yael-bat-shimon-and-ariel-burger-improvisations",
+"creator": "ARTSomerville",
+"creator_url": "https://www.jamendo.com/artist/6453/artsomerville",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 337000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/c48826f5-682b-4ad1-851f-82191bde38fd/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/c48826f5-682b-4ad1-851f-82191bde38fd/",
+"related_url": "https://api.openverse.org/v1/audio/c48826f5-682b-4ad1-851f-82191bde38fd/related/",
+"waveform": "https://api.openverse.org/v1/audio/c48826f5-682b-4ad1-851f-82191bde38fd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2cd5bcaf-afc6-4433-950a-a4a044ca6f2b",
+"title": "Night\u2019s Bridge",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/33493",
+"url": "https://prod-1.storage.jamendo.com/?trackid=33493&format=mp32",
+"creator": "Bruce H. McCosar",
+"creator_url": "https://www.jamendo.com/artist/3737/bruce.h.mccosar",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Night\u2019s Bridge\" by Bruce H. McCosar is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "handmade",
+"foreign_landing_url": "https://www.jamendo.com/album/4134/handmade",
+"creator": "Bruce H. McCosar",
+"creator_url": "https://www.jamendo.com/artist/3737/bruce.h.mccosar",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 270000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/2cd5bcaf-afc6-4433-950a-a4a044ca6f2b/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/2cd5bcaf-afc6-4433-950a-a4a044ca6f2b/",
+"related_url": "https://api.openverse.org/v1/audio/2cd5bcaf-afc6-4433-950a-a4a044ca6f2b/related/",
+"waveform": "https://api.openverse.org/v1/audio/2cd5bcaf-afc6-4433-950a-a4a044ca6f2b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a6fc2122-885f-45ab-9a3a-98bfc469b4cf",
+"title": "STE-011 broadway bridge traffic.wav",
+"indexed_on": "2022-03-22T02:25:00.183410Z",
+"foreign_landing_url": "https://freesound.org/people/tim.kahn/sounds/28776",
+"url": "https://cdn.freesound.org/previews/28/28776_7037-hq.mp3",
+"creator": "tim.kahn",
+"creator_url": "https://freesound.org/people/tim.kahn",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1046937,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bridge",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "car",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drive",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "geotagged",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "oregon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "portland",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "traffic",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/28776/download/",
+"bit_rate": 0,
+"filesize": 8025048,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"STE-011 broadway bridge traffic.wav\" by tim.kahn is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Wandering Portland",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/3322/",
+"creator": "tim.kahn",
+"creator_url": "https://freesound.org/people/tim.kahn/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 45493,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a6fc2122-885f-45ab-9a3a-98bfc469b4cf/",
+"related_url": "https://api.openverse.org/v1/audio/a6fc2122-885f-45ab-9a3a-98bfc469b4cf/related/",
+"waveform": "https://api.openverse.org/v1/audio/a6fc2122-885f-45ab-9a3a-98bfc469b4cf/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b0796c6e-52a2-4ee3-ae76-b370db8acaa5",
+"title": "Williamsburg Bridge",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/611115",
+"url": "https://prod-1.storage.jamendo.com/?trackid=611115&format=mp32",
+"creator": "PM Prometheus",
+"creator_url": "https://www.jamendo.com/artist/353184/The_Postmodern_Prometheus",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Williamsburg Bridge\" by PM Prometheus is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Slumberland",
+"foreign_landing_url": "https://www.jamendo.com/album/70713/slumberland",
+"creator": "PM Prometheus",
+"creator_url": "https://www.jamendo.com/artist/353184/The_Postmodern_Prometheus",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 296000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/b0796c6e-52a2-4ee3-ae76-b370db8acaa5/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/b0796c6e-52a2-4ee3-ae76-b370db8acaa5/",
+"related_url": "https://api.openverse.org/v1/audio/b0796c6e-52a2-4ee3-ae76-b370db8acaa5/related/",
+"waveform": "https://api.openverse.org/v1/audio/b0796c6e-52a2-4ee3-ae76-b370db8acaa5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "41ffe351-e08f-479d-a4b7-c563c079ed5a",
+"title": "A Bridge, a River and a Mountain",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/581478",
+"url": "https://prod-1.storage.jamendo.com/?trackid=581478&format=mp32",
+"creator": "Manuzik",
+"creator_url": "https://www.jamendo.com/artist/314/manuzik",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"A Bridge, a River and a Mountain\" by Manuzik is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Between 4 and 5",
+"foreign_landing_url": "https://www.jamendo.com/album/67058/between-4-and-5",
+"creator": "Manuzik",
+"creator_url": "https://www.jamendo.com/artist/314/manuzik",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 260000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/41ffe351-e08f-479d-a4b7-c563c079ed5a/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/41ffe351-e08f-479d-a4b7-c563c079ed5a/",
+"related_url": "https://api.openverse.org/v1/audio/41ffe351-e08f-479d-a4b7-c563c079ed5a/related/",
+"waveform": "https://api.openverse.org/v1/audio/41ffe351-e08f-479d-a4b7-c563c079ed5a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5722a2de-7887-4da0-8695-9d84c8cd8f7b",
+"title": "Close-up Under a Highway Bridge, Cars Driving Above, Reverberant",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/flood-mix/sounds/413333",
+"url": "https://cdn.freesound.org/previews/413/413333_7723777-hq.mp3",
+"creator": "flood-mix",
+"creator_url": "https://freesound.org/people/flood-mix",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2229312,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bridge",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "car",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cars",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "city",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "driving",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "highway",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "reverberant",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "street",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "traffic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "truss",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "under",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "urban",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/413333/download/",
+"bit_rate": 0,
+"filesize": 28239364,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Close-up Under a Highway Bridge, Cars Driving Above, Reverberant\" by flood-mix is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 98049,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5722a2de-7887-4da0-8695-9d84c8cd8f7b/",
+"related_url": "https://api.openverse.org/v1/audio/5722a2de-7887-4da0-8695-9d84c8cd8f7b/related/",
+"waveform": "https://api.openverse.org/v1/audio/5722a2de-7887-4da0-8695-9d84c8cd8f7b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "11edc1c5-c8f4-459d-a1dd-7239fae993b8",
+"title": "Brooklyn Bridge Masque Scene",
+"indexed_on": "2023-03-10T13:20:18.216530Z",
+"foreign_landing_url": "https://freesound.org/people/Hali_Pinson/sounds/404120",
+"url": "https://cdn.freesound.org/previews/404/404120_5621939-hq.mp3",
+"creator": "Hali_Pinson",
+"creator_url": "https://freesound.org/people/Hali_Pinson",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 6120347,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Breakfast",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Jazz",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "New",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "s",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Tiffany",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "York",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/404120/download/",
+"bit_rate": 0,
+"filesize": 47376648,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Brooklyn Bridge Masque Scene\" by Hali_Pinson is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Breakfast at Tiffany's",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/22842/",
+"creator": "Hali_Pinson",
+"creator_url": "https://freesound.org/people/Hali_Pinson/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 268575,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/11edc1c5-c8f4-459d-a1dd-7239fae993b8/",
+"related_url": "https://api.openverse.org/v1/audio/11edc1c5-c8f4-459d-a1dd-7239fae993b8/related/",
+"waveform": "https://api.openverse.org/v1/audio/11edc1c5-c8f4-459d-a1dd-7239fae993b8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f8e3c023-85f9-4301-8fe2-d2a720a7d317",
+"title": "De-Bridge",
+"indexed_on": "2025-08-17T19:36:58.281957Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=54283535",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/De-Bridge.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 13779,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-Bridge\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1290,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f8e3c023-85f9-4301-8fe2-d2a720a7d317/",
+"related_url": "https://api.openverse.org/v1/audio/f8e3c023-85f9-4301-8fe2-d2a720a7d317/related/",
+"waveform": "https://api.openverse.org/v1/audio/f8e3c023-85f9-4301-8fe2-d2a720a7d317/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9d7f6403-69da-4e01-8260-d0d2dc72bf19",
+"title": "En-Esplanade Bridge-article",
+"indexed_on": "2023-05-04T16:15:09.512059Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=18706354",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/En-Esplanade_Bridge-article.oga",
+"creator": "Tdxiang.",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Tdxiang",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 5092151,
+"filetype": "oga",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-Esplanade Bridge-article\" by Tdxiang. is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 91432,
+"bit_rate": 499821,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9d7f6403-69da-4e01-8260-d0d2dc72bf19/",
+"related_url": "https://api.openverse.org/v1/audio/9d7f6403-69da-4e01-8260-d0d2dc72bf19/related/",
+"waveform": "https://api.openverse.org/v1/audio/9d7f6403-69da-4e01-8260-d0d2dc72bf19/waveform/",
+"unstable__sensitivity": []
 }
 ]
