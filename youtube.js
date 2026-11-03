@@ -29,12 +29,13 @@ async function piped(mode,o){const out=[],seen=new Set();const want=12,maxV=mode
    if(p<pages&&j.nextpage){try{j=await pj(`/nextpage/search?nextpage=${encodeURIComponent(j.nextpage)}&q=${encodeURIComponent(q)}&filter=videos`)}catch(e){break}}else break}}
  const s={unseen:(a,b)=>(a.count-b.count)||(b.date>a.date?1:-1),old:(a,b)=>a.date<b.date?-1:1,keyword:(a,b)=>a.count-b.count}[mode];
  return out.sort(s).map(x=>({...x,query:qs.join(' | ')}))}
+const JUNK=/nursery|for kids|cartoon|children|ceo|webinar|revenue|marketing|website|seo|tutorial|how to|trailer|asmr|prank|reaction|fortnite|roblox|minecraft|gta|free fire|tiktok|giveaway|subscribe|crypto|bitcoin|forex|earn money|casino|betting|#shorts|podcast|unboxing|review|means nothing|rename/i;
 let POOL=null;
 async function pool(o,n){if(!POOL)try{POOL=await (await fetch('finds/yt_pool.json?'+Date.now().toString().slice(0,-5))).json()}catch(e){POOL=[]}
  const k=(o.kw||'').toLowerCase();let L=POOL.filter(x=>!SEEN.has('yt:'+x.ytid)&&x.count<=50&&(!k||(x.title+' '+x.query).toLowerCase().includes(k)));
  L=L.sort(()=>Math.random()-.5).slice(0,n);return L.map(x=>({...x,extra:x.extra+' · pool harvested '+x.harvested}))}
-async function unseen(o){let live=[];try{live=await piped('unseen',o)}catch(e){}const ids=new Set(live.map(x=>x.ytid));
- const p=(await pool(o,24-live.length)).filter(x=>!ids.has(x.ytid));const r=[...live,...p];if(!r.length)throw new Error('no unseen uploads left that you have not already been shown — the 3-hourly harvest adds hundreds more');return r}
+async function unseen(o){let live=[];try{live=(await piped('unseen',o)).filter(x=>!JUNK.test(x.title+' '+x.extra))}catch(e){}const ids=new Set(live.map(x=>x.ytid));
+ const p=(await pool(o,16)).filter(x=>!ids.has(x.ytid));const r=[...p,...live].slice(0,24);if(!r.length)throw new Error('no unseen uploads left that you have not already been shown — the 3-hourly harvest adds hundreds more');return r}
 async function api(o){const key=localStorage.ytkey;if(!key)throw new Error('no API key — paste one in the box above (stored only in your browser)');
  const q=genQ('unseen',o.kw),order=R(['date','date','relevance']),after=new Date(Date.now()-N(1,72)*3600e3).toISOString();
  const s=await (await fetch(`https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&maxResults=50&safeSearch=strict&order=${order}&q=${encodeURIComponent(q)}${o.kw?'':'&publishedAfter='+after}&key=${key}`)).json();
