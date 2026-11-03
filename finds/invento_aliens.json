@@ -1118,5 +1118,25 @@
   "inventor": "\u674e\u70b3\u6797",
   "module": "aliens",
   "mined_at": "2026-11-01T14:03:56Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Interplanetary transfer method",
+  "date": "2000-05-09",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US6059235A/en",
+  "query": "google patents q=\"interplanetary\" cpc=B64G before 2000",
+  "extra": "patent US6059235A \u00b7 inventor Hans F. Meissinger",
+  "patent_number": "US6059235A",
+  "inventor": "Hans F. Meissinger",
+  "module": "aliens",
+  "mined_at": "2026-11-03T03:48:37Z"
  }
 ]

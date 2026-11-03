@@ -1098,5 +1098,25 @@
   "inventor": "Georg Dr Dipl Phys Tischer",
   "module": "deterrent",
   "mined_at": "2026-10-31T13:04:36Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Hemp protection apparatus for lan line",
+  "date": "2014-09-12",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/KR101438122B1/en",
+  "query": "google patents q=\"nuclear explosion\" cpc=G21J before 1960",
+  "extra": "patent KR101438122B1 \u00b7 inventor \uc1a1\uae30\ud658",
+  "patent_number": "KR101438122B1",
+  "inventor": "\uc1a1\uae30\ud658",
+  "module": "deterrent",
+  "mined_at": "2026-11-03T03:48:38Z"
  }
 ]

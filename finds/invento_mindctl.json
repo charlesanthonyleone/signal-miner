@@ -1478,5 +1478,25 @@
   "inventor": "Chi Yung Fu",
   "module": "mindctl",
   "mined_at": "2026-10-30T01:34:07Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " System and method of improving sleep",
+  "date": "2020-03-19",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US20200086078A1/en",
+  "query": "google patents q=\"mind control\" before 2000",
+  "extra": "patent US20200086078A1 \u00b7 inventor Alexander Poltorak",
+  "patent_number": "US20200086078A1",
+  "inventor": "Alexander Poltorak",
+  "module": "mindctl",
+  "mined_at": "2026-11-03T03:48:32Z"
  }
 ]
