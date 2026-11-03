@@ -20,6 +20,7 @@ def clean(t): return re.sub(r"\s+"," ",tfix(html.unescape(TAG.sub("",t or ""))))
 def norm(t): return re.sub(r"[^a-z0-9]+"," ",t.lower()).strip()[:60]
 FORUMJUNK=re.compile(r"adfree|signup|/api/|insert\?|login|register|\.cgi\?.*(signup|ad)|privacy|terms|banner|/ads?/|Home$",re.I)
 BOILER=re.compile(r"^(links?|related links|cool links|my links|about me|about|home ?page|home|welcome|index|untitled|untitled document|page title|new page \d*|picture page|pictures?|photos?|my page|contact|contact me|email me|guestbook|sign my guestbook|search links|introduction|main|menu|navigation|frames?|blank|test|default|no title|document|unsaved:.*|ppt slide|frontpage run-time component page|redirect\w*|moved|404.*|error.*|object moved|search)$",re.I)
+SPAM=re.compile(r"casino|betting|viagra|cialis|crypto ?(signal|pump)|forex|porn|xxx|escort|loan offer|free followers|click here|buy now",re.I)
 def run(root="finds"):
     rep={}
     for f in sorted(os.listdir(root)):
@@ -30,7 +31,7 @@ def run(root="finds"):
         if not isinstance(L,list) or not L or not isinstance(L[0],dict): continue
         k=f[8:-5] if f.startswith("invento_") else None
         rx=re.compile(r"\b("+TH[k]+")",re.I) if k in TH else None
-        before=json.loads(json.dumps(L));out=[];seen=set()
+        before=json.loads(json.dumps(L));out=[];seen=set();gurl=set()
         for x in L:
             if "title" in x and isinstance(x["title"],str): x["title"]=clean(x["title"])
             if isinstance(x.get("preview"),str): x["preview"]=tfix(x["preview"])
@@ -39,6 +40,11 @@ def run(root="finds"):
             if rx and not rx.search(t+" "+x.get("preview","")+" "+x.get("query","").split("q=")[0]): continue
             if (f.startswith("wb_") or f=="hidden.json") and (BOILER.match(t) or (len(t.split())<=4 and n in seen)): continue
             if f=="forums.json" and FORUMJUNK.search(t+" "+x.get("url","")): continue
+            if SPAM.search(t+" "+str(x.get("preview",""))[:300]): continue
+            u=(x.get("url") or "").rstrip("/").replace("http://","https://")
+            if u and u in gurl: continue
+            if n and len(n)>30 and n in seen and not u: continue
+            gurl.add(u) if u else None
             seen.add(n);out.append(x)
         if out!=before:
             rep[f]=(len(L),len(out)); json.dump(out,open(p,"w"),indent=0)
