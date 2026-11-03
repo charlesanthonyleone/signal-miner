@@ -25,7 +25,7 @@ def harvest(n=30,budget=420):
     t0=time.time();new=[];now=datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%MZ")
     for i in range(n):
         if time.time()-t0>budget: break
-        q=cam() if random.random()<.65 else f"{random.choice(THEME)} {cam() if random.random()<.5 else random.randint(2025,2026)}"
+        q=cam() if random.random()<.3 else random.choice([f"{random.choice(THEME)} {random.randint(2025,2026)}",random.choice(THEME),f"{random.choice(THEME)} {random.choice(THEME)}"])
         try: ents=search(q)
         except Exception as e: print("ytpool",q,e); continue
         k=0
