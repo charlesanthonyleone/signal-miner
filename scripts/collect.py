@@ -96,6 +96,9 @@ for f, fn in jobs:
         print(f, "error:", e)
 
 try:
+    import ytpool; ytpool.harvest(30,480)  # SB-1
+except Exception as e: print('ytpool error:',e)
+try:
     import relnews; relnews.harvest(1)
 except Exception as e: print('relnews error:',e)
 try:
@@ -168,3 +171,7 @@ try:
         import preharvest; preharvest.run(); preharvest.theo_gut(); preharvest.genizah()
     except Exception as e: print("preharvest error:",e)
 except Exception as e: print("worlds error:",e)
+
+try:
+    import curate; curate.run()  # SB-2
+except Exception as e: print("curate error:",e)

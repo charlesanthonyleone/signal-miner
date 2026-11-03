@@ -34,6 +34,11 @@ In the browser, `net.js` gives every fetch a timeout, a 15-minute cache for slow
 - Open-directory discovery through Bing finds few new hosts. Growth comes mostly from curated mirrors.
 - The Vault is per-browser (localStorage). Share links encode the find in the URL.
 
+## Worker B · SB-1 / SB-2 (2026-11-02)
+
+- **SB-1 YouTube · UNSEEN always fresh, ≤50 views, never repeated.** Audit: only 1 of 6 Piped instances answers (kavin 526, leptons/reallyaweso 502, adforge 301, piped.yt dead), and Piped search often returns 0 items. New `scripts/ytpool.py` (runs every 3 h in `collect.py`) searches YouTube **sorted by upload date** (`sp=CAISAhAB`, yt-dlp flat, keyless) with random camera-filename/date/obscure-theme slices. It keeps uploads with ≤50 views, max 8 per query, 8 s–90 min long, and drops SEO/tutorial/shorts/game/crypto junk plus the blocklist. A permanent `finds/yt_ids.json` stops any ID from being published twice. The browser's Unseen source now **always** caps at 50 views (before, that only applied in raw mode), merges the live Piped dig with `finds/yt_pool.json`, and filters out everything in the per-browser SEEN set. First harvest: 215 uploads.
+- **SB-2 curation layer** `scripts/curate.py` (runs last in every Action run): strips HTML/`&hellip;` from titles, removes duplicate patent titles, and requires each INVENTO pile to match its theme regex. Results: formulas 282→90, wartech 243→103, secret 251→106, survival 206→115, immortal 78→49, deterrent 81→55. Forums 940→737 (adfree-signup/api/insert junk removed).
+
 ## Pass 13
 
 - **Pass 12 log written** (was missing from CHANGELOG).

@@ -1,7 +1,7 @@
 [
  {
   "source": "Google Patents",
-  "title": " <b>Hypnotic</b> inducer",
+  "title": "Hypnotic inducer",
   "date": "1961-12-26",
   "dateLabel": "published",
   "count": null,
@@ -21,7 +21,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Device to induce the <b>hypnotic</b> state of those in need of treatment",
+  "title": "Device to induce the hypnotic state of those in need of treatment",
   "date": "1957-11-07",
   "dateLabel": "published",
   "count": null,
@@ -41,7 +41,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " <b>Hypnosis</b> assisting device",
+  "title": "Hypnosis assisting device",
   "date": "1952-09-02",
   "dateLabel": "published",
   "count": null,
@@ -61,7 +61,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Device to facilitate hypnotization",
+  "title": "Device to facilitate hypnotization",
   "date": "1923-04-26",
   "dateLabel": "published",
   "count": null,
@@ -81,7 +81,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Method of and apparatus for inducing and sustaining sleep",
+  "title": "Method of and apparatus for inducing and sustaining sleep",
   "date": "1942-12-08",
   "dateLabel": "published",
   "count": null,
@@ -101,7 +101,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Sleep inducing apparatus",
+  "title": "Sleep inducing apparatus",
   "date": "1959-10-06",
   "dateLabel": "published",
   "count": null,
@@ -121,7 +121,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " System and method for improving sleep",
+  "title": "System and method for improving sleep",
   "date": "2026-07-03",
   "dateLabel": "published",
   "count": null,
@@ -141,7 +141,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " System for treating seizures and abnormal brain function",
+  "title": "System for treating seizures and abnormal brain function",
   "date": "2026-06-02",
   "dateLabel": "published",
   "count": null,
@@ -161,7 +161,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Method for stimulating brain",
+  "title": "Method for stimulating brain",
   "date": "2020-01-08",
   "dateLabel": "published",
   "count": null,
@@ -181,7 +181,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Methods and systems for neural stimulation via visual, auditory and peripheral &hellip;",
+  "title": "Methods and systems for neural stimulation via visual, auditory and peripheral",
   "date": "2025-01-02",
   "dateLabel": "published",
   "count": null,
@@ -201,7 +201,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Methods and systems for neural stimulation via visual stimulation",
+  "title": "Methods and systems for neural stimulation via visual stimulation",
   "date": "2022-01-13",
   "dateLabel": "published",
   "count": null,
@@ -221,7 +221,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Device, method, and app for facilitating sleep",
+  "title": "Device, method, and app for facilitating sleep",
   "date": "2026-05-12",
   "dateLabel": "published",
   "count": null,
@@ -241,7 +241,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " System and method for inducing sleep by transplanting mental states",
+  "title": "System and method for inducing sleep by transplanting mental states",
   "date": "2026-06-23",
   "dateLabel": "published",
   "count": null,
@@ -261,7 +261,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Brain stimulation tool configuration",
+  "title": "Brain stimulation tool configuration",
   "date": "2020-06-02",
   "dateLabel": "published",
   "count": null,
@@ -281,7 +281,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " The intelligence system and method for a kind of assisting sleep",
+  "title": "The intelligence system and method for a kind of assisting sleep",
   "date": "2018-04-24",
   "dateLabel": "published",
   "count": null,
@@ -301,7 +301,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Methods and apparatus for inducing or modifying sleep",
+  "title": "Methods and apparatus for inducing or modifying sleep",
   "date": "2022-05-03",
   "dateLabel": "published",
   "count": null,
@@ -321,47 +321,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " The mystery or occuitisim and mesmerism game",
-  "date": "2002-03-13",
-  "dateLabel": "published",
-  "count": null,
-  "countLabel": "",
-  "kind": "meta",
-  "mime": "patent/text",
-  "thumb": "",
-  "src": "",
-  "preview": "",
-  "url": "https://patents.google.com/patent/GB0201703D0/en",
-  "query": "google patents q=\"mesmerism\" before 2000",
-  "extra": "patent GB0201703D0 \u00b7 inventor ?",
-  "patent_number": "GB0201703D0",
-  "inventor": "",
-  "module": "mindctl",
-  "mined_at": "2026-10-26T20:18:54Z"
- },
- {
-  "source": "Google Patents",
-  "title": " Multifunctional glasses for mesmerism",
-  "date": "1994-04-06",
-  "dateLabel": "published",
-  "count": null,
-  "countLabel": "",
-  "kind": "meta",
-  "mime": "patent/text",
-  "thumb": "",
-  "src": "",
-  "preview": "",
-  "url": "https://patents.google.com/patent/CN2160410Y/en",
-  "query": "google patents q=\"mesmerism\" before 2000",
-  "extra": "patent CN2160410Y \u00b7 inventor \u5468\u4f73\u5149",
-  "patent_number": "CN2160410Y",
-  "inventor": "\u5468\u4f73\u5149",
-  "module": "mindctl",
-  "mined_at": "2026-10-26T20:18:54Z"
- },
- {
-  "source": "Google Patents",
-  "title": " Thought / discussion support system and method",
+  "title": "Thought / discussion support system and method",
   "date": "2018-05-17",
   "dateLabel": "published",
   "count": null,
@@ -381,7 +341,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Sensors and processors for measuring brain electrical activity, including &hellip;",
+  "title": "Sensors and processors for measuring brain electrical activity, including",
   "date": "2016-09-08",
   "dateLabel": "published",
   "count": null,
@@ -401,7 +361,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Working procedure for treatment of abstract objects (thought-substances) in &hellip;",
+  "title": "Working procedure for treatment of abstract objects (thought-substances) in",
   "date": "2022-06-30",
   "dateLabel": "published",
   "count": null,
@@ -421,7 +381,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Working method for treating abstract objects (thought substances) from a &hellip;",
+  "title": "Working method for treating abstract objects (thought substances) from a",
   "date": "2014-04-30",
   "dateLabel": "published",
   "count": null,
@@ -441,7 +401,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Thought transmission unit sends modulated electromagnetic wave beams to human &hellip;",
+  "title": "Thought transmission unit sends modulated electromagnetic wave beams to human",
   "date": "2004-05-27",
   "dateLabel": "published",
   "count": null,
@@ -461,7 +421,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Thought transmission assistance system, thought transmission assistance device, &hellip;",
+  "title": "Thought transmission assistance system, thought transmission assistance device,",
   "date": "2026-07-30",
   "dateLabel": "published",
   "count": null,
@@ -481,7 +441,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " System for direct neural interaction between individuals using real-time signal &hellip;",
+  "title": "System for direct neural interaction between individuals using real-time signal",
   "date": "2026-08-06",
   "dateLabel": "published",
   "count": null,
@@ -501,7 +461,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Phone rejection and their thought transmission method for mobile station",
+  "title": "Phone rejection and their thought transmission method for mobile station",
   "date": "2005-10-07",
   "dateLabel": "published",
   "count": null,
@@ -521,7 +481,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Brain wave analysis system for the correction of spinal displacements, &hellip;",
+  "title": "Brain wave analysis system for the correction of spinal displacements,",
   "date": "2020-08-20",
   "dateLabel": "published",
   "count": null,
@@ -541,7 +501,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Method for amplifying abnormal pattern signal in observed brain activity of a &hellip;",
+  "title": "Method for amplifying abnormal pattern signal in observed brain activity of a",
   "date": "2017-01-10",
   "dateLabel": "published",
   "count": null,
@@ -561,7 +521,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Brain stimulators and their uses",
+  "title": "Brain stimulators and their uses",
   "date": "2021-01-27",
   "dateLabel": "published",
   "count": null,
@@ -581,7 +541,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Methods and systems for slowing brain atrophy",
+  "title": "Methods and systems for slowing brain atrophy",
   "date": "2023-01-26",
   "dateLabel": "published",
   "count": null,
@@ -601,27 +561,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Methods and systems for neural stimulation via visual stimulation",
-  "date": "2024-06-13",
-  "dateLabel": "published",
-  "count": null,
-  "countLabel": "",
-  "kind": "meta",
-  "mime": "patent/text",
-  "thumb": "",
-  "src": "",
-  "preview": "",
-  "url": "https://patents.google.com/patent/KR102674264B1/en",
-  "query": "google patents q=\"brain wave\" cpc=A61N1/36",
-  "extra": "patent KR102674264B1 \u00b7 inventor \uc7ac\ucee4\ub9ac \uc874 \ud568\ube0c\ub808\ud788\ud2b8 \ub9d0\ucc28\ub178",
-  "patent_number": "KR102674264B1",
-  "inventor": "\uc7ac\ucee4\ub9ac \uc874 \ud568\ube0c\ub808\ud788\ud2b8 \ub9d0\ucc28\ub178",
-  "module": "mindctl",
-  "mined_at": "2026-10-26T20:18:54Z"
- },
- {
-  "source": "Google Patents",
-  "title": " Medical hypnosis device for controlling the administration of a hypnosis &hellip;",
+  "title": "Medical hypnosis device for controlling the administration of a hypnosis",
   "date": "2013-08-27",
   "dateLabel": "published",
   "count": null,
@@ -641,7 +581,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " A kind of intelligent auxiliary sleep device and method with adaptive &hellip;",
+  "title": "A kind of intelligent auxiliary sleep device and method with adaptive",
   "date": "2020-03-10",
   "dateLabel": "published",
   "count": null,
@@ -661,7 +601,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " System and method for introducing sleep and detecting sleep transition",
+  "title": "System and method for introducing sleep and detecting sleep transition",
   "date": "2018-10-31",
   "dateLabel": "published",
   "count": null,
@@ -681,7 +621,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Intelligent sleep system, and user side system and cloud side system thereof",
+  "title": "Intelligent sleep system, and user side system and cloud side system thereof",
   "date": "2021-03-30",
   "dateLabel": "published",
   "count": null,
@@ -701,7 +641,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Sleep guarantee system and control method",
+  "title": "Sleep guarantee system and control method",
   "date": "2016-06-08",
   "dateLabel": "published",
   "count": null,
@@ -721,7 +661,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Sound pillow sleep system",
+  "title": "Sound pillow sleep system",
   "date": "2016-09-06",
   "dateLabel": "published",
   "count": null,
@@ -741,7 +681,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Deep sound stimulation system and method for sleep regulation",
+  "title": "Deep sound stimulation system and method for sleep regulation",
   "date": "2026-03-10",
   "dateLabel": "published",
   "count": null,
@@ -761,7 +701,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Baby comfort/sleep aid device",
+  "title": "Baby comfort/sleep aid device",
   "date": "2023-11-17",
   "dateLabel": "published",
   "count": null,
@@ -781,7 +721,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Method and apparatus for promoting restorative sleep",
+  "title": "Method and apparatus for promoting restorative sleep",
   "date": "2013-10-30",
   "dateLabel": "published",
   "count": null,
@@ -801,7 +741,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Hypnotizing device and method",
+  "title": "Hypnotizing device and method",
   "date": "2011-07-06",
   "dateLabel": "published",
   "count": null,
@@ -821,7 +761,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Awakening and hypnotizing method based on intelligent equipment and central &hellip;",
+  "title": "Awakening and hypnotizing method based on intelligent equipment and central",
   "date": "2022-03-15",
   "dateLabel": "published",
   "count": null,
@@ -841,7 +781,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " System and equipment for quickly hypnotizing by utilizing music and optical &hellip;",
+  "title": "System and equipment for quickly hypnotizing by utilizing music and optical",
   "date": "2024-01-02",
   "dateLabel": "published",
   "count": null,
@@ -861,7 +801,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Dual-track sleep induction system",
+  "title": "Dual-track sleep induction system",
   "date": "2020-09-22",
   "dateLabel": "published",
   "count": null,
@@ -881,7 +821,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Hypnotizing method based on combination of voice induction and computer vision",
+  "title": "Hypnotizing method based on combination of voice induction and computer vision",
   "date": "2023-05-09",
   "dateLabel": "published",
   "count": null,
@@ -901,7 +841,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Intelligent hypnotizing method, system and storage medium based on brain- &hellip;",
+  "title": "Intelligent hypnotizing method, system and storage medium based on brain-",
   "date": "2025-10-03",
   "dateLabel": "published",
   "count": null,
@@ -921,7 +861,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " CHANGE CONTROL LEVER SPECIAL MIND FOR AUTOMOBILE GEARS LI",
+  "title": "CHANGE CONTROL LEVER SPECIAL MIND FOR AUTOMOBILE GEARS LI",
   "date": "1976-05-20",
   "dateLabel": "published",
   "count": null,
@@ -941,27 +881,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Device, method, and app for facilitating sleep",
-  "date": "2023-10-17",
-  "dateLabel": "published",
-  "count": null,
-  "countLabel": "",
-  "kind": "meta",
-  "mime": "patent/text",
-  "thumb": "",
-  "src": "",
-  "preview": "",
-  "url": "https://patents.google.com/patent/US11786694B2/en",
-  "query": "google patents q=\"brain wave\" cpc=A61N1/36 before 1940",
-  "extra": "patent US11786694B2 \u00b7 inventor Alexander Poltorak",
-  "patent_number": "US11786694B2",
-  "inventor": "Alexander Poltorak",
-  "module": "mindctl",
-  "mined_at": "2026-10-27T20:38:52Z"
- },
- {
-  "source": "Google Patents",
-  "title": " Pain management based on brain activity monitoring",
+  "title": "Pain management based on brain activity monitoring",
   "date": "2021-04-28",
   "dateLabel": "published",
   "count": null,
@@ -981,7 +901,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Method for influencing the sleep of people and device for carrying out the &hellip;",
+  "title": "Method for influencing the sleep of people and device for carrying out the",
   "date": "1972-02-24",
   "dateLabel": "published",
   "count": null,
@@ -1001,7 +921,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Method for influencing the sleep of persons and device for carrying out the &hellip;",
+  "title": "Method for influencing the sleep of persons and device for carrying out the",
   "date": "1972-01-13",
   "dateLabel": "published",
   "count": null,
@@ -1021,7 +941,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Auto adjusting system for brain tissue stimulator",
+  "title": "Auto adjusting system for brain tissue stimulator",
   "date": "2010-09-21",
   "dateLabel": "published",
   "count": null,
@@ -1041,7 +961,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Various apparatus and methods for deep brain stimulating electrodes",
+  "title": "Various apparatus and methods for deep brain stimulating electrodes",
   "date": "2014-03-04",
   "dateLabel": "published",
   "count": null,
@@ -1061,7 +981,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Devices that invite and maintain sleep",
+  "title": "Devices that invite and maintain sleep",
   "date": "2017-11-15",
   "dateLabel": "published",
   "count": null,
@@ -1081,27 +1001,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Device, method, and app for facilitating sleep",
-  "date": "2024-02-29",
-  "dateLabel": "published",
-  "count": null,
-  "countLabel": "",
-  "kind": "meta",
-  "mime": "patent/text",
-  "thumb": "",
-  "src": "",
-  "preview": "",
-  "url": "https://patents.google.com/patent/US20240066262A1/en",
-  "query": "google patents q=\"subliminal\" cpc=A61M21 before 1940",
-  "extra": "patent US20240066262A1 \u00b7 inventor Alexander Poltorak",
-  "patent_number": "US20240066262A1",
-  "inventor": "Alexander Poltorak",
-  "module": "mindctl",
-  "mined_at": "2026-10-28T18:50:06Z"
- },
- {
-  "source": "Google Patents",
-  "title": " Sleep assistance device for multiple users",
+  "title": "Sleep assistance device for multiple users",
   "date": "2019-11-19",
   "dateLabel": "published",
   "count": null,
@@ -1121,7 +1021,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Systems and methods for optimization of sleep and post-sleep performance",
+  "title": "Systems and methods for optimization of sleep and post-sleep performance",
   "date": "2014-07-22",
   "dateLabel": "published",
   "count": null,
@@ -1141,7 +1041,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Providing outside stimulus to aid in sleep",
+  "title": "Providing outside stimulus to aid in sleep",
   "date": "2023-02-02",
   "dateLabel": "published",
   "count": null,
@@ -1161,7 +1061,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Sleep assistance device",
+  "title": "Sleep assistance device",
   "date": "2019-12-19",
   "dateLabel": "published",
   "count": null,
@@ -1181,7 +1081,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Sleep system",
+  "title": "Sleep system",
   "date": "2023-04-04",
   "dateLabel": "published",
   "count": null,
@@ -1201,7 +1101,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " System and method of improving sleep",
+  "title": "System and method of improving sleep",
   "date": "2023-02-16",
   "dateLabel": "published",
   "count": null,
@@ -1221,27 +1121,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Systems and methods for optimization of sleep and post-sleep performance",
-  "date": "2020-09-09",
-  "dateLabel": "published",
-  "count": null,
-  "countLabel": "",
-  "kind": "meta",
-  "mime": "patent/text",
-  "thumb": "",
-  "src": "",
-  "preview": "",
-  "url": "https://patents.google.com/patent/EP2348969B1/en",
-  "query": "google patents q=\"subliminal\" cpc=A61M21 before 1940",
-  "extra": "patent EP2348969B1 \u00b7 inventor Chris Berka",
-  "patent_number": "EP2348969B1",
-  "inventor": "Chris Berka",
-  "module": "mindctl",
-  "mined_at": "2026-10-28T18:50:06Z"
- },
- {
-  "source": "Google Patents",
-  "title": " Platform for delivering digital behavior therapies to patients",
+  "title": "Platform for delivering digital behavior therapies to patients",
   "date": "2020-03-12",
   "dateLabel": "published",
   "count": null,
@@ -1261,7 +1141,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Apparatus and method for early detection, monitoring and treating sleep &hellip;",
+  "title": "Apparatus and method for early detection, monitoring and treating sleep",
   "date": "2019-01-10",
   "dateLabel": "published",
   "count": null,
@@ -1281,7 +1161,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Vibrational delta and theta brain wave induction apparatus and method for &hellip;",
+  "title": "Vibrational delta and theta brain wave induction apparatus and method for",
   "date": "2016-06-14",
   "dateLabel": "published",
   "count": null,
@@ -1301,7 +1181,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Non-invasive peripheral nerve stimulation for the enhancement of behavioral &hellip;",
+  "title": "Non-invasive peripheral nerve stimulation for the enhancement of behavioral",
   "date": "2021-12-30",
   "dateLabel": "published",
   "count": null,
@@ -1321,27 +1201,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " System and method of improving sleep",
-  "date": "2020-03-19",
-  "dateLabel": "published",
-  "count": null,
-  "countLabel": "",
-  "kind": "meta",
-  "mime": "patent/text",
-  "thumb": "",
-  "src": "",
-  "preview": "",
-  "url": "https://patents.google.com/patent/US20200086078A1/en",
-  "query": "google patents q=\"mind control\" before 1980",
-  "extra": "patent US20200086078A1 \u00b7 inventor Alexander Poltorak",
-  "patent_number": "US20200086078A1",
-  "inventor": "Alexander Poltorak",
-  "module": "mindctl",
-  "mined_at": "2026-10-28T18:50:06Z"
- },
- {
-  "source": "Google Patents",
-  "title": " System and method for communicating brain activity to an imaging device",
+  "title": "System and method for communicating brain activity to an imaging device",
   "date": "2021-02-11",
   "dateLabel": "published",
   "count": null,
@@ -1361,7 +1221,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Method and apparatus for changing brain wave frequency",
+  "title": "Method and apparatus for changing brain wave frequency",
   "date": "1991-08-06",
   "dateLabel": "published",
   "count": null,
@@ -1381,7 +1241,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Method and apparatus for inducing sleep by applying electrical pulses to plural &hellip;",
+  "title": "Method and apparatus for inducing sleep by applying electrical pulses to plural",
   "date": "1973-10-02",
   "dateLabel": "published",
   "count": null,
@@ -1401,7 +1261,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Method of changing a person's behavior",
+  "title": "Method of changing a person's behavior",
   "date": "1988-01-05",
   "dateLabel": "published",
   "count": null,
@@ -1421,7 +1281,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Device for the induction of brain wave patterns associated with relaxed and &hellip;",
+  "title": "Device for the induction of brain wave patterns associated with relaxed and",
   "date": "1984-12-31",
   "dateLabel": "published",
   "count": null,
@@ -1441,7 +1301,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Behavior modification",
+  "title": "Behavior modification",
   "date": "2001-07-10",
   "dateLabel": "published",
   "count": null,
@@ -1461,7 +1321,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Method and apparatus to create and induce a self-created hypnosis",
+  "title": "Method and apparatus to create and induce a self-created hypnosis",
   "date": "2003-05-20",
   "dateLabel": "published",
   "count": null,
@@ -1481,7 +1341,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Method for inducing hypnosis",
+  "title": "Method for inducing hypnosis",
   "date": "1974-07-09",
   "dateLabel": "published",
   "count": null,
@@ -1501,7 +1361,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Visual hypnosis method",
+  "title": "Visual hypnosis method",
   "date": "1996-01-23",
   "dateLabel": "published",
   "count": null,
@@ -1521,7 +1381,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Hypnotic anesthesia process and apparatus for performing same",
+  "title": "Hypnotic anesthesia process and apparatus for performing same",
   "date": "1965-09-07",
   "dateLabel": "published",
   "count": null,
@@ -1541,7 +1401,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Method and apparatus for inducing a pre-hypnotic state",
+  "title": "Method and apparatus for inducing a pre-hypnotic state",
   "date": "1981-08-11",
   "dateLabel": "published",
   "count": null,
@@ -1561,7 +1421,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " DEVICE FOR PERFORMING HYPNOSIS THERAPY",
+  "title": "DEVICE FOR PERFORMING HYPNOSIS THERAPY",
   "date": "1989-03-30",
   "dateLabel": "published",
   "count": null,
@@ -1581,7 +1441,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " One kind obtains brain states objective quantitative and refers to calibration &hellip;",
+  "title": "One kind obtains brain states objective quantitative and refers to calibration",
   "date": "2018-02-13",
   "dateLabel": "published",
   "count": null,
@@ -1601,7 +1461,7 @@
  },
  {
   "source": "Google Patents",
-  "title": " Method for processing brainwave signals",
+  "title": "Method for processing brainwave signals",
   "date": "2018-09-25",
   "dateLabel": "published",
   "count": null,
