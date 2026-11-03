@@ -31,11 +31,14 @@ async function piped(mode,o){const out=[],seen=new Set();const want=12,maxV=mode
  return out.sort(s).map(x=>({...x,query:qs.join(' | ')}))}
 const JUNK=/nursery|for kids|cartoon|children|ceo|webinar|revenue|marketing|website|seo|tutorial|how to|trailer|asmr|prank|reaction|fortnite|roblox|minecraft|gta|free fire|tiktok|giveaway|subscribe|crypto|bitcoin|forex|earn money|casino|betting|#shorts|podcast|unboxing|review|means nothing|rename/i;
 const RAWT=/^\s*(img|mvi|dsc|dscn|dscf|mov|vid|gopr|pxl|win|cimg|pict|p\d{3}|\d{3}_)[\s_]*\d|^[\d\s_\-:.]+(pro|mov|avi|mp4)?$/i;
-const score=x=>(RAWT.test(x.title)?0:3)+(/sermon|chapel|monaster|shortwave|numbers station|vhs|8mm|16mm|cemetery|ruin|abandon|ghost|church|manuscript|relic|shrine|folk|hymn|seance|ufo|light|meteor|radio|history|oral|map|pilgrim|procession|rosary|icon|catacomb|mine|lighthouse|wreck|siren|ham |grave|ritual|archive|old /i.test(x.title)?3:0)+(x.title.length>25?1:0)-x.count/50;
+const score=x=>(x.score||0)/2+(x.fresh?1.5:0)+(RAWT.test(x.title)?0:3)+(/sermon|chapel|monaster|shortwave|numbers station|vhs|8mm|16mm|cemetery|ruin|abandon|ghost|church|manuscript|relic|shrine|folk|hymn|seance|ufo|light|meteor|radio|history|oral|map|pilgrim|procession|rosary|icon|catacomb|mine|lighthouse|wreck|siren|ham |grave|ritual|archive|old /i.test(x.title)?3:0)+(x.title.length>25?1:0)-x.count/50;
 let POOL=null;
 async function pool(o,n){if(!POOL)try{POOL=await (await fetch('finds/yt_pool.json?'+Date.now().toString().slice(0,-5))).json()}catch(e){POOL=[]}
  const k=(o.kw||'').toLowerCase();let L=POOL.filter(x=>!SEEN.has('yt:'+x.ytid)&&x.count<=50&&(!k||(x.title+' '+x.query).toLowerCase().includes(k)));
- L=L.sort(()=>Math.random()-.5).slice(0,n);return L.map(x=>({...x,extra:x.extra+' · pool harvested '+x.harvested}))}
+ const now=Date.now(),age=x=>Math.max(0,(now-Date.parse((x.harvested||'').replace('Z',':00Z')))/36e5)||999;
+ L=L.map(x=>[x,(x.score||0)-age(x)/48+Math.random()*2.5]).sort((a,b)=>b[1]-a[1]).slice(0,n).map(a=>a[0]);
+ const ago=h=>h<1?'just now':h<48?Math.round(h)+' h ago':Math.round(h/24)+' d ago';
+ return L.map(x=>({...x,extra:x.extra+' · harvested '+ago(age(x)),fresh:age(x)<24}))}
 async function unseen(o,rawOnly){let live=[];try{live=(await piped('unseen',o)).filter(x=>!JUNK.test(x.title+' '+x.extra))}catch(e){}const ids=new Set(live.map(x=>x.ytid));
  const p=(await pool(o,rawOnly?16:60)).filter(x=>!ids.has(x.ytid));let r=[...p,...live].filter(x=>rawOnly?RAWT.test(x.title):!RAWT.test(x.title)||Math.random()<.2);r=r.sort((a,b)=>score(b)-score(a)).slice(0,24);if(!r.length)throw new Error('no unseen uploads left that you have not already been shown — the 3-hourly harvest adds hundreds more');return r}
 async function api(o){const key=localStorage.ytkey;if(!key)throw new Error('no API key — paste one in the box above (stored only in your browser)');

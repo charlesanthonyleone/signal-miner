@@ -15,9 +15,22 @@ THEME=["sermon","chapel","monastery","shortwave","numbers station","vhs transfer
  "basement tapes","cassette rip","reel to reel","answering machine","farm auction","estate sale","old photos","bog","cave","quarry","storm footage",
  "night sky","aurora","owl","fog","hermit","tape found","dashcam night","trail cam","old radio","organ recital","bell ringing","folk dance"]
 JUNK=re.compile(r"means nothing|rename|seo|alt text|tutorial|how to|file nam|#shorts|\bshorts?\b|asmr|prank|reaction|fortnite|roblox|minecraft|gta|free fire|tiktok|giveaway|subscribe|crypto|bitcoin|forex|earn money|airdrop|casino|betting|slot|\bvlog\b|unboxing|review|gameplay|walkthrough|lyrics|remix|edit\b|status|whatsapp|trailer|full movie|episode|podcast|live ?stream|\bai\b|motivation|what if|explained|every size|top \d+|facts|documentary|sky tonight|stock ?(film|footage)|wedding film|highlights|compilation|news|update|breaking|official|music video|\bep\b|album|cover\b|#\w+.*#\w+",re.I)
-BAIT=re.compile(r"^this |genius|mistake|investor|millions|\bfund\b|club penguin|\bbuild\b|\bpin\b|gaming|stoic|lesson|secrets? of|you won.t|insane|shocking|\$\d|\d+%|\|.*\|",re.I)
+BAIT=re.compile(r"^this |genius|mistake|investor|millions|\bfund\b|club penguin|\bbuild\b|\bpin\b|gaming|stoic|screen recording|skyrim|\bvs\.?\b|summit|ambience|ambient|sleep music|that became|then it|never owned|was beating|the (truth|story|rise|fall) |lesson|secrets? of|you won.t|insane|shocking|\$\d|\d+%|\|.*\|",re.I)
 EMOJI=re.compile(r"[\U0001F300-\U0001FAFF]")
 def tkey(t): return re.sub(r"[^a-z]+","",t.lower())[:40]
+RAW=re.compile(r"^\s*(img|mvi|dsc|dscf|mov|vid|gopr|pxl|win)[\s_]*\d|^[\d\s_\-:.]+$",re.I)
+def score(t,v,d,ch):
+    s=0.0
+    if RAW.search(t): s+=2
+    if re.search(r"[^\x00-\x7f]",t) and not EMOJI.search(t): s+=1.5   # non-English home uploads
+    if re.search(r"(?i)"+"|".join(map(re.escape,THEME)),t): s+=2
+    if re.search(r"(?i)home|family|grandma|grandpa|church|reel|tape|footage|found",t): s+=1
+    if 20<=d<=1200: s+=1
+    w=re.findall(r"[A-Za-z]{3,}",t)
+    if len(t)>35 and w and sum(x[0].isupper() for x in w)/len(w)>.7: s-=2.5   # Title Case = scripted channel
+    if " — " in t or ": The " in t: s-=1.5
+    s-=v/25
+    return round(s,2)
 def search(q):
     with yt_dlp.YoutubeDL({"quiet":True,"extract_flat":True,"playlistend":40,"socket_timeout":20}) as y:
         r=y.extract_info("https://www.youtube.com/results?search_query="+q.replace(" ","+")+"&sp="+random.choice(["CAISBAgCEAE","CAISBAgDEAE"]),download=False)
@@ -42,9 +55,10 @@ def harvest(n=30,budget=420):
             ch=e.get("channel") or "?";tk=tkey(t)+"|channel: "+ch
             if len(EMOJI.findall(t))>2 or (t.isupper() and len(t)>12) or tk[:70] in seen or chan.get(ch,0)>=2: continue
             if JUNK.search(t) or BAIT.search(t) or ch.endswith(" - Topic") or re.search(r"films?$|media$|tv$|news|official|studio",ch,re.I) or BAD.search(t+" "+ch): continue
+            if score(t,v,d,ch)<-1.5: continue
             k+=1;ids.add(vid);seen.add(tk[:70]);chan[ch]=chan.get(ch,0)+1;new.append({"source":"YouTube","module":"youtube","ytid":vid,"title":t,"url":"https://www.youtube.com/watch?v="+vid,"kind":"iframe",
               "src":f"https://www.youtube-nocookie.com/embed/{vid}?autoplay=1","thumb":f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg","count":v,"countLabel":"views",
-              "date":now[:10],"dateLabel":"harvested","extra":f"channel: {e.get('channel') or '?'} · {d//60}:{P(d%60,2)} · this-week/month upload, newest-first, ≤50 views at harvest","query":q,"harvested":now})
+              "date":now[:10],"dateLabel":"harvested","extra":f"channel: {e.get('channel') or '?'} · {d//60}:{P(d%60,2)} · this-week/month upload, newest-first, ≤50 views at harvest","query":q,"harvested":now,"score":score(t,v,d,ch)})
         time.sleep(1)
     cut=(datetime.datetime.now(datetime.UTC).replace(tzinfo=None)-datetime.timedelta(days=21)).strftime("%Y-%m-%d")
     pool=[x for x in new+pool if x.get("date","9")>=cut][:900]
