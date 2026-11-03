@@ -15,6 +15,10 @@
 - Local preview: `python3 -m http.server 8937 --bind 127.0.0.1` in repo (8765 is another build's server). `sm-shots/dom.py` dumps card text.
 - mine.yml has workflow_dispatch; scheduled runs lag hours. Manual run 41571292264 started 10:17 PM ET.
 
+## SA-8 (Nov 2, ~10:55 PM ET)
+- ytpool backfills `score` on legacy pool rows (parsed from extra channel/duration; all 365 parse) and drops <−1.5 (23 of 365 locally), so client ranking uses real scores pool-wide. Run 41571292264 was still in progress at 10:55 PM ET; applies on next Actions run.
+- Worktree is detached HEAD (main lives in /workspace/signal-miner): push with `git push origin HEAD:main`.
+
 ## Next ideas
 - Cross-file URL dedupe was too aggressive (hidden vs wb_*); if retried, restrict to same-module files.
 - Rules: stage only own files, `git pull --rebase` (no autostash), $0, no secrets, safety layer stays on, don't touch other builds.
