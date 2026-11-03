@@ -30,5 +30,7 @@
 ## SA-11
 - New `scripts/cdxgate.py`: one breaker shared by worlds `_cdxget`, grayspace, vidharvest (when the breaker is open it re-queues the shard and stops) and deeptext (skips the Wayback fallback). Only refused/timeout errors count; any success resets it.
 
+- Checked: run 41576436642 (dispatched 11:10 PM ET) succeeded in about 22 min (the previous run took about 50), finished 11:39 PM ET, data commit c6fd25f. Wayback was still down, so the breaker opened and skipped CDX calls with zero retry stalls; no new wb_/vid harvest this run. Expect normal harvesting when archive.org recovers.
+
 ## Next ideas
 - Rules: stage only own files, `git pull --rebase` (no autostash), $0, no secrets, safety layer stays on, don't touch other builds.
