@@ -14,7 +14,8 @@ THEME=["sermon","chapel","monastery","shortwave","numbers station","vhs transfer
  "oral history","old map","pilgrimage","processions","rosary","icon","catacomb","mine shaft","lighthouse","shipwreck","tornado siren","ham radio","field recording","home movie","family reunion","choir rehearsal","church bells",
  "basement tapes","cassette rip","reel to reel","answering machine","farm auction","estate sale","old photos","bog","cave","quarry","storm footage",
  "night sky","aurora","owl","fog","hermit","tape found","dashcam night","trail cam","old radio","organ recital","bell ringing","folk dance"]
-JUNK=re.compile(r"means nothing|rename|seo|alt text|tutorial|how to|file nam|#shorts|\bshorts?\b|asmr|prank|reaction|fortnite|roblox|minecraft|gta|free fire|tiktok|giveaway|subscribe|crypto|bitcoin|forex|earn money|airdrop|casino|betting|slot|\bvlog\b|unboxing|review|gameplay|walkthrough|lyrics|remix|edit\b|status|whatsapp|trailer|full movie|episode|podcast|live ?stream|\bai\b|motivation|#\w+.*#\w+",re.I)
+JUNK=re.compile(r"means nothing|rename|seo|alt text|tutorial|how to|file nam|#shorts|\bshorts?\b|asmr|prank|reaction|fortnite|roblox|minecraft|gta|free fire|tiktok|giveaway|subscribe|crypto|bitcoin|forex|earn money|airdrop|casino|betting|slot|\bvlog\b|unboxing|review|gameplay|walkthrough|lyrics|remix|edit\b|status|whatsapp|trailer|full movie|episode|podcast|live ?stream|\bai\b|motivation|what if|explained|every size|top \d+|facts|documentary|sky tonight|stock ?(film|footage)|wedding film|highlights|compilation|news|update|breaking|official|music video|\bep\b|album|cover\b|#\w+.*#\w+",re.I)
+BAIT=re.compile(r"^this |genius|mistake|investor|millions|\bfund\b|club penguin|\bbuild\b|\bpin\b|gaming|stoic|lesson|secrets? of|you won.t|insane|shocking|\$\d|\d+%|\|.*\|",re.I)
 EMOJI=re.compile(r"[\U0001F300-\U0001FAFF]")
 def tkey(t): return re.sub(r"[^a-z]+","",t.lower())[:40]
 def search(q):
@@ -27,25 +28,25 @@ def harvest(n=30,budget=420):
     try: pool=json.load(open("finds/yt_pool.json"))
     except Exception: pool=[]
     seen={(tkey(x.get("title",""))+"|"+x.get("extra","").split(" · ")[0])[:70] for x in pool};chan={}
-    t0=time.time();new=[];now=datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%MZ")
+    t0=time.time();new=[];now=datetime.datetime.now(datetime.UTC).replace(tzinfo=None).strftime("%Y-%m-%dT%H:%MZ")
     for i in range(n):
         if time.time()-t0>budget: break
-        q=cam() if random.random()<.3 else random.choice([f"{random.choice(THEME)} {random.randint(2025,2026)}",random.choice(THEME),f"{random.choice(THEME)} {random.choice(THEME)}"])
+        q=cam() if random.random()<.5 else random.choice([f"{random.choice(THEME)} {random.randint(2025,2026)}",random.choice(THEME),f"{random.choice(THEME)} {random.choice(THEME)}"])
         try: ents=search(q)
         except Exception as e: print("ytpool",q,e); continue
         k=0
         for e in ents:
-            if k>=8: break
+            if k>=5: break
             v=e.get("view_count");vid=e.get("id");t=e.get("title") or "";d=e.get("duration") or 0
             if not vid or vid in ids or v is None or v>50 or d<8 or d>5400: continue
             ch=e.get("channel") or "?";tk=tkey(t)+"|channel: "+ch
             if len(EMOJI.findall(t))>2 or (t.isupper() and len(t)>12) or tk[:70] in seen or chan.get(ch,0)>=2: continue
-            if JUNK.search(t) or BAD.search(t+" "+(e.get("channel") or "")): continue
+            if JUNK.search(t) or BAIT.search(t) or ch.endswith(" - Topic") or re.search(r"films?$|media$|tv$|news|official|studio",ch,re.I) or BAD.search(t+" "+ch): continue
             k+=1;ids.add(vid);seen.add(tk[:70]);chan[ch]=chan.get(ch,0)+1;new.append({"source":"YouTube","module":"youtube","ytid":vid,"title":t,"url":"https://www.youtube.com/watch?v="+vid,"kind":"iframe",
               "src":f"https://www.youtube-nocookie.com/embed/{vid}?autoplay=1","thumb":f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg","count":v,"countLabel":"views",
               "date":now[:10],"dateLabel":"harvested","extra":f"channel: {e.get('channel') or '?'} · {d//60}:{P(d%60,2)} · this-week/month upload, newest-first, ≤50 views at harvest","query":q,"harvested":now})
         time.sleep(1)
-    cut=(datetime.datetime.utcnow()-datetime.timedelta(days=21)).strftime("%Y-%m-%d")
+    cut=(datetime.datetime.now(datetime.UTC).replace(tzinfo=None)-datetime.timedelta(days=21)).strftime("%Y-%m-%d")
     pool=[x for x in new+pool if x.get("date","9")>=cut][:900]
     json.dump(pool,open("finds/yt_pool.json","w"),indent=0); json.dump(sorted(ids)[-60000:],open("finds/yt_ids.json","w"))
     print("ytpool +",len(new),"pool",len(pool)); return len(new)
