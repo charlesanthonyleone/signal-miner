@@ -22,7 +22,7 @@ FORUMJUNK=re.compile(r"adfree|signup|/api/|insert\?|login|register|\.cgi\?.*(sig
 BOILER=re.compile(r"^(links?|related links|cool links|my links|about me|about|home ?page|home|welcome|index|untitled|untitled document|page title|new page \d*|picture page|pictures?|photos?|my page|contact|contact me|email me|guestbook|sign my guestbook|search links|introduction|main|menu|navigation|frames?|blank|test|default|no title|document|unsaved:.*|ppt slide|frontpage run-time component page|redirect\w*|moved|404.*|error.*|object moved|search)$",re.I)
 SPAM=re.compile(r"casino|betting|viagra|cialis|crypto ?(signal|pump)|forex|porn|xxx|escort|loan offer|free followers|click here|buy now",re.I)
 def run(root="finds"):
-    rep={}
+    rep={};mod={}   # SA-9: cross-file URL dedupe scoped to same-module piles (wb_*, invento_*, deep_*, pre_*) only
     for f in sorted(os.listdir(root)):
         if not f.endswith(".json"): continue
         p=os.path.join(root,f)
@@ -31,7 +31,7 @@ def run(root="finds"):
         if not isinstance(L,list) or not L or not isinstance(L[0],dict): continue
         k=f[8:-5] if f.startswith("invento_") else None
         rx=re.compile(r"\b("+TH[k]+")",re.I) if k in TH else None
-        before=json.loads(json.dumps(L));out=[];seen=set();gurl=set()
+        before=json.loads(json.dumps(L));out=[];seen=set();gurl=set();mp=re.match(r"(wb|invento|deep|pre)_",f);mu=mod.setdefault(mp.group(1),set()) if mp else set()
         for x in L:
             if "title" in x and isinstance(x["title"],str): x["title"]=clean(x["title"])
             if isinstance(x.get("preview"),str): x["preview"]=tfix(x["preview"])
@@ -42,10 +42,11 @@ def run(root="finds"):
             if f=="forums.json" and FORUMJUNK.search(t+" "+x.get("url","")): continue
             if SPAM.search(t+" "+str(x.get("preview",""))[:300]): continue
             u=(x.get("url") or "").rstrip("/").replace("http://","https://")
-            if u and u in gurl: continue
+            if u and (u in gurl or u in mu): continue
             if n and len(n)>30 and n in seen and not u: continue
             gurl.add(u) if u else None
             seen.add(n);out.append(x)
+        mu.update((x.get("url") or "").rstrip("/").replace("http://","https://") for x in out if x.get("url"))
         if out!=before:
             rep[f]=(len(L),len(out)); json.dump(out,open(p,"w"),indent=0)
     print("curate",rep); return rep

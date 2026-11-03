@@ -19,6 +19,9 @@
 - ytpool backfills `score` on legacy pool rows (parsed from extra channel/duration; all 365 parse) and drops <−1.5 (23 of 365 locally), so client ranking uses real scores pool-wide. Run 41571292264 was still in progress at 10:55 PM ET; applies on next Actions run.
 - Worktree is detached HEAD (main lives in /workspace/signal-miner): push with `git push origin HEAD:main`.
 
+## SA-9 (Nov 2, ~11:00 PM ET)
+- curate.py cross-file URL dedupe retried, scoped to same-prefix piles only (wb_*, invento_*, deep_*, pre_*); hidden/nuforc/news etc. untouched cross-file. Local dry-run: wb_* lose 1–24 rows each (tripod variants most), deep_odindex −11; finds restored (Actions commits).
+- Run 41571292264 still in collect.py at ~11:00 PM ET (setup steps green).
+
 ## Next ideas
-- Cross-file URL dedupe was too aggressive (hidden vs wb_*); if retried, restrict to same-module files.
 - Rules: stage only own files, `git pull --rebase` (no autostash), $0, no secrets, safety layer stays on, don't touch other builds.
