@@ -25,7 +25,10 @@
 
 ## SA-10 (Nov 2, ~11:15 PM ET)
 - Run 41571292264 **succeeded** (finished 11:07 PM ET, committed a5f8ad7). Its log showed web.archive.org refusing connections, with each wb_/forums call burning ~2–4 min on retries (one with a 240 s timeout).
-- worlds.py `_cdxget`: per-call timeout capped at 90 s; circuit breaker opens after 2 calls die on refused/timeout (429/5xx still retry normally; success resets it). Mock-tested: the 3rd+ call fails instantly. grayspace/vidharvest/deeptext call CDX directly and are not covered yet (next candidate).
+- worlds.py `_cdxget`: per-call timeout capped at 90 s; circuit breaker opens after 2 calls die on refused/timeout (429/5xx still retry normally; success resets it). Mock-tested: the 3rd+ call fails instantly.
+
+## SA-11
+- New `scripts/cdxgate.py`: one breaker shared by worlds `_cdxget`, grayspace, vidharvest (when the breaker is open it re-queues the shard and stops) and deeptext (skips the Wayback fallback). Only refused/timeout errors count; any success resets it.
 
 ## Next ideas
 - Rules: stage only own files, `git pull --rebase` (no autostash), $0, no secrets, safety layer stays on, don't touch other builds.

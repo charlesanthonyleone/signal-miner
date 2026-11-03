@@ -5,7 +5,7 @@ UA={"User-Agent":"SignalMiner/2.0 (github actions; hobby project; contact via gi
 BAD=re.compile(r"\b(sex|porn|xxx|nude|naked|erotic|adult|fetish|hentai|nsfw|escort|incest|rape|pedo|lolita|child abuse)\w*",re.I)
 # Pass 9: Wayback throttles (429/503, SSL EOF, resets) -> back off and retry instead of losing the whole harvest
 class _Throttle(Exception): pass
-_DOWN=[0]   # SA-10 circuit breaker: after 2 calls die on refused/timeout (host down, not throttling), fail fast for the rest of the run
+from cdxgate import DOWN as _DOWN   # SA-10 circuit breaker: after 2 calls die on refused/timeout (host down, not throttling), fail fast for the rest of the run
 def _cdxget(params=None,headers=None,timeout=60,tries=4):
     import time as _t
     if _DOWN[0]>=2: raise IOError("wayback down this run (circuit open)")

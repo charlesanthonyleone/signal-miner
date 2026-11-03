@@ -24,10 +24,13 @@ def harvest(budget=900,per_shard=6):
     while st["queue"] and time.time()<end:
         sh=st["queue"].pop(0)
         p={"url":sh,"matchType":"prefix","filter":[vidshards.VIDRE,f"mimetype:{mt}","statuscode:200"],"limit":400,"output":"json","fl":"timestamp,original,mimetype,length","collapse":"urlkey"}
+        import cdxgate
+        if cdxgate.is_open(): st["queue"].insert(0,sh); print("vid: wayback down, stop"); break
         try:
-            txt=requests.get("https://web.archive.org/cdx/search/cdx",params=p,headers=UA,timeout=min(75,max(10,end-time.time()))).text.strip()
+            txt=requests.get("https://web.archive.org/cdx/search/cdx",params=p,headers=UA,timeout=min(75,max(10,end-time.time()))).text.strip();cdxgate.note()
             rows=json.loads(txt)[1:] if txt.startswith("[") else []
         except Exception as e:
+            cdxgate.note(e)
             st["fails"][sh]=st["fails"].get(sh,0)+1
             if len(sh.rsplit("/",1)[-1])<3: st["queue"]+=vidshards.split(sh)      # chunk it, retry later
             elif st["fails"][sh]<3: st["queue"].append(sh)

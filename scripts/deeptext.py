@@ -95,12 +95,13 @@ def _cdx_txt(host):
         rows=[json.loads(l) for l in r.text.splitlines() if l.startswith("{")]
         rows=[{"url":x["url"],"timestamp":x.get("timestamp",""),"length":x.get("length",0),"offset":x.get("offset"),"filename":x.get("filename"),"via":"Common Crawl"} for x in rows if isinstance(x,dict) and x.get("url")]
     except Exception as e: print("cc host",host,e)
-    if not rows:
+    import cdxgate
+    if not rows and not cdxgate.is_open():
         try:
             r=requests.get("https://web.archive.org/cdx/search/cdx",params={"url":f"{host}/*","filter":["mimetype:text/plain","statuscode:200"],"limit":200,"output":"json","collapse":"urlkey"},headers=UA,timeout=40)
-            j=r.json() if r.text.strip().startswith("[") else []
+            cdxgate.note();j=r.json() if r.text.strip().startswith("[") else []
             rows=[{"url":x[2],"timestamp":x[1],"length":x[6],"via":"Wayback CDX"} for x in j[1:]]
-        except Exception as e: print("wb host",host,e)
+        except Exception as e: cdxgate.note(e);print("wb host",host,e)
     return [x for x in rows if not x.get("url","").lower().split("?")[0].endswith(JUNKTXT) and not is_bad(x.get("url","")) and x.get("url")]
 def cc_text(n=10, hosts=None):
     out=[]; hosts=(hosts or (random.sample(TXTHOSTS,10)+_hosts_from_crawl()[:2]))

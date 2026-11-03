@@ -136,11 +136,13 @@ def cdx_media(kind,want=12,tries=8):
         p={"url":host,"matchType":"prefix","filter":flt,"limit":300,"output":"json","fl":"timestamp,original,mimetype,length","collapse":"urlkey"}
         rows=[]
         if late(): break
+        import cdxgate
         for t in (60,40):
+            if cdxgate.is_open(): print("cdx skip (wayback down)",host); break
             try:
-                txt=requests.get("https://web.archive.org/cdx/search/cdx",params=p,headers=UA,timeout=t).text.strip()
+                txt=requests.get("https://web.archive.org/cdx/search/cdx",params=p,headers=UA,timeout=t).text.strip();cdxgate.note()
                 rows=json.loads(txt)[1:] if txt.startswith("[") else []; break
-            except Exception as e: print("cdx",kind,host,type(e).__name__); time.sleep(3)
+            except Exception as e: cdxgate.note(e); print("cdx",kind,host,type(e).__name__); time.sleep(3)
         else:
             if kind=="video" and len(host.rsplit("/",1)[-1])<3:  # chunked retry: split timed-out shard
                 import vidshards; queue[:0]=random.sample(vidshards.split(host),3)
