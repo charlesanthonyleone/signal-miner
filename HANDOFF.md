@@ -9,7 +9,19 @@
 - curate.py: SPAM regex all piles, per-file URL dedupe (keep #fragments — nuforc relies on them), long-title dedupe only for URL-less rows. hidden.json 421→25 is genuine (same camera titles ×26).
 - style.css tail: grain, accent vignette, card lift/hover grade, reduced-motion guard.
 
+## SA-6/7 (Nov 2, ~10:15 PM ET)
+- ytpool `score()` stored per find (raw filename +2, non-English +1.5, theme +2, home/tape words +1, 20s–20min +1, Title-Case scripted −2.5, em-dash −1.5, −views/25); rows <−1.5 dropped.
+- youtube.js pool ranks by score − age/48h + jitter; cards show "found N h ago" and a pulsing **New** badge (<24h).
+- Local preview: `python3 -m http.server 8937 --bind 127.0.0.1` in repo (8765 is another build's server). `sm-shots/dom.py` dumps card text.
+- mine.yml has workflow_dispatch; scheduled runs lag hours. Manual run 41571292264 started 10:17 PM ET.
+
+## SA-8 (Nov 2, ~10:55 PM ET)
+- ytpool backfills `score` on legacy pool rows (parsed from extra channel/duration; all 365 parse) and drops <−1.5 (23 of 365 locally), so client ranking uses real scores pool-wide. Run 41571292264 was still in progress at 10:55 PM ET; applies on next Actions run.
+- Worktree is detached HEAD (main lives in /workspace/signal-miner): push with `git push origin HEAD:main`.
+
+## SA-9 (Nov 2, ~11:00 PM ET)
+- curate.py cross-file URL dedupe retried, scoped to same-prefix piles only (wb_*, invento_*, deep_*, pre_*); hidden/nuforc/news etc. untouched cross-file. Local dry-run: wb_* lose 1–24 rows each (tripod variants most), deep_odindex −11; finds restored (Actions commits).
+- Run 41571292264 still in collect.py at ~11:00 PM ET (setup steps green).
+
 ## Next ideas
-- Score YT finds (raw filename/non-English/home-footage boost) instead of pure filters; surface "harvested N h ago" on cards.
-- Cross-file URL dedupe was too aggressive (hidden vs wb_*); if retried, restrict to same-module files.
 - Rules: stage only own files, `git pull --rebase` (no autostash), $0, no secrets, safety layer stays on, don't touch other builds.

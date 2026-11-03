@@ -60,6 +60,11 @@ def harvest(n=30,budget=420):
               "src":f"https://www.youtube-nocookie.com/embed/{vid}?autoplay=1","thumb":f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg","count":v,"countLabel":"views",
               "date":now[:10],"dateLabel":"harvested","extra":f"channel: {e.get('channel') or '?'} · {d//60}:{P(d%60,2)} · this-week/month upload, newest-first, ≤50 views at harvest","query":q,"harvested":now,"score":score(t,v,d,ch)})
         time.sleep(1)
+    for x in pool:   # SA-8 backfill: legacy rows harvested before SA-6 get a score from stored title/views/extra
+        if x.get("score") is None:
+            m=re.search(r"channel: (.*?) · (\d+):(\d\d)",x.get("extra",""));ch,d=(m.group(1),int(m.group(2))*60+int(m.group(3))) if m else ("?",0)
+            x["score"]=score(x.get("title",""),x.get("count") or 0,d,ch)
+    pool=[x for x in pool if x["score"]>=-1.5]
     cut=(datetime.datetime.now(datetime.UTC).replace(tzinfo=None)-datetime.timedelta(days=21)).strftime("%Y-%m-%d")
     pool=[x for x in new+pool if x.get("date","9")>=cut][:900]
     json.dump(pool,open("finds/yt_pool.json","w"),indent=0); json.dump(sorted(ids)[-60000:],open("finds/yt_ids.json","w"))
