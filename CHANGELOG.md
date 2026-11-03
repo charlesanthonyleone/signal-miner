@@ -40,6 +40,7 @@ In the browser, `net.js` gives every fetch a timeout, a 15-minute cache for slow
 - **SB-2 curation layer** `scripts/curate.py` (runs last in every Action run): strips HTML/`&hellip;` from titles, removes duplicate patent titles, and requires each INVENTO pile to match its theme regex. Results: formulas 282→90, wartech 243→103, secret 251→106, survival 206→115, immortal 78→49, deterrent 81→55. Forums 940→737 (adfree-signup/api/insert junk removed).
 
 - **SB-3 dead-site noise cut**: `curate.py` now also cleans every `wb_*` Wayback-world pile and `hidden.json`. It decodes HTML entities in titles, drops boilerplate pages (Links, About Me, Home, Index, Page Title, Guestbook, unsaved:///, FrontPage stubs, 404/redirect), and drops repeated short titles. For example: ccatbib 150→81, geipan 183→99, tokyo 192→146, angelfire 170→130. About 600 junk rows removed across 39 piles.
+
 ## SA-1 (2026-11-02) · full UI redesign, worker A
 
 - **New design system** (`style.css` rewritten from scratch): warm ink background, Newsreader serif for display and reading, Inter for UI, IBM Plex Mono for metadata. Each stratum gets one restrained accent colour, used only for rules, kickers and the active state.
@@ -232,3 +233,9 @@ In the browser, `net.js` gives every fetch a timeout, a 15-minute cache for slow
 - Miner: global time budgets, retries, 45-min job cap.
 - Invento: Google Patents phrase-quoted queries, tag stripping, tighter on-theme filters; USPTO fallback tightened.
 - UX: per-source empty states with hints; safety layer (media gate, blocklist, moderation, reports, Vault) unchanged.
+
+## SA-2 (2026-11-02) — worker A
+- Moderation portal restyled in the SA-1 system (serif headline, ruled table, mono blocklist); all NCMEC/FBI/IC3 links and moderation logic unchanged.
+- Consent notice is now a centered modal dialog (role=dialog, aria-modal, focused primary action, plus Moderation portal link).
+- Reader restores focus to the triggering element on close; emoji stripped from world h2 headings (report/vault).
+- CHANGELOG spacing fix.

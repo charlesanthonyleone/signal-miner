@@ -1,8 +1,8 @@
-<!doctype html><html><head><meta charset="utf-8"><title>Signal Miner · Moderation</title><link rel="stylesheet" href="style.css">
-<style>body{padding:20px;font-family:monospace}table{width:100%;border-collapse:collapse}td,th{border-bottom:1px solid #333;padding:6px;text-align:left;vertical-align:top}a.go,button.go{margin:2px}</style></head><body>
-<h1>MODERATION PORTAL</h1>
+<!doctype html><html><head><meta charset="utf-8"><title>Signal Miner · Moderation</title><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400&family=Inter:wght@400;500&family=IBM+Plex+Mono&display=swap"><link rel="stylesheet" href="style.css">
+<style>.mod{max-width:1040px;margin:0 auto;padding:56px var(--gut) 96px}.mod h1{font:400 clamp(40px,6vw,72px)/1 var(--serif);color:var(--paper);margin:0 0 24px;letter-spacing:-.02em}.mod h2{font:400 26px/1.2 var(--serif);color:var(--paper);margin:48px 0 14px}.mod p{max-width:760px}.mod .row{margin:22px 0}.mod small{color:var(--faint);font-family:var(--mono);overflow-wrap:anywhere}#b p{font:400 12px/1.6 var(--mono);color:var(--mute);overflow-wrap:anywhere}#nb{width:min(520px,100%);margin-right:8px}td .go{height:32px;padding:0 10px;margin:2px;font-size:12px}</style></head><body class="home"><main class="mod" id="main"><p class="kicker"><a href="./" style="text-decoration:none">Signal Miner</a> · Safety</p>
+<h1>Moderation portal</h1>
 <p class="warn">Quarantine list (<code>flagged.json</code>) and pre-display blocklist (<code>blocklist.json</code>). Approve/remove opens a prefilled GitHub issue; a maintainer edits the JSON. Items matching the blocklist are never shown in the miner. If you see child sexual abuse material, report it to NCMEC — do not download or share it.</p>
-<p><a class="go" href="https://report.cybertip.org/" target="_blank">NCMEC CyberTipline</a> <a class="go" href="https://tips.fbi.gov/" target="_blank">FBI tips</a> <a class="go" href="https://www.ic3.gov/" target="_blank">IC3</a> <a class="go" href="./">← back to miner</a></p>
+<p class="row"><a class="go" href="https://report.cybertip.org/" target="_blank">NCMEC CyberTipline</a> <a class="go" href="https://tips.fbi.gov/" target="_blank">FBI tips</a> <a class="go" href="https://www.ic3.gov/" target="_blank">IC3</a> <a class="go" href="./">← back to miner</a></p>
 <h2>Quarantined / reported</h2><table id="f"><tr><th>item</th><th>reason</th><th>reported</th><th>actions</th></tr></table>
 <h2>Blocklist</h2><div id="b"></div>
 <h2>Propose block</h2><input id="nb" placeholder="domain, keyword, url or sha256" size="60"> <button class="go" onclick="iss('Blocklist add: '+nb.value,'Add to blocklist.json:\n\n'+nb.value)">open issue</button>
@@ -17,4 +17,4 @@ fetch('flagged.json',{cache:'no-store'}).then(r=>r.json()).catch(()=>[]).then(F=
  <button class="go" onclick='iss("Moderation REMOVE: "+${JSON.stringify(JSON.stringify(x.url))},"Permanently block (add to blocklist.json urls):\\n"+${JSON.stringify(JSON.stringify(x.url))})'>remove + block</button>
  <a class="go" href="https://report.cybertip.org/" target="_blank">NCMEC</a> <a class="go" href="https://tips.fbi.gov/" target="_blank">FBI</a> <a class="go" href="https://www.ic3.gov/" target="_blank">IC3</a></td></tr>`).join(''):'<tr><td colspan=4>queue empty</td></tr>'});
 fetch('blocklist.json',{cache:'no-store'}).then(r=>r.json()).then(j=>{b.innerHTML=['domains','keywords','urls','sha256'].map(k=>`<p><b>${k}</b> (${(j[k]||[]).length}): ${e((j[k]||[]).join(', '))}</p>`).join('')});
-</script></body></html>
+</script></main></body></html>

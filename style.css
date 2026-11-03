@@ -191,3 +191,12 @@ code{font-family:var(--mono);font-size:.92em;color:var(--paper)}
 }
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
 @media (forced-colors:active){.strata a.on,#subnav a.on,.tabs button.on{text-decoration:underline}}
+
+/* SA-2: consent notice, report/vault pages */
+.modal.notice{justify-content:center;align-items:center;padding:20px}
+.modal.notice .box{height:auto;max-width:560px;border:1px solid var(--rule-2);border-radius:6px;padding:40px}
+.modal.notice .box h3{margin-top:0}
+.modal.notice .box p{font:400 17px/1.6 var(--serif);color:var(--text)}
+.go.primary{background:var(--paper);color:var(--ink);border-color:var(--paper)}
+.world>p:not(.sub):not(.kicker){max-width:760px;overflow-wrap:anywhere}
+.world h3+p a,.world p a{color:var(--paper);text-underline-offset:3px}
