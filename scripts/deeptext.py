@@ -41,7 +41,7 @@ def _gw_text(url):
         t="\n".join(l for l in t.splitlines() if junk not in l)
     return t.strip()
 
-GJUNK=re.compile(r'debian|ubuntu|/packages?/|builder|stargate|\\(game\\)|game|/scm/|commit|File or directory not found|tropical|storm|hurricane|\\bTS \\w|fidonet|wget\\.cgi|zxart|\\.(gph)$',re.I)
+GJUNK=re.compile(r'debian|ubuntu|/packages?/|builder|stargate|\\(game\\)|game|/scm/|commit|File or directory not found|tropical|storm|hurricane|\\bTS \\w|fidonet|wget\\.cgi|zxart|/git/|suckless|\\.[ch]\\b|\\.(gph)$',re.I)
 def veronica(n=14,terms=None):
     out=[]
     for term in (terms or random.sample(TERMS,6)):
