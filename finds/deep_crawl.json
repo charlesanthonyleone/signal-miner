@@ -2638,5 +2638,37 @@
   "query": "CC-MAIN-2026-39 url=*.by/* page=6",
   "extra": "mime text/html \u00b7 status 200 \u00b7 host 212.by",
   "mined_at": "2026-11-03T17:07:54Z"
+ },
+ {
+  "source": "Common Crawl",
+  "title": "92moose.fm/ixp/696/p/maine-dot-rest-areas-history/",
+  "date": "2026-09-14",
+  "dateLabel": "captured",
+  "count": 48309,
+  "countLabel": "bytes (warc)",
+  "kind": "meta",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "text/html",
+  "preview": "(open source link for live text \u2014 pre-mined metadata only)",
+  "url": "https://92moose.fm/ixp/696/p/maine-dot-rest-areas-history/",
+  "query": "CC-MAIN-2026-39 url=*.fm/* page=1",
+  "extra": "mime text/html \u00b7 status 200 \u00b7 host 92moose.fm",
+  "mined_at": "2026-11-03T23:29:27Z"
+ },
+ {
+  "source": "Common Crawl",
+  "title": "92moose.fm/ixp/696/p/maine-hands-free-law/",
+  "date": "2026-09-11",
+  "dateLabel": "captured",
+  "count": 49410,
+  "countLabel": "bytes (warc)",
+  "kind": "meta",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "text/html",
+  "preview": "(open source link for live text \u2014 pre-mined metadata only)",
+  "url": "https://92moose.fm/ixp/696/p/maine-hands-free-law/",
+  "query": "CC-MAIN-2026-39 url=*.fm/* page=1",
+  "extra": "mime text/html \u00b7 status 200 \u00b7 host 92moose.fm",
+  "mined_at": "2026-11-03T23:29:27Z"
  }
 ]

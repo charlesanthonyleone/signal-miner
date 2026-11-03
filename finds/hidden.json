@@ -448,5 +448,23 @@
 "module": "hidden",
 "thumb": "https://cwwp2.dot.ca.gov/data/d12/cctv/image/sr22154cambridgestreet/sr22154cambridgestreet.jpg",
 "mined_at": "2026-10-26T18:54:38Z"
+},
+{
+"source": "File forensics",
+"title": "GOES-West full disk \uff77 GeoColor",
+"date": "2026-10-26",
+"dateLabel": "latest",
+"count": 1,
+"countLabel": "flags",
+"kind": "meta",
+"depth": "1.5 km \u00b7 bathypelagic",
+"mime": "forensics/meta",
+"preview": "strings: {W;_cGps",
+"url": "https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/GEOCOLOR/latest.jpg",
+"query": "EXIF+strings on mined image",
+"extra": "scheduled side analysis \u00b7 media not re-hosted",
+"module": "hidden",
+"thumb": "https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/GEOCOLOR/latest.jpg",
+"mined_at": "2026-11-03T23:40:24Z"
 }
 ]
