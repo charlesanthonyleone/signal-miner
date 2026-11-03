@@ -35,7 +35,7 @@ function loc(t,module){const T0=t;const one=async(o,ph)=>{
     const kw=(o.kw||'').toLowerCase();const m=L.filter(x=>x.theme===key&&(!kw||(x.title+' '+x.preview).toLowerCase().includes(kw)));
     return m.map(x=>[Math.random(),x]).sort((a,b)=>a[0]-b[0]).slice(0,24).map(([_,x])=>({module,source:x.source+' · cached',title:x.title,date:x.date,dateLabel:'printed',count:null,countLabel:'',
       thumb:x.thumb,kind:'link',src:'',url:x.url,preview:x.preview||'(open the page scan for the OCR text)',query:x.query+' — '+why,extra:`lead type: ${t.name} · ${x.place||''} · OCR raw — verify against scan`}))};
-  return async o=>{let err='';for(let k=0;k<2;k++){try{const r=await one(o,o.kw||pk(t.news));if(r.length)return r;if(o.kw)break}catch(e){err=e.message;break}}
+  return async o=>{let err='';for(let k=0;k<2;k++){try{const r=await Promise.race([one(o,o.kw||pk(t.news)),new Promise((_,j)=>setTimeout(()=>j(new Error('loc.gov slow (>15 s), showing cached harvest')),15000))]);if(r.length)return r;if(o.kw)break}catch(e){err=e.message;break}}
     const c=await cached(o,err?'live loc.gov failed: '+err:'live search empty');if(c.length)return c;if(err)throw new Error('Old newspapers: '+err);return []}}
 async function wikiWrecks(o){const off=Math.floor(Math.random()*2500);
   const q=`SELECT ?w ?wLabel ?date ?coord ?desc WHERE { ?w wdt:P31 wd:Q852190 . OPTIONAL{?w wdt:P585 ?date} OPTIONAL{?w wdt:P625 ?coord} OPTIONAL{?w schema:description ?desc FILTER(lang(?desc)='en')} ?w wikibase:sitelinks ?sl FILTER(?sl=0) SERVICE wikibase:label{bd:serviceParam wikibase:language "en,de,fr,nl,sv,fi,no,da,es,it"} } LIMIT 40 OFFSET ${off}`;

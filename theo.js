@@ -97,7 +97,7 @@ async function gutIA(T,module,o){const w=o.kw?[o.kw]:sh(gutWords(T)).slice(0,6);
 function theoGut(T,module){return async o=>{
   if(!o.kw&&!(T.gut&&T.gut.length))return gutIA(T,module,o);
   const t=o.kw||pk(T.gut);const u=new URLSearchParams(o.kw?{search:t}:{topic:t});
-  const r=await (window.PRE?PRE('https://gutendex.com/books/?'+u,'pre_gutendex_theo.json','results',o.kw?{kw:o.kw}:{kw:t}):JJ('https://gutendex.com/books/?'+u)).catch(()=>({results:[]}));const re=o.kw?/./:T.re;
+  const r0=(window.PRE?PRE('https://gutendex.com/books/?'+u,'pre_gutendex_theo.json','results',o.kw?{kw:o.kw}:{kw:t}):JJ('https://gutendex.com/books/?'+u));const r=await Promise.race([r0,new Promise(z=>setTimeout(()=>z({results:[]}),12000))]).catch(()=>({results:[]}));const re=o.kw?/./:T.re;
   const hits=(r.results||[]).filter(b=>re.test(b.title+' '+flat(b.subjects)+' '+flat(b.bookshelves))).map(b=>({module,source:'Project Gutenberg',title:b.title,date:'',dateLabel:'',count:b.download_count,countLabel:'downloads (30d)',
     thumb:b.formats['image/jpeg']||'',kind:'link',src:'',url:`https://www.gutenberg.org/ebooks/${b.id}`,preview:'subjects: '+flat(b.subjects).slice(0,300),
     query:'gutendex '+u,extra:b.authors.map(a=>a.name).join('; ')}));
@@ -128,7 +128,7 @@ const T={
   re:/marginal|annotat|manuscript note|handwrit|commonplace/i,ol:['Marginalia','Manuscript annotations','Commonplace books'],gut:[]},
  deadlang:{name:'DEAD LANGUAGES',icon:'𓁟',blurb:'Coptic, Ge\'ez, Syriac, Avestan, Pali, Akkadian scripture.',
   ia:[['coptic','"coptic language"','"coptic manuscripts"'],['syriac','"syriac literature"','peshitta'],['ethiopic','geez','"ethiopic literature"'],['pali','"pali text"','tipitaka','"pali canon"'],['avestan','avesta','"zend avesta"'],['"old church slavonic"','"church slavic"','gothic bible','"ulfilas"']],
-  re:/septuagint|koine|coptic|syriac|peshitta|ethiopic|ge.?ez|pali|tipitaka|avest|zend|slavonic|church slavic|ulfila|akkad|sumerian|aramaic|sahidic|bohairic/i,ol:['Coptic language','Syriac literature','Ethiopic literature','Pali literature','Avesta','Church Slavic language'],gut:['Coptic','Pali','Avesta']},
+  re:/septuagint|koine|coptic|syriac|peshitta|ethiopic|ge.?ez|pali|tipitaka|avest|zend|slavonic|church slavic|ulfila|akkad|sumerian|aramaic|sahidic|bohairic/i,ol:['Coptic language','Syriac literature','Ethiopic literature','Pali literature','Avesta','Church Slavic language'],gut:['Coptic','Pali','Avesta','Sanskrit','Syriac','Aramaic','Ethiopic']},
  heresies:{name:'VANISHED SECTS',icon:'⚡',blurb:'Cathars, Manichaeans, Bogomils, Gnostics & other heresies.',
   ia:[['cathars','cathar','albigenses','albigensian'],['manichaeism','manichaean','manichean','mani'],['bogomils','bogomil','paulicians','messalians'],['gnosticism','gnostic','gnostics','valentinian','marcion'],['"history of heresies"','"christian heresies"','heretics','lollards','hussites','waldenses','anabaptists']],
   re:/cathar|albigen|manich|bogomil|paulician|messalian|gnostic|valentinian|marcion|heres(y|ies)\b|heretic|montanis|\barian(ism|s)?\b|donatis|nestorian|lollard|hussite|waldens|anabapt/i,ol:['Cathari','Albigenses','Manichaeism','Bogomils','Gnosticism','Heresies, Christian'],gut:['Heresies','Gnosticism']},
