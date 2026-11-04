@@ -746,5 +746,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-04T06:39:48Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 160.238.102.0/23",
+  "date": "2026-11-04",
+  "dateLabel": "sampled",
+  "count": 321,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"160.238.102.0/23\",\n  \"origin\": \"11426\",\n  \"time\": \"2017-12-10T16:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"160.238.102.0/23\",\n  \"origin\": \"174\",\n  \"time\": \"2026-11-04T08:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 321,\n   \"total_ris_peers\": 321\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 174,\n   \"route_objects\": []\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/160.238.102.0/23",
+  "query": "RIPEstat routing-status 160.238.102.0/23",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-04T17:24:39Z"
  }
 ]

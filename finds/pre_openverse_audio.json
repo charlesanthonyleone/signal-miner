@@ -25305,5 +25305,3048 @@
 "related_url": "https://api.openverse.org/v1/audio/2e099896-11e6-4f15-be82-b60a766b0fa7/related/",
 "waveform": "https://api.openverse.org/v1/audio/2e099896-11e6-4f15-be82-b60a766b0fa7/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "bb6f404c-d98b-4181-836e-cc216c845c53",
+"title": "Stamp",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/kermite607/sounds/362624",
+"url": "https://cdn.freesound.org/previews/362/362624_3165091-hq.mp3",
+"creator": "kermite607",
+"creator_url": "https://freesound.org/people/kermite607",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 17088,
+"filetype": "mp3",
+"tags": [
+{
+"name": "office",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "paper",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stamp",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/362624/download/",
+"bit_rate": 0,
+"filesize": 111796,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Stamp\" by kermite607 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 582,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/bb6f404c-d98b-4181-836e-cc216c845c53/",
+"related_url": "https://api.openverse.org/v1/audio/bb6f404c-d98b-4181-836e-cc216c845c53/related/",
+"waveform": "https://api.openverse.org/v1/audio/bb6f404c-d98b-4181-836e-cc216c845c53/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cdd56b9a-46e2-49b1-8e56-3e3b25ddfdd9",
+"title": "00883 bank stamp 2.wav",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/Robinhood76/sounds/66715",
+"url": "https://cdn.freesound.org/previews/66/66715_321967-hq.mp3",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 30580,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bank",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "office",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "post",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stamp",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/66715/download/",
+"bit_rate": 0,
+"filesize": 218394,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"00883 bank stamp 2.wav\" by Robinhood76 is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "OFFICE and PAPERWORK sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/4024/",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 1232,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cdd56b9a-46e2-49b1-8e56-3e3b25ddfdd9/",
+"related_url": "https://api.openverse.org/v1/audio/cdd56b9a-46e2-49b1-8e56-3e3b25ddfdd9/related/",
+"waveform": "https://api.openverse.org/v1/audio/cdd56b9a-46e2-49b1-8e56-3e3b25ddfdd9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "573c70bd-d446-442b-8af7-aa8a3d38ff00",
+"title": "thick-stamp-sub.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/newagesoup/sounds/347323",
+"url": "https://cdn.freesound.org/previews/347/347323_4067257-hq.mp3",
+"creator": "newagesoup",
+"creator_url": "https://freesound.org/people/newagesoup",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 9264,
+"filetype": "mp3",
+"tags": [
+{
+"name": "24-bit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kick",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "medium",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soft",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stamp",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sub",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/347323/download/",
+"bit_rate": 0,
+"filesize": 282568,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"thick-stamp-sub.wav\" by newagesoup is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 978,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/573c70bd-d446-442b-8af7-aa8a3d38ff00/",
+"related_url": "https://api.openverse.org/v1/audio/573c70bd-d446-442b-8af7-aa8a3d38ff00/related/",
+"waveform": "https://api.openverse.org/v1/audio/573c70bd-d446-442b-8af7-aa8a3d38ff00/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "148abdca-c188-4430-9ebc-20c9f0e180d4",
+"title": "En-uk-stamp",
+"indexed_on": "2024-02-18T15:47:28.902290Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=9027488",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/En-uk-stamp.ogg",
+"creator": "Association Shtooka, Judith Franck",
+"creator_url": null,
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/us/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16741,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-uk-stamp\" by Association Shtooka, Judith Franck is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/us/deed.en/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1400,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/148abdca-c188-4430-9ebc-20c9f0e180d4/",
+"related_url": "https://api.openverse.org/v1/audio/148abdca-c188-4430-9ebc-20c9f0e180d4/related/",
+"waveform": "https://api.openverse.org/v1/audio/148abdca-c188-4430-9ebc-20c9f0e180d4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "555aa5a7-0cc6-495a-9de3-058f32157ca1",
+"title": "stamping machine v20h",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Setuniman/sounds/130735",
+"url": "https://cdn.freesound.org/previews/130/130735_2244250-hq.mp3",
+"creator": "Setuniman",
+"creator_url": "https://freesound.org/people/Setuniman",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 279297,
+"filetype": "mp3",
+"tags": [
+{
+"name": "80-bpm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "80bpm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "artifical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cinematic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dark",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "engine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "film",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "heavy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "impending",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "martial",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "movie",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scrape",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scraping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sharp",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shuffling",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "slow",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stamp",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stamping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "synthetic",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/130735/download/",
+"bit_rate": 0,
+"filesize": 2118496,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"stamping machine v20h\" by Setuniman is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "machines",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/8200/",
+"creator": "Setuniman",
+"creator_url": "https://freesound.org/people/Setuniman/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 12000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/555aa5a7-0cc6-495a-9de3-058f32157ca1/",
+"related_url": "https://api.openverse.org/v1/audio/555aa5a7-0cc6-495a-9de3-058f32157ca1/related/",
+"waveform": "https://api.openverse.org/v1/audio/555aa5a7-0cc6-495a-9de3-058f32157ca1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5d62e7f8-5a52-43fd-9fa2-32ef826860ad",
+"title": "OFFICE SELF INKING STAMP ON PAPER 01.wav",
+"indexed_on": "2022-10-01T04:02:44.560321Z",
+"foreign_landing_url": "https://freesound.org/people/sengjinn/sounds/178650",
+"url": "https://cdn.freesound.org/previews/178/178650_2979997-hq.mp3",
+"creator": "sengjinn",
+"creator_url": "https://freesound.org/people/sengjinn",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 78888,
+"filetype": "mp3",
+"tags": [
+{
+"name": "foley",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stamping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "office",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stamp",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "self",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "down",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "inking",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "paper",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "press",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stationary",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "click",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/178650/download/",
+"bit_rate": 0,
+"filesize": 4181380,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"OFFICE SELF INKING STAMP ON PAPER 01.wav\" by sengjinn is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 7240,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5d62e7f8-5a52-43fd-9fa2-32ef826860ad/",
+"related_url": "https://api.openverse.org/v1/audio/5d62e7f8-5a52-43fd-9fa2-32ef826860ad/related/",
+"waveform": "https://api.openverse.org/v1/audio/5d62e7f8-5a52-43fd-9fa2-32ef826860ad/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4c056b96-fe20-4032-87b0-2280f23d5c66",
+"title": "En-us-stamp",
+"indexed_on": "2023-09-24T16:04:39.154609Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=1158028",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/43/En-us-stamp.ogg",
+"creator": "Dvortygirl",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Dvortygirl",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 11288,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-us-stamp\" by Dvortygirl is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 673,
+"bit_rate": 96001,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4c056b96-fe20-4032-87b0-2280f23d5c66/",
+"related_url": "https://api.openverse.org/v1/audio/4c056b96-fe20-4032-87b0-2280f23d5c66/related/",
+"waveform": "https://api.openverse.org/v1/audio/4c056b96-fe20-4032-87b0-2280f23d5c66/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3cbb075b-2446-4eb4-967e-3d028cfbc060",
+"title": "thick-stamp-nosub.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/newagesoup/sounds/347325",
+"url": "https://cdn.freesound.org/previews/347/347325_4067257-hq.mp3",
+"creator": "newagesoup",
+"creator_url": "https://freesound.org/people/newagesoup",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 9264,
+"filetype": "mp3",
+"tags": [
+{
+"name": "24-bit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kick",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "medium",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soft",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stamp",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sub",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/347325/download/",
+"bit_rate": 0,
+"filesize": 282568,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"thick-stamp-nosub.wav\" by newagesoup is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 978,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/3cbb075b-2446-4eb4-967e-3d028cfbc060/",
+"related_url": "https://api.openverse.org/v1/audio/3cbb075b-2446-4eb4-967e-3d028cfbc060/related/",
+"waveform": "https://api.openverse.org/v1/audio/3cbb075b-2446-4eb4-967e-3d028cfbc060/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e247be1f-62da-494c-a141-df6426000093",
+"title": "Office stamp",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/whammy/sounds/514486",
+"url": "https://cdn.freesound.org/previews/514/514486_22858-hq.mp3",
+"creator": "whammy",
+"creator_url": "https://freesound.org/people/whammy",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 124732,
+"filetype": "mp3",
+"tags": [
+{
+"name": "hit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanism",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "office",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "official",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "paper",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stamp",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stamping",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/514486/download/",
+"bit_rate": 0,
+"filesize": 796472,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Office stamp\" by whammy is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 4514,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e247be1f-62da-494c-a141-df6426000093/",
+"related_url": "https://api.openverse.org/v1/audio/e247be1f-62da-494c-a141-df6426000093/related/",
+"waveform": "https://api.openverse.org/v1/audio/e247be1f-62da-494c-a141-df6426000093/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8cebe7c1-fd36-476a-8efc-319426d9328b",
+"title": "Stamp",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/vladnegrila/sounds/339966",
+"url": "https://cdn.freesound.org/previews/339/339966_3669461-hq.mp3",
+"creator": "vladnegrila",
+"creator_url": "https://freesound.org/people/vladnegrila",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 619420,
+"filetype": "mp3",
+"tags": [
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stamp",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stamping",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/339966/download/",
+"bit_rate": 0,
+"filesize": 4135236,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Stamp\" by vladnegrila is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 23442,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8cebe7c1-fd36-476a-8efc-319426d9328b/",
+"related_url": "https://api.openverse.org/v1/audio/8cebe7c1-fd36-476a-8efc-319426d9328b/related/",
+"waveform": "https://api.openverse.org/v1/audio/8cebe7c1-fd36-476a-8efc-319426d9328b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ebc47b39-09e8-4c3a-a8b1-74e7626a3c56",
+"title": "Zildjian Transitional Stamp Sizzle Ride Cymbal Hit.WAV",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/pjcohen/sounds/45669",
+"url": "https://cdn.freesound.org/previews/45/45669_394391-hq.mp3",
+"creator": "pjcohen",
+"creator_url": "https://freesound.org/people/pjcohen",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 325045,
+"filetype": "mp3",
+"tags": [
+{
+"name": "cymbal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drum",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ludwig",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "paiste",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pearl",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sabian",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "yamaha",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "zildjian",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/45669/download/",
+"bit_rate": 0,
+"filesize": 1240044,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Zildjian Transitional Stamp Sizzle Ride Cymbal Hit.WAV\" by pjcohen is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 14059,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ebc47b39-09e8-4c3a-a8b1-74e7626a3c56/",
+"related_url": "https://api.openverse.org/v1/audio/ebc47b39-09e8-4c3a-a8b1-74e7626a3c56/related/",
+"waveform": "https://api.openverse.org/v1/audio/ebc47b39-09e8-4c3a-a8b1-74e7626a3c56/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3b0227a5-534e-43c8-8474-5c7ba767cc07",
+"title": "Zildjian Transitional Stamp Sizzle Ride Cymbal Bell Hit.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/pjcohen/sounds/46446",
+"url": "https://cdn.freesound.org/previews/46/46446_394391-hq.mp3",
+"creator": "pjcohen",
+"creator_url": "https://freesound.org/people/pjcohen",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 84736,
+"filetype": "mp3",
+"tags": [
+{
+"name": "cymbal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drum",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ludwig",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "paiste",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pearl",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sabian",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "yamaha",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "zildjian",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/46446/download/",
+"bit_rate": 0,
+"filesize": 320528,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Zildjian Transitional Stamp Sizzle Ride Cymbal Bell Hit.wav\" by pjcohen is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 3633,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/3b0227a5-534e-43c8-8474-5c7ba767cc07/",
+"related_url": "https://api.openverse.org/v1/audio/3b0227a5-534e-43c8-8474-5c7ba767cc07/related/",
+"waveform": "https://api.openverse.org/v1/audio/3b0227a5-534e-43c8-8474-5c7ba767cc07/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0dcdd919-1e49-42c3-99bb-9bf9aca7cac1",
+"title": "stamping beat 0D_27m2k",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Setuniman/sounds/141183",
+"url": "https://cdn.freesound.org/previews/141/141183_2244250-hq.mp3",
+"creator": "Setuniman",
+"creator_url": "https://freesound.org/people/Setuniman",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 665726,
+"filetype": "mp3",
+"tags": [
+{
+"name": "100bpm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "beat",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cinematic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "clumsy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dark",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "deep",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drums",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "engine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "heavy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hiss",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "industrial",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "loop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "metallic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "muffled",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "puff",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rhythm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "slow",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stamping",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/141183/download/",
+"bit_rate": 0,
+"filesize": 5080364,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"stamping beat 0D_27m2k\" by Setuniman is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "strange beats",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/8135/",
+"creator": "Setuniman",
+"creator_url": "https://freesound.org/people/Setuniman/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 28800,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0dcdd919-1e49-42c3-99bb-9bf9aca7cac1/",
+"related_url": "https://api.openverse.org/v1/audio/0dcdd919-1e49-42c3-99bb-9bf9aca7cac1/related/",
+"waveform": "https://api.openverse.org/v1/audio/0dcdd919-1e49-42c3-99bb-9bf9aca7cac1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2b41f0b4-5b1c-4866-b9a0-b2225dba3fe5",
+"title": "LL-Q1860 (eng)-Flame, not lame-postage stamp",
+"indexed_on": "2024-09-16T00:14:32.325531Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=152675416",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/LL-Q1860_%28eng%29-Flame%2C_not_lame-postage_stamp.wav",
+"creator": "Speaker: Flame, not lame Recorder: Flame, not lame",
+"creator_url": "https://lingualibre.org/wiki/Q1191054",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 131372,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Flame, not lame-postage stamp\" by Speaker: Flame, not lame Recorder: Flame, not lame is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1368,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2b41f0b4-5b1c-4866-b9a0-b2225dba3fe5/",
+"related_url": "https://api.openverse.org/v1/audio/2b41f0b4-5b1c-4866-b9a0-b2225dba3fe5/related/",
+"waveform": "https://api.openverse.org/v1/audio/2b41f0b4-5b1c-4866-b9a0-b2225dba3fe5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d068415a-ed25-4944-a060-d2edfe51eb30",
+"title": "LL-Q1860 (eng)-Nattes \u042e chat-stamp",
+"indexed_on": "2023-10-15T12:52:22.475946Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=73937850",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/LL-Q1860_%28eng%29-Nattes_%C3%A0_chat-stamp.wav",
+"creator": "Speaker: Nattes \u00e0 chat Recorder: Nattes \u00e0 chat",
+"creator_url": "https://lingualibre.org/wiki/Q820",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 83220,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Nattes \u00e0 chat-stamp\" by Speaker: Nattes \u00e0 chat Recorder: Nattes \u00e0 chat is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 943,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d068415a-ed25-4944-a060-d2edfe51eb30/",
+"related_url": "https://api.openverse.org/v1/audio/d068415a-ed25-4944-a060-d2edfe51eb30/related/",
+"waveform": "https://api.openverse.org/v1/audio/d068415a-ed25-4944-a060-d2edfe51eb30/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "24cf50ed-7002-4f81-aa1e-6cde238e197d",
+"title": "LL-Q1860 (eng)-Y. Dongchen-postage stamp",
+"indexed_on": "2023-06-04T00:13:21.646575Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=132619940",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/LL-Q1860_%28eng%29-Y._Dongchen-postage_stamp.wav",
+"creator": "Speaker: Y. Dongchen Recorder: Y. Dongchen",
+"creator_url": "https://lingualibre.org/wiki/Q930152",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 117548,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Y. Dongchen-postage stamp\" by Speaker: Y. Dongchen Recorder: Y. Dongchen is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1224,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/24cf50ed-7002-4f81-aa1e-6cde238e197d/",
+"related_url": "https://api.openverse.org/v1/audio/24cf50ed-7002-4f81-aa1e-6cde238e197d/related/",
+"waveform": "https://api.openverse.org/v1/audio/24cf50ed-7002-4f81-aa1e-6cde238e197d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1b463a6f-c811-4784-940a-9682b07420d4",
+"title": "Nl-stamp",
+"indexed_on": "2023-01-15T20:40:11.071068Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=29743387",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Nl-stamp.ogg",
+"creator": "Marcel coenders",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Marcel_coenders",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 12040,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-stamp\" by Marcel coenders is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 950,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1b463a6f-c811-4784-940a-9682b07420d4/",
+"related_url": "https://api.openverse.org/v1/audio/1b463a6f-c811-4784-940a-9682b07420d4/related/",
+"waveform": "https://api.openverse.org/v1/audio/1b463a6f-c811-4784-940a-9682b07420d4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ffba6844-7d18-4eda-9209-adf19cb5ee24",
+"title": "LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-rubber stamp",
+"indexed_on": "2025-07-16T00:12:26.622519Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=170003159",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/42/LL-Q1860_%28eng%29-Naomi_Persephone_Amethyst_%28NaomiAmethyst%29-rubber_stamp.wav",
+"creator": "Speaker: Naomi Persephone Amethyst Recorder: NaomiAmethyst",
+"creator_url": "http://lingualibre.org/wiki/Q1492185",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 126764,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-rubber stamp\" by Speaker: Naomi Persephone Amethyst Recorder: NaomiAmethyst is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1320,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ffba6844-7d18-4eda-9209-adf19cb5ee24/",
+"related_url": "https://api.openverse.org/v1/audio/ffba6844-7d18-4eda-9209-adf19cb5ee24/related/",
+"waveform": "https://api.openverse.org/v1/audio/ffba6844-7d18-4eda-9209-adf19cb5ee24/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "78076bc8-d3fc-4cc4-84db-b91855073c24",
+"title": "stamping on the street",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/launemax/sounds/249919",
+"url": "https://cdn.freesound.org/previews/249/249919_389377-hq.mp3",
+"creator": "launemax",
+"creator_url": "https://freesound.org/people/launemax",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1834368,
+"filetype": "mp3",
+"tags": [
+{
+"name": "army",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "footsteps",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lockstep",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "squeak",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stamp",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "steps",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "street",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "walk",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/249919/download/",
+"bit_rate": 0,
+"filesize": 21278078,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"stamping on the street\" by launemax is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "footsteps",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/15334/",
+"creator": "launemax",
+"creator_url": "https://freesound.org/people/launemax/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 73878,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/78076bc8-d3fc-4cc4-84db-b91855073c24/",
+"related_url": "https://api.openverse.org/v1/audio/78076bc8-d3fc-4cc4-84db-b91855073c24/related/",
+"waveform": "https://api.openverse.org/v1/audio/78076bc8-d3fc-4cc4-84db-b91855073c24/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c8b9d5ba-93ca-4f58-9431-624b4db8c1fa",
+"title": "Applause, enthusiastic, with cheering and some foot stamping",
+"indexed_on": "2023-03-10T13:20:18.216530Z",
+"foreign_landing_url": "https://freesound.org/people/peridactyloptrix/sounds/196096",
+"url": "https://cdn.freesound.org/previews/196/196096_2737063-hq.mp3",
+"creator": "peridactyloptrix",
+"creator_url": "https://freesound.org/people/peridactyloptrix",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 622968,
+"filetype": "mp3",
+"tags": [
+{
+"name": "sheering",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "applause",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "enthusiastic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "audience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foot-stamping",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/196096/download/",
+"bit_rate": 0,
+"filesize": 54129844,
+"filetype": "wav",
+"sample_rate": 88200
+}
+],
+"attribution": "\"Applause, enthusiastic, with cheering and some foot stamping\" by peridactyloptrix is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Applause/ audience reactions",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/12473/",
+"creator": "peridactyloptrix",
+"creator_url": "https://freesound.org/people/peridactyloptrix/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 34092,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c8b9d5ba-93ca-4f58-9431-624b4db8c1fa/",
+"related_url": "https://api.openverse.org/v1/audio/c8b9d5ba-93ca-4f58-9431-624b4db8c1fa/related/",
+"waveform": "https://api.openverse.org/v1/audio/c8b9d5ba-93ca-4f58-9431-624b4db8c1fa/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4507e02b-0e9e-4222-87eb-6c3ce60ad81d",
+"title": "Postcards from the Walls of Sin",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/188730",
+"url": "https://prod-1.storage.jamendo.com/?trackid=188730&format=mp32",
+"creator": "Daniel Catarino",
+"creator_url": "https://www.jamendo.com/artist/340553/Oceansea",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Postcards from the Walls of Sin\" by Daniel Catarino is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Songs From The Bedroom Floor",
+"foreign_landing_url": "https://www.jamendo.com/album/28242/songs-from-the-bedroom-floor",
+"creator": "Daniel Catarino",
+"creator_url": "https://www.jamendo.com/artist/340553/Oceansea",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 424000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/4507e02b-0e9e-4222-87eb-6c3ce60ad81d/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/4507e02b-0e9e-4222-87eb-6c3ce60ad81d/",
+"related_url": "https://api.openverse.org/v1/audio/4507e02b-0e9e-4222-87eb-6c3ce60ad81d/related/",
+"waveform": "https://api.openverse.org/v1/audio/4507e02b-0e9e-4222-87eb-6c3ce60ad81d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f6880858-7b92-4670-b57b-bbcd29b2e38a",
+"title": "B3. Postcard From Japan",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1253659",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1253659&format=mp32",
+"creator": "Bogey Music",
+"creator_url": "https://www.jamendo.com/artist/478220/Bogey_Music",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "orientale",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"B3. Postcard From Japan\" by Bogey Music is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Electrobogey",
+"foreign_landing_url": "https://www.jamendo.com/album/149981/electrobogey",
+"creator": "Bogey Music",
+"creator_url": "https://www.jamendo.com/artist/478220/Bogey_Music",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 233000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/f6880858-7b92-4670-b57b-bbcd29b2e38a/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/f6880858-7b92-4670-b57b-bbcd29b2e38a/",
+"related_url": "https://api.openverse.org/v1/audio/f6880858-7b92-4670-b57b-bbcd29b2e38a/related/",
+"waveform": "https://api.openverse.org/v1/audio/f6880858-7b92-4670-b57b-bbcd29b2e38a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bcbd913d-0b41-409c-8920-4b9e8cc0d248",
+"title": "Postcard From Paradise (With Vocals)",
+"indexed_on": "2025-08-01T16:31:00.832064Z",
+"foreign_landing_url": "https://www.jamendo.com/track/2260603",
+"url": "https://prod-1.storage.jamendo.com/?trackid=2260603&format=mp32",
+"creator": "Gr\u00e9goire Lourme",
+"creator_url": "https://www.jamendo.com/artist/560/gregoire.lourme",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "cinematic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "drums",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "majestic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "orchestra",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_low",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Postcard From Paradise (With Vocals)\" by Gr\u00e9goire Lourme is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Postcard From Paradise",
+"foreign_landing_url": "https://www.jamendo.com/album/606477/postcard-from-paradise",
+"creator": "Gr\u00e9goire Lourme",
+"creator_url": "https://www.jamendo.com/artist/560/gregoire.lourme",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 254000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/bcbd913d-0b41-409c-8920-4b9e8cc0d248/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/bcbd913d-0b41-409c-8920-4b9e8cc0d248/",
+"related_url": "https://api.openverse.org/v1/audio/bcbd913d-0b41-409c-8920-4b9e8cc0d248/related/",
+"waveform": "https://api.openverse.org/v1/audio/bcbd913d-0b41-409c-8920-4b9e8cc0d248/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "07d3c4c2-1cba-4b9a-98ba-18429649b8a4",
+"title": "Wojciech Wszelaki - Postcard From India -",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/876042",
+"url": "https://prod-1.storage.jamendo.com/?trackid=876042&format=mp32",
+"creator": "Sounds Behind The Corner Production",
+"creator_url": "https://www.jamendo.com/artist/368998/Sounds_Behind_The_Corner",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Wojciech Wszelaki - Postcard From India -\" by Sounds Behind The Corner Production is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Aid Behind The Corner",
+"foreign_landing_url": "https://www.jamendo.com/album/102872/aid-behind-the-corner",
+"creator": "Sounds Behind The Corner Production",
+"creator_url": "https://www.jamendo.com/artist/368998/Sounds_Behind_The_Corner",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 358000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/07d3c4c2-1cba-4b9a-98ba-18429649b8a4/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/07d3c4c2-1cba-4b9a-98ba-18429649b8a4/",
+"related_url": "https://api.openverse.org/v1/audio/07d3c4c2-1cba-4b9a-98ba-18429649b8a4/related/",
+"waveform": "https://api.openverse.org/v1/audio/07d3c4c2-1cba-4b9a-98ba-18429649b8a4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0b53b647-c87b-4e4a-ad74-583d496de388",
+"title": "Postcard From Paradise (Vlog background)",
+"indexed_on": "2025-08-01T16:31:00.832064Z",
+"foreign_landing_url": "https://www.jamendo.com/track/2260602",
+"url": "https://prod-1.storage.jamendo.com/?trackid=2260602&format=mp32",
+"creator": "Gr\u00e9goire Lourme",
+"creator_url": "https://www.jamendo.com/artist/560/gregoire.lourme",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore",
+"postrock",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "cinematic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "drums",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "majestic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_low",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "trumpet",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Postcard From Paradise (Vlog background)\" by Gr\u00e9goire Lourme is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Postcard From Paradise",
+"foreign_landing_url": "https://www.jamendo.com/album/606477/postcard-from-paradise",
+"creator": "Gr\u00e9goire Lourme",
+"creator_url": "https://www.jamendo.com/artist/560/gregoire.lourme",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 254000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/0b53b647-c87b-4e4a-ad74-583d496de388/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/0b53b647-c87b-4e4a-ad74-583d496de388/",
+"related_url": "https://api.openverse.org/v1/audio/0b53b647-c87b-4e4a-ad74-583d496de388/related/",
+"waveform": "https://api.openverse.org/v1/audio/0b53b647-c87b-4e4a-ad74-583d496de388/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cd802599-6a32-4a13-86e1-8ea685ea441f",
+"title": "Postcards",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/626379",
+"url": "https://prod-1.storage.jamendo.com/?trackid=626379&format=mp32",
+"creator": "Bear and Lampshade",
+"creator_url": "https://www.jamendo.com/artist/356333/Bear_and_Lampshade",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Postcards\" by Bear and Lampshade is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "A Smile To Hide the Fear Away",
+"foreign_landing_url": "https://www.jamendo.com/album/72504/a-smile-to-hide-the-fear-away",
+"creator": "Bear and Lampshade",
+"creator_url": "https://www.jamendo.com/artist/356333/Bear_and_Lampshade",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 138000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/cd802599-6a32-4a13-86e1-8ea685ea441f/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/cd802599-6a32-4a13-86e1-8ea685ea441f/",
+"related_url": "https://api.openverse.org/v1/audio/cd802599-6a32-4a13-86e1-8ea685ea441f/related/",
+"waveform": "https://api.openverse.org/v1/audio/cd802599-6a32-4a13-86e1-8ea685ea441f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e5de3867-52ec-4945-b46d-e3b357713ad8",
+"title": "Postcards",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/440831",
+"url": "https://prod-1.storage.jamendo.com/?trackid=440831&format=mp32",
+"creator": "autonomadic",
+"creator_url": "https://www.jamendo.com/artist/1727/autonomadic",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Postcards\" by autonomadic is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Gift of the Sun",
+"foreign_landing_url": "https://www.jamendo.com/album/53254/gift-of-the-sun",
+"creator": "autonomadic",
+"creator_url": "https://www.jamendo.com/artist/1727/autonomadic",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 192000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e5de3867-52ec-4945-b46d-e3b357713ad8/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e5de3867-52ec-4945-b46d-e3b357713ad8/",
+"related_url": "https://api.openverse.org/v1/audio/e5de3867-52ec-4945-b46d-e3b357713ad8/related/",
+"waveform": "https://api.openverse.org/v1/audio/e5de3867-52ec-4945-b46d-e3b357713ad8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5f4747f0-576c-4653-9537-55a47aadefa3",
+"title": "Postcard (with James P.Honey)",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1270369",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1270369&format=mp32",
+"creator": "#2 Orchestra",
+"creator_url": "https://www.jamendo.com/artist/3972/2orchestra",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"hiphop",
+"idm"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Postcard (with James P.Honey)\" by #2 Orchestra is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Writers Block (2015 remasters)",
+"foreign_landing_url": "https://www.jamendo.com/album/151741/writers-block-2015-remasters",
+"creator": "#2 Orchestra",
+"creator_url": "https://www.jamendo.com/artist/3972/2orchestra",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 151000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/5f4747f0-576c-4653-9537-55a47aadefa3/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/5f4747f0-576c-4653-9537-55a47aadefa3/",
+"related_url": "https://api.openverse.org/v1/audio/5f4747f0-576c-4653-9537-55a47aadefa3/related/",
+"waveform": "https://api.openverse.org/v1/audio/5f4747f0-576c-4653-9537-55a47aadefa3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "042ac1ea-6acc-4b11-bb24-ab4ec5401f0b",
+"title": "Postcards",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1055863",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1055863&format=mp32",
+"creator": "Brokenkites",
+"creator_url": "https://www.jamendo.com/artist/6568/brokenkites",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Postcards\" by Brokenkites is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Phantom Islands",
+"foreign_landing_url": "https://www.jamendo.com/album/124479/phantom-islands",
+"creator": "Brokenkites",
+"creator_url": "https://www.jamendo.com/artist/6568/brokenkites",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 186000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/042ac1ea-6acc-4b11-bb24-ab4ec5401f0b/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/042ac1ea-6acc-4b11-bb24-ab4ec5401f0b/",
+"related_url": "https://api.openverse.org/v1/audio/042ac1ea-6acc-4b11-bb24-ab4ec5401f0b/related/",
+"waveform": "https://api.openverse.org/v1/audio/042ac1ea-6acc-4b11-bb24-ab4ec5401f0b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cc806f58-d53e-4207-b643-9e18f52c106d",
+"title": "postcard from Frank (alt)",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1684676",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1684676&format=mp32",
+"creator": "BFJazz",
+"creator_url": "https://www.jamendo.com/artist/438431/BFJazz",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"acidjazz",
+"poprock",
+"progressiverock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "80s",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "90s",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"postcard from Frank (alt)\" by BFJazz is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "jazz corporation",
+"foreign_landing_url": "https://www.jamendo.com/album/187644/jazz-corporation",
+"creator": "BFJazz",
+"creator_url": "https://www.jamendo.com/artist/438431/BFJazz",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 196000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/cc806f58-d53e-4207-b643-9e18f52c106d/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/cc806f58-d53e-4207-b643-9e18f52c106d/",
+"related_url": "https://api.openverse.org/v1/audio/cc806f58-d53e-4207-b643-9e18f52c106d/related/",
+"waveform": "https://api.openverse.org/v1/audio/cc806f58-d53e-4207-b643-9e18f52c106d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8dc8302a-a6db-43ac-96fe-64e40cd828df",
+"title": "Reaction 7 - Postcard",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1244237",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1244237&format=mp32",
+"creator": "Reaction 7",
+"creator_url": "https://www.jamendo.com/artist/355034/Reaction_7",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"indie",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "reno",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "slideguitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Reaction 7 - Postcard\" by Reaction 7 is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Everyday Problems",
+"foreign_landing_url": "https://www.jamendo.com/album/149091/everyday-problems",
+"creator": "Reaction 7",
+"creator_url": "https://www.jamendo.com/artist/355034/Reaction_7",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 217000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/8dc8302a-a6db-43ac-96fe-64e40cd828df/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/8dc8302a-a6db-43ac-96fe-64e40cd828df/",
+"related_url": "https://api.openverse.org/v1/audio/8dc8302a-a6db-43ac-96fe-64e40cd828df/related/",
+"waveform": "https://api.openverse.org/v1/audio/8dc8302a-a6db-43ac-96fe-64e40cd828df/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f9451767-9fb1-4999-80f6-0d0b63b47a77",
+"title": "Picture Postcards",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1129688",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1129688&format=mp32",
+"creator": "Robkay",
+"creator_url": "https://www.jamendo.com/artist/426192/Robkay",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Picture Postcards\" by Robkay is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Poor Side",
+"foreign_landing_url": "https://www.jamendo.com/album/135379/the-poor-side",
+"creator": "Robkay",
+"creator_url": "https://www.jamendo.com/artist/426192/Robkay",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 244000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/f9451767-9fb1-4999-80f6-0d0b63b47a77/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/f9451767-9fb1-4999-80f6-0d0b63b47a77/",
+"related_url": "https://api.openverse.org/v1/audio/f9451767-9fb1-4999-80f6-0d0b63b47a77/related/",
+"waveform": "https://api.openverse.org/v1/audio/f9451767-9fb1-4999-80f6-0d0b63b47a77/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "08b16b3e-5821-4a38-b709-5af95a76a837",
+"title": "Sonic Postcard-CEVL_Group 5.mp3",
+"indexed_on": "2022-01-20T14:35:10.795854Z",
+"foreign_landing_url": "https://freesound.org/people/thecityrings/sounds/185946",
+"url": "https://cdn.freesound.org/previews/185/185946_2337088-hq.mp3",
+"creator": "thecityrings",
+"creator_url": "https://freesound.org/people/thecityrings",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 591150,
+"filetype": "mp3",
+"tags": [
+{
+"name": "CEVL",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Postcards",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "TCR",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/185946/download/",
+"bit_rate": 128000,
+"filesize": 392044,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Sonic Postcard-CEVL_Group 5.mp3\" by thecityrings is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Postcards Lama\u00e7aes 2013",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/11750/",
+"creator": "thecityrings",
+"creator_url": "https://freesound.org/people/thecityrings/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 24441,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/08b16b3e-5821-4a38-b709-5af95a76a837/",
+"related_url": "https://api.openverse.org/v1/audio/08b16b3e-5821-4a38-b709-5af95a76a837/related/",
+"waveform": "https://api.openverse.org/v1/audio/08b16b3e-5821-4a38-b709-5af95a76a837/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "be0113a4-bb6c-4449-99b9-91c778560448",
+"title": "Sonic Postcard Gianna and Rani",
+"indexed_on": "2024-04-18T18:52:10.009444Z",
+"foreign_landing_url": "https://freesound.org/people/thecityrings/sounds/237855",
+"url": "https://cdn.freesound.org/previews/237/237855_2337088-hq.mp3",
+"creator": "thecityrings",
+"creator_url": "https://freesound.org/people/thecityrings",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1702653,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Belgium",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Ghent",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Gianna",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Postcard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Rani",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Sint-Laurens",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Sonic",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/237855/download/",
+"bit_rate": 0,
+"filesize": 13230044,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Sonic Postcard Gianna and Rani\" by thecityrings is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Sonic Postcards_Ghent_May2014",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/14589/",
+"creator": "thecityrings",
+"creator_url": "https://freesound.org/people/thecityrings/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 75000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/be0113a4-bb6c-4449-99b9-91c778560448/",
+"related_url": "https://api.openverse.org/v1/audio/be0113a4-bb6c-4449-99b9-91c778560448/related/",
+"waveform": "https://api.openverse.org/v1/audio/be0113a4-bb6c-4449-99b9-91c778560448/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0b273d27-7b5e-4fe2-8805-be24ae4f193e",
+"title": "Postcards Of Your Eyes",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1759726",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1759726&format=mp32",
+"creator": "Daniel Catarino",
+"creator_url": "https://www.jamendo.com/artist/340553/Oceansea",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"folk",
+"singersongwriter"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "90s",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "acousticguitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "love",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "melancholic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Postcards Of Your Eyes\" by Daniel Catarino is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Songs From The Past, Vol. 1",
+"foreign_landing_url": "https://www.jamendo.com/album/193549/songs-from-the-past-vol-1",
+"creator": "Daniel Catarino",
+"creator_url": "https://www.jamendo.com/artist/340553/Oceansea",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 135000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/0b273d27-7b5e-4fe2-8805-be24ae4f193e/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/0b273d27-7b5e-4fe2-8805-be24ae4f193e/",
+"related_url": "https://api.openverse.org/v1/audio/0b273d27-7b5e-4fe2-8805-be24ae4f193e/related/",
+"waveform": "https://api.openverse.org/v1/audio/0b273d27-7b5e-4fe2-8805-be24ae4f193e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "88a11e53-ac07-471f-9b68-0b9327b430da",
+"title": "16 Project System 12 - Like a Winter Picture Postcard",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1421014",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1421014&format=mp32",
+"creator": "Project System 12",
+"creator_url": "https://www.jamendo.com/artist/5082/project.system.12",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "70s",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "guitarefolk",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"16 Project System 12 - Like a Winter Picture Postcard\" by Project System 12 is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "A Winter's Tale",
+"foreign_landing_url": "https://www.jamendo.com/album/165750/a-winter-s-tale",
+"creator": "Project System 12",
+"creator_url": "https://www.jamendo.com/artist/5082/project.system.12",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 208000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/88a11e53-ac07-471f-9b68-0b9327b430da/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/88a11e53-ac07-471f-9b68-0b9327b430da/",
+"related_url": "https://api.openverse.org/v1/audio/88a11e53-ac07-471f-9b68-0b9327b430da/related/",
+"waveform": "https://api.openverse.org/v1/audio/88a11e53-ac07-471f-9b68-0b9327b430da/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "78680342-efb3-4707-bb2b-0d8e17dd73d1",
+"title": "The Unfinished Postcard",
+"indexed_on": "2026-08-01T17:23:15.377185Z",
+"foreign_landing_url": "https://www.jamendo.com/track/2327632",
+"url": "https://prod-1.storage.jamendo.com/?trackid=2327632&format=mp32",
+"creator": "Helen Langfort",
+"creator_url": "https://www.jamendo.com/artist/605823/Helen_Langfort",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"neoclassical"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "melancholic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The Unfinished Postcard\" by Helen Langfort is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Memory of Life",
+"foreign_landing_url": "https://www.jamendo.com/album/638961/the-memory-of-life",
+"creator": "Helen Langfort",
+"creator_url": "https://www.jamendo.com/artist/605823/Helen_Langfort",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 203000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/78680342-efb3-4707-bb2b-0d8e17dd73d1/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/78680342-efb3-4707-bb2b-0d8e17dd73d1/",
+"related_url": "https://api.openverse.org/v1/audio/78680342-efb3-4707-bb2b-0d8e17dd73d1/related/",
+"waveform": "https://api.openverse.org/v1/audio/78680342-efb3-4707-bb2b-0d8e17dd73d1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5e362d6e-89c5-4837-aac1-b388b3cbfbaf",
+"title": "Bernadetta Alice Caroline - Postcard untuk Tuhan",
+"indexed_on": "2026-04-03T02:07:46.144125Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=187695531",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bernadetta_Alice_Caroline_-_Postcard_untuk_Tuhan.ogg",
+"creator": "Sekar Kinanthi Kidung Wening",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Thalverin",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 236452,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Bernadetta Alice Caroline - Postcard untuk Tuhan\" by Sekar Kinanthi Kidung Wening is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 28049,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5e362d6e-89c5-4837-aac1-b388b3cbfbaf/",
+"related_url": "https://api.openverse.org/v1/audio/5e362d6e-89c5-4837-aac1-b388b3cbfbaf/related/",
+"waveform": "https://api.openverse.org/v1/audio/5e362d6e-89c5-4837-aac1-b388b3cbfbaf/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "18f3647b-8c64-4cbb-8938-d3ba0a5b501d",
+"title": "En-au-answer on a postcard",
+"indexed_on": "2023-07-09T15:55:41.530896Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=75923975",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/En-au-answer_on_a_postcard.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 26993,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-au-answer on a postcard\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2060,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/18f3647b-8c64-4cbb-8938-d3ba0a5b501d/",
+"related_url": "https://api.openverse.org/v1/audio/18f3647b-8c64-4cbb-8938-d3ba0a5b501d/related/",
+"waveform": "https://api.openverse.org/v1/audio/18f3647b-8c64-4cbb-8938-d3ba0a5b501d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "47c515b7-4db2-4b32-a799-318985aeb2f9",
+"title": "Printing Press 6 .wav",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/KMerrell/sounds/64702",
+"url": "https://cdn.freesound.org/previews/64/64702_272303-hq.mp3",
+"creator": "KMerrell",
+"creator_url": "https://freesound.org/people/KMerrell",
+"license": "sampling+",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/licenses/sampling+/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 3359219,
+"filetype": "mp3",
+"tags": [
+{
+"name": "clacking",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "clicking",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "high-speed-ink-jet-printer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "industrial",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "metal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "press",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "printing-press",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rhythmic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tapping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "thumping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "train",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/64702/download/",
+"bit_rate": 0,
+"filesize": 13194674,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Printing Press 6 .wav\" by KMerrell is licensed under CC Sampling+ 1.0. To view a copy of this license, visit https://creativecommons.org/licenses/sampling+/1.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Commercial Print Shop",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/4150/",
+"creator": "KMerrell",
+"creator_url": "https://freesound.org/people/KMerrell/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 149599,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/47c515b7-4db2-4b32-a799-318985aeb2f9/",
+"related_url": "https://api.openverse.org/v1/audio/47c515b7-4db2-4b32-a799-318985aeb2f9/related/",
+"waveform": "https://api.openverse.org/v1/audio/47c515b7-4db2-4b32-a799-318985aeb2f9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bd62fdbe-0d70-4b03-8dd6-8db6a81e877f",
+"title": "FXLM neon lights flicker bathroom.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/LudwigMueller/sounds/202612",
+"url": "https://cdn.freesound.org/previews/202/202612_1442200-hq.mp3",
+"creator": "LudwigMueller",
+"creator_url": "https://freesound.org/people/LudwigMueller",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 711264,
+"filetype": "mp3",
+"tags": [
+{
+"name": "domestic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "eerie",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electrical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "flicker",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "flickering",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fluorescent",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "horror",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hum",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "interior",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "light",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lights",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "neon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "power",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/202612/download/",
+"bit_rate": 0,
+"filesize": 5946720,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"FXLM neon lights flicker bathroom.wav\" by LudwigMueller is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 30968,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/bd62fdbe-0d70-4b03-8dd6-8db6a81e877f/",
+"related_url": "https://api.openverse.org/v1/audio/bd62fdbe-0d70-4b03-8dd6-8db6a81e877f/related/",
+"waveform": "https://api.openverse.org/v1/audio/bd62fdbe-0d70-4b03-8dd6-8db6a81e877f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e5cd49be-ecd1-4fd1-8cef-248fb0b0d3c3",
+"title": "Neon Lights (Vocal Mix)",
+"indexed_on": "2025-06-01T16:50:55.087809Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1996148",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1996148&format=mp32",
+"creator": "A8 MUSIC PRODUCTIONS",
+"creator_url": "https://www.jamendo.com/artist/542424/Arma8",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"dance",
+"electronic",
+"house"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "motivational",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "party",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Lights (Vocal Mix)\" by A8 MUSIC PRODUCTIONS is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "\u041c\u0443\u0437\u044b\u043a\u0430 \u0434\u043b\u044f \u0431\u0438\u0437\u043d\u0435\u0441\u0430 / Background Music For Business Pt 2",
+"foreign_landing_url": "https://www.jamendo.com/album/507483/muzyka-dlya-biznesa-background-music-for-business-pt-2",
+"creator": "A8 MUSIC PRODUCTIONS",
+"creator_url": "https://www.jamendo.com/artist/542424/Arma8",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 255000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e5cd49be-ecd1-4fd1-8cef-248fb0b0d3c3/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e5cd49be-ecd1-4fd1-8cef-248fb0b0d3c3/",
+"related_url": "https://api.openverse.org/v1/audio/e5cd49be-ecd1-4fd1-8cef-248fb0b0d3c3/related/",
+"waveform": "https://api.openverse.org/v1/audio/e5cd49be-ecd1-4fd1-8cef-248fb0b0d3c3/waveform/",
+"unstable__sensitivity": []
 }
 ]

@@ -30910,5 +30910,1377 @@
 ]
 ],
 "mined_at": "2026-11-04T06:41:26Z"
+},
+{
+"source": "Open Directory",
+"title": "_hierarchy",
+"date": "2026-11-04 18:25",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "101",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/_hierarchy",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 101 \uff77 2026-11-04 18:25 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "src.tar.gz",
+"date": "2026-10-07 05:24",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "206M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/src.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 206M \uff77 2026-10-07 05:24 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "root.mail",
+"date": "2026-09-28 18:44",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "3.8K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/root.mail",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 3.8K \uff77 2026-09-28 18:44 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "SHA256",
+"date": "2026-10-19 19:52",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "709",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/SHA256",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 709 \uff77 2026-10-19 19:52 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "sys.tar.gz",
+"date": "2026-10-07 05:25",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "65M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/sys.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 65M \uff77 2026-10-07 05:25 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "SHA256",
+"date": "2026-10-22 19:04",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "90",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/dbupdates/SHA256",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 90 \uff77 2026-10-22 19:04 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/dbupdates/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/dbupdates/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/dbupdates/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "dbupdates.tgz",
+"date": "2026-10-22 19:04",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "352K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/dbupdates/dbupdates.tgz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 352K \uff77 2026-10-22 19:04 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/dbupdates/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/dbupdates/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/dbupdates/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "SHA256.sig",
+"date": "2026-10-19 19:54",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "861",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/SHA256.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 861 \uff77 2026-10-19 19:54 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "ftp.uni-stuttgart.de",
+"date": "2026-11-04 18:25",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "510",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/ftp.uni-stuttgart.de",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 510 \uff77 2026-11-04 18:25 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "ports.tar.gz",
+"date": "2026-10-07 05:19",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "56M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/ports.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 56M \uff77 2026-10-07 05:19 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "ftp.halifax.rwth-aachen.de",
+"date": "2026-11-04 13:42",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "484",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/ftp.halifax.rwth-aachen.de",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 484 \uff77 2026-11-04 13:42 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "_hierarchy.mirror",
+"date": "2026-11-04 18:25",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "101",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/_hierarchy.mirror",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 101 \uff77 2026-11-04 18:25 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "xenocara.tar.gz",
+"date": "2026-10-07 05:31",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "175M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/xenocara.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 175M \uff77 2026-10-07 05:31 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "_traces",
+"date": "2026-11-04 18:25",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "48",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/_traces",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 48 \uff77 2026-11-04 18:25 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/project/trace/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "README",
+"date": "2026-10-13 18:16",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.5K",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/README",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 2.5K \uff77 2026-10-13 18:16 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "cfengine-1.4.14a.tar.gz",
+"date": "1999-01-08 04:54",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "766K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cfengine/cfengine-1.4.14a.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 766K \uff77 1999-01-08 04:54 \uff77 in https://ftp.gnu.org/old-gnu/cfengine/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cfengine/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cfengine/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "libstdc++-2.8.1.1.tar.gz",
+"date": "1998-04-02 03:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "812K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/libstdc++/libstdc++-2.8.1.1.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 812K \uff77 1998-04-02 03:00 \uff77 in https://ftp.gnu.org/old-gnu/libstdc++/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/libstdc++/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/libstdc++/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "cfengine-1.4.9.tar.gz",
+"date": "1997-12-26 03:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "873K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cfengine/cfengine-1.4.9.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 873K \uff77 1997-12-26 03:00 \uff77 in https://ftp.gnu.org/old-gnu/cfengine/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cfengine/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cfengine/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "libstdc++-2.8.0-2.8.1.diff.gz",
+"date": "1998-03-04 03:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "38K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/libstdc++/libstdc++-2.8.0-2.8.1.diff.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 38K \uff77 1998-03-04 03:00 \uff77 in https://ftp.gnu.org/old-gnu/libstdc++/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/libstdc++/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/libstdc++/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "libstdc++-2.8.0-2.8.1.1.diff.gz",
+"date": "1998-04-02 03:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "41K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/libstdc++/libstdc++-2.8.0-2.8.1.1.diff.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 41K \uff77 1998-04-02 03:00 \uff77 in https://ftp.gnu.org/old-gnu/libstdc++/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/libstdc++/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/libstdc++/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "cfengine-1.4.17.tar.gz",
+"date": "1999-02-22 19:16",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "563K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cfengine/cfengine-1.4.17.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 563K \uff77 1999-02-22 19:16 \uff77 in https://ftp.gnu.org/old-gnu/cfengine/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cfengine/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cfengine/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "cfengine-1.4.1.tar.gz",
+"date": "1997-07-15 03:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "915K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cfengine/cfengine-1.4.1.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 915K \uff77 1997-07-15 03:00 \uff77 in https://ftp.gnu.org/old-gnu/cfengine/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cfengine/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cfengine/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "cfengine-1.0.3-1.0.4.diff.gz",
+"date": "1995-06-19 03:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "201",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cfengine/cfengine-1.0.3-1.0.4.diff.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 201 \uff77 1995-06-19 03:00 \uff77 in https://ftp.gnu.org/old-gnu/cfengine/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cfengine/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cfengine/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "cfengine-1.4.7.tar.gz",
+"date": "1997-09-24 03:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.0M",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cfengine/cfengine-1.4.7.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 1.0M \uff77 1997-09-24 03:00 \uff77 in https://ftp.gnu.org/old-gnu/cfengine/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cfengine/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cfengine/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "libstdc++-2.8.1.tar.gz",
+"date": "1998-03-04 03:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "809K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/libstdc++/libstdc++-2.8.1.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 809K \uff77 1998-03-04 03:00 \uff77 in https://ftp.gnu.org/old-gnu/libstdc++/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/libstdc++/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/libstdc++/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "README.now.part.of.gcc",
+"date": "2002-04-26 12:51",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "160",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/libstdc++/README.now.part.of.gcc",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 160 \uff77 2002-04-26 12:51 \uff77 in https://ftp.gnu.org/old-gnu/libstdc++/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/libstdc++/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/libstdc++/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "cfengine-1.3.11.tar.gz",
+"date": "1996-08-25 03:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "792K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cfengine/cfengine-1.3.11.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 792K \uff77 1996-08-25 03:00 \uff77 in https://ftp.gnu.org/old-gnu/cfengine/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cfengine/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cfengine/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "cfengine-1.4.10.tar.gz",
+"date": "1998-02-25 03:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "519K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cfengine/cfengine-1.4.10.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 519K \uff77 1998-02-25 03:00 \uff77 in https://ftp.gnu.org/old-gnu/cfengine/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cfengine/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cfengine/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "libstdc++-2.8.0.tar.gz",
+"date": "1998-01-14 03:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "792K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/libstdc++/libstdc++-2.8.0.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 792K \uff77 1998-01-14 03:00 \uff77 in https://ftp.gnu.org/old-gnu/libstdc++/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/libstdc++/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/libstdc++/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "cfengine-1.3.16.tar.gz",
+"date": "1996-11-06 03:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "427K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cfengine/cfengine-1.3.16.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 427K \uff77 1996-11-06 03:00 \uff77 in https://ftp.gnu.org/old-gnu/cfengine/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cfengine/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cfengine/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "cfengine-1.3.12.tar.gz",
+"date": "1996-09-25 03:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "502K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cfengine/cfengine-1.3.12.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 502K \uff77 1996-09-25 03:00 \uff77 in https://ftp.gnu.org/old-gnu/cfengine/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cfengine/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cfengine/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "libstdc++-2.8.1-2.8.1.1.diff.gz",
+"date": "1998-04-02 03:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "5.6K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/libstdc++/libstdc++-2.8.1-2.8.1.1.diff.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 5.6K \uff77 1998-04-02 03:00 \uff77 in https://ftp.gnu.org/old-gnu/libstdc++/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/libstdc++/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/libstdc++/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "libstdc++-2.90.8.tar.gz",
+"date": "2000-03-24 18:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "640K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/libstdc++/libstdc++-2.90.8.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 640K \uff77 2000-03-24 18:17 \uff77 in https://ftp.gnu.org/old-gnu/libstdc++/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/libstdc++/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/libstdc++/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "cfengine-1.5.3.tar.gz",
+"date": "1999-10-26 16:22",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "672K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cfengine/cfengine-1.5.3.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 672K \uff77 1999-10-26 16:22 \uff77 in https://ftp.gnu.org/old-gnu/cfengine/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cfengine/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cfengine/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "libstdc++-2.90.6.tar.gz",
+"date": "1999-08-18 02:11",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "902K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/libstdc++/libstdc++-2.90.6.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 902K \uff77 1999-08-18 02:11 \uff77 in https://ftp.gnu.org/old-gnu/libstdc++/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/libstdc++/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/libstdc++/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "cfengine-1.6.1.tar.gz",
+"date": "2000-12-26 18:58",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "846K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cfengine/cfengine-1.6.1.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 846K \uff77 2000-12-26 18:58 \uff77 in https://ftp.gnu.org/old-gnu/cfengine/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cfengine/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cfengine/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "01README",
+"date": "1993-09-10 12:51",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "8.9K",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/ai/01README",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "text \uff77 8.9K \uff77 1993-09-10 12:51 \uff77 in https://ftp.funet.fi/pub/sci/ai/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/ai/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/ai/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "alliance-1.1.tar.gz",
+"date": "1994-01-22 13:19",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "6.6M",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/computer/alliance/alliance-1.1.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 6.6M \uff77 1994-01-22 13:19 \uff77 in https://ftp.funet.fi/pub/sci/computer/alliance/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/computer/alliance/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/computer/alliance/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "alliance-1.2.tar.gz",
+"date": "1994-01-22 13:14",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "7.5M",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/computer/alliance/alliance-1.2.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 7.5M \uff77 1994-01-22 13:14 \uff77 in https://ftp.funet.fi/pub/sci/computer/alliance/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/computer/alliance/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/computer/alliance/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "OVERVIEW.ps",
+"date": "1994-02-18 16:22",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "221K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/computer/alliance/OVERVIEW.ps",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 221K \uff77 1994-02-18 16:22 \uff77 in https://ftp.funet.fi/pub/sci/computer/alliance/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/computer/alliance/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/computer/alliance/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "oodbif_s.zip",
+"date": "1991-08-07 10:40",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "130K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/computer/oop/oodbif_s.zip",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 130K \uff77 1991-08-07 10:40 \uff77 in https://ftp.funet.fi/pub/sci/computer/oop/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/computer/oop/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/computer/oop/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "oodbif.ps",
+"date": "1991-07-14 09:37",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "3.2M",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/computer/oop/oodbif.ps",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 3.2M \uff77 1991-07-14 09:37 \uff77 in https://ftp.funet.fi/pub/sci/computer/oop/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/computer/oop/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/computer/oop/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "NEWS",
+"date": "1994-02-18 16:22",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "3.0K",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/computer/alliance/NEWS",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "text \uff77 3.0K \uff77 1994-02-18 16:22 \uff77 in https://ftp.funet.fi/pub/sci/computer/alliance/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/computer/alliance/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/computer/alliance/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "oodbif1.zip",
+"date": "1991-07-19 19:27",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "392K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/computer/oop/oodbif1.zip",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 392K \uff77 1991-07-19 19:27 \uff77 in https://ftp.funet.fi/pub/sci/computer/oop/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/computer/oop/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/computer/oop/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "oodbif2.zip",
+"date": "1991-07-19 19:27",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "627K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/computer/oop/oodbif2.zip",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 627K \uff77 1991-07-19 19:27 \uff77 in https://ftp.funet.fi/pub/sci/computer/oop/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/computer/oop/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/computer/oop/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "alliance-2.0.tar.Z",
+"date": "1994-03-11 19:56",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "15M",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/computer/alliance/alliance-2.0.tar.Z",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 15M \uff77 1994-03-11 19:56 \uff77 in https://ftp.funet.fi/pub/sci/computer/alliance/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/computer/alliance/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/computer/alliance/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "README",
+"date": "1994-02-18 16:23",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "9.6K",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/computer/alliance/README",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "text \uff77 9.6K \uff77 1994-02-18 16:23 \uff77 in https://ftp.funet.fi/pub/sci/computer/alliance/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/computer/alliance/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/computer/alliance/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "LIBRARIES.ps",
+"date": "1994-02-18 16:22",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "80K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/computer/alliance/LIBRARIES.ps",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 80K \uff77 1994-02-18 16:22 \uff77 in https://ftp.funet.fi/pub/sci/computer/alliance/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/computer/alliance/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/computer/alliance/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "oodbif-read.me",
+"date": "1991-07-19 19:31",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.1K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/computer/oop/oodbif-read.me",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 2.1K \uff77 1991-07-19 19:31 \uff77 in https://ftp.funet.fi/pub/sci/computer/oop/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/computer/oop/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/computer/oop/"
+]
+],
+"mined_at": "2026-11-04T17:26:34Z"
 }
 ]

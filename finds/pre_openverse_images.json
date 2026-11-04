@@ -36143,5 +36143,5124 @@
 "detail_url": "https://api.openverse.org/v1/images/abef1a7a-f5c1-4181-b788-2e9154980fb0/",
 "related_url": "https://api.openverse.org/v1/images/abef1a7a-f5c1-4181-b788-2e9154980fb0/related/",
 "unstable__sensitivity": []
+},
+{
+"id": "d93a8722-09ed-47e7-980c-de37604560fb",
+"title": "Seattle Awareness Map, 1978",
+"indexed_on": "2020-04-22T18:44:40.516878Z",
+"foreign_landing_url": "https://www.flickr.com/photos/29056926@N02/5068221557",
+"url": "https://live.staticflickr.com/4145/5068221557_db27d8292c_b.jpg",
+"creator": "Rob Ketcherside",
+"creator_url": "https://www.flickr.com/photos/29056926@N02",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "culture",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "historicpreservation",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "history",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "landmark",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "map",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mapping",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "seattle",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tourism",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Seattle Awareness Map, 1978\" by Rob Ketcherside is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 612,
+"thumbnail": "https://api.openverse.org/v1/images/d93a8722-09ed-47e7-980c-de37604560fb/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/d93a8722-09ed-47e7-980c-de37604560fb/",
+"related_url": "https://api.openverse.org/v1/images/d93a8722-09ed-47e7-980c-de37604560fb/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "358997aa-260f-41f4-9d35-b8ec8981e78c",
+"title": "Blank World Map - no borders",
+"indexed_on": "2020-05-03T11:07:29.248904Z",
+"foreign_landing_url": "https://www.flickr.com/photos/21959506@N00/1386592982",
+"url": "https://live.staticflickr.com/1231/1386592982_2f3c1e68b6_b.jpg",
+"creator": "jrhode",
+"creator_url": "https://www.flickr.com/photos/21959506@N00",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "maps",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Blank World Map - no borders\" by jrhode is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 680,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/358997aa-260f-41f4-9d35-b8ec8981e78c/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/358997aa-260f-41f4-9d35-b8ec8981e78c/",
+"related_url": "https://api.openverse.org/v1/images/358997aa-260f-41f4-9d35-b8ec8981e78c/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "b45852ac-e480-4e17-b817-1aeda5c31ef2",
+"title": "Blank World Map",
+"indexed_on": "2020-05-03T11:07:29.248904Z",
+"foreign_landing_url": "https://www.flickr.com/photos/21959506@N00/1386593088",
+"url": "https://live.staticflickr.com/1181/1386593088_042f5c7d81_b.jpg",
+"creator": "jrhode",
+"creator_url": "https://www.flickr.com/photos/21959506@N00",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "maps",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Blank World Map\" by jrhode is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 524,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/b45852ac-e480-4e17-b817-1aeda5c31ef2/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/b45852ac-e480-4e17-b817-1aeda5c31ef2/",
+"related_url": "https://api.openverse.org/v1/images/b45852ac-e480-4e17-b817-1aeda5c31ef2/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "91f8d6b5-b1f0-48df-97dd-db38c57ea0f5",
+"title": "1915 world map",
+"indexed_on": "2018-11-08T01:45:17.652714Z",
+"foreign_landing_url": "https://www.flickr.com/photos/85254122@N00/3156690653",
+"url": "https://live.staticflickr.com/3133/3156690653_242e862657_b.jpg",
+"creator": "surrealpenguin",
+"creator_url": "https://www.flickr.com/photos/85254122@N00",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "maps",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"1915 world map\" by surrealpenguin is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 731,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/91f8d6b5-b1f0-48df-97dd-db38c57ea0f5/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/91f8d6b5-b1f0-48df-97dd-db38c57ea0f5/",
+"related_url": "https://api.openverse.org/v1/images/91f8d6b5-b1f0-48df-97dd-db38c57ea0f5/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "b86a8766-043c-4704-96ca-7f2e23551984",
+"title": "1910 world map",
+"indexed_on": "2020-04-23T12:07:32.724864Z",
+"foreign_landing_url": "https://www.flickr.com/photos/85254122@N00/3156691873",
+"url": "https://live.staticflickr.com/3108/3156691873_a0319a2d77_b.jpg",
+"creator": "surrealpenguin",
+"creator_url": "https://www.flickr.com/photos/85254122@N00",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "maps",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"1910 world map\" by surrealpenguin is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 793,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/b86a8766-043c-4704-96ca-7f2e23551984/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/b86a8766-043c-4704-96ca-7f2e23551984/",
+"related_url": "https://api.openverse.org/v1/images/b86a8766-043c-4704-96ca-7f2e23551984/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "d58f25a3-cdea-4680-bbad-c52a164050c4",
+"title": "Map tiles with 32MB of OpenStreetMap data",
+"indexed_on": "2020-04-07T06:01:30.617165Z",
+"foreign_landing_url": "https://www.flickr.com/photos/24431382@N03/8568201112",
+"url": "https://live.staticflickr.com/8515/8568201112_22112e8f1a_b.jpg",
+"creator": "Eric Fischer",
+"creator_url": "https://www.flickr.com/photos/24431382@N03",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "diagram",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "map",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tiles",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Map tiles with 32MB of OpenStreetMap data\" by Eric Fischer is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/d58f25a3-cdea-4680-bbad-c52a164050c4/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/d58f25a3-cdea-4680-bbad-c52a164050c4/",
+"related_url": "https://api.openverse.org/v1/images/d58f25a3-cdea-4680-bbad-c52a164050c4/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "263b5d32-402b-4e8d-bf3f-82fd70b0a7ec",
+"title": "Marauder's Map of Williams",
+"indexed_on": "2020-05-02T22:56:27.995015Z",
+"foreign_landing_url": "https://www.flickr.com/photos/18024068@N00/580974803",
+"url": "https://live.staticflickr.com/1028/580974803_377b9ced58_b.jpg",
+"creator": "Ken-ichi",
+"creator_url": "https://www.flickr.com/photos/18024068@N00",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "maps",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "williams",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "williamscollege",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Marauder's Map of Williams\" by Ken-ichi is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 829,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/263b5d32-402b-4e8d-bf3f-82fd70b0a7ec/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/263b5d32-402b-4e8d-bf3f-82fd70b0a7ec/",
+"related_url": "https://api.openverse.org/v1/images/263b5d32-402b-4e8d-bf3f-82fd70b0a7ec/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "bdac0350-026d-4196-9c01-95259d5c4c06",
+"title": "OS Maps Night Mode Map",
+"indexed_on": "2020-03-23T12:34:07.521619Z",
+"foreign_landing_url": "https://www.flickr.com/photos/55484278@N02/23706779153",
+"url": "https://live.staticflickr.com/1491/23706779153_94ab22c078_b.jpg",
+"creator": "Ordnance Survey",
+"creator_url": "https://www.flickr.com/photos/55484278@N02",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "dark",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "map",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "night",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"OS Maps Night Mode Map\" by Ordnance Survey is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 794,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/bdac0350-026d-4196-9c01-95259d5c4c06/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/bdac0350-026d-4196-9c01-95259d5c4c06/",
+"related_url": "https://api.openverse.org/v1/images/bdac0350-026d-4196-9c01-95259d5c4c06/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "b0a4c043-f64f-4819-9736-23fba4348038",
+"title": "Colouring In Map",
+"indexed_on": "2020-03-23T12:34:07.521619Z",
+"foreign_landing_url": "https://www.flickr.com/photos/55484278@N02/24038453730",
+"url": "https://live.staticflickr.com/1481/24038453730_78b03de096_b.jpg",
+"creator": "Ordnance Survey",
+"creator_url": "https://www.flickr.com/photos/55484278@N02",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "colouring",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "london",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "map",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Colouring In Map\" by Ordnance Survey is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/b0a4c043-f64f-4819-9736-23fba4348038/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/b0a4c043-f64f-4819-9736-23fba4348038/",
+"related_url": "https://api.openverse.org/v1/images/b0a4c043-f64f-4819-9736-23fba4348038/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "2b1a8f75-2f06-45f4-bd2d-8ff481387ce4",
+"title": "world map w america.jpg",
+"indexed_on": "2019-01-14T15:22:25.657323Z",
+"foreign_landing_url": "https://www.flickr.com/photos/89375428@N00/470447790",
+"url": "https://live.staticflickr.com/183/470447790_e396172475_b.jpg",
+"creator": "adampadam",
+"creator_url": "https://www.flickr.com/photos/89375428@N00",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "america",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "map",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "world",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"world map w america.jpg\" by adampadam is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 572,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/2b1a8f75-2f06-45f4-bd2d-8ff481387ce4/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/2b1a8f75-2f06-45f4-bd2d-8ff481387ce4/",
+"related_url": "https://api.openverse.org/v1/images/2b1a8f75-2f06-45f4-bd2d-8ff481387ce4/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "f70541ba-c5f0-409f-85a0-8e48ece7059c",
+"title": "Map",
+"indexed_on": "2020-04-12T07:20:20.614705Z",
+"foreign_landing_url": "https://www.flickr.com/photos/25929332@N08/7204452708",
+"url": "https://live.staticflickr.com/7234/7204452708_f616c99213_b.jpg",
+"creator": "Mike F.",
+"creator_url": "https://www.flickr.com/photos/25929332@N08",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "homework",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "map",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Map\" by Mike F. is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 768,
+"thumbnail": "https://api.openverse.org/v1/images/f70541ba-c5f0-409f-85a0-8e48ece7059c/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/f70541ba-c5f0-409f-85a0-8e48ece7059c/",
+"related_url": "https://api.openverse.org/v1/images/f70541ba-c5f0-409f-85a0-8e48ece7059c/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "39c34059-85b7-4edd-bbab-34a4f0642c68",
+"title": "Map",
+"indexed_on": "2018-11-09T02:22:56.756031Z",
+"foreign_landing_url": "https://www.flickr.com/photos/105592384@N07/10318749323",
+"url": "https://live.staticflickr.com/5486/10318749323_cbc64a6a55_b.jpg",
+"creator": "takenji1989",
+"creator_url": "https://www.flickr.com/photos/105592384@N07",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "map",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ridemap",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Map\" by takenji1989 is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 585,
+"thumbnail": "https://api.openverse.org/v1/images/39c34059-85b7-4edd-bbab-34a4f0642c68/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/39c34059-85b7-4edd-bbab-34a4f0642c68/",
+"related_url": "https://api.openverse.org/v1/images/39c34059-85b7-4edd-bbab-34a4f0642c68/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "9cc1cd61-030c-41ac-8749-cc8f740d6e44",
+"title": "Map",
+"indexed_on": "2020-04-09T21:14:22.376137Z",
+"foreign_landing_url": "https://www.flickr.com/photos/105592384@N07/11085724133",
+"url": "https://live.staticflickr.com/5473/11085724133_66341efa53_b.jpg",
+"creator": "takenji1989",
+"creator_url": "https://www.flickr.com/photos/105592384@N07",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "map",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ridemap",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Map\" by takenji1989 is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 570,
+"thumbnail": "https://api.openverse.org/v1/images/9cc1cd61-030c-41ac-8749-cc8f740d6e44/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/9cc1cd61-030c-41ac-8749-cc8f740d6e44/",
+"related_url": "https://api.openverse.org/v1/images/9cc1cd61-030c-41ac-8749-cc8f740d6e44/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "1c0c24cf-65e2-464b-a28f-89f06ee2b425",
+"title": "Map of the world",
+"indexed_on": "2020-05-05T18:52:24.437730Z",
+"foreign_landing_url": "https://www.flickr.com/photos/11173790@N00/139795440",
+"url": "https://live.staticflickr.com/44/139795440_e3cfcd62d4_b.jpg",
+"creator": "tomjonescoaley",
+"creator_url": "https://www.flickr.com/photos/11173790@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "map",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "world",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Map of the world\" by tomjonescoaley is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/1c0c24cf-65e2-464b-a28f-89f06ee2b425/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/1c0c24cf-65e2-464b-a28f-89f06ee2b425/",
+"related_url": "https://api.openverse.org/v1/images/1c0c24cf-65e2-464b-a28f-89f06ee2b425/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "43e8558c-3804-4279-b163-87555390249b",
+"title": "sarvodaya.org Interactive Map",
+"indexed_on": "2016-11-17T21:22:04.939010Z",
+"foreign_landing_url": "https://www.flickr.com/photos/49268158@N00/2802999",
+"url": "https://live.staticflickr.com/2/2802999_7ce9b01c38.jpg",
+"creator": "Sarvodaya Sri Lanka",
+"creator_url": "https://www.flickr.com/photos/49268158@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "deaths",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lanka",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "map",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tsunami",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cartography",
+"accuracy": 0.92109,
+"unstable__provider": "clarifai"
+},
+{
+"name": "geography",
+"accuracy": 0.97211,
+"unstable__provider": "clarifai"
+},
+{
+"name": "illustration",
+"accuracy": 0.93126,
+"unstable__provider": "clarifai"
+},
+{
+"name": "map",
+"accuracy": 0.95566,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"sarvodaya.org Interactive Map\" by Sarvodaya Sri Lanka is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 500,
+"width": 336,
+"thumbnail": "https://api.openverse.org/v1/images/43e8558c-3804-4279-b163-87555390249b/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/43e8558c-3804-4279-b163-87555390249b/",
+"related_url": "https://api.openverse.org/v1/images/43e8558c-3804-4279-b163-87555390249b/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "5e4ae068-7b7e-4c66-a062-45abbf849073",
+"title": "San Francisco neighborhood map (1960)",
+"indexed_on": "2016-11-16T20:57:03.372434Z",
+"foreign_landing_url": "https://www.flickr.com/photos/24431382@N03/8459526853",
+"url": "https://live.staticflickr.com/8091/8459526853_105f1c56b8_b.jpg",
+"creator": "Eric Fischer",
+"creator_url": "https://www.flickr.com/photos/24431382@N03",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": 876629,
+"filetype": null,
+"tags": [
+{
+"name": "map",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "neighborhoodboundaries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sanfrancisco",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cartography",
+"accuracy": 0.97673,
+"unstable__provider": "clarifai"
+},
+{
+"name": "geography",
+"accuracy": 0.90303,
+"unstable__provider": "clarifai"
+},
+{
+"name": "illustration",
+"accuracy": 0.93394,
+"unstable__provider": "clarifai"
+},
+{
+"name": "map",
+"accuracy": 0.98793,
+"unstable__provider": "clarifai"
+},
+{
+"name": "paper",
+"accuracy": 0.92238,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"San Francisco neighborhood map (1960)\" by Eric Fischer is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 781,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/5e4ae068-7b7e-4c66-a062-45abbf849073/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/5e4ae068-7b7e-4c66-a062-45abbf849073/",
+"related_url": "https://api.openverse.org/v1/images/5e4ae068-7b7e-4c66-a062-45abbf849073/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "c1fb4135-b39f-4d88-97e5-71a7b02d8b06",
+"title": "OS Maps Standard Map",
+"indexed_on": "2020-03-23T12:34:07.521619Z",
+"foreign_landing_url": "https://www.flickr.com/photos/55484278@N02/24225390352",
+"url": "https://live.staticflickr.com/1690/24225390352_6e96c022b2_b.jpg",
+"creator": "Ordnance Survey",
+"creator_url": "https://www.flickr.com/photos/55484278@N02",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "map",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mountains",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "outdoors",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "terrain",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"OS Maps Standard Map\" by Ordnance Survey is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 816,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/c1fb4135-b39f-4d88-97e5-71a7b02d8b06/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/c1fb4135-b39f-4d88-97e5-71a7b02d8b06/",
+"related_url": "https://api.openverse.org/v1/images/c1fb4135-b39f-4d88-97e5-71a7b02d8b06/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "93a81527-105f-46a1-8a5c-655c95481bd0",
+"title": "Google Maps Icon Buttons",
+"indexed_on": "2020-05-07T11:33:22.542206Z",
+"foreign_landing_url": "https://www.flickr.com/photos/54288707@N00/8741186",
+"url": "https://live.staticflickr.com/8/8741186_9717ce8cde.jpg",
+"creator": "bluman",
+"creator_url": "https://www.flickr.com/photos/54288707@N00",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "google",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "googlemaps",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "maps",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "satellite",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Google Maps Icon Buttons\" by bluman is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 416,
+"width": 500,
+"thumbnail": "https://api.openverse.org/v1/images/93a81527-105f-46a1-8a5c-655c95481bd0/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/93a81527-105f-46a1-8a5c-655c95481bd0/",
+"related_url": "https://api.openverse.org/v1/images/93a81527-105f-46a1-8a5c-655c95481bd0/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "8fcb1ea6-57d0-424e-9454-36ab638b3529",
+"title": "Fable2 World Map (v2)",
+"indexed_on": "2020-04-29T08:10:35.121077Z",
+"foreign_landing_url": "https://www.flickr.com/photos/30958429@N04/2997494739",
+"url": "https://live.staticflickr.com/3055/2997494739_d40e9cc867_b.jpg",
+"creator": "bigredtricycle",
+"creator_url": "https://www.flickr.com/photos/30958429@N04",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "fable",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fable2",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "map",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "world",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Fable2 World Map (v2)\" by bigredtricycle is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 689,
+"thumbnail": "https://api.openverse.org/v1/images/8fcb1ea6-57d0-424e-9454-36ab638b3529/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/8fcb1ea6-57d0-424e-9454-36ab638b3529/",
+"related_url": "https://api.openverse.org/v1/images/8fcb1ea6-57d0-424e-9454-36ab638b3529/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "34e7a5c6-5185-4e91-9896-3746411bbf07",
+"title": "Final map",
+"indexed_on": "2020-04-16T06:09:30.911082Z",
+"foreign_landing_url": "https://www.flickr.com/photos/37996594214@N01/5627782657",
+"url": "https://live.staticflickr.com/5262/5627782657_2f7a08c9d8.jpg",
+"creator": "Tony Dowler",
+"creator_url": "https://www.flickr.com/photos/37996594214@N01",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "dungeonsanddragons",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fantasy",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "howtohostadugeon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "map",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Final map\" by Tony Dowler is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 375,
+"width": 500,
+"thumbnail": "https://api.openverse.org/v1/images/34e7a5c6-5185-4e91-9896-3746411bbf07/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/34e7a5c6-5185-4e91-9896-3746411bbf07/",
+"related_url": "https://api.openverse.org/v1/images/34e7a5c6-5185-4e91-9896-3746411bbf07/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "18904f1a-3158-44af-82e4-a0b23f8380c4",
+"title": "Caesarea Aqueduct in HDR",
+"indexed_on": "2018-11-08T01:45:17.652714Z",
+"foreign_landing_url": "https://www.flickr.com/photos/35459794@N00/2290456524",
+"url": "https://live.staticflickr.com/2366/2290456524_e1b29bfd41_b.jpg",
+"creator": "luzer",
+"creator_url": "https://www.flickr.com/photos/35459794@N00",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "aqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "archeology",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "caesarea",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hdr",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "israel",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "removedfromnikkorfortags",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "roman",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Caesarea Aqueduct in HDR\" by luzer is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 699,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/18904f1a-3158-44af-82e4-a0b23f8380c4/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/18904f1a-3158-44af-82e4-a0b23f8380c4/",
+"related_url": "https://api.openverse.org/v1/images/18904f1a-3158-44af-82e4-a0b23f8380c4/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "b460243c-149c-4943-b3a4-3d7411031e01",
+"title": "Inside of the Arches of \u7e35uas Livres Aqueduct",
+"indexed_on": "2019-12-21T08:33:43.833887Z",
+"foreign_landing_url": "https://www.flickr.com/photos/40385587@N00/48698250261",
+"url": "https://live.staticflickr.com/65535/48698250261_c7d951f6f6_b.jpg",
+"creator": "Istvan",
+"creator_url": "https://www.flickr.com/photos/40385587@N00",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "\u00e1guaslivresaqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aquaduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "indoor",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lisboa",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lisbon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "portugal",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u00e1guaslivresaqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vanishingpoint",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Inside of the Arches of \u00c1guas Livres Aqueduct\" by Istvan is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 680,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/b460243c-149c-4943-b3a4-3d7411031e01/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/b460243c-149c-4943-b3a4-3d7411031e01/",
+"related_url": "https://api.openverse.org/v1/images/b460243c-149c-4943-b3a4-3d7411031e01/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "4229ff81-7b1f-4a99-80aa-574f32847b2d",
+"title": "L'aq\u9ee3ducte de Barcino / Barcelona own roman aqueduct",
+"indexed_on": "2018-11-08T01:45:17.652714Z",
+"foreign_landing_url": "https://www.flickr.com/photos/7455207@N05/3047813509",
+"url": "https://live.staticflickr.com/3182/3047813509_16a7fd0abc_b.jpg",
+"creator": "SBA73",
+"creator_url": "https://www.flickr.com/photos/7455207@N05",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "aquaeductus",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aqueducte",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aqueducto",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "arch",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "archaeology",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "arches",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "arcs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "arcuaciones",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "arcuacions",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "arcuations",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "arqueologia",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "barcelona",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "barcino",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bic08019526",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "calle",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "carrer",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "catalonia",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "catalunya",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "duranibas",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "medianera",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mitjanera",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "restos",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "roemer",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rom\u00e0",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "roman",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "romano",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "romanos",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "romans",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "r\u00f6mer",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ruin",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "street",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"L'aq\u00fceducte de Barcino / Barcelona own roman aqueduct\" by SBA73 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 649,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/4229ff81-7b1f-4a99-80aa-574f32847b2d/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/4229ff81-7b1f-4a99-80aa-574f32847b2d/",
+"related_url": "https://api.openverse.org/v1/images/4229ff81-7b1f-4a99-80aa-574f32847b2d/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "f7467f6e-918d-45b5-b14f-7bb2315d64e7",
+"title": "Roman aqueduct",
+"indexed_on": "2020-04-27T20:33:26.110230Z",
+"foreign_landing_url": "https://www.flickr.com/photos/53074617@N00/2398839197",
+"url": "https://live.staticflickr.com/2031/2398839197_66f72fc181_b.jpg",
+"creator": "Wolfgang Staudt",
+"creator_url": "https://www.flickr.com/photos/53074617@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "66111",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "afternoon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ancientromans",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aquu00e4dukt",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "architecture",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "big",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "blue",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "building",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "chu00e2teaudeau",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "city",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cityscape",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "elevation",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "europe",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "flickrcolour",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fontaine",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "france",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "frankreich",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fransa",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "frontview",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "grossstadt",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "holidays",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hoteldeville",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hu00e9rault",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "langedocroussillon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "laqueducdupeyrou",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lateafternoon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lez",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "maerz",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "march",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "metropole",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "montpelhiu00e8r",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "montpellier",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nikond70",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pavillondelaqueduc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "reflection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "reflexions",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "river",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "riverlez",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "romanaqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sigma",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sky",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "southoffrance",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sun",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "travel",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "travelphotographie",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u03bcu03bfu03bdu03c0u03b5u03bbu03b9u03ad",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u043cu043eu043du043fu0435u043bu0438u0435",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u043cu043eu043du043fu0435u043bu044cu0435",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u0645u0648u0646u0628u064au0644u064au064au0647",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u0645u0648u0646u200cu067eu0644u06cc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u078au07a6u0783u07a6u0782u07b0u0790u07adu0790u07a8u0788u07a8u078du07a7u078c",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u0f55u0f62u0f71u0f53u0f66u0f72u0f0b",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u30e2u30f3u30dau30eau30a8",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u8499u5f7cu5229u57c3",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wideangle",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "windows",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "winter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wolfgangstaudt",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "architecture",
+"accuracy": 0.97696,
+"unstable__provider": "clarifai"
+},
+{
+"name": "bridge",
+"accuracy": 0.97822,
+"unstable__provider": "clarifai"
+},
+{
+"name": "building",
+"accuracy": 0.93923,
+"unstable__provider": "clarifai"
+},
+{
+"name": "city",
+"accuracy": 0.9227,
+"unstable__provider": "clarifai"
+},
+{
+"name": "landscape",
+"accuracy": 0.97114,
+"unstable__provider": "clarifai"
+},
+{
+"name": "river",
+"accuracy": 0.93217,
+"unstable__provider": "clarifai"
+},
+{
+"name": "road",
+"accuracy": 0.92657,
+"unstable__provider": "clarifai"
+},
+{
+"name": "sky",
+"accuracy": 0.92256,
+"unstable__provider": "clarifai"
+},
+{
+"name": "travel",
+"accuracy": 0.97536,
+"unstable__provider": "clarifai"
+},
+{
+"name": "water",
+"accuracy": 0.96114,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Roman aqueduct\" by Wolfgang Staudt is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 602,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/f7467f6e-918d-45b5-b14f-7bb2315d64e7/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/f7467f6e-918d-45b5-b14f-7bb2315d64e7/",
+"related_url": "https://api.openverse.org/v1/images/f7467f6e-918d-45b5-b14f-7bb2315d64e7/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "a9554f7e-bece-4859-a380-aaba8627a332",
+"title": "Perugia - City of Etruscans and of the medieval Aqueduct",
+"indexed_on": "2023-03-11T07:39:25.730418Z",
+"foreign_landing_url": "https://www.flickr.com/photos/10623250@N03/51903850966",
+"url": "https://live.staticflickr.com/65535/51903850966_9b9aa116fc_b.jpg",
+"creator": "WolfgangPichler",
+"creator_url": "https://www.flickr.com/photos/10623250@N03",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": "photograph",
+"filesize": null,
+"filetype": "jpg",
+"tags": [
+{
+"name": "aqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "explored",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "geotagged",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "italy",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "perugia",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "umbria",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Perugia - City of Etruscans and of the medieval Aqueduct\" by WolfgangPichler is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 683,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/a9554f7e-bece-4859-a380-aaba8627a332/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/a9554f7e-bece-4859-a380-aaba8627a332/",
+"related_url": "https://api.openverse.org/v1/images/a9554f7e-bece-4859-a380-aaba8627a332/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "26241f1c-db5c-4d22-81f0-a6fccc0d1941",
+"title": "Aqueduct of Segovia 08",
+"indexed_on": "2020-10-20T16:37:35.295741Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=9696281",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Aqueduct_of_Segovia_08.jpg",
+"creator": "Bernard Gagnon",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Bgag",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia",
+"source": "wikimedia",
+"category": null,
+"filesize": 3023115,
+"filetype": "jpg",
+"tags": [],
+"attribution": "\"Aqueduct of Segovia 08\" by Bernard Gagnon is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"height": 2592,
+"width": 3456,
+"thumbnail": "https://api.openverse.org/v1/images/26241f1c-db5c-4d22-81f0-a6fccc0d1941/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/26241f1c-db5c-4d22-81f0-a6fccc0d1941/",
+"related_url": "https://api.openverse.org/v1/images/26241f1c-db5c-4d22-81f0-a6fccc0d1941/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "7d62d0cb-f776-47cc-90f9-00a57e62ff45",
+"title": "Aqueduct Bridge (1870s)",
+"indexed_on": "2018-11-09T02:22:56.756031Z",
+"foreign_landing_url": "https://www.flickr.com/photos/33661083@N06/8682554979",
+"url": "https://live.staticflickr.com/8120/8682554979_2a2ef213e2_b.jpg",
+"creator": "StreetsofWashington",
+"creator_url": "https://www.flickr.com/photos/33661083@N06",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "aqueductbridge",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bridges",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "potomac",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stereoviews",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "washington",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "washingtondc",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Aqueduct Bridge (1870s)\" by StreetsofWashington is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"height": 584,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/7d62d0cb-f776-47cc-90f9-00a57e62ff45/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/7d62d0cb-f776-47cc-90f9-00a57e62ff45/",
+"related_url": "https://api.openverse.org/v1/images/7d62d0cb-f776-47cc-90f9-00a57e62ff45/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "bb6f233c-a29b-4bd8-8b9a-894d73712a23",
+"title": "Engine Arm Aqueduct - BCN Old Main Line - Wolverhampton Level",
+"indexed_on": "2016-11-17T03:14:00.062466Z",
+"foreign_landing_url": "https://www.flickr.com/photos/39415781@N06/7408783908",
+"url": "https://live.staticflickr.com/8005/7408783908_75230e8c12_b.jpg",
+"creator": "ell brown",
+"creator_url": "https://www.flickr.com/photos/39415781@N06",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "aqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bcn",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bcnmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bcnnewmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bcnoldmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "birminghamcanalnavigationsmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "birminghamlevel",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "birminghamuk",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "blackcountry",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bridge",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "canals",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "enginearm",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "enginearmaqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "enginearmbridge",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "enginearmcanal",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "enginebranch",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "england",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "galtonvalleycanalheritagearea",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gradeiilisted",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "greatbritain",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "irontroughaqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "newmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "oldmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sandwell",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "scheduledancientmonument",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "smethwick",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "thomastelford",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "unitedkingdom",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "westmidlands",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wolverhamptonlevel",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "architecture",
+"accuracy": 0.95017,
+"unstable__provider": "clarifai"
+},
+{
+"name": "bridge",
+"accuracy": 0.98542,
+"unstable__provider": "clarifai"
+},
+{
+"name": "building",
+"accuracy": 0.95734,
+"unstable__provider": "clarifai"
+},
+{
+"name": "canal",
+"accuracy": 0.96956,
+"unstable__provider": "clarifai"
+},
+{
+"name": "city",
+"accuracy": 0.91161,
+"unstable__provider": "clarifai"
+},
+{
+"name": "landscape",
+"accuracy": 0.93982,
+"unstable__provider": "clarifai"
+},
+{
+"name": "river",
+"accuracy": 0.96299,
+"unstable__provider": "clarifai"
+},
+{
+"name": "road",
+"accuracy": 0.96504,
+"unstable__provider": "clarifai"
+},
+{
+"name": "street",
+"accuracy": 0.92107,
+"unstable__provider": "clarifai"
+},
+{
+"name": "transportation system",
+"accuracy": 0.90007,
+"unstable__provider": "clarifai"
+},
+{
+"name": "travel",
+"accuracy": 0.9575,
+"unstable__provider": "clarifai"
+},
+{
+"name": "tree",
+"accuracy": 0.92876,
+"unstable__provider": "clarifai"
+},
+{
+"name": "water",
+"accuracy": 0.95559,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Engine Arm Aqueduct - BCN Old Main Line - Wolverhampton Level\" by ell brown is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/bb6f233c-a29b-4bd8-8b9a-894d73712a23/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/bb6f233c-a29b-4bd8-8b9a-894d73712a23/",
+"related_url": "https://api.openverse.org/v1/images/bb6f233c-a29b-4bd8-8b9a-894d73712a23/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "291e7a10-2e2e-403f-9bb0-e16cc803ac40",
+"title": "Aqueduct \u2013 Acueducto de Segovia (Spain), HDR",
+"indexed_on": "2020-04-15T16:09:28.273219Z",
+"foreign_landing_url": "https://www.flickr.com/photos/30982194@N05/5387183086",
+"url": "https://live.staticflickr.com/5216/5387183086_aed5fb1049_b.jpg",
+"creator": "marcp_dmoz",
+"creator_url": "https://www.flickr.com/photos/30982194@N05",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "1735mmf28d",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "acueducto",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aquu00e4dukt",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "architecture",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "architektur",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "arcosdemediopunto",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "arquitectura",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "blackandwhite",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "blancoynegro",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bogen",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "castileandleon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "castillayleon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "d700",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "espau00f1a",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hdr",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ingenieru00eda",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ingenieurskunst",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kastilienundleon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "map",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "meisterwerk",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "monument",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "monumento",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nachtaufnahme",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "night",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nikkor",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nikon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nocturna",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "obramaestra",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "photomatix",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "photoshop",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pointarches",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "roman",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "romano",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ru00f6misch",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "schwarzweiss",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "segovia",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "shot",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "spain",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "spanien",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tone",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tonemap",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tonemapped",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tonemapping",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Aqueduct \u2013 Acueducto de Segovia (Spain), HDR\" by marcp_dmoz is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 573,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/291e7a10-2e2e-403f-9bb0-e16cc803ac40/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/291e7a10-2e2e-403f-9bb0-e16cc803ac40/",
+"related_url": "https://api.openverse.org/v1/images/291e7a10-2e2e-403f-9bb0-e16cc803ac40/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "7e3fb9b0-81bf-4651-849c-4595368140fc",
+"title": "P\u0420nt de Gard (aq\u042deducte rom\u042e) / Pont du Gard (Roman aqueduct)",
+"indexed_on": "2020-03-25T16:23:48.943644Z",
+"foreign_landing_url": "https://www.flickr.com/photos/14485539@N00/28694963924",
+"url": "https://live.staticflickr.com/8361/28694963924_36c1a2cf4b_b.jpg",
+"creator": "Sebasti\u00e0 Giralt",
+"creator_url": "https://www.flickr.com/photos/14485539@N00",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "acueducto",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aqueducte",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "architecture",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "arquitectura",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "engineering",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "enginyeria",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "explore",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "explored",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gard",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gardon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hidraulica",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hydraulics",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ingenieria",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "langedoc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "llenguadoc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nemausus",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nimes",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "p\u00f2ntdegard",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pontdugard",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pu00f2ntdegard",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rom\u00e0",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "roman",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "romano",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "romu00e0",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"P\u00f2nt de Gard (aq\u00fceducte rom\u00e0) / Pont du Gard (Roman aqueduct)\" by Sebasti\u00e0 Giralt is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 673,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/7e3fb9b0-81bf-4651-849c-4595368140fc/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/7e3fb9b0-81bf-4651-849c-4595368140fc/",
+"related_url": "https://api.openverse.org/v1/images/7e3fb9b0-81bf-4651-849c-4595368140fc/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "5ea4704c-dad6-49e3-bb39-56510ed7ed82",
+"title": "Pontcysyllte Aqueduct",
+"indexed_on": "2020-04-04T19:42:29.106839Z",
+"foreign_landing_url": "https://www.flickr.com/photos/21204781@N07/14847427915",
+"url": "https://live.staticflickr.com/5593/14847427915_50e6cc2036_b.jpg",
+"creator": "pcgn7",
+"creator_url": "https://www.flickr.com/photos/21204781@N07",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "17951805",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "2014",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "august",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "familyholiday",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "northwales",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pcgn7",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pontcysyllteaquaduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rawhdr",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "thomastelford",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "williamjessop",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Pontcysyllte Aqueduct\" by pcgn7 is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 682,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/5ea4704c-dad6-49e3-bb39-56510ed7ed82/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/5ea4704c-dad6-49e3-bb39-56510ed7ed82/",
+"related_url": "https://api.openverse.org/v1/images/5ea4704c-dad6-49e3-bb39-56510ed7ed82/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "f9e516f0-49fd-4f55-b4c3-fe4da754ef4f",
+"title": "Waterfalls Along the Aqueduct - Attraction",
+"indexed_on": "2023-03-10T05:24:39.924676Z",
+"foreign_landing_url": "https://www.flickr.com/photos/7156765@N05/51391784788",
+"url": "https://live.staticflickr.com/65535/51391784788_b825e00ac4_b.jpg",
+"creator": "Onasill - Bill Badzo - 149 Million Views - Thank Y",
+"creator_url": "https://www.flickr.com/photos/7156765@N05",
+"license": "pdm",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": "photograph",
+"filesize": null,
+"filetype": "jpg",
+"tags": [
+{
+"name": "alaska",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "altered",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "attractionsite",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cascade",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "clouds",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "crisp",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "domain",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hdr",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hdrnxl",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "intensify",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "jacobwfrank",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "landmark",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "national",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nps",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "npsalaska",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nrhp",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "onasill",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "park",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "proceed",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "process",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "public",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rendered",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "service",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sky",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "waterfall",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Waterfalls Along the Aqueduct - Attraction\" by Onasill - Bill Badzo - 149 Million Views - Thank Y is marked with Public Domain Mark 1.0. To view the terms, visit https://creativecommons.org/publicdomain/mark/1.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"height": 682,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/f9e516f0-49fd-4f55-b4c3-fe4da754ef4f/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/f9e516f0-49fd-4f55-b4c3-fe4da754ef4f/",
+"related_url": "https://api.openverse.org/v1/images/f9e516f0-49fd-4f55-b4c3-fe4da754ef4f/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "cf1918eb-05f0-4002-898c-c52c62b8636d",
+"title": "Vanvitelli aqueduct",
+"indexed_on": "2020-05-30T13:58:24.653880Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=3947098",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Vanvitelli_aqueduct.jpg",
+"creator": "Original uploader was Istv\u00e1nka at hu.wikipedia",
+"creator_url": "https://hu.wikipedia.org/wiki/User:Istv%C3%A1nka",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia",
+"source": "wikimedia",
+"category": null,
+"filesize": 111724,
+"filetype": "jpg",
+"tags": [],
+"attribution": "\"Vanvitelli aqueduct\" by Original uploader was Istv\u00e1nka at hu.wikipedia is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"height": 333,
+"width": 500,
+"thumbnail": "https://api.openverse.org/v1/images/cf1918eb-05f0-4002-898c-c52c62b8636d/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/cf1918eb-05f0-4002-898c-c52c62b8636d/",
+"related_url": "https://api.openverse.org/v1/images/cf1918eb-05f0-4002-898c-c52c62b8636d/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "c16bb3ba-2cd9-4fdd-b6dc-5e0ffbedada0",
+"title": "NYC - Morningside Heights: Croton Aqueduct, 135th Street Gatehouse",
+"indexed_on": "2018-11-08T01:45:17.652714Z",
+"foreign_landing_url": "https://www.flickr.com/photos/70323761@N00/1034804248",
+"url": "https://live.staticflickr.com/1160/1034804248_4c156b745d_b.jpg",
+"creator": "wallyg",
+"creator_url": "https://www.flickr.com/photos/70323761@N00",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "135thstreetgatehouse",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "crotonaqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "frederickscook",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gatehouse",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gothamist",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "harlem",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "landmark",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "manhattan",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "morningsideheights",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "newyork",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "newyorkcity",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "newyorkcitylandmarkspreservationcommission",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ny",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nyc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nyclpc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "romanesquerevival",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "west135thstreetgatehouse",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"NYC - Morningside Heights: Croton Aqueduct, 135th Street Gatehouse\" by wallyg is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 682,
+"thumbnail": "https://api.openverse.org/v1/images/c16bb3ba-2cd9-4fdd-b6dc-5e0ffbedada0/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/c16bb3ba-2cd9-4fdd-b6dc-5e0ffbedada0/",
+"related_url": "https://api.openverse.org/v1/images/c16bb3ba-2cd9-4fdd-b6dc-5e0ffbedada0/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "26bb0b9b-bfe9-42b3-9e92-d873026337f9",
+"title": "Wootton Wawen Aqueduct - Stratford Road, Wootton Wawen",
+"indexed_on": "2018-11-09T02:22:56.756031Z",
+"foreign_landing_url": "https://www.flickr.com/photos/39415781@N06/9425219818",
+"url": "https://live.staticflickr.com/3791/9425219818_75d0b6e80f_b.jpg",
+"creator": "ell brown",
+"creator_url": "https://www.flickr.com/photos/39415781@N06",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "a3400",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bernarddewes",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bridge",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "castirontrough",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "england",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gradeiilisted",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "greatbritain",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rain",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "raining",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "scheduledancientmonument",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stratfordcanalcompany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stratfordonavoncanal",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stratfordrd",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stratfordrdwoottonwawen",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "thenavigationinn",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tree",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "trees",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "unitedkingdom",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "warwickshire",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "williamwhitmore",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woottonwawen",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woottonwawenaqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Wootton Wawen Aqueduct - Stratford Road, Wootton Wawen\" by ell brown is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/26bb0b9b-bfe9-42b3-9e92-d873026337f9/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/26bb0b9b-bfe9-42b3-9e92-d873026337f9/",
+"related_url": "https://api.openverse.org/v1/images/26bb0b9b-bfe9-42b3-9e92-d873026337f9/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "9f02da66-6cb9-42e5-9741-ac549a8c8080",
+"title": "Colorado River Aqueduct",
+"indexed_on": "2018-11-08T01:45:17.652714Z",
+"foreign_landing_url": "https://www.flickr.com/photos/28402283@N07/3185930016",
+"url": "https://live.staticflickr.com/3405/3185930016_2f7a482d75.jpg",
+"creator": "\u201cCaveman Chuck\u201d Coker",
+"creator_url": "https://www.flickr.com/photos/28402283@N07",
+"license": "by-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "177",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "62",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ca",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "california",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "canal",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "center",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "colorado",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "coloradoriveraqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "desert",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "desertcenter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "highway",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "highway177",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "highway62",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "junction",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "losangeles",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mohave",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mojave",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rice",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "river",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "road",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "state",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tunnel",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vidal",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vidaljunction",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Colorado River Aqueduct\" by \u201cCaveman Chuck\u201d Coker is licensed under CC BY-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 375,
+"width": 500,
+"thumbnail": "https://api.openverse.org/v1/images/9f02da66-6cb9-42e5-9741-ac549a8c8080/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/9f02da66-6cb9-42e5-9741-ac549a8c8080/",
+"related_url": "https://api.openverse.org/v1/images/9f02da66-6cb9-42e5-9741-ac549a8c8080/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "7b5cb3ec-fbcb-486c-a92d-1129a478861c",
+"title": "Segovia's Aqueduct",
+"indexed_on": "2020-04-21T02:13:27.375921Z",
+"foreign_landing_url": "https://www.flickr.com/photos/35409814@N00/4382085076",
+"url": "https://live.staticflickr.com/2734/4382085076_0eb48f4485_b.jpg",
+"creator": "Lawrence OP",
+"creator_url": "https://www.flickr.com/photos/35409814@N00",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "acueducto",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "espau00f1a",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "heritage",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "roman",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "segovia",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stones",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "unesco",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Segovia's Aqueduct\" by Lawrence OP is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 784,
+"thumbnail": "https://api.openverse.org/v1/images/7b5cb3ec-fbcb-486c-a92d-1129a478861c/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/7b5cb3ec-fbcb-486c-a92d-1129a478861c/",
+"related_url": "https://api.openverse.org/v1/images/7b5cb3ec-fbcb-486c-a92d-1129a478861c/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "e4c894df-0ac2-4f3b-91cb-0314b50ac742",
+"title": "Near Rostokino Aqueduct, Moscow",
+"indexed_on": "2020-03-20T23:37:39.600056Z",
+"foreign_landing_url": "https://www.flickr.com/photos/151882465@N06/35383428246",
+"url": "https://live.staticflickr.com/4229/35383428246_e3be5a5943_b.jpg",
+"creator": "Boris Zhigun",
+"creator_url": "https://www.flickr.com/photos/151882465@N06",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "120film",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "6x6",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "carlzeissjena",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ektar100",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hat",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kiev60",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kodak",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mediumformat",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "moscow",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "p6",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pentaconsix",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "portrait",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rostokino",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sonnar180",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "turkmen",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u043au0438u0435u043260",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u0441u0440u0435u0434u043du0438u0439u0444u043eu0440u043cu0430u0442",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vintage",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "\u043a\u0438\u0435\u043260",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "\u0441\u0440\u0435\u0434\u043d\u0438\u0439\u0444\u043e\u0440\u043c\u0430\u0442",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Near Rostokino Aqueduct, Moscow\" by Boris Zhigun is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/e4c894df-0ac2-4f3b-91cb-0314b50ac742/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/e4c894df-0ac2-4f3b-91cb-0314b50ac742/",
+"related_url": "https://api.openverse.org/v1/images/e4c894df-0ac2-4f3b-91cb-0314b50ac742/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "f795fc1a-c655-4be8-ac75-7e1d9dce62a7",
+"title": "Engine Arm Aqueduct - BCN Old Main Line - Wolverhampton Level",
+"indexed_on": "2020-04-12T14:48:25.499737Z",
+"foreign_landing_url": "https://www.flickr.com/photos/39415781@N06/7408814052",
+"url": "https://live.staticflickr.com/7279/7408814052_ef72cc0b9a_b.jpg",
+"creator": "ell brown",
+"creator_url": "https://www.flickr.com/photos/39415781@N06",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "aqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bcn",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bcnmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bcnnewmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bcnoldmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "birminghamcanalnavigationsmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "birminghamlevel",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "blackcountry",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bridge",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "canals",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "enginearm",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "enginearmaqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "enginearmcanal",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "enginebranch",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "england",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "galtonvalleycanalheritagearea",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gradeiilisted",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "greatbritain",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "irontroughaqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "newmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "oldmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sandwell",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "scheduledancientmonument",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "smethwick",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "thomastelford",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "unitedkingdom",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "westmidlands",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wolverhamptonlevel",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Engine Arm Aqueduct - BCN Old Main Line - Wolverhampton Level\" by ell brown is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/f795fc1a-c655-4be8-ac75-7e1d9dce62a7/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/f795fc1a-c655-4be8-ac75-7e1d9dce62a7/",
+"related_url": "https://api.openverse.org/v1/images/f795fc1a-c655-4be8-ac75-7e1d9dce62a7/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "48e24fff-a73f-4da6-bd79-b3b3e4441f18",
+"title": "Engine Arm Aqueduct - BCN Old Main Line - Wolverhampton Level",
+"indexed_on": "2018-11-08T17:31:32.467511Z",
+"foreign_landing_url": "https://www.flickr.com/photos/39415781@N06/7408778160",
+"url": "https://live.staticflickr.com/8146/7408778160_53affebfe6_b.jpg",
+"creator": "ell brown",
+"creator_url": "https://www.flickr.com/photos/39415781@N06",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "aqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bcn",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bcnmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bcnnewmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bcnoldmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "birminghamcanalnavigationsmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "birminghamlevel",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "blackcountry",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bridge",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "canals",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "enginearm",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "enginearmaqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "enginearmcanal",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "enginebranch",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "england",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "galtonvalleycanalheritagearea",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gradeiilisted",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "greatbritain",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "irontroughaqueduct",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "newmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "oldmainline",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sandwell",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "scheduledancientmonument",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "smethwick",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "thomastelford",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "unitedkingdom",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "westmidlands",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wolverhamptonlevel",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Engine Arm Aqueduct - BCN Old Main Line - Wolverhampton Level\" by ell brown is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/48e24fff-a73f-4da6-bd79-b3b3e4441f18/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/48e24fff-a73f-4da6-bd79-b3b3e4441f18/",
+"related_url": "https://api.openverse.org/v1/images/48e24fff-a73f-4da6-bd79-b3b3e4441f18/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "91a89eec-9f2b-49de-b7dc-0274c67bcce1",
+"title": "mask",
+"indexed_on": "2019-01-30T16:39:22.504290Z",
+"foreign_landing_url": "https://www.flickr.com/photos/66993460@N00/185102212",
+"url": "https://live.staticflickr.com/73/185102212_1608ca0237.jpg",
+"creator": "Edgar Crook",
+"creator_url": "https://www.flickr.com/photos/66993460@N00",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"mask\" by Edgar Crook is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 500,
+"width": 483,
+"thumbnail": "https://api.openverse.org/v1/images/91a89eec-9f2b-49de-b7dc-0274c67bcce1/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/91a89eec-9f2b-49de-b7dc-0274c67bcce1/",
+"related_url": "https://api.openverse.org/v1/images/91a89eec-9f2b-49de-b7dc-0274c67bcce1/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "7cc8df6e-8556-42ff-9551-8343143d707b",
+"title": "Mask",
+"indexed_on": "2020-04-09T08:15:20.373441Z",
+"foreign_landing_url": "https://www.flickr.com/photos/110109597@N03/11199973934",
+"url": "https://live.staticflickr.com/3706/11199973934_c0249f2782_b.jpg",
+"creator": "Jon Wallach",
+"creator_url": "https://www.flickr.com/photos/110109597@N03",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Mask\" by Jon Wallach is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 683,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/7cc8df6e-8556-42ff-9551-8343143d707b/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/7cc8df6e-8556-42ff-9551-8343143d707b/",
+"related_url": "https://api.openverse.org/v1/images/7cc8df6e-8556-42ff-9551-8343143d707b/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "616f2587-55c3-439c-935f-adde0369d1e3",
+"title": "mask in progress - finished",
+"indexed_on": "2020-05-05T13:51:24.205932Z",
+"foreign_landing_url": "https://www.flickr.com/photos/84144593@N00/95948282",
+"url": "https://live.staticflickr.com/33/95948282_0765780e9a_b.jpg",
+"creator": "origami joel",
+"creator_url": "https://www.flickr.com/photos/84144593@N00",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "face",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "folding",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "joel",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "origami",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "origamijoel",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "paper",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tesselation",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tessellation",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"mask in progress - finished\" by origami joel is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 785,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/616f2587-55c3-439c-935f-adde0369d1e3/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/616f2587-55c3-439c-935f-adde0369d1e3/",
+"related_url": "https://api.openverse.org/v1/images/616f2587-55c3-439c-935f-adde0369d1e3/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "56085ad0-56da-472a-b29b-cac743bf0652",
+"title": "* Peta - Mask *",
+"indexed_on": "2018-11-08T01:45:17.652714Z",
+"foreign_landing_url": "https://www.flickr.com/photos/8078381@N03/2960260445",
+"url": "https://live.staticflickr.com/3035/2960260445_f60b75a4d7_b.jpg",
+"creator": "pareeerica",
+"creator_url": "https://www.flickr.com/photos/8078381@N03",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "masked",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "masks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "masque",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "masquerade",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "peta",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "petaevanstaylor",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "s2wraps",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "s2wrapsblendsbeyondblends",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "thankyouaudringje",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "viamoi",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"* Peta - Mask *\" by pareeerica is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 779,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/56085ad0-56da-472a-b29b-cac743bf0652/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/56085ad0-56da-472a-b29b-cac743bf0652/",
+"related_url": "https://api.openverse.org/v1/images/56085ad0-56da-472a-b29b-cac743bf0652/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "fba71a69-8de8-48d5-88cb-e068139a0f69",
+"title": "* Peta - Masked *",
+"indexed_on": "2020-04-29T06:07:27.979260Z",
+"foreign_landing_url": "https://www.flickr.com/photos/8078381@N03/2961098278",
+"url": "https://live.staticflickr.com/3039/2961098278_4e5411c967_b.jpg",
+"creator": "pareeerica",
+"creator_url": "https://www.flickr.com/photos/8078381@N03",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "masked",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "masks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "masque",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "masquerade",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "peta",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "petaevanstaylor",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "s2wraps",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "s2wrapsblendsbeyondblends",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "thankyouaudringje",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "viamoi",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"* Peta - Masked *\" by pareeerica is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 831,
+"thumbnail": "https://api.openverse.org/v1/images/fba71a69-8de8-48d5-88cb-e068139a0f69/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/fba71a69-8de8-48d5-88cb-e068139a0f69/",
+"related_url": "https://api.openverse.org/v1/images/fba71a69-8de8-48d5-88cb-e068139a0f69/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "a03e67f4-5758-4389-9a1b-b793a6f99464",
+"title": "Masks of Venice #3",
+"indexed_on": "2020-05-03T07:48:31.547295Z",
+"foreign_landing_url": "https://www.flickr.com/photos/39351850@N00/1206200653",
+"url": "https://live.staticflickr.com/1369/1206200653_f7129f02bc_b.jpg",
+"creator": "Chiara Marra",
+"creator_url": "https://www.flickr.com/photos/39351850@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "18135mm",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "art",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "italy",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "masks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nikond80",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "removedfromnikkorfortags",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "venice",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "venicecarnival",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "art",
+"accuracy": 0.97372,
+"unstable__provider": "clarifai"
+},
+{
+"name": "costume",
+"accuracy": 0.99772,
+"unstable__provider": "clarifai"
+},
+{
+"name": "decoration",
+"accuracy": 0.96064,
+"unstable__provider": "clarifai"
+},
+{
+"name": "disguise",
+"accuracy": 0.99854,
+"unstable__provider": "clarifai"
+},
+{
+"name": "face",
+"accuracy": 0.96982,
+"unstable__provider": "clarifai"
+},
+{
+"name": "face disguise",
+"accuracy": 0.98955,
+"unstable__provider": "clarifai"
+},
+{
+"name": "fantasy",
+"accuracy": 0.99102,
+"unstable__provider": "clarifai"
+},
+{
+"name": "fest",
+"accuracy": 0.98657,
+"unstable__provider": "clarifai"
+},
+{
+"name": "festival",
+"accuracy": 0.99529,
+"unstable__provider": "clarifai"
+},
+{
+"name": "glimpse",
+"accuracy": 0.96633,
+"unstable__provider": "clarifai"
+},
+{
+"name": "gras",
+"accuracy": 0.99514,
+"unstable__provider": "clarifai"
+},
+{
+"name": "Halloween",
+"accuracy": 0.97848,
+"unstable__provider": "clarifai"
+},
+{
+"name": "hide",
+"accuracy": 0.98955,
+"unstable__provider": "clarifai"
+},
+{
+"name": "mardi",
+"accuracy": 0.99263,
+"unstable__provider": "clarifai"
+},
+{
+"name": "mask",
+"accuracy": 0.99978,
+"unstable__provider": "clarifai"
+},
+{
+"name": "masquerade",
+"accuracy": 0.99973,
+"unstable__provider": "clarifai"
+},
+{
+"name": "mystery",
+"accuracy": 0.99223,
+"unstable__provider": "clarifai"
+},
+{
+"name": "theater",
+"accuracy": 0.97761,
+"unstable__provider": "clarifai"
+},
+{
+"name": "theatre",
+"accuracy": 0.95416,
+"unstable__provider": "clarifai"
+},
+{
+"name": "Venetian",
+"accuracy": 0.99851,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Masks of Venice #3\" by Chiara Marra is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 687,
+"thumbnail": "https://api.openverse.org/v1/images/a03e67f4-5758-4389-9a1b-b793a6f99464/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/a03e67f4-5758-4389-9a1b-b793a6f99464/",
+"related_url": "https://api.openverse.org/v1/images/a03e67f4-5758-4389-9a1b-b793a6f99464/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "63693a5b-91e4-42e5-91e5-1629ca136823",
+"title": "Ron Jeremy mask, San Diego Comic-Con, San Diego, California, USA",
+"indexed_on": "2020-04-08T18:50:24.252510Z",
+"foreign_landing_url": "https://www.flickr.com/photos/37996580417@N01/9333606696",
+"url": "https://live.staticflickr.com/2853/9333606696_ec67a5cbe3_b.jpg",
+"creator": "gruntzooki",
+"creator_url": "https://www.flickr.com/photos/37996580417@N01",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "ca",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "california",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "costume",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ronjeremy",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sandiego",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sandiegocomiccon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sdcc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "usa",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "weird",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Ron Jeremy mask, San Diego Comic-Con, San Diego, California, USA\" by gruntzooki is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 768,
+"thumbnail": "https://api.openverse.org/v1/images/63693a5b-91e4-42e5-91e5-1629ca136823/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/63693a5b-91e4-42e5-91e5-1629ca136823/",
+"related_url": "https://api.openverse.org/v1/images/63693a5b-91e4-42e5-91e5-1629ca136823/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "f44be41b-4788-438f-b4af-7d7d109aecde",
+"title": "mask 1a",
+"indexed_on": "2019-01-30T18:56:14.126448Z",
+"foreign_landing_url": "https://www.flickr.com/photos/84144593@N00/83474993",
+"url": "https://live.staticflickr.com/38/83474993_0217046bf4_b.jpg",
+"creator": "origami joel",
+"creator_url": "https://www.flickr.com/photos/84144593@N00",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "face",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "folding",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "joel",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "origami",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "origamijoel",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "paper",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sold",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tesselation",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tessellation",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"mask 1a\" by origami joel is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 843,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/f44be41b-4788-438f-b4af-7d7d109aecde/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/f44be41b-4788-438f-b4af-7d7d109aecde/",
+"related_url": "https://api.openverse.org/v1/images/f44be41b-4788-438f-b4af-7d7d109aecde/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "62d01787-4a4b-4efd-a217-4ea75db6b850",
+"title": "Mexico: Mascaras de Lucha Libre (Wrestling masks with Creative Commons Attribution-Share Alike License)",
+"indexed_on": "2019-01-16T15:46:59.209724Z",
+"foreign_landing_url": "https://www.flickr.com/photos/19047782@N00/3090304192",
+"url": "https://live.staticflickr.com/3100/3090304192_20e45f15f4.jpg",
+"creator": "planeta",
+"creator_url": "https://www.flickr.com/photos/19047782@N00",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "freistilringen",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mexico",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "df",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "park",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "parque",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "luchalibre",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wrestling",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mascara",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "chapultepec",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Mexico: Mascaras de Lucha Libre (Wrestling masks with Creative Commons Attribution-Share Alike License)\" by planeta is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 375,
+"width": 500,
+"thumbnail": "https://api.openverse.org/v1/images/62d01787-4a4b-4efd-a217-4ea75db6b850/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/62d01787-4a4b-4efd-a217-4ea75db6b850/",
+"related_url": "https://api.openverse.org/v1/images/62d01787-4a4b-4efd-a217-4ea75db6b850/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "d66cc9ae-d054-4c0a-970f-14438734c945",
+"title": "Halloween mask 20/20",
+"indexed_on": "2020-04-17T21:21:18.993933Z",
+"foreign_landing_url": "https://www.flickr.com/photos/27186496@N00/6281894516",
+"url": "https://live.staticflickr.com/6234/6281894516_3060bbb071_b.jpg",
+"creator": "Kevin L O'Mara",
+"creator_url": "https://www.flickr.com/photos/27186496@N00",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "cemetery",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "folklifehalloween2014",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "halloween",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "halloweenmask",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "louisiana",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "neworleans",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "papiermache",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pumpkin",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "selfportrait",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Halloween mask 20/20\" by Kevin L O'Mara is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 683,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/d66cc9ae-d054-4c0a-970f-14438734c945/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/d66cc9ae-d054-4c0a-970f-14438734c945/",
+"related_url": "https://api.openverse.org/v1/images/d66cc9ae-d054-4c0a-970f-14438734c945/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "34b86763-9cdc-49b8-8de0-7bb20c8fa00e",
+"title": "Mouse Carnival Mask, Venice",
+"indexed_on": "2020-04-23T06:09:32.786796Z",
+"foreign_landing_url": "https://www.flickr.com/photos/53196512@N07/5255475917",
+"url": "https://live.staticflickr.com/5248/5255475917_ae40a1c6eb_b.jpg",
+"creator": "flatworldsedge",
+"creator_url": "https://www.flickr.com/photos/53196512@N07",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "bokeh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "canon50mmf18",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "carnival",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "dof",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gold",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "italy",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "silk",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "venice",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "whiskas",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Mouse Carnival Mask, Venice\" by flatworldsedge is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 791,
+"thumbnail": "https://api.openverse.org/v1/images/34b86763-9cdc-49b8-8de0-7bb20c8fa00e/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/34b86763-9cdc-49b8-8de0-7bb20c8fa00e/",
+"related_url": "https://api.openverse.org/v1/images/34b86763-9cdc-49b8-8de0-7bb20c8fa00e/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "de4afddb-99cb-4420-af6b-d8f2070ffeb7",
+"title": "Mask",
+"indexed_on": "2020-04-29T14:14:28.405417Z",
+"foreign_landing_url": "https://www.flickr.com/photos/13733776@N00/3108841250",
+"url": "https://live.staticflickr.com/3124/3108841250_307f4339f9_b.jpg",
+"creator": "Rodfather",
+"creator_url": "https://www.flickr.com/photos/13733776@N00",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "fx150",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Mask\" by Rodfather is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 762,
+"thumbnail": "https://api.openverse.org/v1/images/de4afddb-99cb-4420-af6b-d8f2070ffeb7/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/de4afddb-99cb-4420-af6b-d8f2070ffeb7/",
+"related_url": "https://api.openverse.org/v1/images/de4afddb-99cb-4420-af6b-d8f2070ffeb7/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "3c9d511d-3326-4fbd-951c-82861291d245",
+"title": "Mask",
+"indexed_on": "2020-03-25T23:09:32.225721Z",
+"foreign_landing_url": "https://www.flickr.com/photos/147573678@N08/29993634665",
+"url": "https://live.staticflickr.com/5048/29993634665_b51b1046bb_b.jpg",
+"creator": "Blake Fitzpatrick",
+"creator_url": "https://www.flickr.com/photos/147573678@N08",
+"license": "pdm",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodenmask",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Mask\" by Blake Fitzpatrick is marked with Public Domain Mark 1.0. To view the terms, visit https://creativecommons.org/publicdomain/mark/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 575,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/3c9d511d-3326-4fbd-951c-82861291d245/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/3c9d511d-3326-4fbd-951c-82861291d245/",
+"related_url": "https://api.openverse.org/v1/images/3c9d511d-3326-4fbd-951c-82861291d245/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "da40a562-c154-4547-8fe2-939f104e48c8",
+"title": "A mask more spooky?",
+"indexed_on": "2020-05-04T00:20:29.300289Z",
+"foreign_landing_url": "https://www.flickr.com/photos/23401669@N00/2132953426",
+"url": "https://live.staticflickr.com/2303/2132953426_9ce0d7ac8b_b.jpg",
+"creator": "Son of Groucho",
+"creator_url": "https://www.flickr.com/photos/23401669@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "2007",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"A mask more spooky?\" by Son of Groucho is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 768,
+"thumbnail": "https://api.openverse.org/v1/images/da40a562-c154-4547-8fe2-939f104e48c8/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/da40a562-c154-4547-8fe2-939f104e48c8/",
+"related_url": "https://api.openverse.org/v1/images/da40a562-c154-4547-8fe2-939f104e48c8/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "9c71fc09-9392-4c7f-87c8-e996819e1bdd",
+"title": "Mask with two heads",
+"indexed_on": "2018-11-07T20:03:57.748699Z",
+"foreign_landing_url": "https://www.flickr.com/photos/36374942@N00/2130568",
+"url": "https://live.staticflickr.com/2/2130568_c72e223fb8_b.jpg",
+"creator": "Kevin Hutchinson",
+"creator_url": "https://www.flickr.com/photos/36374942@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "head",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Mask with two heads\" by Kevin Hutchinson is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/9c71fc09-9392-4c7f-87c8-e996819e1bdd/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/9c71fc09-9392-4c7f-87c8-e996819e1bdd/",
+"related_url": "https://api.openverse.org/v1/images/9c71fc09-9392-4c7f-87c8-e996819e1bdd/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "2bb8add6-18ce-4f90-8206-a13ce2baf2bc",
+"title": "Angler Fish Mask",
+"indexed_on": "2020-04-25T10:02:26.894486Z",
+"foreign_landing_url": "https://www.flickr.com/photos/49503071578@N01/3860648220",
+"url": "https://live.staticflickr.com/2510/3860648220_a26ca9e26f_b.jpg",
+"creator": "Helder da Rocha",
+"creator_url": "https://www.flickr.com/photos/49503071578@N01",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "anglerfish",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Angler Fish Mask\" by Helder da Rocha is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 793,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/2bb8add6-18ce-4f90-8206-a13ce2baf2bc/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/2bb8add6-18ce-4f90-8206-a13ce2baf2bc/",
+"related_url": "https://api.openverse.org/v1/images/2bb8add6-18ce-4f90-8206-a13ce2baf2bc/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "8a90adaa-a2eb-4984-ad38-43e8f854ad17",
+"title": "MASKS",
+"indexed_on": "2020-04-16T01:18:32.911470Z",
+"foreign_landing_url": "https://www.flickr.com/photos/45499571@N00/5546943434",
+"url": "https://live.staticflickr.com/5140/5546943434_965b647982_b.jpg",
+"creator": "cometstarmoon",
+"creator_url": "https://www.flickr.com/photos/45499571@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "masks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "antique",
+"accuracy": 0.94426,
+"unstable__provider": "clarifai"
+},
+{
+"name": "container",
+"accuracy": 0.90723,
+"unstable__provider": "clarifai"
+},
+{
+"name": "decoration",
+"accuracy": 0.93956,
+"unstable__provider": "clarifai"
+},
+{
+"name": "furniture",
+"accuracy": 0.96435,
+"unstable__provider": "clarifai"
+},
+{
+"name": "indoors",
+"accuracy": 0.94761,
+"unstable__provider": "clarifai"
+},
+{
+"name": "old",
+"accuracy": 0.92864,
+"unstable__provider": "clarifai"
+},
+{
+"name": "retro",
+"accuracy": 0.91041,
+"unstable__provider": "clarifai"
+},
+{
+"name": "room",
+"accuracy": 0.96207,
+"unstable__provider": "clarifai"
+},
+{
+"name": "still life",
+"accuracy": 0.91151,
+"unstable__provider": "clarifai"
+},
+{
+"name": "table",
+"accuracy": 0.94641,
+"unstable__provider": "clarifai"
+},
+{
+"name": "vintage",
+"accuracy": 0.9446,
+"unstable__provider": "clarifai"
+},
+{
+"name": "wood",
+"accuracy": 0.96668,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"MASKS.\" by cometstarmoon is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 612,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/8a90adaa-a2eb-4984-ad38-43e8f854ad17/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/8a90adaa-a2eb-4984-ad38-43e8f854ad17/",
+"related_url": "https://api.openverse.org/v1/images/8a90adaa-a2eb-4984-ad38-43e8f854ad17/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "f057683b-7035-4f2e-a114-b3c525c93b8a",
+"title": "Who's Behind That Mask?",
+"indexed_on": "2020-03-19T16:14:38.846465Z",
+"foreign_landing_url": "https://www.flickr.com/photos/43810158@N07/32556569315",
+"url": "https://live.staticflickr.com/515/32556569315_b73ecc9dcf_b.jpg",
+"creator": "DaPuglet",
+"creator_url": "https://www.flickr.com/photos/43810158@N07",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "animal",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "animals",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cute",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "dog",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "dogs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "funny",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "littledoglaughedstories",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mardigras",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "masquerade",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pet",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pets",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pug",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pugs",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Who's Behind That Mask?\" by DaPuglet is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 945,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/f057683b-7035-4f2e-a114-b3c525c93b8a/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/f057683b-7035-4f2e-a114-b3c525c93b8a/",
+"related_url": "https://api.openverse.org/v1/images/f057683b-7035-4f2e-a114-b3c525c93b8a/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "30abeea3-1ca6-4ad1-b959-8b22c07511fe",
+"title": "Mask",
+"indexed_on": "2020-04-21T04:31:29.501564Z",
+"foreign_landing_url": "https://www.flickr.com/photos/47409110@N07/4421982059",
+"url": "https://live.staticflickr.com/2431/4421982059_ac9ef150a5_b.jpg",
+"creator": "karen H. nickname.{ pooh}",
+"creator_url": "https://www.flickr.com/photos/47409110@N07",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Mask\" by karen H. nickname.{ pooh} is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 761,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/30abeea3-1ca6-4ad1-b959-8b22c07511fe/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/30abeea3-1ca6-4ad1-b959-8b22c07511fe/",
+"related_url": "https://api.openverse.org/v1/images/30abeea3-1ca6-4ad1-b959-8b22c07511fe/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "587b9376-01d9-487e-a563-6e1233b71111",
+"title": "Mask",
+"indexed_on": "2020-03-27T14:15:35.244670Z",
+"foreign_landing_url": "https://www.flickr.com/photos/48227962@N04/16137500596",
+"url": "https://live.staticflickr.com/7552/16137500596_0aed6b99e4_b.jpg",
+"creator": "PMillera4",
+"creator_url": "https://www.flickr.com/photos/48227962@N04",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Mask\" by PMillera4 is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 683,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/587b9376-01d9-487e-a563-6e1233b71111/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/587b9376-01d9-487e-a563-6e1233b71111/",
+"related_url": "https://api.openverse.org/v1/images/587b9376-01d9-487e-a563-6e1233b71111/related/",
+"unstable__sensitivity": []
 }
 ]
