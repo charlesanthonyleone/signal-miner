@@ -4654,5 +4654,53 @@
    ]
   ],
   "mined_at": "2026-11-03T23:36:24Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "My experience working with patents",
+  "url": "https://portal.mozz.us/gemini/ploum.net/working-with-patents/index.gmi",
+  "gemini": "gemini://ploum.net/working-with-patents/index.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 8757,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "ploum.net",
+  "preview": "# My experience working with patents\n2012-03-12\n\nA few years ago, I worked at a very big international company. I was doing R&D in the user interaction field and I had very friendly colleagues: the dream job.\n\nAt some point, I had what looked like a good idea: make our user\u2019s life easier by predicting his input thanks to multi-modal sensors and a learning algorithm. I know it sounds crazy but it was not a lot more than customizing the Bayes algorithm.\n\n=> /89-the-ploum-s-ultimate-anti-spam-solution Bayes algorithm\n\nAfter building a very basic prototype, it turned out that it was a very good idea. My prototype was able to predict more than 90% of our test situations. And the remaining 10% was not worse than before.\n\nFor the young and naive innocent I was, the next step was to get more funding in order to build a real life prototype before putting that feature into our product. But, as every big corporation, my employer had rules. One of them being \u00ab patent it first \u00bb.\n\nIf you are reading this blog, chances are that you think patents are evil, that they are impending innovation, that they are a very bad thing for our economy and are killing kitties.\n\nAfter working with patents, I can",
+  "query": "gemini search \"patent\"",
+  "kw": "patent",
+  "extra": "capsule: ploum.net \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://ploum.net/working-with-patents/index.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-04T06:43:35Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Controversial new USPTO Rules would empower Patent Trolls",
+  "url": "https://portal.mozz.us/gemini/gemini.tuxmachines.org/n/2023/06/04/Controversial_new_USPTO_Rules_would_empower_Patent_Trolls.gmi",
+  "gemini": "gemini://gemini.tuxmachines.org/n/2023/06/04/Controversial_new_USPTO_Rules_would_empower_Patent_Trolls.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 1839,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gemini.tuxmachines.org",
+  "preview": "Tux Machines\n\n# Controversial new USPTO Rules would empower Patent Trolls\n\nPosted by Roy Schestowitz on Jun 04, 2023\n\n=>\t/n/2023/06/04/PCLinuxOS_Software_From_Yesteryear_NovelWriter_Puddletag_and_Th.gmi\tPCLinuxOS Software From Yesteryear, NovelWriter, Puddletag, and Thorium Reader\n=>\t/n/2023/06/04/Linux_6_4_rc5.gmi\tLinux 6.4-rc5 (UPDATED)\n\n=>\thttps://news.tuxmachines.org/i/2023/06/Patent_Trolls.thumbnail.jpg\t\u21ba Patent Trolls\n\nWhat is the United States Patent and Trademark Office (USPTO) thinking of? The USPTO's new proposed rules sound good. It would \"provide a less-expensive alternative to district court litigation to resolve certain patentability issues while also protecting against patentee harassment.\" Open-source legal experts, however, from the Unified Patents Open Source Zone, The Linux Foundation, the Electronic Frontier Foundation (EFF) the Open Invention Network (OIN) hear an entirely different message\n\nWhen they listen closely, they hear a message that will encourage patent trolls, aka non-practicing entities (NPEs), increase patent litigation costs, and inflate the overall volume of patent litigation. We need this like a hole in the head.\n\nBesides open-source, for exampl",
+  "query": "gemini search \"patent\"",
+  "kw": "patent",
+  "extra": "capsule: gemini.tuxmachines.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gemini.tuxmachines.org/n/2023/06/04/Controversial_new_USPTO_Rules_would_empower_Patent_Trolls.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-04T06:43:35Z"
  }
 ]

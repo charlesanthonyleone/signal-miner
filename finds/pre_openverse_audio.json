@@ -18811,5 +18811,6499 @@
 "related_url": "https://api.openverse.org/v1/audio/8869689f-0582-4e63-8613-c8f31921a024/related/",
 "waveform": "https://api.openverse.org/v1/audio/8869689f-0582-4e63-8613-c8f31921a024/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "f80934c1-7593-4741-b901-3924e03615f3",
+"title": "THE ISLAND",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1275424",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1275424&format=mp32",
+"creator": "Sweet Play",
+"creator_url": "https://www.jamendo.com/artist/365425/Superplay",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"pop",
+"triphop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "bass",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synts",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"THE ISLAND\" by Sweet Play is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Colours Of The Day",
+"foreign_landing_url": "https://www.jamendo.com/album/152240/colours-of-the-day",
+"creator": "Sweet Play",
+"creator_url": "https://www.jamendo.com/artist/365425/Superplay",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 234000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/f80934c1-7593-4741-b901-3924e03615f3/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/f80934c1-7593-4741-b901-3924e03615f3/",
+"related_url": "https://api.openverse.org/v1/audio/f80934c1-7593-4741-b901-3924e03615f3/related/",
+"waveform": "https://api.openverse.org/v1/audio/f80934c1-7593-4741-b901-3924e03615f3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "dc44f9cb-8c50-4910-8bbe-cdbb7bb81307",
+"title": "Island Breeze",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1343549",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1343549&format=mp32",
+"creator": "Mazelo Nostra",
+"creator_url": "https://www.jamendo.com/artist/470592/Mazelo_Nostra",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"dance",
+"deephouse",
+"house"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sfx",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Island Breeze\" by Mazelo Nostra is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Ibiza Clubnight",
+"foreign_landing_url": "https://www.jamendo.com/album/158599/ibiza-clubnight",
+"creator": "Mazelo Nostra",
+"creator_url": "https://www.jamendo.com/artist/470592/Mazelo_Nostra",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 363000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/dc44f9cb-8c50-4910-8bbe-cdbb7bb81307/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/dc44f9cb-8c50-4910-8bbe-cdbb7bb81307/",
+"related_url": "https://api.openverse.org/v1/audio/dc44f9cb-8c50-4910-8bbe-cdbb7bb81307/related/",
+"waveform": "https://api.openverse.org/v1/audio/dc44f9cb-8c50-4910-8bbe-cdbb7bb81307/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e60f61c0-514e-4c6d-a6de-2c145d3d1e9d",
+"title": "Toralla Island (Deeper Mix)",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/363323",
+"url": "https://prod-1.storage.jamendo.com/?trackid=363323&format=mp32",
+"creator": "Ensono",
+"creator_url": "https://www.jamendo.com/artist/338969/Ensono",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"house"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Toralla Island (Deeper Mix)\" by Ensono is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Private Mixes",
+"foreign_landing_url": "https://www.jamendo.com/album/46992/private-mixes",
+"creator": "Ensono",
+"creator_url": "https://www.jamendo.com/artist/338969/Ensono",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 315000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e60f61c0-514e-4c6d-a6de-2c145d3d1e9d/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e60f61c0-514e-4c6d-a6de-2c145d3d1e9d/",
+"related_url": "https://api.openverse.org/v1/audio/e60f61c0-514e-4c6d-a6de-2c145d3d1e9d/related/",
+"waveform": "https://api.openverse.org/v1/audio/e60f61c0-514e-4c6d-a6de-2c145d3d1e9d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "11d23600-d01d-4451-926e-b269b05f706c",
+"title": "Toralla Island",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/154041",
+"url": "https://prod-1.storage.jamendo.com/?trackid=154041&format=mp32",
+"creator": "Ensono",
+"creator_url": "https://www.jamendo.com/artist/338969/Ensono",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"house"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Toralla Island\" by Ensono is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Night Culture",
+"foreign_landing_url": "https://www.jamendo.com/album/22022/night-culture",
+"creator": "Ensono",
+"creator_url": "https://www.jamendo.com/artist/338969/Ensono",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 323000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/11d23600-d01d-4451-926e-b269b05f706c/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/11d23600-d01d-4451-926e-b269b05f706c/",
+"related_url": "https://api.openverse.org/v1/audio/11d23600-d01d-4451-926e-b269b05f706c/related/",
+"waveform": "https://api.openverse.org/v1/audio/11d23600-d01d-4451-926e-b269b05f706c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "88daaf0a-4661-4412-a5c3-8d9b53935cac",
+"title": "The Island",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/882820",
+"url": "https://prod-1.storage.jamendo.com/?trackid=882820&format=mp32",
+"creator": "Meet The Dragon",
+"creator_url": "https://www.jamendo.com/artist/376124/Meet_The_Dragon",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"dance"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The Island\" by Meet The Dragon is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The 45 Teas",
+"foreign_landing_url": "https://www.jamendo.com/album/103774/the-45-teas",
+"creator": "Meet The Dragon",
+"creator_url": "https://www.jamendo.com/artist/376124/Meet_The_Dragon",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 165000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/88daaf0a-4661-4412-a5c3-8d9b53935cac/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/88daaf0a-4661-4412-a5c3-8d9b53935cac/",
+"related_url": "https://api.openverse.org/v1/audio/88daaf0a-4661-4412-a5c3-8d9b53935cac/related/",
+"waveform": "https://api.openverse.org/v1/audio/88daaf0a-4661-4412-a5c3-8d9b53935cac/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e41f72c4-239d-4598-9da0-d066f9e1c5d0",
+"title": "Coconut Island",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/455018",
+"url": "https://prod-1.storage.jamendo.com/?trackid=455018&format=mp32",
+"creator": "SONIC MYSTERY",
+"creator_url": "https://www.jamendo.com/artist/341323/Sonic_Mystery",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/uk/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"electronic",
+"newage",
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "news",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "travel",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Coconut Island\" by SONIC MYSTERY is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/uk/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "LIGHT IN THE DARK",
+"foreign_landing_url": "https://www.jamendo.com/album/54420/light-in-the-dark",
+"creator": "SONIC MYSTERY",
+"creator_url": "https://www.jamendo.com/artist/341323/Sonic_Mystery",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 127000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e41f72c4-239d-4598-9da0-d066f9e1c5d0/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e41f72c4-239d-4598-9da0-d066f9e1c5d0/",
+"related_url": "https://api.openverse.org/v1/audio/e41f72c4-239d-4598-9da0-d066f9e1c5d0/related/",
+"waveform": "https://api.openverse.org/v1/audio/e41f72c4-239d-4598-9da0-d066f9e1c5d0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8b9cadd8-8e2b-40ca-99f0-fd7fd20917c7",
+"title": "island in the sea",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/282511",
+"url": "https://prod-1.storage.jamendo.com/?trackid=282511&format=mp32",
+"creator": "Marten de Paepe",
+"creator_url": "https://www.jamendo.com/artist/347530/Marten_de_Paepe_(2)",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/nl/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"island in the sea\" by Marten de Paepe is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/nl/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Marten de Paepe",
+"foreign_landing_url": "https://www.jamendo.com/album/39484/marten-de-paepe",
+"creator": "Marten de Paepe",
+"creator_url": "https://www.jamendo.com/artist/347530/Marten_de_Paepe_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 274000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/8b9cadd8-8e2b-40ca-99f0-fd7fd20917c7/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/8b9cadd8-8e2b-40ca-99f0-fd7fd20917c7/",
+"related_url": "https://api.openverse.org/v1/audio/8b9cadd8-8e2b-40ca-99f0-fd7fd20917c7/related/",
+"waveform": "https://api.openverse.org/v1/audio/8b9cadd8-8e2b-40ca-99f0-fd7fd20917c7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1710dafc-7824-4ec5-9129-efe8edd980ea",
+"title": "Island of light",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/169205",
+"url": "https://prod-1.storage.jamendo.com/?trackid=169205&format=mp32",
+"creator": "Roger Subirana Mata",
+"creator_url": "https://www.jamendo.com/artist/339574/Roger_Subirana",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "bandasonora",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "contemporary",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "emotional",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Island of light\" by Roger Subirana Mata is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Point of no return",
+"foreign_landing_url": "https://www.jamendo.com/album/24858/point-of-no-return",
+"creator": "Roger Subirana Mata",
+"creator_url": "https://www.jamendo.com/artist/339574/Roger_Subirana",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 176000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/1710dafc-7824-4ec5-9129-efe8edd980ea/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/1710dafc-7824-4ec5-9129-efe8edd980ea/",
+"related_url": "https://api.openverse.org/v1/audio/1710dafc-7824-4ec5-9129-efe8edd980ea/related/",
+"waveform": "https://api.openverse.org/v1/audio/1710dafc-7824-4ec5-9129-efe8edd980ea/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "af30b815-d39e-45af-b78a-85ac1a98c480",
+"title": "Island Lullabye",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1187331",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1187331&format=mp32",
+"creator": "Fuzzy Logic",
+"creator_url": "https://www.jamendo.com/artist/347454/Fuzzy_Logic_(3)",
+"license": "by-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"folk",
+"swing"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "hawaii",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "holiday",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "summer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Island Lullabye\" by Fuzzy Logic is licensed under CC BY-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Doing The Best I Can",
+"foreign_landing_url": "https://www.jamendo.com/album/142919/doing-the-best-i-can",
+"creator": "Fuzzy Logic",
+"creator_url": "https://www.jamendo.com/artist/347454/Fuzzy_Logic_(3)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 220000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/af30b815-d39e-45af-b78a-85ac1a98c480/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/af30b815-d39e-45af-b78a-85ac1a98c480/",
+"related_url": "https://api.openverse.org/v1/audio/af30b815-d39e-45af-b78a-85ac1a98c480/related/",
+"waveform": "https://api.openverse.org/v1/audio/af30b815-d39e-45af-b78a-85ac1a98c480/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "05f5d20f-6049-4ad3-80ed-e3d1c1310be9",
+"title": "My Placid Island",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/6580",
+"url": "https://prod-1.storage.jamendo.com/?trackid=6580&format=mp32",
+"creator": "Tryad",
+"creator_url": "https://www.jamendo.com/artist/104/tryad",
+"license": "by-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"My Placid Island\" by Tryad is licensed under CC BY-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.5/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Public Domain",
+"foreign_landing_url": "https://www.jamendo.com/album/1003/public-domain",
+"creator": "Tryad",
+"creator_url": "https://www.jamendo.com/artist/104/tryad",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 140000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/05f5d20f-6049-4ad3-80ed-e3d1c1310be9/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/05f5d20f-6049-4ad3-80ed-e3d1c1310be9/",
+"related_url": "https://api.openverse.org/v1/audio/05f5d20f-6049-4ad3-80ed-e3d1c1310be9/related/",
+"waveform": "https://api.openverse.org/v1/audio/05f5d20f-6049-4ad3-80ed-e3d1c1310be9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f466c57b-e932-4207-aa53-e99a265b86e1",
+"title": "En-us-Rhode Island",
+"indexed_on": "2025-04-06T19:58:22.090416Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=4820084",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/En-us-Rhode_Island.ogg",
+"creator": "EncycloPetey",
+"creator_url": "https://commons.wikimedia.org/wiki/User:EncycloPetey",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 14577,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-us-Rhode Island\" by EncycloPetey is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1253,
+"bit_rate": 96000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f466c57b-e932-4207-aa53-e99a265b86e1/",
+"related_url": "https://api.openverse.org/v1/audio/f466c57b-e932-4207-aa53-e99a265b86e1/related/",
+"waveform": "https://api.openverse.org/v1/audio/f466c57b-e932-4207-aa53-e99a265b86e1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e3e98871-6130-47fb-8efd-bf6a84f530fb",
+"title": "Sir David Attenborough BBC Radio4 Desert Island Discs 29 Jan 2012 b01b8yy0",
+"indexed_on": "2023-03-26T12:27:32.339045Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=30867303",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Sir_David_Attenborough_BBC_Radio4_Desert_Island_Discs_29_Jan_2012_b01b8yy0.flac",
+"creator": "BBC",
+"creator_url": "https://en.wikipedia.org/wiki/BBC",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 3038492,
+"filetype": "flac",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Sir David Attenborough BBC Radio4 Desert Island Discs 29 Jan 2012 b01b8yy0\" by BBC is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 36389,
+"bit_rate": 667987,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e3e98871-6130-47fb-8efd-bf6a84f530fb/",
+"related_url": "https://api.openverse.org/v1/audio/e3e98871-6130-47fb-8efd-bf6a84f530fb/related/",
+"waveform": "https://api.openverse.org/v1/audio/e3e98871-6130-47fb-8efd-bf6a84f530fb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "25801c27-dba0-4a96-87cf-d0a32378fc29",
+"title": "Islands",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/476810",
+"url": "https://prod-1.storage.jamendo.com/?trackid=476810&format=mp32",
+"creator": "Oleg Serkov",
+"creator_url": "https://www.jamendo.com/artist/352042/Artist_(78)",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"pop",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "adventure",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "electricguitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "island",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "upbeat",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Islands\" by Oleg Serkov is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Love Deviant",
+"foreign_landing_url": "https://www.jamendo.com/album/56244/love-deviant",
+"creator": "Oleg Serkov",
+"creator_url": "https://www.jamendo.com/artist/352042/Artist_(78)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 162000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/25801c27-dba0-4a96-87cf-d0a32378fc29/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/25801c27-dba0-4a96-87cf-d0a32378fc29/",
+"related_url": "https://api.openverse.org/v1/audio/25801c27-dba0-4a96-87cf-d0a32378fc29/related/",
+"waveform": "https://api.openverse.org/v1/audio/25801c27-dba0-4a96-87cf-d0a32378fc29/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7e5b6dee-b86f-453d-b775-997d1d32385a",
+"title": "desert island",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1994",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1994&format=mp32",
+"creator": "Dark Knight Fifty Four",
+"creator_url": "https://www.jamendo.com/artist/273/dark.knight.fifty.four",
+"license": "by-nc-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.5/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"desert island\" by Dark Knight Fifty Four is licensed under CC BY-NC-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.5/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "where is my 2005",
+"foreign_landing_url": "https://www.jamendo.com/album/302/where-is-my-2005",
+"creator": "Dark Knight Fifty Four",
+"creator_url": "https://www.jamendo.com/artist/273/dark.knight.fifty.four",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 260000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/7e5b6dee-b86f-453d-b775-997d1d32385a/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/7e5b6dee-b86f-453d-b775-997d1d32385a/",
+"related_url": "https://api.openverse.org/v1/audio/7e5b6dee-b86f-453d-b775-997d1d32385a/related/",
+"waveform": "https://api.openverse.org/v1/audio/7e5b6dee-b86f-453d-b775-997d1d32385a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4ca03d79-3d21-4171-9f49-e27483d716fa",
+"title": "Staten Island South Beach Ambiance (facing land)",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/ericnorcross81/sounds/569975",
+"url": "https://cdn.freesound.org/previews/569/569975_6970469-hq.mp3",
+"creator": "ericnorcross81",
+"creator_url": "https://freesound.org/people/ericnorcross81",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 750192,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Atlantic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Beach",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Island",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "NYC",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Ocean",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "South",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Staten",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "beach",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "boulevard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "distance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "distant",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lapping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "laps",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ocean",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "street",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "waves",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/569975/download/",
+"bit_rate": 0,
+"filesize": 6376858,
+"filetype": "aiff",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Staten Island South Beach Ambiance (facing land)\" by ericnorcross81 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 33158,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4ca03d79-3d21-4171-9f49-e27483d716fa/",
+"related_url": "https://api.openverse.org/v1/audio/4ca03d79-3d21-4171-9f49-e27483d716fa/related/",
+"waveform": "https://api.openverse.org/v1/audio/4ca03d79-3d21-4171-9f49-e27483d716fa/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9475ac77-c567-44d7-857e-560f8ba515a0",
+"title": "Island In The Sky (Charli Baltimore vocal)",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/527810",
+"url": "https://prod-1.storage.jamendo.com/?trackid=527810&format=mp32",
+"creator": "coldreavers",
+"creator_url": "https://www.jamendo.com/artist/355846/coldreavers",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"downtempo",
+"hiphop",
+"triphop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "abstract",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Island In The Sky (Charli Baltimore vocal)\" by coldreavers is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "You",
+"foreign_landing_url": "https://www.jamendo.com/album/61637/you",
+"creator": "coldreavers",
+"creator_url": "https://www.jamendo.com/artist/355846/coldreavers",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 210000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/9475ac77-c567-44d7-857e-560f8ba515a0/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/9475ac77-c567-44d7-857e-560f8ba515a0/",
+"related_url": "https://api.openverse.org/v1/audio/9475ac77-c567-44d7-857e-560f8ba515a0/related/",
+"waveform": "https://api.openverse.org/v1/audio/9475ac77-c567-44d7-857e-560f8ba515a0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "18b0525e-a3bb-42ab-94bc-1ad7a93ec7b0",
+"title": "Solomon islands anthem",
+"indexed_on": "2023-12-14T00:09:05.152437Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=142125954",
+"url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Solomon_islands_anthem.ogg",
+"creator": null,
+"creator_url": null,
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 837956,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Solomon islands anthem\" is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 63921,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/18b0525e-a3bb-42ab-94bc-1ad7a93ec7b0/",
+"related_url": "https://api.openverse.org/v1/audio/18b0525e-a3bb-42ab-94bc-1ad7a93ec7b0/related/",
+"waveform": "https://api.openverse.org/v1/audio/18b0525e-a3bb-42ab-94bc-1ad7a93ec7b0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0652a21b-c9ab-40a9-aa63-632ade1fcdcb",
+"title": "Ellis Island",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/967453",
+"url": "https://prod-1.storage.jamendo.com/?trackid=967453&format=mp32",
+"creator": "The System",
+"creator_url": "https://www.jamendo.com/artist/361947/The_System_(3)",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "ellis",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "island",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Ellis Island\" by The System is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/fr/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Plummeting",
+"foreign_landing_url": "https://www.jamendo.com/album/113801/plummeting",
+"creator": "The System",
+"creator_url": "https://www.jamendo.com/artist/361947/The_System_(3)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 175000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/0652a21b-c9ab-40a9-aa63-632ade1fcdcb/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/0652a21b-c9ab-40a9-aa63-632ade1fcdcb/",
+"related_url": "https://api.openverse.org/v1/audio/0652a21b-c9ab-40a9-aa63-632ade1fcdcb/related/",
+"waveform": "https://api.openverse.org/v1/audio/0652a21b-c9ab-40a9-aa63-632ade1fcdcb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e695ca35-4c1c-4845-addc-d9a9e2058b64",
+"title": "Tropical Island",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/richwise/sounds/451743",
+"url": "https://cdn.freesound.org/previews/451/451743_1481531-hq.mp3",
+"creator": "richwise",
+"creator_url": "https://freesound.org/people/richwise",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 11505072,
+"filetype": "mp3",
+"tags": [
+{
+"name": "asian",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "beach",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bird",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "call",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coast",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coastal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gentle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "island",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "koel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "maldives",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ocean",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sand",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sea",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "seaside",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shore",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "surf",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tropical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wave",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "waves",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/451743/download/",
+"bit_rate": 224000,
+"filesize": 13162688,
+"filetype": "mp3",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Tropical Island\" by richwise is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 470033,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e695ca35-4c1c-4845-addc-d9a9e2058b64/",
+"related_url": "https://api.openverse.org/v1/audio/e695ca35-4c1c-4845-addc-d9a9e2058b64/related/",
+"waveform": "https://api.openverse.org/v1/audio/e695ca35-4c1c-4845-addc-d9a9e2058b64/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e8772540-f541-42fe-a142-9f500f3ac509",
+"title": "Green island",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1885443",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1885443&format=mp32",
+"creator": "Christian Petermann",
+"creator_url": "https://www.jamendo.com/artist/493111/Christian_Petermann",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"easylistening",
+"folk",
+"newage"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "island",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Green island\" by Christian Petermann is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Golden Star",
+"foreign_landing_url": "https://www.jamendo.com/album/454882/golden-star",
+"creator": "Christian Petermann",
+"creator_url": "https://www.jamendo.com/artist/493111/Christian_Petermann",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 274000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e8772540-f541-42fe-a142-9f500f3ac509/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e8772540-f541-42fe-a142-9f500f3ac509/",
+"related_url": "https://api.openverse.org/v1/audio/e8772540-f541-42fe-a142-9f500f3ac509/related/",
+"waveform": "https://api.openverse.org/v1/audio/e8772540-f541-42fe-a142-9f500f3ac509/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bf68a117-f26c-4860-a62b-bc6843bca281",
+"title": "En-us-tidepool",
+"indexed_on": "2023-06-25T13:52:37.889014Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=188370",
+"url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/En-us-tidepool.ogg",
+"creator": "Dvortygirl",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Dvortygirl",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 10501,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-us-tidepool\" by Dvortygirl is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 626,
+"bit_rate": 96001,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/bf68a117-f26c-4860-a62b-bc6843bca281/",
+"related_url": "https://api.openverse.org/v1/audio/bf68a117-f26c-4860-a62b-bc6843bca281/related/",
+"waveform": "https://api.openverse.org/v1/audio/bf68a117-f26c-4860-a62b-bc6843bca281/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ca911be2-23c9-4be5-b7a1-e7fc41a1b8df",
+"title": "Tidepool Landscapes (Thrive Microbe Stage theme)",
+"indexed_on": "2026-06-26T00:20:29.037755Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=194534999",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Tidepool_Landscapes_%28Thrive_Microbe_Stage_theme%29.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "Alessandro Penna",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 10664625,
+"filetype": "mp3",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Tidepool Landscapes (Thrive Microbe Stage theme)\" by Alessandro Penna is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 358060,
+"bit_rate": 236364,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ca911be2-23c9-4be5-b7a1-e7fc41a1b8df/",
+"related_url": "https://api.openverse.org/v1/audio/ca911be2-23c9-4be5-b7a1-e7fc41a1b8df/related/",
+"waveform": "https://api.openverse.org/v1/audio/ca911be2-23c9-4be5-b7a1-e7fc41a1b8df/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "164dde4d-247d-44e9-adf3-343b2200ebf8",
+"title": "Keaukaha Beach Tide Pool Waves.wav",
+"indexed_on": "2025-07-03T01:17:50.306821Z",
+"foreign_landing_url": "https://freesound.org/people/MasoMusic/sounds/607269",
+"url": "https://cdn.freesound.org/previews/607/607269_4888679-hq.mp3",
+"creator": "MasoMusic",
+"creator_url": "https://freesound.org/people/MasoMusic",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 34105584,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ocean",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sea",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "surf",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tidepool",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "waves",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/607269/download/",
+"bit_rate": 0,
+"filesize": 285312044,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Keaukaha Beach Tide Pool Waves.wav\" by MasoMusic is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Soundscapes",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/30557/",
+"creator": "MasoMusic",
+"creator_url": "https://freesound.org/people/MasoMusic/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 1486000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/164dde4d-247d-44e9-adf3-343b2200ebf8/",
+"related_url": "https://api.openverse.org/v1/audio/164dde4d-247d-44e9-adf3-343b2200ebf8/related/",
+"waveform": "https://api.openverse.org/v1/audio/164dde4d-247d-44e9-adf3-343b2200ebf8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "15594d99-41c0-43a1-ac74-4b43aa9e7118",
+"title": "LL-Q1860 (eng)-Vealhurl-engrave",
+"indexed_on": "2023-12-31T16:33:55.788613Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=98438874",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/LL-Q1860_%28eng%29-Vealhurl-engrave.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-engrave\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/15594d99-41c0-43a1-ac74-4b43aa9e7118/",
+"related_url": "https://api.openverse.org/v1/audio/15594d99-41c0-43a1-ac74-4b43aa9e7118/related/",
+"waveform": "https://api.openverse.org/v1/audio/15594d99-41c0-43a1-ac74-4b43aa9e7118/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3b53b274-0f82-42d1-9175-1f017c717059",
+"title": "LL-Q1860 (eng)-\u0639\u064f\u062b\u0645\u0627\u0646 (Middle river exports)-engraver",
+"indexed_on": "2024-10-27T18:18:43.759469Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=124573994",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/LL-Q1860_%28eng%29-%D8%B9%D9%8F%D8%AB%D9%85%D8%A7%D9%86_%28Middle_river_exports%29-engraver.wav",
+"creator": "Speaker: \u0639\u064f\u062b\u0645\u0627\u0646 Recorder: Middle river exports",
+"creator_url": "https://lingualibre.org/wiki/Q810593",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 90156,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-\u0639\u064f\u062b\u0645\u0627\u0646 (Middle river exports)-engraver\" by Speaker: \u0639\u064f\u062b\u0645\u0627\u0646 Recorder: Middle river exports is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 938,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/3b53b274-0f82-42d1-9175-1f017c717059/",
+"related_url": "https://api.openverse.org/v1/audio/3b53b274-0f82-42d1-9175-1f017c717059/related/",
+"waveform": "https://api.openverse.org/v1/audio/3b53b274-0f82-42d1-9175-1f017c717059/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "64c95584-074a-40e8-93fc-edece0a7264a",
+"title": "LL-Q150 (fra)-WikiLucas00-engraver",
+"indexed_on": "2023-06-11T15:47:56.698221Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=79802834",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/LL-Q150_%28fra%29-WikiLucas00-engraver.wav",
+"creator": "Speaker: WikiLucas00 Recorder: WikiLucas00",
+"creator_url": "https://lingualibre.org/wiki/Q102123",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 101164,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-WikiLucas00-engraver\" by Speaker: WikiLucas00 Recorder: WikiLucas00 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1053,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/64c95584-074a-40e8-93fc-edece0a7264a/",
+"related_url": "https://api.openverse.org/v1/audio/64c95584-074a-40e8-93fc-edece0a7264a/related/",
+"waveform": "https://api.openverse.org/v1/audio/64c95584-074a-40e8-93fc-edece0a7264a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "dca21572-4a6d-40b2-a680-6652823077b2",
+"title": "LL-Q1860 (eng)-Vealhurl-engraving",
+"indexed_on": "2025-09-16T00:08:22.593849Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=175104282",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/41/LL-Q1860_%28eng%29-Vealhurl-engraving.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 116268,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-engraving\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1210,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/dca21572-4a6d-40b2-a680-6652823077b2/",
+"related_url": "https://api.openverse.org/v1/audio/dca21572-4a6d-40b2-a680-6652823077b2/related/",
+"waveform": "https://api.openverse.org/v1/audio/dca21572-4a6d-40b2-a680-6652823077b2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8be295eb-f91f-4df4-b5a4-27a17ff0b347",
+"title": "LL-Q150 (fra)-J\u959e\u9599y-G\u9ef1ther-Heinz J\u92d2nick-engraver",
+"indexed_on": "2023-11-09T00:10:38.246616Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=140405084",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/40/LL-Q150_%28fra%29-J%C3%A9r%C3%A9my-G%C3%BCnther-Heinz_J%C3%A4hnick-engraver.wav",
+"creator": "Speaker: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick Recorder: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick",
+"creator_url": "https://lingualibre.org/wiki/Q1094311",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 103212,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick-engraver\" by Speaker: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick Recorder: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1074,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8be295eb-f91f-4df4-b5a4-27a17ff0b347/",
+"related_url": "https://api.openverse.org/v1/audio/8be295eb-f91f-4df4-b5a4-27a17ff0b347/related/",
+"waveform": "https://api.openverse.org/v1/audio/8be295eb-f91f-4df4-b5a4-27a17ff0b347/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b386a1d6-fe33-4e56-9102-1f0a5890349a",
+"title": "Engraved",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/998461",
+"url": "https://prod-1.storage.jamendo.com/?trackid=998461&format=mp32",
+"creator": "Teen Spirit",
+"creator_url": "https://www.jamendo.com/artist/429632/Teen_Spirit",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Engraved\" by Teen Spirit is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Down in the Swamp - Vol.3",
+"foreign_landing_url": "https://www.jamendo.com/album/117467/down-in-the-swamp-vol-3",
+"creator": "Teen Spirit",
+"creator_url": "https://www.jamendo.com/artist/429632/Teen_Spirit",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 353000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/b386a1d6-fe33-4e56-9102-1f0a5890349a/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/b386a1d6-fe33-4e56-9102-1f0a5890349a/",
+"related_url": "https://api.openverse.org/v1/audio/b386a1d6-fe33-4e56-9102-1f0a5890349a/related/",
+"waveform": "https://api.openverse.org/v1/audio/b386a1d6-fe33-4e56-9102-1f0a5890349a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "150455ca-d713-4d94-a856-c984abca8c55",
+"title": "Engraving Grudge",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/907271",
+"url": "https://prod-1.storage.jamendo.com/?trackid=907271&format=mp32",
+"creator": "BUZA",
+"creator_url": "https://www.jamendo.com/artist/360876/BUZA",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Engraving Grudge\" by BUZA is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Dark Passenger",
+"foreign_landing_url": "https://www.jamendo.com/album/107261/the-dark-passenger",
+"creator": "BUZA",
+"creator_url": "https://www.jamendo.com/artist/360876/BUZA",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 301000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/150455ca-d713-4d94-a856-c984abca8c55/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/150455ca-d713-4d94-a856-c984abca8c55/",
+"related_url": "https://api.openverse.org/v1/audio/150455ca-d713-4d94-a856-c984abca8c55/related/",
+"waveform": "https://api.openverse.org/v1/audio/150455ca-d713-4d94-a856-c984abca8c55/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "57491d0d-1358-4193-b30f-9fc49828c8b4",
+"title": "Bottle Engraving Scratch",
+"indexed_on": "2022-11-01T13:48:32.970278Z",
+"foreign_landing_url": "https://freesound.org/people/soverysour/sounds/629012",
+"url": "https://cdn.freesound.org/previews/629/629012_12050471-hq.mp3",
+"creator": "soverysour",
+"creator_url": "https://freesound.org/people/soverysour",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 952944,
+"filetype": "mp3",
+"tags": [
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "recorder",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scratch",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/629012/download/",
+"bit_rate": 0,
+"filesize": 7953452,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Bottle Engraving Scratch\" by soverysour is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Kitchen Noises",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/34845/",
+"creator": "soverysour",
+"creator_url": "https://freesound.org/people/soverysour/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 41424,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/57491d0d-1358-4193-b30f-9fc49828c8b4/",
+"related_url": "https://api.openverse.org/v1/audio/57491d0d-1358-4193-b30f-9fc49828c8b4/related/",
+"waveform": "https://api.openverse.org/v1/audio/57491d0d-1358-4193-b30f-9fc49828c8b4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c97a71c2-1f4e-4fd1-b44c-c6f77ea42523",
+"title": "210426 engraving scratching.wav",
+"indexed_on": "2022-10-01T04:02:44.560321Z",
+"foreign_landing_url": "https://freesound.org/people/TRP/sounds/616957",
+"url": "https://cdn.freesound.org/previews/616/616957_97550-hq.mp3",
+"creator": "TRP",
+"creator_url": "https://freesound.org/people/TRP",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1840464,
+"filetype": "mp3",
+"tags": [
+{
+"name": "engraving",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scratching",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stone",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/616957/download/",
+"bit_rate": 0,
+"filesize": 20920448,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"210426 engraving scratching.wav\" by TRP is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 72637,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c97a71c2-1f4e-4fd1-b44c-c6f77ea42523/",
+"related_url": "https://api.openverse.org/v1/audio/c97a71c2-1f4e-4fd1-b44c-c6f77ea42523/related/",
+"waveform": "https://api.openverse.org/v1/audio/c97a71c2-1f4e-4fd1-b44c-c6f77ea42523/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e5fabd7c-6ea2-4dbc-90f5-a4098be04f89",
+"title": "Bottle Engraving Scratch with Wooden Spoon",
+"indexed_on": "2022-07-01T08:27:09.236920Z",
+"foreign_landing_url": "https://freesound.org/people/soverysour/sounds/629011",
+"url": "https://cdn.freesound.org/previews/629/629011_12050471-hq.mp3",
+"creator": "soverysour",
+"creator_url": "https://freesound.org/people/soverysour",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 158736,
+"filetype": "mp3",
+"tags": [
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "recorder",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scratch",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/629011/download/",
+"bit_rate": 0,
+"filesize": 1304108,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Bottle Engraving Scratch with Wooden Spoon\" by soverysour is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Kitchen Noises",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/34845/",
+"creator": "soverysour",
+"creator_url": "https://freesound.org/people/soverysour/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 6792,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e5fabd7c-6ea2-4dbc-90f5-a4098be04f89/",
+"related_url": "https://api.openverse.org/v1/audio/e5fabd7c-6ea2-4dbc-90f5-a4098be04f89/related/",
+"waveform": "https://api.openverse.org/v1/audio/e5fabd7c-6ea2-4dbc-90f5-a4098be04f89/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9ab390a5-58e0-454e-b477-0e82c44ed379",
+"title": "Fiber Laser Machine - True Real Sound You Should Hear When Engraving Aluminum Thin Card",
+"indexed_on": "2025-07-03T01:17:50.306821Z",
+"foreign_landing_url": "https://freesound.org/people/DudeAwesome/sounds/790271",
+"url": "https://cdn.freesound.org/previews/790/790271_6885640-hq.mp3",
+"creator": "DudeAwesome",
+"creator_url": "https://freesound.org/people/DudeAwesome",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 732192,
+"filetype": "mp3",
+"tags": [
+{
+"name": "aluminum",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "audio",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "beam",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "engraving",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fiber",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "high",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "laser",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "metal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "metallic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pitch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "real",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "reflecting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "striking",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/790271/download/",
+"bit_rate": 0,
+"filesize": 11400074,
+"filetype": "flac",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Fiber Laser Machine - True Real Sound You Should Hear When Engraving Aluminum Thin Card\" by DudeAwesome is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 29633,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9ab390a5-58e0-454e-b477-0e82c44ed379/",
+"related_url": "https://api.openverse.org/v1/audio/9ab390a5-58e0-454e-b477-0e82c44ed379/related/",
+"waveform": "https://api.openverse.org/v1/audio/9ab390a5-58e0-454e-b477-0e82c44ed379/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0a9f4520-4934-4bd5-842d-8db09e9e05ff",
+"title": "Shadows Engraved in Light",
+"indexed_on": "2025-09-01T17:00:17.357357Z",
+"foreign_landing_url": "https://www.jamendo.com/track/2268178",
+"url": "https://prod-1.storage.jamendo.com/?trackid=2268178&format=mp32",
+"creator": "Arden",
+"creator_url": "https://www.jamendo.com/artist/601040/Arden_(3)",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"experimental"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "calm",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "classicalguitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Shadows Engraved in Light\" by Arden is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Etched in Light",
+"foreign_landing_url": "https://www.jamendo.com/album/609896/etched-in-light",
+"creator": "Arden",
+"creator_url": "https://www.jamendo.com/artist/601040/Arden_(3)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 240000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/0a9f4520-4934-4bd5-842d-8db09e9e05ff/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/0a9f4520-4934-4bd5-842d-8db09e9e05ff/",
+"related_url": "https://api.openverse.org/v1/audio/0a9f4520-4934-4bd5-842d-8db09e9e05ff/related/",
+"waveform": "https://api.openverse.org/v1/audio/0a9f4520-4934-4bd5-842d-8db09e9e05ff/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bec867cc-cc65-41e7-b784-cc34d9278dd4",
+"title": "Sonido_ambiental_gente.mp3",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Spol/sounds/209391",
+"url": "https://cdn.freesound.org/previews/209/209391_747245-hq.mp3",
+"creator": "Spol",
+"creator_url": "https://freesound.org/people/Spol",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2239541,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Environmental",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundeffect",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/209391/download/",
+"bit_rate": 160000,
+"filesize": 2428933,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Sonido_ambiental_gente.mp3\" by Spol is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Efx Sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/5018/",
+"creator": "Spol",
+"creator_url": "https://freesound.org/people/Spol/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 121431,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/bec867cc-cc65-41e7-b784-cc34d9278dd4/",
+"related_url": "https://api.openverse.org/v1/audio/bec867cc-cc65-41e7-b784-cc34d9278dd4/related/",
+"waveform": "https://api.openverse.org/v1/audio/bec867cc-cc65-41e7-b784-cc34d9278dd4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fce6c032-fb6d-4c13-8b91-6846dea2f118",
+"title": "07-Yakushi-Hidalgo-Harmonia",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/the_very_Real_Horst/sounds/241197",
+"url": "https://cdn.freesound.org/previews/241/241197_3597112-hq.mp3",
+"creator": "the_very_Real_Horst",
+"creator_url": "https://freesound.org/people/the_very_Real_Horst",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 248928,
+"filetype": "mp3",
+"tags": [
+{
+"name": "158-Hz",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "468-Hz",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Yakushi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "audacity",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "harmonia",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hidalgo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "medicine-buddha-engraving",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "moon-knot",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "planet-frequencies",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sounds-for-peace",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tibetan-singing-bowl",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/241197/download/",
+"bit_rate": 0,
+"filesize": 2101550,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"07-Yakushi-Hidalgo-Harmonia\" by the_very_Real_Horst is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Tibetan Singing Bowls",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/12242/",
+"creator": "the_very_Real_Horst",
+"creator_url": "https://freesound.org/people/the_very_Real_Horst/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 10945,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/fce6c032-fb6d-4c13-8b91-6846dea2f118/",
+"related_url": "https://api.openverse.org/v1/audio/fce6c032-fb6d-4c13-8b91-6846dea2f118/related/",
+"waveform": "https://api.openverse.org/v1/audio/fce6c032-fb6d-4c13-8b91-6846dea2f118/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d354f40e-21b1-4e74-89a2-ed6e34bb577c",
+"title": "07-Yakushi-Hidalgo-Harmonia-first-Pitch-second-Stretched",
+"indexed_on": "2022-11-01T13:48:32.970278Z",
+"foreign_landing_url": "https://freesound.org/people/the_very_Real_Horst/sounds/241208",
+"url": "https://cdn.freesound.org/previews/241/241208_3597112-hq.mp3",
+"creator": "the_very_Real_Horst",
+"creator_url": "https://freesound.org/people/the_very_Real_Horst",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1265952,
+"filetype": "mp3",
+"tags": [
+{
+"name": "158-Hz",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "468-Hz",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "audacity",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "harmonia",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hidalgo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "medicine-buddha-engraving",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "moon-knot",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "paul-stretch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pitched",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "planet-frequencies",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sounds-for-peace",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tibetan-singing-bowl",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Yakushi",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/241208/download/",
+"bit_rate": 0,
+"filesize": 10562618,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"07-Yakushi-Hidalgo-Harmonia-first-Pitch-second-Stretched\" by the_very_Real_Horst is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Stretched Sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/13280/",
+"creator": "the_very_Real_Horst",
+"creator_url": "https://freesound.org/people/the_very_Real_Horst/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 55013,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d354f40e-21b1-4e74-89a2-ed6e34bb577c/",
+"related_url": "https://api.openverse.org/v1/audio/d354f40e-21b1-4e74-89a2-ed6e34bb577c/related/",
+"waveform": "https://api.openverse.org/v1/audio/d354f40e-21b1-4e74-89a2-ed6e34bb577c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e17ec106-d49c-45fd-8bb6-e4fb379f2898",
+"title": "002_torrent-travessera.mp3",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/tallers/sounds/76267",
+"url": "https://cdn.freesound.org/previews/76/76267_1136306-hq.mp3",
+"creator": "tallers",
+"creator_url": "https://freesound.org/people/tallers",
+"license": "sampling+",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/licenses/sampling+/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 4364643,
+"filetype": "mp3",
+"tags": [
+{
+"name": "barcelones",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "human",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machines-artifacts",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "other",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "silence",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tallers-mioclonico",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/76267/download/",
+"bit_rate": 128000,
+"filesize": 3050683,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"002_torrent-travessera.mp3\" by tallers is licensed under CC Sampling+ 1.0. To view a copy of this license, visit https://creativecommons.org/licenses/sampling+/1.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 190589,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e17ec106-d49c-45fd-8bb6-e4fb379f2898/",
+"related_url": "https://api.openverse.org/v1/audio/e17ec106-d49c-45fd-8bb6-e4fb379f2898/related/",
+"waveform": "https://api.openverse.org/v1/audio/e17ec106-d49c-45fd-8bb6-e4fb379f2898/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9f528f87-a67d-4695-95cc-7f3372f913c9",
+"title": "jackhammer.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/JuanFG/sounds/481967",
+"url": "https://cdn.freesound.org/previews/481/481967_9989219-hq.mp3",
+"creator": "JuanFG",
+"creator_url": "https://freesound.org/people/JuanFG",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 426168,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Unedited",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drill",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "jackhammer",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/481967/download/",
+"bit_rate": 0,
+"filesize": 998444,
+"filetype": "wav",
+"sample_rate": 16000
+}
+],
+"attribution": "\"jackhammer.wav\" by JuanFG is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 31200,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9f528f87-a67d-4695-95cc-7f3372f913c9/",
+"related_url": "https://api.openverse.org/v1/audio/9f528f87-a67d-4695-95cc-7f3372f913c9/related/",
+"waveform": "https://api.openverse.org/v1/audio/9f528f87-a67d-4695-95cc-7f3372f913c9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b48f23fa-36e6-4aaa-ba92-47c466fa880a",
+"title": "TIC.wav",
+"indexed_on": "2023-03-10T13:20:18.216530Z",
+"foreign_landing_url": "https://freesound.org/people/nyonk/sounds/211853",
+"url": "https://cdn.freesound.org/previews/211/211853_3973368-hq.mp3",
+"creator": "nyonk",
+"creator_url": "https://freesound.org/people/nyonk",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2087,
+"filetype": "mp3",
+"tags": [
+{
+"name": "echomachine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Guitar",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "MPC",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/211853/download/",
+"bit_rate": 0,
+"filesize": 2520,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"TIC.wav\" by nyonk is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Echo machine guitar pack",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/13453/",
+"creator": "nyonk",
+"creator_url": "https://freesound.org/people/nyonk/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 27,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b48f23fa-36e6-4aaa-ba92-47c466fa880a/",
+"related_url": "https://api.openverse.org/v1/audio/b48f23fa-36e6-4aaa-ba92-47c466fa880a/related/",
+"waveform": "https://api.openverse.org/v1/audio/b48f23fa-36e6-4aaa-ba92-47c466fa880a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8d422017-417a-4f15-8efd-8862d3db9119",
+"title": "jack_error_loop.wav",
+"indexed_on": "2022-11-01T13:48:32.970278Z",
+"foreign_landing_url": "https://freesound.org/people/nyonk/sounds/211852",
+"url": "https://cdn.freesound.org/previews/211/211852_3973368-hq.mp3",
+"creator": "nyonk",
+"creator_url": "https://freesound.org/people/nyonk",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 56356,
+"filetype": "mp3",
+"tags": [
+{
+"name": "echomachine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Guitar",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "MPC",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/211852/download/",
+"bit_rate": 0,
+"filesize": 382556,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"jack_error_loop.wav\" by nyonk is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Echo machine guitar pack",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/13453/",
+"creator": "nyonk",
+"creator_url": "https://freesound.org/people/nyonk/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 2167,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8d422017-417a-4f15-8efd-8862d3db9119/",
+"related_url": "https://api.openverse.org/v1/audio/8d422017-417a-4f15-8efd-8862d3db9119/related/",
+"waveform": "https://api.openverse.org/v1/audio/8d422017-417a-4f15-8efd-8862d3db9119/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8657b2a2-f056-49ac-89f1-d29d56894a39",
+"title": "EL_SOROLL_I_EL_NEN..mp3",
+"indexed_on": "2022-11-02T16:00:43.977525Z",
+"foreign_landing_url": "https://freesound.org/people/sonsdebarcelona/sounds/68754",
+"url": "https://cdn.freesound.org/previews/68/68754_828493-hq.mp3",
+"creator": "sonsdebarcelona",
+"creator_url": "https://freesound.org/people/sonsdebarcelona",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1134649,
+"filetype": "mp3",
+"tags": [
+{
+"name": "barcelona-les-corts",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machines-artifacts",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noises",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sonsdebarcelona-sandra",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/68754/download/",
+"bit_rate": 128000,
+"filesize": 796211,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"EL_SOROLL_I_EL_NEN..mp3\" by sonsdebarcelona is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 49672,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8657b2a2-f056-49ac-89f1-d29d56894a39/",
+"related_url": "https://api.openverse.org/v1/audio/8657b2a2-f056-49ac-89f1-d29d56894a39/related/",
+"waveform": "https://api.openverse.org/v1/audio/8657b2a2-f056-49ac-89f1-d29d56894a39/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3ed8d8d5-6468-4261-913b-cfb88e219ef1",
+"title": "old-school jazzy",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1563924",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1563924&format=mp32",
+"creator": "Evgeny Teilor",
+"creator_url": "https://www.jamendo.com/artist/458008/Nuclear_Cowboys",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"chillhop",
+"hiphop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "bass",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"old-school jazzy\" by Evgeny Teilor is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Beat the BEATZ",
+"foreign_landing_url": "https://www.jamendo.com/album/178312/beat-the-beatz",
+"creator": "Evgeny Teilor",
+"creator_url": "https://www.jamendo.com/artist/458008/Nuclear_Cowboys",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 212000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/3ed8d8d5-6468-4261-913b-cfb88e219ef1/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/3ed8d8d5-6468-4261-913b-cfb88e219ef1/",
+"related_url": "https://api.openverse.org/v1/audio/3ed8d8d5-6468-4261-913b-cfb88e219ef1/related/",
+"waveform": "https://api.openverse.org/v1/audio/3ed8d8d5-6468-4261-913b-cfb88e219ef1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e2ab0d22-92d1-4417-8749-0d5f8345b3cb",
+"title": "Dropping out of School",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/210907",
+"url": "https://prod-1.storage.jamendo.com/?trackid=210907&format=mp32",
+"creator": "Brad Sucks",
+"creator_url": "https://www.jamendo.com/artist/1333/bradsucks",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Dropping out of School\" by Brad Sucks is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Out of It",
+"foreign_landing_url": "https://www.jamendo.com/album/31187/out-of-it",
+"creator": "Brad Sucks",
+"creator_url": "https://www.jamendo.com/artist/1333/bradsucks",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 223000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e2ab0d22-92d1-4417-8749-0d5f8345b3cb/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e2ab0d22-92d1-4417-8749-0d5f8345b3cb/",
+"related_url": "https://api.openverse.org/v1/audio/e2ab0d22-92d1-4417-8749-0d5f8345b3cb/related/",
+"waveform": "https://api.openverse.org/v1/audio/e2ab0d22-92d1-4417-8749-0d5f8345b3cb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "25aa4aa8-e100-4cba-b474-712347bc2867",
+"title": "Old school Jazz Hip Hop",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1137270",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1137270&format=mp32",
+"creator": "Auditone Music Library",
+"creator_url": "https://www.jamendo.com/artist/448643/DormouseMusic_(2)",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"breakbeat",
+"hiphop",
+"jazz"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "advertising",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "drums",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Old school Jazz Hip Hop\" by Auditone Music Library is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Instrumental HipHop 001 (Old School Jazz)",
+"foreign_landing_url": "https://www.jamendo.com/album/136590/instrumental-hiphop-001-old-school-jazz",
+"creator": "Auditone Music Library",
+"creator_url": "https://www.jamendo.com/artist/448643/DormouseMusic_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 151000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/25aa4aa8-e100-4cba-b474-712347bc2867/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/25aa4aa8-e100-4cba-b474-712347bc2867/",
+"related_url": "https://api.openverse.org/v1/audio/25aa4aa8-e100-4cba-b474-712347bc2867/related/",
+"waveform": "https://api.openverse.org/v1/audio/25aa4aa8-e100-4cba-b474-712347bc2867/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b4c4381d-c09f-4ed8-bade-c08b2b5a7524",
+"title": "high school canteen.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/klankbeeld/sounds/192930",
+"url": "https://cdn.freesound.org/previews/192/192930_1648170-hq.mp3",
+"creator": "klankbeeld",
+"creator_url": "https://freesound.org/people/klankbeeld",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 5128416,
+"filetype": "mp3",
+"tags": [
+{
+"name": "adolescent",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "adolescents",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "aula",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "boys",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cafeteria",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "canteen",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cantine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chat",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chatter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cutlery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "diner",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dinner",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "food",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "general-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "girls",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lunch-time",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mess",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "talk",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "talking",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "teenagers",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "teens",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "white-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/192930/download/",
+"bit_rate": 0,
+"filesize": 65503192,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"high school canteen.wav\" by klankbeeld is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "room-tone 2013",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/34275/",
+"creator": "klankbeeld",
+"creator_url": "https://freesound.org/people/klankbeeld/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 227441,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b4c4381d-c09f-4ed8-bade-c08b2b5a7524/",
+"related_url": "https://api.openverse.org/v1/audio/b4c4381d-c09f-4ed8-bade-c08b2b5a7524/related/",
+"waveform": "https://api.openverse.org/v1/audio/b4c4381d-c09f-4ed8-bade-c08b2b5a7524/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4360a515-a97d-4172-afc1-759da9deecc5",
+"title": "School Hall-1.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Dr.%20Macak/sounds/252689",
+"url": "https://cdn.freesound.org/previews/252/252689_1848520-hq.mp3",
+"creator": "Dr. Macak",
+"creator_url": "https://freesound.org/people/Dr.%20Macak",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 8218704,
+"filetype": "mp3",
+"tags": [
+{
+"name": "School",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "break",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "children",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "classroom",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hall",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kids",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pupils",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "time",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "yelling",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/252689/download/",
+"bit_rate": 0,
+"filesize": 105418602,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"School Hall-1.wav\" by Dr. Macak is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 366012,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4360a515-a97d-4172-afc1-759da9deecc5/",
+"related_url": "https://api.openverse.org/v1/audio/4360a515-a97d-4172-afc1-759da9deecc5/related/",
+"waveform": "https://api.openverse.org/v1/audio/4360a515-a97d-4172-afc1-759da9deecc5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c49686c8-cc35-4ecb-8e75-22f0df053abf",
+"title": "Old school drums.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/BurnerGRap/sounds/188079",
+"url": "https://cdn.freesound.org/previews/188/188079_3314208-hq.mp3",
+"creator": "BurnerGRap",
+"creator_url": "https://freesound.org/people/BurnerGRap",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 129004,
+"filetype": "mp3",
+"tags": [
+{
+"name": "battery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "beat",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drums",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "loop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percs",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/188079/download/",
+"bit_rate": 0,
+"filesize": 917062,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Old school drums.wav\" by BurnerGRap is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Drums",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/11887/",
+"creator": "BurnerGRap",
+"creator_url": "https://freesound.org/people/BurnerGRap/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 5198,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c49686c8-cc35-4ecb-8e75-22f0df053abf/",
+"related_url": "https://api.openverse.org/v1/audio/c49686c8-cc35-4ecb-8e75-22f0df053abf/related/",
+"waveform": "https://api.openverse.org/v1/audio/c49686c8-cc35-4ecb-8e75-22f0df053abf/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a8562008-e692-4e20-89e9-df4e41b3d894",
+"title": "Back to School - Full",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1343297",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1343297&format=mp32",
+"creator": "MFYM",
+"creator_url": "https://www.jamendo.com/artist/437980/Music_For_your_media",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"indierock",
+"poprock",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "children",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "party",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Back to School - Full\" by MFYM is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Back To School",
+"foreign_landing_url": "https://www.jamendo.com/album/158586/back-to-school",
+"creator": "MFYM",
+"creator_url": "https://www.jamendo.com/artist/437980/Music_For_your_media",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 130000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/a8562008-e692-4e20-89e9-df4e41b3d894/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/a8562008-e692-4e20-89e9-df4e41b3d894/",
+"related_url": "https://api.openverse.org/v1/audio/a8562008-e692-4e20-89e9-df4e41b3d894/related/",
+"waveform": "https://api.openverse.org/v1/audio/a8562008-e692-4e20-89e9-df4e41b3d894/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4d18bc1a-eb51-471b-a8d6-bb030b3dc12b",
+"title": "Queen Of The School",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1085110",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1085110&format=mp32",
+"creator": "The Crawls",
+"creator_url": "https://www.jamendo.com/artist/433773/The_Crawls",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"indie",
+"indierock",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "dark",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Queen Of The School\" by The Crawls is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Crawls LP",
+"foreign_landing_url": "https://www.jamendo.com/album/129285/the-crawls-lp",
+"creator": "The Crawls",
+"creator_url": "https://www.jamendo.com/artist/433773/The_Crawls",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 207000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/4d18bc1a-eb51-471b-a8d6-bb030b3dc12b/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/4d18bc1a-eb51-471b-a8d6-bb030b3dc12b/",
+"related_url": "https://api.openverse.org/v1/audio/4d18bc1a-eb51-471b-a8d6-bb030b3dc12b/related/",
+"waveform": "https://api.openverse.org/v1/audio/4d18bc1a-eb51-471b-a8d6-bb030b3dc12b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "751be6b6-675b-4393-97fa-7f400b0c9132",
+"title": "timbaland school",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1309124",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1309124&format=mp32",
+"creator": "shevamix",
+"creator_url": "https://www.jamendo.com/artist/485326/hiphop2015",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"hiphop",
+"pop",
+"synthpop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "\u043f\u043e\u043f\u0441\u0430",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"timbaland school\" by shevamix is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The cult of Rhythm 2015",
+"foreign_landing_url": "https://www.jamendo.com/album/155542/the-cult-of-rhythm-2015",
+"creator": "shevamix",
+"creator_url": "https://www.jamendo.com/artist/485326/hiphop2015",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 90000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/751be6b6-675b-4393-97fa-7f400b0c9132/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/751be6b6-675b-4393-97fa-7f400b0c9132/",
+"related_url": "https://api.openverse.org/v1/audio/751be6b6-675b-4393-97fa-7f400b0c9132/related/",
+"waveform": "https://api.openverse.org/v1/audio/751be6b6-675b-4393-97fa-7f400b0c9132/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "40cf269c-cda8-40df-ab1c-72cd27f95558",
+"title": "School Kids Walk.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/makosan/sounds/34716",
+"url": "https://cdn.freesound.org/previews/34/34716_295016-hq.mp3",
+"creator": "makosan",
+"creator_url": "https://freesound.org/people/makosan",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 634334,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bus",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cars",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "children",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kids",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "neihborhood",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "side",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "street",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "walk",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/34716/download/",
+"bit_rate": 0,
+"filesize": 6303950,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"School Kids Walk.wav\" by makosan is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 35735,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/40cf269c-cda8-40df-ab1c-72cd27f95558/",
+"related_url": "https://api.openverse.org/v1/audio/40cf269c-cda8-40df-ab1c-72cd27f95558/related/",
+"waveform": "https://api.openverse.org/v1/audio/40cf269c-cda8-40df-ab1c-72cd27f95558/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e2b3276a-6516-457b-81db-5db2b4ed5f30",
+"title": "elementary school schoolyard.aif",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Tomlija/sounds/105415",
+"url": "https://cdn.freesound.org/previews/105/105415_1163166-hq.mp3",
+"creator": "Tomlija",
+"creator_url": "https://freesound.org/people/Tomlija",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1275744,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "argue",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "arguing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "belgrade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "beograd",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "child",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "children",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cinematic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crowd",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fight",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fighting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foley",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "football",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "goal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "goals",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ground",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "h4n",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "infant",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "infants",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kalemegdan",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kid",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kids",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "murmur",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "park",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "play",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "play-ground",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "playground",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "playing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rhubarb",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "school-yard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "schoolyard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scream",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "screaming",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "serbia",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sfx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shout",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shouting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "socce",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soccer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "srbija",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tomlija",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "walla",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "yard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "yell",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "yelling",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "zoom",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/105415/download/",
+"bit_rate": 0,
+"filesize": 10559580,
+"filetype": "aiff",
+"sample_rate": 48000
+}
+],
+"attribution": "\"elementary school schoolyard.aif\" by Tomlija is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "real?_world_recordings",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/10775/",
+"creator": "Tomlija",
+"creator_url": "https://freesound.org/people/Tomlija/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 54995,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e2b3276a-6516-457b-81db-5db2b4ed5f30/",
+"related_url": "https://api.openverse.org/v1/audio/e2b3276a-6516-457b-81db-5db2b4ed5f30/related/",
+"waveform": "https://api.openverse.org/v1/audio/e2b3276a-6516-457b-81db-5db2b4ed5f30/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ca2ac37d-daee-43d6-abae-183de69cbc09",
+"title": "school's courtyard, cour \u5db0ole extrait.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/arnaud%20coutancier/sounds/47503",
+"url": "https://cdn.freesound.org/previews/47/47503_520316-hq.mp3",
+"creator": "arnaud coutancier",
+"creator_url": "https://freesound.org/people/arnaud%20coutancier",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 4165455,
+"filetype": "mp3",
+"tags": [
+{
+"name": "courtyard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kids",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scream",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "talking",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/47503/download/",
+"bit_rate": 0,
+"filesize": 31938216,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"school's courtyard, cour \u00e9cole extrait.wav\" by arnaud coutancier is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Frogerie's sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/2937/",
+"creator": "arnaud coutancier",
+"creator_url": "https://freesound.org/people/arnaud%20coutancier/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 181055,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ca2ac37d-daee-43d6-abae-183de69cbc09/",
+"related_url": "https://api.openverse.org/v1/audio/ca2ac37d-daee-43d6-abae-183de69cbc09/related/",
+"waveform": "https://api.openverse.org/v1/audio/ca2ac37d-daee-43d6-abae-183de69cbc09/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ead28b13-0167-4c69-a518-8c5c8fcbc870",
+"title": "Midnight School",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/822725",
+"url": "https://prod-1.storage.jamendo.com/?trackid=822725&format=mp32",
+"creator": "Ensono",
+"creator_url": "https://www.jamendo.com/artist/338969/Ensono",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Midnight School\" by Ensono is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Midnight Gigolos",
+"foreign_landing_url": "https://www.jamendo.com/album/96175/midnight-gigolos",
+"creator": "Ensono",
+"creator_url": "https://www.jamendo.com/artist/338969/Ensono",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 221000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/ead28b13-0167-4c69-a518-8c5c8fcbc870/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/ead28b13-0167-4c69-a518-8c5c8fcbc870/",
+"related_url": "https://api.openverse.org/v1/audio/ead28b13-0167-4c69-a518-8c5c8fcbc870/related/",
+"waveform": "https://api.openverse.org/v1/audio/ead28b13-0167-4c69-a518-8c5c8fcbc870/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e7b72517-cb32-42f5-9450-0a1f47a9a488",
+"title": "Kids playing on a school-yard",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/caquet/sounds/262677",
+"url": "https://cdn.freesound.org/previews/262/262677_1645319-hq.mp3",
+"creator": "caquet",
+"creator_url": "https://freesound.org/people/caquet",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 13186272,
+"filetype": "mp3",
+"tags": [
+{
+"name": "berlin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "break",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "child",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "children",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "city",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "football",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "german",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "infant",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kid",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kids",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kindergarten",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pause",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "play",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "playground",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "playing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "playtime",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "primary",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "school-yard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scream",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "screaming",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shouting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "teenage",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "yell",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "yelling",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/262677/download/",
+"bit_rate": 0,
+"filesize": 165888512,
+"filetype": "aiff",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Kids playing on a school-yard\" by caquet is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "City",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/8507/",
+"creator": "caquet",
+"creator_url": "https://freesound.org/people/caquet/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 576000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e7b72517-cb32-42f5-9450-0a1f47a9a488/",
+"related_url": "https://api.openverse.org/v1/audio/e7b72517-cb32-42f5-9450-0a1f47a9a488/related/",
+"waveform": "https://api.openverse.org/v1/audio/e7b72517-cb32-42f5-9450-0a1f47a9a488/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b3572f02-df33-44ce-aca0-07bff0c6d8d2",
+"title": "Classroom Ambience - High School Class.wav",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/okieactor/sounds/417041",
+"url": "https://cdn.freesound.org/previews/417/417041_7107077-hq.mp3",
+"creator": "okieactor",
+"creator_url": "https://freesound.org/people/okieactor",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 843840,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Classroom",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Indoors",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Room",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "School",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Students",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Tone",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/417041/download/",
+"bit_rate": 0,
+"filesize": 28749976,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Classroom Ambience - High School Class.wav\" by okieactor is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Ambiences",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/23543/",
+"creator": "okieactor",
+"creator_url": "https://freesound.org/people/okieactor/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 37434,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b3572f02-df33-44ce-aca0-07bff0c6d8d2/",
+"related_url": "https://api.openverse.org/v1/audio/b3572f02-df33-44ce-aca0-07bff0c6d8d2/related/",
+"waveform": "https://api.openverse.org/v1/audio/b3572f02-df33-44ce-aca0-07bff0c6d8d2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ef5af066-aad5-4dc3-9421-2fd812ee6e52",
+"title": "En-uk-school",
+"indexed_on": "2024-02-18T15:47:28.902290Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=9027379",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/En-uk-school.ogg",
+"creator": "Association Shtooka, Judith Franck",
+"creator_url": null,
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/us/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16120,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-uk-school\" by Association Shtooka, Judith Franck is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/us/deed.en/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1300,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ef5af066-aad5-4dc3-9421-2fd812ee6e52/",
+"related_url": "https://api.openverse.org/v1/audio/ef5af066-aad5-4dc3-9421-2fd812ee6e52/related/",
+"waveform": "https://api.openverse.org/v1/audio/ef5af066-aad5-4dc3-9421-2fd812ee6e52/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cb6d651d-d13f-4ecf-b9b1-40aa6f3ec816",
+"title": "school children playing",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/mycompasstv/sounds/213350",
+"url": "https://cdn.freesound.org/previews/213/213350_3902754-hq.mp3",
+"creator": "mycompasstv",
+"creator_url": "https://freesound.org/people/mycompasstv",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2777730,
+"filetype": "mp3",
+"tags": [
+{
+"name": "child",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "children",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "city",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "games",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kid",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kids",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kindergarten",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "morning",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "play",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "playground",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "playing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "school-yard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scream",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "screaming",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shouting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "yell",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "yelling",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/213350/download/",
+"bit_rate": 128000,
+"filesize": 2020704,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"school children playing\" by mycompasstv is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 126029,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cb6d651d-d13f-4ecf-b9b1-40aa6f3ec816/",
+"related_url": "https://api.openverse.org/v1/audio/cb6d651d-d13f-4ecf-b9b1-40aa6f3ec816/related/",
+"waveform": "https://api.openverse.org/v1/audio/cb6d651d-d13f-4ecf-b9b1-40aa6f3ec816/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "75ad4ccb-dbfd-430d-8da7-e79dabff638f",
+"title": "School yard",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/roman_cgr/sounds/415026",
+"url": "https://cdn.freesound.org/previews/415/415026_639300-hq.mp3",
+"creator": "roman_cgr",
+"creator_url": "https://freesound.org/people/roman_cgr",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 500040,
+"filetype": "mp3",
+"tags": [
+{
+"name": "child",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "children",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kid",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kids",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kindergarten",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "playground",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "playing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "school-yard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "screaming",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shouting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "yelling",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/415026/download/",
+"bit_rate": 0,
+"filesize": 6487498,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"School yard\" by roman_cgr is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 22522,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/75ad4ccb-dbfd-430d-8da7-e79dabff638f/",
+"related_url": "https://api.openverse.org/v1/audio/75ad4ccb-dbfd-430d-8da7-e79dabff638f/related/",
+"waveform": "https://api.openverse.org/v1/audio/75ad4ccb-dbfd-430d-8da7-e79dabff638f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "392d8adb-2c3e-47bc-85f5-eb166fb51759",
+"title": "old school blood pressure hand pump.aif",
+"indexed_on": "2022-10-01T04:02:44.560321Z",
+"foreign_landing_url": "https://freesound.org/people/Tomlija/sounds/101434",
+"url": "https://cdn.freesound.org/previews/101/101434_1163166-hq.mp3",
+"creator": "Tomlija",
+"creator_url": "https://freesound.org/people/Tomlija",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 773280,
+"filetype": "mp3",
+"tags": [
+{
+"name": "air",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "appliance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "appliances",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "artificial",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "artificial-lungs",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "blood",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "blood-pressure",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "burst",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bursting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "deflate",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "deflating",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "deflation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "equipment",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foley",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "h4n",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hand",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hiss",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hissing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hospital",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "inflate",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "inflating",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "inflation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lungs",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "medical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "medical-appliance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "medical-appliances",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "medical-equipment",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "medicine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "old-school",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pressure",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pump",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pumping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sfx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "squeeze",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "squeezing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tomlija",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "zoom",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/101434/download/",
+"bit_rate": 0,
+"filesize": 3236378,
+"filetype": "aiff",
+"sample_rate": 48000
+}
+],
+"attribution": "\"old school blood pressure hand pump.aif\" by Tomlija is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "real?_world_recordings",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/10775/",
+"creator": "Tomlija",
+"creator_url": "https://freesound.org/people/Tomlija/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 33706,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/392d8adb-2c3e-47bc-85f5-eb166fb51759/",
+"related_url": "https://api.openverse.org/v1/audio/392d8adb-2c3e-47bc-85f5-eb166fb51759/related/",
+"waveform": "https://api.openverse.org/v1/audio/392d8adb-2c3e-47bc-85f5-eb166fb51759/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "efa27a60-06fc-4bac-ab3b-e71fd9c2b2a3",
+"title": "SCHOOL PLAYGROUND AMBIENCE.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/ShanayGroen/sounds/365564",
+"url": "https://cdn.freesound.org/previews/365/365564_5966422-hq.mp3",
+"creator": "ShanayGroen",
+"creator_url": "https://freesound.org/people/ShanayGroen",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2853665,
+"filetype": "mp3",
+"tags": [
+{
+"name": "AMBIANCE",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ATMOSPHERE",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "CHILD",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "CHILDREN",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "FIELD",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "GRASS",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "JOY",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "KID",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "KIDS",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "OUTDOOR",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "OUTSIDE",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "OWI",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "PLAY",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "PLAYGROUND",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "PRIMARY",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "SCHOOL",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "SLIDES",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "SWINGS",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/365564/download/",
+"bit_rate": 0,
+"filesize": 22150068,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"SCHOOL PLAYGROUND AMBIENCE.wav\" by ShanayGroen is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 125563,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/efa27a60-06fc-4bac-ab3b-e71fd9c2b2a3/",
+"related_url": "https://api.openverse.org/v1/audio/efa27a60-06fc-4bac-ab3b-e71fd9c2b2a3/related/",
+"waveform": "https://api.openverse.org/v1/audio/efa27a60-06fc-4bac-ab3b-e71fd9c2b2a3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c005e0d5-8eb2-499f-a0aa-01bb0520b527",
+"title": "Steam Foundry",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1321942",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1321942&format=mp32",
+"creator": "Celestial Aeon Project",
+"creator_url": "https://www.jamendo.com/artist/2740/celestial.aeon.project",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "brooding",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "crime",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "dark",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Steam Foundry\" by Celestial Aeon Project is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Tales of Maj Eyal Embers of Rage",
+"foreign_landing_url": "https://www.jamendo.com/album/156685/tales-of-maj-eyal-embers-of-rage",
+"creator": "Celestial Aeon Project",
+"creator_url": "https://www.jamendo.com/artist/2740/celestial.aeon.project",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 168000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/c005e0d5-8eb2-499f-a0aa-01bb0520b527/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/c005e0d5-8eb2-499f-a0aa-01bb0520b527/",
+"related_url": "https://api.openverse.org/v1/audio/c005e0d5-8eb2-499f-a0aa-01bb0520b527/related/",
+"waveform": "https://api.openverse.org/v1/audio/c005e0d5-8eb2-499f-a0aa-01bb0520b527/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "01194724-05d7-41eb-8a1c-31838e565228",
+"title": "LL-Q1860 (eng)-Usmaan (Middle river exports)-foundry",
+"indexed_on": "2023-05-21T07:17:15.898253Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=123990300",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/LL-Q1860_%28eng%29-Usmaan_%28Middle_river_exports%29-foundry.wav",
+"creator": "Speaker: Usmaan Recorder: Middle river exports",
+"creator_url": "https://lingualibre.org/wiki/Q810593",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 101164,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Usmaan (Middle river exports)-foundry\" by Speaker: Usmaan Recorder: Middle river exports is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1053,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/01194724-05d7-41eb-8a1c-31838e565228/",
+"related_url": "https://api.openverse.org/v1/audio/01194724-05d7-41eb-8a1c-31838e565228/related/",
+"waveform": "https://api.openverse.org/v1/audio/01194724-05d7-41eb-8a1c-31838e565228/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e44262ea-aa6c-44f4-bb40-f848ee261d5b",
+"title": "LL-Q1860 (eng)-Sapaa-foundry",
+"indexed_on": "2025-01-09T00:08:48.262380Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=157643054",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/LL-Q1860_%28eng%29-Sapaa-foundry.wav",
+"creator": "Speaker: Sapaa Recorder: Sapaa",
+"creator_url": "https://lingualibre.org/wiki/Q1434777",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 77588,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Sapaa-foundry\" by Speaker: Sapaa Recorder: Sapaa is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 879,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e44262ea-aa6c-44f4-bb40-f848ee261d5b/",
+"related_url": "https://api.openverse.org/v1/audio/e44262ea-aa6c-44f4-bb40-f848ee261d5b/related/",
+"waveform": "https://api.openverse.org/v1/audio/e44262ea-aa6c-44f4-bb40-f848ee261d5b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a110239a-4551-497c-8378-8950ef308551",
+"title": "LL-Q9309 (cym)-RandomWilliams1908-The Foundry (Q29496051)",
+"indexed_on": "2023-08-29T05:40:49.655105Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=128742616",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/LL-Q9309_%28cym%29-RandomWilliams1908-The_Foundry_%28Q29496051%29.wav",
+"creator": "Speaker: RandomWilliams1908 Recorder: RandomWilliams1908",
+"creator_url": "https://lingualibre.org/wiki/Q856808",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 133932,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q9309 (cym)-RandomWilliams1908-The Foundry (Q29496051)\" by Speaker: RandomWilliams1908 Recorder: RandomWilliams1908 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1394,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a110239a-4551-497c-8378-8950ef308551/",
+"related_url": "https://api.openverse.org/v1/audio/a110239a-4551-497c-8378-8950ef308551/related/",
+"waveform": "https://api.openverse.org/v1/audio/a110239a-4551-497c-8378-8950ef308551/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b9b16aaa-2077-4ff9-bb7f-bb22b3740b70",
+"title": "Foundry of unforeseen powers",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/391631",
+"url": "https://prod-1.storage.jamendo.com/?trackid=391631&format=mp32",
+"creator": "The big sleep in search of Hades",
+"creator_url": "https://www.jamendo.com/artist/338380/The_big_sleep_in_search_of_hades",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Foundry of unforeseen powers\" by The big sleep in search of Hades is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Pieces from hostile side",
+"foreign_landing_url": "https://www.jamendo.com/album/49284/pieces-from-hostile-side",
+"creator": "The big sleep in search of Hades",
+"creator_url": "https://www.jamendo.com/artist/338380/The_big_sleep_in_search_of_hades",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 290000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/b9b16aaa-2077-4ff9-bb7f-bb22b3740b70/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/b9b16aaa-2077-4ff9-bb7f-bb22b3740b70/",
+"related_url": "https://api.openverse.org/v1/audio/b9b16aaa-2077-4ff9-bb7f-bb22b3740b70/related/",
+"waveform": "https://api.openverse.org/v1/audio/b9b16aaa-2077-4ff9-bb7f-bb22b3740b70/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "758ce64a-72b2-4160-980b-a0469d4c3b0f",
+"title": "Level 5 - Foundry",
+"indexed_on": "2025-06-01T16:50:55.087809Z",
+"foreign_landing_url": "https://www.jamendo.com/track/2227360",
+"url": "https://prod-1.storage.jamendo.com/?trackid=2227360&format=mp32",
+"creator": "6 Notes",
+"creator_url": "https://www.jamendo.com/artist/339080/6_Notes",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"grime",
+"techno"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Level 5 - Foundry\" by 6 Notes is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Gearveil Chronicles OST",
+"foreign_landing_url": "https://www.jamendo.com/album/591157/gearveil-chronicles-ost",
+"creator": "6 Notes",
+"creator_url": "https://www.jamendo.com/artist/339080/6_Notes",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 222000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/758ce64a-72b2-4160-980b-a0469d4c3b0f/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/758ce64a-72b2-4160-980b-a0469d4c3b0f/",
+"related_url": "https://api.openverse.org/v1/audio/758ce64a-72b2-4160-980b-a0469d4c3b0f/related/",
+"waveform": "https://api.openverse.org/v1/audio/758ce64a-72b2-4160-980b-a0469d4c3b0f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3680e36b-c1cc-4455-9c95-09bb99b4eda6",
+"title": "big_ben.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/reinsamba/sounds/51645",
+"url": "https://cdn.freesound.org/previews/51/51645_18799-hq.mp3",
+"creator": "reinsamba",
+"creator_url": "https://freesound.org/people/reinsamba",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 135616,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bell",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "big-ben",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chimes",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "church-bell",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "london",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "phone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ringtone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "telephone",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/51645/download/",
+"bit_rate": 0,
+"filesize": 1002870,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"big_ben.wav\" by reinsamba is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "instruments",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/2327/",
+"creator": "reinsamba",
+"creator_url": "https://freesound.org/people/reinsamba/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 5684,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/3680e36b-c1cc-4455-9c95-09bb99b4eda6/",
+"related_url": "https://api.openverse.org/v1/audio/3680e36b-c1cc-4455-9c95-09bb99b4eda6/related/",
+"waveform": "https://api.openverse.org/v1/audio/3680e36b-c1cc-4455-9c95-09bb99b4eda6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9716bf31-3821-4f64-a678-ffa588b8fa90",
+"title": "Foundry_Grinder.wav",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/phonoflora/sounds/64434",
+"url": "https://cdn.freesound.org/previews/64/64434_401348-hq.mp3",
+"creator": "phonoflora",
+"creator_url": "https://freesound.org/people/phonoflora",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 149323,
+"filetype": "mp3",
+"tags": [
+{
+"name": "birmingham",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "black-country",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "casting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cast-iron",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foundry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "grindstone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "industry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machinery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "metal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "molten-iron",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "workshop",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/64434/download/",
+"bit_rate": 0,
+"filesize": 1112194,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Foundry_Grinder.wav\" by phonoflora is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Foundry",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/4141/",
+"creator": "phonoflora",
+"creator_url": "https://freesound.org/people/phonoflora/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 6284,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9716bf31-3821-4f64-a678-ffa588b8fa90/",
+"related_url": "https://api.openverse.org/v1/audio/9716bf31-3821-4f64-a678-ffa588b8fa90/related/",
+"waveform": "https://api.openverse.org/v1/audio/9716bf31-3821-4f64-a678-ffa588b8fa90/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6c17c2ab-2db6-4c93-be7d-82914537fc48",
+"title": "Foundry_3.wav",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/phonoflora/sounds/64433",
+"url": "https://cdn.freesound.org/previews/64/64433_401348-hq.mp3",
+"creator": "phonoflora",
+"creator_url": "https://freesound.org/people/phonoflora",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1243356,
+"filetype": "mp3",
+"tags": [
+{
+"name": "birmingham",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "black-country",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "casting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cast-iron",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foundry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "industry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machinery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "metal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "molten-iron",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "workshop",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/64433/download/",
+"bit_rate": 0,
+"filesize": 9704760,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Foundry_3.wav\" by phonoflora is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Foundry",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/4141/",
+"creator": "phonoflora",
+"creator_url": "https://freesound.org/people/phonoflora/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 55000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/6c17c2ab-2db6-4c93-be7d-82914537fc48/",
+"related_url": "https://api.openverse.org/v1/audio/6c17c2ab-2db6-4c93-be7d-82914537fc48/related/",
+"waveform": "https://api.openverse.org/v1/audio/6c17c2ab-2db6-4c93-be7d-82914537fc48/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8b3dc673-ed25-442f-8a6e-b7dffeb88957",
+"title": "Gel\u9173t r\u95e3isch-katholisch Peter und Paul in Aarau Auslaeuten 01",
+"indexed_on": "2025-03-25T00:23:04.291671Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=162734486",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Gel%C3%A4ut_r%C3%B6misch-katholisch_Peter_und_Paul_in_Aarau_Auslaeuten_01.ogg",
+"creator": "Martin Thurnherr",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Matutinho",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 554981,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Gel\u00e4ut r\u00f6misch-katholisch Peter und Paul in Aarau Auslaeuten 01\" by Martin Thurnherr is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 67764,
+"bit_rate": 86000,
+"sample_rate": 32000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8b3dc673-ed25-442f-8a6e-b7dffeb88957/",
+"related_url": "https://api.openverse.org/v1/audio/8b3dc673-ed25-442f-8a6e-b7dffeb88957/related/",
+"waveform": "https://api.openverse.org/v1/audio/8b3dc673-ed25-442f-8a6e-b7dffeb88957/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5608a6e2-a5a0-4942-93b8-a75792a79caf",
+"title": "Ein Feste Burg Bells",
+"indexed_on": "2023-11-12T22:17:00.277211Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=14816833",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ein_Feste_Burg_Bells.ogg",
+"creator": "Cadetgray.",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Cadetgray",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 1375424,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Ein Feste Burg Bells\" by Cadetgray. is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 77000,
+"bit_rate": 160000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5608a6e2-a5a0-4942-93b8-a75792a79caf/",
+"related_url": "https://api.openverse.org/v1/audio/5608a6e2-a5a0-4942-93b8-a75792a79caf/related/",
+"waveform": "https://api.openverse.org/v1/audio/5608a6e2-a5a0-4942-93b8-a75792a79caf/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "44e50369-b233-491e-9c53-f35d5925663e",
+"title": "Blaze Type",
+"indexed_on": "2024-08-27T00:09:13.477483Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=151819950",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Blaze_Type.ogg",
+"creator": "Filippos Fragkogiannis",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Filippos_Fragkogiannis",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 8287,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Blaze Type\" by Filippos Fragkogiannis is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1704,
+"bit_rate": 40222,
+"sample_rate": 24000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/44e50369-b233-491e-9c53-f35d5925663e/",
+"related_url": "https://api.openverse.org/v1/audio/44e50369-b233-491e-9c53-f35d5925663e/related/",
+"waveform": "https://api.openverse.org/v1/audio/44e50369-b233-491e-9c53-f35d5925663e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6bc9fb18-4256-4f2e-9018-2b516f279d21",
+"title": "Omnibus Type",
+"indexed_on": "2024-02-08T00:05:40.216550Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=145098566",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Omnibus_Type.ogg",
+"creator": "Filippos Fragkogiannis",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Filippos_Fragkogiannis",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 9773,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Omnibus Type\" by Filippos Fragkogiannis is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1320,
+"bit_rate": 40222,
+"sample_rate": 24000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/6bc9fb18-4256-4f2e-9018-2b516f279d21/",
+"related_url": "https://api.openverse.org/v1/audio/6bc9fb18-4256-4f2e-9018-2b516f279d21/related/",
+"waveform": "https://api.openverse.org/v1/audio/6bc9fb18-4256-4f2e-9018-2b516f279d21/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d86b5157-f503-47fb-8e08-15cb928470e2",
+"title": "Pizza Typefaces",
+"indexed_on": "2024-02-08T00:05:40.216550Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=145100015",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Pizza_Typefaces.ogg",
+"creator": "Filippos Fragkogiannis",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Filippos_Fragkogiannis",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 11712,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Pizza Typefaces\" by Filippos Fragkogiannis is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1608,
+"bit_rate": 40222,
+"sample_rate": 24000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d86b5157-f503-47fb-8e08-15cb928470e2/",
+"related_url": "https://api.openverse.org/v1/audio/d86b5157-f503-47fb-8e08-15cb928470e2/related/",
+"waveform": "https://api.openverse.org/v1/audio/d86b5157-f503-47fb-8e08-15cb928470e2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fa573941-154d-43bc-9984-b95a8273c8ce",
+"title": "Nikolas Type",
+"indexed_on": "2024-02-08T00:05:40.216550Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=145098291",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Nikolas_Type.ogg",
+"creator": "Filippos Fragkogiannis",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Filippos_Fragkogiannis",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 9326,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nikolas Type\" by Filippos Fragkogiannis is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1248,
+"bit_rate": 40222,
+"sample_rate": 24000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/fa573941-154d-43bc-9984-b95a8273c8ce/",
+"related_url": "https://api.openverse.org/v1/audio/fa573941-154d-43bc-9984-b95a8273c8ce/related/",
+"waveform": "https://api.openverse.org/v1/audio/fa573941-154d-43bc-9984-b95a8273c8ce/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "36e218c1-04a8-46a5-abeb-042aa4764be9",
+"title": "Industrial fan and production.wav",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/dibko/sounds/568486",
+"url": "https://cdn.freesound.org/previews/568/568486_10152894-hq.mp3",
+"creator": "dibko",
+"creator_url": "https://freesound.org/people/dibko",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1862713,
+"filetype": "mp3",
+"tags": [
+{
+"name": "air",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "factory",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fan",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foundry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "industrial",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "industry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "production",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vent",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ventilation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ventilator",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "workshop",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/568486/download/",
+"bit_rate": 0,
+"filesize": 14994302,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Industrial fan and production.wav\" by dibko is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Industrija - Industry",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/35600/",
+"creator": "dibko",
+"creator_url": "https://freesound.org/people/dibko/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 85000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/36e218c1-04a8-46a5-abeb-042aa4764be9/",
+"related_url": "https://api.openverse.org/v1/audio/36e218c1-04a8-46a5-abeb-042aa4764be9/related/",
+"waveform": "https://api.openverse.org/v1/audio/36e218c1-04a8-46a5-abeb-042aa4764be9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8aae9ddc-cd52-43b7-99ab-36252b3bacbf",
+"title": "door_thump.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/nellylongarms/sounds/627509",
+"url": "https://cdn.freesound.org/previews/627/627509_13885248-hq.mp3",
+"creator": "nellylongarms",
+"creator_url": "https://freesound.org/people/nellylongarms",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1175864,
+"filetype": "mp3",
+"tags": [
+{
+"name": "door",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drum",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "industrial",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kick",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "metal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussive",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ruins",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "thump",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wood",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/627509/download/",
+"bit_rate": 0,
+"filesize": 8963728,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"door_thump.wav\" by nellylongarms is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 50808,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8aae9ddc-cd52-43b7-99ab-36252b3bacbf/",
+"related_url": "https://api.openverse.org/v1/audio/8aae9ddc-cd52-43b7-99ab-36252b3bacbf/related/",
+"waveform": "https://api.openverse.org/v1/audio/8aae9ddc-cd52-43b7-99ab-36252b3bacbf/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "300f7714-486a-42f8-a6f5-d3a2cbe7a6ea",
+"title": "Soleri Windbell",
+"indexed_on": "2022-11-01T13:48:32.970278Z",
+"foreign_landing_url": "https://freesound.org/people/stomachache/sounds/181973",
+"url": "https://cdn.freesound.org/previews/181/181973_177850-hq.mp3",
+"creator": "stomachache",
+"creator_url": "https://freesound.org/people/stomachache",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 195159,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bells",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bronze",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chimes",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "consanti",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ring",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soleri",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/181973/download/",
+"bit_rate": 0,
+"filesize": 2311232,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Soleri Windbell\" by stomachache is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Soleri WIndbells",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/11517/",
+"creator": "stomachache",
+"creator_url": "https://freesound.org/people/stomachache/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 8734,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/300f7714-486a-42f8-a6f5-d3a2cbe7a6ea/",
+"related_url": "https://api.openverse.org/v1/audio/300f7714-486a-42f8-a6f5-d3a2cbe7a6ea/related/",
+"waveform": "https://api.openverse.org/v1/audio/300f7714-486a-42f8-a6f5-d3a2cbe7a6ea/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2e099896-11e6-4f15-be82-b60a766b0fa7",
+"title": "Faulty truck arives at furnace depo.wav",
+"indexed_on": "2021-12-23T20:39:02.851099Z",
+"foreign_landing_url": "https://freesound.org/people/SoundLover16/sounds/434680",
+"url": "https://cdn.freesound.org/previews/434/434680_3753854-hq.mp3",
+"creator": "SoundLover16",
+"creator_url": "https://freesound.org/people/SoundLover16",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1156217,
+"filetype": "mp3",
+"tags": [
+{
+"name": "arrives",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "depo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "faulty",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "furnace",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "industrial",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "metal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound-effect",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "truck",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wire",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/434680/download/",
+"bit_rate": 0,
+"filesize": 9113132,
+"filetype": "wav",
+"sample_rate": 44100
+},
+{
+"url": "https://freesound.org/apiv2/sounds/434680/download/",
+"bit_rate": 1378000,
+"filesize": 9113132,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Faulty truck arives at furnace depo.wav\" by SoundLover16 is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Industrial",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/24328/",
+"creator": "SoundLover16",
+"creator_url": "https://freesound.org/people/SoundLover16/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 51661,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2e099896-11e6-4f15-be82-b60a766b0fa7/",
+"related_url": "https://api.openverse.org/v1/audio/2e099896-11e6-4f15-be82-b60a766b0fa7/related/",
+"waveform": "https://api.openverse.org/v1/audio/2e099896-11e6-4f15-be82-b60a766b0fa7/waveform/",
+"unstable__sensitivity": []
 }
 ]

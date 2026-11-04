@@ -17428,5 +17428,45 @@
 "kind": "letters",
 "preview": "letters \uff77 John Paul Ii \uff77 en",
 "query": "https://www.vatican.va/content/john-paul-ii/en/letters/1993.index.html"
+},
+{
+"source": "vatican.va",
+"title": "Apostolic Letter Duodecimum Saeculum",
+"date": "1987-12-04",
+"url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1987/documents/hf_jp-ii_apl_19871204_duodecim-saeculum.html",
+"pope": "John Paul Ii",
+"kind": "apost letters",
+"preview": "apost letters \uff77 John Paul Ii \uff77 en",
+"query": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1987.index.html"
+},
+{
+"source": "vatican.va",
+"title": "Duodecimum Saeculum (December 4, 1987)",
+"date": "1987-12-04",
+"url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1987/documents/hf_jp-ii_apl_19871204_duodecimum-saeculum.html",
+"pope": "John Paul Ii",
+"kind": "apost letters",
+"preview": "apost letters \uff77 John Paul Ii \uff77 en",
+"query": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1987.index.html"
+},
+{
+"source": "vatican.va",
+"title": "Sescentesima Anniversaria (June 5, 1987)",
+"date": "1987-06-05",
+"url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1987/documents/hf_jp-ii_apl_05061987_sescentesima-anniversaria.html",
+"pope": "John Paul Ii",
+"kind": "apost letters",
+"preview": "apost letters \uff77 John Paul Ii \uff77 en",
+"query": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1987.index.html"
+},
+{
+"source": "vatican.va",
+"title": "Rosarium Virginis Mariae on the Most Holy Rosary (October 16, 2002)",
+"date": "2002-10-16",
+"url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/2002/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html",
+"pope": "John Paul Ii",
+"kind": "apost letters",
+"preview": "apost letters \uff77 John Paul Ii \uff77 en",
+"query": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/2002.index.html"
 }
 ]
