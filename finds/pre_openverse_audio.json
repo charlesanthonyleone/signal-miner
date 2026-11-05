@@ -35222,5 +35222,3445 @@
 "related_url": "https://api.openverse.org/v1/audio/aaf462dc-7c28-4bb7-98ea-043981e34f19/related/",
 "waveform": "https://api.openverse.org/v1/audio/aaf462dc-7c28-4bb7-98ea-043981e34f19/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "f2fb0909-0662-44e1-8725-b420890e7e9a",
+"title": "Paul Minesweeper - Tears of a Glacier",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1335022",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1335022&format=mp32",
+"creator": "Tunguska Electronic Music Society",
+"creator_url": "https://www.jamendo.com/artist/343607/Tunguska_Chillout_Grooves_vol.1",
+"license": "by-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "tunguska",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Paul Minesweeper - Tears of a Glacier\" by Tunguska Electronic Music Society is licensed under CC BY-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Point: Cape Fligely. Part 1. Day",
+"foreign_landing_url": "https://www.jamendo.com/album/157832/point-cape-fligely-part-1-day",
+"creator": "Tunguska Electronic Music Society",
+"creator_url": "https://www.jamendo.com/artist/343607/Tunguska_Chillout_Grooves_vol.1",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 367000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/f2fb0909-0662-44e1-8725-b420890e7e9a/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/f2fb0909-0662-44e1-8725-b420890e7e9a/",
+"related_url": "https://api.openverse.org/v1/audio/f2fb0909-0662-44e1-8725-b420890e7e9a/related/",
+"waveform": "https://api.openverse.org/v1/audio/f2fb0909-0662-44e1-8725-b420890e7e9a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ed6eb52a-1b13-473d-8fd6-0bedd4468a6b",
+"title": "LL-Q150 (fra)-0x010C-glacier",
+"indexed_on": "2024-02-11T11:54:14.989575Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=69572622",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/LL-Q150_%28fra%29-0x010C-glacier.wav",
+"creator": "Speaker: 0x010C Recorder: 0x010C",
+"creator_url": "https://lingualibre.org/wiki/Q451",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-0x010C-glacier\" by Speaker: 0x010C Recorder: 0x010C is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ed6eb52a-1b13-473d-8fd6-0bedd4468a6b/",
+"related_url": "https://api.openverse.org/v1/audio/ed6eb52a-1b13-473d-8fd6-0bedd4468a6b/related/",
+"waveform": "https://api.openverse.org/v1/audio/ed6eb52a-1b13-473d-8fd6-0bedd4468a6b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fa493833-dabc-4e80-a64f-6d6a52706cb5",
+"title": "En-us-glacier",
+"indexed_on": "2023-09-24T16:03:32.178985Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=50241396",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/En-us-glacier.ogg",
+"creator": "Sylvanmoon",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Sylvanmoon",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16533,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-us-glacier\" by Sylvanmoon is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1230,
+"bit_rate": 96000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/fa493833-dabc-4e80-a64f-6d6a52706cb5/",
+"related_url": "https://api.openverse.org/v1/audio/fa493833-dabc-4e80-a64f-6d6a52706cb5/related/",
+"waveform": "https://api.openverse.org/v1/audio/fa493833-dabc-4e80-a64f-6d6a52706cb5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9a7db591-3948-4b60-84aa-932ba9a39fb4",
+"title": "mountain glacier distant",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Eelke/sounds/462623",
+"url": "https://cdn.freesound.org/previews/462/462623_670687-hq.mp3",
+"creator": "Eelke",
+"creator_url": "https://freesound.org/people/Eelke",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 399403,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Alps",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Italy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "distant",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foley",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "glacier",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gletscher",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "melt-water",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mont-blanc",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mountain",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pico-bianco",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "river",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stream",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/462623/download/",
+"bit_rate": 320000,
+"filesize": 873723,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"mountain glacier distant\" by Eelke is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 21695,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9a7db591-3948-4b60-84aa-932ba9a39fb4/",
+"related_url": "https://api.openverse.org/v1/audio/9a7db591-3948-4b60-84aa-932ba9a39fb4/related/",
+"waveform": "https://api.openverse.org/v1/audio/9a7db591-3948-4b60-84aa-932ba9a39fb4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "331e6492-88b1-4791-88a2-31a47726b2ba",
+"title": "LL-Q150 (fra)-T. Le Berre-glacier",
+"indexed_on": "2024-02-25T11:38:54.596774Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=90888720",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/LL-Q150_%28fra%29-T._Le_Berre-glacier.wav",
+"creator": "Speaker: T. Le Berre Recorder: T. Le Berre",
+"creator_url": "https://lingualibre.org/wiki/Q311330",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-T. Le Berre-glacier\" by Speaker: T. Le Berre Recorder: T. Le Berre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/331e6492-88b1-4791-88a2-31a47726b2ba/",
+"related_url": "https://api.openverse.org/v1/audio/331e6492-88b1-4791-88a2-31a47726b2ba/related/",
+"waveform": "https://api.openverse.org/v1/audio/331e6492-88b1-4791-88a2-31a47726b2ba/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d1273887-f35f-401c-9616-36da7299fb30",
+"title": "LL-Q150 (fra)-Poslovitch-glacier",
+"indexed_on": "2023-07-23T20:11:24.420900Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=80924806",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/LL-Q150_%28fra%29-Poslovitch-glacier.wav",
+"creator": "Speaker: Poslovitch Recorder: Poslovitch",
+"creator_url": "https://lingualibre.org/wiki/Q142683",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 107796,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Poslovitch-glacier\" by Speaker: Poslovitch Recorder: Poslovitch is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1221,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d1273887-f35f-401c-9616-36da7299fb30/",
+"related_url": "https://api.openverse.org/v1/audio/d1273887-f35f-401c-9616-36da7299fb30/related/",
+"waveform": "https://api.openverse.org/v1/audio/d1273887-f35f-401c-9616-36da7299fb30/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "599e44d7-ba45-4fb0-b708-c16b1476bebc",
+"title": "LL-Q1860 (eng)-Simplificationalizer-glacier",
+"indexed_on": "2024-03-31T10:00:02.570568Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=91984408",
+"url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/LL-Q1860_%28eng%29-Simplificationalizer-glacier.wav",
+"creator": "Speaker: Simplificationalizer Recorder: Simplificationalizer",
+"creator_url": "https://lingualibre.org/wiki/Q335535",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 101164,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Simplificationalizer-glacier\" by Speaker: Simplificationalizer Recorder: Simplificationalizer is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1053,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/599e44d7-ba45-4fb0-b708-c16b1476bebc/",
+"related_url": "https://api.openverse.org/v1/audio/599e44d7-ba45-4fb0-b708-c16b1476bebc/related/",
+"waveform": "https://api.openverse.org/v1/audio/599e44d7-ba45-4fb0-b708-c16b1476bebc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "74e77701-958a-490d-98f1-ec047fe064a7",
+"title": "LL-Q1860 (eng)-AcornFrog-glacier",
+"indexed_on": "2023-10-20T00:10:03.003568Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=139162455",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/16/LL-Q1860_%28eng%29-AcornFrog-glacier.wav",
+"creator": "Speaker: AcornFrog Recorder: AcornFrog",
+"creator_url": "https://lingualibre.org/wiki/Q1113145",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 114452,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-AcornFrog-glacier\" by Speaker: AcornFrog Recorder: AcornFrog is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1297,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/74e77701-958a-490d-98f1-ec047fe064a7/",
+"related_url": "https://api.openverse.org/v1/audio/74e77701-958a-490d-98f1-ec047fe064a7/related/",
+"waveform": "https://api.openverse.org/v1/audio/74e77701-958a-490d-98f1-ec047fe064a7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f38ba07d-8ad4-402f-9177-d3c3578a0b7a",
+"title": "LL-Q150 (fra)-Beno\u893e Prieur-glacier",
+"indexed_on": "2023-12-10T12:18:26.300144Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=75279365",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/87/LL-Q150_%28fra%29-Beno%C3%AEt_Prieur-glacier.wav",
+"creator": "Speaker: Beno\u00eet Prieur Recorder: Beno\u00eet Prieur",
+"creator_url": "https://lingualibre.org/wiki/Q816",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 107796,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Beno\u00eet Prieur-glacier\" by Speaker: Beno\u00eet Prieur Recorder: Beno\u00eet Prieur is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1221,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f38ba07d-8ad4-402f-9177-d3c3578a0b7a/",
+"related_url": "https://api.openverse.org/v1/audio/f38ba07d-8ad4-402f-9177-d3c3578a0b7a/related/",
+"waveform": "https://api.openverse.org/v1/audio/f38ba07d-8ad4-402f-9177-d3c3578a0b7a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "36be91ff-3891-4a05-936f-d1c4dbeccc82",
+"title": "LL-Q150 (fra)-Webfil-glacier",
+"indexed_on": "2023-11-19T13:59:34.684410Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=100094685",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/LL-Q150_%28fra%29-Webfil-glacier.wav",
+"creator": "Speaker: Webfil Recorder: Webfil",
+"creator_url": "https://lingualibre.org/wiki/Q483889",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Webfil-glacier\" by Speaker: Webfil Recorder: Webfil is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/36be91ff-3891-4a05-936f-d1c4dbeccc82/",
+"related_url": "https://api.openverse.org/v1/audio/36be91ff-3891-4a05-936f-d1c4dbeccc82/related/",
+"waveform": "https://api.openverse.org/v1/audio/36be91ff-3891-4a05-936f-d1c4dbeccc82/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "04405e1a-5cda-4db6-9da6-ba3c8f4cc7ec",
+"title": "LL-Q150 (fra)-Ltrlg-glacier",
+"indexed_on": "2023-01-01T14:43:24.903322Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=80265963",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/03/LL-Q150_%28fra%29-Ltrlg-glacier.wav",
+"creator": "Speaker: Ltrlg Recorder: Ltrlg",
+"creator_url": "https://lingualibre.org/wiki/Q3685",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 101164,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Ltrlg-glacier\" by Speaker: Ltrlg Recorder: Ltrlg is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1053,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/04405e1a-5cda-4db6-9da6-ba3c8f4cc7ec/",
+"related_url": "https://api.openverse.org/v1/audio/04405e1a-5cda-4db6-9da6-ba3c8f4cc7ec/related/",
+"waveform": "https://api.openverse.org/v1/audio/04405e1a-5cda-4db6-9da6-ba3c8f4cc7ec/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5245ba7a-db81-47bf-ae94-44c79babcf0a",
+"title": "LL-Q150 (fra)-GrandCelinien-glacier",
+"indexed_on": "2022-10-30T14:39:50.282907Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=71485785",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/LL-Q150_%28fra%29-GrandCelinien-glacier.wav",
+"creator": "Speaker: GrandCelinien Recorder: GrandCelinien",
+"creator_url": "https://lingualibre.org/wiki/Q475",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-GrandCelinien-glacier\" by Speaker: GrandCelinien Recorder: GrandCelinien is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5245ba7a-db81-47bf-ae94-44c79babcf0a/",
+"related_url": "https://api.openverse.org/v1/audio/5245ba7a-db81-47bf-ae94-44c79babcf0a/related/",
+"waveform": "https://api.openverse.org/v1/audio/5245ba7a-db81-47bf-ae94-44c79babcf0a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "61645272-8a7d-471c-93d8-9be4bbd6e637",
+"title": "LL-Q150 (fra)-Touam-glacier",
+"indexed_on": "2023-08-20T15:25:17.965442Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=90597353",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/LL-Q150_%28fra%29-Touam-glacier.wav",
+"creator": "Speaker: Touam Recorder: Touam",
+"creator_url": "https://lingualibre.org/wiki/Q295919",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 107796,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Touam-glacier\" by Speaker: Touam Recorder: Touam is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1221,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/61645272-8a7d-471c-93d8-9be4bbd6e637/",
+"related_url": "https://api.openverse.org/v1/audio/61645272-8a7d-471c-93d8-9be4bbd6e637/related/",
+"waveform": "https://api.openverse.org/v1/audio/61645272-8a7d-471c-93d8-9be4bbd6e637/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bf2e5b6c-fe3c-4d34-aa55-965d00285ae0",
+"title": "Diamond Glacier",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/40775",
+"url": "https://prod-1.storage.jamendo.com/?trackid=40775&format=mp32",
+"creator": "Project System 12",
+"creator_url": "https://www.jamendo.com/artist/5082/project.system.12",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Diamond Glacier\" by Project System 12 is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Digital Wonderland 9",
+"foreign_landing_url": "https://www.jamendo.com/album/5024/digital-wonderland-9",
+"creator": "Project System 12",
+"creator_url": "https://www.jamendo.com/artist/5082/project.system.12",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 279000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/bf2e5b6c-fe3c-4d34-aa55-965d00285ae0/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/bf2e5b6c-fe3c-4d34-aa55-965d00285ae0/",
+"related_url": "https://api.openverse.org/v1/audio/bf2e5b6c-fe3c-4d34-aa55-965d00285ae0/related/",
+"waveform": "https://api.openverse.org/v1/audio/bf2e5b6c-fe3c-4d34-aa55-965d00285ae0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "42bb40cf-3045-43c4-92e5-6139cd74e5ac",
+"title": "The desperation of the glaciers",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1871614",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1871614&format=mp32",
+"creator": "Stefany",
+"creator_url": "https://www.jamendo.com/artist/540151/Quaternaria",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"alternativerock",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "romantic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The desperation of the glaciers\" by Stefany is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The tears of the earth",
+"foreign_landing_url": "https://www.jamendo.com/album/448801/the-tears-of-the-earth",
+"creator": "Stefany",
+"creator_url": "https://www.jamendo.com/artist/540151/Quaternaria",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 299000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/42bb40cf-3045-43c4-92e5-6139cd74e5ac/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/42bb40cf-3045-43c4-92e5-6139cd74e5ac/",
+"related_url": "https://api.openverse.org/v1/audio/42bb40cf-3045-43c4-92e5-6139cd74e5ac/related/",
+"waveform": "https://api.openverse.org/v1/audio/42bb40cf-3045-43c4-92e5-6139cd74e5ac/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a3697b7c-9f25-4005-b5a0-9e88cde3a73e",
+"title": "Glacier",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1414081",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1414081&format=mp32",
+"creator": "John Russell",
+"creator_url": "https://www.jamendo.com/artist/459669/John_Russell_(2)",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"drumnbass",
+"house",
+"techno"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "drumandbass",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "videogame",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Glacier\" by John Russell is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Brother KABONGG",
+"foreign_landing_url": "https://www.jamendo.com/album/165097/brother-kabongg",
+"creator": "John Russell",
+"creator_url": "https://www.jamendo.com/artist/459669/John_Russell_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 439000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/a3697b7c-9f25-4005-b5a0-9e88cde3a73e/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/a3697b7c-9f25-4005-b5a0-9e88cde3a73e/",
+"related_url": "https://api.openverse.org/v1/audio/a3697b7c-9f25-4005-b5a0-9e88cde3a73e/related/",
+"waveform": "https://api.openverse.org/v1/audio/a3697b7c-9f25-4005-b5a0-9e88cde3a73e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7d5b3761-b696-4908-bdfd-d4930223c412",
+"title": "Ruth Glacier 20190603_113443 skiiers laugh and whoop.wav",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/betchkal/sounds/500645",
+"url": "https://cdn.freesound.org/previews/500/500645_339183-hq.mp3",
+"creator": "betchkal",
+"creator_url": "https://freesound.org/people/betchkal",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 438206,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Alaska",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fun",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "laugh",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "laughter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "outdoors",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "recreation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shout",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "skiing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "whoop",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/500645/download/",
+"bit_rate": 0,
+"filesize": 1726612,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Ruth Glacier 20190603_113443 skiiers laugh and whoop.wav\" by betchkal is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 19575,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/7d5b3761-b696-4908-bdfd-d4930223c412/",
+"related_url": "https://api.openverse.org/v1/audio/7d5b3761-b696-4908-bdfd-d4930223c412/related/",
+"waveform": "https://api.openverse.org/v1/audio/7d5b3761-b696-4908-bdfd-d4930223c412/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5e81338a-790e-416a-ac00-edb23baec4a4",
+"title": "Glacier water",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/thegreatbelow/sounds/546537",
+"url": "https://cdn.freesound.org/previews/546/546537_4589736-hq.mp3",
+"creator": "thegreatbelow",
+"creator_url": "https://freesound.org/people/thegreatbelow",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 838368,
+"filetype": "mp3",
+"tags": [
+{
+"name": "creek",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "glacier",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ice",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "trickle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/546537/download/",
+"bit_rate": 0,
+"filesize": 10476140,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Glacier water\" by thegreatbelow is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 36375,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5e81338a-790e-416a-ac00-edb23baec4a4/",
+"related_url": "https://api.openverse.org/v1/audio/5e81338a-790e-416a-ac00-edb23baec4a4/related/",
+"waveform": "https://api.openverse.org/v1/audio/5e81338a-790e-416a-ac00-edb23baec4a4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "16808c69-747e-4a80-8bea-f642015b80bd",
+"title": "Songe d'un glacier",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/383715",
+"url": "https://prod-1.storage.jamendo.com/?trackid=383715&format=mp32",
+"creator": "Tirr Mohma",
+"creator_url": "https://www.jamendo.com/artist/351973/Tirr_Mohma",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/fr/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Songe d'un glacier\" by Tirr Mohma is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/fr/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Miroir",
+"foreign_landing_url": "https://www.jamendo.com/album/48788/miroir",
+"creator": "Tirr Mohma",
+"creator_url": "https://www.jamendo.com/artist/351973/Tirr_Mohma",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 142000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/16808c69-747e-4a80-8bea-f642015b80bd/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/16808c69-747e-4a80-8bea-f642015b80bd/",
+"related_url": "https://api.openverse.org/v1/audio/16808c69-747e-4a80-8bea-f642015b80bd/related/",
+"waveform": "https://api.openverse.org/v1/audio/16808c69-747e-4a80-8bea-f642015b80bd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d4ed7a74-21a5-418f-ae95-20ec6aecebf7",
+"title": "Ludwig Berger - sound recording of Morteratsch Glacier (forms of minutiae)",
+"indexed_on": "2025-06-22T00:33:13.596136Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=168187972",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Ludwig_Berger_-_sound_recording_of_Morteratsch_Glacier_%28forms_of_minutiae%29.wav",
+"creator": "Ludwig Berger",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 33264080,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Ludwig Berger - sound recording of Morteratsch Glacier (forms of minutiae)\" by Ludwig Berger is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 115500,
+"bit_rate": 2304000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d4ed7a74-21a5-418f-ae95-20ec6aecebf7/",
+"related_url": "https://api.openverse.org/v1/audio/d4ed7a74-21a5-418f-ae95-20ec6aecebf7/related/",
+"waveform": "https://api.openverse.org/v1/audio/d4ed7a74-21a5-418f-ae95-20ec6aecebf7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bb0dcfb3-095a-46f5-ac17-72c3ec8c5ca7",
+"title": "Masked lovebirds",
+"indexed_on": "2025-02-09T15:19:10.142918Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=9000377",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Masked_lovebirds.ogg",
+"creator": "ZooFari",
+"creator_url": "https://commons.wikimedia.org/wiki/User:ZooFari",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 660294,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Masked lovebirds\" by ZooFari is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 40869,
+"bit_rate": 160000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/bb0dcfb3-095a-46f5-ac17-72c3ec8c5ca7/",
+"related_url": "https://api.openverse.org/v1/audio/bb0dcfb3-095a-46f5-ac17-72c3ec8c5ca7/related/",
+"waveform": "https://api.openverse.org/v1/audio/bb0dcfb3-095a-46f5-ac17-72c3ec8c5ca7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f134df20-c8dd-466c-8f5e-a996460c8f13",
+"title": "Deep breath inside a mask / helmet",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/luciolepri/sounds/187365",
+"url": "https://cdn.freesound.org/previews/187/187365_3300758-hq.mp3",
+"creator": "luciolepri",
+"creator_url": "https://freesound.org/people/luciolepri",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 164688,
+"filetype": "mp3",
+"tags": [
+{
+"name": "breath",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "deep",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "effect",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "horror",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sfx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "thriller",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "whisper",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/187365/download/",
+"bit_rate": 0,
+"filesize": 2184932,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Deep breath inside a mask / helmet\" by luciolepri is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Various",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/11784/",
+"creator": "luciolepri",
+"creator_url": "https://freesound.org/people/luciolepri/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 7586,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f134df20-c8dd-466c-8f5e-a996460c8f13/",
+"related_url": "https://api.openverse.org/v1/audio/f134df20-c8dd-466c-8f5e-a996460c8f13/related/",
+"waveform": "https://api.openverse.org/v1/audio/f134df20-c8dd-466c-8f5e-a996460c8f13/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ed8f93f9-5f69-4e47-8615-219cec264c52",
+"title": "locoid (Gas Mask Training)",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/223059",
+"url": "https://prod-1.storage.jamendo.com/?trackid=223059&format=mp32",
+"creator": "Loco\u00eed",
+"creator_url": "https://www.jamendo.com/artist/342265/Locoid_(2)",
+"license": "by-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/2.0/fr/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"locoid (Gas Mask Training)\" by Loco\u00eed is licensed under CC BY-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/2.0/fr/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "GAS MASK TRAINING",
+"foreign_landing_url": "https://www.jamendo.com/album/32811/gas-mask-training",
+"creator": "Loco\u00eed",
+"creator_url": "https://www.jamendo.com/artist/342265/Locoid_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 230000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/ed8f93f9-5f69-4e47-8615-219cec264c52/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/ed8f93f9-5f69-4e47-8615-219cec264c52/",
+"related_url": "https://api.openverse.org/v1/audio/ed8f93f9-5f69-4e47-8615-219cec264c52/related/",
+"waveform": "https://api.openverse.org/v1/audio/ed8f93f9-5f69-4e47-8615-219cec264c52/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c27687b1-ff7c-4c44-bb7a-1b382d6fc325",
+"title": "De-Maske",
+"indexed_on": "2023-08-20T15:21:30.357120Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=76989614",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/De-Maske.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16583,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-Maske\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1670,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c27687b1-ff7c-4c44-bb7a-1b382d6fc325/",
+"related_url": "https://api.openverse.org/v1/audio/c27687b1-ff7c-4c44-bb7a-1b382d6fc325/related/",
+"waveform": "https://api.openverse.org/v1/audio/c27687b1-ff7c-4c44-bb7a-1b382d6fc325/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "227c53ba-b63d-418c-b142-cb21062601cd",
+"title": "clothing rip tear fabric various long short or electric short circuit crackle zap or masking tape.flac",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/kyles/sounds/455680",
+"url": "https://cdn.freesound.org/previews/455/455680_612689-hq.mp3",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2093760,
+"filetype": "mp3",
+"tags": [
+{
+"name": "circuit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "clothing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crackle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electric",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fabric",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "long",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "masking",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "or",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rip",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "short",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tape",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tear",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "zap",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/455680/download/",
+"bit_rate": 0,
+"filesize": 6432091,
+"filetype": "flac",
+"sample_rate": 48000
+}
+],
+"attribution": "\"clothing rip tear fabric various long short or electric short circuit crackle zap or masking tape.flac\" by kyles is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "random",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/3340/",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 75021,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/227c53ba-b63d-418c-b142-cb21062601cd/",
+"related_url": "https://api.openverse.org/v1/audio/227c53ba-b63d-418c-b142-cb21062601cd/related/",
+"waveform": "https://api.openverse.org/v1/audio/227c53ba-b63d-418c-b142-cb21062601cd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ca0ddd49-5a61-4638-b3d5-2b593ae16cc1",
+"title": "Gas Mask",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Samantha_Dolman/sounds/490720",
+"url": "https://cdn.freesound.org/previews/490/490720_9624086-hq.mp3",
+"creator": "Samantha_Dolman",
+"creator_url": "https://freesound.org/people/Samantha_Dolman",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 358752,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Gas-Mask",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Mask",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "OWI",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "breathe",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "heavy-breathing",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/490720/download/",
+"bit_rate": 0,
+"filesize": 2952736,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Gas Mask\" by Samantha_Dolman is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Plots",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/27688/",
+"creator": "Samantha_Dolman",
+"creator_url": "https://freesound.org/people/Samantha_Dolman/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 20500,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ca0ddd49-5a61-4638-b3d5-2b593ae16cc1/",
+"related_url": "https://api.openverse.org/v1/audio/ca0ddd49-5a61-4638-b3d5-2b593ae16cc1/related/",
+"waveform": "https://api.openverse.org/v1/audio/ca0ddd49-5a61-4638-b3d5-2b593ae16cc1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "94581b4c-da20-428b-aae8-6e08a80fda53",
+"title": "15-D.I.A 49(Remix Futur Mask Off)2018_2018",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1596006",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1596006&format=mp32",
+"creator": "D.I.A 49",
+"creator_url": "https://www.jamendo.com/artist/513504/D.I.A_49_(2)",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"hiphop",
+"rap",
+"trap"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "80s",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "90s",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "flute",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"15-D.I.A 49(Remix Futur Mask Off)2018_2018\" by D.I.A 49 is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "En Attendant Welcome To My Home",
+"foreign_landing_url": "https://www.jamendo.com/album/180950/en-attendant-welcome-to-my-home",
+"creator": "D.I.A 49",
+"creator_url": "https://www.jamendo.com/artist/513504/D.I.A_49_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 207000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/94581b4c-da20-428b-aae8-6e08a80fda53/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/94581b4c-da20-428b-aae8-6e08a80fda53/",
+"related_url": "https://api.openverse.org/v1/audio/94581b4c-da20-428b-aae8-6e08a80fda53/related/",
+"waveform": "https://api.openverse.org/v1/audio/94581b4c-da20-428b-aae8-6e08a80fda53/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c497d1c1-9635-4b67-8422-b91633399f65",
+"title": "Fluvicola nengeta - Masked Water Tyrant XC250848",
+"indexed_on": "2023-12-24T16:59:17.486986Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=68258036",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Fluvicola_nengeta_-_Masked_Water_Tyrant_XC250848.mp3",
+"creator": "Niels Krabbe",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 477865,
+"filetype": "mp3",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Fluvicola nengeta - Masked Water Tyrant XC250848\" by Niels Krabbe is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 29610,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c497d1c1-9635-4b67-8422-b91633399f65/",
+"related_url": "https://api.openverse.org/v1/audio/c497d1c1-9635-4b67-8422-b91633399f65/related/",
+"waveform": "https://api.openverse.org/v1/audio/c497d1c1-9635-4b67-8422-b91633399f65/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6af52c84-c64b-4b85-80bf-55f002979c7f",
+"title": "Psittacara erythrogenys - Red masked Parakeet",
+"indexed_on": "2022-12-07T00:08:42.928207Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=126357551",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Psittacara_erythrogenys_-_Red_masked_Parakeet.wav",
+"creator": "Igor Lazo",
+"creator_url": "https://commons.wikimedia.org/wiki/User:IgLazCOAP",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 3529772,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Psittacara erythrogenys - Red masked Parakeet\" by Igor Lazo is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 19774,
+"bit_rate": 1411200,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/6af52c84-c64b-4b85-80bf-55f002979c7f/",
+"related_url": "https://api.openverse.org/v1/audio/6af52c84-c64b-4b85-80bf-55f002979c7f/related/",
+"waveform": "https://api.openverse.org/v1/audio/6af52c84-c64b-4b85-80bf-55f002979c7f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1ca886a1-a402-47f8-89d2-e9e7b1cd0bb7",
+"title": "Mask breathing 2",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Diramus/sounds/426298",
+"url": "https://cdn.freesound.org/previews/426/426298_5690194-hq.mp3",
+"creator": "Diramus",
+"creator_url": "https://freesound.org/people/Diramus",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1405140,
+"filetype": "mp3",
+"tags": [
+{
+"name": "air",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "blow",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "blowing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "breath",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "breathe",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "breathing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "deep",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "human",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "inhale",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "man",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mouth",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "slowly",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "through",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "voice",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/426298/download/",
+"bit_rate": 0,
+"filesize": 10989130,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Mask breathing 2\" by Diramus is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 62262,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1ca886a1-a402-47f8-89d2-e9e7b1cd0bb7/",
+"related_url": "https://api.openverse.org/v1/audio/1ca886a1-a402-47f8-89d2-e9e7b1cd0bb7/related/",
+"waveform": "https://api.openverse.org/v1/audio/1ca886a1-a402-47f8-89d2-e9e7b1cd0bb7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5af189a8-cc88-413a-8b45-b1d065847dd9",
+"title": "Behind the Mask",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/304227",
+"url": "https://prod-1.storage.jamendo.com/?trackid=304227&format=mp32",
+"creator": "Pandemonium",
+"creator_url": "https://www.jamendo.com/artist/348401/Pandemonium_(5)",
+"license": "by-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.5/se/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Behind the Mask\" by Pandemonium is licensed under CC BY-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.5/se/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Whispers",
+"foreign_landing_url": "https://www.jamendo.com/album/41418/whispers",
+"creator": "Pandemonium",
+"creator_url": "https://www.jamendo.com/artist/348401/Pandemonium_(5)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 534000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/5af189a8-cc88-413a-8b45-b1d065847dd9/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/5af189a8-cc88-413a-8b45-b1d065847dd9/",
+"related_url": "https://api.openverse.org/v1/audio/5af189a8-cc88-413a-8b45-b1d065847dd9/related/",
+"waveform": "https://api.openverse.org/v1/audio/5af189a8-cc88-413a-8b45-b1d065847dd9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8fcb8e51-56b3-4be9-a0ba-9b21b61eeb80",
+"title": "Garden Mask - Normal dropout",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/283753",
+"url": "https://prod-1.storage.jamendo.com/?trackid=283753&format=mp32",
+"creator": "GARDEN MASK",
+"creator_url": "https://www.jamendo.com/artist/8035/jewel",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Garden Mask - Normal dropout\" by GARDEN MASK is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Garden Mask - Horoscope Telescope",
+"foreign_landing_url": "https://www.jamendo.com/album/39601/garden-mask-horoscope-telescope",
+"creator": "GARDEN MASK",
+"creator_url": "https://www.jamendo.com/artist/8035/jewel",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 297000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/8fcb8e51-56b3-4be9-a0ba-9b21b61eeb80/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/8fcb8e51-56b3-4be9-a0ba-9b21b61eeb80/",
+"related_url": "https://api.openverse.org/v1/audio/8fcb8e51-56b3-4be9-a0ba-9b21b61eeb80/related/",
+"waveform": "https://api.openverse.org/v1/audio/8fcb8e51-56b3-4be9-a0ba-9b21b61eeb80/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d2e65919-81e0-498e-9c6c-97009abbf881",
+"title": "Breathing Through A Mask 18 BPM.wav",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/Benboncan/sounds/64377",
+"url": "https://cdn.freesound.org/previews/64/64377_634166-hq.mp3",
+"creator": "Benboncan",
+"creator_url": "https://freesound.org/people/Benboncan",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2495458,
+"filetype": "mp3",
+"tags": [
+{
+"name": "18-breaths-pm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ba",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "breathing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "breathing-apparatus",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foley",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gas-mask",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "respirator",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/64377/download/",
+"bit_rate": 0,
+"filesize": 21201916,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Breathing Through A Mask 18 BPM.wav\" by Benboncan is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Respirator",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/4136/",
+"creator": "Benboncan",
+"creator_url": "https://freesound.org/people/Benboncan/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 120191,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d2e65919-81e0-498e-9c6c-97009abbf881/",
+"related_url": "https://api.openverse.org/v1/audio/d2e65919-81e0-498e-9c6c-97009abbf881/related/",
+"waveform": "https://api.openverse.org/v1/audio/d2e65919-81e0-498e-9c6c-97009abbf881/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "70074447-dab1-4833-86e8-b1f39d5f33a6",
+"title": "Handling A Rubber Mask",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/harveyjnz/sounds/360379",
+"url": "https://cdn.freesound.org/previews/360/360379_4004161-hq.mp3",
+"creator": "harveyjnz",
+"creator_url": "https://freesound.org/people/harveyjnz",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 929087,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ASMR",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "balloon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "handling",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rubber",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rubbing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "satisfying",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "squeak",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "squeek",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "squeezing",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/360379/download/",
+"bit_rate": 0,
+"filesize": 9388514,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Handling A Rubber Mask\" by harveyjnz is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 35481,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/70074447-dab1-4833-86e8-b1f39d5f33a6/",
+"related_url": "https://api.openverse.org/v1/audio/70074447-dab1-4833-86e8-b1f39d5f33a6/related/",
+"waveform": "https://api.openverse.org/v1/audio/70074447-dab1-4833-86e8-b1f39d5f33a6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "32039161-5a0b-455e-9d29-a036b228c998",
+"title": "LL-Q1860 (eng)-Vealhurl-masked",
+"indexed_on": "2022-12-25T13:54:09.150701Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=88681609",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/91/LL-Q1860_%28eng%29-Vealhurl-masked.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-masked\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/32039161-5a0b-455e-9d29-a036b228c998/",
+"related_url": "https://api.openverse.org/v1/audio/32039161-5a0b-455e-9d29-a036b228c998/related/",
+"waveform": "https://api.openverse.org/v1/audio/32039161-5a0b-455e-9d29-a036b228c998/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "69786e68-5c65-4593-8c15-b8f019121535",
+"title": "LL-Q188 (deu)-Sebastian Wallroth-Maske",
+"indexed_on": "2024-01-28T15:48:51.565233Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=78862609",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/LL-Q188_%28deu%29-Sebastian_Wallroth-Maske.wav",
+"creator": "Speaker: Sebastian Wallroth Recorder: Sebastian Wallroth",
+"creator_url": "https://lingualibre.org/wiki/Q124281",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 92972,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q188 (deu)-Sebastian Wallroth-Maske\" by Speaker: Sebastian Wallroth Recorder: Sebastian Wallroth is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 968,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/69786e68-5c65-4593-8c15-b8f019121535/",
+"related_url": "https://api.openverse.org/v1/audio/69786e68-5c65-4593-8c15-b8f019121535/related/",
+"waveform": "https://api.openverse.org/v1/audio/69786e68-5c65-4593-8c15-b8f019121535/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fa361444-a122-4a33-aced-e12cc5e59d27",
+"title": "LL-Q1860 (eng)-Back ache-masks",
+"indexed_on": "2024-06-09T16:08:02.748680Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=79896570",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/LL-Q1860_%28eng%29-Back_ache-masks.wav",
+"creator": "Speaker: Back ache Recorder: Back ache",
+"creator_url": "https://lingualibre.org/wiki/Q113883",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 117548,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Back ache-masks\" by Speaker: Back ache Recorder: Back ache is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1224,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/fa361444-a122-4a33-aced-e12cc5e59d27/",
+"related_url": "https://api.openverse.org/v1/audio/fa361444-a122-4a33-aced-e12cc5e59d27/related/",
+"waveform": "https://api.openverse.org/v1/audio/fa361444-a122-4a33-aced-e12cc5e59d27/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "55ef9fc1-34d3-46e7-a113-2af47e1190e3",
+"title": "LL-Q1860 (eng)-Vealhurl-gas mask",
+"indexed_on": "2024-04-09T02:38:58.367852Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=147131285",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/LL-Q1860_%28eng%29-Vealhurl-gas_mask.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 101420,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-gas mask\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1056,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/55ef9fc1-34d3-46e7-a113-2af47e1190e3/",
+"related_url": "https://api.openverse.org/v1/audio/55ef9fc1-34d3-46e7-a113-2af47e1190e3/related/",
+"waveform": "https://api.openverse.org/v1/audio/55ef9fc1-34d3-46e7-a113-2af47e1190e3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "594141f0-64ef-4737-bb1e-ea05d4d4d39c",
+"title": "Garden Mask - Them",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/283750",
+"url": "https://prod-1.storage.jamendo.com/?trackid=283750&format=mp32",
+"creator": "GARDEN MASK",
+"creator_url": "https://www.jamendo.com/artist/8035/jewel",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "electricguitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Garden Mask - Them\" by GARDEN MASK is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Garden Mask - Horoscope Telescope",
+"foreign_landing_url": "https://www.jamendo.com/album/39601/garden-mask-horoscope-telescope",
+"creator": "GARDEN MASK",
+"creator_url": "https://www.jamendo.com/artist/8035/jewel",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 316000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/594141f0-64ef-4737-bb1e-ea05d4d4d39c/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/594141f0-64ef-4737-bb1e-ea05d4d4d39c/",
+"related_url": "https://api.openverse.org/v1/audio/594141f0-64ef-4737-bb1e-ea05d4d4d39c/related/",
+"waveform": "https://api.openverse.org/v1/audio/594141f0-64ef-4737-bb1e-ea05d4d4d39c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "30df9a70-bd62-49c1-b028-d33be3477fd0",
+"title": "Breathing Through A Mask 40BPM.wav",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/Benboncan/sounds/64378",
+"url": "https://cdn.freesound.org/previews/64/64378_634166-hq.mp3",
+"creator": "Benboncan",
+"creator_url": "https://freesound.org/people/Benboncan",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2618994,
+"filetype": "mp3",
+"tags": [
+{
+"name": "40-breaths-pm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ba",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "breathing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "breathing-apparatus",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foley",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gas-mask",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mask",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "respirator",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/64378/download/",
+"bit_rate": 0,
+"filesize": 22380156,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Breathing Through A Mask 40BPM.wav\" by Benboncan is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Respirator",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/4136/",
+"creator": "Benboncan",
+"creator_url": "https://freesound.org/people/Benboncan/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 126871,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/30df9a70-bd62-49c1-b028-d33be3477fd0/",
+"related_url": "https://api.openverse.org/v1/audio/30df9a70-bd62-49c1-b028-d33be3477fd0/related/",
+"waveform": "https://api.openverse.org/v1/audio/30df9a70-bd62-49c1-b028-d33be3477fd0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "341f2bbc-b6d9-4d48-b5f9-96b6e331f0c0",
+"title": "LL-Q1860 (eng)-Vealhurl-shipwreck",
+"indexed_on": "2024-06-13T00:09:15.785856Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=149300038",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/07/LL-Q1860_%28eng%29-Vealhurl-shipwreck.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 78380,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-shipwreck\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 816,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/341f2bbc-b6d9-4d48-b5f9-96b6e331f0c0/",
+"related_url": "https://api.openverse.org/v1/audio/341f2bbc-b6d9-4d48-b5f9-96b6e331f0c0/related/",
+"waveform": "https://api.openverse.org/v1/audio/341f2bbc-b6d9-4d48-b5f9-96b6e331f0c0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "76210e95-fae6-4711-b693-796c03dcbff2",
+"title": "Shipwreck In The Pacific Ocean",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1123184",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1123184&format=mp32",
+"creator": "Rolemusic",
+"creator_url": "https://www.jamendo.com/artist/443674/Rolemusic",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"8bit",
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "8bits",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "caribbean",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Shipwreck In The Pacific Ocean\" by Rolemusic is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Pirate And The Dancer",
+"foreign_landing_url": "https://www.jamendo.com/album/134263/the-pirate-and-the-dancer",
+"creator": "Rolemusic",
+"creator_url": "https://www.jamendo.com/artist/443674/Rolemusic",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 270000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/76210e95-fae6-4711-b693-796c03dcbff2/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/76210e95-fae6-4711-b693-796c03dcbff2/",
+"related_url": "https://api.openverse.org/v1/audio/76210e95-fae6-4711-b693-796c03dcbff2/related/",
+"waveform": "https://api.openverse.org/v1/audio/76210e95-fae6-4711-b693-796c03dcbff2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d0a0d8a5-8cef-4e6a-8ec3-2f0842aeef7f",
+"title": "Shipwreck",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/280825",
+"url": "https://prod-1.storage.jamendo.com/?trackid=280825&format=mp32",
+"creator": "Gustavo Crochenci",
+"creator_url": "https://www.jamendo.com/artist/340663/Gustavo_Crochenci",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Shipwreck\" by Gustavo Crochenci is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "In the Jungle",
+"foreign_landing_url": "https://www.jamendo.com/album/39345/in-the-jungle",
+"creator": "Gustavo Crochenci",
+"creator_url": "https://www.jamendo.com/artist/340663/Gustavo_Crochenci",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 153000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/d0a0d8a5-8cef-4e6a-8ec3-2f0842aeef7f/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/d0a0d8a5-8cef-4e6a-8ec3-2f0842aeef7f/",
+"related_url": "https://api.openverse.org/v1/audio/d0a0d8a5-8cef-4e6a-8ec3-2f0842aeef7f/related/",
+"waveform": "https://api.openverse.org/v1/audio/d0a0d8a5-8cef-4e6a-8ec3-2f0842aeef7f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "707f5ddf-d9af-4677-8afc-1af0e68d0bd5",
+"title": "LL-Q1860 (eng)-Berrely-shipwreck",
+"indexed_on": "2024-06-02T15:47:24.057926Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=106295356",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/50/LL-Q1860_%28eng%29-Berrely-shipwreck.wav",
+"creator": "Speaker: Berrely Recorder: Berrely",
+"creator_url": "https://lingualibre.org/wiki/Q563460",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 125740,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Berrely-shipwreck\" by Speaker: Berrely Recorder: Berrely is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1309,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/707f5ddf-d9af-4677-8afc-1af0e68d0bd5/",
+"related_url": "https://api.openverse.org/v1/audio/707f5ddf-d9af-4677-8afc-1af0e68d0bd5/related/",
+"waveform": "https://api.openverse.org/v1/audio/707f5ddf-d9af-4677-8afc-1af0e68d0bd5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cacbe133-fad5-4670-8732-4470975efff0",
+"title": "LL-Q1860 (eng)-Wodencafe-shipwreck",
+"indexed_on": "2024-05-28T00:17:25.519518Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=148761328",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/LL-Q1860_%28eng%29-Wodencafe-shipwreck.wav",
+"creator": "Speaker: Wodencafe Recorder: Wodencafe",
+"creator_url": "https://lingualibre.org/wiki/Q1207413",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 92204,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Wodencafe-shipwreck\" by Speaker: Wodencafe Recorder: Wodencafe is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 960,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cacbe133-fad5-4670-8732-4470975efff0/",
+"related_url": "https://api.openverse.org/v1/audio/cacbe133-fad5-4670-8732-4470975efff0/related/",
+"waveform": "https://api.openverse.org/v1/audio/cacbe133-fad5-4670-8732-4470975efff0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "62128fd0-4716-4484-927e-98590853d793",
+"title": "Siren's Shipwreck",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1484336",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1484336&format=mp32",
+"creator": "Abstract Methodology",
+"creator_url": "https://www.jamendo.com/artist/503732/Abstract_Methodology",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"chillout",
+"downtempo",
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "femalevox",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Siren's Shipwreck\" by Abstract Methodology is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Sea of Saturation",
+"foreign_landing_url": "https://www.jamendo.com/album/171588/sea-of-saturation",
+"creator": "Abstract Methodology",
+"creator_url": "https://www.jamendo.com/artist/503732/Abstract_Methodology",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 284000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/62128fd0-4716-4484-927e-98590853d793/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/62128fd0-4716-4484-927e-98590853d793/",
+"related_url": "https://api.openverse.org/v1/audio/62128fd0-4716-4484-927e-98590853d793/related/",
+"waveform": "https://api.openverse.org/v1/audio/62128fd0-4716-4484-927e-98590853d793/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "06c56783-cbad-4845-876b-276f959ebddd",
+"title": "LL-Q1860 (eng)-Wodencafe-shipwrecks",
+"indexed_on": "2024-05-28T00:17:25.519518Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=148761329",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/LL-Q1860_%28eng%29-Wodencafe-shipwrecks.wav",
+"creator": "Speaker: Wodencafe Recorder: Wodencafe",
+"creator_url": "https://lingualibre.org/wiki/Q1207413",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 118828,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Wodencafe-shipwrecks\" by Speaker: Wodencafe Recorder: Wodencafe is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1237,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/06c56783-cbad-4845-876b-276f959ebddd/",
+"related_url": "https://api.openverse.org/v1/audio/06c56783-cbad-4845-876b-276f959ebddd/related/",
+"waveform": "https://api.openverse.org/v1/audio/06c56783-cbad-4845-876b-276f959ebddd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fedd3ccc-d7c5-47fe-9566-63b39faed3db",
+"title": "06 - This Unsettled Soil (Death By Shipwreck rmx)",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1179498",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1179498&format=mp32",
+"creator": "Death By Shipwreck",
+"creator_url": "https://www.jamendo.com/artist/458315/Death_By_Shipwreck",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"idm",
+"indie",
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "remix",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"06 - This Unsettled Soil (Death By Shipwreck rmx)\" by Death By Shipwreck is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Shipwrecked By Death (Remixes and Alterations)",
+"foreign_landing_url": "https://www.jamendo.com/album/141969/shipwrecked-by-death-remixes-and-alterations",
+"creator": "Death By Shipwreck",
+"creator_url": "https://www.jamendo.com/artist/458315/Death_By_Shipwreck",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 407000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/fedd3ccc-d7c5-47fe-9566-63b39faed3db/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/fedd3ccc-d7c5-47fe-9566-63b39faed3db/",
+"related_url": "https://api.openverse.org/v1/audio/fedd3ccc-d7c5-47fe-9566-63b39faed3db/related/",
+"waveform": "https://api.openverse.org/v1/audio/fedd3ccc-d7c5-47fe-9566-63b39faed3db/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e4bee2e4-b7bd-4735-b7a8-ca698cf38c71",
+"title": "Shipwreck underwater 02.wav",
+"indexed_on": "2022-03-22T02:25:00.183410Z",
+"foreign_landing_url": "https://freesound.org/people/LG/sounds/101407",
+"url": "https://cdn.freesound.org/previews/101/101407_36188-hq.mp3",
+"creator": "LG",
+"creator_url": "https://freesound.org/people/LG",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 3577056,
+"filetype": "mp3",
+"tags": [
+{
+"name": "passive-sonar",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shipwreck",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "torpedo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/101407/download/",
+"bit_rate": 0,
+"filesize": 46080014,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Shipwreck underwater 02.wav\" by LG is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 160000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e4bee2e4-b7bd-4735-b7a8-ca698cf38c71/",
+"related_url": "https://api.openverse.org/v1/audio/e4bee2e4-b7bd-4735-b7a8-ca698cf38c71/related/",
+"waveform": "https://api.openverse.org/v1/audio/e4bee2e4-b7bd-4735-b7a8-ca698cf38c71/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a9cc7e72-072c-462d-b739-3a8aeb5b8134",
+"title": "08 - Deaf In A Shipwreck (#2 Orchestra Rmx)",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1179500",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1179500&format=mp32",
+"creator": "Death By Shipwreck",
+"creator_url": "https://www.jamendo.com/artist/458315/Death_By_Shipwreck",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"darkwave",
+"electronic",
+"idm"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "remix",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"08 - Deaf In A Shipwreck (#2 Orchestra Rmx)\" by Death By Shipwreck is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Shipwrecked By Death (Remixes and Alterations)",
+"foreign_landing_url": "https://www.jamendo.com/album/141969/shipwrecked-by-death-remixes-and-alterations",
+"creator": "Death By Shipwreck",
+"creator_url": "https://www.jamendo.com/artist/458315/Death_By_Shipwreck",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 420000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/a9cc7e72-072c-462d-b739-3a8aeb5b8134/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/a9cc7e72-072c-462d-b739-3a8aeb5b8134/",
+"related_url": "https://api.openverse.org/v1/audio/a9cc7e72-072c-462d-b739-3a8aeb5b8134/related/",
+"waveform": "https://api.openverse.org/v1/audio/a9cc7e72-072c-462d-b739-3a8aeb5b8134/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2f21ce88-f7a8-4085-8a48-a92d29207048",
+"title": "Shipwrecked's Dream",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/241119",
+"url": "https://prod-1.storage.jamendo.com/?trackid=241119&format=mp32",
+"creator": "MHL",
+"creator_url": "https://www.jamendo.com/artist/343531/MHL",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"lofi",
+"newage"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "concrete",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "electroamplified",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Shipwrecked's Dream\" by MHL is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Water Drop Travel",
+"foreign_landing_url": "https://www.jamendo.com/album/35093/water-drop-travel",
+"creator": "MHL",
+"creator_url": "https://www.jamendo.com/artist/343531/MHL",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 142000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/2f21ce88-f7a8-4085-8a48-a92d29207048/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/2f21ce88-f7a8-4085-8a48-a92d29207048/",
+"related_url": "https://api.openverse.org/v1/audio/2f21ce88-f7a8-4085-8a48-a92d29207048/related/",
+"waveform": "https://api.openverse.org/v1/audio/2f21ce88-f7a8-4085-8a48-a92d29207048/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bfe47b46-cd38-4560-9d56-2135a470493c",
+"title": "Shipwreck Shanty",
+"indexed_on": "2023-05-04T00:05:01.880122Z",
+"foreign_landing_url": "https://www.jamendo.com/track/138661",
+"url": "https://prod-1.storage.jamendo.com/?trackid=138661&format=mp32",
+"creator": "SanJuro",
+"creator_url": "https://www.jamendo.com/artist/338333/SanJuro",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/uk/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Shipwreck Shanty\" by SanJuro is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/uk/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Underground Waltz",
+"foreign_landing_url": "https://www.jamendo.com/album/19821/underground-waltz",
+"creator": "SanJuro",
+"creator_url": "https://www.jamendo.com/artist/338333/SanJuro",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 229000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/bfe47b46-cd38-4560-9d56-2135a470493c/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/bfe47b46-cd38-4560-9d56-2135a470493c/",
+"related_url": "https://api.openverse.org/v1/audio/bfe47b46-cd38-4560-9d56-2135a470493c/related/",
+"waveform": "https://api.openverse.org/v1/audio/bfe47b46-cd38-4560-9d56-2135a470493c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7f9a0335-2765-4a58-be10-f0679390ced9",
+"title": "Shipwrecks",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/49523",
+"url": "https://prod-1.storage.jamendo.com/?trackid=49523&format=mp32",
+"creator": "deEjAyWaRnEr",
+"creator_url": "https://www.jamendo.com/artist/614/deejaywarner",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Shipwrecks\" by deEjAyWaRnEr is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "EARTH TREK",
+"foreign_landing_url": "https://www.jamendo.com/album/6019/earth-trek",
+"creator": "deEjAyWaRnEr",
+"creator_url": "https://www.jamendo.com/artist/614/deejaywarner",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 218000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/7f9a0335-2765-4a58-be10-f0679390ced9/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/7f9a0335-2765-4a58-be10-f0679390ced9/",
+"related_url": "https://api.openverse.org/v1/audio/7f9a0335-2765-4a58-be10-f0679390ced9/related/",
+"waveform": "https://api.openverse.org/v1/audio/7f9a0335-2765-4a58-be10-f0679390ced9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "caf1069e-f9e4-413d-80d5-44c3192b4a41",
+"title": "Shipwreck",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1053126",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1053126&format=mp32",
+"creator": "Fearworks",
+"creator_url": "https://www.jamendo.com/artist/378299/Fearworks",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"doommetal",
+"metal",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "bass",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "drums",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Shipwreck\" by Fearworks is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Shipwreck",
+"foreign_landing_url": "https://www.jamendo.com/album/124198/shipwreck",
+"creator": "Fearworks",
+"creator_url": "https://www.jamendo.com/artist/378299/Fearworks",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 294000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/caf1069e-f9e4-413d-80d5-44c3192b4a41/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/caf1069e-f9e4-413d-80d5-44c3192b4a41/",
+"related_url": "https://api.openverse.org/v1/audio/caf1069e-f9e4-413d-80d5-44c3192b4a41/related/",
+"waveform": "https://api.openverse.org/v1/audio/caf1069e-f9e4-413d-80d5-44c3192b4a41/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d5867490-b155-404f-9784-bff8aed579f5",
+"title": "Shipwreck",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/803746",
+"url": "https://prod-1.storage.jamendo.com/?trackid=803746&format=mp32",
+"creator": "Gustavo Crochenci",
+"creator_url": "https://www.jamendo.com/artist/340663/Gustavo_Crochenci",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Shipwreck\" by Gustavo Crochenci is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Movie",
+"foreign_landing_url": "https://www.jamendo.com/album/94033/movie",
+"creator": "Gustavo Crochenci",
+"creator_url": "https://www.jamendo.com/artist/340663/Gustavo_Crochenci",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 154000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/d5867490-b155-404f-9784-bff8aed579f5/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/d5867490-b155-404f-9784-bff8aed579f5/",
+"related_url": "https://api.openverse.org/v1/audio/d5867490-b155-404f-9784-bff8aed579f5/related/",
+"waveform": "https://api.openverse.org/v1/audio/d5867490-b155-404f-9784-bff8aed579f5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "530cd991-52aa-4fcb-96f6-cc5d5992d75d",
+"title": "Shipwreck",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/241117",
+"url": "https://prod-1.storage.jamendo.com/?trackid=241117&format=mp32",
+"creator": "MHL",
+"creator_url": "https://www.jamendo.com/artist/343531/MHL",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"lofi",
+"newage"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "concrete",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "electroamplified",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Shipwreck\" by MHL is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Water Drop Travel",
+"foreign_landing_url": "https://www.jamendo.com/album/35093/water-drop-travel",
+"creator": "MHL",
+"creator_url": "https://www.jamendo.com/artist/343531/MHL",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 293000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/530cd991-52aa-4fcb-96f6-cc5d5992d75d/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/530cd991-52aa-4fcb-96f6-cc5d5992d75d/",
+"related_url": "https://api.openverse.org/v1/audio/530cd991-52aa-4fcb-96f6-cc5d5992d75d/related/",
+"waveform": "https://api.openverse.org/v1/audio/530cd991-52aa-4fcb-96f6-cc5d5992d75d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ec3cdc37-2d93-4301-bd06-3dc7031671d6",
+"title": "Shipwreck Cove",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1929776",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1929776&format=mp32",
+"creator": "Hypotenuza",
+"creator_url": "https://www.jamendo.com/artist/541195/Hypotenuse",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "dark",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "mystery",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Shipwreck Cove\" by Hypotenuza is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Return From Under",
+"foreign_landing_url": "https://www.jamendo.com/album/476067/the-return-from-under",
+"creator": "Hypotenuza",
+"creator_url": "https://www.jamendo.com/artist/541195/Hypotenuse",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 127000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/ec3cdc37-2d93-4301-bd06-3dc7031671d6/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/ec3cdc37-2d93-4301-bd06-3dc7031671d6/",
+"related_url": "https://api.openverse.org/v1/audio/ec3cdc37-2d93-4301-bd06-3dc7031671d6/related/",
+"waveform": "https://api.openverse.org/v1/audio/ec3cdc37-2d93-4301-bd06-3dc7031671d6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b3e21267-4e77-43f7-9fdc-2977dd135095",
+"title": "Shipwreck Cove",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1484263",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1484263&format=mp32",
+"creator": "Pablo Samonta",
+"creator_url": "https://www.jamendo.com/artist/481486/Pablo_Samonta_(2)",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "action",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "adventure",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "cello",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "epic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "hero",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "orchestra",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Shipwreck Cove\" by Pablo Samonta is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Shipwreck Cove",
+"foreign_landing_url": "https://www.jamendo.com/album/171581/shipwreck-cove",
+"creator": "Pablo Samonta",
+"creator_url": "https://www.jamendo.com/artist/481486/Pablo_Samonta_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 134000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/b3e21267-4e77-43f7-9fdc-2977dd135095/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/b3e21267-4e77-43f7-9fdc-2977dd135095/",
+"related_url": "https://api.openverse.org/v1/audio/b3e21267-4e77-43f7-9fdc-2977dd135095/related/",
+"waveform": "https://api.openverse.org/v1/audio/b3e21267-4e77-43f7-9fdc-2977dd135095/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6fc4c8ec-d1e0-4fac-bf54-cf438f62e0f8",
+"title": "Shipwrecked Crew",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/226928",
+"url": "https://prod-1.storage.jamendo.com/?trackid=226928&format=mp32",
+"creator": "Pete Prodoehl",
+"creator_url": "https://www.jamendo.com/artist/342616/Pete_Prodoehl",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Shipwrecked Crew\" by Pete Prodoehl is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Snowbound",
+"foreign_landing_url": "https://www.jamendo.com/album/33582/snowbound",
+"creator": "Pete Prodoehl",
+"creator_url": "https://www.jamendo.com/artist/342616/Pete_Prodoehl",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 107000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/6fc4c8ec-d1e0-4fac-bf54-cf438f62e0f8/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/6fc4c8ec-d1e0-4fac-bf54-cf438f62e0f8/",
+"related_url": "https://api.openverse.org/v1/audio/6fc4c8ec-d1e0-4fac-bf54-cf438f62e0f8/related/",
+"waveform": "https://api.openverse.org/v1/audio/6fc4c8ec-d1e0-4fac-bf54-cf438f62e0f8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9a6ea6e9-ebbc-4d10-8fe4-2d775dda6e52",
+"title": "shipwrecks and egg wars for the farralons",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/921142",
+"url": "https://prod-1.storage.jamendo.com/?trackid=921142&format=mp32",
+"creator": "kitchen blake",
+"creator_url": "https://www.jamendo.com/artist/370646/kitchen_blake",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"shipwrecks and egg wars for the farralons\" by kitchen blake is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Naked in osaka",
+"foreign_landing_url": "https://www.jamendo.com/album/109104/naked-in-osaka",
+"creator": "kitchen blake",
+"creator_url": "https://www.jamendo.com/artist/370646/kitchen_blake",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 287000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/9a6ea6e9-ebbc-4d10-8fe4-2d775dda6e52/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/9a6ea6e9-ebbc-4d10-8fe4-2d775dda6e52/",
+"related_url": "https://api.openverse.org/v1/audio/9a6ea6e9-ebbc-4d10-8fe4-2d775dda6e52/related/",
+"waveform": "https://api.openverse.org/v1/audio/9a6ea6e9-ebbc-4d10-8fe4-2d775dda6e52/waveform/",
+"unstable__sensitivity": []
 }
 ]
