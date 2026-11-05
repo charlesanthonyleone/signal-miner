@@ -38662,5 +38662,5689 @@
 "related_url": "https://api.openverse.org/v1/audio/9a6ea6e9-ebbc-4d10-8fe4-2d775dda6e52/related/",
 "waveform": "https://api.openverse.org/v1/audio/9a6ea6e9-ebbc-4d10-8fe4-2d775dda6e52/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "cf15205b-2b03-4470-8157-4448e70805f1",
+"title": "laYo - Tupac Poster",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1088143",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1088143&format=mp32",
+"creator": "laYo",
+"creator_url": "https://www.jamendo.com/artist/365898/laYo_(2)",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"laYo - Tupac Poster\" by laYo is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Bad Muffin",
+"foreign_landing_url": "https://www.jamendo.com/album/129733/bad-muffin",
+"creator": "laYo",
+"creator_url": "https://www.jamendo.com/artist/365898/laYo_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 227000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/cf15205b-2b03-4470-8157-4448e70805f1/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/cf15205b-2b03-4470-8157-4448e70805f1/",
+"related_url": "https://api.openverse.org/v1/audio/cf15205b-2b03-4470-8157-4448e70805f1/related/",
+"waveform": "https://api.openverse.org/v1/audio/cf15205b-2b03-4470-8157-4448e70805f1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "46157236-dd4d-4a62-8415-ee06a5ff4968",
+"title": "En-us-poster",
+"indexed_on": "2024-09-22T17:17:11.078451Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=1780282",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/En-us-poster.ogg",
+"creator": "Dvortygirl",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Dvortygirl",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 13679,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-us-poster\" by Dvortygirl is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1100,
+"bit_rate": 80000,
+"sample_rate": 44000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/46157236-dd4d-4a62-8415-ee06a5ff4968/",
+"related_url": "https://api.openverse.org/v1/audio/46157236-dd4d-4a62-8415-ee06a5ff4968/related/",
+"waveform": "https://api.openverse.org/v1/audio/46157236-dd4d-4a62-8415-ee06a5ff4968/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "45f90bb1-bd53-43ac-bb8f-7bd547850316",
+"title": "En-au-poster boy",
+"indexed_on": "2023-05-14T15:20:13.430792Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=79126066",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/En-au-poster_boy.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16758,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-au-poster boy\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1165,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/45f90bb1-bd53-43ac-bb8f-7bd547850316/",
+"related_url": "https://api.openverse.org/v1/audio/45f90bb1-bd53-43ac-bb8f-7bd547850316/related/",
+"waveform": "https://api.openverse.org/v1/audio/45f90bb1-bd53-43ac-bb8f-7bd547850316/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "01504073-cfc1-4101-ae58-5934a4caa429",
+"title": "poster handling.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/krnfa/sounds/413640",
+"url": "https://cdn.freesound.org/previews/413/413640_5812520-hq.mp3",
+"creator": "krnfa",
+"creator_url": "https://freesound.org/people/krnfa",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1155838,
+"filetype": "mp3",
+"tags": [
+{
+"name": "01",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Papir",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chaos",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "handling",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "plakat",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "poster",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wav",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/413640/download/",
+"bit_rate": 0,
+"filesize": 9031344,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"poster handling.wav\" by krnfa is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 51168,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/01504073-cfc1-4101-ae58-5934a4caa429/",
+"related_url": "https://api.openverse.org/v1/audio/01504073-cfc1-4101-ae58-5934a4caa429/related/",
+"waveform": "https://api.openverse.org/v1/audio/01504073-cfc1-4101-ae58-5934a4caa429/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "43056d19-d8cd-4cbe-98b3-187647f8bb5f",
+"title": "En-au-poster girl",
+"indexed_on": "2023-05-14T15:20:13.430792Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=79126076",
+"url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/En-au-poster_girl.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 14645,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-au-poster girl\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 959,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/43056d19-d8cd-4cbe-98b3-187647f8bb5f/",
+"related_url": "https://api.openverse.org/v1/audio/43056d19-d8cd-4cbe-98b3-187647f8bb5f/related/",
+"waveform": "https://api.openverse.org/v1/audio/43056d19-d8cd-4cbe-98b3-187647f8bb5f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fd801413-b13b-4e86-b7e2-62fd796e834b",
+"title": "De-Poster",
+"indexed_on": "2024-03-17T11:15:20.015775Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=91501372",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De-Poster.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16874,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-Poster\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1680,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/fd801413-b13b-4e86-b7e2-62fd796e834b/",
+"related_url": "https://api.openverse.org/v1/audio/fd801413-b13b-4e86-b7e2-62fd796e834b/related/",
+"waveform": "https://api.openverse.org/v1/audio/fd801413-b13b-4e86-b7e2-62fd796e834b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "edbb01ed-e8e2-4db5-b476-a7fa563d30ba",
+"title": "En-au-posterize",
+"indexed_on": "2023-11-26T14:17:35.990113Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=79520449",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/76/En-au-posterize.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 17509,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-au-posterize\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1314,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/edbb01ed-e8e2-4db5-b476-a7fa563d30ba/",
+"related_url": "https://api.openverse.org/v1/audio/edbb01ed-e8e2-4db5-b476-a7fa563d30ba/related/",
+"waveform": "https://api.openverse.org/v1/audio/edbb01ed-e8e2-4db5-b476-a7fa563d30ba/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8ed52e50-1e28-4201-8ae3-bb694bb87b1d",
+"title": "De-Posters",
+"indexed_on": "2024-03-17T11:15:20.015775Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=91501377",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-Posters.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 18360,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-Posters\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1850,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8ed52e50-1e28-4201-8ae3-bb694bb87b1d/",
+"related_url": "https://api.openverse.org/v1/audio/8ed52e50-1e28-4201-8ae3-bb694bb87b1d/related/",
+"waveform": "https://api.openverse.org/v1/audio/8ed52e50-1e28-4201-8ae3-bb694bb87b1d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "42c174a8-f5cf-47eb-9829-daafbec7c7d6",
+"title": "En-au-poster child",
+"indexed_on": "2023-05-14T15:20:13.430792Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=79126072",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/En-au-poster_child.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 18053,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-au-poster child\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1309,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/42c174a8-f5cf-47eb-9829-daafbec7c7d6/",
+"related_url": "https://api.openverse.org/v1/audio/42c174a8-f5cf-47eb-9829-daafbec7c7d6/related/",
+"waveform": "https://api.openverse.org/v1/audio/42c174a8-f5cf-47eb-9829-daafbec7c7d6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e4492ff2-78cb-46b2-95c2-51fa8a98ffbd",
+"title": "Nl-posters",
+"indexed_on": "2023-07-09T19:03:41.710813Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=29637853",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Nl-posters.ogg",
+"creator": "Marcel coenders",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Marcel_coenders",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 14199,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-posters\" by Marcel coenders is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1150,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e4492ff2-78cb-46b2-95c2-51fa8a98ffbd/",
+"related_url": "https://api.openverse.org/v1/audio/e4492ff2-78cb-46b2-95c2-51fa8a98ffbd/related/",
+"waveform": "https://api.openverse.org/v1/audio/e4492ff2-78cb-46b2-95c2-51fa8a98ffbd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a5ced23f-aecb-4758-8eee-ca16c2fb39d0",
+"title": "LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-posterize",
+"indexed_on": "2025-05-08T00:26:38.483110Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=164856790",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/LL-Q1860_%28eng%29-Naomi_Persephone_Amethyst_%28NaomiAmethyst%29-posterize.wav",
+"creator": "Speaker: Naomi Persephone Amethyst Recorder: NaomiAmethyst",
+"creator_url": "https://lingualibre.org/wiki/Q1492185",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 113196,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-posterize\" by Speaker: Naomi Persephone Amethyst Recorder: NaomiAmethyst is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1178,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a5ced23f-aecb-4758-8eee-ca16c2fb39d0/",
+"related_url": "https://api.openverse.org/v1/audio/a5ced23f-aecb-4758-8eee-ca16c2fb39d0/related/",
+"waveform": "https://api.openverse.org/v1/audio/a5ced23f-aecb-4758-8eee-ca16c2fb39d0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "950c7270-0b08-4438-b67f-d66ea175c531",
+"title": "Nl-poster",
+"indexed_on": "2023-07-09T19:03:41.710813Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=29637844",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Nl-poster.ogg",
+"creator": "Marcel coenders",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Marcel_coenders",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 13055,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-poster\" by Marcel coenders is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1050,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/950c7270-0b08-4438-b67f-d66ea175c531/",
+"related_url": "https://api.openverse.org/v1/audio/950c7270-0b08-4438-b67f-d66ea175c531/related/",
+"waveform": "https://api.openverse.org/v1/audio/950c7270-0b08-4438-b67f-d66ea175c531/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7e67deff-22bd-49b3-89bc-3c0b8e3d3ab5",
+"title": "LL-Q150 (fra)-Fabricio Cardenas (Culex)-pr\u0419t-\u042e-poster",
+"indexed_on": "2024-10-24T00:11:12.876143Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=154212464",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/LL-Q150_%28fra%29-Fabricio_Cardenas_%28Culex%29-pr%C3%AAt-%C3%A0-poster.wav",
+"creator": "Speaker: Fabricio Cardenas Recorder: Culex",
+"creator_url": "https://lingualibre.org/wiki/Q9699",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 104236,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Fabricio Cardenas (Culex)-pr\u00eat-\u00e0-poster\" by Speaker: Fabricio Cardenas Recorder: Culex is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1085,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/7e67deff-22bd-49b3-89bc-3c0b8e3d3ab5/",
+"related_url": "https://api.openverse.org/v1/audio/7e67deff-22bd-49b3-89bc-3c0b8e3d3ab5/related/",
+"waveform": "https://api.openverse.org/v1/audio/7e67deff-22bd-49b3-89bc-3c0b8e3d3ab5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "aa3064f6-94f1-409e-8efe-de29a8c832a1",
+"title": "LL-Q1860 (eng)-VETBAITEDLV-poster",
+"indexed_on": "2026-07-24T00:14:31.715348Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=196053085",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/LL-Q1860_%28eng%29-VETBAITEDLV-poster.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "Speaker: VETBAITEDLV Recorder: VETBAITEDLV",
+"creator_url": "https://commons.wikimedia.org/w/index.php?title=User:VETBAITEDLV&action=edit&redlink=1",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 89644,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-VETBAITEDLV-poster\" by Speaker: VETBAITEDLV Recorder: VETBAITEDLV is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 933,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/aa3064f6-94f1-409e-8efe-de29a8c832a1/",
+"related_url": "https://api.openverse.org/v1/audio/aa3064f6-94f1-409e-8efe-de29a8c832a1/related/",
+"waveform": "https://api.openverse.org/v1/audio/aa3064f6-94f1-409e-8efe-de29a8c832a1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "dea588ef-e443-47da-92b4-bc3e3cd36a55",
+"title": "LL-Q150 (fra)-T. Le Berre-poster",
+"indexed_on": "2024-05-26T14:14:40.012568Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=90923324",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/LL-Q150_%28fra%29-T._Le_Berre-poster.wav",
+"creator": "Speaker: T. Le Berre Recorder: T. Le Berre",
+"creator_url": "https://lingualibre.org/wiki/Q311330",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 60204,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-T. Le Berre-poster\" by Speaker: T. Le Berre Recorder: T. Le Berre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 626,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/dea588ef-e443-47da-92b4-bc3e3cd36a55/",
+"related_url": "https://api.openverse.org/v1/audio/dea588ef-e443-47da-92b4-bc3e3cd36a55/related/",
+"waveform": "https://api.openverse.org/v1/audio/dea588ef-e443-47da-92b4-bc3e3cd36a55/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9194feac-ceda-42ed-afb8-52fa9b39cc2d",
+"title": "LL-Q150 (fra)-J\u959e\u9599y-G\u9ef1ther-Heinz J\u92d2nick-poster",
+"indexed_on": "2023-11-16T00:10:03.973666Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=140840933",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/LL-Q150_%28fra%29-J%C3%A9r%C3%A9my-G%C3%BCnther-Heinz_J%C3%A4hnick-poster.wav",
+"creator": "Speaker: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick Recorder: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick",
+"creator_url": "https://lingualibre.org/wiki/Q1094311",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 84780,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick-poster\" by Speaker: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick Recorder: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 882,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9194feac-ceda-42ed-afb8-52fa9b39cc2d/",
+"related_url": "https://api.openverse.org/v1/audio/9194feac-ceda-42ed-afb8-52fa9b39cc2d/related/",
+"waveform": "https://api.openverse.org/v1/audio/9194feac-ceda-42ed-afb8-52fa9b39cc2d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b0145bbf-48aa-4220-9907-90d8cd50f350",
+"title": "LL-Q1860 (eng)-Simplificationalizer-poster",
+"indexed_on": "2023-12-22T00:47:20.539215Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=142564375",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/LL-Q1860_%28eng%29-Simplificationalizer-poster.wav",
+"creator": "Speaker: Simplificationalizer Recorder: Simplificationalizer",
+"creator_url": "https://lingualibre.org/wiki/Q335535",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 108588,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Simplificationalizer-poster\" by Speaker: Simplificationalizer Recorder: Simplificationalizer is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1130,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b0145bbf-48aa-4220-9907-90d8cd50f350/",
+"related_url": "https://api.openverse.org/v1/audio/b0145bbf-48aa-4220-9907-90d8cd50f350/related/",
+"waveform": "https://api.openverse.org/v1/audio/b0145bbf-48aa-4220-9907-90d8cd50f350/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "075e9a9b-87ee-40c7-a490-80fcb637d55a",
+"title": "Nl-postere",
+"indexed_on": "2025-03-14T00:10:38.938929Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=161926496",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Nl-postere.ogg",
+"creator": "Marcel coenders",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Marcel_coenders",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 15911,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-postere\" by Marcel coenders is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1400,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/075e9a9b-87ee-40c7-a490-80fcb637d55a/",
+"related_url": "https://api.openverse.org/v1/audio/075e9a9b-87ee-40c7-a490-80fcb637d55a/related/",
+"waveform": "https://api.openverse.org/v1/audio/075e9a9b-87ee-40c7-a490-80fcb637d55a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4fd31fa0-d24c-410b-a8bd-3fce48139fee",
+"title": "LL-Q150 (fra)-Poslovitch-poster",
+"indexed_on": "2023-12-24T13:17:11.811684Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=91719952",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/LL-Q150_%28fra%29-Poslovitch-poster.wav",
+"creator": "Speaker: Poslovitch Recorder: Poslovitch",
+"creator_url": "https://lingualibre.org/wiki/Q142683",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 101164,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Poslovitch-poster\" by Speaker: Poslovitch Recorder: Poslovitch is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1053,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4fd31fa0-d24c-410b-a8bd-3fce48139fee/",
+"related_url": "https://api.openverse.org/v1/audio/4fd31fa0-d24c-410b-a8bd-3fce48139fee/related/",
+"waveform": "https://api.openverse.org/v1/audio/4fd31fa0-d24c-410b-a8bd-3fce48139fee/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f187f9ee-9253-4463-a344-602c1b19bd3d",
+"title": "LL-Q150 (fra)-Lepticed7-poster",
+"indexed_on": "2023-03-05T10:01:31.023480Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=77312008",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/LL-Q150_%28fra%29-Lepticed7-poster.wav",
+"creator": "Speaker: Lepticed7 Recorder: Lepticed7",
+"creator_url": "https://lingualibre.org/wiki/Q51319",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 77164,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Lepticed7-poster\" by Speaker: Lepticed7 Recorder: Lepticed7 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 803,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f187f9ee-9253-4463-a344-602c1b19bd3d/",
+"related_url": "https://api.openverse.org/v1/audio/f187f9ee-9253-4463-a344-602c1b19bd3d/related/",
+"waveform": "https://api.openverse.org/v1/audio/f187f9ee-9253-4463-a344-602c1b19bd3d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1cecff57-40ff-43ee-9b71-d6dddcb80ea0",
+"title": "ARCADE JOURNEYS",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1248090",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1248090&format=mp32",
+"creator": "LukHash",
+"creator_url": "https://www.jamendo.com/artist/353807/SH_MUSIC_(lukhash)",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"dubstep",
+"electronic",
+"electronica"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "commodore",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"ARCADE JOURNEYS\" by LukHash is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Other Side",
+"foreign_landing_url": "https://www.jamendo.com/album/149468/the-other-side",
+"creator": "LukHash",
+"creator_url": "https://www.jamendo.com/artist/353807/SH_MUSIC_(lukhash)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 219000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/1cecff57-40ff-43ee-9b71-d6dddcb80ea0/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/1cecff57-40ff-43ee-9b71-d6dddcb80ea0/",
+"related_url": "https://api.openverse.org/v1/audio/1cecff57-40ff-43ee-9b71-d6dddcb80ea0/related/",
+"waveform": "https://api.openverse.org/v1/audio/1cecff57-40ff-43ee-9b71-d6dddcb80ea0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2a5819d3-e954-40e8-91eb-9f45b69b4438",
+"title": "The Lxst - PU$$Y Arcade",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1423251",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1423251&format=mp32",
+"creator": "The Lxst",
+"creator_url": "https://www.jamendo.com/artist/439166/SVYNV",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"rap",
+"rnb"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vibe",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The Lxst - PU$$Y Arcade\" by The Lxst is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "All They Want Is A Sega",
+"foreign_landing_url": "https://www.jamendo.com/album/165993/all-they-want-is-a-sega",
+"creator": "The Lxst",
+"creator_url": "https://www.jamendo.com/artist/439166/SVYNV",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 216000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/2a5819d3-e954-40e8-91eb-9f45b69b4438/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/2a5819d3-e954-40e8-91eb-9f45b69b4438/",
+"related_url": "https://api.openverse.org/v1/audio/2a5819d3-e954-40e8-91eb-9f45b69b4438/related/",
+"waveform": "https://api.openverse.org/v1/audio/2a5819d3-e954-40e8-91eb-9f45b69b4438/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0f98845d-6eaf-46ba-a644-86d87b15d5fe",
+"title": "Arcade Laser 014.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Debsound/sounds/339169",
+"url": "https://cdn.freesound.org/previews/339/339169_1490240-hq.mp3",
+"creator": "Debsound",
+"creator_url": "https://freesound.org/people/Debsound",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 34272,
+"filetype": "mp3",
+"tags": [
+{
+"name": "action",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "attack",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "beam",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "blaster",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fire",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "future",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gun",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "impulse",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "laser",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lazer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "phaser",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "photon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pistol",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "plasma",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rifle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sci-fi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ship",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shoot",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shot",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "space",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "star",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "strike",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "trek",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "video",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wars",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "weapon",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/339169/download/",
+"bit_rate": 0,
+"filesize": 788376,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Arcade Laser 014.wav\" by Debsound is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1368,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0f98845d-6eaf-46ba-a644-86d87b15d5fe/",
+"related_url": "https://api.openverse.org/v1/audio/0f98845d-6eaf-46ba-a644-86d87b15d5fe/related/",
+"waveform": "https://api.openverse.org/v1/audio/0f98845d-6eaf-46ba-a644-86d87b15d5fe/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1f47046d-308e-4445-96f6-9bd07e3cd7bb",
+"title": "Arcade Game Over",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Poligonstudio/sounds/412168",
+"url": "https://cdn.freesound.org/previews/412/412168_7383104-hq.mp3",
+"creator": "Poligonstudio",
+"creator_url": "https://freesound.org/people/Poligonstudio",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 50615,
+"filetype": "mp3",
+"tags": [
+{
+"name": "8-Bit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "8bit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Lo-fi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Lofi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Pitched",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "computer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "death",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "over",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/412168/download/",
+"bit_rate": 0,
+"filesize": 705644,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Arcade Game Over\" by Poligonstudio is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Arcade Sound FX",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/23205/",
+"creator": "Poligonstudio",
+"creator_url": "https://freesound.org/people/Poligonstudio/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 2000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1f47046d-308e-4445-96f6-9bd07e3cd7bb/",
+"related_url": "https://api.openverse.org/v1/audio/1f47046d-308e-4445-96f6-9bd07e3cd7bb/related/",
+"waveform": "https://api.openverse.org/v1/audio/1f47046d-308e-4445-96f6-9bd07e3cd7bb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7bbc5ccb-67bf-4fbf-b3c5-cabe8c2345e2",
+"title": "Arcade Game",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/staticpony1/sounds/342697",
+"url": "https://cdn.freesound.org/previews/342/342697_4508519-hq.mp3",
+"creator": "staticpony1",
+"creator_url": "https://freesound.org/people/staticpony1",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 404359,
+"filetype": "mp3",
+"tags": [
+{
+"name": "1980s",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "8",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Sounds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "analog",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "application",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chiptune",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "command",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "computer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "data",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electronic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "intelligent",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "robot",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "robotic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "space",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spaceship",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spoken",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "toy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "windows",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/342697/download/",
+"bit_rate": 0,
+"filesize": 3763244,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Arcade Game\" by staticpony1 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "FX",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/16511/",
+"creator": "staticpony1",
+"creator_url": "https://freesound.org/people/staticpony1/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 21333,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/7bbc5ccb-67bf-4fbf-b3c5-cabe8c2345e2/",
+"related_url": "https://api.openverse.org/v1/audio/7bbc5ccb-67bf-4fbf-b3c5-cabe8c2345e2/related/",
+"waveform": "https://api.openverse.org/v1/audio/7bbc5ccb-67bf-4fbf-b3c5-cabe8c2345e2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f6ebfab9-c73f-4332-bb9a-fdfda2f82d08",
+"title": "arcade gun & coins.aif",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/victormalloy/sounds/113545",
+"url": "https://cdn.freesound.org/previews/113/113545_137116-hq.mp3",
+"creator": "victormalloy",
+"creator_url": "https://freesound.org/people/victormalloy",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 194221,
+"filetype": "mp3",
+"tags": [
+{
+"name": "arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "beeps",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bleeps",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "computer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "games",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/113545/download/",
+"bit_rate": 0,
+"filesize": 1512568,
+"filetype": "aiff",
+"sample_rate": 44100
+}
+],
+"attribution": "\"arcade gun & coins.aif\" by victormalloy is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Arcade",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/7128/",
+"creator": "victormalloy",
+"creator_url": "https://freesound.org/people/victormalloy/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 8573,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f6ebfab9-c73f-4332-bb9a-fdfda2f82d08/",
+"related_url": "https://api.openverse.org/v1/audio/f6ebfab9-c73f-4332-bb9a-fdfda2f82d08/related/",
+"waveform": "https://api.openverse.org/v1/audio/f6ebfab9-c73f-4332-bb9a-fdfda2f82d08/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e08bb09c-5cee-45af-b81d-a398f6ac01c6",
+"title": "arcades (game room for kids).wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Tomlija/sounds/99561",
+"url": "https://cdn.freesound.org/previews/99/99561_1163166-hq.mp3",
+"creator": "Tomlija",
+"creator_url": "https://freesound.org/people/Tomlija",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2712733,
+"filetype": "mp3",
+"tags": [
+{
+"name": "air",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "air-hockey",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "amusement",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "arcade-cabinet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "arcade-cabinets",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "arcades",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "billiard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "buttons",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cabinet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cabinets",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "center",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "centre",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chatter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "child",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "children",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coin-operated",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "computer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "controls",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "donkey",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "donkey-kong",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foley",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "game-room",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gameplay",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gameroom",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "games",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gaming",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gaming-room",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gamingroom",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "h4n",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hardware",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hockey",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "indistinct",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "invaders",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "joystick",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kids",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kong",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "loud",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mall",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "man",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "merchandiser",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "monitor",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noisy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "operated",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pac",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pac-man",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pacman",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pinball",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pool",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "puck",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "racing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "racing-simulation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "redemption",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "room",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sfx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "simulation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "software",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "space",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "space-invaders",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sport",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sports",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "token",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "token-operated",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tomlija",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "video",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "zoom",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/99561/download/",
+"bit_rate": 0,
+"filesize": 21331342,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"arcades (game room for kids).wav\" by Tomlija is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "real?_world_recordings",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/10775/",
+"creator": "Tomlija",
+"creator_url": "https://freesound.org/people/Tomlija/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 120686,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e08bb09c-5cee-45af-b81d-a398f6ac01c6/",
+"related_url": "https://api.openverse.org/v1/audio/e08bb09c-5cee-45af-b81d-a398f6ac01c6/related/",
+"waveform": "https://api.openverse.org/v1/audio/e08bb09c-5cee-45af-b81d-a398f6ac01c6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "223a8d23-3f42-44f6-a0c5-ab4aed60b8d0",
+"title": "Arcade Change",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/HarryPeeks/sounds/242138",
+"url": "https://cdn.freesound.org/previews/242/242138_2979316-hq.mp3",
+"creator": "HarryPeeks",
+"creator_url": "https://freesound.org/people/HarryPeeks",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 504288,
+"filetype": "mp3",
+"tags": [
+{
+"name": "arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cash-register",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cashier",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "change",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coins",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foley",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "funfair",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "money",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quarter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/242138/download/",
+"bit_rate": 0,
+"filesize": 12062350,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Arcade Change\" by HarryPeeks is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 20940,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/223a8d23-3f42-44f6-a0c5-ab4aed60b8d0/",
+"related_url": "https://api.openverse.org/v1/audio/223a8d23-3f42-44f6-a0c5-ab4aed60b8d0/related/",
+"waveform": "https://api.openverse.org/v1/audio/223a8d23-3f42-44f6-a0c5-ab4aed60b8d0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3c42f95c-1462-4daf-bd60-d0b4258a5f67",
+"title": "Arcade button 1 click sound.mp3",
+"indexed_on": "2023-03-20T17:21:54.283284Z",
+"foreign_landing_url": "https://freesound.org/people/orginaljun/sounds/157871",
+"url": "https://cdn.freesound.org/previews/157/157871_2635357-hq.mp3",
+"creator": "orginaljun",
+"creator_url": "https://freesound.org/people/orginaljun",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 9759,
+"filetype": "mp3",
+"tags": [
+{
+"name": "1",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "button",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "click",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/157871/download/",
+"bit_rate": 452000,
+"filesize": 17040,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Arcade button 1 click sound.mp3\" by orginaljun is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Effects",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/22615/",
+"creator": "orginaljun",
+"creator_url": "https://freesound.org/people/orginaljun/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 301,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/3c42f95c-1462-4daf-bd60-d0b4258a5f67/",
+"related_url": "https://api.openverse.org/v1/audio/3c42f95c-1462-4daf-bd60-d0b4258a5f67/related/",
+"waveform": "https://api.openverse.org/v1/audio/3c42f95c-1462-4daf-bd60-d0b4258a5f67/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b2ebc515-33e6-491e-b2b6-b2e6350e6887",
+"title": "Arcade",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/361941",
+"url": "https://prod-1.storage.jamendo.com/?trackid=361941&format=mp32",
+"creator": "Yukikaze",
+"creator_url": "https://www.jamendo.com/artist/346227/Yukikaze_(4)",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Arcade\" by Yukikaze is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/fr/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Arcade",
+"foreign_landing_url": "https://www.jamendo.com/album/46861/arcade",
+"creator": "Yukikaze",
+"creator_url": "https://www.jamendo.com/artist/346227/Yukikaze_(4)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 203000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/b2ebc515-33e6-491e-b2b6-b2e6350e6887/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/b2ebc515-33e6-491e-b2b6-b2e6350e6887/",
+"related_url": "https://api.openverse.org/v1/audio/b2ebc515-33e6-491e-b2b6-b2e6350e6887/related/",
+"waveform": "https://api.openverse.org/v1/audio/b2ebc515-33e6-491e-b2b6-b2e6350e6887/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "88a37fa2-2fa3-4e11-9257-f44c213610c5",
+"title": "Arcade",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1191774",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1191774&format=mp32",
+"creator": "unfa",
+"creator_url": "https://www.jamendo.com/artist/378721/unfa",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"8bit",
+"drumnbass"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "liquidfunk",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Arcade\" by unfa is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Drum & Bass Payload",
+"foreign_landing_url": "https://www.jamendo.com/album/143439/drum-and-bass-payload",
+"creator": "unfa",
+"creator_url": "https://www.jamendo.com/artist/378721/unfa",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 238000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/88a37fa2-2fa3-4e11-9257-f44c213610c5/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/88a37fa2-2fa3-4e11-9257-f44c213610c5/",
+"related_url": "https://api.openverse.org/v1/audio/88a37fa2-2fa3-4e11-9257-f44c213610c5/related/",
+"waveform": "https://api.openverse.org/v1/audio/88a37fa2-2fa3-4e11-9257-f44c213610c5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d57a3204-ac92-42b2-833f-98571a48ca51",
+"title": "arcade drops",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/soramoosic/sounds/212977",
+"url": "https://cdn.freesound.org/previews/212/212977_3986112-hq.mp3",
+"creator": "soramoosic",
+"creator_url": "https://freesound.org/people/soramoosic",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 97461,
+"filetype": "mp3",
+"tags": [
+{
+"name": "8bit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chip",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drops",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "games",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pacman",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "retro",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "video-games",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "weird",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/212977/download/",
+"bit_rate": 0,
+"filesize": 1044406,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"arcade drops\" by soramoosic is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 3946,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d57a3204-ac92-42b2-833f-98571a48ca51/",
+"related_url": "https://api.openverse.org/v1/audio/d57a3204-ac92-42b2-833f-98571a48ca51/related/",
+"waveform": "https://api.openverse.org/v1/audio/d57a3204-ac92-42b2-833f-98571a48ca51/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ea6f471a-ba70-4454-9ed7-da340754796e",
+"title": "Arcade Ambience 2",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/maxstcroix/sounds/343150",
+"url": "https://cdn.freesound.org/previews/343/343150_1928753-hq.mp3",
+"creator": "maxstcroix",
+"creator_url": "https://freesound.org/people/maxstcroix",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 4242584,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Games",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Seaside",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coins",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "computer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/343150/download/",
+"bit_rate": 0,
+"filesize": 32353934,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Arcade Ambience 2\" by maxstcroix is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Arcade Ambience",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/19464/",
+"creator": "maxstcroix",
+"creator_url": "https://freesound.org/people/maxstcroix/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 183407,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ea6f471a-ba70-4454-9ed7-da340754796e/",
+"related_url": "https://api.openverse.org/v1/audio/ea6f471a-ba70-4454-9ed7-da340754796e/related/",
+"waveform": "https://api.openverse.org/v1/audio/ea6f471a-ba70-4454-9ed7-da340754796e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ed8f066b-bda2-437a-bc9d-10ca4500bb62",
+"title": "Arcade Intro",
+"indexed_on": "2025-07-03T01:17:50.306821Z",
+"foreign_landing_url": "https://freesound.org/people/tyops/sounds/276557",
+"url": "https://cdn.freesound.org/previews/276/276557_3914271-hq.mp3",
+"creator": "tyops",
+"creator_url": "https://freesound.org/people/tyops",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 435372,
+"filetype": "mp3",
+"tags": [
+{
+"name": "arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "channel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chiptune",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gaming",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "intro",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lead",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "loop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "melody",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pad",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "synth",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "theme",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "youtube",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/276557/download/",
+"bit_rate": 0,
+"filesize": 5036264,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Arcade Intro\" by tyops is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Arcade | Gaming",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/14115/",
+"creator": "tyops",
+"creator_url": "https://freesound.org/people/tyops/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 19033,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ed8f066b-bda2-437a-bc9d-10ca4500bb62/",
+"related_url": "https://api.openverse.org/v1/audio/ed8f066b-bda2-437a-bc9d-10ca4500bb62/related/",
+"waveform": "https://api.openverse.org/v1/audio/ed8f066b-bda2-437a-bc9d-10ca4500bb62/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d50f92b5-9b69-4c6b-8718-b42c98923281",
+"title": "Retro arcade video game end or completed tone",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/alanmcki/sounds/400580",
+"url": "https://cdn.freesound.org/previews/400/400580_5564376-hq.mp3",
+"creator": "alanmcki",
+"creator_url": "https://freesound.org/people/alanmcki",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 28282,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Retro",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/400580/download/",
+"bit_rate": 0,
+"filesize": 285796,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Retro arcade video game end or completed tone\" by alanmcki is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1074,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d50f92b5-9b69-4c6b-8718-b42c98923281/",
+"related_url": "https://api.openverse.org/v1/audio/d50f92b5-9b69-4c6b-8718-b42c98923281/related/",
+"waveform": "https://api.openverse.org/v1/audio/d50f92b5-9b69-4c6b-8718-b42c98923281/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "10a1b6a6-f656-41ec-aa8a-c00cf62b826d",
+"title": "arcade modus...new mix (non voice version)! sanzo",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/722297",
+"url": "https://prod-1.storage.jamendo.com/?trackid=722297&format=mp32",
+"creator": "SANZO uno Promo album: kaffee und techhouse",
+"creator_url": "https://www.jamendo.com/artist/366318/SANZO_uno_Promo_album_kaffee_und_techhouse",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"arcade modus...new mix (non voice version)! sanzo\" by SANZO uno Promo album: kaffee und techhouse is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "kaffee und techhouse",
+"foreign_landing_url": "https://www.jamendo.com/album/84307/kaffee-und-techhouse",
+"creator": "SANZO uno Promo album: kaffee und techhouse",
+"creator_url": "https://www.jamendo.com/artist/366318/SANZO_uno_Promo_album_kaffee_und_techhouse",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 350000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/10a1b6a6-f656-41ec-aa8a-c00cf62b826d/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/10a1b6a6-f656-41ec-aa8a-c00cf62b826d/",
+"related_url": "https://api.openverse.org/v1/audio/10a1b6a6-f656-41ec-aa8a-c00cf62b826d/related/",
+"waveform": "https://api.openverse.org/v1/audio/10a1b6a6-f656-41ec-aa8a-c00cf62b826d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cccbec47-7600-43e5-a774-a06755d09f9e",
+"title": "LL-Q1860 (eng)-Vealhurl-arcade",
+"indexed_on": "2024-06-16T14:41:47.335034Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=110140827",
+"url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/LL-Q1860_%28eng%29-Vealhurl-arcade.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 117548,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-arcade\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1224,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cccbec47-7600-43e5-a774-a06755d09f9e/",
+"related_url": "https://api.openverse.org/v1/audio/cccbec47-7600-43e5-a774-a06755d09f9e/related/",
+"waveform": "https://api.openverse.org/v1/audio/cccbec47-7600-43e5-a774-a06755d09f9e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "35d31f76-c669-4607-a1ac-a8ef780057dc",
+"title": "Arcade Theme #2",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/tyops/sounds/341729",
+"url": "https://cdn.freesound.org/previews/341/341729_3914271-hq.mp3",
+"creator": "tyops",
+"creator_url": "https://freesound.org/people/tyops",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2313728,
+"filetype": "mp3",
+"tags": [
+{
+"name": "adventure",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "computer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drums",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electronic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gaming",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "loop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pad",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "synth",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "theme",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "video",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "violin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "youtube",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/341729/download/",
+"bit_rate": 0,
+"filesize": 17253546,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Arcade Theme #2\" by tyops is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Arcade | Gaming",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/14115/",
+"creator": "tyops",
+"creator_url": "https://freesound.org/people/tyops/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 97800,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/35d31f76-c669-4607-a1ac-a8ef780057dc/",
+"related_url": "https://api.openverse.org/v1/audio/35d31f76-c669-4607-a1ac-a8ef780057dc/related/",
+"waveform": "https://api.openverse.org/v1/audio/35d31f76-c669-4607-a1ac-a8ef780057dc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "20b404eb-9270-4ea1-9345-1f5d5784b3fd",
+"title": "Arcade Splatter",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/plasterbrain/sounds/464909",
+"url": "https://cdn.freesound.org/previews/464/464909_4284968-hq.mp3",
+"creator": "plasterbrain",
+"creator_url": "https://freesound.org/people/plasterbrain",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 5794,
+"filetype": "mp3",
+"tags": [
+{
+"name": "8bit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cancel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chiptune",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mud",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "retro",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "splash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "splatter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "squid",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "squirt",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ui",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/464909/download/",
+"bit_rate": 0,
+"filesize": 14713,
+"filetype": "flac",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Arcade Splatter\" by plasterbrain is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Arcade",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/14944/",
+"creator": "plasterbrain",
+"creator_url": "https://freesound.org/people/plasterbrain/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 172,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/20b404eb-9270-4ea1-9345-1f5d5784b3fd/",
+"related_url": "https://api.openverse.org/v1/audio/20b404eb-9270-4ea1-9345-1f5d5784b3fd/related/",
+"waveform": "https://api.openverse.org/v1/audio/20b404eb-9270-4ea1-9345-1f5d5784b3fd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "af2b5683-a6e0-482c-a968-79cf5dd0d564",
+"title": "metal arcade loop.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/zagi2/sounds/265026",
+"url": "https://cdn.freesound.org/previews/265/265026_3162775-hq.mp3",
+"creator": "zagi2",
+"creator_url": "https://freesound.org/people/zagi2",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 316930,
+"filetype": "mp3",
+"tags": [
+{
+"name": "arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chiptune",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "clip",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "commodore",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "distortion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "entertainment",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "metal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "music",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "overdrive",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "retro",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "video-game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "zagi2",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/265026/download/",
+"bit_rate": 0,
+"filesize": 4620116,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"metal arcade loop.wav\" by zagi2 is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 13090,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/af2b5683-a6e0-482c-a968-79cf5dd0d564/",
+"related_url": "https://api.openverse.org/v1/audio/af2b5683-a6e0-482c-a968-79cf5dd0d564/related/",
+"waveform": "https://api.openverse.org/v1/audio/af2b5683-a6e0-482c-a968-79cf5dd0d564/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e359a87e-3aaa-4510-af5c-54ba18f44afc",
+"title": "stones falling in quarry binaural.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/oniwe/sounds/32871",
+"url": "https://cdn.freesound.org/previews/32/32871_193786-hq.mp3",
+"creator": "oniwe",
+"creator_url": "https://freesound.org/people/oniwe",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 766117,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "binaural",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "landslide",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quarry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rock",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rolling",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "slide",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stones",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/32871/download/",
+"bit_rate": 0,
+"filesize": 5308540,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"stones falling in quarry binaural.wav\" by oniwe is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 30093,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e359a87e-3aaa-4510-af5c-54ba18f44afc/",
+"related_url": "https://api.openverse.org/v1/audio/e359a87e-3aaa-4510-af5c-54ba18f44afc/related/",
+"waveform": "https://api.openverse.org/v1/audio/e359a87e-3aaa-4510-af5c-54ba18f44afc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0ee1d8ae-285c-4037-8738-0ecc3b8c521b",
+"title": "Quarry blasting.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/juskiddink/sounds/82682",
+"url": "https://cdn.freesound.org/previews/82/82682_649468-hq.mp3",
+"creator": "juskiddink",
+"creator_url": "https://freesound.org/people/juskiddink",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 274369,
+"filetype": "mp3",
+"tags": [
+{
+"name": "blast",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "blasting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bomb",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dynamite",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "explosion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "granite",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quarry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rock",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/82682/download/",
+"bit_rate": 0,
+"filesize": 2159012,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Quarry blasting.wav\" by juskiddink is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Quarry,Rocks and stones",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/5068/",
+"creator": "juskiddink",
+"creator_url": "https://freesound.org/people/juskiddink/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 12239,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0ee1d8ae-285c-4037-8738-0ecc3b8c521b/",
+"related_url": "https://api.openverse.org/v1/audio/0ee1d8ae-285c-4037-8738-0ecc3b8c521b/related/",
+"waveform": "https://api.openverse.org/v1/audio/0ee1d8ae-285c-4037-8738-0ecc3b8c521b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7f2491f9-1556-4769-b1af-7e2742875f4e",
+"title": "quarry-step.aif",
+"indexed_on": "2022-10-01T04:02:44.560321Z",
+"foreign_landing_url": "https://freesound.org/people/splashzooka/sounds/21786",
+"url": "https://cdn.freesound.org/previews/21/21786_63175-hq.mp3",
+"creator": "splashzooka",
+"creator_url": "https://freesound.org/people/splashzooka",
+"license": "sampling+",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/licenses/sampling+/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 168464,
+"filetype": "mp3",
+"tags": [
+{
+"name": "quarry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rocks",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "smash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stone",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/21786/download/",
+"bit_rate": 0,
+"filesize": 1133864,
+"filetype": "aiff",
+"sample_rate": 44100
+}
+],
+"attribution": "\"quarry-step.aif\" by splashzooka is licensed under CC Sampling+ 1.0. To view a copy of this license, visit https://creativecommons.org/licenses/sampling+/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Rocks Stones Shells",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/1344/",
+"creator": "splashzooka",
+"creator_url": "https://freesound.org/people/splashzooka/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 6384,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/7f2491f9-1556-4769-b1af-7e2742875f4e/",
+"related_url": "https://api.openverse.org/v1/audio/7f2491f9-1556-4769-b1af-7e2742875f4e/related/",
+"waveform": "https://api.openverse.org/v1/audio/7f2491f9-1556-4769-b1af-7e2742875f4e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "932d1a1a-b8e9-42bf-9ef6-5b8d4f897d51",
+"title": "Firm Footsteps_Rubber Sole on Quarry Tile",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/d.n.audio.uk/sounds/437150",
+"url": "https://cdn.freesound.org/previews/437/437150_147613-hq.mp3",
+"creator": "d.n.audio.uk",
+"creator_url": "https://freesound.org/people/d.n.audio.uk",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 565824,
+"filetype": "mp3",
+"tags": [
+{
+"name": "concrete",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "feet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foot",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "slow",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "steps",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tiles",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "walk",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "walking",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/437150/download/",
+"bit_rate": 0,
+"filesize": 6885278,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Firm Footsteps_Rubber Sole on Quarry Tile\" by d.n.audio.uk is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 23906,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/932d1a1a-b8e9-42bf-9ef6-5b8d4f897d51/",
+"related_url": "https://api.openverse.org/v1/audio/932d1a1a-b8e9-42bf-9ef6-5b8d4f897d51/related/",
+"waveform": "https://api.openverse.org/v1/audio/932d1a1a-b8e9-42bf-9ef6-5b8d4f897d51/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5bee047e-1a32-489c-ba23-8ae7ae0fcbe2",
+"title": "En-au-quarry",
+"indexed_on": "2022-10-09T10:21:21.604213Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=75857506",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/En-au-quarry.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 35904,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-au-quarry\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2989,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5bee047e-1a32-489c-ba23-8ae7ae0fcbe2/",
+"related_url": "https://api.openverse.org/v1/audio/5bee047e-1a32-489c-ba23-8ae7ae0fcbe2/related/",
+"waveform": "https://api.openverse.org/v1/audio/5bee047e-1a32-489c-ba23-8ae7ae0fcbe2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a2173e6b-157f-4903-a5cc-a5406e62186f",
+"title": "Quarry Tunnel Ambience 1, Large Splash",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/ecfike/sounds/476318",
+"url": "https://cdn.freesound.org/previews/476/476318_2337290-hq.mp3",
+"creator": "ecfike",
+"creator_url": "https://freesound.org/people/ecfike",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 4252377,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cave",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dark",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drip",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "droplets",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quarry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tunnel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wet",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/476318/download/",
+"bit_rate": 0,
+"filesize": 30517244,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Quarry Tunnel Ambience 1, Large Splash\" by ecfike is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Quarry",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/26908/",
+"creator": "ecfike",
+"creator_url": "https://freesound.org/people/ecfike/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 173000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a2173e6b-157f-4903-a5cc-a5406e62186f/",
+"related_url": "https://api.openverse.org/v1/audio/a2173e6b-157f-4903-a5cc-a5406e62186f/related/",
+"waveform": "https://api.openverse.org/v1/audio/a2173e6b-157f-4903-a5cc-a5406e62186f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6f05b40f-9e6d-4933-9154-c31034db10d4",
+"title": "Diamond Raw (Ragged | Charcoal | Quarry)",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1032226",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1032226&format=mp32",
+"creator": "Modus Null",
+"creator_url": "https://www.jamendo.com/artist/379099/Modus_Null",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"drone",
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "expermiental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Diamond Raw (Ragged | Charcoal | Quarry)\" by Modus Null is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Dronetextures Volume 1",
+"foreign_landing_url": "https://www.jamendo.com/album/121466/dronetextures-volume-1",
+"creator": "Modus Null",
+"creator_url": "https://www.jamendo.com/artist/379099/Modus_Null",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 475000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/6f05b40f-9e6d-4933-9154-c31034db10d4/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/6f05b40f-9e6d-4933-9154-c31034db10d4/",
+"related_url": "https://api.openverse.org/v1/audio/6f05b40f-9e6d-4933-9154-c31034db10d4/related/",
+"waveform": "https://api.openverse.org/v1/audio/6f05b40f-9e6d-4933-9154-c31034db10d4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5f15f80f-0944-4897-89ab-1bc9b60327fd",
+"title": "Train Quarry (feat. Luke Pfaff)",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1068319",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1068319&format=mp32",
+"creator": "stellarmusic",
+"creator_url": "https://www.jamendo.com/artist/434459/Jason_Pfaff",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"indie",
+"pop",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "bass",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "dreamy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "inspirational",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "soft",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Train Quarry (feat. Luke Pfaff)\" by stellarmusic is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Moon Bone",
+"foreign_landing_url": "https://www.jamendo.com/album/126275/moon-bone",
+"creator": "stellarmusic",
+"creator_url": "https://www.jamendo.com/artist/434459/Jason_Pfaff",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 162000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/5f15f80f-0944-4897-89ab-1bc9b60327fd/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/5f15f80f-0944-4897-89ab-1bc9b60327fd/",
+"related_url": "https://api.openverse.org/v1/audio/5f15f80f-0944-4897-89ab-1bc9b60327fd/related/",
+"waveform": "https://api.openverse.org/v1/audio/5f15f80f-0944-4897-89ab-1bc9b60327fd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "534c840b-57b0-4696-9e02-9558f2f828e9",
+"title": "Kivimurskaamo, kivilouhos / Quarry, crushing plant, crusher, breaker, big jaws crushing, pounding rocks",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/YleArkisto/sounds/322871",
+"url": "https://cdn.freesound.org/previews/322/322871_4415905-hq.mp3",
+"creator": "YleArkisto",
+"creator_url": "https://freesound.org/people/YleArkisto",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2999664,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Breaker",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Crush",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Crusher",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Crushing-plant",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Field-Recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Finland",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Finnish-Broadcasting-Company",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Jauhaa",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Jaws",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kivet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kivi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kivilouhos",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kivimurskaamo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Leuat",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Lonksottaa",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Murskain",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Murskata",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Pound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Quarry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Rock",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Rocks",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Soundfx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Stone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Stones",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Suomi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Tehosteet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Yle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Yleisradio",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/322871/download/",
+"bit_rate": 0,
+"filesize": 39556490,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Kivimurskaamo, kivilouhos / Quarry, crushing plant, crusher, breaker, big jaws crushing, pounding rocks\" by YleArkisto is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Ty\u00f6 Work",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/15046/",
+"creator": "YleArkisto",
+"creator_url": "https://freesound.org/people/YleArkisto/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 137349,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/534c840b-57b0-4696-9e02-9558f2f828e9/",
+"related_url": "https://api.openverse.org/v1/audio/534c840b-57b0-4696-9e02-9558f2f828e9/related/",
+"waveform": "https://api.openverse.org/v1/audio/534c840b-57b0-4696-9e02-9558f2f828e9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8e11e195-8634-4590-ad36-6d943ef6dacd",
+"title": "Quarry Tunnel Ambience 2, Loud Droplets",
+"indexed_on": "2022-10-01T04:02:44.560321Z",
+"foreign_landing_url": "https://freesound.org/people/ecfike/sounds/476317",
+"url": "https://cdn.freesound.org/previews/476/476317_2337290-hq.mp3",
+"creator": "ecfike",
+"creator_url": "https://freesound.org/people/ecfike",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 4006303,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cave",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dark",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drip",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "droplets",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quarry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tunnel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wet",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/476317/download/",
+"bit_rate": 0,
+"filesize": 28576844,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Quarry Tunnel Ambience 2, Loud Droplets\" by ecfike is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Quarry",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/26908/",
+"creator": "ecfike",
+"creator_url": "https://freesound.org/people/ecfike/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 162000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8e11e195-8634-4590-ad36-6d943ef6dacd/",
+"related_url": "https://api.openverse.org/v1/audio/8e11e195-8634-4590-ad36-6d943ef6dacd/related/",
+"waveform": "https://api.openverse.org/v1/audio/8e11e195-8634-4590-ad36-6d943ef6dacd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a46b7dfc-dbc5-4e0e-9267-3e2aa1ab951f",
+"title": "Gipple's Quarry Bridge",
+"indexed_on": "2023-08-28T22:56:26.687704Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=136533772",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Gipple%27s_Quarry_Bridge.ogg",
+"creator": "Alanasings",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Alanasings",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 850350,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Gipple's Quarry Bridge\" by Alanasings is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 72019,
+"bit_rate": 89991,
+"sample_rate": 22050,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a46b7dfc-dbc5-4e0e-9267-3e2aa1ab951f/",
+"related_url": "https://api.openverse.org/v1/audio/a46b7dfc-dbc5-4e0e-9267-3e2aa1ab951f/related/",
+"waveform": "https://api.openverse.org/v1/audio/a46b7dfc-dbc5-4e0e-9267-3e2aa1ab951f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "09f299f6-fe37-4b3d-adbb-a8ee9dc1bf7e",
+"title": "LL-Q1860 (eng)-Frzzl-Quarry Theatre at St. Luke's",
+"indexed_on": "2023-12-16T00:05:25.950748Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=142198104",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/45/LL-Q1860_%28eng%29-Frzzl-Quarry_Theatre_at_St._Luke%27s.wav",
+"creator": "Speaker: Frzzl Recorder: Frzzl",
+"creator_url": "https://lingualibre.org/wiki/Q1222843",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 203308,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Frzzl-Quarry Theatre at St. Luke's\" by Speaker: Frzzl Recorder: Frzzl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2117,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/09f299f6-fe37-4b3d-adbb-a8ee9dc1bf7e/",
+"related_url": "https://api.openverse.org/v1/audio/09f299f6-fe37-4b3d-adbb-a8ee9dc1bf7e/related/",
+"waveform": "https://api.openverse.org/v1/audio/09f299f6-fe37-4b3d-adbb-a8ee9dc1bf7e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f603a27f-8813-4819-9c0a-e6a8675e9b2e",
+"title": "LL-Q1860 (eng)-Arlo Barnes-quarry",
+"indexed_on": "2024-08-04T21:01:07.632021Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=105081664",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/LL-Q1860_%28eng%29-Arlo_Barnes-quarry.wav",
+"creator": "Speaker: Arlo Barnes Recorder: Arlo Barnes",
+"creator_url": "https://lingualibre.org/wiki/Q532035",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 83220,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Arlo Barnes-quarry\" by Speaker: Arlo Barnes Recorder: Arlo Barnes is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 943,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f603a27f-8813-4819-9c0a-e6a8675e9b2e/",
+"related_url": "https://api.openverse.org/v1/audio/f603a27f-8813-4819-9c0a-e6a8675e9b2e/related/",
+"waveform": "https://api.openverse.org/v1/audio/f603a27f-8813-4819-9c0a-e6a8675e9b2e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0f5bb3d3-f2e2-48ec-a1c3-d66e338feacd",
+"title": "small pond in the old quarry with birds and animals in the water",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Garuda1982/sounds/636759",
+"url": "https://cdn.freesound.org/previews/636/636759_2061858-hq.mp3",
+"creator": "Garuda1982",
+"creator_url": "https://freesound.org/people/Garuda1982",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 8989454,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "animals",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "forest",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pond",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quarry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "summer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/636759/download/",
+"bit_rate": 192000,
+"filesize": 9419476,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"small pond in the old quarry with birds and animals in the water\" by Garuda1982 is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 390000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0f5bb3d3-f2e2-48ec-a1c3-d66e338feacd/",
+"related_url": "https://api.openverse.org/v1/audio/0f5bb3d3-f2e2-48ec-a1c3-d66e338feacd/related/",
+"waveform": "https://api.openverse.org/v1/audio/0f5bb3d3-f2e2-48ec-a1c3-d66e338feacd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6776a0a2-ff0d-4997-84f2-7a1b0895d0b6",
+"title": "Kivimurskaamo, kivilouhos / Quarry, crushing plant, loading up macadam on a truck, lorry",
+"indexed_on": "2022-11-01T13:48:32.970278Z",
+"foreign_landing_url": "https://freesound.org/people/YleArkisto/sounds/322870",
+"url": "https://cdn.freesound.org/previews/322/322870_4415905-hq.mp3",
+"creator": "YleArkisto",
+"creator_url": "https://freesound.org/people/YleArkisto",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2221344,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Crushing-plant",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Field-Recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Finland",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Finnish-Broadcasting-Company",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kivet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kivi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kivilouhos",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kivimurskaamo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kuorma-auto",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Lastaus",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Lava",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Load-up",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Lorry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Macadam",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Quarry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Rock",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Rocks",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Sepeli",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Soundfx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Stone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Stones",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Suomi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Tehosteet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Truck",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Yle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Yleisradio",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/322870/download/",
+"bit_rate": 0,
+"filesize": 29684390,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Kivimurskaamo, kivilouhos / Quarry, crushing plant, loading up macadam on a truck, lorry\" by YleArkisto is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Ty\u00f6 Work",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/15046/",
+"creator": "YleArkisto",
+"creator_url": "https://freesound.org/people/YleArkisto/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 103071,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/6776a0a2-ff0d-4997-84f2-7a1b0895d0b6/",
+"related_url": "https://api.openverse.org/v1/audio/6776a0a2-ff0d-4997-84f2-7a1b0895d0b6/related/",
+"waveform": "https://api.openverse.org/v1/audio/6776a0a2-ff0d-4997-84f2-7a1b0895d0b6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a2e69801-de74-4ae2-8b12-400a41008260",
+"title": "Quarry Machine Hum",
+"indexed_on": "2022-07-01T08:27:09.236920Z",
+"foreign_landing_url": "https://freesound.org/people/ecfike/sounds/476311",
+"url": "https://cdn.freesound.org/previews/476/476311_2337290-hq.mp3",
+"creator": "ecfike",
+"creator_url": "https://freesound.org/people/ecfike",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 387052,
+"filetype": "mp3",
+"tags": [
+{
+"name": "drone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "equipment",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hum",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machinery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quarry",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/476311/download/",
+"bit_rate": 0,
+"filesize": 2998844,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Quarry Machine Hum\" by ecfike is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Quarry",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/26908/",
+"creator": "ecfike",
+"creator_url": "https://freesound.org/people/ecfike/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 17000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a2e69801-de74-4ae2-8b12-400a41008260/",
+"related_url": "https://api.openverse.org/v1/audio/a2e69801-de74-4ae2-8b12-400a41008260/related/",
+"waveform": "https://api.openverse.org/v1/audio/a2e69801-de74-4ae2-8b12-400a41008260/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0999a074-3232-4f57-9936-c32619ec2224",
+"title": "RMCdub09 a08 quarry jams",
+"indexed_on": "2022-05-01T07:20:02.881192Z",
+"foreign_landing_url": "https://www.jamendo.com/track/397205",
+"url": "https://prod-1.storage.jamendo.com/?trackid=397205&format=mp32",
+"creator": "RMCdub",
+"creator_url": "https://www.jamendo.com/artist/339238/RMCdub",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"dub",
+"experimental",
+"reggae"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "computer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"RMCdub09 a08 quarry jams\" by RMCdub is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "dub you cannot stop",
+"foreign_landing_url": "https://www.jamendo.com/album/49700/dub-you-cannot-stop",
+"creator": "RMCdub",
+"creator_url": "https://www.jamendo.com/artist/339238/RMCdub",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 225000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/0999a074-3232-4f57-9936-c32619ec2224/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/0999a074-3232-4f57-9936-c32619ec2224/",
+"related_url": "https://api.openverse.org/v1/audio/0999a074-3232-4f57-9936-c32619ec2224/related/",
+"waveform": "https://api.openverse.org/v1/audio/0999a074-3232-4f57-9936-c32619ec2224/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e82c974b-c297-45d9-9e3c-d94f0df322a4",
+"title": "Kivilouhos, kauhakuormaaja / Quarry, a loading shovel at work, loading up rocks on a truck, lorry, sometimes a warning signal, some talk",
+"indexed_on": "2022-11-01T13:48:32.970278Z",
+"foreign_landing_url": "https://freesound.org/people/YleArkisto/sounds/322873",
+"url": "https://cdn.freesound.org/previews/322/322873_4415905-hq.mp3",
+"creator": "YleArkisto",
+"creator_url": "https://freesound.org/people/YleArkisto",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 5116608,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Field-Recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Finland",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Finnish-Broadcasting-Company",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kauhakuormaaja",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kivet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kivi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kivilouhos",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kivimurskaamo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kuorma-auto",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Lastaus",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Lava",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Load-up",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Loading-shovel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Lorry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Quarry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Rock",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Rocks",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Soundfx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Stone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Stones",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Suomi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Tehosteet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Truck",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Yle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Yleisradio",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/322873/download/",
+"bit_rate": 0,
+"filesize": 67500326,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Kivilouhos, kauhakuormaaja / Quarry, a loading shovel at work, loading up rocks on a truck, lorry, sometimes a warning signal, some talk\" by YleArkisto is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Ty\u00f6 Work",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/15046/",
+"creator": "YleArkisto",
+"creator_url": "https://freesound.org/people/YleArkisto/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 234376,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e82c974b-c297-45d9-9e3c-d94f0df322a4/",
+"related_url": "https://api.openverse.org/v1/audio/e82c974b-c297-45d9-9e3c-d94f0df322a4/related/",
+"waveform": "https://api.openverse.org/v1/audio/e82c974b-c297-45d9-9e3c-d94f0df322a4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "56350885-8b7f-4f17-b00b-fe0892e091b3",
+"title": "Quarry Bird 3",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/ecfike/sounds/476312",
+"url": "https://cdn.freesound.org/previews/476/476312_2337290-hq.mp3",
+"creator": "ecfike",
+"creator_url": "https://freesound.org/people/ecfike",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 903665,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bird",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birdsong",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quarry",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/476312/download/",
+"bit_rate": 0,
+"filesize": 6879644,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Quarry Bird 3\" by ecfike is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Quarry",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/26908/",
+"creator": "ecfike",
+"creator_url": "https://freesound.org/people/ecfike/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 39000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/56350885-8b7f-4f17-b00b-fe0892e091b3/",
+"related_url": "https://api.openverse.org/v1/audio/56350885-8b7f-4f17-b00b-fe0892e091b3/related/",
+"waveform": "https://api.openverse.org/v1/audio/56350885-8b7f-4f17-b00b-fe0892e091b3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1b30032b-7d9d-4d42-b841-9f3a151115f9",
+"title": "Keslerson Quarry",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/audiomirage/sounds/692860",
+"url": "https://cdn.freesound.org/previews/692/692860_5187472-hq.mp3",
+"creator": "audiomirage",
+"creator_url": "https://freesound.org/people/audiomirage",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1707763,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Gothic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Podcast",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "anxious",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "audio-book",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background-sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "creepy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drama",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dramatic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gaming",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ghost",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "haunted",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "murder",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mystery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nightmare",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scary",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sinister",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spooky",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "suspense",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tension",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "terrifying",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "terror",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "thrill",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/692860/download/",
+"bit_rate": 0,
+"filesize": 12552914,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Keslerson Quarry\" by audiomirage is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 71111,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1b30032b-7d9d-4d42-b841-9f3a151115f9/",
+"related_url": "https://api.openverse.org/v1/audio/1b30032b-7d9d-4d42-b841-9f3a151115f9/related/",
+"waveform": "https://api.openverse.org/v1/audio/1b30032b-7d9d-4d42-b841-9f3a151115f9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0abfb3c9-2d9e-4e49-86f9-53f654d41ede",
+"title": "Lichen A",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/16868",
+"url": "https://prod-1.storage.jamendo.com/?trackid=16868&format=mp32",
+"creator": "Lovely Girls Are Blind",
+"creator_url": "https://www.jamendo.com/artist/2496/lgab",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sombre",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Lichen A\" by Lovely Girls Are Blind is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "D\u00e9mo",
+"foreign_landing_url": "https://www.jamendo.com/album/2399/demo",
+"creator": "Lovely Girls Are Blind",
+"creator_url": "https://www.jamendo.com/artist/2496/lgab",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 458000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/0abfb3c9-2d9e-4e49-86f9-53f654d41ede/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/0abfb3c9-2d9e-4e49-86f9-53f654d41ede/",
+"related_url": "https://api.openverse.org/v1/audio/0abfb3c9-2d9e-4e49-86f9-53f654d41ede/related/",
+"waveform": "https://api.openverse.org/v1/audio/0abfb3c9-2d9e-4e49-86f9-53f654d41ede/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5f343860-d672-4d0c-bc44-7ae8373b096b",
+"title": "21 - Lichen",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/4024",
+"url": "https://prod-1.storage.jamendo.com/?trackid=4024&format=mp32",
+"creator": "Christian DIDELOT",
+"creator_url": "https://www.jamendo.com/artist/296/christian.didelot",
+"license": "by-nc-nd",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"21 - Lichen\" by Christian DIDELOT is licensed under CC BY-NC-ND 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.5/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "1'30 Project",
+"foreign_landing_url": "https://www.jamendo.com/album/632/1-30-project",
+"creator": "Christian DIDELOT",
+"creator_url": "https://www.jamendo.com/artist/296/christian.didelot",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 90000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/5f343860-d672-4d0c-bc44-7ae8373b096b/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/5f343860-d672-4d0c-bc44-7ae8373b096b/",
+"related_url": "https://api.openverse.org/v1/audio/5f343860-d672-4d0c-bc44-7ae8373b096b/related/",
+"waveform": "https://api.openverse.org/v1/audio/5f343860-d672-4d0c-bc44-7ae8373b096b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b6e0a959-534f-43a7-a994-dc1fb35d27ed",
+"title": "LL-Q150 (fra)-J\u959e\u9599y-G\u9ef1ther-Heinz J\u92d2nick-lichen",
+"indexed_on": "2023-11-09T00:10:38.246616Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=140406435",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/04/LL-Q150_%28fra%29-J%C3%A9r%C3%A9my-G%C3%BCnther-Heinz_J%C3%A4hnick-lichen.wav",
+"creator": "Speaker: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick Recorder: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick",
+"creator_url": "https://lingualibre.org/wiki/Q1094311",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 93996,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick-lichen\" by Speaker: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick Recorder: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 978,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b6e0a959-534f-43a7-a994-dc1fb35d27ed/",
+"related_url": "https://api.openverse.org/v1/audio/b6e0a959-534f-43a7-a994-dc1fb35d27ed/related/",
+"waveform": "https://api.openverse.org/v1/audio/b6e0a959-534f-43a7-a994-dc1fb35d27ed/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "03343307-fece-4c66-866f-09bfcfc50fef",
+"title": "LL-Q150 (fra)-DSwissK-lichen",
+"indexed_on": "2023-02-12T13:37:25.491299Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=76725316",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/LL-Q150_%28fra%29-DSwissK-lichen.wav",
+"creator": "Speaker: DSwissK Recorder: DSwissK",
+"creator_url": "https://lingualibre.org/wiki/Q88891",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-DSwissK-lichen\" by Speaker: DSwissK Recorder: DSwissK is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/03343307-fece-4c66-866f-09bfcfc50fef/",
+"related_url": "https://api.openverse.org/v1/audio/03343307-fece-4c66-866f-09bfcfc50fef/related/",
+"waveform": "https://api.openverse.org/v1/audio/03343307-fece-4c66-866f-09bfcfc50fef/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e5c7bf60-0fd4-4286-8296-71a37446948d",
+"title": "LL-Q188 (deu)-Frank C. M\u9eeeler--lichenes",
+"indexed_on": "2023-02-05T12:25:34.783078Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=78940707",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/da/LL-Q188_%28deu%29-Frank_C._M%C3%BCller--lichenes.wav",
+"creator": "Speaker: Frank C. M\u00fcller Recorder: Frank C. M\u00fcller",
+"creator_url": "https://lingualibre.org/wiki/Q124783",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 166700,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q188 (deu)-Frank C. M\u00fcller--lichenes\" by Speaker: Frank C. M\u00fcller Recorder: Frank C. M\u00fcller is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1736,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e5c7bf60-0fd4-4286-8296-71a37446948d/",
+"related_url": "https://api.openverse.org/v1/audio/e5c7bf60-0fd4-4286-8296-71a37446948d/related/",
+"waveform": "https://api.openverse.org/v1/audio/e5c7bf60-0fd4-4286-8296-71a37446948d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7c42a1c6-e09e-4992-a807-5f45e7073d0a",
+"title": "LL-Q150 (fra)-ClasseNoes-lichen",
+"indexed_on": "2022-11-13T13:17:20.172096Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=99669432",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/LL-Q150_%28fra%29-ClasseNoes-lichen.wav",
+"creator": "Speaker: ClasseNoes Recorder: ClasseNoes",
+"creator_url": "https://lingualibre.org/wiki/Q379871",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-ClasseNoes-lichen\" by Speaker: ClasseNoes Recorder: ClasseNoes is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/7c42a1c6-e09e-4992-a807-5f45e7073d0a/",
+"related_url": "https://api.openverse.org/v1/audio/7c42a1c6-e09e-4992-a807-5f45e7073d0a/related/",
+"waveform": "https://api.openverse.org/v1/audio/7c42a1c6-e09e-4992-a807-5f45e7073d0a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fc049afe-b559-4caa-98f2-ca617e8ba712",
+"title": "LL-Q150 (fra)-Poslovitch-lichen",
+"indexed_on": "2023-06-11T15:53:14.447729Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=88128791",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/50/LL-Q150_%28fra%29-Poslovitch-lichen.wav",
+"creator": "Speaker: Poslovitch Recorder: Poslovitch",
+"creator_url": "https://lingualibre.org/wiki/Q142683",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 107796,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Poslovitch-lichen\" by Speaker: Poslovitch Recorder: Poslovitch is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1221,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/fc049afe-b559-4caa-98f2-ca617e8ba712/",
+"related_url": "https://api.openverse.org/v1/audio/fc049afe-b559-4caa-98f2-ca617e8ba712/related/",
+"waveform": "https://api.openverse.org/v1/audio/fc049afe-b559-4caa-98f2-ca617e8ba712/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bb8f7474-842b-4411-ab92-a4e1ae61f145",
+"title": "LL-Q150 (fra)-Lyoko\u041e-vert lichen",
+"indexed_on": "2022-12-04T15:06:38.283058Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=75022518",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/LL-Q150_%28fra%29-Lyoko%C3%AF-vert_lichen.wav",
+"creator": "Speaker: Lyoko\u00ef Recorder: Lyoko\u00ef",
+"creator_url": "https://lingualibre.org/wiki/Q933",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 132372,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Lyoko\u00ef-vert lichen\" by Speaker: Lyoko\u00ef Recorder: Lyoko\u00ef is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1500,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/bb8f7474-842b-4411-ab92-a4e1ae61f145/",
+"related_url": "https://api.openverse.org/v1/audio/bb8f7474-842b-4411-ab92-a4e1ae61f145/related/",
+"waveform": "https://api.openverse.org/v1/audio/bb8f7474-842b-4411-ab92-a4e1ae61f145/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0fa160a2-ecb6-47b9-be5e-e24b4b000676",
+"title": "Lichens on the Lich Gate",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/377274",
+"url": "https://prod-1.storage.jamendo.com/?trackid=377274&format=mp32",
+"creator": "CONFUSION IS NEXT",
+"creator_url": "https://www.jamendo.com/artist/8364/confusion.is.next",
+"license": "by-nc-nd",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.5/it/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Lichens on the Lich Gate\" by CONFUSION IS NEXT is licensed under CC BY-NC-ND 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.5/it/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Generation Of This Order",
+"foreign_landing_url": "https://www.jamendo.com/album/48095/the-generation-of-this-order",
+"creator": "CONFUSION IS NEXT",
+"creator_url": "https://www.jamendo.com/artist/8364/confusion.is.next",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 455000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/0fa160a2-ecb6-47b9-be5e-e24b4b000676/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/0fa160a2-ecb6-47b9-be5e-e24b4b000676/",
+"related_url": "https://api.openverse.org/v1/audio/0fa160a2-ecb6-47b9-be5e-e24b4b000676/related/",
+"waveform": "https://api.openverse.org/v1/audio/0fa160a2-ecb6-47b9-be5e-e24b4b000676/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "072e560d-4993-47e6-be41-631b410337f8",
+"title": "Alaska Lichen",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1457289",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1457289&format=mp32",
+"creator": "Alexander Stein",
+"creator_url": "https://www.jamendo.com/artist/432966/Alexander_Stein",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore",
+"symphonic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "woodwinds",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Alaska Lichen\" by Alexander Stein is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Cinematic Silent Landscapes",
+"foreign_landing_url": "https://www.jamendo.com/album/169168/cinematic-silent-landscapes",
+"creator": "Alexander Stein",
+"creator_url": "https://www.jamendo.com/artist/432966/Alexander_Stein",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 142000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/072e560d-4993-47e6-be41-631b410337f8/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/072e560d-4993-47e6-be41-631b410337f8/",
+"related_url": "https://api.openverse.org/v1/audio/072e560d-4993-47e6-be41-631b410337f8/related/",
+"waveform": "https://api.openverse.org/v1/audio/072e560d-4993-47e6-be41-631b410337f8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bd1a7372-76b8-4d33-b9fb-7ca6ddb9d871",
+"title": "Abyss-Walls Of Lichen",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/968547",
+"url": "https://prod-1.storage.jamendo.com/?trackid=968547&format=mp32",
+"creator": "[AEWM] P.",
+"creator_url": "https://www.jamendo.com/artist/425395/AEWM_P.",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Abyss-Walls Of Lichen\" by [AEWM] P. is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/fr/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "At The Gates Of Consciousness",
+"foreign_landing_url": "https://www.jamendo.com/album/114265/at-the-gates-of-consciousness",
+"creator": "[AEWM] P.",
+"creator_url": "https://www.jamendo.com/artist/425395/AEWM_P.",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 232000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/bd1a7372-76b8-4d33-b9fb-7ca6ddb9d871/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/bd1a7372-76b8-4d33-b9fb-7ca6ddb9d871/",
+"related_url": "https://api.openverse.org/v1/audio/bd1a7372-76b8-4d33-b9fb-7ca6ddb9d871/related/",
+"waveform": "https://api.openverse.org/v1/audio/bd1a7372-76b8-4d33-b9fb-7ca6ddb9d871/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "094c523f-5ba7-49da-84cf-27af849d22d6",
+"title": "Lichen",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1424326",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1424326&format=mp32",
+"creator": "Yedvedev",
+"creator_url": "https://www.jamendo.com/artist/497493/Yedvedev",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"dance",
+"electronic",
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "mushrooms",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Lichen\" by Yedvedev is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Microcosm",
+"foreign_landing_url": "https://www.jamendo.com/album/166109/microcosm",
+"creator": "Yedvedev",
+"creator_url": "https://www.jamendo.com/artist/497493/Yedvedev",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 188000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/094c523f-5ba7-49da-84cf-27af849d22d6/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/094c523f-5ba7-49da-84cf-27af849d22d6/",
+"related_url": "https://api.openverse.org/v1/audio/094c523f-5ba7-49da-84cf-27af849d22d6/related/",
+"waveform": "https://api.openverse.org/v1/audio/094c523f-5ba7-49da-84cf-27af849d22d6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7d89c2aa-e350-4a19-9310-5a0d095cf483",
+"title": "Nl-lichen",
+"indexed_on": "2025-03-12T00:11:45.368583Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=161743336",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Nl-lichen.ogg",
+"creator": "Marcel coenders",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Marcel_coenders",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 14844,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-lichen\" by Marcel coenders is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1300,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/7d89c2aa-e350-4a19-9310-5a0d095cf483/",
+"related_url": "https://api.openverse.org/v1/audio/7d89c2aa-e350-4a19-9310-5a0d095cf483/related/",
+"waveform": "https://api.openverse.org/v1/audio/7d89c2aa-e350-4a19-9310-5a0d095cf483/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d4ed5e87-7640-4a5a-834d-a3e5316b488b",
+"title": "Village Consort (ISRC USUAN1700007)",
+"indexed_on": "2022-11-27T18:16:26.062459Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=64730894",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Village_Consort_%28ISRC_USUAN1700007%29.mp3",
+"creator": "Kevin MacLeod",
+"creator_url": null,
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 6876000,
+"filetype": "mp3",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Village Consort (ISRC USUAN1700007)\" by Kevin MacLeod is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 214804,
+"bit_rate": 256000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d4ed5e87-7640-4a5a-834d-a3e5316b488b/",
+"related_url": "https://api.openverse.org/v1/audio/d4ed5e87-7640-4a5a-834d-a3e5316b488b/related/",
+"waveform": "https://api.openverse.org/v1/audio/d4ed5e87-7640-4a5a-834d-a3e5316b488b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0bef2ee0-1be8-496f-a031-a5c732819cd4",
+"title": "R. N. Laogas de Santo Andr\u5db1Paulo Talks About Lichens_MestreAndr\u5db1Sonotomia.wav",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/Sonotomia/sounds/570885",
+"url": "https://cdn.freesound.org/previews/570/570885_12425327-hq.mp3",
+"creator": "Sonotomia",
+"creator_url": "https://freesound.org/people/Sonotomia",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1358976,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Natural-Park",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Creative-Europe",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Lichens",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Portugal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundscapes",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Creative-Commons",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Sonotomia",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Conservation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "residency",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Lagoon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Biologist",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Alentejo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Talk",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/570885/download/",
+"bit_rate": 0,
+"filesize": 15742906,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"R. N. Laogas de Santo Andr\u00e9_Paulo Talks About Lichens_MestreAndr\u00e9_Sonotomia.wav\" by Sonotomia is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "SONOTOMIA Sound Library",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/32037/",
+"creator": "Sonotomia",
+"creator_url": "https://freesound.org/people/Sonotomia/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 54657,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0bef2ee0-1be8-496f-a031-a5c732819cd4/",
+"related_url": "https://api.openverse.org/v1/audio/0bef2ee0-1be8-496f-a031-a5c732819cd4/related/",
+"waveform": "https://api.openverse.org/v1/audio/0bef2ee0-1be8-496f-a031-a5c732819cd4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "19b5e53a-3caf-4e0d-a282-5e0a6e130bab",
+"title": "Anabacerthia ruficaudata - Rufous-tailed Foliage-gleaner XC249949",
+"indexed_on": "2024-02-18T12:54:50.488938Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=100140132",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Anabacerthia_ruficaudata_-_Rufous-tailed_Foliage-gleaner_XC249949.mp3",
+"creator": "Niels Krabbe",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 129478,
+"filetype": "mp3",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Anabacerthia ruficaudata - Rufous-tailed Foliage-gleaner XC249949\" by Niels Krabbe is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 7836,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/19b5e53a-3caf-4e0d-a282-5e0a6e130bab/",
+"related_url": "https://api.openverse.org/v1/audio/19b5e53a-3caf-4e0d-a282-5e0a6e130bab/related/",
+"waveform": "https://api.openverse.org/v1/audio/19b5e53a-3caf-4e0d-a282-5e0a6e130bab/waveform/",
+"unstable__sensitivity": []
 }
 ]

@@ -4942,5 +4942,29 @@
    ]
   ],
   "mined_at": "2026-11-05T07:07:55Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "gnetmodr.lst.gmi",
+  "url": "https://portal.mozz.us/gemini/gem.snork.ca/textfiles.com/bbs/FIDONET/gnetmodr.lst.gmi",
+  "gemini": "gemini://gem.snork.ca/textfiles.com/bbs/FIDONET/gnetmodr.lst.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 3038,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gem.snork.ca",
+  "preview": "Moderator Listing                       As Of April 1, 1992\r\nConference                              Moderator\r\n---------------------------------------------------------------------\r\n-C-                                     Gary Homan (Forgotten Realms)\r\nAdults                                  Lon Martz (The Byte Me! BBS)\r\nAmiga\r\nANSI ART\r\nArchivers\r\nAssembly\r\nBASIC                                   Lon Martz (The Byte Me! BBS)\r\nBatch Files\r\nBBS Ads                                 Michael Nelson (Connections!)\r\nBBSing                                 *Michael Nelson (Connections!)\r\nCollege Life                           *Scott Boerke (The Mystic Realms)\r\nComics                                  Lon Martz (The Byte Me! BBS)\r\nCommunications                         *Michael Nelson (Connections!)\r\nConsultants\r\nDebates                                *Michael Nelson (Connections!)\r\nDoors\r\nDOS\r\nDr. Who                                *Michael Nelson (Connections!)\r\nDSZ\r\nDTPs\r\nFLAMES!                                 Lon Martz (The Byte Me! BBS)\r\nGames\r\nGENIUSnet Admin                         Darryl Basner (The Vampyre Bar!)\r\nGENIUSnet Chat                          Pab Sungenis (The Vampyre Bar",
+  "query": "gemini search \"mysticism\"",
+  "kw": "mysticism",
+  "extra": "capsule: gem.snork.ca \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gem.snork.ca/textfiles.com/bbs/FIDONET/gnetmodr.lst.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-05T17:39:04Z"
  }
 ]

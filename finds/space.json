@@ -3798,5 +3798,43 @@
   "extra": "center JPL \u00b7 nasa_id PIA17566 \u00b7 keywords NuSTAR",
   "module": "space",
   "mined_at": "2026-11-05T07:05:29Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "Morphology of Our Galaxy Twin",
+  "date": "2004-06-28",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA06322/PIA06322~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/PIA06322/PIA06322~thumb.jpg",
+  "preview": "NASA's Spitzer Space Telescope has captured these infrared images of a nearby spiral galaxy that resembles our own Milky Way. The targeted galaxy, known as NGC 7331 and sometimes referred to as our galaxy's twin, is found in the constellation Pegasus at a distance of 50 million light-years. This inclined galaxy was discovered in 1784 by William Herschel, who also discovered infrared light.  The evolution of this galaxy is a story that depends significantly on the amount and distribution of gas a",
+  "url": "https://images.nasa.gov/details/PIA06322",
+  "query": "images-api.nasa.gov q=\"Very Large Array\"",
+  "extra": "center JPL \u00b7 nasa_id PIA06322 \u00b7 keywords NGC 7331, Spitzer Space Telescope",
+  "module": "space",
+  "mined_at": "2026-11-05T17:36:23Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "NASA's Fermi Telescope Resolves Radio Galaxy Centaurus A",
+  "date": "2017-12-08",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002087/GSFC_20171208_Archive_e002087~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e002087/GSFC_20171208_Archive_e002087~thumb.jpg",
+  "preview": "NASA release April 1, 2010  Fermi's Large Area Telescope resolved high-energy gamma rays from an extended region around the active galaxy Centaurus A. The emission corresponds to million-light-year-wide radio-emitting gas thrown out by the galaxy's supersized black hole. This inset shows an optical/gamma-ray composite of the galaxy and its location on the Fermi one-year sky map.   Credit: NASA/DOE/Fermi LAT Collaboration, Capella Observatory  To learn more about these images go to: <a href=\"http",
+  "url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e002087",
+  "query": "images-api.nasa.gov q=\"radio telescope\"",
+  "extra": "center GSFC \u00b7 nasa_id GSFC_20171208_Archive_e002087 \u00b7 keywords NASA's Fermi Telescope Resolves Radio Galaxy Centaurus A, space, nasa, goddard, gammarays, gsfc",
+  "module": "space",
+  "mined_at": "2026-11-05T17:36:23Z"
  }
 ]
