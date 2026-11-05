@@ -3627,5 +3627,43 @@
   "extra": "center JPL \u00b7 nasa_id PIA10204 \u00b7 keywords NGC 4258, Spitzer Space Telescope",
   "module": "space",
   "mined_at": "2026-11-04T17:24:40Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "ARC-2007-ACD07-0152-012",
+  "date": "2007-08-12",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/ARC-2007-ACD07-0152-012/ARC-2007-ACD07-0152-012~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/ARC-2007-ACD07-0152-012/ARC-2007-ACD07-0152-012~thumb.jpg",
+  "preview": "Perseid Meteor flight on Google's Gulfstream Aircraft. P.I. Peter Jenniskens, SETI Group with J Houston-Jones, Meteor Society CA",
+  "url": "https://images.nasa.gov/details/ARC-2007-ACD07-0152-012",
+  "query": "images-api.nasa.gov q=\"SETI\"",
+  "extra": "center ARC \u00b7 nasa_id ARC-2007-ACD07-0152-012 \u00b7 keywords Perseid Meteor flight, Peter Jeniskens, SETI Group",
+  "module": "space",
+  "mined_at": "2026-11-04T23:49:49Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "ARC-2009-ACD09-0108-023",
+  "date": "2009-02-08",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0108-023/ARC-2009-ACD09-0108-023~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0108-023/ARC-2009-ACD09-0108-023~thumb.jpg",
+  "preview": "An SUV-sized Asteroid 2008TC# Impacts on October 7, 2008 in the Nubian Desert, Northern Sudan: Dr. Peter Jenniskens, NASA/SETI joined Muawia Shaddas of the University of Khartoum in leading an expedition on a search for samples.  (meteorite 3rd-bigone)  Photo Credit: NASA/SETI/P. Jenniskens",
+  "url": "https://images.nasa.gov/details/ARC-2009-ACD09-0108-023",
+  "query": "images-api.nasa.gov q=\"SETI\"",
+  "extra": "center ARC \u00b7 nasa_id ARC-2009-ACD09-0108-023 \u00b7 keywords Asteroid",
+  "module": "space",
+  "mined_at": "2026-11-04T23:49:49Z"
  }
 ]

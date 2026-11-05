@@ -4774,5 +4774,77 @@
    ]
   ],
   "mined_at": "2026-11-04T17:28:15Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Mordred",
+  "url": "https://portal.mozz.us/gemini/samunder12.srht.site/characters/mordred.gmi",
+  "gemini": "gemini://samunder12.srht.site/characters/mordred.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 684,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "samunder12.srht.site",
+  "preview": "# Mordred\r\n=> https://cdn.myanimelist.net/images/characters/9/333073.jpg [Image] View Mordred Portrait\r\n\r\n## Statistics\r\n* MyAnimeList Favorites: 2,411\r\n\r\n## Character Lore & About\r\nServant of Shishigou Kairi as part of the Red Faction in the Turifas Holy Grail War of Fate/Apocrypha.\r\n\r\nSaber's identity is Mordred, the \"son\" of King Arthur, but she is actually female despite being raised as the secret male heir to the throne. She was told to hide her status and obey the king.\r\n\r\nIn the Fate/stay night anime, Mordred did appear in one of Saber's flashbacks.\r\n\r\n(Source: Type-Moon Wiki)\r\n\r\n## Source\r\n=> https://myanimelist.net/character/55977/Mordred Original Page on MyAnimeList",
+  "query": "gemini search \"apocrypha\"",
+  "kw": "apocrypha",
+  "extra": "capsule: samunder12.srht.site \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://samunder12.srht.site/characters/mordred.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-04T23:54:21Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Programming Leftovers",
+  "url": "https://portal.mozz.us/gemini/gemini.tuxmachines.org/n/2023/03/14/Programming_Leftovers.2.gmi",
+  "gemini": "gemini://gemini.tuxmachines.org/n/2023/03/14/Programming_Leftovers.2.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 3408,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gemini.tuxmachines.org",
+  "preview": "Tux Machines\n\n# Programming Leftovers\n\nPosted by Roy Schestowitz on Mar 14, 2023\n\n=>\t/n/2023/03/14/Open_Hardware_and_Linux_Friendly_Devices.gmi\tOpen Hardware and Linux-Friendly Devices\n=>\t/n/2023/03/14/Proprietary_Leftovers.gmi\tProprietary Leftovers\n\n\n### Game of Trees 0.86 released\n\n=>\thttps://undeadly.org/cgi?action=article;sid=20230313064231\t\u21ba Game of Trees 0.86 released\n\n> Version 0.86 of Game of Trees has been released (and the port updated): [...]\n\n \n### Notes on optimizing an O(n)+C algorithm where the C matters quite a bit\n\n=>\thttps://boston.conman.org/2023/03/13.2\t\u21ba Notes on optimizing an O(n)+C algorithm where the C matters quite a bit\n\n> I was doing a bit of retro computing over the weekend, writing 6809 code and running it on a Color Computer emulator (because the Color Computer was my first computer and the 6809 is a criminially underrated 8-bit CPU in my opinion). Part of the coding was enabling all 64K of RAM in the machine. Normally, the Color Computer only sees the lower 32K of RAM, with the upper 32K being ROM (the BASIC interpreter). To enable all 64K of RAM, all that's needed is to stuff any value into memory location $FFDF, which can be done with \u201cPOKE &HFFDF,0",
+  "query": "gemini search \"esoteric\"",
+  "kw": "esoteric",
+  "extra": "capsule: gemini.tuxmachines.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gemini.tuxmachines.org/n/2023/03/14/Programming_Leftovers.2.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-04T23:54:21Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Shiryuu Dragon",
+  "url": "https://portal.mozz.us/gemini/samunder12.srht.site/characters/shiryuu_dragon.gmi",
+  "gemini": "gemini://samunder12.srht.site/characters/shiryuu_dragon.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 1412,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "samunder12.srht.site",
+  "preview": "# Shiryuu Dragon\r\n=> https://cdn.myanimelist.net/images/characters/9/73690.jpg [Image] View Shiryuu Dragon Portrait\r\n\r\n## Statistics\r\n* MyAnimeList Favorites: 643\r\n\r\n## Character Lore & About\r\nAge: 14 (Saint Seiya) / 39 (Saint Seiya Omega)\r\nClass: Saints\r\nBirthday: October 4\r\nRank: Bronze Saints (Saint Seiya) / Gold Saints (Saint Seiya Omega)\r\nCloth: Dragon Cloth / Libra Cloth\r\nHeight: 172cm\r\nWeight: 53kg\r\nBlood type: A\r\n\r\nOut of all five main characters, Shiryuu is known as the calmest and most collected. His sheer physical strength is the greatest of the bronze saints, with perhaps the exception of Phoenix Ikki.This is reflected in his ability to have won numerous battles without his Dragon cloth. Shiryuu trained at the Five Old Peaks in China to obtain the bronze cloth of the Dragon constellation, and his mentor was none other than senior gold saint, Libra Dohko. \r\n\r\nShiryuu sports a large tattoo-like image of a green and white dragon on his back (however it is said in the manga and the anime that it is not a tattoo but is connected to his guardian dragon star and only appears as his cosmo is rising). Whenever his life is in danger, the tattoo-like image begins to fade away\u2014once",
+  "query": "gemini search \"saint\"",
+  "kw": "saint",
+  "extra": "capsule: samunder12.srht.site \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://samunder12.srht.site/characters/shiryuu_dragon.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-04T23:54:21Z"
  }
 ]

@@ -658,5 +658,25 @@
 "inventor": "Werner Messinger",
 "module": "dead",
 "mined_at": "2026-10-30T22:50:55Z"
+},
+{
+"source": "Google Patents",
+"title": "Controlling synchro test block for opto-electronic portable planchette",
+"date": "1988-12-31",
+"dateLabel": "published",
+"count": null,
+"countLabel": "",
+"kind": "meta",
+"mime": "patent/text",
+"thumb": "",
+"src": "",
+"preview": "",
+"url": "https://patents.google.com/patent/YU212486A/en",
+"query": "google patents q=\"planchette\" before 2000",
+"extra": "patent YU212486A \u00b7 inventor Neskovic Vladimir",
+"patent_number": "YU212486A",
+"inventor": "Neskovic Vladimir",
+"module": "dead",
+"mined_at": "2026-11-04T23:54:39Z"
 }
 ]

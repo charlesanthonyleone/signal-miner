@@ -32282,5 +32282,789 @@
 ]
 ],
 "mined_at": "2026-11-04T17:26:34Z"
+},
+{
+"source": "Open Directory",
+"title": "favicon.ico",
+"date": "2016-05-28 15:45",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "43",
+"ftype": "other",
+"host": "online-lloydsbankprivatebanking.secure.lovesakura.com",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://online-lloydsbankprivatebanking.secure.lovesakura.com/favicon.ico",
+"mime": "other/*",
+"query": "urlscan 'Index of' sighting \u2192 https://online-lloydsbankprivatebanking.secure.lovesakura.com/",
+"kw": "",
+"preview": "other \uff77 43 \uff77 2016-05-28 15:45 \uff77 in https://online-lloydsbankprivatebanking.secure.lovesakura.com/",
+"extra": "host: online-lloydsbankprivatebanking.secure.lovesakura.com \u00b7 dir: https://online-lloydsbankprivatebanking.secure.lovesakura.com/",
+"links": [
+[
+"parent dir \u2197",
+"https://online-lloydsbankprivatebanking.secure.lovesakura.com/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl-2.6.1-relnotes.txt",
+"date": "2017-09-26 06:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.6K",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl-2.6.1-relnotes.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 2.6K \uff77 2017-09-26 06:17 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl-2.2.6.tar.gz.asc",
+"date": "2016-01-28 23:25",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "819",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl-2.2.6.tar.gz.asc",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 819 \uff77 2016-01-28 23:25 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl-2.9.1.tar.gz",
+"date": "2019-04-13 20:47",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "3.4M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl-2.9.1.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 3.4M \uff77 2019-04-13 20:47 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "song60d.mp3",
+"date": "2016-07-26 16:38",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "12M",
+"ftype": "audio",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/song60d.mp3",
+"mime": "audio/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "audio \uff77 12M \uff77 2016-07-26 16:38 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl-2.5.0.tar.gz.asc",
+"date": "2016-09-27 21:25",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "801",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl-2.5.0.tar.gz.asc",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 801 \uff77 2016-09-27 21:25 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "song49.mp3",
+"date": "2011-03-15 18:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "6.8M",
+"ftype": "audio",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/song49.mp3",
+"mime": "audio/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "audio \uff77 6.8M \uff77 2011-03-15 18:17 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "openbgpd-7.3.tar.gz",
+"date": "2022-04-13 17:56",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "727K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-7.3.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 727K \uff77 2022-04-13 17:56 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl-4.1.2-relnotes.txt",
+"date": "2025-10-30 13:29",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "646",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl-4.1.2-relnotes.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 646 \uff77 2025-10-30 13:29 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "song43.ogg",
+"date": "2008-04-10 20:25",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "6.5M",
+"ftype": "audio",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/song43.ogg",
+"mime": "audio/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "audio \uff77 6.5M \uff77 2008-04-10 20:25 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl-2.1.7.tar.gz",
+"date": "2015-06-11 18:18",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.7M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl-2.1.7.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 2.7M \uff77 2015-06-11 18:18 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "songty.ogg",
+"date": "2006-10-03 19:30",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "5.8M",
+"ftype": "audio",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/songty.ogg",
+"mime": "audio/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "audio \uff77 5.8M \uff77 2006-10-03 19:30 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl-2.0.1.tar.gz",
+"date": "2014-07-13 13:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.5M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl-2.0.1.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 2.5M \uff77 2014-07-13 13:00 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "song34.ogg",
+"date": "2003-09-30 08:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "4.8M",
+"ftype": "audio",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/song34.ogg",
+"mime": "audio/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "audio \uff77 4.8M \uff77 2003-09-30 08:00 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl-2.2.8-windows.zip",
+"date": "2016-05-30 18:03",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "5.6M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl-2.2.8-windows.zip",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 5.6M \uff77 2016-05-30 18:03 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl-2.7.5-relnotes.txt",
+"date": "2018-12-15 18:34",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "850",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl-2.7.5-relnotes.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 850 \uff77 2018-12-15 18:34 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl-2.3.0-relnotes.txt",
+"date": "2015-09-23 21:43",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.7K",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl-2.3.0-relnotes.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 2.7K \uff77 2015-09-23 21:43 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl-3.5.2.tar.gz.asc",
+"date": "2022-04-23 23:37",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "833",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl-3.5.2.tar.gz.asc",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 833 \uff77 2022-04-23 23:37 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "song30.ogg",
+"date": "2002-04-17 08:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.5M",
+"ftype": "audio",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/song30.ogg",
+"mime": "audio/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "audio \uff77 2.5M \uff77 2002-04-17 08:00 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl-3.1.0-relnotes.txt",
+"date": "2020-04-06 22:46",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.4K",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl-3.1.0-relnotes.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 1.4K \uff77 2020-04-06 22:46 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl-2.2.7.tar.gz",
+"date": "2016-05-03 09:44",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.8M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl-2.2.7.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 2.8M \uff77 2016-05-03 09:44 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl-3.0.0-relnotes.txt",
+"date": "2019-08-01 13:48",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.3K",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl-3.0.0-relnotes.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 1.3K \uff77 2019-08-01 13:48 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "openbgpd-4.6.tgz",
+"date": "2009-11-11 14:43",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "164K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-4.6.tgz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 164K \uff77 2009-11-11 14:43 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "song36.mp3",
+"date": "2004-09-28 21:02",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "7.3M",
+"ftype": "audio",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/song36.mp3",
+"mime": "audio/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "audio \uff77 7.3M \uff77 2004-09-28 21:02 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/songs/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl-3.2.1.tar.gz",
+"date": "2020-08-24 20:16",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "3.6M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl-3.2.1.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 3.6M \uff77 2020-08-24 20:16 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl-3.7.3-relnotes.txt",
+"date": "2023-05-27 08:48",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "604",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl-3.7.3-relnotes.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 604 \uff77 2023-05-27 08:48 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl.asc",
+"date": "2026-10-22 20:20",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "18K",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl.asc",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 18K \uff77 2026-10-22 20:20 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
+},
+{
+"source": "Open Directory",
+"title": "libressl-2.0.2.tar.gz",
+"date": "2014-07-16 05:30",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.6M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/libressl-2.0.2.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 2.6M \uff77 2014-07-16 05:30 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/LibreSSL/"
+]
+],
+"mined_at": "2026-11-04T23:51:47Z"
 }
 ]

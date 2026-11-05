@@ -14602,5 +14602,25 @@
 ]
 ],
 "mined_at": "2026-11-03T17:25:46Z"
+},
+{
+"source": "Open Directory (index)",
+"title": "warriors-700-se2-VBR.mpg",
+"date": "2005-06-07",
+"dateLabel": "modified",
+"count": null,
+"countLabel": "",
+"size": "78M",
+"ftype": "video/mpg",
+"host": "ftp.sunet.se",
+"gated": true,
+"thumb": "",
+"kind": "link",
+"src": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/warriors/warriors-700-se2-VBR.mpg",
+"url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/warriors/warriors-700-se2-VBR.mpg",
+"query": "open-directory index (odbig) video extensions",
+"preview": "warriors-700-se2-VBR.mpg \uff77 78M \uff77 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/warriors/",
+"extra": "open directory on ftp.sunet.se",
+"mined_at": "2026-11-04T23:54:26Z"
 }
 ]

@@ -28348,5 +28348,6879 @@
 "related_url": "https://api.openverse.org/v1/audio/e5cd49be-ecd1-4fd1-8cef-248fb0b0d3c3/related/",
 "waveform": "https://api.openverse.org/v1/audio/e5cd49be-ecd1-4fd1-8cef-248fb0b0d3c3/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "72293dd6-7972-423c-9d02-e95094c2cf1e",
+"title": "En-us-railway",
+"indexed_on": "2023-03-26T12:27:34.650615Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=1755208",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/En-us-railway.ogg",
+"creator": "Dvortygirl",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Dvortygirl",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 12430,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-us-railway\" by Dvortygirl is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1000,
+"bit_rate": 80000,
+"sample_rate": 44000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/72293dd6-7972-423c-9d02-e95094c2cf1e/",
+"related_url": "https://api.openverse.org/v1/audio/72293dd6-7972-423c-9d02-e95094c2cf1e/related/",
+"waveform": "https://api.openverse.org/v1/audio/72293dd6-7972-423c-9d02-e95094c2cf1e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b5c1db8e-21a4-4f19-81f0-41e2d9b7c4b0",
+"title": "LL-Q1860 (eng)-Vealhurl-railway",
+"indexed_on": "2022-06-02T02:30:49.306008Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=118537354",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/31/LL-Q1860_%28eng%29-Vealhurl-railway.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 117548,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-railway\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1224,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b5c1db8e-21a4-4f19-81f0-41e2d9b7c4b0/",
+"related_url": "https://api.openverse.org/v1/audio/b5c1db8e-21a4-4f19-81f0-41e2d9b7c4b0/related/",
+"waveform": "https://api.openverse.org/v1/audio/b5c1db8e-21a4-4f19-81f0-41e2d9b7c4b0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c676c587-d051-4796-b7c5-a01ce8387435",
+"title": "railway train passing 3.wav",
+"indexed_on": "2022-10-01T04:02:44.560321Z",
+"foreign_landing_url": "https://freesound.org/people/icmusic/sounds/36900",
+"url": "https://cdn.freesound.org/previews/36/36900_40107-hq.mp3",
+"creator": "icmusic",
+"creator_url": "https://freesound.org/people/icmusic",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 534249,
+"filetype": "mp3",
+"tags": [
+{
+"name": "electric",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "locomotive",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "passing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "railway",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "railway-train",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "train",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/36900/download/",
+"bit_rate": 0,
+"filesize": 4168568,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"railway train passing 3.wav\" by icmusic is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "transport",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/11280/",
+"creator": "icmusic",
+"creator_url": "https://freesound.org/people/icmusic/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 23631,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c676c587-d051-4796-b7c5-a01ce8387435/",
+"related_url": "https://api.openverse.org/v1/audio/c676c587-d051-4796-b7c5-a01ce8387435/related/",
+"waveform": "https://api.openverse.org/v1/audio/c676c587-d051-4796-b7c5-a01ce8387435/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "796b1592-0ab2-488a-8c0e-607593ca9830",
+"title": "Railway traveller",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1899754",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1899754&format=mp32",
+"creator": "Christian Petermann",
+"creator_url": "https://www.jamendo.com/artist/493111/Christian_Petermann",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"country"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "calm",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "slideguitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "soft",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Railway traveller\" by Christian Petermann is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Country Guitars",
+"foreign_landing_url": "https://www.jamendo.com/album/461766/country-guitars",
+"creator": "Christian Petermann",
+"creator_url": "https://www.jamendo.com/artist/493111/Christian_Petermann",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 266000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/796b1592-0ab2-488a-8c0e-607593ca9830/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/796b1592-0ab2-488a-8c0e-607593ca9830/",
+"related_url": "https://api.openverse.org/v1/audio/796b1592-0ab2-488a-8c0e-607593ca9830/related/",
+"waveform": "https://api.openverse.org/v1/audio/796b1592-0ab2-488a-8c0e-607593ca9830/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "426b9afb-4966-4ff6-b8af-5a258f1a8838",
+"title": "Indian Railways",
+"indexed_on": "2022-10-09T12:57:33.997634Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=2752457",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Indian_Railways.ogg",
+"creator": "Speaker: Ambuj.saxena Indian Railways",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Ambuj.saxena",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 12883076,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Indian Railways\" by Speaker: Ambuj.saxena Indian Railways is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1327588,
+"bit_rate": 96001,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/426b9afb-4966-4ff6-b8af-5a258f1a8838/",
+"related_url": "https://api.openverse.org/v1/audio/426b9afb-4966-4ff6-b8af-5a258f1a8838/related/",
+"waveform": "https://api.openverse.org/v1/audio/426b9afb-4966-4ff6-b8af-5a258f1a8838/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1d6342ee-8f64-4a35-a3f3-deea804c0371",
+"title": "On the Dartmouth Steam Railway at Hookhills Viaduct and Goodrington Sands",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/konakaboom/sounds/320542",
+"url": "https://cdn.freesound.org/previews/320/320542_3756669-hq.mp3",
+"creator": "konakaboom",
+"creator_url": "https://freesound.org/people/konakaboom",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 19966638,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Branch-Line",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Devon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Engine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Field-Recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "GWR",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Great-Western-Ralway",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Locomotive",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Railway",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Railways-of-Britain",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Steam",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Stereo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Train",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Trains",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Whistle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "railroad",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/320542/download/",
+"bit_rate": 320000,
+"filesize": 35212123,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"On the Dartmouth Steam Railway at Hookhills Viaduct and Goodrington Sands\" by konakaboom is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 880262,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1d6342ee-8f64-4a35-a3f3-deea804c0371/",
+"related_url": "https://api.openverse.org/v1/audio/1d6342ee-8f64-4a35-a3f3-deea804c0371/related/",
+"waveform": "https://api.openverse.org/v1/audio/1d6342ee-8f64-4a35-a3f3-deea804c0371/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "38603f29-3ba5-4e50-9680-46b9c31ab706",
+"title": "railway train passing 2.wav",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/icmusic/sounds/36899",
+"url": "https://cdn.freesound.org/previews/36/36899_40107-hq.mp3",
+"creator": "icmusic",
+"creator_url": "https://freesound.org/people/icmusic",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 284581,
+"filetype": "mp3",
+"tags": [
+{
+"name": "electric",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "locomotive",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "passing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "railway",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "railway-train",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "train",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/36899/download/",
+"bit_rate": 0,
+"filesize": 2219340,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"railway train passing 2.wav\" by icmusic is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "transport",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/11280/",
+"creator": "icmusic",
+"creator_url": "https://freesound.org/people/icmusic/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 12581,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/38603f29-3ba5-4e50-9680-46b9c31ab706/",
+"related_url": "https://api.openverse.org/v1/audio/38603f29-3ba5-4e50-9680-46b9c31ab706/related/",
+"waveform": "https://api.openverse.org/v1/audio/38603f29-3ba5-4e50-9680-46b9c31ab706/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "06fdadf1-73b8-42a0-8fd6-9be5c80bc10a",
+"title": "Railway station Stuttgart.wav",
+"indexed_on": "2022-11-02T16:00:43.977525Z",
+"foreign_landing_url": "https://freesound.org/people/inchadney/sounds/40552",
+"url": "https://cdn.freesound.org/previews/40/40552_28867-hq.mp3",
+"creator": "inchadney",
+"creator_url": "https://freesound.org/people/inchadney",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 6045284,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bahnhof",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "binaural",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "railwaystation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "station",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stuttgart",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stuttgart21",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "train",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/40552/download/",
+"bit_rate": 0,
+"filesize": 46014508,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Railway station Stuttgart.wav\" by inchadney is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Railway",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/2570/",
+"creator": "inchadney",
+"creator_url": "https://freesound.org/people/inchadney/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 260853,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/06fdadf1-73b8-42a0-8fd6-9be5c80bc10a/",
+"related_url": "https://api.openverse.org/v1/audio/06fdadf1-73b8-42a0-8fd6-9be5c80bc10a/related/",
+"waveform": "https://api.openverse.org/v1/audio/06fdadf1-73b8-42a0-8fd6-9be5c80bc10a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "64f9f8a1-e07d-45d3-8f8d-031d198880e3",
+"title": "Japanese Railway Level Crossing Electronic Beeping Loop",
+"indexed_on": "2026-07-03T18:22:23.614502Z",
+"foreign_landing_url": "https://freesound.org/people/JotrainG/sounds/650317",
+"url": "https://cdn.freesound.org/previews/650/650317_14219512-hq.mp3",
+"creator": "JotrainG",
+"creator_url": "https://freesound.org/people/JotrainG",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 50299,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Barrier",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Beeping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Bell",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Clean",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Crossing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Level",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Rail",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Railroad",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Railway",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Road",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Train",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Trains",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Transit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Transport",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Warning",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "looping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "seamless",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/650317/download/",
+"bit_rate": 0,
+"filesize": 355280,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Japanese Railway Level Crossing Electronic Beeping Loop.\" by JotrainG is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2013,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/64f9f8a1-e07d-45d3-8f8d-031d198880e3/",
+"related_url": "https://api.openverse.org/v1/audio/64f9f8a1-e07d-45d3-8f8d-031d198880e3/related/",
+"waveform": "https://api.openverse.org/v1/audio/64f9f8a1-e07d-45d3-8f8d-031d198880e3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "725f4162-fa31-478c-91a7-082185e0dfb2",
+"title": "Railway Crossing Warning Bell / Signal",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/mycompasstv/sounds/457125",
+"url": "https://cdn.freesound.org/previews/457/457125_3902754-hq.mp3",
+"creator": "mycompasstv",
+"creator_url": "https://freesound.org/people/mycompasstv",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 434736,
+"filetype": "mp3",
+"tags": [
+{
+"name": "America",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "NA",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "North",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bell",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crossing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "level",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "locomotive",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "passing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rail",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rail-road",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rail-way",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "railroad",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "railway",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "train",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "trains",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "warning",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/457125/download/",
+"bit_rate": 0,
+"filesize": 3742600,
+"filetype": "aiff",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Railway Crossing Warning Bell / Signal\" by mycompasstv is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 19452,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/725f4162-fa31-478c-91a7-082185e0dfb2/",
+"related_url": "https://api.openverse.org/v1/audio/725f4162-fa31-478c-91a7-082185e0dfb2/related/",
+"waveform": "https://api.openverse.org/v1/audio/725f4162-fa31-478c-91a7-082185e0dfb2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "34c421a1-cf6a-4204-9927-6b73aff7ed36",
+"title": "over the railway tracks 150720_0696.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/klankbeeld/sounds/318821",
+"url": "https://cdn.freesound.org/previews/318/318821_1648170-hq.mp3",
+"creator": "klankbeeld",
+"creator_url": "https://freesound.org/people/klankbeeld",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 16933104,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Holland",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Netherlands",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "afternoon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmospheric",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background-sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bridge",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "clang",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "clatter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "close",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electric-train",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "flyover",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "general-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "junction",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "metal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "passing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "railroad",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "railway",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "summer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "traffic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "trains",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "white-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/318821/download/",
+"bit_rate": 0,
+"filesize": 212436868,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"over the railway tracks 150720_0696.wav\" by klankbeeld is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "railway & trains 2010 - 2020",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/6803/",
+"creator": "klankbeeld",
+"creator_url": "https://freesound.org/people/klankbeeld/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 737626,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/34c421a1-cf6a-4204-9927-6b73aff7ed36/",
+"related_url": "https://api.openverse.org/v1/audio/34c421a1-cf6a-4204-9927-6b73aff7ed36/related/",
+"waveform": "https://api.openverse.org/v1/audio/34c421a1-cf6a-4204-9927-6b73aff7ed36/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "72c401da-cc97-4613-b349-6ff45647d755",
+"title": "British Railways 4MT 2-6-0 No.76084 at the North Norfolk Railway At Weybourne",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/konakaboom/sounds/323217",
+"url": "https://cdn.freesound.org/previews/323/323217_3756669-hq.mp3",
+"creator": "konakaboom",
+"creator_url": "https://freesound.org/people/konakaboom",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 3825033,
+"filetype": "mp3",
+"tags": [
+{
+"name": "British-Railways",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Engine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Field-Recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Heritage",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Locomotive",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Passenger",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Railway",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Railways-of-Britain",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Steam",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Stereo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Train",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/323217/download/",
+"bit_rate": 320000,
+"filesize": 6720891,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"British Railways 4MT 2-6-0 No.76084 at the North Norfolk Railway At Weybourne\" by konakaboom is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 167981,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/72c401da-cc97-4613-b349-6ff45647d755/",
+"related_url": "https://api.openverse.org/v1/audio/72c401da-cc97-4613-b349-6ff45647d755/related/",
+"waveform": "https://api.openverse.org/v1/audio/72c401da-cc97-4613-b349-6ff45647d755/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "feb74613-97e0-4b95-93da-f7592f80399c",
+"title": "Sounds of the Great Central Railway",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/konakaboom/sounds/317351",
+"url": "https://cdn.freesound.org/previews/317/317351_3756669-hq.mp3",
+"creator": "konakaboom",
+"creator_url": "https://freesound.org/people/konakaboom",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 15997767,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Engine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "LMS",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Locomotive",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "London-Midland-Scottish",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Platform",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Railway",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Railways-of-Britain",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Station",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Steam",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Train",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Trains",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Transport",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Whistle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "heritage",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "preserved",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stereo",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/317351/download/",
+"bit_rate": 320000,
+"filesize": 27954262,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Sounds of the Great Central Railway\" by konakaboom is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 698816,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/feb74613-97e0-4b95-93da-f7592f80399c/",
+"related_url": "https://api.openverse.org/v1/audio/feb74613-97e0-4b95-93da-f7592f80399c/related/",
+"waveform": "https://api.openverse.org/v1/audio/feb74613-97e0-4b95-93da-f7592f80399c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e143107d-29a0-4256-818b-849ee13fefee",
+"title": "Railway maintenance works",
+"indexed_on": "2022-10-01T04:02:44.560321Z",
+"foreign_landing_url": "https://freesound.org/people/odilonmarcenaro/sounds/235899",
+"url": "https://cdn.freesound.org/previews/235/235899_1708550-hq.mp3",
+"creator": "odilonmarcenaro",
+"creator_url": "https://freesound.org/people/odilonmarcenaro",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2764371,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bulldozer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "construction",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "digger",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "engine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "excavator",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "industrial",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machinery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "motor",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "railway",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/235899/download/",
+"bit_rate": 0,
+"filesize": 32080864,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Railway maintenance works\" by odilonmarcenaro is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 121239,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e143107d-29a0-4256-818b-849ee13fefee/",
+"related_url": "https://api.openverse.org/v1/audio/e143107d-29a0-4256-818b-849ee13fefee/related/",
+"waveform": "https://api.openverse.org/v1/audio/e143107d-29a0-4256-818b-849ee13fefee/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f0da598b-e5f8-4e67-baf5-1e0a1d4b6271",
+"title": "Black Five on the Great Central Railway at Quorn and Woodhouse",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/konakaboom/sounds/326375",
+"url": "https://cdn.freesound.org/previews/326/326375_3756669-hq.mp3",
+"creator": "konakaboom",
+"creator_url": "https://freesound.org/people/konakaboom",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 9161422,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Field-Recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Great-Central-Railway",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "LMS",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "London-midland-Scottish",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Railways-of-Britain",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Signal-Box",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Station",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Stereo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Whistle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Wires",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "black-five",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "engine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "locomotive",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "railroad",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "railway",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "steam",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "train",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/326375/download/",
+"bit_rate": 320000,
+"filesize": 16089446,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Black Five on the Great Central Railway at Quorn and Woodhouse\" by konakaboom is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 402195,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f0da598b-e5f8-4e67-baf5-1e0a1d4b6271/",
+"related_url": "https://api.openverse.org/v1/audio/f0da598b-e5f8-4e67-baf5-1e0a1d4b6271/related/",
+"waveform": "https://api.openverse.org/v1/audio/f0da598b-e5f8-4e67-baf5-1e0a1d4b6271/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "396efb79-2507-4f65-a89c-ca660bc59fd1",
+"title": "Docklands Light Railway",
+"indexed_on": "2022-10-09T12:57:33.997634Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=2755714",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Docklands_Light_Railway.ogg",
+"creator": "Speaker: Hassocks5489 Authors of the article",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Hassocks5489",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 11294246,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Docklands Light Railway\" by Speaker: Hassocks5489 Authors of the article is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1478262,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/396efb79-2507-4f65-a89c-ca660bc59fd1/",
+"related_url": "https://api.openverse.org/v1/audio/396efb79-2507-4f65-a89c-ca660bc59fd1/related/",
+"waveform": "https://api.openverse.org/v1/audio/396efb79-2507-4f65-a89c-ca660bc59fd1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7d25c54a-f810-4de3-83a2-b22ea07f5a77",
+"title": "Hellingly Hospital Railway",
+"indexed_on": "2025-04-06T19:53:41.488923Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=6268222",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Hellingly_Hospital_Railway.ogg",
+"creator": "Speaker: The Voice of Hassocks Authors of the article",
+"creator_url": "https://commons.wikimedia.org/wiki/User:The_Voice_of_Hassocks",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 4954852,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Hellingly Hospital Railway\" by Speaker: The Voice of Hassocks Authors of the article is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 748011,
+"bit_rate": 60000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/7d25c54a-f810-4de3-83a2-b22ea07f5a77/",
+"related_url": "https://api.openverse.org/v1/audio/7d25c54a-f810-4de3-83a2-b22ea07f5a77/related/",
+"waveform": "https://api.openverse.org/v1/audio/7d25c54a-f810-4de3-83a2-b22ea07f5a77/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "95ffdd21-f49b-4913-9adc-6f4d03faf660",
+"title": "LL-Q1860 (eng)-Flame, not lame-railway station",
+"indexed_on": "2025-03-11T00:09:49.981418Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=161673944",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/LL-Q1860_%28eng%29-Flame%2C_not_lame-railway_station.wav",
+"creator": "Speaker: Flame, not lame Recorder: Flame",
+"creator_url": "https://lingualibre.org/wiki/Q1191054",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 146220,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Flame, not lame-railway station\" by Speaker: Flame, not lame Recorder: Flame is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1522,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/95ffdd21-f49b-4913-9adc-6f4d03faf660/",
+"related_url": "https://api.openverse.org/v1/audio/95ffdd21-f49b-4913-9adc-6f4d03faf660/related/",
+"waveform": "https://api.openverse.org/v1/audio/95ffdd21-f49b-4913-9adc-6f4d03faf660/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "67cb49b9-3c05-47b2-8a13-846efa2a6adb",
+"title": "Sangi railway 607F tsurikake sound",
+"indexed_on": "2024-06-23T18:16:05.582256Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=12107733",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Sangi_railway_607F_tsurikake_sound.ogg",
+"creator": "ja:User:Tak0317",
+"creator_url": "https://ja.wikipedia.org/wiki/User:Tak0317",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 3546919,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Sangi railway 607F tsurikake sound\" by ja:User:Tak0317 is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 227124,
+"bit_rate": 128003,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/67cb49b9-3c05-47b2-8a13-846efa2a6adb/",
+"related_url": "https://api.openverse.org/v1/audio/67cb49b9-3c05-47b2-8a13-846efa2a6adb/related/",
+"waveform": "https://api.openverse.org/v1/audio/67cb49b9-3c05-47b2-8a13-846efa2a6adb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "789327b3-cbeb-4091-a757-e346cf30548a",
+"title": "The Great Central Railway on a breezy spring afternoon",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/konakaboom/sounds/273818",
+"url": "https://cdn.freesound.org/previews/273/273818_3756669-hq.mp3",
+"creator": "konakaboom",
+"creator_url": "https://freesound.org/people/konakaboom",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 14040617,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Announcement",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Diesel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Engine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Field-Recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Heritage",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Locomotive",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Platform",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Railway",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Railways-of-Britain",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Station",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Steam",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Stereo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Train",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Whistle",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/273818/download/",
+"bit_rate": 320000,
+"filesize": 24626262,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"The Great Central Railway on a breezy spring afternoon\" by konakaboom is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 615616,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/789327b3-cbeb-4091-a757-e346cf30548a/",
+"related_url": "https://api.openverse.org/v1/audio/789327b3-cbeb-4091-a757-e346cf30548a/related/",
+"waveform": "https://api.openverse.org/v1/audio/789327b3-cbeb-4091-a757-e346cf30548a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "aa52410d-4833-4cae-bf33-1daf312bf570",
+"title": "Dance it, Dance All (Motel Costes Mix)",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/998853",
+"url": "https://prod-1.storage.jamendo.com/?trackid=998853&format=mp32",
+"creator": "The Easton Ellises",
+"creator_url": "https://www.jamendo.com/artist/370143/The_Easton_Ellises",
+"license": "by-nc-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.5/ca/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Dance it, Dance All (Motel Costes Mix)\" by The Easton Ellises is licensed under CC BY-NC-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.5/ca/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Dance it, Dance All",
+"foreign_landing_url": "https://www.jamendo.com/album/117502/dance-it-dance-all",
+"creator": "The Easton Ellises",
+"creator_url": "https://www.jamendo.com/artist/370143/The_Easton_Ellises",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 289000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/aa52410d-4833-4cae-bf33-1daf312bf570/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/aa52410d-4833-4cae-bf33-1daf312bf570/",
+"related_url": "https://api.openverse.org/v1/audio/aa52410d-4833-4cae-bf33-1daf312bf570/related/",
+"waveform": "https://api.openverse.org/v1/audio/aa52410d-4833-4cae-bf33-1daf312bf570/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3ec8a352-7a99-4254-9fd8-f7d9dfda9c69",
+"title": "Midnight Motel",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/498815",
+"url": "https://prod-1.storage.jamendo.com/?trackid=498815&format=mp32",
+"creator": "Jimi Sobara",
+"creator_url": "https://www.jamendo.com/artist/356323/Jimi_Sobara",
+"license": "by-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.5/bg/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"metal",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "metalica",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Midnight Motel\" by Jimi Sobara is licensed under CC BY-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.5/bg/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Midnight Motel",
+"foreign_landing_url": "https://www.jamendo.com/album/58408/midnight-motel",
+"creator": "Jimi Sobara",
+"creator_url": "https://www.jamendo.com/artist/356323/Jimi_Sobara",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 222000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/3ec8a352-7a99-4254-9fd8-f7d9dfda9c69/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/3ec8a352-7a99-4254-9fd8-f7d9dfda9c69/",
+"related_url": "https://api.openverse.org/v1/audio/3ec8a352-7a99-4254-9fd8-f7d9dfda9c69/related/",
+"waveform": "https://api.openverse.org/v1/audio/3ec8a352-7a99-4254-9fd8-f7d9dfda9c69/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1bdf594d-7eb1-4e0c-a421-a4d14816ee2a",
+"title": "Ulan Bataar Motel",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/350116",
+"url": "https://prod-1.storage.jamendo.com/?trackid=350116&format=mp32",
+"creator": "Huxley Met Soda",
+"creator_url": "https://www.jamendo.com/artist/350592/Huxley_Met_Soda",
+"license": "by-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/2.0/fr/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"indie",
+"pop",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Ulan Bataar Motel\" by Huxley Met Soda is licensed under CC BY-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/2.0/fr/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Urbaani Er\u00e4maa",
+"foreign_landing_url": "https://www.jamendo.com/album/45903/urbaani-eraemaa",
+"creator": "Huxley Met Soda",
+"creator_url": "https://www.jamendo.com/artist/350592/Huxley_Met_Soda",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 219000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/1bdf594d-7eb1-4e0c-a421-a4d14816ee2a/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/1bdf594d-7eb1-4e0c-a421-a4d14816ee2a/",
+"related_url": "https://api.openverse.org/v1/audio/1bdf594d-7eb1-4e0c-a421-a4d14816ee2a/related/",
+"waveform": "https://api.openverse.org/v1/audio/1bdf594d-7eb1-4e0c-a421-a4d14816ee2a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "21f9d0f4-beb1-4e42-9255-f3266d80682c",
+"title": "Motel",
+"indexed_on": "2023-05-04T00:05:01.880122Z",
+"foreign_landing_url": "https://www.jamendo.com/track/8179",
+"url": "https://prod-1.storage.jamendo.com/?trackid=8179&format=mp32",
+"creator": "Bacco Baccanels",
+"creator_url": "https://www.jamendo.com/artist/1216/bacco.baccanels",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/it/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Motel\" by Bacco Baccanels is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/it/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Bollate Centro, non ci sto pi\u00f9 dentro",
+"foreign_landing_url": "https://www.jamendo.com/album/1232/bollate-centro-non-ci-sto-piu-dentro",
+"creator": "Bacco Baccanels",
+"creator_url": "https://www.jamendo.com/artist/1216/bacco.baccanels",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 197000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/21f9d0f4-beb1-4e42-9255-f3266d80682c/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/21f9d0f4-beb1-4e42-9255-f3266d80682c/",
+"related_url": "https://api.openverse.org/v1/audio/21f9d0f4-beb1-4e42-9255-f3266d80682c/related/",
+"waveform": "https://api.openverse.org/v1/audio/21f9d0f4-beb1-4e42-9255-f3266d80682c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5c3c57f5-eccc-48ae-b7b1-3d8781324abc",
+"title": "Motel 6 Ice Maker Machine",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/FreeToUseSounds/sounds/399916",
+"url": "https://cdn.freesound.org/previews/399/399916_7266967-hq.mp3",
+"creator": "FreeToUseSounds",
+"creator_url": "https://freesound.org/people/FreeToUseSounds",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1135632,
+"filetype": "mp3",
+"tags": [
+{
+"name": "COMPRESSOR",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Hum",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "MACHINE",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "MOTOR",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Machinery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "POWER",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Sounds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cubes",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hum",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ice",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "icemaker",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machinery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vending",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/399916/download/",
+"bit_rate": 0,
+"filesize": 28839932,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Motel 6 Ice Maker Machine\" by FreeToUseSounds is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 50000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5c3c57f5-eccc-48ae-b7b1-3d8781324abc/",
+"related_url": "https://api.openverse.org/v1/audio/5c3c57f5-eccc-48ae-b7b1-3d8781324abc/related/",
+"waveform": "https://api.openverse.org/v1/audio/5c3c57f5-eccc-48ae-b7b1-3d8781324abc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "30d5e736-3d5b-451c-a66a-129073908aae",
+"title": "LL-Q1860 (eng)-Vealhurl-motel",
+"indexed_on": "2023-06-25T11:10:50.360413Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=110248781",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/LL-Q1860_%28eng%29-Vealhurl-motel.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 125740,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-motel\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1309,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/30d5e736-3d5b-451c-a66a-129073908aae/",
+"related_url": "https://api.openverse.org/v1/audio/30d5e736-3d5b-451c-a66a-129073908aae/related/",
+"waveform": "https://api.openverse.org/v1/audio/30d5e736-3d5b-451c-a66a-129073908aae/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c76234d2-54a4-49c6-bd36-254cd23d45ab",
+"title": "De-Motel",
+"indexed_on": "2023-02-26T14:59:14.371531Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=96875093",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/De-Motel.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 17616,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-Motel\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1760,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c76234d2-54a4-49c6-bd36-254cd23d45ab/",
+"related_url": "https://api.openverse.org/v1/audio/c76234d2-54a4-49c6-bd36-254cd23d45ab/related/",
+"waveform": "https://api.openverse.org/v1/audio/c76234d2-54a4-49c6-bd36-254cd23d45ab/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4df3e409-2903-452f-af08-f8f318efede0",
+"title": "De-Motels",
+"indexed_on": "2023-02-26T14:59:14.371531Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=96875118",
+"url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/De-Motels.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 18672,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-Motels\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1870,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4df3e409-2903-452f-af08-f8f318efede0/",
+"related_url": "https://api.openverse.org/v1/audio/4df3e409-2903-452f-af08-f8f318efede0/related/",
+"waveform": "https://api.openverse.org/v1/audio/4df3e409-2903-452f-af08-f8f318efede0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8c030e3a-6515-4191-a825-fc0c6c0da374",
+"title": "Pl-motel",
+"indexed_on": "2024-06-30T14:14:05.371510Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=10517647",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pl-motel.ogg",
+"creator": "user Equadus (inactive global account)",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Equadus",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 12723,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Pl-motel\" by user Equadus (inactive global account) is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1000,
+"bit_rate": 80000,
+"sample_rate": 44000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8c030e3a-6515-4191-a825-fc0c6c0da374/",
+"related_url": "https://api.openverse.org/v1/audio/8c030e3a-6515-4191-a825-fc0c6c0da374/related/",
+"waveform": "https://api.openverse.org/v1/audio/8c030e3a-6515-4191-a825-fc0c6c0da374/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4d221051-958c-4ad1-a695-906c304f644f",
+"title": "LL-Q652 (ita)-DanielParoliere-motel",
+"indexed_on": "2026-01-16T00:31:58.603960Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=181850383",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/20/LL-Q652_%28ita%29-DanielParoliere-motel.wav",
+"creator": "Speaker: DanielParoliere Recorder: DanielParoliere",
+"creator_url": "https://lingualibre.org/wiki/Q1554604",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 140844,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q652 (ita)-DanielParoliere-motel\" by Speaker: DanielParoliere Recorder: DanielParoliere is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1466,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4d221051-958c-4ad1-a695-906c304f644f/",
+"related_url": "https://api.openverse.org/v1/audio/4d221051-958c-4ad1-a695-906c304f644f/related/",
+"waveform": "https://api.openverse.org/v1/audio/4d221051-958c-4ad1-a695-906c304f644f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d5784364-5b6e-4bde-a68c-6a5f7bc0cbfc",
+"title": "LL-Q150 (fra)-LoquaxFR-motel",
+"indexed_on": "2026-09-17T00:07:44.178712Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=199607005",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/LL-Q150_%28fra%29-LoquaxFR-motel.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "Speaker: LoquaxFR Recorder: LoquaxFR",
+"creator_url": "https://commons.wikimedia.org/w/index.php?title=User:LoquaxFR&action=edit&redlink=1",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 88620,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-LoquaxFR-motel\" by Speaker: LoquaxFR Recorder: LoquaxFR is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 922,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d5784364-5b6e-4bde-a68c-6a5f7bc0cbfc/",
+"related_url": "https://api.openverse.org/v1/audio/d5784364-5b6e-4bde-a68c-6a5f7bc0cbfc/related/",
+"waveform": "https://api.openverse.org/v1/audio/d5784364-5b6e-4bde-a68c-6a5f7bc0cbfc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a63bc33a-c774-4ef7-9d89-c4ab325739e3",
+"title": "LL-Q150 (fra)-WikiLucas00-motel",
+"indexed_on": "2023-01-15T17:39:04.245786Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=78286944",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/04/LL-Q150_%28fra%29-WikiLucas00-motel.wav",
+"creator": "Speaker: WikiLucas00 Recorder: WikiLucas00",
+"creator_url": "https://lingualibre.org/wiki/Q102123",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 101164,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-WikiLucas00-motel\" by Speaker: WikiLucas00 Recorder: WikiLucas00 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1053,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a63bc33a-c774-4ef7-9d89-c4ab325739e3/",
+"related_url": "https://api.openverse.org/v1/audio/a63bc33a-c774-4ef7-9d89-c4ab325739e3/related/",
+"waveform": "https://api.openverse.org/v1/audio/a63bc33a-c774-4ef7-9d89-c4ab325739e3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b6ee5b69-0c02-44f5-9d0e-95d599eb6ac4",
+"title": "Cameron Motel California",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/260296",
+"url": "https://prod-1.storage.jamendo.com/?trackid=260296&format=mp32",
+"creator": "The Pleasant Delaneys",
+"creator_url": "https://www.jamendo.com/artist/345904/The_Pleasant_Delaneys",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"tribal"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Cameron Motel California\" by The Pleasant Delaneys is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Wisdom is Misery's Sister EP",
+"foreign_landing_url": "https://www.jamendo.com/album/37258/wisdom-is-misery-s-sister-ep",
+"creator": "The Pleasant Delaneys",
+"creator_url": "https://www.jamendo.com/artist/345904/The_Pleasant_Delaneys",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 557000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/b6ee5b69-0c02-44f5-9d0e-95d599eb6ac4/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/b6ee5b69-0c02-44f5-9d0e-95d599eb6ac4/",
+"related_url": "https://api.openverse.org/v1/audio/b6ee5b69-0c02-44f5-9d0e-95d599eb6ac4/related/",
+"waveform": "https://api.openverse.org/v1/audio/b6ee5b69-0c02-44f5-9d0e-95d599eb6ac4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "81105d1d-a346-4636-b958-d9b336c49fec",
+"title": "Motel Nightmares",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/327535",
+"url": "https://prod-1.storage.jamendo.com/?trackid=327535&format=mp32",
+"creator": "White-X-Blues-Band",
+"creator_url": "https://www.jamendo.com/artist/349543/White-X-Blues-Band",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/de/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"blues",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Motel Nightmares\" by White-X-Blues-Band is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/de/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "White-X-Blues-Band - For Personal Information Only",
+"foreign_landing_url": "https://www.jamendo.com/album/43877/white-x-blues-band-for-personal-information-only",
+"creator": "White-X-Blues-Band",
+"creator_url": "https://www.jamendo.com/artist/349543/White-X-Blues-Band",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 349000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/81105d1d-a346-4636-b958-d9b336c49fec/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/81105d1d-a346-4636-b958-d9b336c49fec/",
+"related_url": "https://api.openverse.org/v1/audio/81105d1d-a346-4636-b958-d9b336c49fec/related/",
+"waveform": "https://api.openverse.org/v1/audio/81105d1d-a346-4636-b958-d9b336c49fec/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0bc8b5e1-8a4b-4c4b-9a2a-ab4ca189d509",
+"title": "Ambience Highway Motel Car Helicopter Motorcycle.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/captainvince/sounds/223547",
+"url": "https://cdn.freesound.org/previews/223/223547_2489646-hq.mp3",
+"creator": "captainvince",
+"creator_url": "https://freesound.org/people/captainvince",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 3520128,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "highway",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "motel",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/223547/download/",
+"bit_rate": 0,
+"filesize": 45798934,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Ambience Highway Motel Car Helicopter Motorcycle.wav\" by captainvince is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 156544,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0bc8b5e1-8a4b-4c4b-9a2a-ab4ca189d509/",
+"related_url": "https://api.openverse.org/v1/audio/0bc8b5e1-8a4b-4c4b-9a2a-ab4ca189d509/related/",
+"waveform": "https://api.openverse.org/v1/audio/0bc8b5e1-8a4b-4c4b-9a2a-ab4ca189d509/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "520fad74-1116-4b07-9251-cc07a7b137d3",
+"title": "Motel",
+"indexed_on": "2025-07-03T01:17:50.306821Z",
+"foreign_landing_url": "https://freesound.org/people/TheLastOneOnEarth/sounds/611426",
+"url": "https://cdn.freesound.org/previews/611/611426_13237592-hq.mp3",
+"creator": "TheLastOneOnEarth",
+"creator_url": "https://freesound.org/people/TheLastOneOnEarth",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1383557,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hotel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "motel",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/611426/download/",
+"bit_rate": 0,
+"filesize": 10711192,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Motel\" by TheLastOneOnEarth is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 60720,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/520fad74-1116-4b07-9251-cc07a7b137d3/",
+"related_url": "https://api.openverse.org/v1/audio/520fad74-1116-4b07-9251-cc07a7b137d3/related/",
+"waveform": "https://api.openverse.org/v1/audio/520fad74-1116-4b07-9251-cc07a7b137d3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d195479c-bfaa-40a2-8207-b991bf45dc8f",
+"title": "Motel",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/953354",
+"url": "https://prod-1.storage.jamendo.com/?trackid=953354&format=mp32",
+"creator": "Jason Silver",
+"creator_url": "https://www.jamendo.com/artist/352428/Jason_Silver_(2)",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Motel\" by Jason Silver is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Sunny Days",
+"foreign_landing_url": "https://www.jamendo.com/album/112098/sunny-days",
+"creator": "Jason Silver",
+"creator_url": "https://www.jamendo.com/artist/352428/Jason_Silver_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 221000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/d195479c-bfaa-40a2-8207-b991bf45dc8f/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/d195479c-bfaa-40a2-8207-b991bf45dc8f/",
+"related_url": "https://api.openverse.org/v1/audio/d195479c-bfaa-40a2-8207-b991bf45dc8f/related/",
+"waveform": "https://api.openverse.org/v1/audio/d195479c-bfaa-40a2-8207-b991bf45dc8f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7d9321ae-7d32-477d-afe5-23c36dbffffc",
+"title": "Los Disidentes Del Sucio Motel - All alone",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/727635",
+"url": "https://prod-1.storage.jamendo.com/?trackid=727635&format=mp32",
+"creator": "Classik Punk Rock",
+"creator_url": "https://www.jamendo.com/artist/366599/Classik_Punk_Rock",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/fr/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Los Disidentes Del Sucio Motel - All alone\" by Classik Punk Rock is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/fr/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Classik Punk Rock - VOL1. IN PUNK WE TRUST",
+"foreign_landing_url": "https://www.jamendo.com/album/85064/classik-punk-rock-vol1-in-punk-we-trust",
+"creator": "Classik Punk Rock",
+"creator_url": "https://www.jamendo.com/artist/366599/Classik_Punk_Rock",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 263000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/7d9321ae-7d32-477d-afe5-23c36dbffffc/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/7d9321ae-7d32-477d-afe5-23c36dbffffc/",
+"related_url": "https://api.openverse.org/v1/audio/7d9321ae-7d32-477d-afe5-23c36dbffffc/related/",
+"waveform": "https://api.openverse.org/v1/audio/7d9321ae-7d32-477d-afe5-23c36dbffffc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "faeb3ad9-d86e-48b0-a3ee-9bb7f7a7722f",
+"title": "Accordo Motel (Jingle)",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/36973",
+"url": "https://prod-1.storage.jamendo.com/?trackid=36973&format=mp32",
+"creator": "Francesco",
+"creator_url": "https://www.jamendo.com/artist/4864/francesco",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Accordo Motel (Jingle)\" by Francesco is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "On the Grill",
+"foreign_landing_url": "https://www.jamendo.com/album/4526/on-the-grill",
+"creator": "Francesco",
+"creator_url": "https://www.jamendo.com/artist/4864/francesco",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 109000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/faeb3ad9-d86e-48b0-a3ee-9bb7f7a7722f/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/faeb3ad9-d86e-48b0-a3ee-9bb7f7a7722f/",
+"related_url": "https://api.openverse.org/v1/audio/faeb3ad9-d86e-48b0-a3ee-9bb7f7a7722f/related/",
+"waveform": "https://api.openverse.org/v1/audio/faeb3ad9-d86e-48b0-a3ee-9bb7f7a7722f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b6b389ed-dc4b-4687-a6e0-ab4537bb481c",
+"title": "En-au-no-tell motel",
+"indexed_on": "2023-02-12T13:30:25.478097Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=87057312",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/47/En-au-no-tell_motel.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 20433,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-au-no-tell motel\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1564,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b6b389ed-dc4b-4687-a6e0-ab4537bb481c/",
+"related_url": "https://api.openverse.org/v1/audio/b6b389ed-dc4b-4687-a6e0-ab4537bb481c/related/",
+"waveform": "https://api.openverse.org/v1/audio/b6b389ed-dc4b-4687-a6e0-ab4537bb481c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cd2041ec-4908-4abe-b05c-a6a684bf8a8a",
+"title": "LL-Q1860 (eng)-Vealhurl-diner",
+"indexed_on": "2022-10-09T10:11:47.788723Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=89013020",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/99/LL-Q1860_%28eng%29-Vealhurl-diner.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 101164,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-diner\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1053,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cd2041ec-4908-4abe-b05c-a6a684bf8a8a/",
+"related_url": "https://api.openverse.org/v1/audio/cd2041ec-4908-4abe-b05c-a6a684bf8a8a/related/",
+"waveform": "https://api.openverse.org/v1/audio/cd2041ec-4908-4abe-b05c-a6a684bf8a8a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "686afbc9-15f3-4de0-928e-9819caceab06",
+"title": "restaurant diner busy entrance cash, kitchen Montreal, Canada.flac",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/kyles/sounds/454153",
+"url": "https://cdn.freesound.org/previews/454/454153_612689-hq.mp3",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 5897712,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Canada",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Montreal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "busy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "diner",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "entrance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kitchen",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "restaurant",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/454153/download/",
+"bit_rate": 0,
+"filesize": 31229802,
+"filetype": "flac",
+"sample_rate": 48000
+}
+],
+"attribution": "\"restaurant diner busy entrance cash, kitchen Montreal, Canada.flac\" by kyles is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Montreal",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/25493/",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 258416,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/686afbc9-15f3-4de0-928e-9819caceab06/",
+"related_url": "https://api.openverse.org/v1/audio/686afbc9-15f3-4de0-928e-9819caceab06/related/",
+"waveform": "https://api.openverse.org/v1/audio/686afbc9-15f3-4de0-928e-9819caceab06/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a1556011-478e-4555-8a3b-bb0340a3e2f8",
+"title": "NYC-diner-2-ambience-ambiance-by-EDLUNDART.wav",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/edlundart/sounds/515719",
+"url": "https://cdn.freesound.org/previews/515/515719_37745-hq.mp3",
+"creator": "edlundart",
+"creator_url": "https://freesound.org/people/edlundart",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 6148316,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cafe",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "city",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crowd",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "diner",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "new-york",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "new-york-city",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nyc",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "restaurant",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/515719/download/",
+"bit_rate": 0,
+"filesize": 47004748,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"NYC-diner-2-ambience-ambiance-by-EDLUNDART.wav\" by edlundart is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 266433,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a1556011-478e-4555-8a3b-bb0340a3e2f8/",
+"related_url": "https://api.openverse.org/v1/audio/a1556011-478e-4555-8a3b-bb0340a3e2f8/related/",
+"waveform": "https://api.openverse.org/v1/audio/a1556011-478e-4555-8a3b-bb0340a3e2f8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9a1236f3-dd70-4929-abe4-254040d380ea",
+"title": "De-Diner",
+"indexed_on": "2023-03-26T12:27:38.114701Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=55007461",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/De-Diner.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16958,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-Diner\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1750,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9a1236f3-dd70-4929-abe4-254040d380ea/",
+"related_url": "https://api.openverse.org/v1/audio/9a1236f3-dd70-4929-abe4-254040d380ea/related/",
+"waveform": "https://api.openverse.org/v1/audio/9a1236f3-dd70-4929-abe4-254040d380ea/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "05427bbd-d9ce-4031-8f3e-9ab65442dbfa",
+"title": "Diner Ambiance.mp3",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/XfiXy8/sounds/467286",
+"url": "https://cdn.freesound.org/previews/467/467286_9895957-hq.mp3",
+"creator": "XfiXy8",
+"creator_url": "https://freesound.org/people/XfiXy8",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 688316,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "busy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ceramic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chairs",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crowd",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "diner",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "food",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/467286/download/",
+"bit_rate": 160000,
+"filesize": 565206,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Diner Ambiance.mp3\" by XfiXy8 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 28043,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/05427bbd-d9ce-4031-8f3e-9ab65442dbfa/",
+"related_url": "https://api.openverse.org/v1/audio/05427bbd-d9ce-4031-8f3e-9ab65442dbfa/related/",
+"waveform": "https://api.openverse.org/v1/audio/05427bbd-d9ce-4031-8f3e-9ab65442dbfa/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7b1eab33-8224-4835-9271-26a61d8328fa",
+"title": "crowd walla small crowd diner doughnut shop.wav",
+"indexed_on": "2025-07-03T01:17:50.306821Z",
+"foreign_landing_url": "https://freesound.org/people/lwdickens/sounds/269006",
+"url": "https://cdn.freesound.org/previews/269/269006_2663250-hq.mp3",
+"creator": "lwdickens",
+"creator_url": "https://freesound.org/people/lwdickens",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 3951072,
+"filetype": "mp3",
+"tags": [
+{
+"name": "crowd",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "diner",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "walla",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/269006/download/",
+"bit_rate": 0,
+"filesize": 49885910,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"crowd walla small crowd diner doughnut shop.wav\" by lwdickens is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 173215,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/7b1eab33-8224-4835-9271-26a61d8328fa/",
+"related_url": "https://api.openverse.org/v1/audio/7b1eab33-8224-4835-9271-26a61d8328fa/related/",
+"waveform": "https://api.openverse.org/v1/audio/7b1eab33-8224-4835-9271-26a61d8328fa/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a7603636-ae66-48a4-8d24-e1b22997d79e",
+"title": "LL-Q7026 (cat)-Unjoanqualsevol-diner",
+"indexed_on": "2022-12-11T15:27:24.465769Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=101239230",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/LL-Q7026_%28cat%29-Unjoanqualsevol-diner.wav",
+"creator": "Speaker: Unjoanqualsevol Recorder: Unjoanqualsevol",
+"creator_url": "https://lingualibre.org/wiki/Q3686",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 91412,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q7026 (cat)-Unjoanqualsevol-diner\" by Speaker: Unjoanqualsevol Recorder: Unjoanqualsevol is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1035,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a7603636-ae66-48a4-8d24-e1b22997d79e/",
+"related_url": "https://api.openverse.org/v1/audio/a7603636-ae66-48a4-8d24-e1b22997d79e/related/",
+"waveform": "https://api.openverse.org/v1/audio/a7603636-ae66-48a4-8d24-e1b22997d79e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a385e266-9804-4439-81cc-59a53ea498e0",
+"title": "crowd int busy diner NYC, USA.flac",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/kyles/sounds/452929",
+"url": "https://cdn.freesound.org/previews/452/452929_612689-hq.mp3",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2695200,
+"filetype": "mp3",
+"tags": [
+{
+"name": "NYC",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "USA",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "busy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crowd",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "diner",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "int",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/452929/download/",
+"bit_rate": 0,
+"filesize": 13338389,
+"filetype": "flac",
+"sample_rate": 48000
+}
+],
+"attribution": "\"crowd int busy diner NYC, USA.flac\" by kyles is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "New York City",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/25570/",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 117292,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a385e266-9804-4439-81cc-59a53ea498e0/",
+"related_url": "https://api.openverse.org/v1/audio/a385e266-9804-4439-81cc-59a53ea498e0/related/",
+"waveform": "https://api.openverse.org/v1/audio/a385e266-9804-4439-81cc-59a53ea498e0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "de7f57c0-361f-4443-b713-6f43de6cbf9c",
+"title": "Harry's Diner",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/816630",
+"url": "https://prod-1.storage.jamendo.com/?trackid=816630&format=mp32",
+"creator": "Mr Crispy",
+"creator_url": "https://www.jamendo.com/artist/363030/Mr_Crispy",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Harry's Diner\" by Mr Crispy is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Welcome to the Bank",
+"foreign_landing_url": "https://www.jamendo.com/album/95380/welcome-to-the-bank",
+"creator": "Mr Crispy",
+"creator_url": "https://www.jamendo.com/artist/363030/Mr_Crispy",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 273000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/de7f57c0-361f-4443-b713-6f43de6cbf9c/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/de7f57c0-361f-4443-b713-6f43de6cbf9c/",
+"related_url": "https://api.openverse.org/v1/audio/de7f57c0-361f-4443-b713-6f43de6cbf9c/related/",
+"waveform": "https://api.openverse.org/v1/audio/de7f57c0-361f-4443-b713-6f43de6cbf9c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e85e5f3c-1ed9-4da5-a5c3-dc024455c05d",
+"title": "Nl-diner",
+"indexed_on": "2022-12-25T16:28:23.235680Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=29295646",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Nl-diner.ogg",
+"creator": "Marcel Coenders",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 12916,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-diner\" by Marcel Coenders is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1000,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e85e5f3c-1ed9-4da5-a5c3-dc024455c05d/",
+"related_url": "https://api.openverse.org/v1/audio/e85e5f3c-1ed9-4da5-a5c3-dc024455c05d/related/",
+"waveform": "https://api.openverse.org/v1/audio/e85e5f3c-1ed9-4da5-a5c3-dc024455c05d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6373366e-9d03-4fb8-bb4e-1b8c1f07a6c2",
+"title": "Diner Sounds",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/coalcon/sounds/636074",
+"url": "https://cdn.freesound.org/previews/636/636074_3320549-hq.mp3",
+"creator": "coalcon",
+"creator_url": "https://freesound.org/people/coalcon",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1440466,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "diner",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "food",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "restaurant",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/636074/download/",
+"bit_rate": 67000,
+"filesize": 537961,
+"filetype": "m4a",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Diner Sounds\" by coalcon is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 64618,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/6373366e-9d03-4fb8-bb4e-1b8c1f07a6c2/",
+"related_url": "https://api.openverse.org/v1/audio/6373366e-9d03-4fb8-bb4e-1b8c1f07a6c2/related/",
+"waveform": "https://api.openverse.org/v1/audio/6373366e-9d03-4fb8-bb4e-1b8c1f07a6c2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b5e98e23-6a68-4d29-8ee2-9ec9fb9ef711",
+"title": "Nl-diners",
+"indexed_on": "2022-12-25T16:28:23.235680Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=29295655",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Nl-diners.ogg",
+"creator": "Marcel Coenders",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 13486,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-diners\" by Marcel Coenders is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1050,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b5e98e23-6a68-4d29-8ee2-9ec9fb9ef711/",
+"related_url": "https://api.openverse.org/v1/audio/b5e98e23-6a68-4d29-8ee2-9ec9fb9ef711/related/",
+"waveform": "https://api.openverse.org/v1/audio/b5e98e23-6a68-4d29-8ee2-9ec9fb9ef711/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2c7de9d2-de00-4c01-b0d0-29b40f124a55",
+"title": "LL-Q150 (fra)-0x010C-diner",
+"indexed_on": "2024-01-07T13:59:22.450549Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=73791767",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/LL-Q150_%28fra%29-0x010C-diner.wav",
+"creator": "Speaker: 0x010C Recorder: 0x010C",
+"creator_url": "https://lingualibre.org/wiki/Q42",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 84780,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-0x010C-diner\" by Speaker: 0x010C Recorder: 0x010C is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 882,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2c7de9d2-de00-4c01-b0d0-29b40f124a55/",
+"related_url": "https://api.openverse.org/v1/audio/2c7de9d2-de00-4c01-b0d0-29b40f124a55/related/",
+"waveform": "https://api.openverse.org/v1/audio/2c7de9d2-de00-4c01-b0d0-29b40f124a55/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a2f7a8e0-4507-4b55-ba22-224d850f71f5",
+"title": "LL-Q7026 (cat)-Marvives-diners",
+"indexed_on": "2023-07-09T07:42:41.573933Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=128150201",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/LL-Q7026_%28cat%29-Marvives-diners.wav",
+"creator": "Speaker: Marvives Recorder: Marvives",
+"creator_url": "https://lingualibre.org/wiki/Q842213",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q7026 (cat)-Marvives-diners\" by Speaker: Marvives Recorder: Marvives is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a2f7a8e0-4507-4b55-ba22-224d850f71f5/",
+"related_url": "https://api.openverse.org/v1/audio/a2f7a8e0-4507-4b55-ba22-224d850f71f5/related/",
+"waveform": "https://api.openverse.org/v1/audio/a2f7a8e0-4507-4b55-ba22-224d850f71f5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ae987323-5862-4313-91da-79dcd11d74df",
+"title": "Valerie Dumas vs Giulio LNT- Tom's Diner 2010 (DJ Mihelson mush-up)",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/610407",
+"url": "https://prod-1.storage.jamendo.com/?trackid=610407&format=mp32",
+"creator": "dj mihelson",
+"creator_url": "https://www.jamendo.com/artist/361324/dj_mihelson",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Valerie Dumas vs Giulio LNT- Tom's Diner 2010 (DJ Mihelson mush-up)\" by dj mihelson is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Mihelson - 10 years on freedom!",
+"foreign_landing_url": "https://www.jamendo.com/album/70659/mihelson-10-years-on-freedom",
+"creator": "dj mihelson",
+"creator_url": "https://www.jamendo.com/artist/361324/dj_mihelson",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 276000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/ae987323-5862-4313-91da-79dcd11d74df/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/ae987323-5862-4313-91da-79dcd11d74df/",
+"related_url": "https://api.openverse.org/v1/audio/ae987323-5862-4313-91da-79dcd11d74df/related/",
+"waveform": "https://api.openverse.org/v1/audio/ae987323-5862-4313-91da-79dcd11d74df/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7bfbd2fa-cc21-47c8-97ab-bf5dea2abeab",
+"title": "Diner in Virginia",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/Laggardson/sounds/627079",
+"url": "https://cdn.freesound.org/previews/627/627079_4772371-hq.mp3",
+"creator": "Laggardson",
+"creator_url": "https://freesound.org/people/Laggardson",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2733648,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cafe",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chat",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chatter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "conversation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crowd",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "diner",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dishes",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "restaurant",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "talking",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "walla",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/627079/download/",
+"bit_rate": 0,
+"filesize": 54243654,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Diner in Virginia\" by Laggardson is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 141234,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/7bfbd2fa-cc21-47c8-97ab-bf5dea2abeab/",
+"related_url": "https://api.openverse.org/v1/audio/7bfbd2fa-cc21-47c8-97ab-bf5dea2abeab/related/",
+"waveform": "https://api.openverse.org/v1/audio/7bfbd2fa-cc21-47c8-97ab-bf5dea2abeab/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b45c235a-bdb2-4a6d-94e8-4c2c6571dc63",
+"title": "120710 Diner, small restaurant, voices, cash register, dishes, voices, Blyth.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/TRP/sounds/616602",
+"url": "https://cdn.freesound.org/previews/616/616602_97550-hq.mp3",
+"creator": "TRP",
+"creator_url": "https://freesound.org/people/TRP",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 5431632,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chatter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "diner",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "restaurant",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/616602/download/",
+"bit_rate": 0,
+"filesize": 69977006,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"120710 Diner, small restaurant, voices, cash register, dishes, voices, Blyth.wav\" by TRP is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 242649,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b45c235a-bdb2-4a6d-94e8-4c2c6571dc63/",
+"related_url": "https://api.openverse.org/v1/audio/b45c235a-bdb2-4a6d-94e8-4c2c6571dc63/related/",
+"waveform": "https://api.openverse.org/v1/audio/b45c235a-bdb2-4a6d-94e8-4c2c6571dc63/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9451ea73-5de0-4ba1-a992-59dd7cfce879",
+"title": "Cracker Barrel (Atmosphere - Diner at Breakfast).mp3",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/courter/sounds/444772",
+"url": "https://cdn.freesound.org/previews/444/444772_1224849-hq.mp3",
+"creator": "courter",
+"creator_url": "https://freesound.org/people/courter",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 5118660,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmos",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background-sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "barrel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cracker",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "diner",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "diner-sounds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "eating",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "general-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "restaurant",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/444772/download/",
+"bit_rate": 256000,
+"filesize": 7261103,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Cracker Barrel (Atmosphere - Diner at Breakfast).mp3\" by courter is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 226861,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9451ea73-5de0-4ba1-a992-59dd7cfce879/",
+"related_url": "https://api.openverse.org/v1/audio/9451ea73-5de0-4ba1-a992-59dd7cfce879/related/",
+"waveform": "https://api.openverse.org/v1/audio/9451ea73-5de0-4ba1-a992-59dd7cfce879/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5b02f5e6-3ce5-4f25-b97a-348f949f714d",
+"title": "Toms Diner",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/806928",
+"url": "https://prod-1.storage.jamendo.com/?trackid=806928&format=mp32",
+"creator": "Precise Difference",
+"creator_url": "https://www.jamendo.com/artist/370360/Precise_Difference",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Toms Diner\" by Precise Difference is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Fewturistic Fiyah Mixtape Vol. 1000",
+"foreign_landing_url": "https://www.jamendo.com/album/94609/fewturistic-fiyah-mixtape-vol-1000",
+"creator": "Precise Difference",
+"creator_url": "https://www.jamendo.com/artist/370360/Precise_Difference",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 158000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/5b02f5e6-3ce5-4f25-b97a-348f949f714d/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/5b02f5e6-3ce5-4f25-b97a-348f949f714d/",
+"related_url": "https://api.openverse.org/v1/audio/5b02f5e6-3ce5-4f25-b97a-348f949f714d/related/",
+"waveform": "https://api.openverse.org/v1/audio/5b02f5e6-3ce5-4f25-b97a-348f949f714d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "30e180ef-8aea-4a85-9626-61b55f3bfb98",
+"title": "Joe s Diner",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1274238",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1274238&format=mp32",
+"creator": "Matt Confusion",
+"creator_url": "https://www.jamendo.com/artist/430396/Matt_Confusion",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"blues",
+"jazz",
+"singersongwriter"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "adult",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "jazzy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "love",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Joe s Diner\" by Matt Confusion is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Songs in the Night",
+"foreign_landing_url": "https://www.jamendo.com/album/152105/songs-in-the-night",
+"creator": "Matt Confusion",
+"creator_url": "https://www.jamendo.com/artist/430396/Matt_Confusion",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 162000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/30e180ef-8aea-4a85-9626-61b55f3bfb98/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/30e180ef-8aea-4a85-9626-61b55f3bfb98/",
+"related_url": "https://api.openverse.org/v1/audio/30e180ef-8aea-4a85-9626-61b55f3bfb98/related/",
+"waveform": "https://api.openverse.org/v1/audio/30e180ef-8aea-4a85-9626-61b55f3bfb98/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4143f243-c387-4c2e-b443-ae6f3c4ac3e7",
+"title": "Bakery plate in oven.wav",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/ingeverschatse/sounds/513031",
+"url": "https://cdn.freesound.org/previews/513/513031_8353987-hq.mp3",
+"creator": "ingeverschatse",
+"creator_url": "https://freesound.org/people/ingeverschatse",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 651456,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Bakery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Oven",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Plate",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/513031/download/",
+"bit_rate": 0,
+"filesize": 2695724,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Bakery plate in oven.wav\" by ingeverschatse is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 28080,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4143f243-c387-4c2e-b443-ae6f3c4ac3e7/",
+"related_url": "https://api.openverse.org/v1/audio/4143f243-c387-4c2e-b443-ae6f3c4ac3e7/related/",
+"waveform": "https://api.openverse.org/v1/audio/4143f243-c387-4c2e-b443-ae6f3c4ac3e7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0cf8bfa7-cb16-4530-b97b-49afce6d0539",
+"title": "Down The Way Beside Ole McClintrick's Bakery I Saw A Catfish Flying A Paper Plane",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/33170",
+"url": "https://prod-1.storage.jamendo.com/?trackid=33170&format=mp32",
+"creator": "The Old Time Jitterbug Orchestra",
+"creator_url": "https://www.jamendo.com/artist/4640/otjbo",
+"license": "by-nc-nd",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Down The Way Beside Ole McClintrick's Bakery I Saw A Catfish Flying A Paper Plane\" by The Old Time Jitterbug Orchestra is licensed under CC BY-NC-ND 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.5/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Milk, Eggs, Coffee, Garbage Bags",
+"foreign_landing_url": "https://www.jamendo.com/album/4102/milk-eggs-coffee-garbage-bags",
+"creator": "The Old Time Jitterbug Orchestra",
+"creator_url": "https://www.jamendo.com/artist/4640/otjbo",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 776000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/0cf8bfa7-cb16-4530-b97b-49afce6d0539/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/0cf8bfa7-cb16-4530-b97b-49afce6d0539/",
+"related_url": "https://api.openverse.org/v1/audio/0cf8bfa7-cb16-4530-b97b-49afce6d0539/related/",
+"waveform": "https://api.openverse.org/v1/audio/0cf8bfa7-cb16-4530-b97b-49afce6d0539/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "927ef9ba-eb59-4376-be6a-7faf7aede2b6",
+"title": "En-Arleta Library Bakery and Cafe",
+"indexed_on": "2024-12-07T00:12:56.917143Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=156359513",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/En-Arleta_Library_Bakery_and_Cafe.ogg",
+"creator": "Speaker: M4V3R1CK32 Authors of the article",
+"creator_url": "https://commons.wikimedia.org/wiki/User:M4V3R1CK32",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 3040069,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-Arleta Library Bakery and Cafe\" by Speaker: M4V3R1CK32 Authors of the article is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 261330,
+"bit_rate": 96000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/927ef9ba-eb59-4376-be6a-7faf7aede2b6/",
+"related_url": "https://api.openverse.org/v1/audio/927ef9ba-eb59-4376-be6a-7faf7aede2b6/related/",
+"waveform": "https://api.openverse.org/v1/audio/927ef9ba-eb59-4376-be6a-7faf7aede2b6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ac0e0949-4c9a-407d-8f90-f1202616c4c5",
+"title": "LL-Q1860 (eng)-Masohpotato-Beaverton Bakery",
+"indexed_on": "2024-04-14T00:06:31.822630Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=147346573",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/76/LL-Q1860_%28eng%29-Masohpotato-Beaverton_Bakery.wav",
+"creator": "Speaker: Masohpotato Recorder: Masohpotato",
+"creator_url": "http://lingualibre.org/wiki/Q1100641",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 148012,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Masohpotato-Beaverton Bakery\" by Speaker: Masohpotato Recorder: Masohpotato is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1541,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ac0e0949-4c9a-407d-8f90-f1202616c4c5/",
+"related_url": "https://api.openverse.org/v1/audio/ac0e0949-4c9a-407d-8f90-f1202616c4c5/related/",
+"waveform": "https://api.openverse.org/v1/audio/ac0e0949-4c9a-407d-8f90-f1202616c4c5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "92a6859a-25b4-4877-8986-ce8ee1cdfd44",
+"title": "LL-Q9043 (nor)-Telaneo-bakeri",
+"indexed_on": "2023-11-13T00:08:18.490041Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=140641775",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/72/LL-Q9043_%28nor%29-Telaneo-bakeri.wav",
+"creator": "Speaker: Telaneo Recorder: Telaneo",
+"creator_url": "https://lingualibre.org/wiki/Q1130087",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 88108,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q9043 (nor)-Telaneo-bakeri\" by Speaker: Telaneo Recorder: Telaneo is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 917,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/92a6859a-25b4-4877-8986-ce8ee1cdfd44/",
+"related_url": "https://api.openverse.org/v1/audio/92a6859a-25b4-4877-8986-ce8ee1cdfd44/related/",
+"waveform": "https://api.openverse.org/v1/audio/92a6859a-25b4-4877-8986-ce8ee1cdfd44/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "45921667-f758-4124-a042-c49226e883e3",
+"title": "Bakery Shop (2) in Vienna, Austria",
+"indexed_on": "2022-10-01T04:02:44.560321Z",
+"foreign_landing_url": "https://freesound.org/people/Alcappuccino/sounds/320464",
+"url": "https://cdn.freesound.org/previews/320/320464_4536481-hq.mp3",
+"creator": "Alcappuccino",
+"creator_url": "https://freesound.org/people/Alcappuccino",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 733955,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Austria",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Bakery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Field-Recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "People",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Shop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Vienna",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Voices",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "XY-Stereo",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/320464/download/",
+"bit_rate": 141000,
+"filesize": 561607,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Bakery Shop (2) in Vienna, Austria\" by Alcappuccino is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Vienna",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/17944/",
+"creator": "Alcappuccino",
+"creator_url": "https://freesound.org/people/Alcappuccino/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 31831,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/45921667-f758-4124-a042-c49226e883e3/",
+"related_url": "https://api.openverse.org/v1/audio/45921667-f758-4124-a042-c49226e883e3/related/",
+"waveform": "https://api.openverse.org/v1/audio/45921667-f758-4124-a042-c49226e883e3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e19e0aad-2693-473e-aa0a-a868604be720",
+"title": "Bakery Toormix.aif",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/senseixon/sounds/125682",
+"url": "https://cdn.freesound.org/previews/125/125682_262456-hq.mp3",
+"creator": "senseixon",
+"creator_url": "https://freesound.org/people/senseixon",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 314789,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bake",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cake",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "iphone-field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "toormix",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/125682/download/",
+"bit_rate": 0,
+"filesize": 1210440,
+"filetype": "aiff",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Bakery Toormix.aif\" by senseixon is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 13723,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e19e0aad-2693-473e-aa0a-a868604be720/",
+"related_url": "https://api.openverse.org/v1/audio/e19e0aad-2693-473e-aa0a-a868604be720/related/",
+"waveform": "https://api.openverse.org/v1/audio/e19e0aad-2693-473e-aa0a-a868604be720/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "76fdefe2-7a4b-47a5-a92a-020f938846ae",
+"title": "bakery",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1367699",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1367699&format=mp32",
+"creator": "Yshwa",
+"creator_url": "https://www.jamendo.com/artist/492407/Yshwa_(2)",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"hiphop",
+"rnb",
+"soul"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "dope",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "trippy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"bakery\" by Yshwa is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Thank.God.It's.Friday.",
+"foreign_landing_url": "https://www.jamendo.com/album/160901/thank-god-it-s-friday",
+"creator": "Yshwa",
+"creator_url": "https://www.jamendo.com/artist/492407/Yshwa_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 258000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/76fdefe2-7a4b-47a5-a92a-020f938846ae/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/76fdefe2-7a4b-47a5-a92a-020f938846ae/",
+"related_url": "https://api.openverse.org/v1/audio/76fdefe2-7a4b-47a5-a92a-020f938846ae/related/",
+"waveform": "https://api.openverse.org/v1/audio/76fdefe2-7a4b-47a5-a92a-020f938846ae/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4a5f5faa-8ef1-4909-883f-89e098586e0c",
+"title": "HELMS Bakery Truck CLEAN WHISTLE AMP AND EQUALIZED.wav",
+"indexed_on": "2023-03-20T17:21:54.283284Z",
+"foreign_landing_url": "https://freesound.org/people/mlsprovideos/sounds/135818",
+"url": "https://cdn.freesound.org/previews/135/135818_2415245-hq.mp3",
+"creator": "mlsprovideos",
+"creator_url": "https://freesound.org/people/mlsprovideos",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 40183,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Bakery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Helms",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Truck",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Whistle",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/135818/download/",
+"bit_rate": 0,
+"filesize": 288856,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"HELMS Bakery Truck CLEAN WHISTLE AMP AND EQUALIZED.wav\" by mlsprovideos is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1637,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4a5f5faa-8ef1-4909-883f-89e098586e0c/",
+"related_url": "https://api.openverse.org/v1/audio/4a5f5faa-8ef1-4909-883f-89e098586e0c/related/",
+"waveform": "https://api.openverse.org/v1/audio/4a5f5faa-8ef1-4909-883f-89e098586e0c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e794c75e-1455-4d60-a569-be1376104aaf",
+"title": "G20-05-Bakery Bell.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/craigsmith/sounds/438220",
+"url": "https://cdn.freesound.org/previews/438/438220_2524442-hq.mp3",
+"creator": "craigsmith",
+"creator_url": "https://freesound.org/people/craigsmith",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 837120,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Bells",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Optical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Small",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Vintage",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/438220/download/",
+"bit_rate": 0,
+"filesize": 8115010,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"G20-05-Bakery Bell.wav\" by craigsmith is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Vintage Bells & Buzzers",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/24893/",
+"creator": "craigsmith",
+"creator_url": "https://freesound.org/people/craigsmith/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 37663,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e794c75e-1455-4d60-a569-be1376104aaf/",
+"related_url": "https://api.openverse.org/v1/audio/e794c75e-1455-4d60-a569-be1376104aaf/related/",
+"waveform": "https://api.openverse.org/v1/audio/e794c75e-1455-4d60-a569-be1376104aaf/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6cb96318-f721-4337-8c8e-7c7fad94cf36",
+"title": "HELMS Bakery Truck CLEAN WHISTLE 11.wav",
+"indexed_on": "2023-03-20T17:21:54.283284Z",
+"foreign_landing_url": "https://freesound.org/people/mlsprovideos/sounds/135817",
+"url": "https://cdn.freesound.org/previews/135/135817_2415245-hq.mp3",
+"creator": "mlsprovideos",
+"creator_url": "https://freesound.org/people/mlsprovideos",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 39819,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Bakery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Helms",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Truck",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Whistle",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/135817/download/",
+"bit_rate": 0,
+"filesize": 288856,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"HELMS Bakery Truck CLEAN WHISTLE 11.wav\" by mlsprovideos is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1637,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/6cb96318-f721-4337-8c8e-7c7fad94cf36/",
+"related_url": "https://api.openverse.org/v1/audio/6cb96318-f721-4337-8c8e-7c7fad94cf36/related/",
+"waveform": "https://api.openverse.org/v1/audio/6cb96318-f721-4337-8c8e-7c7fad94cf36/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2bf2f0b2-d13b-4c21-ac76-22b3df5d1794",
+"title": "bakery in Marseille",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/aisselles/sounds/645563",
+"url": "https://cdn.freesound.org/previews/645/645563_3200333-hq.mp3",
+"creator": "aisselles",
+"creator_url": "https://freesound.org/people/aisselles",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2493936,
+"filetype": "mp3",
+"tags": [
+{
+"name": "baker",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bakery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "croquemonsieur",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "discussion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "french",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "frenchaccent",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "inside",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "marseille",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ordering",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "speak",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "talk",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "voice",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "woman",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/645563/download/",
+"bit_rate": 67000,
+"filesize": 910265,
+"filetype": "m4a",
+"sample_rate": 44100
+}
+],
+"attribution": "\"bakery in Marseille\" by aisselles is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 109504,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2bf2f0b2-d13b-4c21-ac76-22b3df5d1794/",
+"related_url": "https://api.openverse.org/v1/audio/2bf2f0b2-d13b-4c21-ac76-22b3df5d1794/related/",
+"waveform": "https://api.openverse.org/v1/audio/2bf2f0b2-d13b-4c21-ac76-22b3df5d1794/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "181e8a95-11ae-48fc-a8ce-cba60b6b7e74",
+"title": "Extraterrestrial Bakery",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1509422",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1509422&format=mp32",
+"creator": "Circles",
+"creator_url": "https://www.jamendo.com/artist/337225/Circles",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"experimental"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_verylow",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Extraterrestrial Bakery\" by Circles is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Underground",
+"foreign_landing_url": "https://www.jamendo.com/album/173717/underground",
+"creator": "Circles",
+"creator_url": "https://www.jamendo.com/artist/337225/Circles",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 530000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/181e8a95-11ae-48fc-a8ce-cba60b6b7e74/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/181e8a95-11ae-48fc-a8ce-cba60b6b7e74/",
+"related_url": "https://api.openverse.org/v1/audio/181e8a95-11ae-48fc-a8ce-cba60b6b7e74/related/",
+"waveform": "https://api.openverse.org/v1/audio/181e8a95-11ae-48fc-a8ce-cba60b6b7e74/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1a164e4b-3bbf-44a0-a853-011934bdc5f2",
+"title": "HELMS Bakery Truck Whistle CLIP TO WORK ON FILTER.wav",
+"indexed_on": "2023-03-20T17:21:54.283284Z",
+"foreign_landing_url": "https://freesound.org/people/mlsprovideos/sounds/135819",
+"url": "https://cdn.freesound.org/previews/135/135819_2415245-hq.mp3",
+"creator": "mlsprovideos",
+"creator_url": "https://freesound.org/people/mlsprovideos",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 40077,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Bakery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Helms",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Truck",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Whistle",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/135819/download/",
+"bit_rate": 0,
+"filesize": 288856,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"HELMS Bakery Truck Whistle CLIP TO WORK ON FILTER.wav\" by mlsprovideos is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1637,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1a164e4b-3bbf-44a0-a853-011934bdc5f2/",
+"related_url": "https://api.openverse.org/v1/audio/1a164e4b-3bbf-44a0-a853-011934bdc5f2/related/",
+"waveform": "https://api.openverse.org/v1/audio/1a164e4b-3bbf-44a0-a853-011934bdc5f2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cae8ebbe-4eda-4a93-b278-6a0686cf7d08",
+"title": "HELMS Bakery Truck Whistle 007 .wav",
+"indexed_on": "2023-03-20T17:21:54.283284Z",
+"foreign_landing_url": "https://freesound.org/people/mlsprovideos/sounds/135816",
+"url": "https://cdn.freesound.org/previews/135/135816_2415245-hq.mp3",
+"creator": "mlsprovideos",
+"creator_url": "https://freesound.org/people/mlsprovideos",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 16177,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Bakery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "effect",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Helms",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Truck",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Whistle",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/135816/download/",
+"bit_rate": 0,
+"filesize": 104680,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"HELMS Bakery Truck Whistle 007 .wav\" by mlsprovideos is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 593,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cae8ebbe-4eda-4a93-b278-6a0686cf7d08/",
+"related_url": "https://api.openverse.org/v1/audio/cae8ebbe-4eda-4a93-b278-6a0686cf7d08/related/",
+"waveform": "https://api.openverse.org/v1/audio/cae8ebbe-4eda-4a93-b278-6a0686cf7d08/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "98382281-da44-41a8-9b8a-56dd464a5bfc",
+"title": "HELMS Bakery Truck GREAT WHISTLE 007 STEREO.wav",
+"indexed_on": "2023-03-20T17:21:54.283284Z",
+"foreign_landing_url": "https://freesound.org/people/mlsprovideos/sounds/135820",
+"url": "https://cdn.freesound.org/previews/135/135820_2415245-hq.mp3",
+"creator": "mlsprovideos",
+"creator_url": "https://freesound.org/people/mlsprovideos",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 16071,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Bakery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "effects",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Helms",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Truck",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Whistle",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/135820/download/",
+"bit_rate": 0,
+"filesize": 104680,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"HELMS Bakery Truck GREAT WHISTLE 007 STEREO.wav\" by mlsprovideos is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 593,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/98382281-da44-41a8-9b8a-56dd464a5bfc/",
+"related_url": "https://api.openverse.org/v1/audio/98382281-da44-41a8-9b8a-56dd464a5bfc/related/",
+"waveform": "https://api.openverse.org/v1/audio/98382281-da44-41a8-9b8a-56dd464a5bfc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8c54da5b-694f-472d-9ad2-27c62e2dfac7",
+"title": "market ext covered bakery shop active coins arabic voices mopeds pass outside and radio second half Old Medina, Casablanca, Morocco MS.wav",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/kyles/sounds/451094",
+"url": "https://cdn.freesound.org/previews/451/451094_612689-hq.mp3",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2151456,
+"filetype": "mp3",
+"tags": [
+{
+"name": "active",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "arabic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bakery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Casablanca",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coins",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "covered",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ext",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "market",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Medina",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mopeds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Morocco",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Old",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "outside",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "voices",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/451094/download/",
+"bit_rate": 0,
+"filesize": 27309748,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"market ext covered bakery shop active coins arabic voices mopeds pass outside and radio second half Old Medina, Casablanca, Morocco MS.wav\" by kyles is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Morocco",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/25531/",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 91466,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8c54da5b-694f-472d-9ad2-27c62e2dfac7/",
+"related_url": "https://api.openverse.org/v1/audio/8c54da5b-694f-472d-9ad2-27c62e2dfac7/related/",
+"waveform": "https://api.openverse.org/v1/audio/8c54da5b-694f-472d-9ad2-27c62e2dfac7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "754e77eb-5110-45a7-9d8a-d06e3af85bc3",
+"title": "Yshwa - 05 - Bakery",
+"indexed_on": "2024-03-31T09:59:17.532829Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=88985142",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Yshwa_-_05_-_Bakery.ogg",
+"creator": "Yshwa",
+"creator_url": "https://freemusicarchive.org/music/Yshwa",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 5132410,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Yshwa - 05 - Bakery\" by Yshwa is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 258500,
+"bit_rate": 192000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/754e77eb-5110-45a7-9d8a-d06e3af85bc3/",
+"related_url": "https://api.openverse.org/v1/audio/754e77eb-5110-45a7-9d8a-d06e3af85bc3/related/",
+"waveform": "https://api.openverse.org/v1/audio/754e77eb-5110-45a7-9d8a-d06e3af85bc3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cab91e80-609b-46aa-81af-76e820e3ba7a",
+"title": "89 Poonam Makhija Shares Her Journey from Post-Partition Bakery Roots to Living in Ulhasnagar\u2019s Precarious Housing",
+"indexed_on": "2026-09-27T00:14:10.373360Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=200278145",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/89_Poonam_Makhija_Shares_Her_Journey_from_Post-Partition_Bakery_Roots_to_Living_in_Ulhasnagar%E2%80%99s_Precarious_Housing.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "EngProff",
+"creator_url": "https://commons.wikimedia.org/wiki/User:EngProff",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 20304521,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"89 Poonam Makhija Shares Her Journey from Post-Partition Bakery Roots to Living in Ulhasnagar\u2019s Precarious Housing\" by EngProff is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1413204,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cab91e80-609b-46aa-81af-76e820e3ba7a/",
+"related_url": "https://api.openverse.org/v1/audio/cab91e80-609b-46aa-81af-76e820e3ba7a/related/",
+"waveform": "https://api.openverse.org/v1/audio/cab91e80-609b-46aa-81af-76e820e3ba7a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "faa70c6a-cd9e-42d6-8f7f-c93be9f74bec",
+"title": "Bankrupt Bakery - 01 - One Night",
+"indexed_on": "2023-02-05T12:27:51.491455Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=74423064",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bankrupt_Bakery_-_01_-_One_Night.ogg",
+"creator": "Bankrupt Bakery",
+"creator_url": "https://freemusicarchive.org/music/Bankrupt_Bakery",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 5366161,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Bankrupt Bakery - 01 - One Night\" by Bankrupt Bakery is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 223007,
+"bit_rate": 192000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/faa70c6a-cd9e-42d6-8f7f-c93be9f74bec/",
+"related_url": "https://api.openverse.org/v1/audio/faa70c6a-cd9e-42d6-8f7f-c93be9f74bec/related/",
+"waveform": "https://api.openverse.org/v1/audio/faa70c6a-cd9e-42d6-8f7f-c93be9f74bec/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e7ef543f-b7cd-4e21-b0c2-ab9ee6069db1",
+"title": "Tapestry of Love",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/977187",
+"url": "https://prod-1.storage.jamendo.com/?trackid=977187&format=mp32",
+"creator": "Tokyo507",
+"creator_url": "https://www.jamendo.com/artist/426774/Tokyo507",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Tapestry of Love\" by Tokyo507 is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Tokyo507",
+"foreign_landing_url": "https://www.jamendo.com/album/115060/tokyo507",
+"creator": "Tokyo507",
+"creator_url": "https://www.jamendo.com/artist/426774/Tokyo507",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 257000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e7ef543f-b7cd-4e21-b0c2-ab9ee6069db1/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e7ef543f-b7cd-4e21-b0c2-ab9ee6069db1/",
+"related_url": "https://api.openverse.org/v1/audio/e7ef543f-b7cd-4e21-b0c2-ab9ee6069db1/related/",
+"waveform": "https://api.openverse.org/v1/audio/e7ef543f-b7cd-4e21-b0c2-ab9ee6069db1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f3f77ef9-790d-48a4-9bb4-7938cb1cf246",
+"title": "Tapestry of Love (instrumental)",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/980689",
+"url": "https://prod-1.storage.jamendo.com/?trackid=980689&format=mp32",
+"creator": "Tokyo507",
+"creator_url": "https://www.jamendo.com/artist/426774/Tokyo507",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Tapestry of Love (instrumental)\" by Tokyo507 is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Tokyo507 Instrumental",
+"foreign_landing_url": "https://www.jamendo.com/album/115543/tokyo507-instrumental",
+"creator": "Tokyo507",
+"creator_url": "https://www.jamendo.com/artist/426774/Tokyo507",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 254000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/f3f77ef9-790d-48a4-9bb4-7938cb1cf246/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/f3f77ef9-790d-48a4-9bb4-7938cb1cf246/",
+"related_url": "https://api.openverse.org/v1/audio/f3f77ef9-790d-48a4-9bb4-7938cb1cf246/related/",
+"waveform": "https://api.openverse.org/v1/audio/f3f77ef9-790d-48a4-9bb4-7938cb1cf246/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "df45a2ab-d4d9-46dc-a890-bc1bb0d4fbd5",
+"title": "Closed Code In A Tapestry",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/768151",
+"url": "https://prod-1.storage.jamendo.com/?trackid=768151&format=mp32",
+"creator": "5KFEDDUP",
+"creator_url": "https://www.jamendo.com/artist/357831/5KFEDDUP",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/de/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"industrial",
+"techno"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Closed Code In A Tapestry\" by 5KFEDDUP is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/de/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "One (Second)",
+"foreign_landing_url": "https://www.jamendo.com/album/89996/one-second",
+"creator": "5KFEDDUP",
+"creator_url": "https://www.jamendo.com/artist/357831/5KFEDDUP",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 574000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/df45a2ab-d4d9-46dc-a890-bc1bb0d4fbd5/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/df45a2ab-d4d9-46dc-a890-bc1bb0d4fbd5/",
+"related_url": "https://api.openverse.org/v1/audio/df45a2ab-d4d9-46dc-a890-bc1bb0d4fbd5/related/",
+"waveform": "https://api.openverse.org/v1/audio/df45a2ab-d4d9-46dc-a890-bc1bb0d4fbd5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "afa41f97-d4dd-4e6a-8d3b-837c6409f9ff",
+"title": "Tapestry",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/772073",
+"url": "https://prod-1.storage.jamendo.com/?trackid=772073&format=mp32",
+"creator": "Dale Rucklos",
+"creator_url": "https://www.jamendo.com/artist/350980/Dale_Rucklos",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Tapestry\" by Dale Rucklos is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Lines On My Face",
+"foreign_landing_url": "https://www.jamendo.com/album/90509/the-lines-on-my-face",
+"creator": "Dale Rucklos",
+"creator_url": "https://www.jamendo.com/artist/350980/Dale_Rucklos",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 260000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/afa41f97-d4dd-4e6a-8d3b-837c6409f9ff/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/afa41f97-d4dd-4e6a-8d3b-837c6409f9ff/",
+"related_url": "https://api.openverse.org/v1/audio/afa41f97-d4dd-4e6a-8d3b-837c6409f9ff/related/",
+"waveform": "https://api.openverse.org/v1/audio/afa41f97-d4dd-4e6a-8d3b-837c6409f9ff/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3ee5235a-fdc9-4e40-b553-5eabaa6a1148",
+"title": "A Tapestry of Tangled Tunes",
+"indexed_on": "2024-07-01T18:32:57.174001Z",
+"foreign_landing_url": "https://www.jamendo.com/track/2176958",
+"url": "https://prod-1.storage.jamendo.com/?trackid=2176958&format=mp32",
+"creator": "xgomusic",
+"creator_url": "https://www.jamendo.com/artist/590528/igomusic",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"blues",
+"chillout"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "drums",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"A Tapestry of Tangled Tunes\" by xgomusic is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Harlem Whispers",
+"foreign_landing_url": "https://www.jamendo.com/album/568670/harlem-whispers",
+"creator": "xgomusic",
+"creator_url": "https://www.jamendo.com/artist/590528/igomusic",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 0,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/3ee5235a-fdc9-4e40-b553-5eabaa6a1148/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/3ee5235a-fdc9-4e40-b553-5eabaa6a1148/",
+"related_url": "https://api.openverse.org/v1/audio/3ee5235a-fdc9-4e40-b553-5eabaa6a1148/related/",
+"waveform": "https://api.openverse.org/v1/audio/3ee5235a-fdc9-4e40-b553-5eabaa6a1148/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5857c65b-2316-4983-b444-c0f407a51a1a",
+"title": "In The Tapestry Of Our Lives",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/749127",
+"url": "https://prod-1.storage.jamendo.com/?trackid=749127&format=mp32",
+"creator": "A STAGE KINDLY",
+"creator_url": "https://www.jamendo.com/artist/343741/A_STAGE_KINDLY_(5)",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"In The Tapestry Of Our Lives\" by A STAGE KINDLY is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Maya - Act II",
+"foreign_landing_url": "https://www.jamendo.com/album/87603/maya-act-ii",
+"creator": "A STAGE KINDLY",
+"creator_url": "https://www.jamendo.com/artist/343741/A_STAGE_KINDLY_(5)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 198000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/5857c65b-2316-4983-b444-c0f407a51a1a/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/5857c65b-2316-4983-b444-c0f407a51a1a/",
+"related_url": "https://api.openverse.org/v1/audio/5857c65b-2316-4983-b444-c0f407a51a1a/related/",
+"waveform": "https://api.openverse.org/v1/audio/5857c65b-2316-4983-b444-c0f407a51a1a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "501bdfd5-e894-47ed-9d77-38fd6b4cc6ae",
+"title": "Tapestry",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/685384",
+"url": "https://prod-1.storage.jamendo.com/?trackid=685384&format=mp32",
+"creator": "Kat Boelskov",
+"creator_url": "https://www.jamendo.com/artist/364705/Kat_Boelskov",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Tapestry\" by Kat Boelskov is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Amateur",
+"foreign_landing_url": "https://www.jamendo.com/album/79790/amateur",
+"creator": "Kat Boelskov",
+"creator_url": "https://www.jamendo.com/artist/364705/Kat_Boelskov",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 316000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/501bdfd5-e894-47ed-9d77-38fd6b4cc6ae/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/501bdfd5-e894-47ed-9d77-38fd6b4cc6ae/",
+"related_url": "https://api.openverse.org/v1/audio/501bdfd5-e894-47ed-9d77-38fd6b4cc6ae/related/",
+"waveform": "https://api.openverse.org/v1/audio/501bdfd5-e894-47ed-9d77-38fd6b4cc6ae/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4d6dd34c-1bef-451c-b064-38210d7dedab",
+"title": "Tapestry",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1194515",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1194515&format=mp32",
+"creator": "ice jupiter groove",
+"creator_url": "https://www.jamendo.com/artist/461409/ice_jupiter_groove",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"poprock",
+"rock",
+"synthpop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "electricguitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesiser",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Tapestry\" by ice jupiter groove is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Ice Jupiter Groove",
+"foreign_landing_url": "https://www.jamendo.com/album/143761/ice-jupiter-groove",
+"creator": "ice jupiter groove",
+"creator_url": "https://www.jamendo.com/artist/461409/ice_jupiter_groove",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 221000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/4d6dd34c-1bef-451c-b064-38210d7dedab/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/4d6dd34c-1bef-451c-b064-38210d7dedab/",
+"related_url": "https://api.openverse.org/v1/audio/4d6dd34c-1bef-451c-b064-38210d7dedab/related/",
+"waveform": "https://api.openverse.org/v1/audio/4d6dd34c-1bef-451c-b064-38210d7dedab/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f6ef7d8e-c546-4060-9bd3-ff637a729e30",
+"title": "Power Loom - China.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/RTB45/sounds/185902",
+"url": "https://cdn.freesound.org/previews/185/185902_2409224-hq.mp3",
+"creator": "RTB45",
+"creator_url": "https://freesound.org/people/RTB45",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 6755030,
+"filetype": "mp3",
+"tags": [
+{
+"name": "China",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Jacquard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Mechanization",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "card",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cloth",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "embroidery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "factory",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gear",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gears",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "industrial",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "industry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "loom",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machinery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "motor",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "motorized",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "power",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "production",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "punch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "repetitive",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shaft",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tapestry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "textile",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "weave",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/185902/download/",
+"bit_rate": 0,
+"filesize": 51783734,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Power Loom - China.wav\" by RTB45 is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 293546,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f6ef7d8e-c546-4060-9bd3-ff637a729e30/",
+"related_url": "https://api.openverse.org/v1/audio/f6ef7d8e-c546-4060-9bd3-ff637a729e30/related/",
+"waveform": "https://api.openverse.org/v1/audio/f6ef7d8e-c546-4060-9bd3-ff637a729e30/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "31e52c77-50e6-4322-a9fd-4e60f2bba993",
+"title": "Sci-fi Horror Spectral Chorus Transition Soundscape",
+"indexed_on": "2025-07-03T01:17:50.306821Z",
+"foreign_landing_url": "https://freesound.org/people/CrashBulb/sounds/790338",
+"url": "https://cdn.freesound.org/previews/790/790338_16665092-hq.mp3",
+"creator": "CrashBulb",
+"creator_url": "https://freesound.org/people/CrashBulb",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 453040,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Alien",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Horror",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "creepy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "demon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drama",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "evil",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fear",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ghost",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ghostly",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gothic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "haunted",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "horror",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nightmare",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "other-worldly",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "outer-space",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "phantom",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "poltergeist",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scary",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sci-fi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scream",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "singing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sinister",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundtrack",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spectre",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spirits",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spooky",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "transition",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "voices",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/790338/download/",
+"bit_rate": 0,
+"filesize": 5468392,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Sci-fi Horror Spectral Chorus Transition Soundscape\" by CrashBulb is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Horror and Sci-fi Vault",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/42946/",
+"creator": "CrashBulb",
+"creator_url": "https://freesound.org/people/CrashBulb/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 20550,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/31e52c77-50e6-4322-a9fd-4e60f2bba993/",
+"related_url": "https://api.openverse.org/v1/audio/31e52c77-50e6-4322-a9fd-4e60f2bba993/related/",
+"waveform": "https://api.openverse.org/v1/audio/31e52c77-50e6-4322-a9fd-4e60f2bba993/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c185f3d0-7538-4a25-969a-8bdf5b97c1eb",
+"title": "Birds in forest on sunny day (2)",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/pineapplemania07/sounds/726527",
+"url": "https://cdn.freesound.org/previews/726/726527_15727860-hq.mp3",
+"creator": "pineapplemania07",
+"creator_url": "https://freesound.org/people/pineapplemania07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 21505608,
+"filetype": "mp3",
+"tags": [
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birdsong",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/726527/download/",
+"bit_rate": 160000,
+"filesize": 22549920,
+"filetype": "mp3",
+"sample_rate": 24000
+}
+],
+"attribution": "\"Birds in forest on sunny day (2)\" by pineapplemania07 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1127470,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c185f3d0-7538-4a25-969a-8bdf5b97c1eb/",
+"related_url": "https://api.openverse.org/v1/audio/c185f3d0-7538-4a25-969a-8bdf5b97c1eb/related/",
+"waveform": "https://api.openverse.org/v1/audio/c185f3d0-7538-4a25-969a-8bdf5b97c1eb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ff597a7c-9394-454a-8499-8f8e4238221b",
+"title": "Downford Abbey: Episode 3 (Saint Lucy's Light)",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Tomentum+/sounds/705232",
+"url": "https://cdn.freesound.org/previews/705/705232_14510673-hq.mp3",
+"creator": "Tomentum+",
+"creator_url": "https://freesound.org/people/Tomentum+",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 781945,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Abbey",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "BBC",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Downton",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "England",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cinematic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drama",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "film",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "historical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "intrigue",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "love",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "movie",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mystery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "novella",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "opera",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "orchestral",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "period",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "podcast",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "radio",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "romance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "romantic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "score",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "serene",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundtrack",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "suspense",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "symphony",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "television",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vintage",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "violin",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/705232/download/",
+"bit_rate": 0,
+"filesize": 6179986,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Downford Abbey: Episode 3 (Saint Lucy's Light)\" by Tomentum+ is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 35032,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ff597a7c-9394-454a-8499-8f8e4238221b/",
+"related_url": "https://api.openverse.org/v1/audio/ff597a7c-9394-454a-8499-8f8e4238221b/related/",
+"waveform": "https://api.openverse.org/v1/audio/ff597a7c-9394-454a-8499-8f8e4238221b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b02d463b-3892-4e4a-9ee9-bcbe3039d0fa",
+"title": "Birds singing in and leaves rustling with the wind",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/pineapplemania07/sounds/729125",
+"url": "https://cdn.freesound.org/previews/729/729125_15727860-hq.mp3",
+"creator": "pineapplemania07",
+"creator_url": "https://freesound.org/people/pineapplemania07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 5697864,
+"filetype": "mp3",
+"tags": [
+{
+"name": "harmonious",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "melodies",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "music",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "natures",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/729125/download/",
+"bit_rate": 160000,
+"filesize": 5912640,
+"filetype": "mp3",
+"sample_rate": 24000
+}
+],
+"attribution": "\"Birds singing in and leaves rustling with the wind\" by pineapplemania07 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 295610,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b02d463b-3892-4e4a-9ee9-bcbe3039d0fa/",
+"related_url": "https://api.openverse.org/v1/audio/b02d463b-3892-4e4a-9ee9-bcbe3039d0fa/related/",
+"waveform": "https://api.openverse.org/v1/audio/b02d463b-3892-4e4a-9ee9-bcbe3039d0fa/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bbd11c72-3e60-4716-9fa0-dae62ee8359d",
+"title": "Mountain forest high quality sound",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/pineapplemania07/sounds/735202",
+"url": "https://cdn.freesound.org/previews/735/735202_15727860-hq.mp3",
+"creator": "pineapplemania07",
+"creator_url": "https://freesound.org/people/pineapplemania07",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 6924585,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birdsong",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "forest",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "harmonious",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "melodies",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "music",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "natures",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relax",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sounds",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/735202/download/",
+"bit_rate": 256000,
+"filesize": 9686622,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Mountain forest high quality sound\" by pineapplemania07 is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 302695,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/bbd11c72-3e60-4716-9fa0-dae62ee8359d/",
+"related_url": "https://api.openverse.org/v1/audio/bbd11c72-3e60-4716-9fa0-dae62ee8359d/related/",
+"waveform": "https://api.openverse.org/v1/audio/bbd11c72-3e60-4716-9fa0-dae62ee8359d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7dbeeb2f-86b0-480f-8c12-f9d55ad4edc8",
+"title": "River from mountains",
+"indexed_on": "2024-07-18T23:07:51.922982Z",
+"foreign_landing_url": "https://freesound.org/people/travel_ant/sounds/698985",
+"url": "https://cdn.freesound.org/previews/698/698985_15159521-hq.mp3",
+"creator": "travel_ant",
+"creator_url": "https://freesound.org/people/travel_ant",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 299688,
+"filetype": "mp3",
+"tags": [
+{
+"name": "River",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "near-mountain",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/698985/download/",
+"bit_rate": 0,
+"filesize": 2498638,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"River from mountains\" by travel_ant is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 13013,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/7dbeeb2f-86b0-480f-8c12-f9d55ad4edc8/",
+"related_url": "https://api.openverse.org/v1/audio/7dbeeb2f-86b0-480f-8c12-f9d55ad4edc8/related/",
+"waveform": "https://api.openverse.org/v1/audio/7dbeeb2f-86b0-480f-8c12-f9d55ad4edc8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a55e4c3f-777a-4da6-a5db-588bc08711ca",
+"title": "Hoving ft Laniakea - Cascade (Ambient)",
+"indexed_on": "2024-10-04T00:05:15.604069Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=153502650",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hoving_ft_Laniakea_-_Cascade_%28Ambient%29.opus",
+"creator": "Hoving",
+"creator_url": "https://soundcloud.com/hoving",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 2160538,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Hoving ft Laniakea - Cascade (Ambient)\" by Hoving is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 256237,
+"bit_rate": null,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a55e4c3f-777a-4da6-a5db-588bc08711ca/",
+"related_url": "https://api.openverse.org/v1/audio/a55e4c3f-777a-4da6-a5db-588bc08711ca/related/",
+"waveform": "https://api.openverse.org/v1/audio/a55e4c3f-777a-4da6-a5db-588bc08711ca/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4da76802-a9a8-4f92-8829-27a09eb7a9b6",
+"title": "African Spirit -AudioConverter",
+"indexed_on": "2024-05-01T00:09:54.423874Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=147914847",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/African_Spirit_-AudioConverter.ogg",
+"creator": "Umar2z",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Umar2z",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 2350985,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"African Spirit -AudioConverter\" by Umar2z is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 193828,
+"bit_rate": 160000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4da76802-a9a8-4f92-8829-27a09eb7a9b6/",
+"related_url": "https://api.openverse.org/v1/audio/4da76802-a9a8-4f92-8829-27a09eb7a9b6/related/",
+"waveform": "https://api.openverse.org/v1/audio/4da76802-a9a8-4f92-8829-27a09eb7a9b6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f9100b71-c53a-42ce-abde-f46b35d6869c",
+"title": "Indian Folk Classical Flute Music (1)",
+"indexed_on": "2025-04-01T00:05:59.663851Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=163033967",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Indian_Folk_Classical_Flute_Music_%281%29.wav",
+"creator": "MayankSingh33",
+"creator_url": "https://commons.wikimedia.org/w/index.php?title=User:MayankSingh33&action=edit&redlink=1",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 29716558,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Indian Folk Classical Flute Music (1)\" by MayankSingh33 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 154773,
+"bit_rate": 1536000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f9100b71-c53a-42ce-abde-f46b35d6869c/",
+"related_url": "https://api.openverse.org/v1/audio/f9100b71-c53a-42ce-abde-f46b35d6869c/related/",
+"waveform": "https://api.openverse.org/v1/audio/f9100b71-c53a-42ce-abde-f46b35d6869c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fa3efbff-a877-4cc8-99e2-43236f7dac80",
+"title": "Bharud a marathi lokgeet",
+"indexed_on": "2024-04-01T00:06:10.863967Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=146966402",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Bharud_a_marathi_lokgeet.ogg",
+"creator": "The open draft",
+"creator_url": "https://commons.wikimedia.org/wiki/User:The_open_draft",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 3285575,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Bharud a marathi lokgeet\" by The open draft is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 106319,
+"bit_rate": 320000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/fa3efbff-a877-4cc8-99e2-43236f7dac80/",
+"related_url": "https://api.openverse.org/v1/audio/fa3efbff-a877-4cc8-99e2-43236f7dac80/related/",
+"waveform": "https://api.openverse.org/v1/audio/fa3efbff-a877-4cc8-99e2-43236f7dac80/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "aaf462dc-7c28-4bb7-98ea-043981e34f19",
+"title": "Indian Folk Classical Flute Music (2)",
+"indexed_on": "2025-04-01T00:05:59.663851Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=163033974",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Indian_Folk_Classical_Flute_Music_%282%29.wav",
+"creator": "MayankSingh33",
+"creator_url": "https://commons.wikimedia.org/w/index.php?title=User:MayankSingh33&action=edit&redlink=1",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 9834574,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Indian Folk Classical Flute Music (2)\" by MayankSingh33 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 55751,
+"bit_rate": 1411200,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/aaf462dc-7c28-4bb7-98ea-043981e34f19/",
+"related_url": "https://api.openverse.org/v1/audio/aaf462dc-7c28-4bb7-98ea-043981e34f19/related/",
+"waveform": "https://api.openverse.org/v1/audio/aaf462dc-7c28-4bb7-98ea-043981e34f19/waveform/",
+"unstable__sensitivity": []
 }
 ]
