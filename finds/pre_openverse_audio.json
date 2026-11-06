@@ -47958,5 +47958,6960 @@
 "related_url": "https://api.openverse.org/v1/audio/2c4c9707-ae88-4ce2-abff-1c84f1c52ed4/related/",
 "waveform": "https://api.openverse.org/v1/audio/2c4c9707-ae88-4ce2-abff-1c84f1c52ed4/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "2167f8d9-1e12-40c7-af4f-f96894d9ac41",
+"title": "Moth",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/443371",
+"url": "https://prod-1.storage.jamendo.com/?trackid=443371&format=mp32",
+"creator": "Professor Kliq",
+"creator_url": "https://www.jamendo.com/artist/339989/Professor_Kliq",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Moth\" by Professor Kliq is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Community Service II",
+"foreign_landing_url": "https://www.jamendo.com/album/53465/community-service-ii",
+"creator": "Professor Kliq",
+"creator_url": "https://www.jamendo.com/artist/339989/Professor_Kliq",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 463000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/2167f8d9-1e12-40c7-af4f-f96894d9ac41/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/2167f8d9-1e12-40c7-af4f-f96894d9ac41/",
+"related_url": "https://api.openverse.org/v1/audio/2167f8d9-1e12-40c7-af4f-f96894d9ac41/related/",
+"waveform": "https://api.openverse.org/v1/audio/2167f8d9-1e12-40c7-af4f-f96894d9ac41/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0cbcbb72-0468-4625-b8d0-16dce626ace4",
+"title": "Crazy moths",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1840888",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1840888&format=mp32",
+"creator": "Paul Seling",
+"creator_url": "https://www.jamendo.com/artist/497910/Paul_Seling",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"indietronica"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "80s",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "retro",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "romantic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Crazy moths\" by Paul Seling is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Moonlighting",
+"foreign_landing_url": "https://www.jamendo.com/album/200317/moonlighting",
+"creator": "Paul Seling",
+"creator_url": "https://www.jamendo.com/artist/497910/Paul_Seling",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 246000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/0cbcbb72-0468-4625-b8d0-16dce626ace4/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/0cbcbb72-0468-4625-b8d0-16dce626ace4/",
+"related_url": "https://api.openverse.org/v1/audio/0cbcbb72-0468-4625-b8d0-16dce626ace4/related/",
+"waveform": "https://api.openverse.org/v1/audio/0cbcbb72-0468-4625-b8d0-16dce626ace4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1f681ec8-c075-40b3-ad8e-ae8878813233",
+"title": "En-us-moth",
+"indexed_on": "2024-12-22T14:09:21.643729Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=872821",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/22/En-us-moth.ogg",
+"creator": "Dvortygirl",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Dvortygirl",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 20381,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-us-moth\" by Dvortygirl is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 638,
+"bit_rate": null,
+"sample_rate": 96000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1f681ec8-c075-40b3-ad8e-ae8878813233/",
+"related_url": "https://api.openverse.org/v1/audio/1f681ec8-c075-40b3-ad8e-ae8878813233/related/",
+"waveform": "https://api.openverse.org/v1/audio/1f681ec8-c075-40b3-ad8e-ae8878813233/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "17a3cb12-7ebc-429b-b9ef-4e14acae0490",
+"title": "LL-Q1860 (eng)-Vealhurl-moth (moat)",
+"indexed_on": "2023-01-01T15:00:01.073998Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=88876373",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/93/LL-Q1860_%28eng%29-Vealhurl-moth_%28moat%29.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 101164,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-moth (moat)\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1053,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/17a3cb12-7ebc-429b-b9ef-4e14acae0490/",
+"related_url": "https://api.openverse.org/v1/audio/17a3cb12-7ebc-429b-b9ef-4e14acae0490/related/",
+"waveform": "https://api.openverse.org/v1/audio/17a3cb12-7ebc-429b-b9ef-4e14acae0490/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "24625a7b-3a42-4439-a264-8215172dbac8",
+"title": "Flying moth 1.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/kaonaya/sounds/131339",
+"url": "https://cdn.freesound.org/previews/131/131339_1513948-hq.mp3",
+"creator": "kaonaya",
+"creator_url": "https://freesound.org/people/kaonaya",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 113870,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bug",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "flying",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "moth",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/131339/download/",
+"bit_rate": 0,
+"filesize": 1143888,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Flying moth 1.wav\" by kaonaya is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Flying moth",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/8245/",
+"creator": "kaonaya",
+"creator_url": "https://freesound.org/people/kaonaya/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 4276,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/24625a7b-3a42-4439-a264-8215172dbac8/",
+"related_url": "https://api.openverse.org/v1/audio/24625a7b-3a42-4439-a264-8215172dbac8/related/",
+"waveform": "https://api.openverse.org/v1/audio/24625a7b-3a42-4439-a264-8215172dbac8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "076b3b63-1a3c-4b5f-ba75-479ed3223983",
+"title": "Roar Of The Moth",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1083829",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1083829&format=mp32",
+"creator": "Jboughen",
+"creator_url": "https://www.jamendo.com/artist/429048/Jboughen",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "complex",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "groovy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Roar Of The Moth\" by Jboughen is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "J. Boughen's Little Collection Of Songs - Sampler",
+"foreign_landing_url": "https://www.jamendo.com/album/129091/j-boughen-s-little-collection-of-songs-sampler",
+"creator": "Jboughen",
+"creator_url": "https://www.jamendo.com/artist/429048/Jboughen",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 466000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/076b3b63-1a3c-4b5f-ba75-479ed3223983/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/076b3b63-1a3c-4b5f-ba75-479ed3223983/",
+"related_url": "https://api.openverse.org/v1/audio/076b3b63-1a3c-4b5f-ba75-479ed3223983/related/",
+"waveform": "https://api.openverse.org/v1/audio/076b3b63-1a3c-4b5f-ba75-479ed3223983/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c8518534-c4d1-4ae3-9bca-7523a55b0419",
+"title": "LL-Q1860 (eng)-Vealhurl-moth-eaten",
+"indexed_on": "2025-03-17T00:06:33.171521Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=162205979",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/18/LL-Q1860_%28eng%29-Vealhurl-moth-eaten.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 111404,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-moth-eaten\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1160,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c8518534-c4d1-4ae3-9bca-7523a55b0419/",
+"related_url": "https://api.openverse.org/v1/audio/c8518534-c4d1-4ae3-9bca-7523a55b0419/related/",
+"waveform": "https://api.openverse.org/v1/audio/c8518534-c4d1-4ae3-9bca-7523a55b0419/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "09e617fb-87bc-4422-b28d-f54ec6c8c62d",
+"title": "Moths in my hair",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1195290",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1195290&format=mp32",
+"creator": "Simon van Gend",
+"creator_url": "https://www.jamendo.com/artist/461591/Simon_van_Gend_(2)",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"folk",
+"indie",
+"singersongwriter"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "introspective",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "melancholia",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Moths in my hair\" by Simon van Gend is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Blinking and Breathing",
+"foreign_landing_url": "https://www.jamendo.com/album/143838/blinking-and-breathing",
+"creator": "Simon van Gend",
+"creator_url": "https://www.jamendo.com/artist/461591/Simon_van_Gend_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 195000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/09e617fb-87bc-4422-b28d-f54ec6c8c62d/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/09e617fb-87bc-4422-b28d-f54ec6c8c62d/",
+"related_url": "https://api.openverse.org/v1/audio/09e617fb-87bc-4422-b28d-f54ec6c8c62d/related/",
+"waveform": "https://api.openverse.org/v1/audio/09e617fb-87bc-4422-b28d-f54ec6c8c62d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "57b0f666-893c-499f-aac7-5d1a563c8451",
+"title": "Moth To A Flame",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1860352",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1860352&format=mp32",
+"creator": "Stefan Kartenberg",
+"creator_url": "https://www.jamendo.com/artist/487675/Stefan_Kartenberg",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"folk"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "love",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Moth To A Flame\" by Stefan Kartenberg is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Music for film: folk editions Vol. 4",
+"foreign_landing_url": "https://www.jamendo.com/album/201736/music-for-film-folk-editions-vol-4",
+"creator": "Stefan Kartenberg",
+"creator_url": "https://www.jamendo.com/artist/487675/Stefan_Kartenberg",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 209000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/57b0f666-893c-499f-aac7-5d1a563c8451/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/57b0f666-893c-499f-aac7-5d1a563c8451/",
+"related_url": "https://api.openverse.org/v1/audio/57b0f666-893c-499f-aac7-5d1a563c8451/related/",
+"waveform": "https://api.openverse.org/v1/audio/57b0f666-893c-499f-aac7-5d1a563c8451/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c10bc243-2da1-4bd7-8e7f-1099d0351579",
+"title": "LL-Q1860 (eng)-Vealhurl-Picasso moth",
+"indexed_on": "2025-02-12T00:09:45.768270Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=159559795",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/LL-Q1860_%28eng%29-Vealhurl-Picasso_moth.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 106284,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-Picasso moth\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1106,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c10bc243-2da1-4bd7-8e7f-1099d0351579/",
+"related_url": "https://api.openverse.org/v1/audio/c10bc243-2da1-4bd7-8e7f-1099d0351579/related/",
+"waveform": "https://api.openverse.org/v1/audio/c10bc243-2da1-4bd7-8e7f-1099d0351579/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "92cc0e4c-f65e-468c-9c33-ce4bf45ea7c8",
+"title": "LL-Q1860 (eng)-Flame, not lame-like a moth to flame",
+"indexed_on": "2024-11-19T00:20:50.347651Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=155328587",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/LL-Q1860_%28eng%29-Flame%2C_not_lame-like_a_moth_to_flame.wav",
+"creator": "Speaker: Flame, not lame Recorder: Flame",
+"creator_url": "https://lingualibre.org/wiki/Q1191054",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 167980,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Flame, not lame-like a moth to flame\" by Speaker: Flame, not lame Recorder: Flame is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1749,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/92cc0e4c-f65e-468c-9c33-ce4bf45ea7c8/",
+"related_url": "https://api.openverse.org/v1/audio/92cc0e4c-f65e-468c-9c33-ce4bf45ea7c8/related/",
+"waveform": "https://api.openverse.org/v1/audio/92cc0e4c-f65e-468c-9c33-ce4bf45ea7c8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "70d15ba5-da04-40e9-8dc4-6c7389ed4f68",
+"title": "LL-Q1860 (eng)-Ajshul-moths",
+"indexed_on": "2022-10-09T06:15:25.390077Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=113807622",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/69/LL-Q1860_%28eng%29-Ajshul-moths.wav",
+"creator": "Speaker: Ajshul Recorder: Ajshul",
+"creator_url": "https://lingualibre.org/wiki/Q724632",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 99604,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Ajshul-moths\" by Speaker: Ajshul Recorder: Ajshul is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1128,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/70d15ba5-da04-40e9-8dc4-6c7389ed4f68/",
+"related_url": "https://api.openverse.org/v1/audio/70d15ba5-da04-40e9-8dc4-6c7389ed4f68/related/",
+"waveform": "https://api.openverse.org/v1/audio/70d15ba5-da04-40e9-8dc4-6c7389ed4f68/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5129544e-fd91-4d3c-b3b1-e5f50f904e22",
+"title": "LL-Q1860 (eng)-Vealhurl-clothes moth",
+"indexed_on": "2026-01-01T00:13:18.466533Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=181002149",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/27/LL-Q1860_%28eng%29-Vealhurl-clothes_moth.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 97836,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-clothes moth\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1018,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5129544e-fd91-4d3c-b3b1-e5f50f904e22/",
+"related_url": "https://api.openverse.org/v1/audio/5129544e-fd91-4d3c-b3b1-e5f50f904e22/related/",
+"waveform": "https://api.openverse.org/v1/audio/5129544e-fd91-4d3c-b3b1-e5f50f904e22/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "df405955-64ba-42f8-8801-d1ca84720636",
+"title": "LL-Q1860 (eng)-Vealhurl-flower moth",
+"indexed_on": "2025-06-26T00:26:57.464596Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=168488468",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/42/LL-Q1860_%28eng%29-Vealhurl-flower_moth.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 91180,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-flower moth\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 949,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/df405955-64ba-42f8-8801-d1ca84720636/",
+"related_url": "https://api.openverse.org/v1/audio/df405955-64ba-42f8-8801-d1ca84720636/related/",
+"waveform": "https://api.openverse.org/v1/audio/df405955-64ba-42f8-8801-d1ca84720636/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f6bf5c24-77a7-42ff-8a2b-5d4045185fe1",
+"title": "LL-Q1860 (eng)-Vealhurl-hawk moth",
+"indexed_on": "2025-08-28T00:09:52.292479Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=173689881",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/LL-Q1860_%28eng%29-Vealhurl-hawk_moth.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 90412,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-hawk moth\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 941,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f6bf5c24-77a7-42ff-8a2b-5d4045185fe1/",
+"related_url": "https://api.openverse.org/v1/audio/f6bf5c24-77a7-42ff-8a2b-5d4045185fe1/related/",
+"waveform": "https://api.openverse.org/v1/audio/f6bf5c24-77a7-42ff-8a2b-5d4045185fe1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ae7a3bb8-1de6-40e9-8572-aa95aa66a839",
+"title": "LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-Picasso moth",
+"indexed_on": "2025-05-01T00:46:07.588159Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=164413923",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/LL-Q1860_%28eng%29-Naomi_Persephone_Amethyst_%28NaomiAmethyst%29-Picasso_moth.wav",
+"creator": "Speaker: Naomi Persephone Amethyst Recorder: NaomiAmethyst",
+"creator_url": "https://lingualibre.org/wiki/Q1492185",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 106028,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-Picasso moth\" by Speaker: Naomi Persephone Amethyst Recorder: NaomiAmethyst is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1104,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ae7a3bb8-1de6-40e9-8572-aa95aa66a839/",
+"related_url": "https://api.openverse.org/v1/audio/ae7a3bb8-1de6-40e9-8572-aa95aa66a839/related/",
+"waveform": "https://api.openverse.org/v1/audio/ae7a3bb8-1de6-40e9-8572-aa95aa66a839/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4d1e8290-09da-4580-994b-60d0c4fcf21c",
+"title": "LL-Q1860 (eng)-Vealhurl-tussock moth",
+"indexed_on": "2025-06-27T00:24:13.552137Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=168560627",
+"url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/LL-Q1860_%28eng%29-Vealhurl-tussock_moth.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 95788,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-tussock moth\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 997,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4d1e8290-09da-4580-994b-60d0c4fcf21c/",
+"related_url": "https://api.openverse.org/v1/audio/4d1e8290-09da-4580-994b-60d0c4fcf21c/related/",
+"waveform": "https://api.openverse.org/v1/audio/4d1e8290-09da-4580-994b-60d0c4fcf21c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "98bf4feb-3733-4716-90da-948cf1b6e68a",
+"title": "LL-Q150 (fra)-J\u959e\u9599y-G\u9ef1ther-Heinz J\u92d2nick-Moth",
+"indexed_on": "2023-12-26T00:14:22.297617Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=142890352",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/LL-Q150_%28fra%29-J%C3%A9r%C3%A9my-G%C3%BCnther-Heinz_J%C3%A4hnick-Moth.wav",
+"creator": "Speaker: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick Recorder: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick",
+"creator_url": "https://lingualibre.org/wiki/Q1094311",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 65068,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick-Moth\" by Speaker: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick Recorder: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 677,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/98bf4feb-3733-4716-90da-948cf1b6e68a/",
+"related_url": "https://api.openverse.org/v1/audio/98bf4feb-3733-4716-90da-948cf1b6e68a/related/",
+"waveform": "https://api.openverse.org/v1/audio/98bf4feb-3733-4716-90da-948cf1b6e68a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "daca7698-d70e-4fa7-9c19-f7c19722efbe",
+"title": "LL-Q1860 (eng)-Arlo Barnes-moth",
+"indexed_on": "2024-08-04T21:01:07.632021Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=105081045",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/06/LL-Q1860_%28eng%29-Arlo_Barnes-moth.wav",
+"creator": "Speaker: Arlo Barnes Recorder: Arlo Barnes",
+"creator_url": "https://lingualibre.org/wiki/Q532035",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 75028,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Arlo Barnes-moth\" by Speaker: Arlo Barnes Recorder: Arlo Barnes is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 850,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/daca7698-d70e-4fa7-9c19-f7c19722efbe/",
+"related_url": "https://api.openverse.org/v1/audio/daca7698-d70e-4fa7-9c19-f7c19722efbe/related/",
+"waveform": "https://api.openverse.org/v1/audio/daca7698-d70e-4fa7-9c19-f7c19722efbe/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f5edf99a-9c25-4825-8851-d946a6849694",
+"title": "LL-Q1860 (eng)-Vealhurl-webworm moth",
+"indexed_on": "2025-03-04T00:13:50.333867Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=161048979",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/49/LL-Q1860_%28eng%29-Vealhurl-webworm_moth.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 120620,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-webworm moth\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1256,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f5edf99a-9c25-4825-8851-d946a6849694/",
+"related_url": "https://api.openverse.org/v1/audio/f5edf99a-9c25-4825-8851-d946a6849694/related/",
+"waveform": "https://api.openverse.org/v1/audio/f5edf99a-9c25-4825-8851-d946a6849694/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c6bd9d7c-e2c1-4918-8386-a7da1ca49b21",
+"title": "Marsh",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1119898",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1119898&format=mp32",
+"creator": "Solxis",
+"creator_url": "https://www.jamendo.com/artist/435992/Solxis_(3)",
+"license": "by-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"newage"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "naturesounds",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Marsh\" by Solxis is licensed under CC BY-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Sounds + Nature Volume 2",
+"foreign_landing_url": "https://www.jamendo.com/album/133839/sounds-nature-volume-2",
+"creator": "Solxis",
+"creator_url": "https://www.jamendo.com/artist/435992/Solxis_(3)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 309000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/c6bd9d7c-e2c1-4918-8386-a7da1ca49b21/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/c6bd9d7c-e2c1-4918-8386-a7da1ca49b21/",
+"related_url": "https://api.openverse.org/v1/audio/c6bd9d7c-e2c1-4918-8386-a7da1ca49b21/related/",
+"waveform": "https://api.openverse.org/v1/audio/c6bd9d7c-e2c1-4918-8386-a7da1ca49b21/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7dce7b1a-94e7-4bdd-bcb1-5c39f2cc9dbd",
+"title": "Acrocephalus palustris - Marsh Warbler XC510488",
+"indexed_on": "2024-01-21T16:01:35.335105Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=89564776",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Acrocephalus_palustris_-_Marsh_Warbler_XC510488.mp3",
+"creator": "Mirko Tomasi",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 1540547,
+"filetype": "mp3",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Acrocephalus palustris - Marsh Warbler XC510488\" by Mirko Tomasi is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 64018,
+"bit_rate": 192000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/7dce7b1a-94e7-4bdd-bcb1-5c39f2cc9dbd/",
+"related_url": "https://api.openverse.org/v1/audio/7dce7b1a-94e7-4bdd-bcb1-5c39f2cc9dbd/related/",
+"waveform": "https://api.openverse.org/v1/audio/7dce7b1a-94e7-4bdd-bcb1-5c39f2cc9dbd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4521683b-8687-4dda-ac7c-254650291651",
+"title": "Marsh Warbler (Acrocephalus palustris)",
+"indexed_on": "2023-07-02T13:33:17.194038Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=44606137",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Marsh_Warbler_%28Acrocephalus_palustris%29_%28W_ACROCEPHALUS_PALUSTRIS_R10_C2%29.ogg",
+"creator": null,
+"creator_url": null,
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 2660808,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"<div class='fn'> Marsh Warbler (Acrocephalus palustris)</div>\" is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 92383,
+"bit_rate": 239920,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4521683b-8687-4dda-ac7c-254650291651/",
+"related_url": "https://api.openverse.org/v1/audio/4521683b-8687-4dda-ac7c-254650291651/related/",
+"waveform": "https://api.openverse.org/v1/audio/4521683b-8687-4dda-ac7c-254650291651/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1b696386-51dd-41bd-a67f-95e93fd00b7f",
+"title": "Maavrick's Tear's Marsh",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/519532",
+"url": "https://prod-1.storage.jamendo.com/?trackid=519532&format=mp32",
+"creator": "Arnaud Cond\u00e9",
+"creator_url": "https://www.jamendo.com/artist/341355/Arnaud_Conde",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/fr/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"classical",
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Maavrick's Tear's Marsh\" by Arnaud Cond\u00e9 is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/fr/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Velvorn : The Bladed Druid - Act 3 Soundtrack",
+"foreign_landing_url": "https://www.jamendo.com/album/60748/velvorn-the-bladed-druid-act-3-soundtrack",
+"creator": "Arnaud Cond\u00e9",
+"creator_url": "https://www.jamendo.com/artist/341355/Arnaud_Conde",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 94000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/1b696386-51dd-41bd-a67f-95e93fd00b7f/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/1b696386-51dd-41bd-a67f-95e93fd00b7f/",
+"related_url": "https://api.openverse.org/v1/audio/1b696386-51dd-41bd-a67f-95e93fd00b7f/related/",
+"waveform": "https://api.openverse.org/v1/audio/1b696386-51dd-41bd-a67f-95e93fd00b7f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "865b2361-c6bc-4f93-be14-410021566000",
+"title": "En-us-marsh",
+"indexed_on": "2024-09-22T17:17:11.078451Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=1780210",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/08/En-us-marsh.ogg",
+"creator": "Dvortygirl",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Dvortygirl",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 13728,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-us-marsh\" by Dvortygirl is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1100,
+"bit_rate": 80000,
+"sample_rate": 44000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/865b2361-c6bc-4f93-be14-410021566000/",
+"related_url": "https://api.openverse.org/v1/audio/865b2361-c6bc-4f93-be14-410021566000/related/",
+"waveform": "https://api.openverse.org/v1/audio/865b2361-c6bc-4f93-be14-410021566000/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "89519c42-36c7-4e97-aa01-c99344f21f2a",
+"title": "Marsh frog (Pelophylax ridibundus) call",
+"indexed_on": "2025-03-16T20:51:23.057069Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=50221758",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Marsh_frog_%28Pelophylax_ridibundus%29_call.ogg",
+"creator": "Llivermore",
+"creator_url": "https://commons.wikimedia.org/w/index.php?title=User:Llivermore&action=edit&redlink=1",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 89926,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Marsh frog (Pelophylax ridibundus) call\" by Llivermore is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 23000,
+"bit_rate": 48000,
+"sample_rate": 16000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/89519c42-36c7-4e97-aa01-c99344f21f2a/",
+"related_url": "https://api.openverse.org/v1/audio/89519c42-36c7-4e97-aa01-c99344f21f2a/related/",
+"waveform": "https://api.openverse.org/v1/audio/89519c42-36c7-4e97-aa01-c99344f21f2a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7bd522b2-c483-4ab1-9000-0fe5c1b04fea",
+"title": "Biophonic invasion Marsh frog Rhine river Switzerland",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/Astounded/sounds/519272",
+"url": "https://cdn.freesound.org/previews/519/519272_10201334-hq.mp3",
+"creator": "Astounded",
+"creator_url": "https://freesound.org/people/Astounded",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 3412320,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Biophonic-invasion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "croak",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "croaking",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "frog",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Frog",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "frogs",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "insects",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Marsh-frog",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "night",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Pelophylax-ridibundus",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "plop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pond",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "river-life",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spring",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "swamp",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "toads",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/519272/download/",
+"bit_rate": 0,
+"filesize": 85858420,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Biophonic invasion Marsh frog Rhine river Switzerland\" by Astounded is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 149059,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/7bd522b2-c483-4ab1-9000-0fe5c1b04fea/",
+"related_url": "https://api.openverse.org/v1/audio/7bd522b2-c483-4ab1-9000-0fe5c1b04fea/related/",
+"waveform": "https://api.openverse.org/v1/audio/7bd522b2-c483-4ab1-9000-0fe5c1b04fea/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "95c2ef89-5c7a-4e7e-8622-c5205c8d2932",
+"title": "Cistothorus palustris - Marsh Wren - XC105805",
+"indexed_on": "2024-03-03T14:21:14.345252Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=23929212",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Cistothorus_palustris_-_Marsh_Wren_-_XC105805.ogg",
+"creator": "Jonathon Jongsma",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 1311063,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Cistothorus palustris - Marsh Wren - XC105805\" by Jonathon Jongsma is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 84767,
+"bit_rate": 140000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/95c2ef89-5c7a-4e7e-8622-c5205c8d2932/",
+"related_url": "https://api.openverse.org/v1/audio/95c2ef89-5c7a-4e7e-8622-c5205c8d2932/related/",
+"waveform": "https://api.openverse.org/v1/audio/95c2ef89-5c7a-4e7e-8622-c5205c8d2932/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "020cf043-f7bd-4319-9813-7c8fbb27689a",
+"title": "Soft wind through marsh reeds",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/arnaud%20coutancier/sounds/528699",
+"url": "https://cdn.freesound.org/previews/528/528699_520316-hq.mp3",
+"creator": "arnaud coutancier",
+"creator_url": "https://freesound.org/people/arnaud%20coutancier",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 3205223,
+"filetype": "mp3",
+"tags": [
+{
+"name": "blow",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "breeze",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "reeds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wind",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "windy",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/528699/download/",
+"bit_rate": 0,
+"filesize": 24618512,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Soft wind through marsh reeds\" by arnaud coutancier is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Normandie",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/19756/",
+"creator": "arnaud coutancier",
+"creator_url": "https://freesound.org/people/arnaud%20coutancier/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 139560,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/020cf043-f7bd-4319-9813-7c8fbb27689a/",
+"related_url": "https://api.openverse.org/v1/audio/020cf043-f7bd-4319-9813-7c8fbb27689a/related/",
+"waveform": "https://api.openverse.org/v1/audio/020cf043-f7bd-4319-9813-7c8fbb27689a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9786a82b-4ddb-4026-b7b7-8a00cb3130dc",
+"title": "LL-Q1860 (eng)-Tesco250-Moreton-in-Marsh",
+"indexed_on": "2026-09-09T00:15:38.243627Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=199103719",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/LL-Q1860_%28eng%29-Tesco250-Moreton-in-Marsh.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "Speaker: Tesco250 Recorder: Tesco250",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Tesco250",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 157484,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Tesco250-Moreton-in-Marsh\" by Speaker: Tesco250 Recorder: Tesco250 is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1640,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9786a82b-4ddb-4026-b7b7-8a00cb3130dc/",
+"related_url": "https://api.openverse.org/v1/audio/9786a82b-4ddb-4026-b7b7-8a00cb3130dc/related/",
+"waveform": "https://api.openverse.org/v1/audio/9786a82b-4ddb-4026-b7b7-8a00cb3130dc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "74262350-d1a2-42ec-8111-95b8d573bd32",
+"title": "LL-Q1860 (eng)-Vealhurl-marsh marigold",
+"indexed_on": "2026-01-04T00:08:08.416732Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=181154382",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/LL-Q1860_%28eng%29-Vealhurl-marsh_marigold.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 143148,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-marsh marigold\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1490,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/74262350-d1a2-42ec-8111-95b8d573bd32/",
+"related_url": "https://api.openverse.org/v1/audio/74262350-d1a2-42ec-8111-95b8d573bd32/related/",
+"waveform": "https://api.openverse.org/v1/audio/74262350-d1a2-42ec-8111-95b8d573bd32/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "061632c4-3eb4-4fdc-8c02-d44d9fc2a020",
+"title": "LL-Q1860 (eng)-Vealhurl-western marsh harrier",
+"indexed_on": "2026-01-20T00:08:48.714168Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=182095390",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/LL-Q1860_%28eng%29-Vealhurl-western_marsh_harrier.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 170284,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-western marsh harrier\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1773,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/061632c4-3eb4-4fdc-8c02-d44d9fc2a020/",
+"related_url": "https://api.openverse.org/v1/audio/061632c4-3eb4-4fdc-8c02-d44d9fc2a020/related/",
+"waveform": "https://api.openverse.org/v1/audio/061632c4-3eb4-4fdc-8c02-d44d9fc2a020/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ead5f759-092a-43ba-9341-7a582c5ba3bd",
+"title": "LL-Q1860 (eng)-Vealhurl-marsh sandpiper",
+"indexed_on": "2026-01-03T00:16:20.056601Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=181116816",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/31/LL-Q1860_%28eng%29-Vealhurl-marsh_sandpiper.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 154668,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-marsh sandpiper\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1610,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ead5f759-092a-43ba-9341-7a582c5ba3bd/",
+"related_url": "https://api.openverse.org/v1/audio/ead5f759-092a-43ba-9341-7a582c5ba3bd/related/",
+"waveform": "https://api.openverse.org/v1/audio/ead5f759-092a-43ba-9341-7a582c5ba3bd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2eae3c1a-f42f-46c2-89dd-19125f0af3e2",
+"title": "LL-Q1860 (eng)-Vealhurl-marsh mallow",
+"indexed_on": "2025-12-07T00:08:51.254716Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=179494167",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/LL-Q1860_%28eng%29-Vealhurl-marsh_mallow.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 101932,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-marsh mallow\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1061,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2eae3c1a-f42f-46c2-89dd-19125f0af3e2/",
+"related_url": "https://api.openverse.org/v1/audio/2eae3c1a-f42f-46c2-89dd-19125f0af3e2/related/",
+"waveform": "https://api.openverse.org/v1/audio/2eae3c1a-f42f-46c2-89dd-19125f0af3e2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "729302c8-c967-4c1a-8d40-7822555eaa1e",
+"title": "marsh and woods March NL Kampina 01 190327_1323.wav",
+"indexed_on": "2026-07-03T18:22:23.614502Z",
+"foreign_landing_url": "https://freesound.org/people/klankbeeld/sounds/464889",
+"url": "https://cdn.freesound.org/previews/464/464889_1648170-hq.mp3",
+"creator": "klankbeeld",
+"creator_url": "https://freesound.org/people/klankbeeld",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 5723328,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Holland",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kampina",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "March",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Netherlands",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background-sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "calm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "clean",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "daytime",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fen",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "general-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "heath",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "heathland",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "landscape",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "moor",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "moorland",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spring",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "swamp",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "van-gogh-nationaal-park",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "white-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "woodpecker",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/464889/download/",
+"bit_rate": 0,
+"filesize": 71164388,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"marsh and woods March NL Kampina 01 190327_1323.wav\" by klankbeeld is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Moorland NL EU 2019",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/34367/",
+"creator": "klankbeeld",
+"creator_url": "https://freesound.org/people/klankbeeld/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 247098,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/729302c8-c967-4c1a-8d40-7822555eaa1e/",
+"related_url": "https://api.openverse.org/v1/audio/729302c8-c967-4c1a-8d40-7822555eaa1e/related/",
+"waveform": "https://api.openverse.org/v1/audio/729302c8-c967-4c1a-8d40-7822555eaa1e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "27318f34-42c7-4132-a6cc-8c61212e0d77",
+"title": "Australian marsh",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/35045",
+"url": "https://prod-1.storage.jamendo.com/?trackid=35045&format=mp32",
+"creator": "X3mpt",
+"creator_url": "https://www.jamendo.com/artist/4854/x3mpt",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Australian marsh\" by X3mpt is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Rise and shine",
+"foreign_landing_url": "https://www.jamendo.com/album/4274/rise-and-shine",
+"creator": "X3mpt",
+"creator_url": "https://www.jamendo.com/artist/4854/x3mpt",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 308000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/27318f34-42c7-4132-a6cc-8c61212e0d77/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/27318f34-42c7-4132-a6cc-8c61212e0d77/",
+"related_url": "https://api.openverse.org/v1/audio/27318f34-42c7-4132-a6cc-8c61212e0d77/related/",
+"waveform": "https://api.openverse.org/v1/audio/27318f34-42c7-4132-a6cc-8c61212e0d77/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b78dba7f-bdc0-4371-af74-6860a28784b0",
+"title": "Nigthingale Bjerregrav Marsh For headphones",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/JanRou/sounds/471817",
+"url": "https://cdn.freesound.org/previews/471/471817_7243693-hq.mp3",
+"creator": "JanRou",
+"creator_url": "https://freesound.org/people/JanRou",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 72196296,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Cuculus",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Larinae",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bird",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birdsong",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cow",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "headphone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "luscinia",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nightingale",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spring",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/471817/download/",
+"bit_rate": 0,
+"filesize": 570152511,
+"filetype": "flac",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Nigthingale Bjerregrav Marsh For headphones\" by JanRou is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Bjerregrav Mose",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/26579/",
+"creator": "JanRou",
+"creator_url": "https://freesound.org/people/JanRou/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 3050060,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b78dba7f-bdc0-4371-af74-6860a28784b0/",
+"related_url": "https://api.openverse.org/v1/audio/b78dba7f-bdc0-4371-af74-6860a28784b0/related/",
+"waveform": "https://api.openverse.org/v1/audio/b78dba7f-bdc0-4371-af74-6860a28784b0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "24fabef2-0d6f-4bd6-aba8-8983b0c01a0f",
+"title": "Walking on wet and muddy marsh land with clothing rustle.WAV",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/jackmichaelking/sounds/559820",
+"url": "https://cdn.freesound.org/previews/559/559820_6089496-hq.mp3",
+"creator": "jackmichaelking",
+"creator_url": "https://freesound.org/people/jackmichaelking",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 891019,
+"filetype": "mp3",
+"tags": [
+{
+"name": "boggy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "clothing-rustle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "footstep",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "footsteps",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "marshland",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mud",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "muddy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rustling",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "squelch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "step",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "walk",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "walking",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "walking-pants",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "walking-trousers",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "waterlogged",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wet",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/559820/download/",
+"bit_rate": 0,
+"filesize": 9852622,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Walking on wet and muddy marsh land with clothing rustle.WAV\" by jackmichaelking is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 37085,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/24fabef2-0d6f-4bd6-aba8-8983b0c01a0f/",
+"related_url": "https://api.openverse.org/v1/audio/24fabef2-0d6f-4bd6-aba8-8983b0c01a0f/related/",
+"waveform": "https://api.openverse.org/v1/audio/24fabef2-0d6f-4bd6-aba8-8983b0c01a0f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6db0440e-e266-42d2-bfb5-6fc3a5399a0c",
+"title": "20060129.marshes.02.wav",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/dobroide/sounds/15220",
+"url": "https://cdn.freesound.org/previews/15/15220_8043-hq.mp3",
+"creator": "dobroide",
+"creator_url": "https://freesound.org/people/dobroide",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 502828,
+"filetype": "mp3",
+"tags": [
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stilts",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "warblers",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/15220/download/",
+"bit_rate": 0,
+"filesize": 3886380,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"20060129.marshes.02.wav\" by dobroide is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "animals.feathery",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/2238/",
+"creator": "dobroide",
+"creator_url": "https://freesound.org/people/dobroide/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 22031,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/6db0440e-e266-42d2-bfb5-6fc3a5399a0c/",
+"related_url": "https://api.openverse.org/v1/audio/6db0440e-e266-42d2-bfb5-6fc3a5399a0c/related/",
+"waveform": "https://api.openverse.org/v1/audio/6db0440e-e266-42d2-bfb5-6fc3a5399a0c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8f83d029-a666-4da7-8396-6708278c9c54",
+"title": "Il Nonno di Stan Marsh - Dj Niky (South Park Mix)",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/998219",
+"url": "https://prod-1.storage.jamendo.com/?trackid=998219&format=mp32",
+"creator": "Dj Niky",
+"creator_url": "https://www.jamendo.com/artist/343754/Dj_Niky_(2)",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Il Nonno di Stan Marsh - Dj Niky (South Park Mix)\" by Dj Niky is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Il club dei pazzaglioni",
+"foreign_landing_url": "https://www.jamendo.com/album/117425/il-club-dei-pazzaglioni",
+"creator": "Dj Niky",
+"creator_url": "https://www.jamendo.com/artist/343754/Dj_Niky_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 192000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/8f83d029-a666-4da7-8396-6708278c9c54/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/8f83d029-a666-4da7-8396-6708278c9c54/",
+"related_url": "https://api.openverse.org/v1/audio/8f83d029-a666-4da7-8396-6708278c9c54/related/",
+"waveform": "https://api.openverse.org/v1/audio/8f83d029-a666-4da7-8396-6708278c9c54/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "252133db-b9a5-4509-ad39-a6bf649d5a62",
+"title": "TTL feat Cristian Gali (Carousel 47Italy)",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1204812",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1204812&format=mp32",
+"creator": "Cloud Maze",
+"creator_url": "https://www.jamendo.com/artist/462768/Cloud_Maze_(3)",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"indie",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "action",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "funny",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"TTL feat Cristian Gali (Carousel 47Italy)\" by Cloud Maze is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Maybe, U Decide",
+"foreign_landing_url": "https://www.jamendo.com/album/144725/maybe-u-decide",
+"creator": "Cloud Maze",
+"creator_url": "https://www.jamendo.com/artist/462768/Cloud_Maze_(3)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 157000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/252133db-b9a5-4509-ad39-a6bf649d5a62/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/252133db-b9a5-4509-ad39-a6bf649d5a62/",
+"related_url": "https://api.openverse.org/v1/audio/252133db-b9a5-4509-ad39-a6bf649d5a62/related/",
+"waveform": "https://api.openverse.org/v1/audio/252133db-b9a5-4509-ad39-a6bf649d5a62/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "93c053f2-4897-427a-8b63-beca7f058446",
+"title": "Carousel",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/768716",
+"url": "https://prod-1.storage.jamendo.com/?trackid=768716&format=mp32",
+"creator": "To Disappear",
+"creator_url": "https://www.jamendo.com/artist/368403/To_Disappear",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Carousel\" by To Disappear is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Into E.P.",
+"foreign_landing_url": "https://www.jamendo.com/album/90053/into-e-p",
+"creator": "To Disappear",
+"creator_url": "https://www.jamendo.com/artist/368403/To_Disappear",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 236000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/93c053f2-4897-427a-8b63-beca7f058446/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/93c053f2-4897-427a-8b63-beca7f058446/",
+"related_url": "https://api.openverse.org/v1/audio/93c053f2-4897-427a-8b63-beca7f058446/related/",
+"waveform": "https://api.openverse.org/v1/audio/93c053f2-4897-427a-8b63-beca7f058446/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "543da106-4d4e-47f3-b2e0-e5cc7e641eb0",
+"title": "Carousel Organ.aif",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/Ohrwurm/sounds/64562",
+"url": "https://cdn.freesound.org/previews/64/64562_866470-hq.mp3",
+"creator": "Ohrwurm",
+"creator_url": "https://freesound.org/people/Ohrwurm",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 794011,
+"filetype": "mp3",
+"tags": [
+{
+"name": "carousel-organ",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanical-music-machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "museum",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/64562/download/",
+"bit_rate": 0,
+"filesize": 6250496,
+"filetype": "aiff",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Carousel Organ.aif\" by Ohrwurm is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 35430,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/543da106-4d4e-47f3-b2e0-e5cc7e641eb0/",
+"related_url": "https://api.openverse.org/v1/audio/543da106-4d4e-47f3-b2e0-e5cc7e641eb0/related/",
+"waveform": "https://api.openverse.org/v1/audio/543da106-4d4e-47f3-b2e0-e5cc7e641eb0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "19ecf942-0beb-4b2c-9e6b-76b946a95dd6",
+"title": "The Carousel",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1014956",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1014956&format=mp32",
+"creator": "Sundayers",
+"creator_url": "https://www.jamendo.com/artist/358187/Sundayers_(2)",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"reggae",
+"ska"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "brass",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "wind",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The Carousel\" by Sundayers is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Impulsos",
+"foreign_landing_url": "https://www.jamendo.com/album/119528/impulsos",
+"creator": "Sundayers",
+"creator_url": "https://www.jamendo.com/artist/358187/Sundayers_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 231000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/19ecf942-0beb-4b2c-9e6b-76b946a95dd6/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/19ecf942-0beb-4b2c-9e6b-76b946a95dd6/",
+"related_url": "https://api.openverse.org/v1/audio/19ecf942-0beb-4b2c-9e6b-76b946a95dd6/related/",
+"waveform": "https://api.openverse.org/v1/audio/19ecf942-0beb-4b2c-9e6b-76b946a95dd6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a84b613d-a494-4570-9e64-86a34e097a27",
+"title": "Hull fair Carousel 3 songs",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Sonic-ranger/sounds/443007",
+"url": "https://cdn.freesound.org/previews/443/443007_2147148-hq.mp3",
+"creator": "Sonic-ranger",
+"creator_url": "https://freesound.org/people/Sonic-ranger",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 5202264,
+"filetype": "mp3",
+"tags": [
+{
+"name": "amusement",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "carousel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fair",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fairground",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ground",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "merry-go-round",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "organ",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "songs",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/443007/download/",
+"bit_rate": 0,
+"filesize": 60966362,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Hull fair Carousel 3 songs\" by Sonic-ranger is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 230407,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a84b613d-a494-4570-9e64-86a34e097a27/",
+"related_url": "https://api.openverse.org/v1/audio/a84b613d-a494-4570-9e64-86a34e097a27/related/",
+"waveform": "https://api.openverse.org/v1/audio/a84b613d-a494-4570-9e64-86a34e097a27/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d09248c1-db29-4701-bab9-07915500338c",
+"title": "LL-Q1860 (eng)-Vealhurl-carousel",
+"indexed_on": "2024-06-16T14:41:47.335034Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=110139884",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/LL-Q1860_%28eng%29-Vealhurl-carousel.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 125740,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-carousel\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1309,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d09248c1-db29-4701-bab9-07915500338c/",
+"related_url": "https://api.openverse.org/v1/audio/d09248c1-db29-4701-bab9-07915500338c/related/",
+"waveform": "https://api.openverse.org/v1/audio/d09248c1-db29-4701-bab9-07915500338c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "64e6c29b-a668-4fe6-afd1-4c9a852c837f",
+"title": "Music of Carousel // Karusellin musiikkia, Linnanm\u9122i",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/YleArkisto/sounds/524699",
+"url": "https://cdn.freesound.org/previews/524/524699_4415905-hq.mp3",
+"creator": "YleArkisto",
+"creator_url": "https://freesound.org/people/YleArkisto",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2379696,
+"filetype": "mp3",
+"tags": [
+{
+"name": "amusement-park",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "carousel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "finnish-broadcasting-company",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "helsinki",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "huvipuisto",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "karuselli",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "linnanmaki",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vuoristorata",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "yle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "yleisradio",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/524699/download/",
+"bit_rate": 0,
+"filesize": 31231828,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Music of Carousel // Karusellin musiikkia, Linnanm\u00e4ki.\" by YleArkisto is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Ihminen Human",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/14980/",
+"creator": "YleArkisto",
+"creator_url": "https://freesound.org/people/YleArkisto/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 106690,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/64e6c29b-a668-4fe6-afd1-4c9a852c837f/",
+"related_url": "https://api.openverse.org/v1/audio/64e6c29b-a668-4fe6-afd1-4c9a852c837f/related/",
+"waveform": "https://api.openverse.org/v1/audio/64e6c29b-a668-4fe6-afd1-4c9a852c837f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9ae2d5f4-5440-4bb8-8755-329743b6a34e",
+"title": "CAROUSEL SLIDE PROJECTOR",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/PMBROWNE/sounds/397467",
+"url": "https://cdn.freesound.org/previews/397/397467_2333574-hq.mp3",
+"creator": "PMBROWNE",
+"creator_url": "https://freesound.org/people/PMBROWNE",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2249807,
+"filetype": "mp3",
+"tags": [
+{
+"name": "35mm-slides",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Carousel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Slide-projector",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/397467/download/",
+"bit_rate": 0,
+"filesize": 25463552,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"CAROUSEL SLIDE PROJECTOR\" by PMBROWNE is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 96223,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9ae2d5f4-5440-4bb8-8755-329743b6a34e/",
+"related_url": "https://api.openverse.org/v1/audio/9ae2d5f4-5440-4bb8-8755-329743b6a34e/related/",
+"waveform": "https://api.openverse.org/v1/audio/9ae2d5f4-5440-4bb8-8755-329743b6a34e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4e631bad-0f2c-4a89-816c-ce5ef521ab7d",
+"title": "Hunting for Carousel Horses",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/305536",
+"url": "https://prod-1.storage.jamendo.com/?trackid=305536&format=mp32",
+"creator": "Bo Moonlight",
+"creator_url": "https://www.jamendo.com/artist/348459/Bo_Moonlight",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"classical",
+"filmscore",
+"jazz"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "brush",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "drums",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "scary",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Hunting for Carousel Horses\" by Bo Moonlight is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Untitled",
+"foreign_landing_url": "https://www.jamendo.com/album/41538/untitled",
+"creator": "Bo Moonlight",
+"creator_url": "https://www.jamendo.com/artist/348459/Bo_Moonlight",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 215000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/4e631bad-0f2c-4a89-816c-ce5ef521ab7d/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/4e631bad-0f2c-4a89-816c-ce5ef521ab7d/",
+"related_url": "https://api.openverse.org/v1/audio/4e631bad-0f2c-4a89-816c-ce5ef521ab7d/related/",
+"waveform": "https://api.openverse.org/v1/audio/4e631bad-0f2c-4a89-816c-ce5ef521ab7d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "72b03a3f-5ef2-4f7f-bcde-416fe498962f",
+"title": "Percussion de Fou - Carousel",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1157979",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1157979&format=mp32",
+"creator": "Percussion de Fou",
+"creator_url": "https://www.jamendo.com/artist/454744/Percussion_de_Fou",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Percussion de Fou - Carousel\" by Percussion de Fou is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Percussion de Fou",
+"foreign_landing_url": "https://www.jamendo.com/album/138963/percussion-de-fou",
+"creator": "Percussion de Fou",
+"creator_url": "https://www.jamendo.com/artist/454744/Percussion_de_Fou",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 404000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/72b03a3f-5ef2-4f7f-bcde-416fe498962f/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/72b03a3f-5ef2-4f7f-bcde-416fe498962f/",
+"related_url": "https://api.openverse.org/v1/audio/72b03a3f-5ef2-4f7f-bcde-416fe498962f/related/",
+"waveform": "https://api.openverse.org/v1/audio/72b03a3f-5ef2-4f7f-bcde-416fe498962f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "63a3e045-67d0-4abf-afb6-515bcd3780aa",
+"title": "city square busy calm distant traffic and carousel cafe activity +bell Marseille, France MS.wav",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/kyles/sounds/451024",
+"url": "https://cdn.freesound.org/previews/451/451024_612689-hq.mp3",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 6015456,
+"filetype": "mp3",
+"tags": [
+{
+"name": "busy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cafe",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "calm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "city",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "distant",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "France",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Marseille",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "square",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "traffic",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/451024/download/",
+"bit_rate": 0,
+"filesize": 77294410,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"city square busy calm distant traffic and carousel cafe activity +bell Marseille, France MS.wav\" by kyles is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Marseille",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/25529/",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 258892,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/63a3e045-67d0-4abf-afb6-515bcd3780aa/",
+"related_url": "https://api.openverse.org/v1/audio/63a3e045-67d0-4abf-afb6-515bcd3780aa/related/",
+"waveform": "https://api.openverse.org/v1/audio/63a3e045-67d0-4abf-afb6-515bcd3780aa/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f2d6eea7-1259-4ab0-9e17-ffd04d9d56db",
+"title": "Crescent Park Carousel 1.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/zerozeroisland/sounds/239893",
+"url": "https://cdn.freesound.org/previews/239/239893_81887-hq.mp3",
+"creator": "zerozeroisland",
+"creator_url": "https://freesound.org/people/zerozeroisland",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 794902,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Amusement-park",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Carousel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spring",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/239893/download/",
+"bit_rate": 0,
+"filesize": 4609024,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Crescent Park Carousel 1.wav\" by zerozeroisland is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Crescent Park Looff Carousel (and a friendly robin)",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/14709/",
+"creator": "zerozeroisland",
+"creator_url": "https://freesound.org/people/zerozeroisland/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 34806,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f2d6eea7-1259-4ab0-9e17-ffd04d9d56db/",
+"related_url": "https://api.openverse.org/v1/audio/f2d6eea7-1259-4ab0-9e17-ffd04d9d56db/related/",
+"waveform": "https://api.openverse.org/v1/audio/f2d6eea7-1259-4ab0-9e17-ffd04d9d56db/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "21c5ca88-f9f0-4006-aba3-d182dc4743f6",
+"title": "Carousel Ride",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/f-r-a-g-i-l-e/sounds/434696",
+"url": "https://cdn.freesound.org/previews/434/434696_8466114-hq.mp3",
+"creator": "f-r-a-g-i-l-e",
+"creator_url": "https://freesound.org/people/f-r-a-g-i-l-e",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1012329,
+"filetype": "mp3",
+"tags": [
+{
+"name": "fair",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Merry-go-round",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ride",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "zoo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "carousel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chatter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/434696/download/",
+"bit_rate": 64000,
+"filesize": 426192,
+"filetype": "m4a",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Carousel Ride\" by f-r-a-g-i-l-e is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 52500,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/21c5ca88-f9f0-4006-aba3-d182dc4743f6/",
+"related_url": "https://api.openverse.org/v1/audio/21c5ca88-f9f0-4006-aba3-d182dc4743f6/related/",
+"waveform": "https://api.openverse.org/v1/audio/21c5ca88-f9f0-4006-aba3-d182dc4743f6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "12f7e8ed-eda7-4a4b-8363-04bd21ef40f6",
+"title": "Carousel",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1534392",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1534392&format=mp32",
+"creator": "Aerologic",
+"creator_url": "https://www.jamendo.com/artist/428046/Aerologic",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"corporate",
+"house"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "club",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "uplifting",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Carousel\" by Aerologic is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Breathless E.P.",
+"foreign_landing_url": "https://www.jamendo.com/album/175721/breathless-e-p",
+"creator": "Aerologic",
+"creator_url": "https://www.jamendo.com/artist/428046/Aerologic",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 392000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/12f7e8ed-eda7-4a4b-8363-04bd21ef40f6/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/12f7e8ed-eda7-4a4b-8363-04bd21ef40f6/",
+"related_url": "https://api.openverse.org/v1/audio/12f7e8ed-eda7-4a4b-8363-04bd21ef40f6/related/",
+"waveform": "https://api.openverse.org/v1/audio/12f7e8ed-eda7-4a4b-8363-04bd21ef40f6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2ac9f7a1-786e-4a0b-8a28-ff9adae47b41",
+"title": "My Toy Carousel",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1280243",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1280243&format=mp32",
+"creator": "TOY INVENTION",
+"creator_url": "https://www.jamendo.com/artist/353511/toy-invention",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "bells",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "cello",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "children",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "mallets",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"My Toy Carousel\" by TOY INVENTION is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "WITH THE EYES OF A CHILD",
+"foreign_landing_url": "https://www.jamendo.com/album/152722/with-the-eyes-of-a-child",
+"creator": "TOY INVENTION",
+"creator_url": "https://www.jamendo.com/artist/353511/toy-invention",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 194000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/2ac9f7a1-786e-4a0b-8a28-ff9adae47b41/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/2ac9f7a1-786e-4a0b-8a28-ff9adae47b41/",
+"related_url": "https://api.openverse.org/v1/audio/2ac9f7a1-786e-4a0b-8a28-ff9adae47b41/related/",
+"waveform": "https://api.openverse.org/v1/audio/2ac9f7a1-786e-4a0b-8a28-ff9adae47b41/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0ae6893c-1e93-4a06-86a2-0cc706cfea42",
+"title": "Carousel",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/180688",
+"url": "https://prod-1.storage.jamendo.com/?trackid=180688&format=mp32",
+"creator": "Circles",
+"creator_url": "https://www.jamendo.com/artist/337225/Circles",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"lofi"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Carousel\" by Circles is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Red Ray",
+"foreign_landing_url": "https://www.jamendo.com/album/26945/red-ray",
+"creator": "Circles",
+"creator_url": "https://www.jamendo.com/artist/337225/Circles",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 201000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/0ae6893c-1e93-4a06-86a2-0cc706cfea42/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/0ae6893c-1e93-4a06-86a2-0cc706cfea42/",
+"related_url": "https://api.openverse.org/v1/audio/0ae6893c-1e93-4a06-86a2-0cc706cfea42/related/",
+"waveform": "https://api.openverse.org/v1/audio/0ae6893c-1e93-4a06-86a2-0cc706cfea42/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "da88b118-7719-4c76-8fa0-5ab96f653902",
+"title": "Barrel organ of carousel Efteling 200918.wav",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/klankbeeld/sounds/574349",
+"url": "https://cdn.freesound.org/previews/574/574349_1648170-hq.mp3",
+"creator": "klankbeeld",
+"creator_url": "https://freesound.org/people/klankbeeld",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1860672,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmos",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "barrel-organ",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bourdon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bourdon-organ",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "carousel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "carrousel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fair",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fairground",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "funfair",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "historic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hurdy-gurdy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanical-music",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "music",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "organ",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "paris",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "parish-fair",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "parish-fair-organ",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pipe",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pipe-organ",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wind-organ",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/574349/download/",
+"bit_rate": 0,
+"filesize": 23134134,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Barrel organ of carousel Efteling 200918.wav\" by klankbeeld is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "theme park efteling",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/7510/",
+"creator": "klankbeeld",
+"creator_url": "https://freesound.org/people/klankbeeld/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 80325,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/da88b118-7719-4c76-8fa0-5ab96f653902/",
+"related_url": "https://api.openverse.org/v1/audio/da88b118-7719-4c76-8fa0-5ab96f653902/related/",
+"waveform": "https://api.openverse.org/v1/audio/da88b118-7719-4c76-8fa0-5ab96f653902/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f5b18315-2c49-47f0-9f56-4c60ce5c09b5",
+"title": "Carousels No. 01 for Orchestra",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1784244",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1784244&format=mp32",
+"creator": "pharmacopia",
+"creator_url": "https://www.jamendo.com/artist/2838/pharmacopia",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"experimental",
+"neoclassical",
+"symphonic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "cinematic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "majestic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "mystery",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "orchestra",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_low",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Carousels No. 01 for Orchestra\" by pharmacopia is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Ornette Schoenberg Sketches",
+"foreign_landing_url": "https://www.jamendo.com/album/195625/ornette-schoenberg-sketches",
+"creator": "pharmacopia",
+"creator_url": "https://www.jamendo.com/artist/2838/pharmacopia",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 695000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/f5b18315-2c49-47f0-9f56-4c60ce5c09b5/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/f5b18315-2c49-47f0-9f56-4c60ce5c09b5/",
+"related_url": "https://api.openverse.org/v1/audio/f5b18315-2c49-47f0-9f56-4c60ce5c09b5/related/",
+"waveform": "https://api.openverse.org/v1/audio/f5b18315-2c49-47f0-9f56-4c60ce5c09b5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e2202c64-7cf0-47d9-9804-06ed918ce7f4",
+"title": "carousel, train, carriages, in line at an amusement park, holiday wine, walk, market, mall, Poland",
+"indexed_on": "2024-04-18T18:52:10.009444Z",
+"foreign_landing_url": "https://freesound.org/people/pawelbas/sounds/165252",
+"url": "https://cdn.freesound.org/previews/165/165252_1507059-hq.mp3",
+"creator": "pawelbas",
+"creator_url": "https://freesound.org/people/pawelbas",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 3027106,
+"filetype": "mp3",
+"tags": [
+{
+"name": "amusement",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "carousel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "carriages",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "holiday",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "line",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mall",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "market",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "park",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Poland",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "train",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "walk",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wine",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/165252/download/",
+"bit_rate": 0,
+"filesize": 23411178,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"carousel, train, carriages, in line at an amusement park, holiday wine, walk, market, mall, Poland\" by pawelbas is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 132703,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e2202c64-7cf0-47d9-9804-06ed918ce7f4/",
+"related_url": "https://api.openverse.org/v1/audio/e2202c64-7cf0-47d9-9804-06ed918ce7f4/related/",
+"waveform": "https://api.openverse.org/v1/audio/e2202c64-7cf0-47d9-9804-06ed918ce7f4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "22595f1c-c36a-4e17-8400-1e221e011b08",
+"title": "carousel",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/658138",
+"url": "https://prod-1.storage.jamendo.com/?trackid=658138&format=mp32",
+"creator": "zakora",
+"creator_url": "https://www.jamendo.com/artist/362429/zakora",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"carousel\" by zakora is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Autumn ...Or three months of silence",
+"foreign_landing_url": "https://www.jamendo.com/album/76294/autumn-or-three-months-of-silence",
+"creator": "zakora",
+"creator_url": "https://www.jamendo.com/artist/362429/zakora",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 195000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/22595f1c-c36a-4e17-8400-1e221e011b08/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/22595f1c-c36a-4e17-8400-1e221e011b08/",
+"related_url": "https://api.openverse.org/v1/audio/22595f1c-c36a-4e17-8400-1e221e011b08/related/",
+"waveform": "https://api.openverse.org/v1/audio/22595f1c-c36a-4e17-8400-1e221e011b08/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "74a7cc0b-07ee-4b92-884f-a1dc068624b2",
+"title": "Typewriter",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/exterminat/sounds/164807",
+"url": "https://cdn.freesound.org/previews/164/164807_1460963-hq.mp3",
+"creator": "exterminat",
+"creator_url": "https://freesound.org/people/exterminat",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1278140,
+"filetype": "mp3",
+"tags": [
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "type",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "type-writer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "writer",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/164807/download/",
+"bit_rate": 0,
+"filesize": 10032364,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Typewriter\" by exterminat is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "world war two",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/10202/",
+"creator": "exterminat",
+"creator_url": "https://freesound.org/people/exterminat/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 56866,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/74a7cc0b-07ee-4b92-884f-a1dc068624b2/",
+"related_url": "https://api.openverse.org/v1/audio/74a7cc0b-07ee-4b92-884f-a1dc068624b2/related/",
+"waveform": "https://api.openverse.org/v1/audio/74a7cc0b-07ee-4b92-884f-a1dc068624b2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "008806eb-4ccf-461f-8adc-4f827951d96d",
+"title": "Typewriter Bell.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/ramsamba/sounds/318687",
+"url": "https://cdn.freesound.org/previews/318/318687_1147663-hq.mp3",
+"creator": "ramsamba",
+"creator_url": "https://freesound.org/people/ramsamba",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 22856,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bell",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "carriage-end",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/318687/download/",
+"bit_rate": 0,
+"filesize": 157134,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Typewriter Bell.wav\" by ramsamba is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Typewriter Bell Carriage Return",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/17833/",
+"creator": "ramsamba",
+"creator_url": "https://freesound.org/people/ramsamba/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 889,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/008806eb-4ccf-461f-8adc-4f827951d96d/",
+"related_url": "https://api.openverse.org/v1/audio/008806eb-4ccf-461f-8adc-4f827951d96d/related/",
+"waveform": "https://api.openverse.org/v1/audio/008806eb-4ccf-461f-8adc-4f827951d96d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f8775e6c-75da-4125-9c80-ef6b5838703b",
+"title": "manual typewriter",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/theshaggyfreak/sounds/118591",
+"url": "https://cdn.freesound.org/previews/118/118591_8335-hq.mp3",
+"creator": "theshaggyfreak",
+"creator_url": "https://freesound.org/people/theshaggyfreak",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1219379,
+"filetype": "mp3",
+"tags": [
+{
+"name": "manual",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/118591/download/",
+"bit_rate": 0,
+"filesize": 8956752,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"manual typewriter\" by theshaggyfreak is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 50775,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f8775e6c-75da-4125-9c80-ef6b5838703b/",
+"related_url": "https://api.openverse.org/v1/audio/f8775e6c-75da-4125-9c80-ef6b5838703b/related/",
+"waveform": "https://api.openverse.org/v1/audio/f8775e6c-75da-4125-9c80-ef6b5838703b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d0d25fce-d9c7-4605-8b36-9cd8efa3b17b",
+"title": "Long Sound Typewriter",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/fellwell5/sounds/170547",
+"url": "https://cdn.freesound.org/previews/170/170547_3125076-hq.mp3",
+"creator": "fellwell5",
+"creator_url": "https://freesound.org/people/fellwell5",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 685304,
+"filetype": "mp3",
+"tags": [
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/170547/download/",
+"bit_rate": 128000,
+"filesize": 464381,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Long Sound Typewriter\" by fellwell5 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Typewriter",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/10622/",
+"creator": "fellwell5",
+"creator_url": "https://freesound.org/people/fellwell5/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 28955,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d0d25fce-d9c7-4605-8b36-9cd8efa3b17b/",
+"related_url": "https://api.openverse.org/v1/audio/d0d25fce-d9c7-4605-8b36-9cd8efa3b17b/related/",
+"waveform": "https://api.openverse.org/v1/audio/d0d25fce-d9c7-4605-8b36-9cd8efa3b17b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4b754362-9431-4586-a110-da3dc9bdbd16",
+"title": "Shortest Sound Typewriter",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/fellwell5/sounds/170546",
+"url": "https://cdn.freesound.org/previews/170/170546_3125076-hq.mp3",
+"creator": "fellwell5",
+"creator_url": "https://freesound.org/people/fellwell5",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 63620,
+"filetype": "mp3",
+"tags": [
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/170546/download/",
+"bit_rate": 131000,
+"filesize": 41824,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Shortest Sound Typewriter\" by fellwell5 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Typewriter",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/10622/",
+"creator": "fellwell5",
+"creator_url": "https://freesound.org/people/fellwell5/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 2542,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4b754362-9431-4586-a110-da3dc9bdbd16/",
+"related_url": "https://api.openverse.org/v1/audio/4b754362-9431-4586-a110-da3dc9bdbd16/related/",
+"waveform": "https://api.openverse.org/v1/audio/4b754362-9431-4586-a110-da3dc9bdbd16/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c2da2415-126f-47fb-9113-89d8b3978776",
+"title": "Typewriter Ding.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/NHumphrey/sounds/204466",
+"url": "https://cdn.freesound.org/previews/204/204466_3430035-hq.mp3",
+"creator": "NHumphrey",
+"creator_url": "https://freesound.org/people/NHumphrey",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 36690,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Ding",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Finish",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Slam",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/204466/download/",
+"bit_rate": 0,
+"filesize": 398164,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Typewriter Ding.wav\" by NHumphrey is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "SFX",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/13051/",
+"creator": "NHumphrey",
+"creator_url": "https://freesound.org/people/NHumphrey/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 1500,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c2da2415-126f-47fb-9113-89d8b3978776/",
+"related_url": "https://api.openverse.org/v1/audio/c2da2415-126f-47fb-9113-89d8b3978776/related/",
+"waveform": "https://api.openverse.org/v1/audio/c2da2415-126f-47fb-9113-89d8b3978776/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b3b9eac2-5bda-4bc6-87b1-a94052ce967b",
+"title": "Typewriter bell & carriage reset",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/knufds/sounds/345955",
+"url": "https://cdn.freesound.org/previews/345/345955_191884-hq.mp3",
+"creator": "knufds",
+"creator_url": "https://freesound.org/people/knufds",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 72480,
+"filetype": "mp3",
+"tags": [
+{
+"name": "antique",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "antique-typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "carriage-reset",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "margin-bell",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound-museum",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "writer",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/345955/download/",
+"bit_rate": 0,
+"filesize": 280732,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Typewriter bell & carriage reset\" by knufds is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Household",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/37416/",
+"creator": "knufds",
+"creator_url": "https://freesound.org/people/knufds/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 2920,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b3b9eac2-5bda-4bc6-87b1-a94052ce967b/",
+"related_url": "https://api.openverse.org/v1/audio/b3b9eac2-5bda-4bc6-87b1-a94052ce967b/related/",
+"waveform": "https://api.openverse.org/v1/audio/b3b9eac2-5bda-4bc6-87b1-a94052ce967b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ac715c8d-3010-45a2-a939-e110a14da389",
+"title": "Typewriter - single key - type 2.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/yottasounds/sounds/380137",
+"url": "https://cdn.freesound.org/previews/380/380137_3249786-hq.mp3",
+"creator": "yottasounds",
+"creator_url": "https://freesound.org/people/yottasounds",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 10464,
+"filetype": "mp3",
+"tags": [
+{
+"name": "keystroke",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typing",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/380137/download/",
+"bit_rate": 0,
+"filesize": 212100,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Typewriter - single key - type 2.wav\" by yottasounds is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "typewriter",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/21359/",
+"creator": "yottasounds",
+"creator_url": "https://freesound.org/people/yottasounds/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 274,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ac715c8d-3010-45a2-a939-e110a14da389/",
+"related_url": "https://api.openverse.org/v1/audio/ac715c8d-3010-45a2-a939-e110a14da389/related/",
+"waveform": "https://api.openverse.org/v1/audio/ac715c8d-3010-45a2-a939-e110a14da389/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5830fc34-23ba-4ad6-b333-76f748825149",
+"title": "Olympia Electric Typewriter - May 17 2008.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/lonemonk/sounds/53753",
+"url": "https://cdn.freesound.org/previews/53/53753_230160-hq.mp3",
+"creator": "lonemonk",
+"creator_url": "https://freesound.org/people/lonemonk",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 4439152,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bell",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electric-typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "environmental-sounds-research",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "office-sounds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typing",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/53753/download/",
+"bit_rate": 0,
+"filesize": 31501454,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Olympia Electric Typewriter - May 17 2008.wav\" by lonemonk is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 178575,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5830fc34-23ba-4ad6-b333-76f748825149/",
+"related_url": "https://api.openverse.org/v1/audio/5830fc34-23ba-4ad6-b333-76f748825149/related/",
+"waveform": "https://api.openverse.org/v1/audio/5830fc34-23ba-4ad6-b333-76f748825149/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "45e39673-e775-48d1-82e5-f5f0c5fdcf06",
+"title": "Typewriter snippet 03",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/cabled_mess/sounds/360601",
+"url": "https://cdn.freesound.org/previews/360/360601_5450487-hq.mp3",
+"creator": "cabled_mess",
+"creator_url": "https://freesound.org/people/cabled_mess",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 20688,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Schreibmaschine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "impulse",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "key",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "keyboard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "keystroke",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "letter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "office",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "type",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vintage",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "write",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "writer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "writing",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/360601/download/",
+"bit_rate": 0,
+"filesize": 394772,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Typewriter snippet 03\" by cabled_mess is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Typewriter [processed]",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/20281/",
+"creator": "cabled_mess",
+"creator_url": "https://freesound.org/people/cabled_mess/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 685,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/45e39673-e775-48d1-82e5-f5f0c5fdcf06/",
+"related_url": "https://api.openverse.org/v1/audio/45e39673-e775-48d1-82e5-f5f0c5fdcf06/related/",
+"waveform": "https://api.openverse.org/v1/audio/45e39673-e775-48d1-82e5-f5f0c5fdcf06/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fafa91cb-5a72-447a-ab41-8dd43604dec2",
+"title": "Typewriter - single key - type 1.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/yottasounds/sounds/380138",
+"url": "https://cdn.freesound.org/previews/380/380138_3249786-hq.mp3",
+"creator": "yottasounds",
+"creator_url": "https://freesound.org/people/yottasounds",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 10464,
+"filetype": "mp3",
+"tags": [
+{
+"name": "keystroke",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typing",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/380138/download/",
+"bit_rate": 0,
+"filesize": 215172,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Typewriter - single key - type 1.wav\" by yottasounds is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "typewriter",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/21359/",
+"creator": "yottasounds",
+"creator_url": "https://freesound.org/people/yottasounds/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 278,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/fafa91cb-5a72-447a-ab41-8dd43604dec2/",
+"related_url": "https://api.openverse.org/v1/audio/fafa91cb-5a72-447a-ab41-8dd43604dec2/related/",
+"waveform": "https://api.openverse.org/v1/audio/fafa91cb-5a72-447a-ab41-8dd43604dec2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5c3f3c0f-637f-4381-a36b-9704378cf38d",
+"title": "Typewriting Error",
+"indexed_on": "2022-10-01T04:02:44.560321Z",
+"foreign_landing_url": "https://freesound.org/people/quartzporta/sounds/176144",
+"url": "https://cdn.freesound.org/previews/176/176144_3268693-hq.mp3",
+"creator": "quartzporta",
+"creator_url": "https://freesound.org/people/quartzporta",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 62252,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Windows",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Keyboard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Typewriting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Error",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/176144/download/",
+"bit_rate": 0,
+"filesize": 482190,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Typewriting Error\" by quartzporta is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2727,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5c3f3c0f-637f-4381-a36b-9704378cf38d/",
+"related_url": "https://api.openverse.org/v1/audio/5c3f3c0f-637f-4381-a36b-9704378cf38d/related/",
+"waveform": "https://api.openverse.org/v1/audio/5c3f3c0f-637f-4381-a36b-9704378cf38d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8580b334-b52b-434d-a991-bc9746c6b542",
+"title": "406243 stubb typewriter-ding-near-mono",
+"indexed_on": "2025-01-12T13:27:29.931234Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=116915915",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/406243_stubb_typewriter-ding-near-mono.wav",
+"creator": "_stubb",
+"creator_url": null,
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 154464,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"406243 stubb typewriter-ding-near-mono\" by _stubb is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1056,
+"bit_rate": 1152000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8580b334-b52b-434d-a991-bc9746c6b542/",
+"related_url": "https://api.openverse.org/v1/audio/8580b334-b52b-434d-a991-bc9746c6b542/related/",
+"waveform": "https://api.openverse.org/v1/audio/8580b334-b52b-434d-a991-bc9746c6b542/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9631cc2c-36b0-40d4-9d2b-63d35eb207bf",
+"title": "TypeWriting-1Line-CarrierReturn-OneLineWrite-Another Carrier Return.mp3",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Leossom/sounds/185522",
+"url": "https://cdn.freesound.org/previews/185/185522_3132102-hq.mp3",
+"creator": "Leossom",
+"creator_url": "https://freesound.org/people/Leossom",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 459792,
+"filetype": "mp3",
+"tags": [
+{
+"name": "de",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "escrever",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "folley",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "maquina",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "olivetti",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "type",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "writer",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/185522/download/",
+"bit_rate": 320000,
+"filesize": 770455,
+"filetype": "mp3",
+"sample_rate": 48000
+}
+],
+"attribution": "\"TypeWriting-1Line-CarrierReturn-OneLineWrite-Another Carrier Return.mp3\" by Leossom is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 19093,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9631cc2c-36b0-40d4-9d2b-63d35eb207bf/",
+"related_url": "https://api.openverse.org/v1/audio/9631cc2c-36b0-40d4-9d2b-63d35eb207bf/related/",
+"waveform": "https://api.openverse.org/v1/audio/9631cc2c-36b0-40d4-9d2b-63d35eb207bf/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "997cb269-2bce-42c3-808a-bbaf97d829aa",
+"title": "typewriter / keyboard tapping",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/PacmanGamer/sounds/160869",
+"url": "https://cdn.freesound.org/previews/160/160869_2561054-hq.mp3",
+"creator": "PacmanGamer",
+"creator_url": "https://freesound.org/people/PacmanGamer",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 597527,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Keyboard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Pac",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "classic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "commons",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "creative",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "epic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "intro",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "movie",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "music",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "record",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tap",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "type",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "writer",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/160869/download/",
+"bit_rate": 0,
+"filesize": 4436012,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"typewriter / keyboard tapping\" by PacmanGamer is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Text appears",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/9944/",
+"creator": "PacmanGamer",
+"creator_url": "https://freesound.org/people/PacmanGamer/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 25147,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/997cb269-2bce-42c3-808a-bbaf97d829aa/",
+"related_url": "https://api.openverse.org/v1/audio/997cb269-2bce-42c3-808a-bbaf97d829aa/related/",
+"waveform": "https://api.openverse.org/v1/audio/997cb269-2bce-42c3-808a-bbaf97d829aa/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9b7702dc-4f8d-4876-b174-8991d49c8ebd",
+"title": "Typewriter - single key - type 3.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/yottasounds/sounds/380136",
+"url": "https://cdn.freesound.org/previews/380/380136_3249786-hq.mp3",
+"creator": "yottasounds",
+"creator_url": "https://freesound.org/people/yottasounds",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 9792,
+"filetype": "mp3",
+"tags": [
+{
+"name": "keystroke",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typing",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/380136/download/",
+"bit_rate": 0,
+"filesize": 175604,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Typewriter - single key - type 3.wav\" by yottasounds is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "typewriter",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/21359/",
+"creator": "yottasounds",
+"creator_url": "https://freesound.org/people/yottasounds/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 227,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9b7702dc-4f8d-4876-b174-8991d49c8ebd/",
+"related_url": "https://api.openverse.org/v1/audio/9b7702dc-4f8d-4876-b174-8991d49c8ebd/related/",
+"waveform": "https://api.openverse.org/v1/audio/9b7702dc-4f8d-4876-b174-8991d49c8ebd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4f9bf3e9-86e8-41bf-9aa8-191f2fff0a22",
+"title": "Typewriter Typing.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/escritor1/sounds/455044",
+"url": "https://cdn.freesound.org/previews/455/455044_3232276-hq.mp3",
+"creator": "escritor1",
+"creator_url": "https://freesound.org/people/escritor1",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 710016,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Typewriter-typing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Typing",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/455044/download/",
+"bit_rate": 0,
+"filesize": 5331182,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Typewriter Typing.wav\" by escritor1 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 27748,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4f9bf3e9-86e8-41bf-9aa8-191f2fff0a22/",
+"related_url": "https://api.openverse.org/v1/audio/4f9bf3e9-86e8-41bf-9aa8-191f2fff0a22/related/",
+"waveform": "https://api.openverse.org/v1/audio/4f9bf3e9-86e8-41bf-9aa8-191f2fff0a22/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3f1605e1-4e8a-414c-bec4-306a1bfed1ab",
+"title": "Single Electric Typewriter Carriage Return.wav",
+"indexed_on": "2023-03-20T17:21:54.283284Z",
+"foreign_landing_url": "https://freesound.org/people/lonemonk/sounds/47046",
+"url": "https://cdn.freesound.org/previews/47/47046_230160-hq.mp3",
+"creator": "lonemonk",
+"creator_url": "https://freesound.org/people/lonemonk",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 23746,
+"filetype": "mp3",
+"tags": [
+{
+"name": "electric-typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "office-sounds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "one-shot",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typing",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/47046/download/",
+"bit_rate": 0,
+"filesize": 137346,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Single Electric Typewriter Carriage Return.wav\" by lonemonk is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Smith-Corona Electric Typewriter",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/3001/",
+"creator": "lonemonk",
+"creator_url": "https://freesound.org/people/lonemonk/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 777,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/3f1605e1-4e8a-414c-bec4-306a1bfed1ab/",
+"related_url": "https://api.openverse.org/v1/audio/3f1605e1-4e8a-414c-bec4-306a1bfed1ab/related/",
+"waveform": "https://api.openverse.org/v1/audio/3f1605e1-4e8a-414c-bec4-306a1bfed1ab/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "93ada27a-5b70-4e36-b1e3-fa1e439d9958",
+"title": "Typewriter loop",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/jobro/sounds/192189",
+"url": "https://cdn.freesound.org/previews/192/192189_35187-hq.mp3",
+"creator": "jobro",
+"creator_url": "https://freesound.org/people/jobro",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 349333,
+"filetype": "mp3",
+"tags": [
+{
+"name": "button",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "buttons",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "key",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "keyboard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "keys",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "loop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pling",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "press",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rhythmic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "speed",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/192189/download/",
+"bit_rate": 0,
+"filesize": 2419378,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Typewriter loop\" by jobro is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Wild drumloops",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/6575/",
+"creator": "jobro",
+"creator_url": "https://freesound.org/people/jobro/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 13714,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/93ada27a-5b70-4e36-b1e3-fa1e439d9958/",
+"related_url": "https://api.openverse.org/v1/audio/93ada27a-5b70-4e36-b1e3-fa1e439d9958/related/",
+"waveform": "https://api.openverse.org/v1/audio/93ada27a-5b70-4e36-b1e3-fa1e439d9958/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b2f06875-72c4-4a23-b075-4e78bdbe8001",
+"title": "Fixing Paper in Typewriter Fast.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/soundslikewillem/sounds/193974",
+"url": "https://cdn.freesound.org/previews/193/193974_2977451-hq.mp3",
+"creator": "soundslikewillem",
+"creator_url": "https://freesound.org/people/soundslikewillem",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 248736,
+"filetype": "mp3",
+"tags": [
+{
+"name": "classic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dactylo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fix",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "letter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "paper",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "type",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vintage",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/193974/download/",
+"bit_rate": 0,
+"filesize": 1008198,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Fixing Paper in Typewriter Fast.wav\" by soundslikewillem is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Vintage Typewriter Sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/12297/",
+"creator": "soundslikewillem",
+"creator_url": "https://freesound.org/people/soundslikewillem/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 10501,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b2f06875-72c4-4a23-b075-4e78bdbe8001/",
+"related_url": "https://api.openverse.org/v1/audio/b2f06875-72c4-4a23-b075-4e78bdbe8001/related/",
+"waveform": "https://api.openverse.org/v1/audio/b2f06875-72c4-4a23-b075-4e78bdbe8001/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7dbb1150-a300-4e5d-9740-36411d900d22",
+"title": "Silver Typewriter (Carriage Return Lever 1)",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/moodyfingers/sounds/734310",
+"url": "https://cdn.freesound.org/previews/734/734310_15504031-hq.mp3",
+"creator": "moodyfingers",
+"creator_url": "https://freesound.org/people/moodyfingers",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 35585,
+"filetype": "mp3",
+"tags": [
+{
+"name": "carriage",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "carriage-return",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "carriage-return-lever",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lever",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "return",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/734310/download/",
+"bit_rate": 0,
+"filesize": 170855,
+"filetype": "flac",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Silver Typewriter (Carriage Return Lever 1)\" by moodyfingers is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Silver Typewriter Pack",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/40966/",
+"creator": "moodyfingers",
+"creator_url": "https://freesound.org/people/moodyfingers/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 3324,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/7dbb1150-a300-4e5d-9740-36411d900d22/",
+"related_url": "https://api.openverse.org/v1/audio/7dbb1150-a300-4e5d-9740-36411d900d22/related/",
+"waveform": "https://api.openverse.org/v1/audio/7dbb1150-a300-4e5d-9740-36411d900d22/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2bc9f13b-e6fb-4065-94c0-e6471a3515eb",
+"title": "Mise Darling - 12 - Typewriter",
+"indexed_on": "2023-01-22T13:48:52.271385Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=89447923",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Mise_Darling_-_12_-_Typewriter.ogg",
+"creator": "Mise Darling",
+"creator_url": "https://freemusicarchive.org/music/Mise",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 5146870,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Mise Darling - 12 - Typewriter\" by Mise Darling is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 211200,
+"bit_rate": 192000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2bc9f13b-e6fb-4065-94c0-e6471a3515eb/",
+"related_url": "https://api.openverse.org/v1/audio/2bc9f13b-e6fb-4065-94c0-e6471a3515eb/related/",
+"waveform": "https://api.openverse.org/v1/audio/2bc9f13b-e6fb-4065-94c0-e6471a3515eb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0e66359e-dcfc-4820-b4fa-2227be20d15f",
+"title": "WWS Typewriter",
+"indexed_on": "2024-05-05T16:48:04.344561Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=42960523",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/25/WWS_Typewriter.ogg",
+"creator": "Work With Sounds / Konrad Gutkowski",
+"creator_url": "https://commons.wikimedia.org/wiki/Commons:Work_With_Sounds",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 398063,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"WWS Typewriter\" by Work With Sounds / Konrad Gutkowski is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 25897,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0e66359e-dcfc-4820-b4fa-2227be20d15f/",
+"related_url": "https://api.openverse.org/v1/audio/0e66359e-dcfc-4820-b4fa-2227be20d15f/related/",
+"waveform": "https://api.openverse.org/v1/audio/0e66359e-dcfc-4820-b4fa-2227be20d15f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a99ca565-d532-434a-824a-0c6e7d844427",
+"title": "LL-Q1860 (eng)-Wodencafe-typewritings",
+"indexed_on": "2024-06-01T00:12:10.260461Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=148918949",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/LL-Q1860_%28eng%29-Wodencafe-typewritings.wav",
+"creator": "Speaker: Wodencafe Recorder: Wodencafe",
+"creator_url": "https://lingualibre.org/wiki/Q1207413",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 123692,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Wodencafe-typewritings\" by Speaker: Wodencafe Recorder: Wodencafe is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1288,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a99ca565-d532-434a-824a-0c6e7d844427/",
+"related_url": "https://api.openverse.org/v1/audio/a99ca565-d532-434a-824a-0c6e7d844427/related/",
+"waveform": "https://api.openverse.org/v1/audio/a99ca565-d532-434a-824a-0c6e7d844427/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ad50f811-931a-475d-a185-fdecd47e2ca7",
+"title": "Monkeys At Typewriters",
+"indexed_on": "2026-01-16T00:31:58.603960Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=181854885",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Monkeys_At_Typewriters.mp3",
+"creator": "Sj",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Sj",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 3790929,
+"filetype": "mp3",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Monkeys At Typewriters\" by Sj is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 153096,
+"bit_rate": 189375,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ad50f811-931a-475d-a185-fdecd47e2ca7/",
+"related_url": "https://api.openverse.org/v1/audio/ad50f811-931a-475d-a185-fdecd47e2ca7/related/",
+"waveform": "https://api.openverse.org/v1/audio/ad50f811-931a-475d-a185-fdecd47e2ca7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3026d33b-65e5-4be2-adfa-2f5e1ea1349a",
+"title": "Monkeys At Typewriters",
+"indexed_on": "2026-01-16T00:31:58.603960Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=181862112",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Monkeys_At_Typewriters.ogg",
+"creator": "Sj",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Sj",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 2030283,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Monkeys At Typewriters\" by Sj is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 153079,
+"bit_rate": 112000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/3026d33b-65e5-4be2-adfa-2f5e1ea1349a/",
+"related_url": "https://api.openverse.org/v1/audio/3026d33b-65e5-4be2-adfa-2f5e1ea1349a/related/",
+"waveform": "https://api.openverse.org/v1/audio/3026d33b-65e5-4be2-adfa-2f5e1ea1349a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "20cd567c-cb61-4a64-b8db-741809bf5969",
+"title": "Typewriter.mp3",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/pakasit21/sounds/138049",
+"url": "https://cdn.freesound.org/previews/138/138049_2423928-hq.mp3",
+"creator": "pakasit21",
+"creator_url": "https://freesound.org/people/pakasit21",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 132662,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Audio",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typist",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "writer",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/138049/download/",
+"bit_rate": 192000,
+"filesize": 173366,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Typewriter.mp3\" by pakasit21 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 7119,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/20cd567c-cb61-4a64-b8db-741809bf5969/",
+"related_url": "https://api.openverse.org/v1/audio/20cd567c-cb61-4a64-b8db-741809bf5969/related/",
+"waveform": "https://api.openverse.org/v1/audio/20cd567c-cb61-4a64-b8db-741809bf5969/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1ea744c0-19fa-47c6-8bd6-fd24dd300578",
+"title": "Typewriter.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/ddohler/sounds/9098",
+"url": "https://cdn.freesound.org/previews/9/9098_23118-hq.mp3",
+"creator": "ddohler",
+"creator_url": "https://freesound.org/people/ddohler",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 16586,
+"filetype": "mp3",
+"tags": [
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/9098/download/",
+"bit_rate": 0,
+"filesize": 176172,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Typewriter.wav\" by ddohler is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 998,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1ea744c0-19fa-47c6-8bd6-fd24dd300578/",
+"related_url": "https://api.openverse.org/v1/audio/1ea744c0-19fa-47c6-8bd6-fd24dd300578/related/",
+"waveform": "https://api.openverse.org/v1/audio/1ea744c0-19fa-47c6-8bd6-fd24dd300578/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "788c8bff-19df-494e-a7e5-01774f4eb004",
+"title": "typewriter.wav",
+"indexed_on": "2023-03-10T13:20:18.216530Z",
+"foreign_landing_url": "https://freesound.org/people/Horn/sounds/9744",
+"url": "https://cdn.freesound.org/previews/9/9744_28132-hq.mp3",
+"creator": "Horn",
+"creator_url": "https://freesound.org/people/Horn",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 6768,
+"filetype": "mp3",
+"tags": [
+{
+"name": "mechanics",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussive",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "single-keystroke",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/9744/download/",
+"bit_rate": 0,
+"filesize": 11804,
+"filetype": "wav",
+"sample_rate": 29762
+}
+],
+"attribution": "\"typewriter.wav\" by Horn is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 195,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/788c8bff-19df-494e-a7e5-01774f4eb004/",
+"related_url": "https://api.openverse.org/v1/audio/788c8bff-19df-494e-a7e5-01774f4eb004/related/",
+"waveform": "https://api.openverse.org/v1/audio/788c8bff-19df-494e-a7e5-01774f4eb004/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9664ed91-bd2e-4629-88a7-a1d048d697d5",
+"title": "Till With Bell.wav",
+"indexed_on": "2026-07-03T18:22:23.614502Z",
+"foreign_landing_url": "https://freesound.org/people/Benboncan/sounds/91924",
+"url": "https://cdn.freesound.org/previews/91/91924_634166-hq.mp3",
+"creator": "Benboncan",
+"creator_url": "https://freesound.org/people/Benboncan",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 50144,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bell",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cash-register",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ker-ching",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kerching",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kerchunk",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mono",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "request",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "till",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/91924/download/",
+"bit_rate": 0,
+"filesize": 190500,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Till With Bell.wav\" by Benboncan is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "FX",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/4687/",
+"creator": "Benboncan",
+"creator_url": "https://freesound.org/people/Benboncan/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 2159,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9664ed91-bd2e-4629-88a7-a1d048d697d5/",
+"related_url": "https://api.openverse.org/v1/audio/9664ed91-bd2e-4629-88a7-a1d048d697d5/related/",
+"waveform": "https://api.openverse.org/v1/audio/9664ed91-bd2e-4629-88a7-a1d048d697d5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e1681c6a-8795-414c-b366-911281bc20de",
+"title": "typewriter_pullback.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/tjandrasounds/sounds/201591",
+"url": "https://cdn.freesound.org/previews/201/201591_1138806-hq.mp3",
+"creator": "tjandrasounds",
+"creator_url": "https://freesound.org/people/tjandrasounds",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 357408,
+"filetype": "mp3",
+"tags": [
+{
+"name": "close",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pullback",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/201591/download/",
+"bit_rate": 0,
+"filesize": 4740806,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"typewriter_pullback.wav\" by tjandrasounds is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Typewriter",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/12830/",
+"creator": "tjandrasounds",
+"creator_url": "https://freesound.org/people/tjandrasounds/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 16458,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e1681c6a-8795-414c-b366-911281bc20de/",
+"related_url": "https://api.openverse.org/v1/audio/e1681c6a-8795-414c-b366-911281bc20de/related/",
+"waveform": "https://api.openverse.org/v1/audio/e1681c6a-8795-414c-b366-911281bc20de/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0fc025cd-7c50-4157-a334-422fa3350174",
+"title": "typing.aif",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/MAJ061785/sounds/85564",
+"url": "https://cdn.freesound.org/previews/85/85564_1275441-hq.mp3",
+"creator": "MAJ061785",
+"creator_url": "https://freesound.org/people/MAJ061785",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 312336,
+"filetype": "mp3",
+"tags": [
+{
+"name": "computer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typing",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/85564/download/",
+"bit_rate": 0,
+"filesize": 11535340,
+"filetype": "aiff",
+"sample_rate": 48000
+}
+],
+"attribution": "\"typing.aif\" by MAJ061785 is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 20019,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0fc025cd-7c50-4157-a334-422fa3350174/",
+"related_url": "https://api.openverse.org/v1/audio/0fc025cd-7c50-4157-a334-422fa3350174/related/",
+"waveform": "https://api.openverse.org/v1/audio/0fc025cd-7c50-4157-a334-422fa3350174/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9b05c8ae-5f9d-4ed0-86ae-3e0e5c104523",
+"title": "type writing",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/mlekoman/sounds/320571",
+"url": "https://cdn.freesound.org/previews/320/320571_239431-hq.mp3",
+"creator": "mlekoman",
+"creator_url": "https://freesound.org/people/mlekoman",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 584593,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bell",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "keyboard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "keys",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "type",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "write",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "writer",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/320571/download/",
+"bit_rate": 0,
+"filesize": 6086536,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"type writing\" by mlekoman is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 23000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9b05c8ae-5f9d-4ed0-86ae-3e0e5c104523/",
+"related_url": "https://api.openverse.org/v1/audio/9b05c8ae-5f9d-4ed0-86ae-3e0e5c104523/related/",
+"waveform": "https://api.openverse.org/v1/audio/9b05c8ae-5f9d-4ed0-86ae-3e0e5c104523/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d201b210-51e8-47cf-9655-88b0464f11ef",
+"title": "keyboard typing",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Snapper4298/sounds/244178",
+"url": "https://cdn.freesound.org/previews/244/244178_33044-hq.mp3",
+"creator": "Snapper4298",
+"creator_url": "https://freesound.org/people/Snapper4298",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1113823,
+"filetype": "mp3",
+"tags": [
+{
+"name": "button",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "click",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "computer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "data",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "enter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "entry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "input",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "inputting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "key",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "keyboard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "keying",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "keys",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "keystroke",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "press",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "robot",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "robotic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stereo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tap",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tapping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "taps",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "type",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "write",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/244178/download/",
+"bit_rate": 0,
+"filesize": 7839628,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"keyboard typing\" by Snapper4298 is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 44442,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d201b210-51e8-47cf-9655-88b0464f11ef/",
+"related_url": "https://api.openverse.org/v1/audio/d201b210-51e8-47cf-9655-88b0464f11ef/related/",
+"waveform": "https://api.openverse.org/v1/audio/d201b210-51e8-47cf-9655-88b0464f11ef/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "660bf73f-bd8a-4ab1-ab6f-a35475705a58",
+"title": "typewriter_type.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/tjandrasounds/sounds/201590",
+"url": "https://cdn.freesound.org/previews/201/201590_1138806-hq.mp3",
+"creator": "tjandrasounds",
+"creator_url": "https://freesound.org/people/tjandrasounds",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 827856,
+"filetype": "mp3",
+"tags": [
+{
+"name": "close",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "type",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/201590/download/",
+"bit_rate": 0,
+"filesize": 12363806,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"typewriter_type.wav\" by tjandrasounds is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Typewriter",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/12830/",
+"creator": "tjandrasounds",
+"creator_url": "https://freesound.org/people/tjandrasounds/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 42927,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/660bf73f-bd8a-4ab1-ab6f-a35475705a58/",
+"related_url": "https://api.openverse.org/v1/audio/660bf73f-bd8a-4ab1-ab6f-a35475705a58/related/",
+"waveform": "https://api.openverse.org/v1/audio/660bf73f-bd8a-4ab1-ab6f-a35475705a58/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4f84cbdd-92fa-43b1-9754-9be2300f4efa",
+"title": "typewriter_slow.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/fastson/sounds/75188",
+"url": "https://cdn.freesound.org/previews/75/75188_586391-hq.mp3",
+"creator": "fastson",
+"creator_url": "https://freesound.org/people/fastson",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 230725,
+"filetype": "mp3",
+"tags": [
+{
+"name": "keystroke",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "paper",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "slow",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tapping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "text",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typing",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/75188/download/",
+"bit_rate": 0,
+"filesize": 1664754,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"typewriter_slow.wav\" by fastson is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 9436,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4f84cbdd-92fa-43b1-9754-9be2300f4efa/",
+"related_url": "https://api.openverse.org/v1/audio/4f84cbdd-92fa-43b1-9754-9be2300f4efa/related/",
+"waveform": "https://api.openverse.org/v1/audio/4f84cbdd-92fa-43b1-9754-9be2300f4efa/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2af44cc5-935a-4876-b211-53ae13ffd0db",
+"title": "typewriter_bell.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/tjandrasounds/sounds/201589",
+"url": "https://cdn.freesound.org/previews/201/201589_1138806-hq.mp3",
+"creator": "tjandrasounds",
+"creator_url": "https://freesound.org/people/tjandrasounds",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 543528,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bell",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "close",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/201589/download/",
+"bit_rate": 0,
+"filesize": 6863756,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"typewriter_bell.wav\" by tjandrasounds is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Typewriter",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/12830/",
+"creator": "tjandrasounds",
+"creator_url": "https://freesound.org/people/tjandrasounds/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 23830,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2af44cc5-935a-4876-b211-53ae13ffd0db/",
+"related_url": "https://api.openverse.org/v1/audio/2af44cc5-935a-4876-b211-53ae13ffd0db/related/",
+"waveform": "https://api.openverse.org/v1/audio/2af44cc5-935a-4876-b211-53ae13ffd0db/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9dab59ee-552a-4bef-89c0-1687b9d7c71e",
+"title": "UI Completed Status Alert Notification SFX002.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Headphaze/sounds/277032",
+"url": "https://cdn.freesound.org/previews/277/277032_847303-hq.mp3",
+"creator": "Headphaze",
+"creator_url": "https://freesound.org/people/Headphaze",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 56784,
+"filetype": "mp3",
+"tags": [
+{
+"name": "alarm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "alert",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "app",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "application",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "beacon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "beep",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "complete",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "computer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "done",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "effect",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "end",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gui",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "indication",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "interface",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "menu",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "notification",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "progress",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sfx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "signal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound-effect",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "status",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "synthesis",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "two-tone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ui",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "user-interface",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "videogame",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "warning",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/277032/download/",
+"bit_rate": 0,
+"filesize": 701958,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"UI Completed Status Alert Notification SFX002.wav\" by Headphaze is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2420,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9dab59ee-552a-4bef-89c0-1687b9d7c71e/",
+"related_url": "https://api.openverse.org/v1/audio/9dab59ee-552a-4bef-89c0-1687b9d7c71e/related/",
+"waveform": "https://api.openverse.org/v1/audio/9dab59ee-552a-4bef-89c0-1687b9d7c71e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0af17321-e0bd-4b90-b9c1-a8e47ffbe0d8",
+"title": "Royal_ping.WAV",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/fastson/sounds/99695",
+"url": "https://cdn.freesound.org/previews/99/99695_586391-hq.mp3",
+"creator": "fastson",
+"creator_url": "https://freesound.org/people/fastson",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 74256,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bell",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "manual",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "royal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/99695/download/",
+"bit_rate": 0,
+"filesize": 950788,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Royal_ping.WAV\" by fastson is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 3287,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0af17321-e0bd-4b90-b9c1-a8e47ffbe0d8/",
+"related_url": "https://api.openverse.org/v1/audio/0af17321-e0bd-4b90-b9c1-a8e47ffbe0d8/related/",
+"waveform": "https://api.openverse.org/v1/audio/0af17321-e0bd-4b90-b9c1-a8e47ffbe0d8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0212429a-c3ad-41e5-ae2d-8fcdb91a76ea",
+"title": "Brother_Center.WAV",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/fastson/sounds/99693",
+"url": "https://cdn.freesound.org/previews/99/99693_586391-hq.mp3",
+"creator": "fastson",
+"creator_url": "https://freesound.org/people/fastson",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 222432,
+"filetype": "mp3",
+"tags": [
+{
+"name": "automatic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "brother",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electric",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fast",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "teleprinter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "teletype",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tty",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typewriter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "typing",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/99693/download/",
+"bit_rate": 0,
+"filesize": 2685142,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Brother_Center.WAV\" by fastson is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 9309,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0212429a-c3ad-41e5-ae2d-8fcdb91a76ea/",
+"related_url": "https://api.openverse.org/v1/audio/0212429a-c3ad-41e5-ae2d-8fcdb91a76ea/related/",
+"waveform": "https://api.openverse.org/v1/audio/0212429a-c3ad-41e5-ae2d-8fcdb91a76ea/waveform/",
+"unstable__sensitivity": []
 }
 ]

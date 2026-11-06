@@ -5062,5 +5062,53 @@
    ]
   ],
   "mined_at": "2026-11-05T23:50:32Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Today in Techrights",
+  "url": "https://portal.mozz.us/gemini/gemini.tuxmachines.org/n/2024/09/09/Today_in_Techrights.gmi",
+  "gemini": "gemini://gemini.tuxmachines.org/n/2024/09/09/Today_in_Techrights.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 6488,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gemini.tuxmachines.org",
+  "preview": "Tux Machines\n\n# Today in Techrights\n\nPosted by Roy Schestowitz on Sep 09, 2024\n\n=>\t/n/2024/09/09/Linux_6_11_rc7.gmi\tLinux 6.11-rc7\n=>\t/n/2024/09/08/GNOME_47_Release_Candidate_Is_Now_Available_for_Public_Testing.gmi\tGNOME 47 Release Candidate Is Now Available for Public Testing\n\n=>\thttps://news.tuxmachines.org/i/2024/09/taipei-101-from-38-km.thumbnail.jpg\t\u21ba Taipei 101 and surroundings shot from the north-east at a distance of 38 km, after typhoon\n\n### Updated This Past Day\n\n* 1 \n###  On Losing the Job at Google After Talking About Committing Acts of Violence Against Colleagues\n\n=>\thttp://techrights.org/n/2024/09/08/On_Losing_the_Job_at_Google_After_Talking_About_Committing_Acts.shtml\t\u21ba On Losing the Job at Google After Talking About Committing Acts of Violence Against Colleagues\n\nWe still have a highly toxic element trying to enter and fracture our community \n\n* 2 \n###  [Meme] Patent Monopolies as Bribes at the European Patent Office (EPO)\n\n=>\thttp://techrights.org/n/2024/09/08/Meme_Patent_Monopolies_as_Bribes_at_the_European_Patent_Office_.shtml\t\u21ba [Meme] Patent Monopolies as Bribes at the European Patent Office (EPO)\n\nbloggers who report crime are being threatened with lawsuits by ",
+  "query": "gemini search \"patent\"",
+  "kw": "patent",
+  "extra": "capsule: gemini.tuxmachines.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gemini.tuxmachines.org/n/2024/09/09/Today_in_Techrights.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-06T07:04:44Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "2823.ufo.gmi",
+  "url": "https://portal.mozz.us/gemini/gem.snork.ca/textfiles.com/ufo/UFOBBS/2000/2823.ufo.gmi",
+  "gemini": "gemini://gem.snork.ca/textfiles.com/ufo/UFOBBS/2000/2823.ufo.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 8191,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gem.snork.ca",
+  "preview": "SUBJECT: UFOs EXPLAINED                                      FILE: UFO2823\r\n\r\n\r\n\r\n        ##UFO##\r\n \r\n \r\nUFOs Explained\r\n  Philip J. Klass\r\n  1974, Random House (1976 Vintage); (438p.)\r\n  #UFO#\r\n        A classic debunking work on UFO's, selecting a number of\r\nwell-known and intriguing cases, particularly some most touted by ET\r\nor mystery proponents.  Klass's reconstructions can be complicated,\r\nbut are convincing.  Not all would agree with his extrapolation to\r\nimply that all UFO cases, even if not explained similarly, must have\r\nprosaic explanations, but Klass's argument is not a trivial dismissal.\r\nCases discussed include the Socorro \"Landing,\" the RB-47 case, the\r\nPascagoula abductions and the Army helicopter incident of 1973, and\r\nmany more.\r\n \r\n \r\nUFO's: The Public Deceived\r\n  Philip J. Klass\r\n  1983, Prometheus Books; 310p.\r\n  #UFO#\r\n        Another Klass volume of prosaic explanations of prime UFO\r\ncases, less-than-competent UFO investigators and exposed hoaxes.\r\nIncludes a pretty definitive treatment of the famous Travis Walton\r\ncase, most probably a hoax.  Again, the bulk of the book is individual\r\ncases, with the implication that there is a good chance that the\r\nprocess",
+  "query": "gemini search \"ufo\"",
+  "kw": "ufo",
+  "extra": "capsule: gem.snork.ca \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gem.snork.ca/textfiles.com/ufo/UFOBBS/2000/2823.ufo.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-06T07:04:44Z"
  }
 ]

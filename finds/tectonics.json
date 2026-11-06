@@ -814,5 +814,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-05T23:46:35Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 2001:550:40c::/48",
+  "date": "2026-11-06",
+  "dateLabel": "sampled",
+  "count": 0,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"2001:550:40c::/48\",\n  \"origin\": \"174\",\n  \"time\": \"2018-12-13T00:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"2001:550:40c::/48\",\n  \"origin\": \"174\",\n  \"time\": \"2026-11-06T00:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 56,\n   \"total_ris_peers\": 313\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 174,\n   \"route_objects\": [\n    \"RADB\"\n   ]\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/2001:550:40c::/48",
+  "query": "RIPEstat routing-status 2001:550:40c::/48",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-06T07:01:58Z"
  }
 ]
