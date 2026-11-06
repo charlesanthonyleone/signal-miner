@@ -54913,5 +54913,611 @@
 "related_url": "https://api.openverse.org/v1/audio/0212429a-c3ad-41e5-ae2d-8fcdb91a76ea/related/",
 "waveform": "https://api.openverse.org/v1/audio/0212429a-c3ad-41e5-ae2d-8fcdb91a76ea/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "fdb3413f-450b-4fc3-b936-a3a4e17bb2af",
+"title": "Billboard(advertising)-060526",
+"indexed_on": "2022-10-09T12:57:33.997634Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=2752576",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Billboard%28advertising%29-060526.ogg",
+"creator": "Speaker: Scott Burley Billboard (advertising)",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Scott_Burley",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 11343880,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Billboard(advertising)-060526\" by Speaker: Scott Burley Billboard (advertising) is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1059312,
+"bit_rate": 96000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/fdb3413f-450b-4fc3-b936-a3a4e17bb2af/",
+"related_url": "https://api.openverse.org/v1/audio/fdb3413f-450b-4fc3-b936-a3a4e17bb2af/related/",
+"waveform": "https://api.openverse.org/v1/audio/fdb3413f-450b-4fc3-b936-a3a4e17bb2af/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "aafda737-e205-4f6a-acdb-f5d31bab223e",
+"title": "LL-Q809 (pol)-Poemat-billboard",
+"indexed_on": "2025-08-24T16:35:49.162870Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=101124617",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/LL-Q809_%28pol%29-Poemat-billboard.wav",
+"creator": "Speaker: Poemat Recorder: Poemat",
+"creator_url": "https://lingualibre.org/wiki/Q437424",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 117548,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q809 (pol)-Poemat-billboard\" by Speaker: Poemat Recorder: Poemat is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1224,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/aafda737-e205-4f6a-acdb-f5d31bab223e/",
+"related_url": "https://api.openverse.org/v1/audio/aafda737-e205-4f6a-acdb-f5d31bab223e/related/",
+"waveform": "https://api.openverse.org/v1/audio/aafda737-e205-4f6a-acdb-f5d31bab223e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0cb2d18d-1684-469b-a91b-39d4ea8cc1bb",
+"title": "LL-Q1860 (eng)-\u0639\u064f\u062b\u0645\u0627\u0646 (Middle river exports)-billboard",
+"indexed_on": "2024-10-27T18:18:43.759469Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=124574553",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/21/LL-Q1860_%28eng%29-%D8%B9%D9%8F%D8%AB%D9%85%D8%A7%D9%86_%28Middle_river_exports%29-billboard.wav",
+"creator": "Speaker: \u0639\u064f\u062b\u0645\u0627\u0646 Recorder: Middle river exports",
+"creator_url": "https://lingualibre.org/wiki/Q810593",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 81964,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-\u0639\u064f\u062b\u0645\u0627\u0646 (Middle river exports)-billboard\" by Speaker: \u0639\u064f\u062b\u0645\u0627\u0646 Recorder: Middle river exports is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 853,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0cb2d18d-1684-469b-a91b-39d4ea8cc1bb/",
+"related_url": "https://api.openverse.org/v1/audio/0cb2d18d-1684-469b-a91b-39d4ea8cc1bb/related/",
+"waveform": "https://api.openverse.org/v1/audio/0cb2d18d-1684-469b-a91b-39d4ea8cc1bb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c8ce0b41-91c6-40ae-97ae-1db86c4dd51d",
+"title": "Lista de singles n\u9dd0ero um na Billboard Hot 100 em 1989",
+"indexed_on": "2024-11-10T21:56:35.249047Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=14868298",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Lista_de_singles_n%C3%BAmero_um_na_Billboard_Hot_100_em_1989.ogg",
+"creator": "Deyvid Setti",
+"creator_url": "https://commons.wikimedia.org/w/index.php?title=User:Deyvid_Setti&action=edit&redlink=1",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 1713112,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Lista de singles n\u00famero um na Billboard Hot 100 em 1989\" by Deyvid Setti is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 106649,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c8ce0b41-91c6-40ae-97ae-1db86c4dd51d/",
+"related_url": "https://api.openverse.org/v1/audio/c8ce0b41-91c6-40ae-97ae-1db86c4dd51d/related/",
+"waveform": "https://api.openverse.org/v1/audio/c8ce0b41-91c6-40ae-97ae-1db86c4dd51d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2315e628-cbfd-4cdd-9847-830266026cb7",
+"title": "LL-Q1860 (eng)-Vealhurl-billboard",
+"indexed_on": "2025-12-15T00:21:50.803913Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=179911661",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/11/LL-Q1860_%28eng%29-Vealhurl-billboard.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 93228,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-billboard\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 970,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2315e628-cbfd-4cdd-9847-830266026cb7/",
+"related_url": "https://api.openverse.org/v1/audio/2315e628-cbfd-4cdd-9847-830266026cb7/related/",
+"waveform": "https://api.openverse.org/v1/audio/2315e628-cbfd-4cdd-9847-830266026cb7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1ff7b814-3d68-4878-ad21-39880d3561b6",
+"title": "Passing Time (billboards)",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/606858",
+"url": "https://prod-1.storage.jamendo.com/?trackid=606858&format=mp32",
+"creator": "Fernie Canto",
+"creator_url": "https://www.jamendo.com/artist/342403/Fernie_Canto_(2)",
+"license": "by-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.5/br/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Passing Time (billboards)\" by Fernie Canto is licensed under CC BY-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.5/br/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Highways",
+"foreign_landing_url": "https://www.jamendo.com/album/70246/highways",
+"creator": "Fernie Canto",
+"creator_url": "https://www.jamendo.com/artist/342403/Fernie_Canto_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 248000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/1ff7b814-3d68-4878-ad21-39880d3561b6/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/1ff7b814-3d68-4878-ad21-39880d3561b6/",
+"related_url": "https://api.openverse.org/v1/audio/1ff7b814-3d68-4878-ad21-39880d3561b6/related/",
+"waveform": "https://api.openverse.org/v1/audio/1ff7b814-3d68-4878-ad21-39880d3561b6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cca66e60-fac7-4ee8-b24c-cff051f94e68",
+"title": "berllin_crossroad_with_hum.wav",
+"indexed_on": "2022-11-02T16:00:43.977525Z",
+"foreign_landing_url": "https://freesound.org/people/uair01/sounds/89291",
+"url": "https://cdn.freesound.org/previews/89/89291_717853-hq.mp3",
+"creator": "uair01",
+"creator_url": "https://freesound.org/people/uair01",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1662189,
+"filetype": "mp3",
+"tags": [
+{
+"name": "berlin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "car",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crossroads",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "footsteps",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hum",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "night",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound-scape",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "winter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/89291/download/",
+"bit_rate": 0,
+"filesize": 12900180,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"berllin_crossroad_with_hum.wav\" by uair01 is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Night sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/5699/",
+"creator": "uair01",
+"creator_url": "https://freesound.org/people/uair01/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 73130,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cca66e60-fac7-4ee8-b24c-cff051f94e68/",
+"related_url": "https://api.openverse.org/v1/audio/cca66e60-fac7-4ee8-b24c-cff051f94e68/related/",
+"waveform": "https://api.openverse.org/v1/audio/cca66e60-fac7-4ee8-b24c-cff051f94e68/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "34e8cca3-f87d-44f4-88a7-df2f6437f239",
+"title": "creaking_citylight02.wav",
+"indexed_on": "2022-11-01T13:48:32.970278Z",
+"foreign_landing_url": "https://freesound.org/people/rbnx/sounds/106579",
+"url": "https://cdn.freesound.org/previews/106/106579_165310-hq.mp3",
+"creator": "rbnx",
+"creator_url": "https://freesound.org/people/rbnx",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1573536,
+"filetype": "mp3",
+"tags": [
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "billboard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cars",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "citylight",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "creak",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nigt",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rust",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/106579/download/",
+"bit_rate": 0,
+"filesize": 10385472,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"creaking_citylight02.wav\" by rbnx is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "city",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/6773/",
+"creator": "rbnx",
+"creator_url": "https://freesound.org/people/rbnx/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 72111,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/34e8cca3-f87d-44f4-88a7-df2f6437f239/",
+"related_url": "https://api.openverse.org/v1/audio/34e8cca3-f87d-44f4-88a7-df2f6437f239/related/",
+"waveform": "https://api.openverse.org/v1/audio/34e8cca3-f87d-44f4-88a7-df2f6437f239/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c020f664-4f1c-413d-b797-8442abb06686",
+"title": "Lagoon - Sounds 004.wav",
+"indexed_on": "2022-12-01T01:11:01.089678Z",
+"foreign_landing_url": "https://freesound.org/people/dibko/sounds/640776",
+"url": "https://cdn.freesound.org/previews/640/640776_10152894-hq.mp3",
+"creator": "dibko",
+"creator_url": "https://freesound.org/people/dibko",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2084593,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "animal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmophere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmos",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmospheric",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background-sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bird",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "general-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/640776/download/",
+"bit_rate": 0,
+"filesize": 16328184,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Lagoon - Sounds 004.wav\" by dibko is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Ormo\u017e - lagoons",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/35612/",
+"creator": "dibko",
+"creator_url": "https://freesound.org/people/dibko/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 92561,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c020f664-4f1c-413d-b797-8442abb06686/",
+"related_url": "https://api.openverse.org/v1/audio/c020f664-4f1c-413d-b797-8442abb06686/related/",
+"waveform": "https://api.openverse.org/v1/audio/c020f664-4f1c-413d-b797-8442abb06686/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "94bbd41d-fa58-4c5e-b0f7-d5d16c0dead8",
+"title": "Billboard.wav",
+"indexed_on": "2022-07-01T08:27:09.236920Z",
+"foreign_landing_url": "https://freesound.org/people/Bandslam33/sounds/545442",
+"url": "https://cdn.freesound.org/previews/545/545442_6182900-hq.mp3",
+"creator": "Bandslam33",
+"creator_url": "https://freesound.org/people/Bandslam33",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 561461,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Billboard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Sci-Fi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "SFX",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/545442/download/",
+"bit_rate": 0,
+"filesize": 5292766,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Billboard.wav\" by Bandslam33 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 20000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/94bbd41d-fa58-4c5e-b0f7-d5d16c0dead8/",
+"related_url": "https://api.openverse.org/v1/audio/94bbd41d-fa58-4c5e-b0f7-d5d16c0dead8/related/",
+"waveform": "https://api.openverse.org/v1/audio/94bbd41d-fa58-4c5e-b0f7-d5d16c0dead8/waveform/",
+"unstable__sensitivity": []
 }
 ]
