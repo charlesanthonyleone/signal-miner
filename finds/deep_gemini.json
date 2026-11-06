@@ -5110,5 +5110,29 @@
    ]
   ],
   "mined_at": "2026-11-06T07:04:44Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "The List\u2122 | Bah\u00e1'\u00ed.FYI",
+  "url": "https://portal.mozz.us/gemini/gem.bahai.fyi/list.gmi",
+  "gemini": "gemini://gem.bahai.fyi/list.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 7936,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gem.bahai.fyi",
+  "preview": "# The List\u2122 | Bah\u00e1'\u00ed.FYI\n\nTitle: List of Baha'i Websites/Resources/links. Information about the Baha'i Faith. \n\nOriginally posted: Sep. 22, 2013\n\nThese links, all pointing to Bah\u00e1'\u00ed-related resources on the World Wide Web, were compiled by a member of r/bahai on Reddit. Quote: \"I had all these things (and more) in my favorites. I found these over a period of several months. It took several hours to format the lists and sift through all my bookmarks.\"\n\nAs this list is now over ten years old, please keep in mind that some of the links may no longer be active. The list is presented almost exactly as originally posted, with some minor formatting differences to better fit the Gemtext format.\n\n## Changelog\n\nJuly 2025: Latest update. All links were added, and some minor edits were made for readability on Gemini.\n\nDecember 2023: Initally posted to Gemini with about half of links filled in.\n\n## General Information\n\n=> http://www.bahai-studies.ca/ Association for Bah\u00e1\u2019\u00ed Studies\nPromoting the study of the Bah\u00e1\u2019\u00ed Faith.\n=> http://www.absp.org/ Association for Bah\u00e1\u2019\u00ed Studies (Persian version)\n\n=> http://www.bahai.us/ Bah\u00e1\u2019\u00ed's of the United States\nContact American Bah\u00e1\u2019\u00eds to request information,",
+  "query": "gemini search \"prophecy\"",
+  "kw": "prophecy",
+  "extra": "capsule: gem.bahai.fyi \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gem.bahai.fyi/list.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-06T23:23:15Z"
  }
 ]

@@ -55519,5 +55519,2139 @@
 "related_url": "https://api.openverse.org/v1/audio/94bbd41d-fa58-4c5e-b0f7-d5d16c0dead8/related/",
 "waveform": "https://api.openverse.org/v1/audio/94bbd41d-fa58-4c5e-b0f7-d5d16c0dead8/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "20319235-916b-498d-83d1-327ef1066792",
+"title": "Tropical Orchard in Spring",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Calcuttan/sounds/184798",
+"url": "https://cdn.freesound.org/previews/184/184798_2474372-hq.mp3",
+"creator": "Calcuttan",
+"creator_url": "https://freesound.org/people/Calcuttan",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 3655488,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Asian-Koel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Black-hooded",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Edirol",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient-sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bird-song",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bird-vocalization",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "breeding-season",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "common-mynah",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coppersmith-barbet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "garden",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "jungle-babbler",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "morning",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "oriental-magpie-robin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "oriole",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "parakeet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rose-ringed",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rufous-treepie",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spotted-dove",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tropical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "white-breasted-kingfisher",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "white-browed-fantail",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/184798/download/",
+"bit_rate": 0,
+"filesize": 61770374,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Tropical Orchard in Spring\" by Calcuttan is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Nature Sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/11438/",
+"creator": "Calcuttan",
+"creator_url": "https://freesound.org/people/Calcuttan/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 160860,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/20319235-916b-498d-83d1-327ef1066792/",
+"related_url": "https://api.openverse.org/v1/audio/20319235-916b-498d-83d1-327ef1066792/related/",
+"waveform": "https://api.openverse.org/v1/audio/20319235-916b-498d-83d1-327ef1066792/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c4937070-7015-4cd0-a976-727f1f5148f2",
+"title": "Orchard choices",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/151021",
+"url": "https://prod-1.storage.jamendo.com/?trackid=151021&format=mp32",
+"creator": "Torley on Piano",
+"creator_url": "https://www.jamendo.com/artist/338247/Torley_on_Piano",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"classical"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Orchard choices\" by Torley on Piano is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "solo piano 7: Improvisations for a New Age",
+"foreign_landing_url": "https://www.jamendo.com/album/21576/solo-piano-7-improvisations-for-a-new-age",
+"creator": "Torley on Piano",
+"creator_url": "https://www.jamendo.com/artist/338247/Torley_on_Piano",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 77000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/c4937070-7015-4cd0-a976-727f1f5148f2/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/c4937070-7015-4cd0-a976-727f1f5148f2/",
+"related_url": "https://api.openverse.org/v1/audio/c4937070-7015-4cd0-a976-727f1f5148f2/related/",
+"waveform": "https://api.openverse.org/v1/audio/c4937070-7015-4cd0-a976-727f1f5148f2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "db84d215-89e2-478f-a1ad-5660f144c44c",
+"title": "Viba - In the Orchard Lies a Secret (MoShang Bonsai Mix)",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/78380",
+"url": "https://prod-1.storage.jamendo.com/?trackid=78380&format=mp32",
+"creator": "MoShang & Various Artists",
+"creator_url": "https://www.jamendo.com/artist/7950/moshang.various.artists",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"asian",
+"chillout",
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "remix",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "soft",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Viba - In the Orchard Lies a Secret (MoShang Bonsai Mix)\" by MoShang & Various Artists is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Asian Variations - Various Artists Remixed by MoShang",
+"foreign_landing_url": "https://www.jamendo.com/album/7110/asian-variations-various-artists-remixed-by-moshang",
+"creator": "MoShang & Various Artists",
+"creator_url": "https://www.jamendo.com/artist/7950/moshang.various.artists",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 123000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/db84d215-89e2-478f-a1ad-5660f144c44c/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/db84d215-89e2-478f-a1ad-5660f144c44c/",
+"related_url": "https://api.openverse.org/v1/audio/db84d215-89e2-478f-a1ad-5660f144c44c/related/",
+"waveform": "https://api.openverse.org/v1/audio/db84d215-89e2-478f-a1ad-5660f144c44c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "26799736-81cd-4002-9aba-a12933ed56ae",
+"title": "Orchard",
+"indexed_on": "2023-07-01T12:41:11.500001Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1057765",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1057765&format=mp32",
+"creator": "SubmarineSoundtrack",
+"creator_url": "https://www.jamendo.com/artist/436789/SubmarineSoundtrack",
+"license": "by-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/2.0/de/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "atmospheric",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "loopingguitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Orchard\" by SubmarineSoundtrack is licensed under CC BY-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/2.0/de/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Simploom",
+"foreign_landing_url": "https://www.jamendo.com/album/124753/simploom",
+"creator": "SubmarineSoundtrack",
+"creator_url": "https://www.jamendo.com/artist/436789/SubmarineSoundtrack",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 384000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/26799736-81cd-4002-9aba-a12933ed56ae/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/26799736-81cd-4002-9aba-a12933ed56ae/",
+"related_url": "https://api.openverse.org/v1/audio/26799736-81cd-4002-9aba-a12933ed56ae/related/",
+"waveform": "https://api.openverse.org/v1/audio/26799736-81cd-4002-9aba-a12933ed56ae/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d4afe35f-41f2-43bf-ba88-ed529ea0fddb",
+"title": "En-au-marble orchard",
+"indexed_on": "2023-11-26T14:17:35.990113Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=79519841",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/33/En-au-marble_orchard.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 25140,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-au-marble orchard\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2026,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d4afe35f-41f2-43bf-ba88-ed529ea0fddb/",
+"related_url": "https://api.openverse.org/v1/audio/d4afe35f-41f2-43bf-ba88-ed529ea0fddb/related/",
+"waveform": "https://api.openverse.org/v1/audio/d4afe35f-41f2-43bf-ba88-ed529ea0fddb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a75dab57-00fd-4e76-b93d-d396225d1222",
+"title": "'Come to the orchard in spring' by Rumi",
+"indexed_on": "2025-12-28T06:58:44.765343Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=40165554",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/%22Come_to_the_orchard_in_spring%22_by_Rumi.wav",
+"creator": "Arunasank",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Arunasank",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 1577004,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"'Come to the orchard in spring' by Rumi\" by Arunasank is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 17879,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a75dab57-00fd-4e76-b93d-d396225d1222/",
+"related_url": "https://api.openverse.org/v1/audio/a75dab57-00fd-4e76-b93d-d396225d1222/related/",
+"waveform": "https://api.openverse.org/v1/audio/a75dab57-00fd-4e76-b93d-d396225d1222/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e4501622-1a6d-47be-8c75-bc6c04b2810d",
+"title": "Icterus spurius - Orchard Oriole - XC102970",
+"indexed_on": "2024-03-03T14:21:14.345252Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=23930317",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Icterus_spurius_-_Orchard_Oriole_-_XC102970.ogg",
+"creator": "Jonathon Jongsma",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 550099,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Icterus spurius - Orchard Oriole - XC102970\" by Jonathon Jongsma is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 40045,
+"bit_rate": 140000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e4501622-1a6d-47be-8c75-bc6c04b2810d/",
+"related_url": "https://api.openverse.org/v1/audio/e4501622-1a6d-47be-8c75-bc6c04b2810d/related/",
+"waveform": "https://api.openverse.org/v1/audio/e4501622-1a6d-47be-8c75-bc6c04b2810d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "44f4fcae-c46c-47b6-99c1-7eee6920eb30",
+"title": "My Orchard Fire",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/272577",
+"url": "https://prod-1.storage.jamendo.com/?trackid=272577&format=mp32",
+"creator": "Menhirs Of Er Grah",
+"creator_url": "https://www.jamendo.com/artist/347139/Menhirs_Of_Er_Grah",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"folk",
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"My Orchard Fire\" by Menhirs Of Er Grah is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Different World (2009) [CA-201]",
+"foreign_landing_url": "https://www.jamendo.com/album/38601/different-world-2009-ca-201",
+"creator": "Menhirs Of Er Grah",
+"creator_url": "https://www.jamendo.com/artist/347139/Menhirs_Of_Er_Grah",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 303000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/44f4fcae-c46c-47b6-99c1-7eee6920eb30/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/44f4fcae-c46c-47b6-99c1-7eee6920eb30/",
+"related_url": "https://api.openverse.org/v1/audio/44f4fcae-c46c-47b6-99c1-7eee6920eb30/related/",
+"waveform": "https://api.openverse.org/v1/audio/44f4fcae-c46c-47b6-99c1-7eee6920eb30/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4e2400e1-4631-4649-871c-2f7543dc1a9d",
+"title": "Orchard's rock",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/509064",
+"url": "https://prod-1.storage.jamendo.com/?trackid=509064&format=mp32",
+"creator": "Briovere Buffentis",
+"creator_url": "https://www.jamendo.com/artist/1659/briovere.buffentis",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Orchard's rock\" by Briovere Buffentis is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Dream your dream (29)",
+"foreign_landing_url": "https://www.jamendo.com/album/59606/dream-your-dream-29",
+"creator": "Briovere Buffentis",
+"creator_url": "https://www.jamendo.com/artist/1659/briovere.buffentis",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 369000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/4e2400e1-4631-4649-871c-2f7543dc1a9d/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/4e2400e1-4631-4649-871c-2f7543dc1a9d/",
+"related_url": "https://api.openverse.org/v1/audio/4e2400e1-4631-4649-871c-2f7543dc1a9d/related/",
+"waveform": "https://api.openverse.org/v1/audio/4e2400e1-4631-4649-871c-2f7543dc1a9d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8e75abbb-8af7-4b39-bd42-7a7eac9f8800",
+"title": "Burning orchard clippings 05/10/2021",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/PianoFarm/sounds/583045",
+"url": "https://cdn.freesound.org/previews/583/583045_9556718-hq.mp3",
+"creator": "PianoFarm",
+"creator_url": "https://freesound.org/people/PianoFarm",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1521996,
+"filetype": "mp3",
+"tags": [
+{
+"name": "cleaning",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "clipping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "farm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fire",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "orchard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Piano",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "recordings",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spring",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/583045/download/",
+"bit_rate": 69000,
+"filesize": 549818,
+"filetype": "m4a",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Burning orchard clippings 05/10/2021\" by PianoFarm is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 63744,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8e75abbb-8af7-4b39-bd42-7a7eac9f8800/",
+"related_url": "https://api.openverse.org/v1/audio/8e75abbb-8af7-4b39-bd42-7a7eac9f8800/related/",
+"waveform": "https://api.openverse.org/v1/audio/8e75abbb-8af7-4b39-bd42-7a7eac9f8800/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a73ee37b-ff36-4484-ab2c-f3fdf0640629",
+"title": "Grown in Chefchaouen Orchards and Gardens",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1511871",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1511871&format=mp32",
+"creator": "Polyphony Pi\u00f9",
+"creator_url": "https://www.jamendo.com/artist/489539/Polyphony_Piu",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electropunk",
+"filmscore",
+"industrial"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "morocco",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Grown in Chefchaouen Orchards and Gardens\" by Polyphony Pi\u00f9 is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Surround Fundamental Shifts and Exhibitions",
+"foreign_landing_url": "https://www.jamendo.com/album/173960/surround-fundamental-shifts-and-exhibitions",
+"creator": "Polyphony Pi\u00f9",
+"creator_url": "https://www.jamendo.com/artist/489539/Polyphony_Piu",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 639000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/a73ee37b-ff36-4484-ab2c-f3fdf0640629/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/a73ee37b-ff36-4484-ab2c-f3fdf0640629/",
+"related_url": "https://api.openverse.org/v1/audio/a73ee37b-ff36-4484-ab2c-f3fdf0640629/related/",
+"waveform": "https://api.openverse.org/v1/audio/a73ee37b-ff36-4484-ab2c-f3fdf0640629/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "33057af6-bfcf-45f7-87a9-06b552264e0a",
+"title": "Rain on the Cherry Orchard (Remaster of Asian Pagoda)",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1731863",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1731863&format=mp32",
+"creator": "Aufklarung",
+"creator_url": "https://www.jamendo.com/artist/347673/Aufklarung",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"classical",
+"neoclassical"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "documentary",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Rain on the Cherry Orchard (Remaster of Asian Pagoda)\" by Aufklarung is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Introspective Rain",
+"foreign_landing_url": "https://www.jamendo.com/album/191368/introspective-rain",
+"creator": "Aufklarung",
+"creator_url": "https://www.jamendo.com/artist/347673/Aufklarung",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 87000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/33057af6-bfcf-45f7-87a9-06b552264e0a/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/33057af6-bfcf-45f7-87a9-06b552264e0a/",
+"related_url": "https://api.openverse.org/v1/audio/33057af6-bfcf-45f7-87a9-06b552264e0a/related/",
+"waveform": "https://api.openverse.org/v1/audio/33057af6-bfcf-45f7-87a9-06b552264e0a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b4d13216-a956-4f3b-94a3-9f036d1c1727",
+"title": "Orchard Farm",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1447367",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1447367&format=mp32",
+"creator": "Samonazva",
+"creator_url": "https://www.jamendo.com/artist/468556/_(88)",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"hiphop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "flute",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Orchard Farm\" by Samonazva is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Simple Sampler",
+"foreign_landing_url": "https://www.jamendo.com/album/168288/simple-sampler",
+"creator": "Samonazva",
+"creator_url": "https://www.jamendo.com/artist/468556/_(88)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 254000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/b4d13216-a956-4f3b-94a3-9f036d1c1727/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/b4d13216-a956-4f3b-94a3-9f036d1c1727/",
+"related_url": "https://api.openverse.org/v1/audio/b4d13216-a956-4f3b-94a3-9f036d1c1727/related/",
+"waveform": "https://api.openverse.org/v1/audio/b4d13216-a956-4f3b-94a3-9f036d1c1727/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0ec278cb-d198-48ab-9d67-7f8429099b43",
+"title": "10 Dewey from walmart to Affinity Orchard & back ( accordion bus ).aif",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/JohnLaVine333/sounds/523323",
+"url": "https://cdn.freesound.org/previews/523/523323_450294-hq.mp3",
+"creator": "JohnLaVine333",
+"creator_url": "https://freesound.org/people/JohnLaVine333",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 17874384,
+"filetype": "mp3",
+"tags": [
+{
+"name": "10",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "accordion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Affinity",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bus",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "city",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Dewey",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Orchard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "street",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "traffic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "walmart",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/523323/download/",
+"bit_rate": 0,
+"filesize": 275952422,
+"filetype": "aiff",
+"sample_rate": 48000
+}
+],
+"attribution": "\"10 Dewey from walmart to Affinity Orchard & back ( accordion bus ).aif\" by JohnLaVine333 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "environments and ambience",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/5320/",
+"creator": "JohnLaVine333",
+"creator_url": "https://freesound.org/people/JohnLaVine333/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 958168,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0ec278cb-d198-48ab-9d67-7f8429099b43/",
+"related_url": "https://api.openverse.org/v1/audio/0ec278cb-d198-48ab-9d67-7f8429099b43/related/",
+"waveform": "https://api.openverse.org/v1/audio/0ec278cb-d198-48ab-9d67-7f8429099b43/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "33e5f0f2-1dfd-407b-83f1-4eb679dc2a51",
+"title": "Orchards of the Foremother",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1483679",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1483679&format=mp32",
+"creator": "As Above So Below",
+"creator_url": "https://www.jamendo.com/artist/494816/As_Above_So_Below",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"mathrock",
+"postrock",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "cinematic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "progrock",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Orchards of the Foremother\" by As Above So Below is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Ritos II",
+"foreign_landing_url": "https://www.jamendo.com/album/171535/ritos-ii",
+"creator": "As Above So Below",
+"creator_url": "https://www.jamendo.com/artist/494816/As_Above_So_Below",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 340000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/33e5f0f2-1dfd-407b-83f1-4eb679dc2a51/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/33e5f0f2-1dfd-407b-83f1-4eb679dc2a51/",
+"related_url": "https://api.openverse.org/v1/audio/33e5f0f2-1dfd-407b-83f1-4eb679dc2a51/related/",
+"waveform": "https://api.openverse.org/v1/audio/33e5f0f2-1dfd-407b-83f1-4eb679dc2a51/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ee598160-cd30-4f66-b055-cc69bff113dd",
+"title": "Apple Orchard",
+"indexed_on": "2025-06-01T16:50:55.087809Z",
+"foreign_landing_url": "https://www.jamendo.com/track/2224528",
+"url": "https://prod-1.storage.jamendo.com/?trackid=2224528&format=mp32",
+"creator": "Vladimir Shkatov",
+"creator_url": "https://www.jamendo.com/artist/439637/Vladimir_Shkatov",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "dreamy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "electricpiano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Apple Orchard\" by Vladimir Shkatov is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Flotsam",
+"foreign_landing_url": "https://www.jamendo.com/album/590267/flotsam",
+"creator": "Vladimir Shkatov",
+"creator_url": "https://www.jamendo.com/artist/439637/Vladimir_Shkatov",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 79000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/ee598160-cd30-4f66-b055-cc69bff113dd/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/ee598160-cd30-4f66-b055-cc69bff113dd/",
+"related_url": "https://api.openverse.org/v1/audio/ee598160-cd30-4f66-b055-cc69bff113dd/related/",
+"waveform": "https://api.openverse.org/v1/audio/ee598160-cd30-4f66-b055-cc69bff113dd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "13f1094d-4018-4653-90ff-9ddf5cb153b4",
+"title": "Crab Orchard Grassy Bay water splashes MAY 3 2023.WAV",
+"indexed_on": "2024-04-18T18:52:10.009444Z",
+"foreign_landing_url": "https://freesound.org/people/kvgarlic/sounds/686115",
+"url": "https://cdn.freesound.org/previews/686/686115_1050391-hq.mp3",
+"creator": "kvgarlic",
+"creator_url": "https://freesound.org/people/kvgarlic",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 3225744,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Fish",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Lake",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Summer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Water",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/686115/download/",
+"bit_rate": 0,
+"filesize": 40013544,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Crab Orchard Grassy Bay water splashes MAY 3 2023.WAV\" by kvgarlic is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 138897,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/13f1094d-4018-4653-90ff-9ddf5cb153b4/",
+"related_url": "https://api.openverse.org/v1/audio/13f1094d-4018-4653-90ff-9ddf5cb153b4/related/",
+"waveform": "https://api.openverse.org/v1/audio/13f1094d-4018-4653-90ff-9ddf5cb153b4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f17636cf-a45e-4cea-9b55-f2c047e98b26",
+"title": "Water draining in walkway under Orchard Meadow dorm.m4a",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/mattboba1/sounds/684343",
+"url": "https://cdn.freesound.org/previews/684/684343_14892580-hq.mp3",
+"creator": "mattboba1",
+"creator_url": "https://freesound.org/people/mattboba1",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 414912,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rain",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/684343/download/",
+"bit_rate": 67000,
+"filesize": 146601,
+"filetype": "m4a",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Water draining in walkway under Orchard Meadow dorm.m4a\" by mattboba1 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Variety of Mills College sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/38216/",
+"creator": "mattboba1",
+"creator_url": "https://freesound.org/people/mattboba1/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 17536,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f17636cf-a45e-4cea-9b55-f2c047e98b26/",
+"related_url": "https://api.openverse.org/v1/audio/f17636cf-a45e-4cea-9b55-f2c047e98b26/related/",
+"waveform": "https://api.openverse.org/v1/audio/f17636cf-a45e-4cea-9b55-f2c047e98b26/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fa77e2b0-f869-46b6-b8cb-b08150052e90",
+"title": "The Orchard of Miracles",
+"indexed_on": "2026-08-01T17:23:15.377185Z",
+"foreign_landing_url": "https://www.jamendo.com/track/2309408",
+"url": "https://prod-1.storage.jamendo.com/?trackid=2309408&format=mp32",
+"creator": "Kenananda",
+"creator_url": "https://www.jamendo.com/artist/370882/Kenananda",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"world",
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The Orchard of Miracles\" by Kenananda is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "November Raga",
+"foreign_landing_url": "https://www.jamendo.com/album/629264/november-raga",
+"creator": "Kenananda",
+"creator_url": "https://www.jamendo.com/artist/370882/Kenananda",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 236000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/fa77e2b0-f869-46b6-b8cb-b08150052e90/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/fa77e2b0-f869-46b6-b8cb-b08150052e90/",
+"related_url": "https://api.openverse.org/v1/audio/fa77e2b0-f869-46b6-b8cb-b08150052e90/related/",
+"waveform": "https://api.openverse.org/v1/audio/fa77e2b0-f869-46b6-b8cb-b08150052e90/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e07a2091-acc8-4f83-a7ad-da07fbc4c92f",
+"title": "The Black Orchard",
+"indexed_on": "2026-08-01T17:23:15.377185Z",
+"foreign_landing_url": "https://www.jamendo.com/track/2333293",
+"url": "https://prod-1.storage.jamendo.com/?trackid=2333293&format=mp32",
+"creator": "Alper Cavus",
+"creator_url": "https://www.jamendo.com/artist/606121/Alper_Cavus_(3)",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"indie",
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The Black Orchard\" by Alper Cavus is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Echoes of the Mind",
+"foreign_landing_url": "https://www.jamendo.com/album/641660/echoes-of-the-mind",
+"creator": "Alper Cavus",
+"creator_url": "https://www.jamendo.com/artist/606121/Alper_Cavus_(3)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 152000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e07a2091-acc8-4f83-a7ad-da07fbc4c92f/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e07a2091-acc8-4f83-a7ad-da07fbc4c92f/",
+"related_url": "https://api.openverse.org/v1/audio/e07a2091-acc8-4f83-a7ad-da07fbc4c92f/related/",
+"waveform": "https://api.openverse.org/v1/audio/e07a2091-acc8-4f83-a7ad-da07fbc4c92f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c7de7c34-856b-4462-8310-aa2114aaeb88",
+"title": "De-Fossil",
+"indexed_on": "2023-11-05T20:19:53.593605Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=56630770",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/73/De-Fossil.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 17041,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-Fossil\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1660,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c7de7c34-856b-4462-8310-aa2114aaeb88/",
+"related_url": "https://api.openverse.org/v1/audio/c7de7c34-856b-4462-8310-aa2114aaeb88/related/",
+"waveform": "https://api.openverse.org/v1/audio/c7de7c34-856b-4462-8310-aa2114aaeb88/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fcabb286-61d2-4c24-8890-d4aa892267bb",
+"title": "Saint-Saens - The Carnival of the Animals - 12 Fossiles",
+"indexed_on": "2023-04-23T10:50:48.391993Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=99003175",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Saint-Saens_-_The_Carnival_of_the_Animals_-_12_Fossiles.ogg",
+"creator": "Camille Saint-Sa\u00ebns",
+"creator_url": "https://en.wikipedia.org/wiki/en:Camille_Saint-Sa%C3%ABns",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 1049181,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Saint-Saens - The Carnival of the Animals - 12 Fossiles\" by Camille Saint-Sa\u00ebns is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 75996,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/fcabb286-61d2-4c24-8890-d4aa892267bb/",
+"related_url": "https://api.openverse.org/v1/audio/fcabb286-61d2-4c24-8890-d4aa892267bb/related/",
+"waveform": "https://api.openverse.org/v1/audio/fcabb286-61d2-4c24-8890-d4aa892267bb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "235fbd3f-46ea-4753-8abf-0bd5d058e61d",
+"title": "En-us-fossil",
+"indexed_on": "2024-02-18T15:48:05.053050Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=563118",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/03/En-us-fossil.ogg",
+"creator": "Dvortygirl",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Dvortygirl",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 15333,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-us-fossil\" by Dvortygirl is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 547,
+"bit_rate": 160003,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/235fbd3f-46ea-4753-8abf-0bd5d058e61d/",
+"related_url": "https://api.openverse.org/v1/audio/235fbd3f-46ea-4753-8abf-0bd5d058e61d/related/",
+"waveform": "https://api.openverse.org/v1/audio/235fbd3f-46ea-4753-8abf-0bd5d058e61d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3d7e3c85-33f8-42d7-a801-004be4b5c630",
+"title": "LL-Q150 (fra)-LoquaxFR-fossile",
+"indexed_on": "2023-03-05T09:58:14.458203Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=84720198",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/LL-Q150_%28fra%29-LoquaxFR-fossile.wav",
+"creator": "Speaker: LoquaxFR Recorder: LoquaxFR",
+"creator_url": "https://lingualibre.org/wiki/Q215420",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 91412,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-LoquaxFR-fossile\" by Speaker: LoquaxFR Recorder: LoquaxFR is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1035,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/3d7e3c85-33f8-42d7-a801-004be4b5c630/",
+"related_url": "https://api.openverse.org/v1/audio/3d7e3c85-33f8-42d7-a801-004be4b5c630/related/",
+"waveform": "https://api.openverse.org/v1/audio/3d7e3c85-33f8-42d7-a801-004be4b5c630/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4200c659-a1c3-4c75-9bc8-c1272eb93085",
+"title": "LL-Q1860 (eng)-RedAuburn-fossil",
+"indexed_on": "2023-07-05T00:39:14.400334Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=133951121",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/90/LL-Q1860_%28eng%29-RedAuburn-fossil.wav",
+"creator": "Speaker: RedAuburn Recorder: RedAuburn",
+"creator_url": "https://lingualibre.org/wiki/Q953754",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 84780,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-RedAuburn-fossil\" by Speaker: RedAuburn Recorder: RedAuburn is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 882,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4200c659-a1c3-4c75-9bc8-c1272eb93085/",
+"related_url": "https://api.openverse.org/v1/audio/4200c659-a1c3-4c75-9bc8-c1272eb93085/related/",
+"waveform": "https://api.openverse.org/v1/audio/4200c659-a1c3-4c75-9bc8-c1272eb93085/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b8bdf48d-be37-496a-96c6-fd8a8fe40b09",
+"title": "LL-Q1860 (eng)-Wodencafe-fossil",
+"indexed_on": "2024-01-08T00:09:07.450351Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=143609141",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/LL-Q1860_%28eng%29-Wodencafe-fossil.wav",
+"creator": "Speaker: Wodencafe Recorder: Wodencafe",
+"creator_url": "https://lingualibre.org/wiki/Q1207413",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 87340,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Wodencafe-fossil\" by Speaker: Wodencafe Recorder: Wodencafe is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 909,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b8bdf48d-be37-496a-96c6-fd8a8fe40b09/",
+"related_url": "https://api.openverse.org/v1/audio/b8bdf48d-be37-496a-96c6-fd8a8fe40b09/related/",
+"waveform": "https://api.openverse.org/v1/audio/b8bdf48d-be37-496a-96c6-fd8a8fe40b09/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "169b505e-7e1d-40d1-8b03-a861a17c74ca",
+"title": "De-fossile",
+"indexed_on": "2024-01-21T16:06:16.481126Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=107797359",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/De-fossile.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 18484,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-fossile\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1890,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/169b505e-7e1d-40d1-8b03-a861a17c74ca/",
+"related_url": "https://api.openverse.org/v1/audio/169b505e-7e1d-40d1-8b03-a861a17c74ca/related/",
+"waveform": "https://api.openverse.org/v1/audio/169b505e-7e1d-40d1-8b03-a861a17c74ca/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "128fe7b5-1a64-4139-8951-6b4fd5c68431",
+"title": "De-fossiles",
+"indexed_on": "2024-01-21T16:06:16.481126Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=107797367",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/De-fossiles.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 19331,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-fossiles\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1990,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/128fe7b5-1a64-4139-8951-6b4fd5c68431/",
+"related_url": "https://api.openverse.org/v1/audio/128fe7b5-1a64-4139-8951-6b4fd5c68431/related/",
+"waveform": "https://api.openverse.org/v1/audio/128fe7b5-1a64-4139-8951-6b4fd5c68431/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "023decea-5b08-4217-a141-e70c49149e21",
+"title": "LL-Q1860 (eng)-Wodencafe-fossil fuel",
+"indexed_on": "2024-01-08T00:09:07.450351Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=143613488",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/LL-Q1860_%28eng%29-Wodencafe-fossil_fuel.wav",
+"creator": "Speaker: Wodencafe Recorder: Wodencafe",
+"creator_url": "https://lingualibre.org/wiki/Q1207413",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 123180,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Wodencafe-fossil fuel\" by Speaker: Wodencafe Recorder: Wodencafe is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1282,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/023decea-5b08-4217-a141-e70c49149e21/",
+"related_url": "https://api.openverse.org/v1/audio/023decea-5b08-4217-a141-e70c49149e21/related/",
+"waveform": "https://api.openverse.org/v1/audio/023decea-5b08-4217-a141-e70c49149e21/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "38985337-dcc2-4587-b318-52a0a7b2c1da",
+"title": "LL-Q1860 (eng)-Flame, not lame-fossilize",
+"indexed_on": "2024-11-19T00:20:50.347651Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=155327537",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/LL-Q1860_%28eng%29-Flame%2C_not_lame-fossilize.wav",
+"creator": "Speaker: Flame, not lame Recorder: Flame",
+"creator_url": "https://lingualibre.org/wiki/Q1191054",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 130092,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Flame, not lame-fossilize\" by Speaker: Flame, not lame Recorder: Flame is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1354,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/38985337-dcc2-4587-b318-52a0a7b2c1da/",
+"related_url": "https://api.openverse.org/v1/audio/38985337-dcc2-4587-b318-52a0a7b2c1da/related/",
+"waveform": "https://api.openverse.org/v1/audio/38985337-dcc2-4587-b318-52a0a7b2c1da/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8ad8e738-6ab5-403c-a9b0-003be51d87f2",
+"title": "LL-Q150 (fra)-Poslovitch-fossiles",
+"indexed_on": "2023-06-11T15:53:14.447729Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=88139845",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/LL-Q150_%28fra%29-Poslovitch-fossiles.wav",
+"creator": "Speaker: Poslovitch Recorder: Poslovitch",
+"creator_url": "https://lingualibre.org/wiki/Q142683",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 99604,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Poslovitch-fossiles\" by Speaker: Poslovitch Recorder: Poslovitch is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1128,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8ad8e738-6ab5-403c-a9b0-003be51d87f2/",
+"related_url": "https://api.openverse.org/v1/audio/8ad8e738-6ab5-403c-a9b0-003be51d87f2/related/",
+"waveform": "https://api.openverse.org/v1/audio/8ad8e738-6ab5-403c-a9b0-003be51d87f2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1d19b779-7467-4e24-8b30-f6c4eb5611ce",
+"title": "LL-Q1860 (eng)-RedAuburn-fossil fuel",
+"indexed_on": "2023-07-05T00:39:14.400334Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=133951226",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/LL-Q1860_%28eng%29-RedAuburn-fossil_fuel.wav",
+"creator": "Speaker: RedAuburn Recorder: RedAuburn",
+"creator_url": "https://lingualibre.org/wiki/Q953754",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-RedAuburn-fossil fuel\" by Speaker: RedAuburn Recorder: RedAuburn is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1d19b779-7467-4e24-8b30-f6c4eb5611ce/",
+"related_url": "https://api.openverse.org/v1/audio/1d19b779-7467-4e24-8b30-f6c4eb5611ce/related/",
+"waveform": "https://api.openverse.org/v1/audio/1d19b779-7467-4e24-8b30-f6c4eb5611ce/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7f09ab42-4b46-4656-92bf-a32adcf3df3c",
+"title": "LL-Q150 (fra)-Roptat-fossile",
+"indexed_on": "2023-04-10T00:08:57.597213Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=130555632",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/LL-Q150_%28fra%29-Roptat-fossile.wav",
+"creator": "Speaker: Roptat Recorder: Roptat",
+"creator_url": "https://lingualibre.org/wiki/Q538213",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 99604,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Roptat-fossile\" by Speaker: Roptat Recorder: Roptat is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1128,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/7f09ab42-4b46-4656-92bf-a32adcf3df3c/",
+"related_url": "https://api.openverse.org/v1/audio/7f09ab42-4b46-4656-92bf-a32adcf3df3c/related/",
+"waveform": "https://api.openverse.org/v1/audio/7f09ab42-4b46-4656-92bf-a32adcf3df3c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2883b379-ae18-49d0-97ac-7b72c9842e4f",
+"title": "De-fossiler",
+"indexed_on": "2024-01-21T16:06:16.481126Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=107797364",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/05/De-fossiler.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 18383,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-fossiler\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1850,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2883b379-ae18-49d0-97ac-7b72c9842e4f/",
+"related_url": "https://api.openverse.org/v1/audio/2883b379-ae18-49d0-97ac-7b72c9842e4f/related/",
+"waveform": "https://api.openverse.org/v1/audio/2883b379-ae18-49d0-97ac-7b72c9842e4f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4cb2d393-eacb-4027-a766-64868305e35b",
+"title": "LL-Q1860 (eng)-Fae7-fossil fuel",
+"indexed_on": "2023-09-17T06:25:50.078205Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=129429896",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/LL-Q1860_%28eng%29-Fae7-fossil_fuel.wav",
+"creator": "Speaker: Fae7 Recorder: Fae7",
+"creator_url": "https://lingualibre.org/wiki/Q889618",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 101164,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Fae7-fossil fuel\" by Speaker: Fae7 Recorder: Fae7 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1053,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4cb2d393-eacb-4027-a766-64868305e35b/",
+"related_url": "https://api.openverse.org/v1/audio/4cb2d393-eacb-4027-a766-64868305e35b/related/",
+"waveform": "https://api.openverse.org/v1/audio/4cb2d393-eacb-4027-a766-64868305e35b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4bba3235-1870-4594-9e8c-c7409026d7f6",
+"title": "LL-Q150 (fra)-Roptat-fossiles",
+"indexed_on": "2023-04-10T00:08:57.597213Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=130555631",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/LL-Q150_%28fra%29-Roptat-fossiles.wav",
+"creator": "Speaker: Roptat Recorder: Roptat",
+"creator_url": "https://lingualibre.org/wiki/Q538213",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 107796,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Roptat-fossiles\" by Speaker: Roptat Recorder: Roptat is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1221,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4bba3235-1870-4594-9e8c-c7409026d7f6/",
+"related_url": "https://api.openverse.org/v1/audio/4bba3235-1870-4594-9e8c-c7409026d7f6/related/",
+"waveform": "https://api.openverse.org/v1/audio/4bba3235-1870-4594-9e8c-c7409026d7f6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "90a8ecf4-34de-4fed-b0ee-6f820931dce8",
+"title": "LL-Q150 (fra)-WikiLucas00-\u5e6fergie fossile",
+"indexed_on": "2022-10-04T05:56:03.657684Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=85557075",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/63/LL-Q150_%28fra%29-WikiLucas00-%C3%A9nergie_fossile.wav",
+"creator": "Speaker: WikiLucas00 Recorder: WikiLucas00",
+"creator_url": "https://lingualibre.org/wiki/Q102123",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 142124,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-WikiLucas00-\u00e9nergie fossile\" by Speaker: WikiLucas00 Recorder: WikiLucas00 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1480,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/90a8ecf4-34de-4fed-b0ee-6f820931dce8/",
+"related_url": "https://api.openverse.org/v1/audio/90a8ecf4-34de-4fed-b0ee-6f820931dce8/related/",
+"waveform": "https://api.openverse.org/v1/audio/90a8ecf4-34de-4fed-b0ee-6f820931dce8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b11b96bf-6aaa-4d16-98b2-b902626ca13d",
+"title": "De-Fossils",
+"indexed_on": "2022-11-06T06:11:35.320456Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=114718372",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/61/De-Fossils.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 19547,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-Fossils\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1940,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b11b96bf-6aaa-4d16-98b2-b902626ca13d/",
+"related_url": "https://api.openverse.org/v1/audio/b11b96bf-6aaa-4d16-98b2-b902626ca13d/related/",
+"waveform": "https://api.openverse.org/v1/audio/b11b96bf-6aaa-4d16-98b2-b902626ca13d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a87a21e5-a7e3-413d-aeda-df34f81e1b83",
+"title": "En-au-fossil fool",
+"indexed_on": "2023-05-14T15:17:51.134542Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=87098719",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/21/En-au-fossil_fool.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 17169,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-au-fossil fool\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1263,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a87a21e5-a7e3-413d-aeda-df34f81e1b83/",
+"related_url": "https://api.openverse.org/v1/audio/a87a21e5-a7e3-413d-aeda-df34f81e1b83/related/",
+"waveform": "https://api.openverse.org/v1/audio/a87a21e5-a7e3-413d-aeda-df34f81e1b83/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "812ad357-33fd-467c-bd9e-f504fed96244",
+"title": "De-lebendes Fossil",
+"indexed_on": "2024-06-02T14:43:15.150528Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=77415569",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/88/De-lebendes_Fossil.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 21515,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-lebendes Fossil\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2300,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/812ad357-33fd-467c-bd9e-f504fed96244/",
+"related_url": "https://api.openverse.org/v1/audio/812ad357-33fd-467c-bd9e-f504fed96244/related/",
+"waveform": "https://api.openverse.org/v1/audio/812ad357-33fd-467c-bd9e-f504fed96244/waveform/",
+"unstable__sensitivity": []
 }
 ]

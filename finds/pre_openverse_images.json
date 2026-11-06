@@ -88536,5 +88536,3372 @@
 "detail_url": "https://api.openverse.org/v1/images/653fa712-3ead-4164-8289-aee80d35cd23/",
 "related_url": "https://api.openverse.org/v1/images/653fa712-3ead-4164-8289-aee80d35cd23/related/",
 "unstable__sensitivity": []
+},
+{
+"id": "765bd2b3-8fc5-4c63-aeb8-3ca10ffb0c6d",
+"title": "Basket of eggs",
+"indexed_on": "2018-12-21T14:15:26.848497Z",
+"foreign_landing_url": "https://www.flickr.com/photos/68751915@N05/6793810655",
+"url": "https://live.staticflickr.com/7145/6793810655_5092d1476a_b.jpg",
+"creator": "401(K) 2013",
+"creator_url": "https://www.flickr.com/photos/68751915@N05",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "eggs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "piggybank",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Basket of eggs\" by 401(K) 2013 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/765bd2b3-8fc5-4c63-aeb8-3ca10ffb0c6d/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/765bd2b3-8fc5-4c63-aeb8-3ca10ffb0c6d/",
+"related_url": "https://api.openverse.org/v1/images/765bd2b3-8fc5-4c63-aeb8-3ca10ffb0c6d/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "77581d32-e823-42fb-b53d-d81c38e3bae6",
+"title": "Four little baskets sitting on a wall",
+"indexed_on": "2020-03-26T17:19:48.111127Z",
+"foreign_landing_url": "https://www.flickr.com/photos/54942754@N02/31767296896",
+"url": "https://live.staticflickr.com/382/31767296896_252b61a29f_b.jpg",
+"creator": "eltpics",
+"creator_url": "https://www.flickr.com/photos/54942754@N02",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "baskets",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "eltpics",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "weaving",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wickerwork",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Four little baskets sitting on a wall\" by eltpics is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 623,
+"width": 960,
+"thumbnail": "https://api.openverse.org/v1/images/77581d32-e823-42fb-b53d-d81c38e3bae6/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/77581d32-e823-42fb-b53d-d81c38e3bae6/",
+"related_url": "https://api.openverse.org/v1/images/77581d32-e823-42fb-b53d-d81c38e3bae6/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "73d1814a-ac45-4a6b-8a40-16ad587ca371",
+"title": "Basket for Jerry",
+"indexed_on": "2020-04-16T16:36:18.981478Z",
+"foreign_landing_url": "https://www.flickr.com/photos/38075047@N00/5810289860",
+"url": "https://live.staticflickr.com/3581/5810289860_ac4a386638.jpg",
+"creator": "dgray_xplane",
+"creator_url": "https://www.flickr.com/photos/38075047@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "basketweaving",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "knowledge",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "art",
+"accuracy": 0.90792,
+"unstable__provider": "clarifai"
+},
+{
+"name": "design",
+"accuracy": 0.93064,
+"unstable__provider": "clarifai"
+},
+{
+"name": "disjunct",
+"accuracy": 0.9706,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Basket for Jerry\" by dgray_xplane is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 500,
+"width": 451,
+"thumbnail": "https://api.openverse.org/v1/images/73d1814a-ac45-4a6b-8a40-16ad587ca371/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/73d1814a-ac45-4a6b-8a40-16ad587ca371/",
+"related_url": "https://api.openverse.org/v1/images/73d1814a-ac45-4a6b-8a40-16ad587ca371/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "7a640bee-9e97-4213-a3c3-cd11c729bfd1",
+"title": "Fabric Basket Swap",
+"indexed_on": "2020-04-08T00:00:29.306960Z",
+"foreign_landing_url": "https://www.flickr.com/photos/64253809@N04/8860530934",
+"url": "https://live.staticflickr.com/8266/8860530934_ef97fa363b_b.jpg",
+"creator": "Lori Hartman Designs",
+"creator_url": "https://www.flickr.com/photos/64253809@N04",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fabric",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "celebration",
+"accuracy": 0.91714,
+"unstable__provider": "clarifai"
+},
+{
+"name": "color",
+"accuracy": 0.91634,
+"unstable__provider": "clarifai"
+},
+{
+"name": "decoration",
+"accuracy": 0.94529,
+"unstable__provider": "clarifai"
+},
+{
+"name": "design",
+"accuracy": 0.91508,
+"unstable__provider": "clarifai"
+},
+{
+"name": "handmade",
+"accuracy": 0.92499,
+"unstable__provider": "clarifai"
+},
+{
+"name": "traditional",
+"accuracy": 0.9313,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Fabric Basket Swap\" by Lori Hartman Designs is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 825,
+"thumbnail": "https://api.openverse.org/v1/images/7a640bee-9e97-4213-a3c3-cd11c729bfd1/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/7a640bee-9e97-4213-a3c3-cd11c729bfd1/",
+"related_url": "https://api.openverse.org/v1/images/7a640bee-9e97-4213-a3c3-cd11c729bfd1/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "c75ad575-4a0b-4b96-b6ab-79d2315a3a6b",
+"title": "Woman with basket in an irrigated field",
+"indexed_on": "2018-09-11T14:50:30.013406Z",
+"foreign_landing_url": "https://www.flickr.com/photos/10816734@N03/1988384618",
+"url": "https://live.staticflickr.com/2091/1988384618_4312214e32.jpg",
+"creator": "World Bank Photo Collection",
+"creator_url": "https://www.flickr.com/photos/10816734@N03",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "field",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "southasia",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "srilanka",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "watersupply",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woman",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "worldbank",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Woman with basket in an irrigated field\" by World Bank Photo Collection is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 324,
+"width": 500,
+"thumbnail": "https://api.openverse.org/v1/images/c75ad575-4a0b-4b96-b6ab-79d2315a3a6b/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/c75ad575-4a0b-4b96-b6ab-79d2315a3a6b/",
+"related_url": "https://api.openverse.org/v1/images/c75ad575-4a0b-4b96-b6ab-79d2315a3a6b/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "af89ea03-416d-4169-bac7-ba0837176dcc",
+"title": "Wheelie shopping basket",
+"indexed_on": "2019-01-30T18:56:14.126448Z",
+"foreign_landing_url": "https://www.flickr.com/photos/75062596@N00/162478786",
+"url": "https://live.staticflickr.com/45/162478786_beeb5f9b11_b.jpg",
+"creator": "Lars Plougmann",
+"creator_url": "https://www.flickr.com/photos/75062596@N00",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ccpublished",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "jam",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "p1030241",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "shopping",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "supermarket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wheeledbasket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wheeliebasket",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Wheelie shopping basket\" by Lars Plougmann is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 768,
+"thumbnail": "https://api.openverse.org/v1/images/af89ea03-416d-4169-bac7-ba0837176dcc/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/af89ea03-416d-4169-bac7-ba0837176dcc/",
+"related_url": "https://api.openverse.org/v1/images/af89ea03-416d-4169-bac7-ba0837176dcc/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "48857936-a75e-4c48-9300-a9c76028c55d",
+"title": "Fabric Basket Swap",
+"indexed_on": "2020-04-08T00:00:29.306960Z",
+"foreign_landing_url": "https://www.flickr.com/photos/64253809@N04/8860535202",
+"url": "https://live.staticflickr.com/7404/8860535202_41227d2410_b.jpg",
+"creator": "Lori Hartman Designs",
+"creator_url": "https://www.flickr.com/photos/64253809@N04",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fabric",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "celebration",
+"accuracy": 0.902,
+"unstable__provider": "clarifai"
+},
+{
+"name": "color",
+"accuracy": 0.94482,
+"unstable__provider": "clarifai"
+},
+{
+"name": "container",
+"accuracy": 0.98189,
+"unstable__provider": "clarifai"
+},
+{
+"name": "decoration",
+"accuracy": 0.91831,
+"unstable__provider": "clarifai"
+},
+{
+"name": "design",
+"accuracy": 0.92596,
+"unstable__provider": "clarifai"
+},
+{
+"name": "desktop",
+"accuracy": 0.91312,
+"unstable__provider": "clarifai"
+},
+{
+"name": "handmade",
+"accuracy": 0.9384,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Fabric Basket Swap\" by Lori Hartman Designs is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 846,
+"thumbnail": "https://api.openverse.org/v1/images/48857936-a75e-4c48-9300-a9c76028c55d/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/48857936-a75e-4c48-9300-a9c76028c55d/",
+"related_url": "https://api.openverse.org/v1/images/48857936-a75e-4c48-9300-a9c76028c55d/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "05a49c94-0b5b-4ba9-8d3d-798f3606fdef",
+"title": "Easter Basket",
+"indexed_on": "2020-03-24T04:59:00.278065Z",
+"foreign_landing_url": "https://www.flickr.com/photos/98192834@N07/25476733724",
+"url": "https://live.staticflickr.com/1468/25476733724_39c3e4c922_b.jpg",
+"creator": "Captured Heart",
+"creator_url": "https://www.flickr.com/photos/98192834@N07",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "coloredeggs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "colorful",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "easter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "easteregg",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "eggs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "spring",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "springtime",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Easter Basket\" by Captured Heart is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 656,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/05a49c94-0b5b-4ba9-8d3d-798f3606fdef/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/05a49c94-0b5b-4ba9-8d3d-798f3606fdef/",
+"related_url": "https://api.openverse.org/v1/images/05a49c94-0b5b-4ba9-8d3d-798f3606fdef/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "60894b70-8965-4246-a951-4c1ac024d5c0",
+"title": "Gourmet Taste of Italy Basket",
+"indexed_on": "2020-04-22T07:01:28.023279Z",
+"foreign_landing_url": "https://www.flickr.com/photos/8017906@N04/4868718633",
+"url": "https://live.staticflickr.com/4102/4868718633_beae6cf93c.jpg",
+"creator": "SherryCreates",
+"creator_url": "https://www.flickr.com/photos/8017906@N04",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "atasteofitaly",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gift",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "giftbasket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gourmet",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "italy",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "celebration",
+"accuracy": 0.93058,
+"unstable__provider": "clarifai"
+},
+{
+"name": "container",
+"accuracy": 0.90521,
+"unstable__provider": "clarifai"
+},
+{
+"name": "flag",
+"accuracy": 0.90989,
+"unstable__provider": "clarifai"
+},
+{
+"name": "food",
+"accuracy": 0.92316,
+"unstable__provider": "clarifai"
+},
+{
+"name": "patriotism",
+"accuracy": 0.91281,
+"unstable__provider": "clarifai"
+},
+{
+"name": "symbol",
+"accuracy": 0.9323,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Gourmet Taste of Italy Basket\" by SherryCreates is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 384,
+"width": 450,
+"thumbnail": "https://api.openverse.org/v1/images/60894b70-8965-4246-a951-4c1ac024d5c0/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/60894b70-8965-4246-a951-4c1ac024d5c0/",
+"related_url": "https://api.openverse.org/v1/images/60894b70-8965-4246-a951-4c1ac024d5c0/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "9694a2e5-6950-4bbb-ad0b-3cff54d16045",
+"title": "Fabric Basket Swap",
+"indexed_on": "2019-04-16T16:19:00.634374Z",
+"foreign_landing_url": "https://www.flickr.com/photos/64253809@N04/8859924755",
+"url": "https://live.staticflickr.com/3803/8859924755_ec75112d57_b.jpg",
+"creator": "Lori Hartman Designs",
+"creator_url": "https://www.flickr.com/photos/64253809@N04",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fabric",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Fabric Basket Swap\" by Lori Hartman Designs is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 805,
+"thumbnail": "https://api.openverse.org/v1/images/9694a2e5-6950-4bbb-ad0b-3cff54d16045/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/9694a2e5-6950-4bbb-ad0b-3cff54d16045/",
+"related_url": "https://api.openverse.org/v1/images/9694a2e5-6950-4bbb-ad0b-3cff54d16045/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "908c71b9-0a66-44db-93f3-aef551394c16",
+"title": "scale-basket",
+"indexed_on": "2019-01-23T12:27:34.393420Z",
+"foreign_landing_url": "https://www.flickr.com/photos/44064589@N00/528996968",
+"url": "https://live.staticflickr.com/1236/528996968_9d912262ae.jpg",
+"creator": "Althewebmaster",
+"creator_url": "https://www.flickr.com/photos/44064589@N00",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "scale",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"scale-basket\" by Althewebmaster is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 375,
+"width": 500,
+"thumbnail": "https://api.openverse.org/v1/images/908c71b9-0a66-44db-93f3-aef551394c16/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/908c71b9-0a66-44db-93f3-aef551394c16/",
+"related_url": "https://api.openverse.org/v1/images/908c71b9-0a66-44db-93f3-aef551394c16/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "3ef636a2-8168-4ec9-9d04-d93b841c5709",
+"title": "Fishing baskets - Hellenic Republic",
+"indexed_on": "2018-11-08T01:45:17.652714Z",
+"foreign_landing_url": "https://www.flickr.com/photos/10559879@N00/3482659761",
+"url": "https://live.staticflickr.com/3584/3482659761_7a2f477ef7_b.jpg",
+"creator": "avlxyz",
+"creator_url": "https://www.flickr.com/photos/10559879@N00",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "brunswickeast",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "decor",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "georgecalombaris",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "greek",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hellenicrepublic",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "interior",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lygonstreet",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "melbourne",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "restaurant",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "taverna",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Fishing baskets - Hellenic Republic\" by avlxyz is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 686,
+"thumbnail": "https://api.openverse.org/v1/images/3ef636a2-8168-4ec9-9d04-d93b841c5709/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/3ef636a2-8168-4ec9-9d04-d93b841c5709/",
+"related_url": "https://api.openverse.org/v1/images/3ef636a2-8168-4ec9-9d04-d93b841c5709/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "dca6af56-525f-4176-a7cb-5d5db6f44fc8",
+"title": "basket",
+"indexed_on": "2020-04-23T00:33:33.786691Z",
+"foreign_landing_url": "https://www.flickr.com/photos/53133240@N00/5160528072",
+"url": "https://live.staticflickr.com/4088/5160528072_d2a8c34dcb_b.jpg",
+"creator": "Muffet",
+"creator_url": "https://www.flickr.com/photos/53133240@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "charlestonsc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sweetgrass",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"basket\" by Muffet is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/dca6af56-525f-4176-a7cb-5d5db6f44fc8/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/dca6af56-525f-4176-a7cb-5d5db6f44fc8/",
+"related_url": "https://api.openverse.org/v1/images/dca6af56-525f-4176-a7cb-5d5db6f44fc8/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "42edcb84-baf0-420c-8ea7-b87a408cd39d",
+"title": "Christmas Bear Gift Basket",
+"indexed_on": "2020-04-26T04:14:27.572180Z",
+"foreign_landing_url": "https://www.flickr.com/photos/44284794@N04/4182671225",
+"url": "https://live.staticflickr.com/2686/4182671225_937dac5f71_m.jpg",
+"creator": "ExecGifts",
+"creator_url": "https://www.flickr.com/photos/44284794@N04",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "baskets",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bear",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "christmas",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gift",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Christmas Bear Gift Basket\" by ExecGifts is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 186,
+"width": 181,
+"thumbnail": "https://api.openverse.org/v1/images/42edcb84-baf0-420c-8ea7-b87a408cd39d/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/42edcb84-baf0-420c-8ea7-b87a408cd39d/",
+"related_url": "https://api.openverse.org/v1/images/42edcb84-baf0-420c-8ea7-b87a408cd39d/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "ad97c408-0716-4a71-85ba-6e8bbc96a5a1",
+"title": "My Memory is a Basket Case",
+"indexed_on": "2023-03-10T10:25:51.173235Z",
+"foreign_landing_url": "https://www.flickr.com/photos/84263554@N00/51511663316",
+"url": "https://live.staticflickr.com/65535/51511663316_967227f2f4_b.jpg",
+"creator": "kla4067",
+"creator_url": "https://www.flickr.com/photos/84263554@N00",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": "photograph",
+"filesize": null,
+"filetype": "jpg",
+"tags": [
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "computer",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gb",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "memory",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"My Memory is a Basket Case\" by kla4067 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 694,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/ad97c408-0716-4a71-85ba-6e8bbc96a5a1/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/ad97c408-0716-4a71-85ba-6e8bbc96a5a1/",
+"related_url": "https://api.openverse.org/v1/images/ad97c408-0716-4a71-85ba-6e8bbc96a5a1/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "28d2d004-80ff-455f-bbf3-829c7e1c154c",
+"title": "Cat still in a basket",
+"indexed_on": "2020-05-04T00:13:28.799098Z",
+"foreign_landing_url": "https://www.flickr.com/photos/22112636@N04/2131485340",
+"url": "https://live.staticflickr.com/2024/2131485340_9dc05e10fa_b.jpg",
+"creator": "flowbadger",
+"creator_url": "https://www.flickr.com/photos/22112636@N04",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cat",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lazy",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "smcpfa35mmf20al",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Cat still in a basket.\" by flowbadger is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 677,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/28d2d004-80ff-455f-bbf3-829c7e1c154c/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/28d2d004-80ff-455f-bbf3-829c7e1c154c/",
+"related_url": "https://api.openverse.org/v1/images/28d2d004-80ff-455f-bbf3-829c7e1c154c/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "7aec6303-6f58-4e05-85e8-ed9aeff645c1",
+"title": "Bottle cap basket ~ 3 of 5 photos",
+"indexed_on": "2020-04-29T11:17:27.734305Z",
+"foreign_landing_url": "https://www.flickr.com/photos/22250090@N08/3052929350",
+"url": "https://live.staticflickr.com/3155/3052929350_5a450b4343_b.jpg",
+"creator": "Urban Woodswalker",
+"creator_url": "https://www.flickr.com/photos/22250090@N08",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "africa",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bottlecaps",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "colorful",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "craft",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ecoart",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "folkart",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ingenious",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "linteresting",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pattern",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "recycled",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "repurposed",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "surfacedesign",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "texture",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "trashion",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "upcycled",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "urbanwoodswalker",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wirewrapped",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "zanzibar",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Bottle cap basket ~ 3 of 5 photos\" by Urban Woodswalker is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 972,
+"width": 1000,
+"thumbnail": "https://api.openverse.org/v1/images/7aec6303-6f58-4e05-85e8-ed9aeff645c1/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/7aec6303-6f58-4e05-85e8-ed9aeff645c1/",
+"related_url": "https://api.openverse.org/v1/images/7aec6303-6f58-4e05-85e8-ed9aeff645c1/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "4ad52f79-ef85-4e3d-89a2-20523fa8aa16",
+"title": "Easter Basket ~ Explore #1",
+"indexed_on": "2020-03-28T11:53:38.818222Z",
+"foreign_landing_url": "https://www.flickr.com/photos/57768536@N05/16849713779",
+"url": "https://live.staticflickr.com/8703/16849713779_0ee91ed86e_b.jpg",
+"creator": "Theen ...",
+"creator_url": "https://www.flickr.com/photos/57768536@N05",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "adelaide",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "blue",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "brown",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cane",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "easter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "eggs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fresh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fridge",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "handmade",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "happyeaster",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hunt",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lawn",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lumix",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "navy",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "outdoors",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "photoshoot",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "theen",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woven",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Easter Basket ~ Explore #1\" by Theen ... is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 576,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/4ad52f79-ef85-4e3d-89a2-20523fa8aa16/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/4ad52f79-ef85-4e3d-89a2-20523fa8aa16/",
+"related_url": "https://api.openverse.org/v1/images/4ad52f79-ef85-4e3d-89a2-20523fa8aa16/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "28ca9234-7999-44c3-8cf6-788996c5a20a",
+"title": "Comic Books Baskets - closeup",
+"indexed_on": "2016-11-17T13:28:11.988721Z",
+"foreign_landing_url": "https://www.flickr.com/photos/47823583@N03/4385882612",
+"url": "https://live.staticflickr.com/2762/4385882612_efbc245854_b.jpg",
+"creator": "Enokson",
+"creator_url": "https://www.flickr.com/photos/47823583@N03",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": 516715,
+"filetype": null,
+"tags": [
+{
+"name": "7415",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "baskets",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "book",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bookdisplay",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bookdisplays",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "books",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cartoon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cartoons",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "comic",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "comicbooks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "comics",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "comicstrips",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "decoration",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "displays",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "edmonton",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "enokson",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "juniorhigh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "juniorhighschools",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "libraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "library",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "librarybook",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "librarybooks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "librarydecoration",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "librarydisplays",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "librarysignage",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "librarysigns",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "middleschool",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "middleschools",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nonfiction",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "read",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "reading",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "schooldisplays",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "schools",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "signage",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "signs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vblibrary",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "architecture",
+"accuracy": 0.92436,
+"unstable__provider": "clarifai"
+},
+{
+"name": "business",
+"accuracy": 0.97079,
+"unstable__provider": "clarifai"
+},
+{
+"name": "education",
+"accuracy": 0.9307,
+"unstable__provider": "clarifai"
+},
+{
+"name": "indoors",
+"accuracy": 0.90557,
+"unstable__provider": "clarifai"
+},
+{
+"name": "signalise",
+"accuracy": 0.92626,
+"unstable__provider": "clarifai"
+},
+{
+"name": "stock",
+"accuracy": 0.94856,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Comic Books Baskets - closeup\" by Enokson is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 952,
+"thumbnail": "https://api.openverse.org/v1/images/28ca9234-7999-44c3-8cf6-788996c5a20a/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/28ca9234-7999-44c3-8cf6-788996c5a20a/",
+"related_url": "https://api.openverse.org/v1/images/28ca9234-7999-44c3-8cf6-788996c5a20a/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "43c69e9c-e48d-45ee-bf29-4220a47eff22",
+"title": "Inauguration des terrains de Basket 3X3",
+"indexed_on": "2023-03-12T20:37:25.265244Z",
+"foreign_landing_url": "https://www.flickr.com/photos/129278597@N05/52449777877",
+"url": "https://live.staticflickr.com/65535/52449777877_fbab664eb0_b.jpg",
+"creator": "Ville de Villeneuve-la-Garenne - compte officiel",
+"creator_url": "https://www.flickr.com/photos/129278597@N05",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": "photograph",
+"filesize": null,
+"filetype": "jpg",
+"tags": [
+{
+"name": "basket",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sport",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "villeneuvelagarenne",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Inauguration des terrains de Basket 3X3\" by Ville de Villeneuve-la-Garenne - compte officiel is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 680,
+"width": 1021,
+"thumbnail": "https://api.openverse.org/v1/images/43c69e9c-e48d-45ee-bf29-4220a47eff22/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/43c69e9c-e48d-45ee-bf29-4220a47eff22/",
+"related_url": "https://api.openverse.org/v1/images/43c69e9c-e48d-45ee-bf29-4220a47eff22/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "6e6f46be-7c1c-4799-8310-3e3b47f048a4",
+"title": "Birding is a popular activity at Luther Marsh",
+"indexed_on": "2018-11-08T17:31:32.467511Z",
+"foreign_landing_url": "https://www.flickr.com/photos/55080179@N08/5105854302",
+"url": "https://live.staticflickr.com/4092/5105854302_60cc611686_b.jpg",
+"creator": "Grand River Conservation Authority",
+"creator_url": "https://www.flickr.com/photos/55080179@N08",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "birding",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "floraandfauna",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "grandvalley",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "grca",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "luthermarsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "luthermarshwildlifemanagementarea",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wetland",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Birding is a popular activity at Luther Marsh\" by Grand River Conservation Authority is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 696,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/6e6f46be-7c1c-4799-8310-3e3b47f048a4/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/6e6f46be-7c1c-4799-8310-3e3b47f048a4/",
+"related_url": "https://api.openverse.org/v1/images/6e6f46be-7c1c-4799-8310-3e3b47f048a4/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "f3bbb3a1-4f22-4429-b239-f80a93d2e457",
+"title": "20070805 - Assateague Island beach camping - IMG_2940 - Carolyn, Life Of The Marsh nature trail",
+"indexed_on": "2020-04-28T04:23:25.807467Z",
+"foreign_landing_url": "https://www.flickr.com/photos/31355686@N00/2532434474",
+"url": "https://live.staticflickr.com/3210/2532434474_33aca28f0f_b.jpg",
+"creator": "Claire CJS",
+"creator_url": "https://www.flickr.com/photos/31355686@N00",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "2007",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "200708",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "20070805",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "assateague",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "carolyn",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lifeofthemarsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "maryland",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "naturetrail",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"20070805 - Assateague Island beach camping - IMG_2940 - Carolyn, Life Of The Marsh nature trail\" by Claire CJS is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 728,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/f3bbb3a1-4f22-4429-b239-f80a93d2e457/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/f3bbb3a1-4f22-4429-b239-f80a93d2e457/",
+"related_url": "https://api.openverse.org/v1/images/f3bbb3a1-4f22-4429-b239-f80a93d2e457/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "02a5b35a-4833-4b7d-9028-4d34988f26db",
+"title": "John Marsh Stone House",
+"indexed_on": "2020-04-03T10:08:22.613939Z",
+"foreign_landing_url": "https://www.flickr.com/photos/40243520@N02/13728723993",
+"url": "https://live.staticflickr.com/7161/13728723993_c4942bf1d8_b.jpg",
+"creator": "www78",
+"creator_url": "https://www.flickr.com/photos/40243520@N02",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "brentwood",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "california",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "house",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "john",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"John Marsh Stone House\" by www78 is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 685,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/02a5b35a-4833-4b7d-9028-4d34988f26db/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/02a5b35a-4833-4b7d-9028-4d34988f26db/",
+"related_url": "https://api.openverse.org/v1/images/02a5b35a-4833-4b7d-9028-4d34988f26db/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "171ec7e6-9daa-49da-afe6-2ffbcefb8e16",
+"title": "Marsh, Fripp Island, South Carolina",
+"indexed_on": "2023-03-11T12:41:26.842911Z",
+"foreign_landing_url": "https://www.flickr.com/photos/32586007@N00/51984462526",
+"url": "https://live.staticflickr.com/65535/51984462526_80e34d0647_b.jpg",
+"creator": "T. Christensen",
+"creator_url": "https://www.flickr.com/photos/32586007@N00",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": "photograph",
+"filesize": null,
+"filetype": "jpg",
+"tags": [
+{
+"name": "atlantic",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "coast",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "frippisland",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "southcarolina",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Marsh, Fripp Island, South Carolina\" by T. Christensen is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/171ec7e6-9daa-49da-afe6-2ffbcefb8e16/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/171ec7e6-9daa-49da-afe6-2ffbcefb8e16/",
+"related_url": "https://api.openverse.org/v1/images/171ec7e6-9daa-49da-afe6-2ffbcefb8e16/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "5289bf79-7666-41d9-a1a7-cefb0e9687ee",
+"title": "Horicon Marsh - Tree Swallow",
+"indexed_on": "2020-03-21T06:24:32.771801Z",
+"foreign_landing_url": "https://www.flickr.com/photos/39819915@N05/35229218644",
+"url": "https://live.staticflickr.com/4328/35229218644_49d0a7eb58_b.jpg",
+"creator": "chumlee10",
+"creator_url": "https://www.flickr.com/photos/39819915@N05",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "horicon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "horiconmarsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "swallow",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tree",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Horicon Marsh - Tree Swallow\" by chumlee10 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 685,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/5289bf79-7666-41d9-a1a7-cefb0e9687ee/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/5289bf79-7666-41d9-a1a7-cefb0e9687ee/",
+"related_url": "https://api.openverse.org/v1/images/5289bf79-7666-41d9-a1a7-cefb0e9687ee/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "9d741032-4fd2-4260-ad5c-ebd2a53fcd1a",
+"title": "Horicon Marsh",
+"indexed_on": "2018-12-20T17:15:26.014072Z",
+"foreign_landing_url": "https://www.flickr.com/photos/39819915@N05/45414346915",
+"url": "https://live.staticflickr.com/4865/45414346915_ddd0487468_b.jpg",
+"creator": "chumlee10",
+"creator_url": "https://www.flickr.com/photos/39819915@N05",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "horicon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "swallow",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "treeswallow",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "waupun",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wi",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wisconsin",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Horicon Marsh\" by chumlee10 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 576,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/9d741032-4fd2-4260-ad5c-ebd2a53fcd1a/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/9d741032-4fd2-4260-ad5c-ebd2a53fcd1a/",
+"related_url": "https://api.openverse.org/v1/images/9d741032-4fd2-4260-ad5c-ebd2a53fcd1a/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "be04ed1a-19e3-4878-99e0-363289080783",
+"title": "Yellow Bird at Horicon Marsh",
+"indexed_on": "2020-03-21T03:10:33.567649Z",
+"foreign_landing_url": "https://www.flickr.com/photos/39819915@N05/35369835210",
+"url": "https://live.staticflickr.com/4210/35369835210_b3c987176c_b.jpg",
+"creator": "chumlee10",
+"creator_url": "https://www.flickr.com/photos/39819915@N05",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "bird",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bushes",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "horicon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "horiconmarsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "outdoors",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "yellow",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Yellow Bird at Horicon Marsh\" by chumlee10 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 684,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/be04ed1a-19e3-4878-99e0-363289080783/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/be04ed1a-19e3-4878-99e0-363289080783/",
+"related_url": "https://api.openverse.org/v1/images/be04ed1a-19e3-4878-99e0-363289080783/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "819382a9-944d-438c-9001-078cd73f45eb",
+"title": "Horicon Marsh Tree Swallow",
+"indexed_on": "2020-03-21T09:11:02.609755Z",
+"foreign_landing_url": "https://www.flickr.com/photos/39819915@N05/36181798582",
+"url": "https://live.staticflickr.com/4387/36181798582_dd9e66aec9_b.jpg",
+"creator": "chumlee10",
+"creator_url": "https://www.flickr.com/photos/39819915@N05",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "horicon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "horiconmarsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "roofhoricon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "swallow",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tree",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Horicon Marsh Tree Swallow\" by chumlee10 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 682,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/819382a9-944d-438c-9001-078cd73f45eb/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/819382a9-944d-438c-9001-078cd73f45eb/",
+"related_url": "https://api.openverse.org/v1/images/819382a9-944d-438c-9001-078cd73f45eb/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "fe5f5430-a7cc-4c89-b32c-67dbfd73ffc0",
+"title": "Van Wert Ohio ~ Hotel Marsh ~ Historic Building - Canopy",
+"indexed_on": "2023-03-11T02:20:44.915466Z",
+"foreign_landing_url": "https://www.flickr.com/photos/7156765@N05/51840490596",
+"url": "https://live.staticflickr.com/65535/51840490596_579019cbe3_b.jpg",
+"creator": "Onasill - Bill Badzo - 149 Million Views - Thank Y",
+"creator_url": "https://www.flickr.com/photos/7156765@N05",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": "photograph",
+"filesize": null,
+"filetype": "jpg",
+"tags": [
+{
+"name": "badzo",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "banquet",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "bill",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "billboard",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "building",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "canopy",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "clouds",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "community",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "control",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "dining",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "downtown",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fettigs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "flower",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "flowers",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "historic",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hotel",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hwy",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lincoln",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "main",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mother",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mural",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nrhp",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "oh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ohio",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "onasill",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "painting",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "road",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "romanesque",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "room",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "shop",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sky",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stanley",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "station",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "street",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sunset",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "van",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vanwertcounty",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "venue",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "vitrolite",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wert",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Van Wert Ohio ~ Hotel Marsh ~ Historic Building - Canopy\" by Onasill - Bill Badzo - 149 Million Views - Thank Y is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 683,
+"thumbnail": "https://api.openverse.org/v1/images/fe5f5430-a7cc-4c89-b32c-67dbfd73ffc0/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/fe5f5430-a7cc-4c89-b32c-67dbfd73ffc0/",
+"related_url": "https://api.openverse.org/v1/images/fe5f5430-a7cc-4c89-b32c-67dbfd73ffc0/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "5aa0e692-e406-4728-9886-f884216f2f61",
+"title": "Into the alder marsh",
+"indexed_on": "2020-03-24T20:28:05.122518Z",
+"foreign_landing_url": "https://www.flickr.com/photos/39334480@N00/26786388844",
+"url": "https://live.staticflickr.com/7358/26786388844_336cac3f0d_b.jpg",
+"creator": "Jos van Wunnik",
+"creator_url": "https://www.flickr.com/photos/39334480@N00",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "alder",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "aquarel",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "art",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "drawing",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "forest",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "josvanwunnik",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Into the alder marsh\" by Jos van Wunnik is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 704,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/5aa0e692-e406-4728-9886-f884216f2f61/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/5aa0e692-e406-4728-9886-f884216f2f61/",
+"related_url": "https://api.openverse.org/v1/images/5aa0e692-e406-4728-9886-f884216f2f61/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "357311c5-9c44-4dfb-819d-ed08d5029b17",
+"title": "Horicon Marsh - Egret",
+"indexed_on": "2020-03-21T19:15:56.297638Z",
+"foreign_landing_url": "https://www.flickr.com/photos/39819915@N05/36507044524",
+"url": "https://live.staticflickr.com/4373/36507044524_980659b644_b.jpg",
+"creator": "chumlee10",
+"creator_url": "https://www.flickr.com/photos/39819915@N05",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "egret",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "horicon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "horiconmarsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wi",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wisconsin",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Horicon Marsh - Egret\" by chumlee10 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 683,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/357311c5-9c44-4dfb-819d-ed08d5029b17/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/357311c5-9c44-4dfb-819d-ed08d5029b17/",
+"related_url": "https://api.openverse.org/v1/images/357311c5-9c44-4dfb-819d-ed08d5029b17/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "3e43b08b-a176-4e29-8fd5-b040d84626aa",
+"title": "Kingfisher on the Marsh",
+"indexed_on": "2020-03-21T20:46:35.514193Z",
+"foreign_landing_url": "https://www.flickr.com/photos/39819915@N05/37080380430",
+"url": "https://live.staticflickr.com/4498/37080380430_f66fb10140_b.jpg",
+"creator": "chumlee10",
+"creator_url": "https://www.flickr.com/photos/39819915@N05",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "bird",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "dusk",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "horicon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "horiconmarsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kingfisher",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tree",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "waupun",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wi",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "winter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wisconsin",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Kingfisher on the Marsh\" by chumlee10 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 684,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/3e43b08b-a176-4e29-8fd5-b040d84626aa/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/3e43b08b-a176-4e29-8fd5-b040d84626aa/",
+"related_url": "https://api.openverse.org/v1/images/3e43b08b-a176-4e29-8fd5-b040d84626aa/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "89fe905f-0c01-4435-be94-a7d4516e1d95",
+"title": "Red-Winged Blackbird - Horicon Marsh",
+"indexed_on": "2020-03-21T21:53:36.749958Z",
+"foreign_landing_url": "https://www.flickr.com/photos/39819915@N05/37432109751",
+"url": "https://live.staticflickr.com/4514/37432109751_1a9d138498_b.jpg",
+"creator": "chumlee10",
+"creator_url": "https://www.flickr.com/photos/39819915@N05",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "bird",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "blackbird",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "horicon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "horiconmarsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "redwingedblackbird",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "waupun",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wi",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wildlife",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wisconsin",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Red-Winged Blackbird - Horicon Marsh\" by chumlee10 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 685,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/89fe905f-0c01-4435-be94-a7d4516e1d95/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/89fe905f-0c01-4435-be94-a7d4516e1d95/",
+"related_url": "https://api.openverse.org/v1/images/89fe905f-0c01-4435-be94-a7d4516e1d95/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "f8f4cba5-b85d-47f1-9628-4ba24b1a5e67",
+"title": "Horicon Marsh Cormorant",
+"indexed_on": "2020-03-20T16:23:30.520781Z",
+"foreign_landing_url": "https://www.flickr.com/photos/39819915@N05/33932597784",
+"url": "https://live.staticflickr.com/4196/33932597784_c10c3afce3_b.jpg",
+"creator": "chumlee10",
+"creator_url": "https://www.flickr.com/photos/39819915@N05",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "cormorant",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "horicon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "horiconmarsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "post",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wi",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wisconsin",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Horicon Marsh Cormorant\" by chumlee10 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 684,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/f8f4cba5-b85d-47f1-9628-4ba24b1a5e67/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/f8f4cba5-b85d-47f1-9628-4ba24b1a5e67/",
+"related_url": "https://api.openverse.org/v1/images/f8f4cba5-b85d-47f1-9628-4ba24b1a5e67/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "f9409d33-4438-47ce-a48e-c1d053883618",
+"title": "Salt Marsh Harvest Mouse",
+"indexed_on": "2020-03-28T02:36:28.242542Z",
+"foreign_landing_url": "https://www.flickr.com/photos/27784370@N05/16021174654",
+"url": "https://live.staticflickr.com/8626/16021174654_6efbffca05_b.jpg",
+"creator": "U.S. Geological Survey",
+"creator_url": "https://www.flickr.com/photos/27784370@N05",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "california",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "climatechange",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ecosystems",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fws",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "habitat",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marshes",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mickey",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mouse",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sanfrancisco",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "science",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "usgs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wildlife",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wildlifewednesday",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Salt Marsh Harvest Mouse\" by U.S. Geological Survey is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/f9409d33-4438-47ce-a48e-c1d053883618/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/f9409d33-4438-47ce-a48e-c1d053883618/",
+"related_url": "https://api.openverse.org/v1/images/f9409d33-4438-47ce-a48e-c1d053883618/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "ca81a8a5-6557-4aa7-be7b-91805470420a",
+"title": "A marsh at sunset",
+"indexed_on": "2018-09-11T14:50:30.013406Z",
+"foreign_landing_url": "https://www.flickr.com/photos/10816734@N03/1443137587",
+"url": "https://live.staticflickr.com/1261/1443137587_517d5de61e.jpg",
+"creator": "World Bank Photo Collection",
+"creator_url": "https://www.flickr.com/photos/10816734@N03",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "africa",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "botswana",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "climatechange",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "clouds",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "grass",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "landscape",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "scenic",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "silhouette",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sky",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sunset",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "worldbank",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"A marsh at sunset\" by World Bank Photo Collection is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 336,
+"width": 500,
+"thumbnail": "https://api.openverse.org/v1/images/ca81a8a5-6557-4aa7-be7b-91805470420a/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/ca81a8a5-6557-4aa7-be7b-91805470420a/",
+"related_url": "https://api.openverse.org/v1/images/ca81a8a5-6557-4aa7-be7b-91805470420a/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "c46563f2-0965-4b67-948d-355e1ee1f6f9",
+"title": "Coastal grazing marsh, Salthouse, Norfolk",
+"indexed_on": "2020-04-03T04:54:19.574210Z",
+"foreign_landing_url": "https://www.flickr.com/photos/44791479@N05/13267133375",
+"url": "https://live.staticflickr.com/3730/13267133375_23589e8d78_b.jpg",
+"creator": "naturalengland",
+"creator_url": "https://www.flickr.com/photos/44791479@N05",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "coast",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Coastal grazing marsh, Salthouse, Norfolk\" by naturalengland is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 683,
+"thumbnail": "https://api.openverse.org/v1/images/c46563f2-0965-4b67-948d-355e1ee1f6f9/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/c46563f2-0965-4b67-948d-355e1ee1f6f9/",
+"related_url": "https://api.openverse.org/v1/images/c46563f2-0965-4b67-948d-355e1ee1f6f9/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "627e126c-d384-4513-8008-34217d678e47",
+"title": "A marsh at sunset",
+"indexed_on": "2020-05-03T12:38:28.638160Z",
+"foreign_landing_url": "https://www.flickr.com/photos/10816734@N03/1443137767",
+"url": "https://live.staticflickr.com/1186/1443137767_5616df3820_b.jpg",
+"creator": "World Bank Photo Collection",
+"creator_url": "https://www.flickr.com/photos/10816734@N03",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "africa",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "botswana",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "climatechange",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "clouds",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "environment",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "landscape",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sky",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sunset",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "worldbank",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"A marsh at sunset\" by World Bank Photo Collection is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 616,
+"width": 915,
+"thumbnail": "https://api.openverse.org/v1/images/627e126c-d384-4513-8008-34217d678e47/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/627e126c-d384-4513-8008-34217d678e47/",
+"related_url": "https://api.openverse.org/v1/images/627e126c-d384-4513-8008-34217d678e47/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "c8bad738-2f35-4475-b49f-6ca7d2b95003",
+"title": "Primping Egret at Horicon Marsh",
+"indexed_on": "2020-03-21T07:51:00.297687Z",
+"foreign_landing_url": "https://www.flickr.com/photos/39819915@N05/36088792231",
+"url": "https://live.staticflickr.com/4304/36088792231_5e8e2c8564_b.jpg",
+"creator": "chumlee10",
+"creator_url": "https://www.flickr.com/photos/39819915@N05",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "bird",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "egret",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "horicon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "horiconmarsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "outdoors",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "waupun",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wi",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wisconsin",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Primping Egret at Horicon Marsh\" by chumlee10 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 684,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/c8bad738-2f35-4475-b49f-6ca7d2b95003/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/c8bad738-2f35-4475-b49f-6ca7d2b95003/",
+"related_url": "https://api.openverse.org/v1/images/c8bad738-2f35-4475-b49f-6ca7d2b95003/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "93d2d8aa-e253-4e27-bfd6-4e4e4d1875ff",
+"title": "Marsh",
+"indexed_on": "2020-04-05T11:44:21.966239Z",
+"foreign_landing_url": "https://www.flickr.com/photos/66070376@N06/15242131658",
+"url": "https://live.staticflickr.com/3929/15242131658_af371001b8_b.jpg",
+"creator": "Chris Sorge",
+"creator_url": "https://www.flickr.com/photos/66070376@N06",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "dunnville",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marsh",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "river",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Marsh\" by Chris Sorge is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 715,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/93d2d8aa-e253-4e27-bfd6-4e4e4d1875ff/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/93d2d8aa-e253-4e27-bfd6-4e4e4d1875ff/",
+"related_url": "https://api.openverse.org/v1/images/93d2d8aa-e253-4e27-bfd6-4e4e4d1875ff/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "b9b20df3-9f5f-477a-a999-71f9ba6ab725",
+"title": "'Lithgow Pottery and Brickworks'",
+"indexed_on": "2020-03-29T00:29:36.341350Z",
+"foreign_landing_url": "https://www.flickr.com/photos/26602074@N06/17224083573",
+"url": "https://live.staticflickr.com/5456/17224083573_b8f4e3ec1b_b.jpg",
+"creator": "Blue Mountains Library, Local Studies",
+"creator_url": "https://www.flickr.com/photos/26602074@N06",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "bricks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "brickworks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "brickyards",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ceramicindustry",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "chimneys",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "chimneystacks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fences",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "furnaces",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hats",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "history",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "industrialsites",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kilns",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "landscapes",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lithgow",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "men",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nsw",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pipefactories",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pipes",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "postandrail",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "potteries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pottery",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "stumps",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "suits",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "top",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "toppers",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "trees",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "walkingstick",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"'Lithgow Pottery and Brickworks'\" by Blue Mountains Library, Local Studies is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 683,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/b9b20df3-9f5f-477a-a999-71f9ba6ab725/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/b9b20df3-9f5f-477a-a999-71f9ba6ab725/",
+"related_url": "https://api.openverse.org/v1/images/b9b20df3-9f5f-477a-a999-71f9ba6ab725/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "30ef5ef7-23e2-4120-9e80-640e71d86488",
+"title": "Woman selling pottery",
+"indexed_on": "2020-04-02T20:40:19.536805Z",
+"foreign_landing_url": "https://www.flickr.com/photos/103091549@N03/11986269094",
+"url": "https://live.staticflickr.com/5536/11986269094_7dd91311a1_b.jpg",
+"creator": "Pe_Wu",
+"creator_url": "https://www.flickr.com/photos/103091549@N03",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "africa",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pottery",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "south",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "trade",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woman",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Woman selling pottery\" by Pe_Wu is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 625,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/30ef5ef7-23e2-4120-9e80-640e71d86488/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/30ef5ef7-23e2-4120-9e80-640e71d86488/",
+"related_url": "https://api.openverse.org/v1/images/30ef5ef7-23e2-4120-9e80-640e71d86488/related/",
+"unstable__sensitivity": []
 }
 ]

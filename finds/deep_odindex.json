@@ -37910,5 +37910,677 @@
 ]
 ],
 "mined_at": "2026-11-06T07:03:36Z"
+},
+{
+"source": "Open Directory",
+"title": "digital_systems.prenhall",
+"date": "1991-01-12 22:58",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "12K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/PrenticeHall/digital_systems.prenhall",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 12K \uff77 1991-01-12 22:58 \uff77 in https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/PrenticeHall/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "distrib_systems.prenhall",
+"date": "1991-01-12 22:59",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "21K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/PrenticeHall/distrib_systems.prenhall",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 21K \uff77 1991-01-12 22:59 \uff77 in https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/PrenticeHall/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "user2user.PS.gz",
+"date": "1989-03-28 13:15",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "15K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/athena/user2user.PS.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 15K \uff77 1989-03-28 13:15 \uff77 in https://ftp.funet.fi/pub/doc/athena/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/athena/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/athena/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "unix_release_4.prenhall",
+"date": "1991-01-12 23:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "13K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/PrenticeHall/unix_release_4.prenhall",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 13K \uff77 1991-01-12 23:00 \uff77 in https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/PrenticeHall/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "moira.tar.gz",
+"date": "1989-05-24 03:47",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "782K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/athena/moira.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 782K \uff77 1989-05-24 03:47 \uff77 in https://ftp.funet.fi/pub/doc/athena/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/athena/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/athena/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "slides.PS.gz",
+"date": "1989-02-17 17:44",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "4.6K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/athena/interop88/slides.PS.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 4.6K \uff77 1989-02-17 17:44 \uff77 in https://ftp.funet.fi/pub/doc/athena/interop88/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/athena/interop88/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/athena/interop88/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "discuss.PS.gz",
+"date": "1989-02-06 16:56",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "59K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/athena/discuss.PS.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 59K \uff77 1989-02-06 16:56 \uff77 in https://ftp.funet.fi/pub/doc/athena/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/athena/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/athena/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "cs_books.prenhall_1991",
+"date": "1991-09-12 11:48",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "102K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/PrenticeHall/cs_books.prenhall_1991",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 102K \uff77 1991-09-12 11:48 \uff77 in https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/PrenticeHall/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "zephyr.PS.gz",
+"date": "1989-02-06 16:55",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "30K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/athena/usenix/zephyr.PS.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 30K \uff77 1989-02-06 16:55 \uff77 in https://ftp.funet.fi/pub/doc/athena/usenix/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/athena/usenix/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/athena/usenix/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "hesiod.tar.gz",
+"date": "1988-08-19 20:10",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "256K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/athena/hesiod.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 256K \uff77 1988-08-19 20:10 \uff77 in https://ftp.funet.fi/pub/doc/athena/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/athena/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/athena/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "README",
+"date": "1991-06-22 14:05",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "317",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/athena/interop88/README",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "text \uff77 317 \uff77 1991-06-22 14:05 \uff77 in https://ftp.funet.fi/pub/doc/athena/interop88/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/athena/interop88/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/athena/interop88/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "programming_lang.prenhall",
+"date": "1991-01-12 23:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "30K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/PrenticeHall/programming_lang.prenhall",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 30K \uff77 1991-01-12 23:00 \uff77 in https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/PrenticeHall/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "math_statistics.prenhall",
+"date": "1991-01-12 22:59",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "12K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/PrenticeHall/math_statistics.prenhall",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 12K \uff77 1991-01-12 22:59 \uff77 in https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/PrenticeHall/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "microprocessors.prenhall",
+"date": "1991-01-12 22:59",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "16K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/PrenticeHall/microprocessors.prenhall",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 16K \uff77 1991-01-12 22:59 \uff77 in https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/PrenticeHall/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "ai_math_etc.prenhall",
+"date": "1991-01-12 22:58",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "21K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/PrenticeHall/ai_math_etc.prenhall",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 21K \uff77 1991-01-12 22:58 \uff77 in https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/PrenticeHall/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "track.tar.gz",
+"date": "1989-05-22 12:16",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "209K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/athena/track.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 209K \uff77 1989-05-22 12:16 \uff77 in https://ftp.funet.fi/pub/doc/athena/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/athena/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/athena/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "zephyr.doc.tar.gz",
+"date": "1989-08-25 00:48",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "284K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/athena/zephyr.doc.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 284K \uff77 1989-08-25 00:48 \uff77 in https://ftp.funet.fi/pub/doc/athena/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/athena/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/athena/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "temp",
+"date": "1991-01-12 23:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "20K",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/PrenticeHall/temp",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "text \uff77 20K \uff77 1991-01-12 23:00 \uff77 in https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/PrenticeHall/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "software_engineering.prenhall",
+"date": "1991-01-12 23:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "28K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/PrenticeHall/software_engineering.prenhall",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 28K \uff77 1991-01-12 23:00 \uff77 in https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/PrenticeHall/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "database.prenhall",
+"date": "1991-01-12 22:58",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "20K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/PrenticeHall/database.prenhall",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 20K \uff77 1991-01-12 22:58 \uff77 in https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/PrenticeHall/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "ee_books_part1.prenhall",
+"date": "1991-01-12 22:59",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "32K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/PrenticeHall/ee_books_part1.prenhall",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 32K \uff77 1991-01-12 22:59 \uff77 in https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/PrenticeHall/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "moira.tech_plan.PS.gz",
+"date": "1989-05-22 12:29",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "86K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/athena/moira.tech_plan.PS.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 86K \uff77 1989-05-22 12:29 \uff77 in https://ftp.funet.fi/pub/doc/athena/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/athena/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/athena/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "operating_sys.prenhall",
+"date": "1991-01-12 22:59",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "18K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/PrenticeHall/operating_sys.prenhall",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 18K \uff77 1991-01-12 22:59 \uff77 in https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/PrenticeHall/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "ee_books_part2.prenhall",
+"date": "1991-01-12 22:59",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "52K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/PrenticeHall/ee_books_part2.prenhall",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 52K \uff77 1991-01-12 22:59 \uff77 in https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/PrenticeHall/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/PrenticeHall/"
+]
+],
+"mined_at": "2026-11-06T23:21:12Z"
 }
 ]
