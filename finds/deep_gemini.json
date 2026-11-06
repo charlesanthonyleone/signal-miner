@@ -4966,5 +4966,101 @@
    ]
   ],
   "mined_at": "2026-11-05T17:39:04Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "New Drug II",
+  "url": "https://portal.mozz.us/gemini/musicbrainz.uploadedlobster.com/recording/e892143c-5b78-4917-83a1-568d3cf4f2d1",
+  "gemini": "gemini://musicbrainz.uploadedlobster.com/recording/e892143c-5b78-4917-83a1-568d3cf4f2d1",
+  "date": "",
+  "dateLabel": "",
+  "count": 741,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "musicbrainz.uploadedlobster.com",
+  "preview": "# New Drug II\n\nRecording by Grails\nDuration: 2:51\nFirst release year: 2010\n\n\n## Appears on releases\n\n=> /release/b9c09480-15f8-489e-8e08-351c38ed2e44 Black Tar Prophecies, Volume 4 by Grails\nUS 2010-05-04\n=> /release/f6e63b11-86b1-484c-9522-f8babb3e8012 Black Tar Prophecies, Volumes 4, 5 & 6 by Grails\nUS 2013-10-01\n=> /release/647645a9-ed06-4a70-adfa-fe5f5a50c562 Black Tar Prophecies, Volumes 4, 5 & 6 by Grails\nXW 2013-10-01\n\n\n## Relations\n mix\n=> /artist/6cdbb461-d99d-4571-95d6-cc09cbde7517 \ud83e\uddd1 Emil Amos\n mix\n=> /artist/4cdbfb08-b44a-42ee-81cf-431ec02b3a6d \ud83e\uddd1 Alex Hall\n producer\n=> /artist/6cdbb461-d99d-4571-95d6-cc09cbde7517 \ud83e\uddd1 Emil Amos\n producer\n=> /artist/4cdbfb08-b44a-42ee-81cf-431ec02b3a6d \ud83e\uddd1 Alex Hall\n\n\n=> / Return to start page",
+  "query": "gemini search \"prophecy\"",
+  "kw": "prophecy",
+  "extra": "capsule: musicbrainz.uploadedlobster.com \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://musicbrainz.uploadedlobster.com/recording/e892143c-5b78-4917-83a1-568d3cf4f2d1"
+   ]
+  ],
+  "mined_at": "2026-11-05T23:50:32Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Games: Dota 2, Godot Engine, Cult: Review",
+  "url": "https://portal.mozz.us/gemini/gemini.tuxmachines.org/n/2022/11/05/Games_Dota_2_Godot_Engine_Cult_Review.gmi",
+  "gemini": "gemini://gemini.tuxmachines.org/n/2022/11/05/Games_Dota_2_Godot_Engine_Cult_Review.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 2386,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gemini.tuxmachines.org",
+  "preview": "Tux Machines\n\n# Games: Dota 2, Godot Engine, Cult: Review\n\nPosted by Roy Schestowitz on Nov 05, 2022\n\n=>\t/n/2022/11/05/Software_KDE_Gear_22_08_3_EagleEye_SystemTap_Zim_and_More.gmi\tSoftware: KDE Gear 22.08.3, EagleEye, SystemTap, Zim, and More\n=>\t/n/2022/11/05/Homebrew_rvPhone_aims_to_be_the_first_RISC_V_mobile_experiment.gmi\tHomebrew \"rvPhone\" aims to be the first RISC-V mobile experiment\n\n=>\thttps://news.tuxmachines.org/i/2022/11/992185920id21846gol.thumbnail.jpg\t\u21ba Dota 2\n\n###  Dota 2 set to remove OpenGL support, new hero announced and more\n\n=>\thttps://www.gamingonlinux.com/2022/11/dota-2-set-to-remove-opengl-support-new-hero-announced-and-more/\t\u21ba Dota 2 set to remove OpenGL support, new hero announced and more\n\n> Valve has put out an update for Dota 2 and there's some major changes coming, along with another new hero set to enter the fold.\n\n \n### Godot Engine - Dev snapshot: Godot 4.0 beta 4\n\n=>\thttps://godotengine.org/article/dev-snapshot-godot-4-0-beta-4\t\u21ba Godot Engine - Dev snapshot: Godot 4.0 beta 4\n\n> We released Godot 4.0 beta 1 in September, and that was a big milestone on our journey to finalize our next major release \u2013 be sure to check out that blog post if you haven't",
+  "query": "gemini search \"cult\"",
+  "kw": "cult",
+  "extra": "capsule: gemini.tuxmachines.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gemini.tuxmachines.org/n/2022/11/05/Games_Dota_2_Godot_Engine_Cult_Review.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-05T23:50:32Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Top secret: Cults inquiry submission concealed from public",
+  "url": "https://portal.mozz.us/gemini/techrights.org/n/2026/07/22/Top_secret_Cults_inquiry_submission_concealed_from_public.gmi",
+  "gemini": "gemini://techrights.org/n/2026/07/22/Top_secret_Cults_inquiry_submission_concealed_from_public.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 8118,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "techrights.org",
+  "preview": "Techrights\n\n# Top secret: Cults inquiry submission concealed from public\n\nPosted by Roy Schestowitz on Jul 22, 2026\n\n=>\t/n/2026/07/22/IBM_s_Press_Release_About_Results_Mentions_AI_10_Times_Quantum_.gmi\tIBM's Press Release About Results Mentions \"AI\" 10 Times, \"Quantum\" 4 Times\n=>\t/n/2026/07/22/An_Hour_Ahead_of_Alleged_Results_Amid_Investigation_Into_Fraud_.gmi\tAn Hour Ahead of Alleged 'Results' (Amid Investigation Into Fraud) IBM Falls Back to New Lows\n\nReprinted with permission from Daniel Pocock.\n\n16:00 Wed, 22 Jul 2026\n\nEarlier in 2026,  I provided details for people to make submissions to the Victorian state parliament inquiry into Cults and Organized Fringe Groups (COFG).\n\n=>\thttps://danielpocock.com/en/cult-inquiry-parliament-of-victoria-last-chance/\t\u21ba HTTPS: I provided details for people to make submissions to the Victorian state parliament inquiry into Cults and Organized Fringe Groups (COFG)\n\nThe committee has decided that my submission had to be classified as Confidential, the civilian equivalent of top secret in the military. In other words, you, the public, are prohibited from reading it. Unless, of course, the people of Clacton-on-Sea vote for me and I table cult evide",
+  "query": "gemini search \"cult\"",
+  "kw": "cult",
+  "extra": "capsule: techrights.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://techrights.org/n/2026/07/22/Top_secret_Cults_inquiry_submission_concealed_from_public.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-05T23:50:32Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "acrophil.txt.gmi",
+  "url": "https://portal.mozz.us/gemini/gem.snork.ca/textfiles.com/occult/CHRISTIAN/acrophil.txt.gmi",
+  "gemini": "gemini://gem.snork.ca/textfiles.com/occult/CHRISTIAN/acrophil.txt.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 5245,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gem.snork.ca",
+  "preview": "There is a volume by the title of:\r\n    \r\n\t\tThe Gnostic Gospels\r\n    \t\tElaine Pagels\r\n    \t\t\ufffd1981 Vintage Books \r\n\r\n\t\r\n    Dr. Elaine Pagels is one of many who worked on translating a cache\r\n    of codices found near Jabal al-Tarif, a section of cliff on the\r\n    right bank marking the limit of the Nile valley and the arable land\r\n    between Chenobskeia and Pabau. The fruit of that effort is recorded\r\n    in a volume entitled:\r\n    \r\n    \t\tThe Nag Hammadi Library in English\r\n    \t\tJames M. Robinson, General Editor\r\n    \t\t\ufffd 1978 Harper & Row\r\n\r\n    I believe, however, that it is the Infancy Gospels of \"The Lost Books\r\n    of the Bible and the Forgotten Books of Eden\" that contain the relating\r\n    of the events that you have described in your note. As far as I\r\n    know all three of these works are currently available or orderable\r\n    through most booksellers.\r\n    \r\n\r\nWhat follows is a listing of the contents of \r\n\r\n\"The Lost Books of The Bible and The Forgotten Books of Eden\",\r\n\r\n\"The Nag Hammadi Library\", and\r\n\r\n\"The Apocrypha\".\r\n    \r\nPlease feel free to extract this for your own reference.\r\n    \r\n    \r\n\"The Lost Books of The Bible and The Forgotten Books of Eden\"  Total of 35",
+  "query": "gemini search \"apocrypha\"",
+  "kw": "apocrypha",
+  "extra": "capsule: gem.snork.ca \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gem.snork.ca/textfiles.com/occult/CHRISTIAN/acrophil.txt.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-05T23:50:32Z"
  }
 ]

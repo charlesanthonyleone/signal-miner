@@ -44346,5 +44346,3617 @@
 "related_url": "https://api.openverse.org/v1/audio/19b5e53a-3caf-4e0d-a282-5e0a6e130bab/related/",
 "waveform": "https://api.openverse.org/v1/audio/19b5e53a-3caf-4e0d-a282-5e0a6e130bab/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "02f49538-0448-45a0-bd65-3cf1891e9601",
+"title": "En-us-mural",
+"indexed_on": "2022-11-20T15:07:49.059487Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=402754",
+"url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/En-us-mural.ogg",
+"creator": "Dvortygirl",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Dvortygirl",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 10702,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-us-mural\" by Dvortygirl is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 626,
+"bit_rate": 96001,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/02f49538-0448-45a0-bd65-3cf1891e9601/",
+"related_url": "https://api.openverse.org/v1/audio/02f49538-0448-45a0-bd65-3cf1891e9601/related/",
+"waveform": "https://api.openverse.org/v1/audio/02f49538-0448-45a0-bd65-3cf1891e9601/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "59e3d860-841c-4ff5-bad3-68b0c98756d9",
+"title": "LL-Q150 (fra)-DenisdeShawi-murale",
+"indexed_on": "2025-08-24T16:35:49.162870Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=101108278",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/38/LL-Q150_%28fra%29-DenisdeShawi-murale.wav",
+"creator": "Speaker: DenisdeShawi Recorder: DenisdeShawi",
+"creator_url": "https://lingualibre.org/wiki/Q308866",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 115988,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-DenisdeShawi-murale\" by Speaker: DenisdeShawi Recorder: DenisdeShawi is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1314,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/59e3d860-841c-4ff5-bad3-68b0c98756d9/",
+"related_url": "https://api.openverse.org/v1/audio/59e3d860-841c-4ff5-bad3-68b0c98756d9/related/",
+"waveform": "https://api.openverse.org/v1/audio/59e3d860-841c-4ff5-bad3-68b0c98756d9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0e4148e0-44b6-473b-916c-a7c1049451a2",
+"title": "LL-Q150 (fra)-LoquaxFR-mural",
+"indexed_on": "2023-12-03T14:20:25.582193Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=84816857",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/LL-Q150_%28fra%29-LoquaxFR-mural.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "Speaker: LoquaxFR Recorder: LoquaxFR",
+"creator_url": "https://lingualibre.org/wiki/Q215420",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 75884,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-LoquaxFR-mural\" by Speaker: LoquaxFR Recorder: LoquaxFR is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 790,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0e4148e0-44b6-473b-916c-a7c1049451a2/",
+"related_url": "https://api.openverse.org/v1/audio/0e4148e0-44b6-473b-916c-a7c1049451a2/related/",
+"waveform": "https://api.openverse.org/v1/audio/0e4148e0-44b6-473b-916c-a7c1049451a2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "685db599-5c96-45dc-9c66-8528adc969e5",
+"title": "LL-Q1860 (eng)-Wodencafe-murals",
+"indexed_on": "2024-06-02T00:17:43.246968Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=148959706",
+"url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/LL-Q1860_%28eng%29-Wodencafe-murals.wav",
+"creator": "Speaker: Wodencafe Recorder: Wodencafe",
+"creator_url": "https://lingualibre.org/wiki/Q1207413",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 105260,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Wodencafe-murals\" by Speaker: Wodencafe Recorder: Wodencafe is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1096,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/685db599-5c96-45dc-9c66-8528adc969e5/",
+"related_url": "https://api.openverse.org/v1/audio/685db599-5c96-45dc-9c66-8528adc969e5/related/",
+"waveform": "https://api.openverse.org/v1/audio/685db599-5c96-45dc-9c66-8528adc969e5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c2d195cd-2d31-44b7-adda-a91cd413f571",
+"title": "LL-Q809 (pol)-Poemat-mural",
+"indexed_on": "2024-11-24T15:55:21.476078Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=106162478",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/88/LL-Q809_%28pol%29-Poemat-mural.wav",
+"creator": "Speaker: Poemat Recorder: Poemat",
+"creator_url": "https://lingualibre.org/wiki/Q437424",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q809 (pol)-Poemat-mural\" by Speaker: Poemat Recorder: Poemat is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c2d195cd-2d31-44b7-adda-a91cd413f571/",
+"related_url": "https://api.openverse.org/v1/audio/c2d195cd-2d31-44b7-adda-a91cd413f571/related/",
+"waveform": "https://api.openverse.org/v1/audio/c2d195cd-2d31-44b7-adda-a91cd413f571/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ac5f4124-2ca0-4a77-ad16-f3474bb83c4a",
+"title": "LL-Q1860 (eng)-Wodencafe-mural",
+"indexed_on": "2024-06-02T00:17:43.246968Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=148959703",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/LL-Q1860_%28eng%29-Wodencafe-mural.wav",
+"creator": "Speaker: Wodencafe Recorder: Wodencafe",
+"creator_url": "https://lingualibre.org/wiki/Q1207413",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 81708,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Wodencafe-mural\" by Speaker: Wodencafe Recorder: Wodencafe is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 850,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ac5f4124-2ca0-4a77-ad16-f3474bb83c4a/",
+"related_url": "https://api.openverse.org/v1/audio/ac5f4124-2ca0-4a77-ad16-f3474bb83c4a/related/",
+"waveform": "https://api.openverse.org/v1/audio/ac5f4124-2ca0-4a77-ad16-f3474bb83c4a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "95e2fa1f-52ba-4d67-8196-33e86f1253d9",
+"title": "Nl-muraler",
+"indexed_on": "2023-04-23T13:05:44.000869Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=56124764",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Nl-muraler.ogg",
+"creator": "Marcel coenders",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Marcel_coenders",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 14762,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-muraler\" by Marcel coenders is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1200,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/95e2fa1f-52ba-4d67-8196-33e86f1253d9/",
+"related_url": "https://api.openverse.org/v1/audio/95e2fa1f-52ba-4d67-8196-33e86f1253d9/related/",
+"waveform": "https://api.openverse.org/v1/audio/95e2fa1f-52ba-4d67-8196-33e86f1253d9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "737e2c25-a3ae-484a-9152-e73f3772e6fd",
+"title": "Nl-murale",
+"indexed_on": "2025-12-21T14:22:42.310106Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=29554313",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Nl-murale.ogg",
+"creator": "Marcel coenders",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Marcel_coenders",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 13433,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-murale\" by Marcel coenders is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1100,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/737e2c25-a3ae-484a-9152-e73f3772e6fd/",
+"related_url": "https://api.openverse.org/v1/audio/737e2c25-a3ae-484a-9152-e73f3772e6fd/related/",
+"waveform": "https://api.openverse.org/v1/audio/737e2c25-a3ae-484a-9152-e73f3772e6fd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "70236860-ac6b-4c90-b5b6-3705e4f81986",
+"title": "Nl-muralers",
+"indexed_on": "2023-04-23T13:05:44.000869Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=56124771",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Nl-muralers.ogg",
+"creator": "Marcel coenders",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Marcel_coenders",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 17552,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-muralers\" by Marcel coenders is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1550,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/70236860-ac6b-4c90-b5b6-3705e4f81986/",
+"related_url": "https://api.openverse.org/v1/audio/70236860-ac6b-4c90-b5b6-3705e4f81986/related/",
+"waveform": "https://api.openverse.org/v1/audio/70236860-ac6b-4c90-b5b6-3705e4f81986/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "071d08a3-ae77-49aa-a361-32df41f49bbc",
+"title": "Ana Fabricia C\u93cedoba Mural Audio",
+"indexed_on": "2025-10-25T00:06:06.502385Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=177285844",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ana_Fabricia_C%C3%B3rdoba_Mural_Audio.mp3",
+"creator": "Bcaycedo (WMCO)",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Bcaycedo_(WMCO)",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 505776,
+"filetype": "mp3",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Ana Fabricia C\u00f3rdoba Mural Audio\" by Bcaycedo (WMCO) is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 37776,
+"bit_rate": 107042,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/071d08a3-ae77-49aa-a361-32df41f49bbc/",
+"related_url": "https://api.openverse.org/v1/audio/071d08a3-ae77-49aa-a361-32df41f49bbc/related/",
+"waveform": "https://api.openverse.org/v1/audio/071d08a3-ae77-49aa-a361-32df41f49bbc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5cdc5457-d07d-4f72-b931-f9a6145c3030",
+"title": "LL-Q809 (pol)-Jest Spoczko-murale",
+"indexed_on": "2022-12-12T00:11:05.473549Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=126519617",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/LL-Q809_%28pol%29-Jest_Spoczko-murale.wav",
+"creator": "Speaker: Jest Spoczko Recorder: Jest Spoczko",
+"creator_url": "https://lingualibre.org/wiki/Q733034",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 84780,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q809 (pol)-Jest Spoczko-murale\" by Speaker: Jest Spoczko Recorder: Jest Spoczko is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 882,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5cdc5457-d07d-4f72-b931-f9a6145c3030/",
+"related_url": "https://api.openverse.org/v1/audio/5cdc5457-d07d-4f72-b931-f9a6145c3030/related/",
+"waveform": "https://api.openverse.org/v1/audio/5cdc5457-d07d-4f72-b931-f9a6145c3030/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "947cffb3-9fa2-4730-9c64-e74df0b97a44",
+"title": "LL-Q150 (fra)-ProjetSamantha (Mathsou)-mural",
+"indexed_on": "2026-04-22T02:36:30.565858Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=189943049",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/68/LL-Q150_%28fra%29-ProjetSamantha_%28Mathsou%29-mural.wav",
+"creator": "Speaker: ProjetSamantha Recorder: Mathsou",
+"creator_url": "https://lingualibre.org/wiki/Q1611448",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 97836,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-ProjetSamantha (Mathsou)-mural\" by Speaker: ProjetSamantha Recorder: Mathsou is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1018,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/947cffb3-9fa2-4730-9c64-e74df0b97a44/",
+"related_url": "https://api.openverse.org/v1/audio/947cffb3-9fa2-4730-9c64-e74df0b97a44/related/",
+"waveform": "https://api.openverse.org/v1/audio/947cffb3-9fa2-4730-9c64-e74df0b97a44/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4389080f-d326-45b0-be89-deb89bf137bd",
+"title": "LL-Q150 (fra)-Lepticed7-carte murale",
+"indexed_on": "2023-05-21T15:25:46.322335Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=105468845",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/55/LL-Q150_%28fra%29-Lepticed7-carte_murale.wav",
+"creator": "Speaker: Lepticed7 Recorder: Lepticed7",
+"creator_url": "https://lingualibre.org/wiki/Q51319",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 117548,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Lepticed7-carte murale\" by Speaker: Lepticed7 Recorder: Lepticed7 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1224,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4389080f-d326-45b0-be89-deb89bf137bd/",
+"related_url": "https://api.openverse.org/v1/audio/4389080f-d326-45b0-be89-deb89bf137bd/related/",
+"waveform": "https://api.openverse.org/v1/audio/4389080f-d326-45b0-be89-deb89bf137bd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a8ddd68b-b6b6-4a00-b049-e2f573febc0d",
+"title": "LL-Q150 (fra)-LoquaxFR-carte murale",
+"indexed_on": "2023-12-31T16:31:00.328080Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=85726476",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/12/LL-Q150_%28fra%29-LoquaxFR-carte_murale.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "Speaker: LoquaxFR Recorder: LoquaxFR",
+"creator_url": "https://lingualibre.org/wiki/Q215420",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 84332,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-LoquaxFR-carte murale\" by Speaker: LoquaxFR Recorder: LoquaxFR is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 878,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a8ddd68b-b6b6-4a00-b049-e2f573febc0d/",
+"related_url": "https://api.openverse.org/v1/audio/a8ddd68b-b6b6-4a00-b049-e2f573febc0d/related/",
+"waveform": "https://api.openverse.org/v1/audio/a8ddd68b-b6b6-4a00-b049-e2f573febc0d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "86ea70fe-ee99-423a-b2d5-8103fbced4c9",
+"title": "LL-Q7026 (cat)-TaronjaSatsuma-Mural del Passeig de Bat\u042e",
+"indexed_on": "2023-06-25T04:56:58.042374Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=130686214",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/LL-Q7026_%28cat%29-TaronjaSatsuma-Mural_del_Passeig_de_Bat%C3%A0.wav",
+"creator": "Speaker: TaronjaSatsuma Recorder: TaronjaSatsuma",
+"creator_url": "https://lingualibre.org/wiki/Q902046",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 191276,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q7026 (cat)-TaronjaSatsuma-Mural del Passeig de Bat\u00e0\" by Speaker: TaronjaSatsuma Recorder: TaronjaSatsuma is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1992,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/86ea70fe-ee99-423a-b2d5-8103fbced4c9/",
+"related_url": "https://api.openverse.org/v1/audio/86ea70fe-ee99-423a-b2d5-8103fbced4c9/related/",
+"waveform": "https://api.openverse.org/v1/audio/86ea70fe-ee99-423a-b2d5-8103fbced4c9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "78355caf-5ef4-4ca4-a134-148fc2e66300",
+"title": "LL-Q150 (fra)-Beno\u893e Prieur-fresque murale de la Place Henri-Grobon",
+"indexed_on": "2023-09-10T14:49:10.487895Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=75247836",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/LL-Q150_%28fra%29-Beno%C3%AEt_Prieur-fresque_murale_de_la_Place_Henri-Grobon.wav",
+"creator": "Speaker: Beno\u00eet Prieur Recorder: Beno\u00eet Prieur",
+"creator_url": "https://lingualibre.org/wiki/Q816",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 230676,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Beno\u00eet Prieur-fresque murale de la Place Henri-Grobon\" by Speaker: Beno\u00eet Prieur Recorder: Beno\u00eet Prieur is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2614,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/78355caf-5ef4-4ca4-a134-148fc2e66300/",
+"related_url": "https://api.openverse.org/v1/audio/78355caf-5ef4-4ca4-a134-148fc2e66300/related/",
+"waveform": "https://api.openverse.org/v1/audio/78355caf-5ef4-4ca4-a134-148fc2e66300/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5ebfe228-284d-4622-ad33-b4f9406d3e1d",
+"title": "Testimonio anonimo sobre justicia y poder en el contexto del mural \u201cYo di la orden\u201d",
+"indexed_on": "2025-11-12T00:06:46.928086Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=178239191",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Testimonio_anonimo_sobre_justicia_y_poder_en_el_contexto_del_mural_%E2%80%9CYo_di_la_orden%E2%80%9D.ogg",
+"creator": "Laollietopia",
+"creator_url": "https://commons.wikimedia.org/w/index.php?title=User:Laollietopia&action=edit&redlink=1",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 162909,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Testimonio anonimo sobre justicia y poder en el contexto del mural \u201cYo di la orden\u201d\" by Laollietopia is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 18474,
+"bit_rate": 112000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5ebfe228-284d-4622-ad33-b4f9406d3e1d/",
+"related_url": "https://api.openverse.org/v1/audio/5ebfe228-284d-4622-ad33-b4f9406d3e1d/related/",
+"waveform": "https://api.openverse.org/v1/audio/5ebfe228-284d-4622-ad33-b4f9406d3e1d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0f2978a1-88fe-4bec-a8ba-856ab1216164",
+"title": "Testimonio an\u93eeimo sobre el mural de Magaly y Paula en la Universidad de Antioquia",
+"indexed_on": "2025-11-12T00:06:46.928086Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=178238887",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Testimonio_an%C3%B3nimo_sobre_el_mural_de_Magaly_y_Paula_en_la_Universidad_de_Antioquia.ogg",
+"creator": "Laollietopia",
+"creator_url": "https://commons.wikimedia.org/w/index.php?title=User:Laollietopia&action=edit&redlink=1",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 1221352,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Testimonio an\u00f3nimo sobre el mural de Magaly y Paula en la Universidad de Antioquia\" by Laollietopia is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 121536,
+"bit_rate": 112000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0f2978a1-88fe-4bec-a8ba-856ab1216164/",
+"related_url": "https://api.openverse.org/v1/audio/0f2978a1-88fe-4bec-a8ba-856ab1216164/related/",
+"waveform": "https://api.openverse.org/v1/audio/0f2978a1-88fe-4bec-a8ba-856ab1216164/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d47299f8-80cf-43d0-a29d-63225c02cd05",
+"title": "Conversatorio Memorias virtualizadas del arte mural en La Paz y El Alto del siglo XXI",
+"indexed_on": "2025-08-19T00:10:45.937010Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=172993449",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Conversatorio_Memorias_virtualizadas_del_arte_mural_en_La_Paz_y_El_Alto_del_siglo_XXI.mp3",
+"creator": "Gustavo Cardoso Subieta",
+"creator_url": "https://commons.wikimedia.org/w/index.php?title=User:Gustavo_Cardoso_Subieta&action=edit&redlink=1",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 102940169,
+"filetype": "mp3",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Conversatorio Memorias virtualizadas del arte mural en La Paz y El Alto del siglo XXI\" by Gustavo Cardoso Subieta is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 6433752,
+"bit_rate": 128000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d47299f8-80cf-43d0-a29d-63225c02cd05/",
+"related_url": "https://api.openverse.org/v1/audio/d47299f8-80cf-43d0-a29d-63225c02cd05/related/",
+"waveform": "https://api.openverse.org/v1/audio/d47299f8-80cf-43d0-a29d-63225c02cd05/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e03fe656-4dcb-49b8-895e-81228f260f67",
+"title": "Sesi\u93ee de pinta de mural colaborativo con los ni\u96b3s y ni\u9399s de Los Parga",
+"indexed_on": "2026-09-30T00:17:20.639747Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=200543162",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Sesi%C3%B3n_de_pinta_de_mural_colaborativo_con_los_ni%C3%B1os_y_ni%C3%B1as_de_Los_Parga.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "Luisalvaz",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Luisalvaz",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 111745608,
+"filetype": "mp3",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Sesi\u00f3n de pinta de mural colaborativo con los ni\u00f1os y ni\u00f1as de Los Parga\" by Luisalvaz is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2793613,
+"bit_rate": 320000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e03fe656-4dcb-49b8-895e-81228f260f67/",
+"related_url": "https://api.openverse.org/v1/audio/e03fe656-4dcb-49b8-895e-81228f260f67/related/",
+"waveform": "https://api.openverse.org/v1/audio/e03fe656-4dcb-49b8-895e-81228f260f67/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "66fc21ff-6a31-4c4f-80bd-2f43c23211b1",
+"title": "05166 car driving on frosted snow.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Robinhood76/sounds/245080",
+"url": "https://cdn.freesound.org/previews/245/245080_321967-hq.mp3",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1118029,
+"filetype": "mp3",
+"tags": [
+{
+"name": "automobile",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "car",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drive",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "driving",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "frost",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "frsted",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ice",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "passing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "snow",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tires",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vehicle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "winter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/245080/download/",
+"bit_rate": 0,
+"filesize": 8751292,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"05166 car driving on frosted snow.wav\" by Robinhood76 is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "CARS individual sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/4065/",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 49598,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/66fc21ff-6a31-4c4f-80bd-2f43c23211b1/",
+"related_url": "https://api.openverse.org/v1/audio/66fc21ff-6a31-4c4f-80bd-2f43c23211b1/related/",
+"waveform": "https://api.openverse.org/v1/audio/66fc21ff-6a31-4c4f-80bd-2f43c23211b1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9dbe95fa-21b3-470a-a95b-d53ec21c0d3c",
+"title": "Paul Minesweeper - Frost Flower",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1335021",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1335021&format=mp32",
+"creator": "Tunguska Electronic Music Society",
+"creator_url": "https://www.jamendo.com/artist/343607/Tunguska_Chillout_Grooves_vol.1",
+"license": "by-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "atmospheric",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "space",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Paul Minesweeper - Frost Flower\" by Tunguska Electronic Music Society is licensed under CC BY-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Point: Cape Fligely. Part 1. Day",
+"foreign_landing_url": "https://www.jamendo.com/album/157832/point-cape-fligely-part-1-day",
+"creator": "Tunguska Electronic Music Society",
+"creator_url": "https://www.jamendo.com/artist/343607/Tunguska_Chillout_Grooves_vol.1",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 353000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/9dbe95fa-21b3-470a-a95b-d53ec21c0d3c/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/9dbe95fa-21b3-470a-a95b-d53ec21c0d3c/",
+"related_url": "https://api.openverse.org/v1/audio/9dbe95fa-21b3-470a-a95b-d53ec21c0d3c/related/",
+"waveform": "https://api.openverse.org/v1/audio/9dbe95fa-21b3-470a-a95b-d53ec21c0d3c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "69d53a89-40fa-4d9f-8ecc-acdc7c2b2fd9",
+"title": "Weathering 01 - earth, water and frost",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/newagesoup/sounds/336732",
+"url": "https://cdn.freesound.org/previews/336/336732_4067257-hq.mp3",
+"creator": "newagesoup",
+"creator_url": "https://freesound.org/people/newagesoup",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 438528,
+"filetype": "mp3",
+"tags": [
+{
+"name": "cold",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "earth",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "earthquake",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foley",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "footsteps",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "freeze",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "frost",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ground",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ice",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lake",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ocean",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "request",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rumble",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "storm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "weather",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "winter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/336732/download/",
+"bit_rate": 0,
+"filesize": 5400766,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Weathering 01 - earth, water and frost.\" by newagesoup is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 18750,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/69d53a89-40fa-4d9f-8ecc-acdc7c2b2fd9/",
+"related_url": "https://api.openverse.org/v1/audio/69d53a89-40fa-4d9f-8ecc-acdc7c2b2fd9/related/",
+"waveform": "https://api.openverse.org/v1/audio/69d53a89-40fa-4d9f-8ecc-acdc7c2b2fd9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "88cd7c24-0182-48c7-8d7f-9568d42bc522",
+"title": "De-Frost",
+"indexed_on": "2022-10-04T05:50:08.396403Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=35830440",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-Frost.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16443,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-Frost\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1660,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/88cd7c24-0182-48c7-8d7f-9568d42bc522/",
+"related_url": "https://api.openverse.org/v1/audio/88cd7c24-0182-48c7-8d7f-9568d42bc522/related/",
+"waveform": "https://api.openverse.org/v1/audio/88cd7c24-0182-48c7-8d7f-9568d42bc522/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2ed9d125-4a69-4c1a-8416-cbcfc87da577",
+"title": "En-us-frost",
+"indexed_on": "2024-06-16T18:53:46.938559Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=454000",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/En-us-frost.ogg",
+"creator": "Dvortygirl",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Dvortygirl",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 13788,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-us-frost\" by Dvortygirl is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 940,
+"bit_rate": 96001,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2ed9d125-4a69-4c1a-8416-cbcfc87da577/",
+"related_url": "https://api.openverse.org/v1/audio/2ed9d125-4a69-4c1a-8416-cbcfc87da577/related/",
+"waveform": "https://api.openverse.org/v1/audio/2ed9d125-4a69-4c1a-8416-cbcfc87da577/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "05fad46b-654f-4bb7-90d3-0024410acf33",
+"title": "Michael Hoffmann - Frost",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1107137",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1107137&format=mp32",
+"creator": "C3S",
+"creator_url": "https://www.jamendo.com/artist/442147/V.A._(3)",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "hoffmann",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Michael Hoffmann - Frost\" by C3S is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Pass The Mic!",
+"foreign_landing_url": "https://www.jamendo.com/album/132273/pass-the-mic",
+"creator": "C3S",
+"creator_url": "https://www.jamendo.com/artist/442147/V.A._(3)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 562000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/05fad46b-654f-4bb7-90d3-0024410acf33/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/05fad46b-654f-4bb7-90d3-0024410acf33/",
+"related_url": "https://api.openverse.org/v1/audio/05fad46b-654f-4bb7-90d3-0024410acf33/related/",
+"waveform": "https://api.openverse.org/v1/audio/05fad46b-654f-4bb7-90d3-0024410acf33/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1eceef44-a269-4bde-b94b-74e2bbf9ccca",
+"title": "00811 frosted snow steps.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Robinhood76/sounds/65990",
+"url": "https://cdn.freesound.org/previews/65/65990_321967-hq.mp3",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 783333,
+"filetype": "mp3",
+"tags": [
+{
+"name": "frost",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "frosted",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "snow",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "snowy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "walk",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/65990/download/",
+"bit_rate": 0,
+"filesize": 6051226,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"00811 frosted snow steps.wav\" by Robinhood76 is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "WALKING everywhere sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/4056/",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 34298,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1eceef44-a269-4bde-b94b-74e2bbf9ccca/",
+"related_url": "https://api.openverse.org/v1/audio/1eceef44-a269-4bde-b94b-74e2bbf9ccca/related/",
+"waveform": "https://api.openverse.org/v1/audio/1eceef44-a269-4bde-b94b-74e2bbf9ccca/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "24a119f5-9597-49cd-a0fe-dd5e5d2b4f18",
+"title": "frost lobby1.wav",
+"indexed_on": "2022-03-22T02:25:00.183410Z",
+"foreign_landing_url": "https://freesound.org/people/patchen/sounds/20191",
+"url": "https://cdn.freesound.org/previews/20/20191_6997-hq.mp3",
+"creator": "patchen",
+"creator_url": "https://freesound.org/people/patchen",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1073357,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "austin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "block",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "building",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "city",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lobby",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "office",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "texas",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tower",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/20191/download/",
+"bit_rate": 0,
+"filesize": 8236924,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"frost lobby1.wav\" by patchen is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Ambience Field-Recordings",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/1232/",
+"creator": "patchen",
+"creator_url": "https://freesound.org/people/patchen/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 46694,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/24a119f5-9597-49cd-a0fe-dd5e5d2b4f18/",
+"related_url": "https://api.openverse.org/v1/audio/24a119f5-9597-49cd-a0fe-dd5e5d2b4f18/related/",
+"waveform": "https://api.openverse.org/v1/audio/24a119f5-9597-49cd-a0fe-dd5e5d2b4f18/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "96512496-de8d-406b-bec5-5c0ad0a00662",
+"title": "Alexander Frost - Havanna",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/671495",
+"url": "https://prod-1.storage.jamendo.com/?trackid=671495&format=mp32",
+"creator": "Alexander Frost",
+"creator_url": "https://www.jamendo.com/artist/363998/Alexander_Frost",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/de/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Alexander Frost - Havanna\" by Alexander Frost is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/de/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Good Morning Berlin",
+"foreign_landing_url": "https://www.jamendo.com/album/77889/good-morning-berlin",
+"creator": "Alexander Frost",
+"creator_url": "https://www.jamendo.com/artist/363998/Alexander_Frost",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 137000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/96512496-de8d-406b-bec5-5c0ad0a00662/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/96512496-de8d-406b-bec5-5c0ad0a00662/",
+"related_url": "https://api.openverse.org/v1/audio/96512496-de8d-406b-bec5-5c0ad0a00662/related/",
+"waveform": "https://api.openverse.org/v1/audio/96512496-de8d-406b-bec5-5c0ad0a00662/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3d82a7cd-0e91-4fb8-ac9d-43e6031561aa",
+"title": "LL-Q1860 (eng)-Vealhurl-frosting",
+"indexed_on": "2022-12-11T09:50:08.079533Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=117623619",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/LL-Q1860_%28eng%29-Vealhurl-frosting.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 92972,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-frosting\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 968,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/3d82a7cd-0e91-4fb8-ac9d-43e6031561aa/",
+"related_url": "https://api.openverse.org/v1/audio/3d82a7cd-0e91-4fb8-ac9d-43e6031561aa/related/",
+"waveform": "https://api.openverse.org/v1/audio/3d82a7cd-0e91-4fb8-ac9d-43e6031561aa/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "31c8f19b-0762-489a-91cb-12e429a246fc",
+"title": "De Costa A Costa (feat Frost) - Argentina",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/40121",
+"url": "https://prod-1.storage.jamendo.com/?trackid=40121&format=mp32",
+"creator": "Paragraff",
+"creator_url": "https://www.jamendo.com/artist/5679/paragraff",
+"license": "nc-sampling+",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/licenses/nc-sampling+/1.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"De Costa A Costa (feat Frost) - Argentina\" by Paragraff is licensed under CC NC-Sampling+ 1.0. To view a copy of this license, visit https://creativecommons.org/licenses/nc-sampling+/1.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Univers Sale",
+"foreign_landing_url": "https://www.jamendo.com/album/4936/univers-sale",
+"creator": "Paragraff",
+"creator_url": "https://www.jamendo.com/artist/5679/paragraff",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 183000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/31c8f19b-0762-489a-91cb-12e429a246fc/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/31c8f19b-0762-489a-91cb-12e429a246fc/",
+"related_url": "https://api.openverse.org/v1/audio/31c8f19b-0762-489a-91cb-12e429a246fc/related/",
+"waveform": "https://api.openverse.org/v1/audio/31c8f19b-0762-489a-91cb-12e429a246fc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6e9de897-fbb5-4179-899b-63a893d759e1",
+"title": "Ice Frost Spell Skill",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/EminYILDIRIM/sounds/550266",
+"url": "https://cdn.freesound.org/previews/550/550266_10912485-hq.mp3",
+"creator": "EminYILDIRIM",
+"creator_url": "https://freesound.org/people/EminYILDIRIM",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 77405,
+"filetype": "mp3",
+"tags": [
+{
+"name": "cold",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "frost",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "froze",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "frozen",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ice",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "skill",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spell",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/550266/download/",
+"bit_rate": 0,
+"filesize": 459376,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Ice Frost Spell Skill\" by EminYILDIRIM is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2600,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/6e9de897-fbb5-4179-899b-63a893d759e1/",
+"related_url": "https://api.openverse.org/v1/audio/6e9de897-fbb5-4179-899b-63a893d759e1/related/",
+"waveform": "https://api.openverse.org/v1/audio/6e9de897-fbb5-4179-899b-63a893d759e1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d71fe699-a1e1-42ee-b138-cc76f261a780",
+"title": "Metal Talk mit Running Wild, Coroner und Celtic Frost (1988)",
+"indexed_on": "2025-03-01T00:11:52.228472Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=160851464",
+"url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Metal_Talk_mit_Running_Wild%2C_Coroner_und_Celtic_Frost_%281988%29.mp3",
+"creator": "Maximilian Sch\u00f6nherr",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Maximilian_Sch%C3%B6nherr",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 73537615,
+"filetype": "mp3",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Metal Talk mit Running Wild, Coroner und Celtic Frost (1988)\" by Maximilian Sch\u00f6nherr is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2298050,
+"bit_rate": 256000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d71fe699-a1e1-42ee-b138-cc76f261a780/",
+"related_url": "https://api.openverse.org/v1/audio/d71fe699-a1e1-42ee-b138-cc76f261a780/related/",
+"waveform": "https://api.openverse.org/v1/audio/d71fe699-a1e1-42ee-b138-cc76f261a780/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4b830bf9-4470-4512-894f-674281b1e2ef",
+"title": "En-au-frosted",
+"indexed_on": "2022-11-20T11:04:29.587491Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=79241621",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/40/En-au-frosted.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 14694,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-au-frosted\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1024,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4b830bf9-4470-4512-894f-674281b1e2ef/",
+"related_url": "https://api.openverse.org/v1/audio/4b830bf9-4470-4512-894f-674281b1e2ef/related/",
+"waveform": "https://api.openverse.org/v1/audio/4b830bf9-4470-4512-894f-674281b1e2ef/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a951862e-bd0c-49ba-af15-00f282cf26a2",
+"title": "LL-Q1860 (eng)-Wodencafe-frost",
+"indexed_on": "2024-06-02T00:17:43.246968Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=148959536",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/LL-Q1860_%28eng%29-Wodencafe-frost.wav",
+"creator": "Speaker: Wodencafe Recorder: Wodencafe",
+"creator_url": "https://lingualibre.org/wiki/Q1207413",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 83756,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Wodencafe-frost\" by Speaker: Wodencafe Recorder: Wodencafe is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 872,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a951862e-bd0c-49ba-af15-00f282cf26a2/",
+"related_url": "https://api.openverse.org/v1/audio/a951862e-bd0c-49ba-af15-00f282cf26a2/related/",
+"waveform": "https://api.openverse.org/v1/audio/a951862e-bd0c-49ba-af15-00f282cf26a2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a7afd77f-8927-468c-87a9-3cafc9f3313c",
+"title": "Climbing the Decaying Ladder of the Frost Ikon",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1348175",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1348175&format=mp32",
+"creator": "Zeffon",
+"creator_url": "https://www.jamendo.com/artist/423996/Zeffon",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"avantgarde",
+"darkambient",
+"experimental"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "wind",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Climbing the Decaying Ladder of the Frost Ikon\" by Zeffon is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Arctic",
+"foreign_landing_url": "https://www.jamendo.com/album/159071/arctic",
+"creator": "Zeffon",
+"creator_url": "https://www.jamendo.com/artist/423996/Zeffon",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 1268000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/a7afd77f-8927-468c-87a9-3cafc9f3313c/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/a7afd77f-8927-468c-87a9-3cafc9f3313c/",
+"related_url": "https://api.openverse.org/v1/audio/a7afd77f-8927-468c-87a9-3cafc9f3313c/related/",
+"waveform": "https://api.openverse.org/v1/audio/a7afd77f-8927-468c-87a9-3cafc9f3313c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d2f312c4-319a-4d99-9519-b279d9c4d999",
+"title": "Frost Fox - The Fox sounds Frost",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/671890",
+"url": "https://prod-1.storage.jamendo.com/?trackid=671890&format=mp32",
+"creator": "Frost Fox",
+"creator_url": "https://www.jamendo.com/artist/364026/Frost_Fox",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Frost Fox - The Fox sounds Frost\" by Frost Fox is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Fox sounds Frost",
+"foreign_landing_url": "https://www.jamendo.com/album/77953/the-fox-sounds-frost",
+"creator": "Frost Fox",
+"creator_url": "https://www.jamendo.com/artist/364026/Frost_Fox",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 180000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/d2f312c4-319a-4d99-9519-b279d9c4d999/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/d2f312c4-319a-4d99-9519-b279d9c4d999/",
+"related_url": "https://api.openverse.org/v1/audio/d2f312c4-319a-4d99-9519-b279d9c4d999/related/",
+"waveform": "https://api.openverse.org/v1/audio/d2f312c4-319a-4d99-9519-b279d9c4d999/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3b71a689-2442-47a7-8460-4f4049b36699",
+"title": "De-Frosts",
+"indexed_on": "2023-04-23T10:54:23.480600Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=76244742",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/De-Frosts.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 17620,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-Frosts\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1830,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/3b71a689-2442-47a7-8460-4f4049b36699/",
+"related_url": "https://api.openverse.org/v1/audio/3b71a689-2442-47a7-8460-4f4049b36699/related/",
+"waveform": "https://api.openverse.org/v1/audio/3b71a689-2442-47a7-8460-4f4049b36699/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "74ab6b2a-d8b6-4f59-9068-fa51aac858b8",
+"title": "Frost Waltz (Alternate) (ISRC USUAN1100531)",
+"indexed_on": "2023-02-26T14:48:28.449983Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=64744713",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Frost_Waltz_%28Alternate%29_%28ISRC_USUAN1100531%29.mp3",
+"creator": "Frost Waltz (Alternate) Kevin MacLeod",
+"creator_url": null,
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 5550977,
+"filetype": "mp3",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Frost Waltz (Alternate) (ISRC USUAN1100531)\" by Frost Waltz (Alternate) Kevin MacLeod is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 136071,
+"bit_rate": 320000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/74ab6b2a-d8b6-4f59-9068-fa51aac858b8/",
+"related_url": "https://api.openverse.org/v1/audio/74ab6b2a-d8b6-4f59-9068-fa51aac858b8/related/",
+"waveform": "https://api.openverse.org/v1/audio/74ab6b2a-d8b6-4f59-9068-fa51aac858b8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d6e093eb-a94c-4d51-bdbc-62703fc900c8",
+"title": "Monarch-Gefolgschaft des Frostes",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1280697",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1280697&format=mp32",
+"creator": "Monarch",
+"creator_url": "https://www.jamendo.com/artist/431695/Monarch_(2)",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"metal"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "bass",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "drums",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Monarch-Gefolgschaft des Frostes\" by Monarch is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Live im Hellraiser Leipzig 1996",
+"foreign_landing_url": "https://www.jamendo.com/album/152762/live-im-hellraiser-leipzig-1996",
+"creator": "Monarch",
+"creator_url": "https://www.jamendo.com/artist/431695/Monarch_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 314000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/d6e093eb-a94c-4d51-bdbc-62703fc900c8/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/d6e093eb-a94c-4d51-bdbc-62703fc900c8/",
+"related_url": "https://api.openverse.org/v1/audio/d6e093eb-a94c-4d51-bdbc-62703fc900c8/related/",
+"waveform": "https://api.openverse.org/v1/audio/d6e093eb-a94c-4d51-bdbc-62703fc900c8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7adafb0f-a98d-42f8-84d0-846e3077830c",
+"title": "Eye Of The Storm",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1165004",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1165004&format=mp32",
+"creator": "Modern Pitch",
+"creator_url": "https://www.jamendo.com/artist/444576/Modern_Pitch",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"indie",
+"indierock",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "bass",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "drums",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Eye Of The Storm\" by Modern Pitch is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Eye Of The Storm",
+"foreign_landing_url": "https://www.jamendo.com/album/140048/eye-of-the-storm",
+"creator": "Modern Pitch",
+"creator_url": "https://www.jamendo.com/artist/444576/Modern_Pitch",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 294000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/7adafb0f-a98d-42f8-84d0-846e3077830c/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/7adafb0f-a98d-42f8-84d0-846e3077830c/",
+"related_url": "https://api.openverse.org/v1/audio/7adafb0f-a98d-42f8-84d0-846e3077830c/related/",
+"waveform": "https://api.openverse.org/v1/audio/7adafb0f-a98d-42f8-84d0-846e3077830c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c9d2c766-79c3-4cda-b5ce-67eb085ed641",
+"title": "Storm",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/171149",
+"url": "https://prod-1.storage.jamendo.com/?trackid=171149&format=mp32",
+"creator": "A.K.1974",
+"creator_url": "https://www.jamendo.com/artist/6131/a.k.1974",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "lounge",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Storm\" by A.K.1974 is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "SEA, A Chilled Experience Vol.1",
+"foreign_landing_url": "https://www.jamendo.com/album/25190/sea-a-chilled-experience-vol-1",
+"creator": "A.K.1974",
+"creator_url": "https://www.jamendo.com/artist/6131/a.k.1974",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 163000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/c9d2c766-79c3-4cda-b5ce-67eb085ed641/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/c9d2c766-79c3-4cda-b5ce-67eb085ed641/",
+"related_url": "https://api.openverse.org/v1/audio/c9d2c766-79c3-4cda-b5ce-67eb085ed641/related/",
+"waveform": "https://api.openverse.org/v1/audio/c9d2c766-79c3-4cda-b5ce-67eb085ed641/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c0d7276b-3c7f-42f7-8280-18196c473121",
+"title": "Johaness Gilther - Storm",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/120730",
+"url": "https://prod-1.storage.jamendo.com/?trackid=120730&format=mp32",
+"creator": "2Inventions",
+"creator_url": "https://www.jamendo.com/artist/5721/2invention",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"dance",
+"electronic",
+"trance"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "uplifting",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Johaness Gilther - Storm\" by 2Inventions is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Disorientation",
+"foreign_landing_url": "https://www.jamendo.com/album/16655/disorientation",
+"creator": "2Inventions",
+"creator_url": "https://www.jamendo.com/artist/5721/2invention",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 254000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/c0d7276b-3c7f-42f7-8280-18196c473121/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/c0d7276b-3c7f-42f7-8280-18196c473121/",
+"related_url": "https://api.openverse.org/v1/audio/c0d7276b-3c7f-42f7-8280-18196c473121/related/",
+"waveform": "https://api.openverse.org/v1/audio/c0d7276b-3c7f-42f7-8280-18196c473121/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e487946f-9bb8-408d-b607-512c41d354f5",
+"title": "Storm For Passion",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1559160",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1559160&format=mp32",
+"creator": "Solxis",
+"creator_url": "https://www.jamendo.com/artist/435992/Solxis_(3)",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"jazz",
+"smoothjazz"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "electricguitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "soft",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "trumpet",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Storm For Passion\" by Solxis is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Smooth Jazz Serenade Volume 1",
+"foreign_landing_url": "https://www.jamendo.com/album/177887/smooth-jazz-serenade-volume-1",
+"creator": "Solxis",
+"creator_url": "https://www.jamendo.com/artist/435992/Solxis_(3)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 270000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e487946f-9bb8-408d-b607-512c41d354f5/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e487946f-9bb8-408d-b607-512c41d354f5/",
+"related_url": "https://api.openverse.org/v1/audio/e487946f-9bb8-408d-b607-512c41d354f5/related/",
+"waveform": "https://api.openverse.org/v1/audio/e487946f-9bb8-408d-b607-512c41d354f5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "283524c4-441d-4962-a1e5-67ae5e7bb632",
+"title": "Storm",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1067788",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1067788&format=mp32",
+"creator": "maiNaim",
+"creator_url": "https://www.jamendo.com/artist/433964/maiNaim",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"hiphop",
+"pop",
+"rap"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "deutschsprachig",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Storm\" by maiNaim is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Musik EP by Stefanie H\u00f6gl & maiNaim",
+"foreign_landing_url": "https://www.jamendo.com/album/126210/musik-ep-by-stefanie-hoegl-and-mainaim",
+"creator": "maiNaim",
+"creator_url": "https://www.jamendo.com/artist/433964/maiNaim",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 295000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/283524c4-441d-4962-a1e5-67ae5e7bb632/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/283524c4-441d-4962-a1e5-67ae5e7bb632/",
+"related_url": "https://api.openverse.org/v1/audio/283524c4-441d-4962-a1e5-67ae5e7bb632/related/",
+"waveform": "https://api.openverse.org/v1/audio/283524c4-441d-4962-a1e5-67ae5e7bb632/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2312afab-b3de-41af-bc1f-0d246bb71a4a",
+"title": "A Storm Is Coming",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1662462",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1662462&format=mp32",
+"creator": "GrayMic",
+"creator_url": "https://www.jamendo.com/artist/513676/GrayMic",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"gypsy",
+"jazz"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "doublebass",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "upbeat",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"A Storm Is Coming\" by GrayMic is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Gypsy Mood",
+"foreign_landing_url": "https://www.jamendo.com/album/186063/gypsy-mood",
+"creator": "GrayMic",
+"creator_url": "https://www.jamendo.com/artist/513676/GrayMic",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 189000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/2312afab-b3de-41af-bc1f-0d246bb71a4a/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/2312afab-b3de-41af-bc1f-0d246bb71a4a/",
+"related_url": "https://api.openverse.org/v1/audio/2312afab-b3de-41af-bc1f-0d246bb71a4a/related/",
+"waveform": "https://api.openverse.org/v1/audio/2312afab-b3de-41af-bc1f-0d246bb71a4a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "958e397c-1ae5-49c3-b4e6-bf7ac5a45cb9",
+"title": "Urban English Thunder Storm July 2014",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/kernowrules/sounds/242888",
+"url": "https://cdn.freesound.org/previews/242/242888_3692011-hq.mp3",
+"creator": "kernowrules",
+"creator_url": "https://freesound.org/people/kernowrules",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 41803968,
+"filetype": "mp3",
+"tags": [
+{
+"name": "2014",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "English",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "July",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Storm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Thunder",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Urban",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "back",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cotswolds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kernowrules",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lightening",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "near",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rain",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rumble",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "storm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "summer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "thunder",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "thunderstorm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "uk",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "weather",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "yard",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/242888/download/",
+"bit_rate": 0,
+"filesize": 144611585,
+"filetype": "flac",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Urban English Thunder Storm July 2014\" by kernowrules is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Gloucestershire, England",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/12688/",
+"creator": "kernowrules",
+"creator_url": "https://freesound.org/people/kernowrules/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 1849360,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/958e397c-1ae5-49c3-b4e6-bf7ac5a45cb9/",
+"related_url": "https://api.openverse.org/v1/audio/958e397c-1ae5-49c3-b4e6-bf7ac5a45cb9/related/",
+"waveform": "https://api.openverse.org/v1/audio/958e397c-1ae5-49c3-b4e6-bf7ac5a45cb9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "671672cb-ee32-4181-aba0-7984b0af8593",
+"title": "DMP013016 HEAVY SNOW STORM MS.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/martypinso/sounds/35480",
+"url": "https://cdn.freesound.org/previews/35/35480_85523-hq.mp3",
+"creator": "martypinso",
+"creator_url": "https://freesound.org/people/martypinso",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 4977216,
+"filetype": "mp3",
+"tags": [
+{
+"name": "freq",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "high",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "snow",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "storm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wind",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/35480/download/",
+"bit_rate": 0,
+"filesize": 40952976,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"DMP013016 HEAVY SNOW STORM MS.wav\" by martypinso is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 213291,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/671672cb-ee32-4181-aba0-7984b0af8593/",
+"related_url": "https://api.openverse.org/v1/audio/671672cb-ee32-4181-aba0-7984b0af8593/related/",
+"waveform": "https://api.openverse.org/v1/audio/671672cb-ee32-4181-aba0-7984b0af8593/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0718b3ec-e20a-4364-aade-be8f319116ad",
+"title": "Bit Storm [Chiptune]",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1406193",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1406193&format=mp32",
+"creator": "Hardcore Scm",
+"creator_url": "https://www.jamendo.com/artist/366513/Hardcore_Scm",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"8bit",
+"electronic",
+"electronica"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Bit Storm [Chiptune]\" by Hardcore Scm is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Hardcore Scm - 2016",
+"foreign_landing_url": "https://www.jamendo.com/album/164404/hardcore-scm-2016",
+"creator": "Hardcore Scm",
+"creator_url": "https://www.jamendo.com/artist/366513/Hardcore_Scm",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 340000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/0718b3ec-e20a-4364-aade-be8f319116ad/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/0718b3ec-e20a-4364-aade-be8f319116ad/",
+"related_url": "https://api.openverse.org/v1/audio/0718b3ec-e20a-4364-aade-be8f319116ad/related/",
+"waveform": "https://api.openverse.org/v1/audio/0718b3ec-e20a-4364-aade-be8f319116ad/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cbab714a-6cd6-4e25-a8b5-1614bcc8b17b",
+"title": "Storm wind.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/juskiddink/sounds/59818",
+"url": "https://cdn.freesound.org/previews/59/59818_649468-hq.mp3",
+"creator": "juskiddink",
+"creator_url": "https://freesound.org/people/juskiddink",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 960959,
+"filetype": "mp3",
+"tags": [
+{
+"name": "blowing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "force",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gale",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gust",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "storm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "trees",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wind",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/59818/download/",
+"bit_rate": 0,
+"filesize": 7400574,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Storm wind.wav\" by juskiddink is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Storm and strong wind",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/5296/",
+"creator": "juskiddink",
+"creator_url": "https://freesound.org/people/juskiddink/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 41952,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cbab714a-6cd6-4e25-a8b5-1614bcc8b17b/",
+"related_url": "https://api.openverse.org/v1/audio/cbab714a-6cd6-4e25-a8b5-1614bcc8b17b/related/",
+"waveform": "https://api.openverse.org/v1/audio/cbab714a-6cd6-4e25-a8b5-1614bcc8b17b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e0ac425a-3edb-4d82-beb1-c73a63e31461",
+"title": "A Line Storm Song",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1538436",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1538436&format=mp32",
+"creator": "Saint Anyway",
+"creator_url": "https://www.jamendo.com/artist/508202/Saint_Anyway",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"americana",
+"bluegrass",
+"folk"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "banjo",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"A Line Storm Song\" by Saint Anyway is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Here On The Ground",
+"foreign_landing_url": "https://www.jamendo.com/album/176009/here-on-the-ground",
+"creator": "Saint Anyway",
+"creator_url": "https://www.jamendo.com/artist/508202/Saint_Anyway",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 279000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e0ac425a-3edb-4d82-beb1-c73a63e31461/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e0ac425a-3edb-4d82-beb1-c73a63e31461/",
+"related_url": "https://api.openverse.org/v1/audio/e0ac425a-3edb-4d82-beb1-c73a63e31461/related/",
+"waveform": "https://api.openverse.org/v1/audio/e0ac425a-3edb-4d82-beb1-c73a63e31461/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "870566b2-c6e5-4f4b-b0f3-237d55c91a87",
+"title": "Mode storm",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/151030",
+"url": "https://prod-1.storage.jamendo.com/?trackid=151030&format=mp32",
+"creator": "Torley on Piano",
+"creator_url": "https://www.jamendo.com/artist/338247/Torley_on_Piano",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"classical"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Mode storm\" by Torley on Piano is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "solo piano 7: Improvisations for a New Age",
+"foreign_landing_url": "https://www.jamendo.com/album/21576/solo-piano-7-improvisations-for-a-new-age",
+"creator": "Torley on Piano",
+"creator_url": "https://www.jamendo.com/artist/338247/Torley_on_Piano",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 185000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/870566b2-c6e5-4f4b-b0f3-237d55c91a87/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/870566b2-c6e5-4f4b-b0f3-237d55c91a87/",
+"related_url": "https://api.openverse.org/v1/audio/870566b2-c6e5-4f4b-b0f3-237d55c91a87/related/",
+"waveform": "https://api.openverse.org/v1/audio/870566b2-c6e5-4f4b-b0f3-237d55c91a87/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ead8b4e7-5011-440a-9d85-79a89e97d26a",
+"title": "Storm Petrel (Hydrobates pelagicus)",
+"indexed_on": "2023-07-02T13:33:17.194038Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=44609694",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Storm_Petrel_%28Hydrobates_pelagicus%29_%28W1CDR0001395_BD7%29.ogg",
+"creator": null,
+"creator_url": null,
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 3680971,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"<div class='fn'> Storm Petrel (Hydrobates pelagicus)</div>\" is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 125428,
+"bit_rate": 239920,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ead8b4e7-5011-440a-9d85-79a89e97d26a/",
+"related_url": "https://api.openverse.org/v1/audio/ead8b4e7-5011-440a-9d85-79a89e97d26a/related/",
+"waveform": "https://api.openverse.org/v1/audio/ead8b4e7-5011-440a-9d85-79a89e97d26a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f1e9bb5c-9812-484b-8f8d-a9452f550a34",
+"title": "Storm",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/crooner/sounds/250677",
+"url": "https://cdn.freesound.org/previews/250/250677_149018-hq.mp3",
+"creator": "crooner",
+"creator_url": "https://freesound.org/people/crooner",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 10360626,
+"filetype": "mp3",
+"tags": [
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rain",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "storm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "thunder",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "thunderstorm",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/250677/download/",
+"bit_rate": 0,
+"filesize": 80187828,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Storm\" by crooner is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 454578,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f1e9bb5c-9812-484b-8f8d-a9452f550a34/",
+"related_url": "https://api.openverse.org/v1/audio/f1e9bb5c-9812-484b-8f8d-a9452f550a34/related/",
+"waveform": "https://api.openverse.org/v1/audio/f1e9bb5c-9812-484b-8f8d-a9452f550a34/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e88573ac-5663-420b-a59e-020e97a958dc",
+"title": "Storms",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/368742",
+"url": "https://prod-1.storage.jamendo.com/?trackid=368742&format=mp32",
+"creator": "Singleton",
+"creator_url": "https://www.jamendo.com/artist/351337/SINGLETON",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"indie",
+"indierock",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "electricguitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "ukrainian",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Storms\" by Singleton is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Storms",
+"foreign_landing_url": "https://www.jamendo.com/album/47420/storms",
+"creator": "Singleton",
+"creator_url": "https://www.jamendo.com/artist/351337/SINGLETON",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 266000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e88573ac-5663-420b-a59e-020e97a958dc/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e88573ac-5663-420b-a59e-020e97a958dc/",
+"related_url": "https://api.openverse.org/v1/audio/e88573ac-5663-420b-a59e-020e97a958dc/related/",
+"waveform": "https://api.openverse.org/v1/audio/e88573ac-5663-420b-a59e-020e97a958dc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "702f04a1-15d5-4666-b8f8-c999f38ea56c",
+"title": "After The Storm",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/171150",
+"url": "https://prod-1.storage.jamendo.com/?trackid=171150&format=mp32",
+"creator": "A.K.1974",
+"creator_url": "https://www.jamendo.com/artist/6131/a.k.1974",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"chillout",
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"After The Storm\" by A.K.1974 is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "SEA, A Chilled Experience Vol.1",
+"foreign_landing_url": "https://www.jamendo.com/album/25190/sea-a-chilled-experience-vol-1",
+"creator": "A.K.1974",
+"creator_url": "https://www.jamendo.com/artist/6131/a.k.1974",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 160000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/702f04a1-15d5-4666-b8f8-c999f38ea56c/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/702f04a1-15d5-4666-b8f8-c999f38ea56c/",
+"related_url": "https://api.openverse.org/v1/audio/702f04a1-15d5-4666-b8f8-c999f38ea56c/related/",
+"waveform": "https://api.openverse.org/v1/audio/702f04a1-15d5-4666-b8f8-c999f38ea56c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "577f23fd-2f62-4fc4-b422-24c60f377626",
+"title": "Diabolic country before the storm",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/48802",
+"url": "https://prod-1.storage.jamendo.com/?trackid=48802&format=mp32",
+"creator": "Redmind",
+"creator_url": "https://www.jamendo.com/artist/887/redmind",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"country"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "county",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "fun",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Diabolic country before the storm\" by Redmind is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "No Face",
+"foreign_landing_url": "https://www.jamendo.com/album/5919/no-face",
+"creator": "Redmind",
+"creator_url": "https://www.jamendo.com/artist/887/redmind",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 65000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/577f23fd-2f62-4fc4-b422-24c60f377626/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/577f23fd-2f62-4fc4-b422-24c60f377626/",
+"related_url": "https://api.openverse.org/v1/audio/577f23fd-2f62-4fc4-b422-24c60f377626/related/",
+"waveform": "https://api.openverse.org/v1/audio/577f23fd-2f62-4fc4-b422-24c60f377626/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e6dd05df-7211-4750-9f72-4b0a682fb347",
+"title": "against the storm",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/302718",
+"url": "https://prod-1.storage.jamendo.com/?trackid=302718&format=mp32",
+"creator": "yunus-piano",
+"creator_url": "https://www.jamendo.com/artist/348501/Yunus_(2)",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"classical",
+"classicrock",
+"newage"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "epic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "melancoly",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"against the storm\" by yunus-piano is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "running against time",
+"foreign_landing_url": "https://www.jamendo.com/album/41619/running-against-time",
+"creator": "yunus-piano",
+"creator_url": "https://www.jamendo.com/artist/348501/Yunus_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 350000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e6dd05df-7211-4750-9f72-4b0a682fb347/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e6dd05df-7211-4750-9f72-4b0a682fb347/",
+"related_url": "https://api.openverse.org/v1/audio/e6dd05df-7211-4750-9f72-4b0a682fb347/related/",
+"waveform": "https://api.openverse.org/v1/audio/e6dd05df-7211-4750-9f72-4b0a682fb347/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "953255e0-1acd-48db-8866-6fdb03fb23a3",
+"title": "Night Storm",
+"indexed_on": "2023-05-04T00:05:01.880122Z",
+"foreign_landing_url": "https://www.jamendo.com/track/135215",
+"url": "https://prod-1.storage.jamendo.com/?trackid=135215&format=mp32",
+"creator": "Dreamerion",
+"creator_url": "https://www.jamendo.com/artist/338205/Dreamerion",
+"license": "by-nc-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.5/pl/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Night Storm\" by Dreamerion is licensed under CC BY-NC-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.5/pl/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Pain Without Name",
+"foreign_landing_url": "https://www.jamendo.com/album/19243/the-pain-without-name",
+"creator": "Dreamerion",
+"creator_url": "https://www.jamendo.com/artist/338205/Dreamerion",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 85000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/953255e0-1acd-48db-8866-6fdb03fb23a3/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/953255e0-1acd-48db-8866-6fdb03fb23a3/",
+"related_url": "https://api.openverse.org/v1/audio/953255e0-1acd-48db-8866-6fdb03fb23a3/related/",
+"waveform": "https://api.openverse.org/v1/audio/953255e0-1acd-48db-8866-6fdb03fb23a3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "992e6a69-a27f-4ede-a84a-bbfe6241d66a",
+"title": "Temple Cave Myts Storm",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/szegvari/sounds/540836",
+"url": "https://cdn.freesound.org/previews/540/540836_2282212-hq.mp3",
+"creator": "szegvari",
+"creator_url": "https://freesound.org/people/szegvari",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 655488,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Amb",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Cave",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Creepy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Eerie",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Environment",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Fantasy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Horror",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Myts",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Rain",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Scary",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Sci-Fi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Sound-Design",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Spooky",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Storm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Strange",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Temple",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Wind",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "indoor",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wind",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/540836/download/",
+"bit_rate": 0,
+"filesize": 8045754,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Temple Cave Myts Storm\" by szegvari is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 27898,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/992e6a69-a27f-4ede-a84a-bbfe6241d66a/",
+"related_url": "https://api.openverse.org/v1/audio/992e6a69-a27f-4ede-a84a-bbfe6241d66a/related/",
+"waveform": "https://api.openverse.org/v1/audio/992e6a69-a27f-4ede-a84a-bbfe6241d66a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6d44466a-9298-485e-902a-b845729ed331",
+"title": "LL-Q1860 (eng)-I learned some phrases-signage",
+"indexed_on": "2023-09-24T13:15:05.824802Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=80152284",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/56/LL-Q1860_%28eng%29-I_learned_some_phrases-signage.wav",
+"creator": "Speaker: I learned some phrases Recorder: I learned some phrases",
+"creator_url": "https://lingualibre.org/wiki/Q172230",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 117548,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-I learned some phrases-signage\" by Speaker: I learned some phrases Recorder: I learned some phrases is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1224,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/6d44466a-9298-485e-902a-b845729ed331/",
+"related_url": "https://api.openverse.org/v1/audio/6d44466a-9298-485e-902a-b845729ed331/related/",
+"waveform": "https://api.openverse.org/v1/audio/6d44466a-9298-485e-902a-b845729ed331/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e4fa640a-c6dc-476e-8222-1211f9afd401",
+"title": "En-uk-signage",
+"indexed_on": "2023-05-07T13:53:55.842930Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=81300737",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/97/En-uk-signage.oga",
+"creator": "I learned some phrases.",
+"creator_url": "https://commons.wikimedia.org/w/index.php?title=User:I_learned_some_phrases&action=edit&redlink=1",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 15163,
+"filetype": "oga",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-uk-signage\" by I learned some phrases. is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1224,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e4fa640a-c6dc-476e-8222-1211f9afd401/",
+"related_url": "https://api.openverse.org/v1/audio/e4fa640a-c6dc-476e-8222-1211f9afd401/related/",
+"waveform": "https://api.openverse.org/v1/audio/e4fa640a-c6dc-476e-8222-1211f9afd401/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2c4c9707-ae88-4ce2-abff-1c84f1c52ed4",
+"title": "LL-Q150 (fra)-Gustave en r\u5ee5idence-signage",
+"indexed_on": "2026-03-07T00:30:53.362170Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=185594960",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/74/LL-Q150_%28fra%29-Gustave_en_r%C3%A9sidence-signage.wav",
+"creator": "Speaker: Gustave en r\u00e9sidence Recorder: Gustave en r\u00e9sidence",
+"creator_url": "https://lingualibre.org/wiki/Q1606254",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 99372,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Gustave en r\u00e9sidence-signage\" by Speaker: Gustave en r\u00e9sidence Recorder: Gustave en r\u00e9sidence is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1034,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2c4c9707-ae88-4ce2-abff-1c84f1c52ed4/",
+"related_url": "https://api.openverse.org/v1/audio/2c4c9707-ae88-4ce2-abff-1c84f1c52ed4/related/",
+"waveform": "https://api.openverse.org/v1/audio/2c4c9707-ae88-4ce2-abff-1c84f1c52ed4/waveform/",
+"unstable__sensitivity": []
 }
 ]

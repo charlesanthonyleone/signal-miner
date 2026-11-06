@@ -797,5 +797,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-05T17:36:22Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 165.254.156.0/23",
+  "date": "2026-11-05",
+  "dateLabel": "sampled",
+  "count": 322,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"165.254.156.0/23\",\n  \"origin\": \"20940\",\n  \"time\": \"2015-04-15T00:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"165.254.156.0/23\",\n  \"origin\": \"20940\",\n  \"time\": \"2026-11-05T16:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 322,\n   \"total_ris_peers\": 322\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 20940,\n   \"route_objects\": []\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/165.254.156.0/23",
+  "query": "RIPEstat routing-status 165.254.156.0/23",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-05T23:46:35Z"
  }
 ]

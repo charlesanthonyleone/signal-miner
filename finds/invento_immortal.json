@@ -998,5 +998,25 @@
 "inventor": "E. Edward Baetge",
 "module": "immortal",
 "mined_at": "2026-11-05T17:39:22Z"
+},
+{
+"source": "Google Patents",
+"title": "HEART-LUNGE REVIVAL PUMP",
+"date": "1988-02-17",
+"dateLabel": "published",
+"count": null,
+"countLabel": "",
+"kind": "meta",
+"mime": "patent/text",
+"thumb": "",
+"src": "",
+"preview": "",
+"url": "https://patents.google.com/patent/DK81388A/en",
+"query": "google patents q=\"reviving\" cpc=A61H31 before 2000",
+"extra": "patent DK81388A \u00b7 inventor Allan Samuel Garfield",
+"patent_number": "DK81388A",
+"inventor": "Allan Samuel Garfield",
+"module": "immortal",
+"mined_at": "2026-11-06T00:05:59Z"
 }
 ]
