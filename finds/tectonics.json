@@ -882,5 +882,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-07T06:15:45Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 34.4.32.0/20",
+  "date": "2026-11-07",
+  "dateLabel": "sampled",
+  "count": 320,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"34.4.32.0/20\",\n  \"origin\": \"15169,19527\",\n  \"time\": \"2025-08-15T00:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"34.4.32.0/20\",\n  \"origin\": \"19527,43515,15169\",\n  \"time\": \"2026-11-07T08:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 320,\n   \"total_ris_peers\": 321\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 15169,\n   \"route_objects\": [\n    \"RADB\"\n   ]\n  },\n  {\n   \"origin\": 43515,\n   \"route_objects\": [\n    \"RADB\"\n   ]\n  },\n  {\n   \"origin\": 19527,\n   \"route_objects\": [\n    \"RADB\"\n   ]\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/34.4.32.0/20",
+  "query": "RIPEstat routing-status 34.4.32.0/20",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-07T13:15:49Z"
  }
 ]

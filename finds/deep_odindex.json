@@ -41298,5 +41298,201 @@
 ]
 ],
 "mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "README.txt",
+"date": "04-Jun-2026 08:31",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "98",
+"ftype": "text",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/rocky/10.1/README.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "text \uff77 98 \uff77 04-Jun-2026 08:31 \uff77 in https://ftp.cc.uoc.gr/rocky/10.1/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/rocky/10.1/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/rocky/10.1/"
+]
+],
+"mined_at": "2026-11-07T13:18:40Z"
+},
+{
+"source": "Open Directory",
+"title": "optopas2.tar",
+"date": "1995-11-14 07:39",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "50K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/math/optopas/optopas2.tar",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 50K \uff77 1995-11-14 07:39 \uff77 in https://ftp.funet.fi/pub/sci/math/optopas/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/math/optopas/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/math/optopas/"
+]
+],
+"mined_at": "2026-11-07T13:18:40Z"
+},
+{
+"source": "Open Directory",
+"title": "opas.ps.Z",
+"date": "1993-12-15 10:52",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "156K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/math/optopas/opas.ps.Z",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 156K \uff77 1993-12-15 10:52 \uff77 in https://ftp.funet.fi/pub/sci/math/optopas/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/math/optopas/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/math/optopas/"
+]
+],
+"mined_at": "2026-11-07T13:18:40Z"
+},
+{
+"source": "Open Directory",
+"title": "00README",
+"date": "1992-05-18 12:49",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "448",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/math/riemann/00README",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "text \uff77 448 \uff77 1992-05-18 12:49 \uff77 in https://ftp.funet.fi/pub/sci/math/riemann/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/math/riemann/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/math/riemann/"
+]
+],
+"mined_at": "2026-11-07T13:18:40Z"
+},
+{
+"source": "Open Directory",
+"title": "MODELS.info",
+"date": "1995-11-14 07:38",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "866",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/math/optopas/MODELS.info",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 866 \uff77 1995-11-14 07:38 \uff77 in https://ftp.funet.fi/pub/sci/math/optopas/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/math/optopas/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/math/optopas/"
+]
+],
+"mined_at": "2026-11-07T13:18:40Z"
+},
+{
+"source": "Open Directory",
+"title": "optopas.tar",
+"date": "1995-11-14 07:41",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "80K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/math/optopas/optopas.tar",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 80K \uff77 1995-11-14 07:41 \uff77 in https://ftp.funet.fi/pub/sci/math/optopas/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/math/optopas/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/math/optopas/"
+]
+],
+"mined_at": "2026-11-07T13:18:40Z"
+},
+{
+"source": "Open Directory",
+"title": "00README",
+"date": "1995-11-14 07:43",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.0K",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/math/optopas/00README",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "text \uff77 1.0K \uff77 1995-11-14 07:43 \uff77 in https://ftp.funet.fi/pub/sci/math/optopas/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/math/optopas/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/math/optopas/"
+]
+],
+"mined_at": "2026-11-07T13:18:40Z"
 }
 ]

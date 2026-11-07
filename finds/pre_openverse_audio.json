@@ -63305,5 +63305,2457 @@
 "related_url": "https://api.openverse.org/v1/audio/9d2cac4f-8f1d-40e1-b158-d43642cf25a4/related/",
 "waveform": "https://api.openverse.org/v1/audio/9d2cac4f-8f1d-40e1-b158-d43642cf25a4/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "f93f343d-1fdb-4324-8d63-e0e5741c19ee",
+"title": "SECRET SOCIETY Ft Whosane & Stash a Mill Prod by 2lordz",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1093110",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1093110&format=mp32",
+"creator": "Dollarmentary",
+"creator_url": "https://www.jamendo.com/artist/440604/Dollarmentary",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"hiphop",
+"rap",
+"soul"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "undergroundhiphop",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"SECRET SOCIETY Ft Whosane & Stash a Mill Prod by 2lordz\" by Dollarmentary is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "America's Baby",
+"foreign_landing_url": "https://www.jamendo.com/album/130310/america-s-baby",
+"creator": "Dollarmentary",
+"creator_url": "https://www.jamendo.com/artist/440604/Dollarmentary",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 284000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/f93f343d-1fdb-4324-8d63-e0e5741c19ee/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/f93f343d-1fdb-4324-8d63-e0e5741c19ee/",
+"related_url": "https://api.openverse.org/v1/audio/f93f343d-1fdb-4324-8d63-e0e5741c19ee/related/",
+"waveform": "https://api.openverse.org/v1/audio/f93f343d-1fdb-4324-8d63-e0e5741c19ee/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f682f7db-bb7c-460b-88a4-8d9b10b46bd9",
+"title": "En-au-water to one's mill",
+"indexed_on": "2023-11-12T17:56:19.512765Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=79170226",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/98/En-au-water_to_one%27s_mill.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 19423,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-au-water to one's mill\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1485,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f682f7db-bb7c-460b-88a4-8d9b10b46bd9/",
+"related_url": "https://api.openverse.org/v1/audio/f682f7db-bb7c-460b-88a4-8d9b10b46bd9/related/",
+"waveform": "https://api.openverse.org/v1/audio/f682f7db-bb7c-460b-88a4-8d9b10b46bd9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2dfe59b4-c08d-4dd8-9f91-3fd56c7c1d6b",
+"title": "En-au-pill mill",
+"indexed_on": "2023-02-12T13:30:54.215280Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=79125678",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/En-au-pill_mill.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 14987,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-au-pill mill\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1044,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2dfe59b4-c08d-4dd8-9f91-3fd56c7c1d6b/",
+"related_url": "https://api.openverse.org/v1/audio/2dfe59b4-c08d-4dd8-9f91-3fd56c7c1d6b/related/",
+"waveform": "https://api.openverse.org/v1/audio/2dfe59b4-c08d-4dd8-9f91-3fd56c7c1d6b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e8e47b36-9a97-4f86-b677-abf745ae592a",
+"title": "En-au-through the mill",
+"indexed_on": "2023-08-13T14:56:22.785054Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=79153817",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/En-au-through_the_mill.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16071,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-au-through the mill\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1148,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e8e47b36-9a97-4f86-b677-abf745ae592a/",
+"related_url": "https://api.openverse.org/v1/audio/e8e47b36-9a97-4f86-b677-abf745ae592a/related/",
+"waveform": "https://api.openverse.org/v1/audio/e8e47b36-9a97-4f86-b677-abf745ae592a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a5d1c5ad-012b-4bfd-b14d-2aa8bf4143d9",
+"title": "Janet Mills on her style of governing and legislative accomplishments",
+"indexed_on": "2024-12-05T00:14:57.753733Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=156247265",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Janet_Mills_on_her_style_of_governing_and_legislative_accomplishments.ogg",
+"creator": "Portland Media Center",
+"creator_url": null,
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 4257896,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Janet Mills on her style of governing and legislative accomplishments\" by Portland Media Center is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 236800,
+"bit_rate": null,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a5d1c5ad-012b-4bfd-b14d-2aa8bf4143d9/",
+"related_url": "https://api.openverse.org/v1/audio/a5d1c5ad-012b-4bfd-b14d-2aa8bf4143d9/related/",
+"waveform": "https://api.openverse.org/v1/audio/a5d1c5ad-012b-4bfd-b14d-2aa8bf4143d9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0236146e-1a1d-412a-b56d-cb3ad7851c50",
+"title": "De-Mill.2",
+"indexed_on": "2023-02-26T14:59:14.371531Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=96805674",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/df/De-Mill.2.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 21710,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-Mill.2\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2210,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0236146e-1a1d-412a-b56d-cb3ad7851c50/",
+"related_url": "https://api.openverse.org/v1/audio/0236146e-1a1d-412a-b56d-cb3ad7851c50/related/",
+"waveform": "https://api.openverse.org/v1/audio/0236146e-1a1d-412a-b56d-cb3ad7851c50/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fd3cbda4-3260-4d7c-b919-2ecec9312257",
+"title": "En-au-trouble at mill",
+"indexed_on": "2023-11-12T17:56:19.512765Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=79170390",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/En-au-trouble_at_mill.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16817,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-au-trouble at mill\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1214,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/fd3cbda4-3260-4d7c-b919-2ecec9312257/",
+"related_url": "https://api.openverse.org/v1/audio/fd3cbda4-3260-4d7c-b919-2ecec9312257/related/",
+"waveform": "https://api.openverse.org/v1/audio/fd3cbda4-3260-4d7c-b919-2ecec9312257/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1448d087-ef3c-41d1-b551-6339cb86c8d7",
+"title": "LL-Q150 (fra)-J\u959e\u9599y-G\u9ef1ther-Heinz J\u92d2nick-Hamme-Mille",
+"indexed_on": "2024-01-26T00:08:57.647501Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=144551519",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/LL-Q150_%28fra%29-J%C3%A9r%C3%A9my-G%C3%BCnther-Heinz_J%C3%A4hnick-Hamme-Mille.wav",
+"creator": "Speaker: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick Recorder: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick",
+"creator_url": "https://lingualibre.org/wiki/Q1094311",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 108076,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick-Hamme-Mille\" by Speaker: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick Recorder: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1125,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1448d087-ef3c-41d1-b551-6339cb86c8d7/",
+"related_url": "https://api.openverse.org/v1/audio/1448d087-ef3c-41d1-b551-6339cb86c8d7/related/",
+"waveform": "https://api.openverse.org/v1/audio/1448d087-ef3c-41d1-b551-6339cb86c8d7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fb6a5f3a-75b0-4d35-8045-2b8fbbe7f437",
+"title": "LL-Q150 (fra)-WikiLucas00-valoir mille",
+"indexed_on": "2023-05-07T13:53:55.842930Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=81308319",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/LL-Q150_%28fra%29-WikiLucas00-valoir_mille.wav",
+"creator": "Speaker: WikiLucas00 Recorder: WikiLucas00",
+"creator_url": "https://lingualibre.org/wiki/Q102123",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 133932,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-WikiLucas00-valoir mille\" by Speaker: WikiLucas00 Recorder: WikiLucas00 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1394,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/fb6a5f3a-75b0-4d35-8045-2b8fbbe7f437/",
+"related_url": "https://api.openverse.org/v1/audio/fb6a5f3a-75b0-4d35-8045-2b8fbbe7f437/related/",
+"waveform": "https://api.openverse.org/v1/audio/fb6a5f3a-75b0-4d35-8045-2b8fbbe7f437/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8d2a38bd-5889-407d-97e8-bcab478271a7",
+"title": "LL-Q150 (fra)-WikiLucas00-mille mercis",
+"indexed_on": "2023-12-03T14:17:00.451141Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=79693711",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/LL-Q150_%28fra%29-WikiLucas00-mille_mercis.wav",
+"creator": "Speaker: WikiLucas00 Recorder: WikiLucas00",
+"creator_url": "https://lingualibre.org/wiki/Q102123",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-WikiLucas00-mille mercis\" by Speaker: WikiLucas00 Recorder: WikiLucas00 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8d2a38bd-5889-407d-97e8-bcab478271a7/",
+"related_url": "https://api.openverse.org/v1/audio/8d2a38bd-5889-407d-97e8-bcab478271a7/related/",
+"waveform": "https://api.openverse.org/v1/audio/8d2a38bd-5889-407d-97e8-bcab478271a7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e15ec8bb-dc53-49fc-b1a7-4f019ff8e6da",
+"title": "LL-Q150 (fra)-WikiLucas00-faire mille hontes",
+"indexed_on": "2023-06-25T11:16:26.335033Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=80132850",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/32/LL-Q150_%28fra%29-WikiLucas00-faire_mille_hontes.wav",
+"creator": "Speaker: WikiLucas00 Recorder: WikiLucas00",
+"creator_url": "https://lingualibre.org/wiki/Q102123",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 133932,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-WikiLucas00-faire mille hontes\" by Speaker: WikiLucas00 Recorder: WikiLucas00 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1394,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e15ec8bb-dc53-49fc-b1a7-4f019ff8e6da/",
+"related_url": "https://api.openverse.org/v1/audio/e15ec8bb-dc53-49fc-b1a7-4f019ff8e6da/related/",
+"waveform": "https://api.openverse.org/v1/audio/e15ec8bb-dc53-49fc-b1a7-4f019ff8e6da/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d5dc9129-335a-4a2f-bb56-d8df13eda2fc",
+"title": "LL-Q150 (fra)-DenisdeShawi-pays des mille collines",
+"indexed_on": "2023-02-05T12:28:16.336181Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=95805705",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/LL-Q150_%28fra%29-DenisdeShawi-pays_des_mille_collines.wav",
+"creator": "Speaker: DenisdeShawi Recorder: DenisdeShawi",
+"creator_url": "https://lingualibre.org/wiki/Q308866",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 156948,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-DenisdeShawi-pays des mille collines\" by Speaker: DenisdeShawi Recorder: DenisdeShawi is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1778,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d5dc9129-335a-4a2f-bb56-d8df13eda2fc/",
+"related_url": "https://api.openverse.org/v1/audio/d5dc9129-335a-4a2f-bb56-d8df13eda2fc/related/",
+"waveform": "https://api.openverse.org/v1/audio/d5dc9129-335a-4a2f-bb56-d8df13eda2fc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6c00192a-ebed-4ccb-b492-8c169895097a",
+"title": "LL-Q150 (fra)-J\u959e\u9599y-G\u9ef1ther-Heinz J\u92d2nick-briller de mille feux",
+"indexed_on": "2024-01-19T00:11:00.079291Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=144210218",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/24/LL-Q150_%28fra%29-J%C3%A9r%C3%A9my-G%C3%BCnther-Heinz_J%C3%A4hnick-briller_de_mille_feux.wav",
+"creator": "Speaker: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick Recorder: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick",
+"creator_url": "https://lingualibre.org/wiki/Q1094311",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 144940,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick-briller de mille feux\" by Speaker: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick Recorder: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1509,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/6c00192a-ebed-4ccb-b492-8c169895097a/",
+"related_url": "https://api.openverse.org/v1/audio/6c00192a-ebed-4ccb-b492-8c169895097a/related/",
+"waveform": "https://api.openverse.org/v1/audio/6c00192a-ebed-4ccb-b492-8c169895097a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "be6e8519-42db-4bbb-bd94-a20529251b7d",
+"title": "LL-Q150 (fra)-J\u959e\u9599y-G\u9ef1ther-Heinz J\u92d2nick-le donner en mille",
+"indexed_on": "2024-01-23T00:06:56.997613Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=144423983",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/LL-Q150_%28fra%29-J%C3%A9r%C3%A9my-G%C3%BCnther-Heinz_J%C3%A4hnick-le_donner_en_mille.wav",
+"creator": "Speaker: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick Recorder: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick",
+"creator_url": "https://lingualibre.org/wiki/Q1094311",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 134700,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick-le donner en mille\" by Speaker: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick Recorder: J\u00e9r\u00e9my-G\u00fcnther-Heinz J\u00e4hnick is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1402,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/be6e8519-42db-4bbb-bd94-a20529251b7d/",
+"related_url": "https://api.openverse.org/v1/audio/be6e8519-42db-4bbb-bd94-a20529251b7d/related/",
+"waveform": "https://api.openverse.org/v1/audio/be6e8519-42db-4bbb-bd94-a20529251b7d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "680d0deb-e9cb-47f9-8327-19dda84bb08c",
+"title": "LL-Q150 (fra)-WikiLucas00-aux cent mille diables",
+"indexed_on": "2024-02-25T11:38:42.868757Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=100425935",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/60/LL-Q150_%28fra%29-WikiLucas00-aux_cent_mille_diables.wav",
+"creator": "Speaker: WikiLucas00 Recorder: WikiLucas00",
+"creator_url": "http://lingualibre.org/wiki/Q102123",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 140564,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-WikiLucas00-aux cent mille diables\" by Speaker: WikiLucas00 Recorder: WikiLucas00 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1593,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/680d0deb-e9cb-47f9-8327-19dda84bb08c/",
+"related_url": "https://api.openverse.org/v1/audio/680d0deb-e9cb-47f9-8327-19dda84bb08c/related/",
+"waveform": "https://api.openverse.org/v1/audio/680d0deb-e9cb-47f9-8327-19dda84bb08c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5c99cafd-4dd1-4de2-87f0-3d3b43fd144b",
+"title": "LL-Q150 (fra)-Arthur Crbz-cent-mille",
+"indexed_on": "2022-10-30T14:39:50.282907Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=71477399",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/06/LL-Q150_%28fra%29-Arthur_Crbz-cent-mille.wav",
+"creator": "Speaker: Arthur Crbz Recorder: Arthur Crbz",
+"creator_url": "https://lingualibre.org/wiki/Q29866",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 85746,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Arthur Crbz-cent-mille\" by Speaker: Arthur Crbz Recorder: Arthur Crbz is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 971,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5c99cafd-4dd1-4de2-87f0-3d3b43fd144b/",
+"related_url": "https://api.openverse.org/v1/audio/5c99cafd-4dd1-4de2-87f0-3d3b43fd144b/related/",
+"waveform": "https://api.openverse.org/v1/audio/5c99cafd-4dd1-4de2-87f0-3d3b43fd144b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "91eb3482-f693-4ae7-9d1f-22408fa3177a",
+"title": "LL-Q150 (fra)-Lepticed7-cinq-mille",
+"indexed_on": "2023-03-12T11:24:16.176044Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=82225552",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/26/LL-Q150_%28fra%29-Lepticed7-cinq-mille.wav",
+"creator": "Speaker: Lepticed7 Recorder: Lepticed7",
+"creator_url": "https://lingualibre.org/wiki/Q51319",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Lepticed7-cinq-mille\" by Speaker: Lepticed7 Recorder: Lepticed7 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/91eb3482-f693-4ae7-9d1f-22408fa3177a/",
+"related_url": "https://api.openverse.org/v1/audio/91eb3482-f693-4ae7-9d1f-22408fa3177a/related/",
+"waveform": "https://api.openverse.org/v1/audio/91eb3482-f693-4ae7-9d1f-22408fa3177a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "650ffc45-1229-48bd-918a-f71898f7fd62",
+"title": "LL-Q150 (fra)-Lepticed7-cent-mille",
+"indexed_on": "2023-03-12T11:24:16.176044Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=82225382",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/LL-Q150_%28fra%29-Lepticed7-cent-mille.wav",
+"creator": "Speaker: Lepticed7 Recorder: Lepticed7",
+"creator_url": "https://lingualibre.org/wiki/Q51319",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 101164,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Lepticed7-cent-mille\" by Speaker: Lepticed7 Recorder: Lepticed7 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1053,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/650ffc45-1229-48bd-918a-f71898f7fd62/",
+"related_url": "https://api.openverse.org/v1/audio/650ffc45-1229-48bd-918a-f71898f7fd62/related/",
+"waveform": "https://api.openverse.org/v1/audio/650ffc45-1229-48bd-918a-f71898f7fd62/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e7c25ad6-45cd-46fd-832f-b1ad179d3e2b",
+"title": "LL-Q1860 (eng)-YassineChaouche-milling machine",
+"indexed_on": "2025-07-09T00:09:57.053741Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=169481639",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/03/LL-Q1860_%28eng%29-YassineChaouche-milling_machine.wav",
+"creator": "Speaker: YassineChaouche Recorder: YassineChaouche",
+"creator_url": "https://lingualibre.org/wiki/Q1531716",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 120596,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-YassineChaouche-milling machine\" by Speaker: YassineChaouche Recorder: YassineChaouche is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1366,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e7c25ad6-45cd-46fd-832f-b1ad179d3e2b/",
+"related_url": "https://api.openverse.org/v1/audio/e7c25ad6-45cd-46fd-832f-b1ad179d3e2b/related/",
+"waveform": "https://api.openverse.org/v1/audio/e7c25ad6-45cd-46fd-832f-b1ad179d3e2b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "73fef365-a574-43fe-9197-5739cba5f7e2",
+"title": "LL-Q7979-Soundguys-Mill Hill",
+"indexed_on": "2024-10-07T00:07:02.665224Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=153606796",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/LL-Q7979-Soundguys-Mill_Hill.wav",
+"creator": "Speaker: Soundguys Recorder: Soundguys",
+"creator_url": "https://lingualibre.org/wiki/Q1379590",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 106796,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q7979-Soundguys-Mill Hill\" by Speaker: Soundguys Recorder: Soundguys is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1112,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/73fef365-a574-43fe-9197-5739cba5f7e2/",
+"related_url": "https://api.openverse.org/v1/audio/73fef365-a574-43fe-9197-5739cba5f7e2/related/",
+"waveform": "https://api.openverse.org/v1/audio/73fef365-a574-43fe-9197-5739cba5f7e2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0071e086-e8ff-48b0-b0ef-59d47187a6ea",
+"title": "synthetic inside gradually collapsing cave with water droplets, stones of various sizes falling.mp3",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/PhantomCreations/sounds/447562",
+"url": "https://cdn.freesound.org/previews/447/447562_9273322-hq.mp3",
+"creator": "PhantomCreations",
+"creator_url": "https://freesound.org/people/PhantomCreations",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 6412554,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambiences",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "boulder",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cave",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drip",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dripping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drips",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "droplets",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dropping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drops",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rain",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rocks",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "synthesized",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "synthetic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "synthetic-ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water-droplets",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "waterfall",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wet",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/447562/download/",
+"bit_rate": 224000,
+"filesize": 7535909,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"synthetic inside gradually collapsing cave with water droplets, stones of various sizes falling.mp3\" by PhantomCreations is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "minimal ambiences",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/25338/",
+"creator": "PhantomCreations",
+"creator_url": "https://freesound.org/people/PhantomCreations/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 269128,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0071e086-e8ff-48b0-b0ef-59d47187a6ea/",
+"related_url": "https://api.openverse.org/v1/audio/0071e086-e8ff-48b0-b0ef-59d47187a6ea/related/",
+"waveform": "https://api.openverse.org/v1/audio/0071e086-e8ff-48b0-b0ef-59d47187a6ea/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bdbe6230-075a-40be-bf24-3a53c0191637",
+"title": "Sea Cave 2",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Andy_Gardner/sounds/196717",
+"url": "https://cdn.freesound.org/previews/196/196717_2254206-hq.mp3",
+"creator": "Andy_Gardner",
+"creator_url": "https://freesound.org/people/Andy_Gardner",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1586304,
+"filetype": "mp3",
+"tags": [
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cave",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drip",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sea",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "waves",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/196717/download/",
+"bit_rate": 0,
+"filesize": 25915540,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Sea Cave 2\" by Andy_Gardner is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 67488,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/bdbe6230-075a-40be-bf24-3a53c0191637/",
+"related_url": "https://api.openverse.org/v1/audio/bdbe6230-075a-40be-bf24-3a53c0191637/related/",
+"waveform": "https://api.openverse.org/v1/audio/bdbe6230-075a-40be-bf24-3a53c0191637/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3d16b8eb-3276-4569-bd11-93765e591497",
+"title": "The Secret Cave",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/776964",
+"url": "https://prod-1.storage.jamendo.com/?trackid=776964&format=mp32",
+"creator": "Kamarius",
+"creator_url": "https://www.jamendo.com/artist/347891/Kamarius",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore",
+"newage",
+"world"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "cinematic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "meditative",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "ritual",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_verylow",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The Secret Cave\" by Kamarius is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Divine Madness (2011) promo tracks",
+"foreign_landing_url": "https://www.jamendo.com/album/91065/divine-madness-2011-promo-tracks",
+"creator": "Kamarius",
+"creator_url": "https://www.jamendo.com/artist/347891/Kamarius",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 771000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/3d16b8eb-3276-4569-bd11-93765e591497/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/3d16b8eb-3276-4569-bd11-93765e591497/",
+"related_url": "https://api.openverse.org/v1/audio/3d16b8eb-3276-4569-bd11-93765e591497/related/",
+"waveform": "https://api.openverse.org/v1/audio/3d16b8eb-3276-4569-bd11-93765e591497/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2a3d59b9-049e-488f-aac3-2177c34849e3",
+"title": "drops (in a cave).wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/arnaud%20coutancier/sounds/271324",
+"url": "https://cdn.freesound.org/previews/271/271324_520316-hq.mp3",
+"creator": "arnaud coutancier",
+"creator_url": "https://freesound.org/people/arnaud%20coutancier",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2500918,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drip",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dripping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drips",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dropping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drops",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tap",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/271324/download/",
+"bit_rate": 0,
+"filesize": 18350236,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"drops (in a cave).wav\" by arnaud coutancier is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Frogerie's sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/2937/",
+"creator": "arnaud coutancier",
+"creator_url": "https://freesound.org/people/arnaud%20coutancier/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 104026,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2a3d59b9-049e-488f-aac3-2177c34849e3/",
+"related_url": "https://api.openverse.org/v1/audio/2a3d59b9-049e-488f-aac3-2177c34849e3/related/",
+"waveform": "https://api.openverse.org/v1/audio/2a3d59b9-049e-488f-aac3-2177c34849e3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cc6abc4f-03df-4a70-885e-ed9a4dc1c2d3",
+"title": "the cave ahr o2 b2 109.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/ERH/sounds/76432",
+"url": "https://cdn.freesound.org/previews/76/76432_215874-hq.mp3",
+"creator": "ERH",
+"creator_url": "https://freesound.org/people/ERH",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1283174,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cave",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "reverb",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sci-fi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "synth",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/76432/download/",
+"bit_rate": 0,
+"filesize": 9822320,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"the cave ahr o2 b2 109.wav\" by ERH is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "sci-fi alien and futuristic sounds and atmospheres",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/3681/",
+"creator": "ERH",
+"creator_url": "https://freesound.org/people/ERH/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 55681,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cc6abc4f-03df-4a70-885e-ed9a4dc1c2d3/",
+"related_url": "https://api.openverse.org/v1/audio/cc6abc4f-03df-4a70-885e-ed9a4dc1c2d3/related/",
+"waveform": "https://api.openverse.org/v1/audio/cc6abc4f-03df-4a70-885e-ed9a4dc1c2d3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "01d702a5-2658-451b-96bc-03e641ed9869",
+"title": "Dark Cave Factory Atmo.wav",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/szegvari/sounds/583474",
+"url": "https://cdn.freesound.org/previews/583/583474_2282212-hq.mp3",
+"creator": "szegvari",
+"creator_url": "https://freesound.org/people/szegvari",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1231584,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Atmo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Cave",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Cinematic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Dark",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Drone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Factory",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Film",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Horror",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Movie",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Thriller",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/583474/download/",
+"bit_rate": 0,
+"filesize": 14976044,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Dark Cave Factory Atmo.wav\" by szegvari is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 52000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/01d702a5-2658-451b-96bc-03e641ed9869/",
+"related_url": "https://api.openverse.org/v1/audio/01d702a5-2658-451b-96bc-03e641ed9869/related/",
+"waveform": "https://api.openverse.org/v1/audio/01d702a5-2658-451b-96bc-03e641ed9869/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "35a6fb5d-4d3a-4173-852c-497e33223553",
+"title": "Yeti Cave",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1321946",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1321946&format=mp32",
+"creator": "Celestial Aeon Project",
+"creator_url": "https://www.jamendo.com/artist/2740/celestial.aeon.project",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "crime",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "dark",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "eerie",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Yeti Cave\" by Celestial Aeon Project is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Tales of Maj Eyal Embers of Rage",
+"foreign_landing_url": "https://www.jamendo.com/album/156685/tales-of-maj-eyal-embers-of-rage",
+"creator": "Celestial Aeon Project",
+"creator_url": "https://www.jamendo.com/artist/2740/celestial.aeon.project",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 141000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/35a6fb5d-4d3a-4173-852c-497e33223553/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/35a6fb5d-4d3a-4173-852c-497e33223553/",
+"related_url": "https://api.openverse.org/v1/audio/35a6fb5d-4d3a-4173-852c-497e33223553/related/",
+"waveform": "https://api.openverse.org/v1/audio/35a6fb5d-4d3a-4173-852c-497e33223553/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "201795ad-5b1c-4601-8fd8-919907200172",
+"title": "Creature in da cave v2.flac",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/CGEffex/sounds/93841",
+"url": "https://cdn.freesound.org/previews/93/93841_1386366-hq.mp3",
+"creator": "CGEffex",
+"creator_url": "https://freesound.org/people/CGEffex",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 189304,
+"filetype": "mp3",
+"tags": [
+{
+"name": "cave",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "creature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "creepy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "echo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "monster",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "roar",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tense",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/93841/download/",
+"bit_rate": 0,
+"filesize": 466025,
+"filetype": "flac",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Creature in da cave v2.flac\" by CGEffex is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 8196,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/201795ad-5b1c-4601-8fd8-919907200172/",
+"related_url": "https://api.openverse.org/v1/audio/201795ad-5b1c-4601-8fd8-919907200172/related/",
+"waveform": "https://api.openverse.org/v1/audio/201795ad-5b1c-4601-8fd8-919907200172/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c85d0bcd-a73a-417c-abc3-29d9a44c2f32",
+"title": "cave taps.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/symphoid/sounds/173399",
+"url": "https://cdn.freesound.org/previews/173/173399_7604-hq.mp3",
+"creator": "symphoid",
+"creator_url": "https://freesound.org/people/symphoid",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 106368,
+"filetype": "mp3",
+"tags": [
+{
+"name": "cave",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "echo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "haunting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "reverb",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scary",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "snare",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/173399/download/",
+"bit_rate": 0,
+"filesize": 887672,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"cave taps.wav\" by symphoid is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 4623,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c85d0bcd-a73a-417c-abc3-29d9a44c2f32/",
+"related_url": "https://api.openverse.org/v1/audio/c85d0bcd-a73a-417c-abc3-29d9a44c2f32/related/",
+"waveform": "https://api.openverse.org/v1/audio/c85d0bcd-a73a-417c-abc3-29d9a44c2f32/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "18495c23-7e82-44c6-b19f-6f7a8e5bffc1",
+"title": "WMRI - Morning in Tiger Cave",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/705296",
+"url": "https://prod-1.storage.jamendo.com/?trackid=705296&format=mp32",
+"creator": "Tunguska Electronic Music Society",
+"creator_url": "https://www.jamendo.com/artist/343607/Tunguska_Chillout_Grooves_vol.1",
+"license": "by-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"WMRI - Morning in Tiger Cave\" by Tunguska Electronic Music Society is licensed under CC BY-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Ellipsis II: Tundra.Ambient.Dreams. vol.2",
+"foreign_landing_url": "https://www.jamendo.com/album/82263/ellipsis-ii-tundra-ambient-dreams-vol-2",
+"creator": "Tunguska Electronic Music Society",
+"creator_url": "https://www.jamendo.com/artist/343607/Tunguska_Chillout_Grooves_vol.1",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 606000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/18495c23-7e82-44c6-b19f-6f7a8e5bffc1/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/18495c23-7e82-44c6-b19f-6f7a8e5bffc1/",
+"related_url": "https://api.openverse.org/v1/audio/18495c23-7e82-44c6-b19f-6f7a8e5bffc1/related/",
+"waveform": "https://api.openverse.org/v1/audio/18495c23-7e82-44c6-b19f-6f7a8e5bffc1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "22dabbcf-68db-4f2e-baba-89ce6635570d",
+"title": "Cave Monster Die Sound.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/FiveBrosStopMosYT/sounds/535320",
+"url": "https://cdn.freesound.org/previews/535/535320_10403565-hq.mp3",
+"creator": "FiveBrosStopMosYT",
+"creator_url": "https://freesound.org/people/FiveBrosStopMosYT",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 60631,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Cave",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Death",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Fantasy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Hidwoods",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "MCPEDL",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Magic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Magical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Minecraft",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Monster",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Remix",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Rock",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "addon",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/535320/download/",
+"bit_rate": 0,
+"filesize": 449218,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Cave Monster Die Sound.wav\" by FiveBrosStopMosYT is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Cave Monster",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/30173/",
+"creator": "FiveBrosStopMosYT",
+"creator_url": "https://freesound.org/people/FiveBrosStopMosYT/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 2543,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/22dabbcf-68db-4f2e-baba-89ce6635570d/",
+"related_url": "https://api.openverse.org/v1/audio/22dabbcf-68db-4f2e-baba-89ce6635570d/related/",
+"waveform": "https://api.openverse.org/v1/audio/22dabbcf-68db-4f2e-baba-89ce6635570d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ce65c4fe-db78-45d5-9e51-2e2808359eb2",
+"title": "Squelchy Mouth Cave HQ.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/AndreAngelo/sounds/246230",
+"url": "https://cdn.freesound.org/previews/246/246230_4523435-hq.mp3",
+"creator": "AndreAngelo",
+"creator_url": "https://freesound.org/people/AndreAngelo",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 507888,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "binaural",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cave",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drink",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "effect",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "face",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "filmscore",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mouth",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "munch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "my",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "score",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sfx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "smack",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sounds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "squelch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/246230/download/",
+"bit_rate": 0,
+"filesize": 3338388,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Squelchy Mouth Cave HQ.wav\" by AndreAngelo is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Diverse",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/15232/",
+"creator": "AndreAngelo",
+"creator_url": "https://freesound.org/people/AndreAngelo/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 18924,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ce65c4fe-db78-45d5-9e51-2e2808359eb2/",
+"related_url": "https://api.openverse.org/v1/audio/ce65c4fe-db78-45d5-9e51-2e2808359eb2/related/",
+"waveform": "https://api.openverse.org/v1/audio/ce65c4fe-db78-45d5-9e51-2e2808359eb2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "addc4d2c-b9f2-4b2e-bd47-2de47e5da16a",
+"title": "rubble walk rocky grit cave footsteps.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/martian/sounds/207372",
+"url": "https://cdn.freesound.org/previews/207/207372_84709-hq.mp3",
+"creator": "martian",
+"creator_url": "https://freesound.org/people/martian",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1151712,
+"filetype": "mp3",
+"tags": [
+{
+"name": "cave",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "footsteps",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "grit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rocky",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rubble",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "walk",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/207372/download/",
+"bit_rate": 0,
+"filesize": 8933100,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"rubble walk rocky grit cave footsteps.wav\" by martian is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 46505,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/addc4d2c-b9f2-4b2e-bd47-2de47e5da16a/",
+"related_url": "https://api.openverse.org/v1/audio/addc4d2c-b9f2-4b2e-bd47-2de47e5da16a/related/",
+"waveform": "https://api.openverse.org/v1/audio/addc4d2c-b9f2-4b2e-bd47-2de47e5da16a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4e578151-4c7a-4efa-9571-db00c5d53152",
+"title": "INT Cave Room tone.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/deleted_user_2104797/sounds/164785",
+"url": "https://cdn.freesound.org/previews/164/164785_2104797-hq.mp3",
+"creator": "deleted_user_2104797",
+"creator_url": "https://freesound.org/people/deleted_user_2104797",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2636832,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmos",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cave",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cavern",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "room-tone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "underground",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/164785/download/",
+"bit_rate": 0,
+"filesize": 10969378,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"INT Cave Room tone.wav\" by deleted_user_2104797 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Atmosphere",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/10193/",
+"creator": "deleted_user_2104797",
+"creator_url": "https://freesound.org/people/deleted_user_2104797/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 113919,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4e578151-4c7a-4efa-9571-db00c5d53152/",
+"related_url": "https://api.openverse.org/v1/audio/4e578151-4c7a-4efa-9571-db00c5d53152/related/",
+"waveform": "https://api.openverse.org/v1/audio/4e578151-4c7a-4efa-9571-db00c5d53152/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "40dd6f64-9c65-48f8-99f7-0bc9c4005a42",
+"title": "CAVE",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/434678",
+"url": "https://prod-1.storage.jamendo.com/?trackid=434678&format=mp32",
+"creator": "LukHash",
+"creator_url": "https://www.jamendo.com/artist/353807/SH_MUSIC_(lukhash)",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"CAVE\" by LukHash is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Psyche",
+"foreign_landing_url": "https://www.jamendo.com/album/52716/psyche",
+"creator": "LukHash",
+"creator_url": "https://www.jamendo.com/artist/353807/SH_MUSIC_(lukhash)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 197000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/40dd6f64-9c65-48f8-99f7-0bc9c4005a42/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/40dd6f64-9c65-48f8-99f7-0bc9c4005a42/",
+"related_url": "https://api.openverse.org/v1/audio/40dd6f64-9c65-48f8-99f7-0bc9c4005a42/related/",
+"waveform": "https://api.openverse.org/v1/audio/40dd6f64-9c65-48f8-99f7-0bc9c4005a42/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1251b4e0-cd28-4b66-9ac3-f19ce6693713",
+"title": "Out of the Cave",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1155325",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1155325&format=mp32",
+"creator": "L'Homme Manete",
+"creator_url": "https://www.jamendo.com/artist/454164/L'Homme_Manete",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"8bit",
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "8bits",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Out of the Cave\" by L'Homme Manete is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Gaming Sessions",
+"foreign_landing_url": "https://www.jamendo.com/album/138610/gaming-sessions",
+"creator": "L'Homme Manete",
+"creator_url": "https://www.jamendo.com/artist/454164/L'Homme_Manete",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 132000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/1251b4e0-cd28-4b66-9ac3-f19ce6693713/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/1251b4e0-cd28-4b66-9ac3-f19ce6693713/",
+"related_url": "https://api.openverse.org/v1/audio/1251b4e0-cd28-4b66-9ac3-f19ce6693713/related/",
+"waveform": "https://api.openverse.org/v1/audio/1251b4e0-cd28-4b66-9ac3-f19ce6693713/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "96fc0474-497d-4ba9-a74d-713da378a08b",
+"title": "Cave",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1321938",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1321938&format=mp32",
+"creator": "Celestial Aeon Project",
+"creator_url": "https://www.jamendo.com/artist/2740/celestial.aeon.project",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "brooding",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "dark",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "scifi",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Cave\" by Celestial Aeon Project is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Tales of Maj Eyal Embers of Rage",
+"foreign_landing_url": "https://www.jamendo.com/album/156685/tales-of-maj-eyal-embers-of-rage",
+"creator": "Celestial Aeon Project",
+"creator_url": "https://www.jamendo.com/artist/2740/celestial.aeon.project",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 128000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/96fc0474-497d-4ba9-a74d-713da378a08b/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/96fc0474-497d-4ba9-a74d-713da378a08b/",
+"related_url": "https://api.openverse.org/v1/audio/96fc0474-497d-4ba9-a74d-713da378a08b/related/",
+"waveform": "https://api.openverse.org/v1/audio/96fc0474-497d-4ba9-a74d-713da378a08b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "75b2025f-11a1-4fa8-a0be-535b56c9650d",
+"title": "Jaskinia po\u015brodku \u017cycia (Cave in the middle of life)",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/516736",
+"url": "https://prod-1.storage.jamendo.com/?trackid=516736&format=mp32",
+"creator": "Dieter Werner",
+"creator_url": "https://www.jamendo.com/artist/353520/Dieter_Werner",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "dark",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "orchestra",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Jaskinia po\u015brodku \u017cycia (Cave in the middle of life)\" by Dieter Werner is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Rt\u0119\u0107 i limfa",
+"foreign_landing_url": "https://www.jamendo.com/album/60463/rtec-i-limfa",
+"creator": "Dieter Werner",
+"creator_url": "https://www.jamendo.com/artist/353520/Dieter_Werner",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 369000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/75b2025f-11a1-4fa8-a0be-535b56c9650d/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/75b2025f-11a1-4fa8-a0be-535b56c9650d/",
+"related_url": "https://api.openverse.org/v1/audio/75b2025f-11a1-4fa8-a0be-535b56c9650d/related/",
+"waveform": "https://api.openverse.org/v1/audio/75b2025f-11a1-4fa8-a0be-535b56c9650d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "782918ac-9c4c-468a-bd69-db696a4787cf",
+"title": "Cold Cave A.mp3",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/DJmastah/sounds/130855",
+"url": "https://cdn.freesound.org/previews/130/130855_2088386-hq.mp3",
+"creator": "DJmastah",
+"creator_url": "https://freesound.org/people/DJmastah",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 196072,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Boom",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Cave",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Hit",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/130855/download/",
+"bit_rate": 192000,
+"filesize": 205304,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Cold Cave A.mp3\" by DJmastah is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "MixCraft 5 Loops",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/8193/",
+"creator": "DJmastah",
+"creator_url": "https://freesound.org/people/DJmastah/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 8451,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/782918ac-9c4c-468a-bd69-db696a4787cf/",
+"related_url": "https://api.openverse.org/v1/audio/782918ac-9c4c-468a-bd69-db696a4787cf/related/",
+"waveform": "https://api.openverse.org/v1/audio/782918ac-9c4c-468a-bd69-db696a4787cf/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "dbd31081-a8d7-4a31-9b19-6af999f3b1a7",
+"title": "Cave Of Swallows",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1060000",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1060000&format=mp32",
+"creator": "Oleg O. Kachanko",
+"creator_url": "https://www.jamendo.com/artist/366162/Oleg_O._Kachanko",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"classical",
+"jazzfusion"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "quirky",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "viola",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Cave Of Swallows\" by Oleg O. Kachanko is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Imagination",
+"foreign_landing_url": "https://www.jamendo.com/album/125041/imagination",
+"creator": "Oleg O. Kachanko",
+"creator_url": "https://www.jamendo.com/artist/366162/Oleg_O._Kachanko",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 102000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/dbd31081-a8d7-4a31-9b19-6af999f3b1a7/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/dbd31081-a8d7-4a31-9b19-6af999f3b1a7/",
+"related_url": "https://api.openverse.org/v1/audio/dbd31081-a8d7-4a31-9b19-6af999f3b1a7/related/",
+"waveform": "https://api.openverse.org/v1/audio/dbd31081-a8d7-4a31-9b19-6af999f3b1a7/waveform/",
+"unstable__sensitivity": []
 }
 ]
