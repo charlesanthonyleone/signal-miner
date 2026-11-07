@@ -41494,5 +41494,845 @@
 ]
 ],
 "mined_at": "2026-11-07T13:18:40Z"
+},
+{
+"source": "Open Directory",
+"title": "TIMESTAMP",
+"date": "07-Nov-2026 13:42",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "11",
+"ftype": "text",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/tdf/TIMESTAMP",
+"mime": "text/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "text \uff77 11 \uff77 07-Nov-2026 13:42 \uff77 in https://ftp.cc.uoc.gr/mirrors/tdf/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/tdf/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/tdf/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.60-20040628.tar.gz",
+"date": "2004-06-28 20:34",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.3M",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.60-20040628.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 1.3M \uff77 2004-06-28 20:34 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.60-pre2.tar.gz",
+"date": "2004-07-31 11:15",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.4M",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.60-pre2.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 1.4M \uff77 2004-07-31 11:15 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.60-20040624.tar.gz.sig",
+"date": "2004-06-22 21:31",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "65",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.60-20040624.tar.gz.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 65 \uff77 2004-06-22 21:31 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell6-he-0.02.tar.bz2",
+"date": "2004-04-28 17:13",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "106K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/dict/he/aspell6-he-0.02.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 106K \uff77 2004-04-28 17:13 \uff77 in https://ftp.gnu.org/old-gnu/aspell/dict/he/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/dict/he/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/dict/he/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.60-20040402.tar.gz.sig",
+"date": "2004-04-02 02:05",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "65",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.60-20040402.tar.gz.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 65 \uff77 2004-04-02 02:05 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.60-20040413.tar.gz",
+"date": "2004-04-13 17:12",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.2M",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.60-20040413.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 1.2M \uff77 2004-04-13 17:12 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.60-20040424.tar.gz.sig",
+"date": "2004-04-24 16:25",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "65",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.60-20040424.tar.gz.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 65 \uff77 2004-04-24 16:25 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.51-20040212.txt",
+"date": "2004-03-18 00:55",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.9K",
+"ftype": "text",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.51-20040212.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "text \uff77 2.9K \uff77 2004-03-18 00:55 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.51-20040227.txt",
+"date": "2004-03-18 00:56",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.1K",
+"ftype": "text",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.51-20040227.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "text \uff77 2.1K \uff77 2004-03-18 00:56 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell6-he-0.02-1.tar.bz2",
+"date": "2004-05-11 18:37",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "105K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/dict/he/aspell6-he-0.02-1.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 105K \uff77 2004-05-11 18:37 \uff77 in https://ftp.gnu.org/old-gnu/aspell/dict/he/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/dict/he/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/dict/he/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.51-20040227.txt.sig",
+"date": "2004-03-18 00:56",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "65",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.51-20040227.txt.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 65 \uff77 2004-03-18 00:56 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell6-he-0.8-0.tar.bz2.sig",
+"date": "2004-07-22 02:18",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "65",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/dict/he/aspell6-he-0.8-0.tar.bz2.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 65 \uff77 2004-07-22 02:18 \uff77 in https://ftp.gnu.org/old-gnu/aspell/dict/he/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/dict/he/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/dict/he/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.50.2.tar.gz",
+"date": "2002-09-28 18:26",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "900K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.50.2.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 900K \uff77 2002-09-28 18:26 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.51-20040124.txt",
+"date": "2004-03-18 00:54",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.5K",
+"ftype": "text",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.51-20040124.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "text \uff77 2.5K \uff77 2004-03-18 00:54 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.50.4.tar.gz.sig",
+"date": "2003-09-25 22:13",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "65",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.50.4.tar.gz.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 65 \uff77 2003-09-25 22:13 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.51-20040212.txt.sig",
+"date": "2004-03-18 00:55",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "65",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.51-20040212.txt.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 65 \uff77 2004-03-18 00:55 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "README",
+"date": "2001-08-23 14:06",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "81",
+"ftype": "text",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/dbmanual/README",
+"mime": "text/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "manual",
+"preview": "text \uff77 81 \uff77 2001-08-23 14:06 \uff77 in https://ftp.gnu.org/old-gnu/dbmanual/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/dbmanual/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/dbmanual/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.50.4.1.tar.gz.sig",
+"date": "2003-10-23 10:32",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "65",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.50.4.1.tar.gz.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 65 \uff77 2003-10-23 10:32 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.60-20040511.tar.gz.sig",
+"date": "2004-05-11 18:37",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "65",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.60-20040511.tar.gz.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 65 \uff77 2004-05-11 18:37 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-lang-20040413.tar.bz2",
+"date": "2004-04-13 17:14",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "215K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-lang-20040413.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 215K \uff77 2004-04-13 17:14 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.51-20040124.tar.gz",
+"date": "2004-03-18 00:54",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "880K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.51-20040124.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 880K \uff77 2004-03-18 00:54 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.50.4.tar.gz",
+"date": "2003-09-25 22:12",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "938K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.50.4.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 938K \uff77 2003-09-25 22:12 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-lang-20040418.tar.bz2.sig",
+"date": "2004-04-18 05:50",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "65",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-lang-20040418.tar.bz2.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 65 \uff77 2004-04-18 05:50 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-lang-20040703.tar.bz2",
+"date": "2004-07-03 14:59",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "230K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-lang-20040703.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 230K \uff77 2004-07-03 14:59 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.51-20040219.tar.gz",
+"date": "2004-03-18 00:56",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "939K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.51-20040219.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 939K \uff77 2004-03-18 00:56 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.60-20040428.tar.gz",
+"date": "2004-04-28 16:55",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.2M",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.60-20040428.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 1.2M \uff77 2004-04-28 16:55 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.51-20040105.tar.gz.sig",
+"date": "2004-03-18 00:53",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "65",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.51-20040105.tar.gz.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 65 \uff77 2004-03-18 00:53 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "aspell-0.60-20040511.tar.gz",
+"date": "2004-05-11 18:37",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.2M",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/aspell-0.60-20040511.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 1.2M \uff77 2004-05-11 18:37 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
+},
+{
+"source": "Open Directory",
+"title": "mkchardata-0.2.tar.bz2.sig",
+"date": "2004-03-18 00:57",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "65",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/aspell/mkchardata-0.2.tar.bz2.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 65 \uff77 2004-03-18 00:57 \uff77 in https://ftp.gnu.org/old-gnu/aspell/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/aspell/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/aspell/"
+]
+],
+"mined_at": "2026-11-07T19:34:48Z"
 }
 ]

@@ -899,5 +899,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-07T13:15:49Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 92.122.201.0/24",
+  "date": "2026-11-07",
+  "dateLabel": "sampled",
+  "count": null,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "bgp/status",
+  "preview": "{}",
+  "url": "https://stat.ripe.net/92.122.201.0/24",
+  "query": "RIPEstat routing-status 92.122.201.0/24",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-07T19:32:30Z"
  }
 ]

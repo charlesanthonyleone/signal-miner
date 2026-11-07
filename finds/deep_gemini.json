@@ -5182,5 +5182,29 @@
    ]
   ],
   "mined_at": "2026-11-07T13:20:18Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Apocrypha",
+  "url": "https://portal.mozz.us/gemini/gemi.dev/cgi-bin/wp.cgi/view?Apocrypha",
+  "gemini": "gemini://gemi.dev/cgi-bin/wp.cgi/view?Apocrypha",
+  "date": "",
+  "dateLabel": "",
+  "count": 7992,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gemi.dev",
+  "preview": "# Apocrypha\n=> /cgi-bin/wp.cgi/images?Apocrypha Gallery: 3 images\n=> /cgi-bin/wp.cgi/search?Apocrypha Other articles that mention 'Apocrypha'\n\n=> /cgi-bin/wp.cgi/media/media.jpg?https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F93%2FNotes_et_extraits_pour_servir_%25C3%25A0_l%2527histoire_des_croisades_au_XVe_si%25C3%25A8cle%252C_pp._126-127_%2528Jorga%252C_1915%2529.jpg%2F960px-Notes_et_extraits_pour_servir_%25C3%25A0_l%2527histoire_des_croisades_au_XVe_si%25C3%25A8cle%252C_pp._126-127_%2528Jorga%252C_1915%2529.jpg%3Futm_source%3Den.wikipedia.org%26utm_campaign%3Dparser%26utm_content%3Dthumbnail The apocryphal letter of Sultan Mehmed II to the Pope (Notes et extraits pour servir \u00e0 l'histoire des croisades au XVe si\u00e8cle), published by Nicolae Iorga. Series 4: 1453\u20131476, Paris; Bucharest, 1915, pages 126\u2013127\nApocrypha (/\u0259\u02c8p\u0252kr\u026af\u0259/) are biblical or related writings not forming part of the accepted canon of scripture, some of which might be of doubtful authorship or authenticity. In Christianity, the word \"apocryphal\" (\u1f00\u03c0\u03cc\u03ba\u03c1\u03c5\u03c6\u03bf\u03c2) was first applied to writings that were to be read privately rather than in the public context of church services. Apocrypha were edifying",
+  "query": "gemini search \"apocrypha\"",
+  "kw": "apocrypha",
+  "extra": "capsule: gemi.dev \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gemi.dev/cgi-bin/wp.cgi/view?Apocrypha"
+   ]
+  ],
+  "mined_at": "2026-11-07T19:36:26Z"
  }
 ]

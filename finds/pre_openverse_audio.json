@@ -65757,5 +65757,2195 @@
 "related_url": "https://api.openverse.org/v1/audio/dbd31081-a8d7-4a31-9b19-6af999f3b1a7/related/",
 "waveform": "https://api.openverse.org/v1/audio/dbd31081-a8d7-4a31-9b19-6af999f3b1a7/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "e9eb39a8-9797-4993-abb3-0e970c05f369",
+"title": "Breaking Glass 13.mp3",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/FunWithSound/sounds/390707",
+"url": "https://cdn.freesound.org/previews/390/390707_6456158-hq.mp3",
+"creator": "FunWithSound",
+"creator_url": "https://freesound.org/people/FunWithSound",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 32189,
+"filetype": "mp3",
+"tags": [
+{
+"name": "break",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "breaking",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crack",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "glass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "glasses",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pottery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shards",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shatter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "smash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "splintering",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/390707/download/",
+"bit_rate": 119000,
+"filesize": 23733,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Breaking Glass 13.mp3\" by FunWithSound is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Breaking Glass",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/24428/",
+"creator": "FunWithSound",
+"creator_url": "https://freesound.org/people/FunWithSound/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 1593,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e9eb39a8-9797-4993-abb3-0e970c05f369/",
+"related_url": "https://api.openverse.org/v1/audio/e9eb39a8-9797-4993-abb3-0e970c05f369/related/",
+"waveform": "https://api.openverse.org/v1/audio/e9eb39a8-9797-4993-abb3-0e970c05f369/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ad30a792-c940-4abb-85a2-6d63b5053632",
+"title": "Nl-quilt",
+"indexed_on": "2024-08-11T22:37:04.914251Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=41032210",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Nl-quilt.ogg",
+"creator": "marcel coenders",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Marcel_coenders",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 12551,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-quilt\" by marcel coenders is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1000,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ad30a792-c940-4abb-85a2-6d63b5053632/",
+"related_url": "https://api.openverse.org/v1/audio/ad30a792-c940-4abb-85a2-6d63b5053632/related/",
+"waveform": "https://api.openverse.org/v1/audio/ad30a792-c940-4abb-85a2-6d63b5053632/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8ddf3fa8-9c06-44c5-8cb5-7c4843ad7b61",
+"title": "Nl-quilts",
+"indexed_on": "2024-08-11T22:37:04.914251Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=41032221",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Nl-quilts.ogg",
+"creator": "marcel coenders",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Marcel_coenders",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 14246,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-quilts\" by marcel coenders is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1150,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8ddf3fa8-9c06-44c5-8cb5-7c4843ad7b61/",
+"related_url": "https://api.openverse.org/v1/audio/8ddf3fa8-9c06-44c5-8cb5-7c4843ad7b61/related/",
+"waveform": "https://api.openverse.org/v1/audio/8ddf3fa8-9c06-44c5-8cb5-7c4843ad7b61/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8337c75d-2eb2-43db-85e4-db719b06a8bd",
+"title": "SIGNING PAPER SCRIBE WITH FOUNTAIN PEN QUILT SCRATCH IN STEREO",
+"indexed_on": "2022-07-01T08:27:09.236920Z",
+"foreign_landing_url": "https://freesound.org/people/ukjoncollins/sounds/441548",
+"url": "https://cdn.freesound.org/previews/441/441548_200878-hq.mp3",
+"creator": "ukjoncollins",
+"creator_url": "https://freesound.org/people/ukjoncollins",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 696336,
+"filetype": "mp3",
+"tags": [
+{
+"name": "fountain-pen",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "paper",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quilt",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scratch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scribe",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "signing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stereo",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/441548/download/",
+"bit_rate": 0,
+"filesize": 5552766,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"SIGNING PAPER SCRIBE WITH FOUNTAIN PEN QUILT SCRATCH IN STEREO\" by ukjoncollins is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 28712,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8337c75d-2eb2-43db-85e4-db719b06a8bd/",
+"related_url": "https://api.openverse.org/v1/audio/8337c75d-2eb2-43db-85e4-db719b06a8bd/related/",
+"waveform": "https://api.openverse.org/v1/audio/8337c75d-2eb2-43db-85e4-db719b06a8bd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bd9e10be-b563-492c-8a9c-16e08fe06ca5",
+"title": "Karma Quilt",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/388981",
+"url": "https://prod-1.storage.jamendo.com/?trackid=388981&format=mp32",
+"creator": "Dusthoney",
+"creator_url": "https://www.jamendo.com/artist/352100/dusthoney",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Karma Quilt\" by Dusthoney is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "we of yellow skies",
+"foreign_landing_url": "https://www.jamendo.com/album/49054/we-of-yellow-skies",
+"creator": "Dusthoney",
+"creator_url": "https://www.jamendo.com/artist/352100/dusthoney",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 185000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/bd9e10be-b563-492c-8a9c-16e08fe06ca5/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/bd9e10be-b563-492c-8a9c-16e08fe06ca5/",
+"related_url": "https://api.openverse.org/v1/audio/bd9e10be-b563-492c-8a9c-16e08fe06ca5/related/",
+"waveform": "https://api.openverse.org/v1/audio/bd9e10be-b563-492c-8a9c-16e08fe06ca5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "551659ed-4b51-4f37-941c-65074c87e120",
+"title": "Threadbare Quilt",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1149037",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1149037&format=mp32",
+"creator": "Lee Connah",
+"creator_url": "https://www.jamendo.com/artist/453276/Lee_Connah",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"countryrock",
+"folk",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Threadbare Quilt\" by Lee Connah is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Threadbare Quilt",
+"foreign_landing_url": "https://www.jamendo.com/album/137785/threadbare-quilt",
+"creator": "Lee Connah",
+"creator_url": "https://www.jamendo.com/artist/453276/Lee_Connah",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 268000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/551659ed-4b51-4f37-941c-65074c87e120/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/551659ed-4b51-4f37-941c-65074c87e120/",
+"related_url": "https://api.openverse.org/v1/audio/551659ed-4b51-4f37-941c-65074c87e120/related/",
+"waveform": "https://api.openverse.org/v1/audio/551659ed-4b51-4f37-941c-65074c87e120/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0d0e005b-a93c-4a10-b6eb-7b863a5503dc",
+"title": "Nl-quilte",
+"indexed_on": "2025-02-07T00:14:37.436549Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=159225049",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Nl-quilte.ogg",
+"creator": "Marcel coenders",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Marcel_coenders",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 14534,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-quilte\" by Marcel coenders is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1150,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0d0e005b-a93c-4a10-b6eb-7b863a5503dc/",
+"related_url": "https://api.openverse.org/v1/audio/0d0e005b-a93c-4a10-b6eb-7b863a5503dc/related/",
+"waveform": "https://api.openverse.org/v1/audio/0d0e005b-a93c-4a10-b6eb-7b863a5503dc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "67418a7f-c276-4c39-bdf0-465554f78ee2",
+"title": "LL-Q1860 (eng)-Wodencafe-quiltings",
+"indexed_on": "2024-05-31T00:16:53.361189Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=148887123",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/98/LL-Q1860_%28eng%29-Wodencafe-quiltings.wav",
+"creator": "Speaker: Wodencafe Recorder: Wodencafe",
+"creator_url": "https://lingualibre.org/wiki/Q1207413",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 104748,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Wodencafe-quiltings\" by Speaker: Wodencafe Recorder: Wodencafe is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1090,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/67418a7f-c276-4c39-bdf0-465554f78ee2/",
+"related_url": "https://api.openverse.org/v1/audio/67418a7f-c276-4c39-bdf0-465554f78ee2/related/",
+"waveform": "https://api.openverse.org/v1/audio/67418a7f-c276-4c39-bdf0-465554f78ee2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e1f95afd-49dd-46ee-86de-69718f0a6df6",
+"title": "Lying on bed",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/avakas/sounds/172365",
+"url": "https://cdn.freesound.org/previews/172/172365_1467893-hq.mp3",
+"creator": "avakas",
+"creator_url": "https://freesound.org/people/avakas",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 104775,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bed",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "indoor",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lying",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quilt",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/172365/download/",
+"bit_rate": 0,
+"filesize": 404348,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Lying on bed\" by avakas is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 4583,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e1f95afd-49dd-46ee-86de-69718f0a6df6/",
+"related_url": "https://api.openverse.org/v1/audio/e1f95afd-49dd-46ee-86de-69718f0a6df6/related/",
+"waveform": "https://api.openverse.org/v1/audio/e1f95afd-49dd-46ee-86de-69718f0a6df6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "384d617a-f19e-4efc-8cce-3834963b1ff8",
+"title": "00119 trzepak 3.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Robinhood76/sounds/51381",
+"url": "https://cdn.freesound.org/previews/51/51381_321967-hq.mp3",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 9603,
+"filetype": "mp3",
+"tags": [
+{
+"name": "beating",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "clothes-horse",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "counterpane",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hiting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "one-shot",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quilt",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/51381/download/",
+"bit_rate": 0,
+"filesize": 66332,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"00119 trzepak 3.wav\" by Robinhood76 is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "CLEANING and making ORDER sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/4057/",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 375,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/384d617a-f19e-4efc-8cce-3834963b1ff8/",
+"related_url": "https://api.openverse.org/v1/audio/384d617a-f19e-4efc-8cce-3834963b1ff8/related/",
+"waveform": "https://api.openverse.org/v1/audio/384d617a-f19e-4efc-8cce-3834963b1ff8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f13cb45d-2bb3-425d-8cc2-40e06e6d3689",
+"title": "melody_memoryquilt_70_Am.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/harrisonlace/sounds/647805",
+"url": "https://cdn.freesound.org/previews/647/647805_9839964-hq.mp3",
+"creator": "harrisonlace",
+"creator_url": "https://freesound.org/people/harrisonlace",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 650041,
+"filetype": "mp3",
+"tags": [
+{
+"name": "70",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "A",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bpm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "inspiration",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "key",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lofi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "loop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "melancholic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "melody",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "memory",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "minor",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quilt",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "song",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "starter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tape",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vibe",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/647805/download/",
+"bit_rate": 0,
+"filesize": 9676844,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"melody_memoryquilt_70_Am.wav\" by harrisonlace is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Harrison Lace freesound.org Collection Vol. 1",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/33705/",
+"creator": "harrisonlace",
+"creator_url": "https://freesound.org/people/harrisonlace/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 27428,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f13cb45d-2bb3-425d-8cc2-40e06e6d3689/",
+"related_url": "https://api.openverse.org/v1/audio/f13cb45d-2bb3-425d-8cc2-40e06e6d3689/related/",
+"waveform": "https://api.openverse.org/v1/audio/f13cb45d-2bb3-425d-8cc2-40e06e6d3689/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9ed99e77-d1ad-4867-89ae-5b460e61d2b9",
+"title": "00117 trzepanie 1.wav",
+"indexed_on": "2026-01-16T12:42:52.647825Z",
+"foreign_landing_url": "https://freesound.org/people/Robinhood76/sounds/51379",
+"url": "https://cdn.freesound.org/previews/51/51379_321967-hq.mp3",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 160100,
+"filetype": "mp3",
+"tags": [
+{
+"name": "beating",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "clothes-horse",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "counterpane",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hiting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quilt",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/51379/download/",
+"bit_rate": 0,
+"filesize": 1234844,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"00117 trzepanie 1.wav\" by Robinhood76 is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "CLEANING and making ORDER sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/4057/",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 7000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9ed99e77-d1ad-4867-89ae-5b460e61d2b9/",
+"related_url": "https://api.openverse.org/v1/audio/9ed99e77-d1ad-4867-89ae-5b460e61d2b9/related/",
+"waveform": "https://api.openverse.org/v1/audio/9ed99e77-d1ad-4867-89ae-5b460e61d2b9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7c969399-d6c5-4e32-b7e2-bad1f34896cd",
+"title": "Peddler",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/Globofonia/sounds/553731",
+"url": "https://cdn.freesound.org/previews/553/553731_4905159-hq.mp3",
+"creator": "Globofonia",
+"creator_url": "https://freesound.org/people/Globofonia",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 8545776,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "peddler",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/553731/download/",
+"bit_rate": 0,
+"filesize": 107429796,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Peddler\" by Globofonia is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 373000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/7c969399-d6c5-4e32-b7e2-bad1f34896cd/",
+"related_url": "https://api.openverse.org/v1/audio/7c969399-d6c5-4e32-b7e2-bad1f34896cd/related/",
+"waveform": "https://api.openverse.org/v1/audio/7c969399-d6c5-4e32-b7e2-bad1f34896cd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "76fb8b2c-aed9-4313-b5d1-6269e4ada1d7",
+"title": "Inleiding Spectra Ensemble - Filip Rath\u0418 (audio)",
+"indexed_on": "2023-09-24T13:16:41.739650Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=88757175",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Inleiding_Spectra_Ensemble_-_Filip_Rath%C3%A9_%28audio%29.mp3",
+"creator": "deSingel",
+"creator_url": "https://en.wikipedia.org/wiki/en:DeSingel",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 26993288,
+"filetype": "mp3",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Inleiding Spectra Ensemble - Filip Rath\u00e9 (audio)\" by deSingel is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1686889,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/76fb8b2c-aed9-4313-b5d1-6269e4ada1d7/",
+"related_url": "https://api.openverse.org/v1/audio/76fb8b2c-aed9-4313-b5d1-6269e4ada1d7/related/",
+"waveform": "https://api.openverse.org/v1/audio/76fb8b2c-aed9-4313-b5d1-6269e4ada1d7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d5c925af-95d3-453a-bb24-61dc13483524",
+"title": "95 Jaidevi Sobhani Relates Her Transition from Rajasthan to the Quiet Rhythms of Barrack Life in Ulhasnagar",
+"indexed_on": "2026-09-27T00:14:10.373360Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=200302918",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/54/95_Jaidevi_Sobhani_Relates_Her_Transition_from_Rajasthan_to_the_Quiet_Rhythms_of_Barrack_Life_in_Ulhasnagar.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "EngProff",
+"creator_url": "https://commons.wikimedia.org/wiki/User:EngProff",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 6857861,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"95 Jaidevi Sobhani Relates Her Transition from Rajasthan to the Quiet Rhythms of Barrack Life in Ulhasnagar\" by EngProff is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 530765,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d5c925af-95d3-453a-bb24-61dc13483524/",
+"related_url": "https://api.openverse.org/v1/audio/d5c925af-95d3-453a-bb24-61dc13483524/related/",
+"waveform": "https://api.openverse.org/v1/audio/d5c925af-95d3-453a-bb24-61dc13483524/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bdc2fff4-f34b-4731-98d0-2cef33436fa3",
+"title": "Rag Doll Physics",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/391005",
+"url": "https://prod-1.storage.jamendo.com/?trackid=391005&format=mp32",
+"creator": "Diablo Swing Orchestra",
+"creator_url": "https://www.jamendo.com/artist/351716/Diablo_Swing_Orchestra_(2)",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Rag Doll Physics\" by Diablo Swing Orchestra is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Butcher's Ballroom",
+"foreign_landing_url": "https://www.jamendo.com/album/49216/the-butcher-s-ballroom",
+"creator": "Diablo Swing Orchestra",
+"creator_url": "https://www.jamendo.com/artist/351716/Diablo_Swing_Orchestra_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 233000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/bdc2fff4-f34b-4731-98d0-2cef33436fa3/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/bdc2fff4-f34b-4731-98d0-2cef33436fa3/",
+"related_url": "https://api.openverse.org/v1/audio/bdc2fff4-f34b-4731-98d0-2cef33436fa3/related/",
+"waveform": "https://api.openverse.org/v1/audio/bdc2fff4-f34b-4731-98d0-2cef33436fa3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6c6aa74c-d20f-4619-b1fc-ce967ec0bbfb",
+"title": "Perfect Fighting Dolls",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/620519",
+"url": "https://prod-1.storage.jamendo.com/?trackid=620519&format=mp32",
+"creator": "Drey",
+"creator_url": "https://www.jamendo.com/artist/351807/Drey",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Perfect Fighting Dolls\" by Drey is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "One Million Butterflies",
+"foreign_landing_url": "https://www.jamendo.com/album/71856/one-million-butterflies",
+"creator": "Drey",
+"creator_url": "https://www.jamendo.com/artist/351807/Drey",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 202000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/6c6aa74c-d20f-4619-b1fc-ce967ec0bbfb/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/6c6aa74c-d20f-4619-b1fc-ce967ec0bbfb/",
+"related_url": "https://api.openverse.org/v1/audio/6c6aa74c-d20f-4619-b1fc-ce967ec0bbfb/related/",
+"waveform": "https://api.openverse.org/v1/audio/6c6aa74c-d20f-4619-b1fc-ce967ec0bbfb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c378b528-fffe-4032-9263-8d988c93e85b",
+"title": "Like a Doll",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1353369",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1353369&format=mp32",
+"creator": "Soul-Ty",
+"creator_url": "https://www.jamendo.com/artist/490860/Soul_Ty",
+"license": "by-nd",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/4.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"chillout",
+"electronic",
+"house"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "bass",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "funny",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "kick",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "summer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Like a Doll\" by Soul-Ty is licensed under CC BY-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Summer Grooves",
+"foreign_landing_url": null,
+"creator": "Soul-Ty",
+"creator_url": "https://www.jamendo.com/artist/490860/Soul_Ty",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 184000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/c378b528-fffe-4032-9263-8d988c93e85b/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/c378b528-fffe-4032-9263-8d988c93e85b/",
+"related_url": "https://api.openverse.org/v1/audio/c378b528-fffe-4032-9263-8d988c93e85b/related/",
+"waveform": "https://api.openverse.org/v1/audio/c378b528-fffe-4032-9263-8d988c93e85b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d8b7611e-47c8-4fc3-b765-daf506b630ac",
+"title": "GEAR -Doll-",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1076691",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1076691&format=mp32",
+"creator": "teq.",
+"creator_url": "https://www.jamendo.com/artist/426277/1ktekujiro",
+"license": "by-nc-sa",
+"license_version": "2.1",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.1/jp/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"house"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sport",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": null,
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Gear",
+"foreign_landing_url": "https://www.jamendo.com/album/128245/gear",
+"creator": "teq.",
+"creator_url": "https://www.jamendo.com/artist/426277/1ktekujiro",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 285000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/d8b7611e-47c8-4fc3-b765-daf506b630ac/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/d8b7611e-47c8-4fc3-b765-daf506b630ac/",
+"related_url": "https://api.openverse.org/v1/audio/d8b7611e-47c8-4fc3-b765-daf506b630ac/related/",
+"waveform": "https://api.openverse.org/v1/audio/d8b7611e-47c8-4fc3-b765-daf506b630ac/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0009a23d-fb1d-4ac4-97da-156eb472588b",
+"title": "Voodoo Doll",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/579913",
+"url": "https://prod-1.storage.jamendo.com/?trackid=579913&format=mp32",
+"creator": "Fresh Body Shop",
+"creator_url": "https://www.jamendo.com/artist/7063/freshbodyshop",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"folk",
+"pop",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "commercial",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "fashion",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Voodoo Doll\" by Fresh Body Shop is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Director's Cut",
+"foreign_landing_url": "https://www.jamendo.com/album/66860/director-s-cut",
+"creator": "Fresh Body Shop",
+"creator_url": "https://www.jamendo.com/artist/7063/freshbodyshop",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 209000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/0009a23d-fb1d-4ac4-97da-156eb472588b/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/0009a23d-fb1d-4ac4-97da-156eb472588b/",
+"related_url": "https://api.openverse.org/v1/audio/0009a23d-fb1d-4ac4-97da-156eb472588b/related/",
+"waveform": "https://api.openverse.org/v1/audio/0009a23d-fb1d-4ac4-97da-156eb472588b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7cfdde3e-7902-43a8-bedc-aaadea525df9",
+"title": "Doll In Paradise (Theme For Laura)",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/955799",
+"url": "https://prod-1.storage.jamendo.com/?trackid=955799&format=mp32",
+"creator": "NicoTheSpur",
+"creator_url": "https://www.jamendo.com/artist/423557/NicoTheSpur",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "electricguitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Doll In Paradise (Theme For Laura)\" by NicoTheSpur is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "First Creations",
+"foreign_landing_url": "https://www.jamendo.com/album/112390/first-creations",
+"creator": "NicoTheSpur",
+"creator_url": "https://www.jamendo.com/artist/423557/NicoTheSpur",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 172000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/7cfdde3e-7902-43a8-bedc-aaadea525df9/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/7cfdde3e-7902-43a8-bedc-aaadea525df9/",
+"related_url": "https://api.openverse.org/v1/audio/7cfdde3e-7902-43a8-bedc-aaadea525df9/related/",
+"waveform": "https://api.openverse.org/v1/audio/7cfdde3e-7902-43a8-bedc-aaadea525df9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3c2e23b2-f33e-4bd8-8c80-90c33fbd7556",
+"title": "Mechanical doll",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1318106",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1318106&format=mp32",
+"creator": "Sergey Kovchik",
+"creator_url": "https://www.jamendo.com/artist/373214/Sergey_Kovchik",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"classical",
+"filmscore",
+"neoclassical"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "children",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "clarinet",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "comedy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "funny",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "pizzicato",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Mechanical doll\" by Sergey Kovchik is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Dark matter",
+"foreign_landing_url": "https://www.jamendo.com/album/156353/dark-matter",
+"creator": "Sergey Kovchik",
+"creator_url": "https://www.jamendo.com/artist/373214/Sergey_Kovchik",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 178000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/3c2e23b2-f33e-4bd8-8c80-90c33fbd7556/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/3c2e23b2-f33e-4bd8-8c80-90c33fbd7556/",
+"related_url": "https://api.openverse.org/v1/audio/3c2e23b2-f33e-4bd8-8c80-90c33fbd7556/related/",
+"waveform": "https://api.openverse.org/v1/audio/3c2e23b2-f33e-4bd8-8c80-90c33fbd7556/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "49bb17e4-b639-44cd-838a-218da487382a",
+"title": "Greater doll of small prince",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/749861",
+"url": "https://prod-1.storage.jamendo.com/?trackid=749861&format=mp32",
+"creator": "Boris Lazarev",
+"creator_url": "https://www.jamendo.com/artist/367464/Artist_(349)",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Greater doll of small prince.\" by Boris Lazarev is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "My Bach.",
+"foreign_landing_url": "https://www.jamendo.com/album/87686/my-bach",
+"creator": "Boris Lazarev",
+"creator_url": "https://www.jamendo.com/artist/367464/Artist_(349)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 110000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/49bb17e4-b639-44cd-838a-218da487382a/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/49bb17e4-b639-44cd-838a-218da487382a/",
+"related_url": "https://api.openverse.org/v1/audio/49bb17e4-b639-44cd-838a-218da487382a/related/",
+"waveform": "https://api.openverse.org/v1/audio/49bb17e4-b639-44cd-838a-218da487382a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "db45c53d-e8b7-409c-9ff2-b4b49175048d",
+"title": "Creepy Doll",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1476517",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1476517&format=mp32",
+"creator": "Alexander Blu",
+"creator_url": "https://www.jamendo.com/artist/87/alexander.blu",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "creepy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "dark",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "halloween",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "horror",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "scary",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Creepy Doll\" by Alexander Blu is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Magical Blue",
+"foreign_landing_url": "https://www.jamendo.com/album/170871/magical-blue",
+"creator": "Alexander Blu",
+"creator_url": "https://www.jamendo.com/artist/87/alexander.blu",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 128000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/db45c53d-e8b7-409c-9ff2-b4b49175048d/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/db45c53d-e8b7-409c-9ff2-b4b49175048d/",
+"related_url": "https://api.openverse.org/v1/audio/db45c53d-e8b7-409c-9ff2-b4b49175048d/related/",
+"waveform": "https://api.openverse.org/v1/audio/db45c53d-e8b7-409c-9ff2-b4b49175048d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8ec9d2e8-6275-43da-84f9-3cefea72f082",
+"title": "EN-AU ck1 doll",
+"indexed_on": "2023-12-10T12:18:26.300144Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=75270275",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/EN-AU_ck1_doll.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 18072,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"EN-AU ck1 doll\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1318,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8ec9d2e8-6275-43da-84f9-3cefea72f082/",
+"related_url": "https://api.openverse.org/v1/audio/8ec9d2e8-6275-43da-84f9-3cefea72f082/related/",
+"waveform": "https://api.openverse.org/v1/audio/8ec9d2e8-6275-43da-84f9-3cefea72f082/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1b162426-427d-4178-ae32-503a9ca76fcc",
+"title": "doll creepy",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/davidqr/sounds/416618",
+"url": "https://cdn.freesound.org/previews/416/416618_7170896-hq.mp3",
+"creator": "davidqr",
+"creator_url": "https://freesound.org/people/davidqr",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1113781,
+"filetype": "mp3",
+"tags": [
+{
+"name": "creepy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "doll",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "horror",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sinister",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/416618/download/",
+"bit_rate": 0,
+"filesize": 8555810,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"doll creepy\" by davidqr is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 48501,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1b162426-427d-4178-ae32-503a9ca76fcc/",
+"related_url": "https://api.openverse.org/v1/audio/1b162426-427d-4178-ae32-503a9ca76fcc/related/",
+"waveform": "https://api.openverse.org/v1/audio/1b162426-427d-4178-ae32-503a9ca76fcc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "75a0206f-5f24-4837-8816-14747a0cddc6",
+"title": "The Doll's Death pt. 2",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/338685",
+"url": "https://prod-1.storage.jamendo.com/?trackid=338685&format=mp32",
+"creator": "Lzn02",
+"creator_url": "https://www.jamendo.com/artist/3483/lzn02",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The Doll's Death pt. 2\" by Lzn02 is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Playing the Silence",
+"foreign_landing_url": "https://www.jamendo.com/album/44816/playing-the-silence",
+"creator": "Lzn02",
+"creator_url": "https://www.jamendo.com/artist/3483/lzn02",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 204000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/75a0206f-5f24-4837-8816-14747a0cddc6/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/75a0206f-5f24-4837-8816-14747a0cddc6/",
+"related_url": "https://api.openverse.org/v1/audio/75a0206f-5f24-4837-8816-14747a0cddc6/related/",
+"waveform": "https://api.openverse.org/v1/audio/75a0206f-5f24-4837-8816-14747a0cddc6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7b7bf0fe-f7f6-4df8-9854-0580ae80551e",
+"title": "Baby Doll",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/92902",
+"url": "https://prod-1.storage.jamendo.com/?trackid=92902&format=mp32",
+"creator": "Les Jocks",
+"creator_url": "https://www.jamendo.com/artist/1117/les.jocks",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Baby Doll\" by Les Jocks is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Heros EP",
+"foreign_landing_url": "https://www.jamendo.com/album/9192/heros-ep",
+"creator": "Les Jocks",
+"creator_url": "https://www.jamendo.com/artist/1117/les.jocks",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 201000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/7b7bf0fe-f7f6-4df8-9854-0580ae80551e/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/7b7bf0fe-f7f6-4df8-9854-0580ae80551e/",
+"related_url": "https://api.openverse.org/v1/audio/7b7bf0fe-f7f6-4df8-9854-0580ae80551e/related/",
+"waveform": "https://api.openverse.org/v1/audio/7b7bf0fe-f7f6-4df8-9854-0580ae80551e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "505963b8-19b8-4d5d-81fc-d67c2abd0258",
+"title": "LL-Q1860 (eng)-Flame, not lame-doll up",
+"indexed_on": "2024-09-16T00:14:32.325531Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=152675426",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/15/LL-Q1860_%28eng%29-Flame%2C_not_lame-doll_up.wav",
+"creator": "Speaker: Flame, not lame Recorder: Flame, not lame",
+"creator_url": "https://lingualibre.org/wiki/Q1191054",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 93228,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Flame, not lame-doll up\" by Speaker: Flame, not lame Recorder: Flame, not lame is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 970,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/505963b8-19b8-4d5d-81fc-d67c2abd0258/",
+"related_url": "https://api.openverse.org/v1/audio/505963b8-19b8-4d5d-81fc-d67c2abd0258/related/",
+"waveform": "https://api.openverse.org/v1/audio/505963b8-19b8-4d5d-81fc-d67c2abd0258/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b99bfcbd-bdd8-4a1f-be0f-582a56ea39fb",
+"title": "De-dolle",
+"indexed_on": "2022-11-27T18:13:52.543414Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=105706391",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/94/De-dolle.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 15150,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-dolle\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1480,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b99bfcbd-bdd8-4a1f-be0f-582a56ea39fb/",
+"related_url": "https://api.openverse.org/v1/audio/b99bfcbd-bdd8-4a1f-be0f-582a56ea39fb/related/",
+"waveform": "https://api.openverse.org/v1/audio/b99bfcbd-bdd8-4a1f-be0f-582a56ea39fb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "93e70171-f423-4930-8536-45340707cab4",
+"title": "Teatime at the Doll Doctor's",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1564641",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1564641&format=mp32",
+"creator": "Unreal Estate Records",
+"creator_url": "https://www.jamendo.com/artist/371725/Floating_Isle",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"darkambient",
+"drone",
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "abstract",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "bells",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "dark",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "spiritual",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Teatime at the Doll Doctor&#039;s\" by Unreal Estate Records is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Probe",
+"foreign_landing_url": "https://www.jamendo.com/album/178372/the-probe",
+"creator": "Unreal Estate Records",
+"creator_url": "https://www.jamendo.com/artist/371725/Floating_Isle",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 96000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/93e70171-f423-4930-8536-45340707cab4/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/93e70171-f423-4930-8536-45340707cab4/",
+"related_url": "https://api.openverse.org/v1/audio/93e70171-f423-4930-8536-45340707cab4/related/",
+"waveform": "https://api.openverse.org/v1/audio/93e70171-f423-4930-8536-45340707cab4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4f14f162-e443-47ae-bbbf-3ce9f98c69fa",
+"title": "Voodoo Doll (instrumental)",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1061468",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1061468&format=mp32",
+"creator": "Fresh Body Shop",
+"creator_url": "https://www.jamendo.com/artist/7063/freshbodyshop",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore",
+"folk",
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "fashion",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "party",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Voodoo Doll (instrumental)\" by Fresh Body Shop is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Instrumentals",
+"foreign_landing_url": "https://www.jamendo.com/album/125285/instrumentals",
+"creator": "Fresh Body Shop",
+"creator_url": "https://www.jamendo.com/artist/7063/freshbodyshop",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 209000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/4f14f162-e443-47ae-bbbf-3ce9f98c69fa/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/4f14f162-e443-47ae-bbbf-3ce9f98c69fa/",
+"related_url": "https://api.openverse.org/v1/audio/4f14f162-e443-47ae-bbbf-3ce9f98c69fa/related/",
+"waveform": "https://api.openverse.org/v1/audio/4f14f162-e443-47ae-bbbf-3ce9f98c69fa/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f26f2385-8fcd-4c5c-8a51-0bc9d9245052",
+"title": "Baby Doll",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1373316",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1373316&format=mp32",
+"creator": "Anonimos",
+"creator_url": "https://www.jamendo.com/artist/492997/Anonimos_(2)",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"indie",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "electricbass",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sintetizers",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Baby Doll\" by Anonimos is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Intoxicaci\u00f3n",
+"foreign_landing_url": "https://www.jamendo.com/album/161493/intoxicacion",
+"creator": "Anonimos",
+"creator_url": "https://www.jamendo.com/artist/492997/Anonimos_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 202000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/f26f2385-8fcd-4c5c-8a51-0bc9d9245052/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/f26f2385-8fcd-4c5c-8a51-0bc9d9245052/",
+"related_url": "https://api.openverse.org/v1/audio/f26f2385-8fcd-4c5c-8a51-0bc9d9245052/related/",
+"waveform": "https://api.openverse.org/v1/audio/f26f2385-8fcd-4c5c-8a51-0bc9d9245052/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fe0932d0-7248-436f-afdd-ccd2593d6b63",
+"title": "De-doll",
+"indexed_on": "2023-06-25T11:16:29.208322Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=77770948",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-doll.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 13860,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-doll\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1410,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/fe0932d0-7248-436f-afdd-ccd2593d6b63/",
+"related_url": "https://api.openverse.org/v1/audio/fe0932d0-7248-436f-afdd-ccd2593d6b63/related/",
+"waveform": "https://api.openverse.org/v1/audio/fe0932d0-7248-436f-afdd-ccd2593d6b63/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "01698183-7d48-4396-ac19-14371d60ee21",
+"title": "LL-Q1860 (eng)-Grendelkhan-doll",
+"indexed_on": "2024-04-21T00:03:47.858556Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=147569328",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/LL-Q1860_%28eng%29-Grendelkhan-doll.wav",
+"creator": "Speaker: Grendelkhan Recorder: Grendelkhan",
+"creator_url": "https://lingualibre.org/wiki/Q929501",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 78636,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Grendelkhan-doll\" by Speaker: Grendelkhan Recorder: Grendelkhan is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 818,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/01698183-7d48-4396-ac19-14371d60ee21/",
+"related_url": "https://api.openverse.org/v1/audio/01698183-7d48-4396-ac19-14371d60ee21/related/",
+"waveform": "https://api.openverse.org/v1/audio/01698183-7d48-4396-ac19-14371d60ee21/waveform/",
+"unstable__sensitivity": []
 }
 ]
