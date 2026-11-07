@@ -57653,5 +57653,5657 @@
 "related_url": "https://api.openverse.org/v1/audio/812ad357-33fd-467c-bd9e-f504fed96244/related/",
 "waveform": "https://api.openverse.org/v1/audio/812ad357-33fd-467c-bd9e-f504fed96244/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "bfb5f724-6d50-4f53-884a-fd4291a8d127",
+"title": "Kids in Toy Land (Alt Mix)",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1054396",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1054396&format=mp32",
+"creator": "Fresh Body Shop",
+"creator_url": "https://www.jamendo.com/artist/7063/freshbodyshop",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"pop",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "advertising",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "commercial",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "electricguitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Kids in Toy Land (Alt Mix)\" by Fresh Body Shop is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Warm Up",
+"foreign_landing_url": "https://www.jamendo.com/album/124283/warm-up",
+"creator": "Fresh Body Shop",
+"creator_url": "https://www.jamendo.com/artist/7063/freshbodyshop",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 168000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/bfb5f724-6d50-4f53-884a-fd4291a8d127/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/bfb5f724-6d50-4f53-884a-fd4291a8d127/",
+"related_url": "https://api.openverse.org/v1/audio/bfb5f724-6d50-4f53-884a-fd4291a8d127/related/",
+"waveform": "https://api.openverse.org/v1/audio/bfb5f724-6d50-4f53-884a-fd4291a8d127/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2be57e44-fa16-4119-9799-8dc2b0003c43",
+"title": "Toi",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/14456",
+"url": "https://prod-1.storage.jamendo.com/?trackid=14456&format=mp32",
+"creator": "Avec elle",
+"creator_url": "https://www.jamendo.com/artist/2097/avecelle",
+"license": "by-nc-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.5/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Toi\" by Avec elle is licensed under CC BY-NC-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.5/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "A l'aube",
+"foreign_landing_url": "https://www.jamendo.com/album/2061/a-l-aube",
+"creator": "Avec elle",
+"creator_url": "https://www.jamendo.com/artist/2097/avecelle",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 195000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/2be57e44-fa16-4119-9799-8dc2b0003c43/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/2be57e44-fa16-4119-9799-8dc2b0003c43/",
+"related_url": "https://api.openverse.org/v1/audio/2be57e44-fa16-4119-9799-8dc2b0003c43/related/",
+"waveform": "https://api.openverse.org/v1/audio/2be57e44-fa16-4119-9799-8dc2b0003c43/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4919a0ba-df21-4d8d-96bd-229c8b8bece7",
+"title": "Boys, Girls, Toys & Words",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1165005",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1165005&format=mp32",
+"creator": "Modern Pitch",
+"creator_url": "https://www.jamendo.com/artist/444576/Modern_Pitch",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"indie",
+"pop",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "bass",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "drums",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Boys, Girls, Toys & Words\" by Modern Pitch is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Eye Of The Storm",
+"foreign_landing_url": "https://www.jamendo.com/album/140048/eye-of-the-storm",
+"creator": "Modern Pitch",
+"creator_url": "https://www.jamendo.com/artist/444576/Modern_Pitch",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 357000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/4919a0ba-df21-4d8d-96bd-229c8b8bece7/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/4919a0ba-df21-4d8d-96bd-229c8b8bece7/",
+"related_url": "https://api.openverse.org/v1/audio/4919a0ba-df21-4d8d-96bd-229c8b8bece7/related/",
+"waveform": "https://api.openverse.org/v1/audio/4919a0ba-df21-4d8d-96bd-229c8b8bece7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4437c2ae-e766-488c-a27e-500e9d39bf51",
+"title": "Toi (extended break remix)",
+"indexed_on": "2023-05-04T00:05:01.880122Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1581",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1581&format=mp32",
+"creator": "David Law",
+"creator_url": "https://www.jamendo.com/artist/232/david.law",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Toi (extended break remix)\" by David Law is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/fr/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Law y es-tu ?",
+"foreign_landing_url": "https://www.jamendo.com/album/234/law-y-es-tu",
+"creator": "David Law",
+"creator_url": "https://www.jamendo.com/artist/232/david.law",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 319000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/4437c2ae-e766-488c-a27e-500e9d39bf51/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/4437c2ae-e766-488c-a27e-500e9d39bf51/",
+"related_url": "https://api.openverse.org/v1/audio/4437c2ae-e766-488c-a27e-500e9d39bf51/related/",
+"waveform": "https://api.openverse.org/v1/audio/4437c2ae-e766-488c-a27e-500e9d39bf51/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d0943249-cb7c-4081-b8c1-7231f2867901",
+"title": "Dog Toy",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Poligonstudio/sounds/392617",
+"url": "https://cdn.freesound.org/previews/392/392617_7383104-hq.mp3",
+"creator": "Poligonstudio",
+"creator_url": "https://freesound.org/people/Poligonstudio",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 108461,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Dog",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "animal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cat",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "childs-toy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dog",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "funny",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "play",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "squeal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "toy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "whine",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/392617/download/",
+"bit_rate": 0,
+"filesize": 1244804,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Dog Toy\" by Poligonstudio is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 4704,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d0943249-cb7c-4081-b8c1-7231f2867901/",
+"related_url": "https://api.openverse.org/v1/audio/d0943249-cb7c-4081-b8c1-7231f2867901/related/",
+"waveform": "https://api.openverse.org/v1/audio/d0943249-cb7c-4081-b8c1-7231f2867901/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "319e521c-c8ad-4ce4-b64f-0f9c63b3c6b8",
+"title": "Toy Soldiers",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1125518",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1125518&format=mp32",
+"creator": "Thoola",
+"creator_url": "https://www.jamendo.com/artist/370213/Thoola",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"indie",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "drums",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "prague",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Toy Soldiers\" by Thoola is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Thoola",
+"foreign_landing_url": "https://www.jamendo.com/album/134661/thoola",
+"creator": "Thoola",
+"creator_url": "https://www.jamendo.com/artist/370213/Thoola",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 268000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/319e521c-c8ad-4ce4-b64f-0f9c63b3c6b8/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/319e521c-c8ad-4ce4-b64f-0f9c63b3c6b8/",
+"related_url": "https://api.openverse.org/v1/audio/319e521c-c8ad-4ce4-b64f-0f9c63b3c6b8/related/",
+"waveform": "https://api.openverse.org/v1/audio/319e521c-c8ad-4ce4-b64f-0f9c63b3c6b8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "70354a9c-e86f-4568-926e-1a85bd795e2f",
+"title": "Toys Revolution",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1119939",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1119939&format=mp32",
+"creator": "Gr\u00e9goire Lourme",
+"creator_url": "https://www.jamendo.com/artist/560/gregoire.lourme",
+"license": "by-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "adventure",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "film",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "orchestra",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Toys Revolution\" by Gr\u00e9goire Lourme is licensed under CC BY-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Cinematic Volume 7 Animation Movies",
+"foreign_landing_url": "https://www.jamendo.com/album/133850/cinematic-volume-7-animation-movies",
+"creator": "Gr\u00e9goire Lourme",
+"creator_url": "https://www.jamendo.com/artist/560/gregoire.lourme",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 204000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/70354a9c-e86f-4568-926e-1a85bd795e2f/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/70354a9c-e86f-4568-926e-1a85bd795e2f/",
+"related_url": "https://api.openverse.org/v1/audio/70354a9c-e86f-4568-926e-1a85bd795e2f/related/",
+"waveform": "https://api.openverse.org/v1/audio/70354a9c-e86f-4568-926e-1a85bd795e2f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "49033d01-2fcb-46d4-b514-fb35f1d368ef",
+"title": "Aide toi",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/215",
+"url": "https://prod-1.storage.jamendo.com/?trackid=215&format=mp32",
+"creator": "David TMX",
+"creator_url": "https://www.jamendo.com/artist/14/david.tmx",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"metal"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "action",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "electricguitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "electroamplified",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Aide toi...\" by David TMX is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Pouce !",
+"foreign_landing_url": "https://www.jamendo.com/album/31/pouce",
+"creator": "David TMX",
+"creator_url": "https://www.jamendo.com/artist/14/david.tmx",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 151000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/49033d01-2fcb-46d4-b514-fb35f1d368ef/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/49033d01-2fcb-46d4-b514-fb35f1d368ef/",
+"related_url": "https://api.openverse.org/v1/audio/49033d01-2fcb-46d4-b514-fb35f1d368ef/related/",
+"waveform": "https://api.openverse.org/v1/audio/49033d01-2fcb-46d4-b514-fb35f1d368ef/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ff8a2590-b116-4b3d-9052-b4eff8a3cab9",
+"title": "Toi et moi",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/16909",
+"url": "https://prod-1.storage.jamendo.com/?trackid=16909&format=mp32",
+"creator": "Clownage",
+"creator_url": "https://www.jamendo.com/artist/2503/clownage",
+"license": "by-nc-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.5/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Toi et moi\" by Clownage is licensed under CC BY-NC-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.5/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Premiers maux",
+"foreign_landing_url": "https://www.jamendo.com/album/2405/premiers-maux",
+"creator": "Clownage",
+"creator_url": "https://www.jamendo.com/artist/2503/clownage",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 203000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/ff8a2590-b116-4b3d-9052-b4eff8a3cab9/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/ff8a2590-b116-4b3d-9052-b4eff8a3cab9/",
+"related_url": "https://api.openverse.org/v1/audio/ff8a2590-b116-4b3d-9052-b4eff8a3cab9/related/",
+"waveform": "https://api.openverse.org/v1/audio/ff8a2590-b116-4b3d-9052-b4eff8a3cab9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ce177939-b1d2-47fb-ae44-aae2a5d5aba9",
+"title": "Bouge toi",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1577115",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1577115&format=mp32",
+"creator": "DON VALDES",
+"creator_url": "https://www.jamendo.com/artist/350774/DON_VALDES",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"reggae",
+"ska"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "motivational",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Bouge toi\" by DON VALDES is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "R\u00e9silience",
+"foreign_landing_url": "https://www.jamendo.com/album/179405/resilience",
+"creator": "DON VALDES",
+"creator_url": "https://www.jamendo.com/artist/350774/DON_VALDES",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 260000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/ce177939-b1d2-47fb-ae44-aae2a5d5aba9/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/ce177939-b1d2-47fb-ae44-aae2a5d5aba9/",
+"related_url": "https://api.openverse.org/v1/audio/ce177939-b1d2-47fb-ae44-aae2a5d5aba9/related/",
+"waveform": "https://api.openverse.org/v1/audio/ce177939-b1d2-47fb-ae44-aae2a5d5aba9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0f90529e-ff06-471c-bc10-56c80f916adc",
+"title": "LITTLE FUNNY TOY (unbreakable)",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/208721",
+"url": "https://prod-1.storage.jamendo.com/?trackid=208721&format=mp32",
+"creator": "EGOMOTEL",
+"creator_url": "https://www.jamendo.com/artist/341474/EGOMOTEL",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"pop",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"LITTLE FUNNY TOY (unbreakable)\" by EGOMOTEL is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "SO, YEAH!!",
+"foreign_landing_url": "https://www.jamendo.com/album/30970/so-yeah",
+"creator": "EGOMOTEL",
+"creator_url": "https://www.jamendo.com/artist/341474/EGOMOTEL",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 206000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/0f90529e-ff06-471c-bc10-56c80f916adc/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/0f90529e-ff06-471c-bc10-56c80f916adc/",
+"related_url": "https://api.openverse.org/v1/audio/0f90529e-ff06-471c-bc10-56c80f916adc/related/",
+"waveform": "https://api.openverse.org/v1/audio/0f90529e-ff06-471c-bc10-56c80f916adc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6ad26ed0-289a-41d2-b578-a653d65a1b77",
+"title": "Toy Factory",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1354444",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1354444&format=mp32",
+"creator": "BlueJay Studio",
+"creator_url": "https://www.jamendo.com/artist/490314/FiluAndDina_(3)",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore",
+"trailer"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "children",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "quirky",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Toy Factory\" by BlueJay Studio is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Toy Factory",
+"foreign_landing_url": "https://www.jamendo.com/album/159667/toy-factory",
+"creator": "BlueJay Studio",
+"creator_url": "https://www.jamendo.com/artist/490314/FiluAndDina_(3)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 136000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/6ad26ed0-289a-41d2-b578-a653d65a1b77/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/6ad26ed0-289a-41d2-b578-a653d65a1b77/",
+"related_url": "https://api.openverse.org/v1/audio/6ad26ed0-289a-41d2-b578-a653d65a1b77/related/",
+"waveform": "https://api.openverse.org/v1/audio/6ad26ed0-289a-41d2-b578-a653d65a1b77/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6b1e0d4b-01e2-47f2-bc86-316b7bdb5acf",
+"title": "Toys",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/311386",
+"url": "https://prod-1.storage.jamendo.com/?trackid=311386&format=mp32",
+"creator": "Sever",
+"creator_url": "https://www.jamendo.com/artist/340061/Sever_(2)",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/de/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"metal",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Toys\" by Sever is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/de/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Coma Circle LP",
+"foreign_landing_url": "https://www.jamendo.com/album/42180/coma-circle-lp",
+"creator": "Sever",
+"creator_url": "https://www.jamendo.com/artist/340061/Sever_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 219000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/6b1e0d4b-01e2-47f2-bc86-316b7bdb5acf/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/6b1e0d4b-01e2-47f2-bc86-316b7bdb5acf/",
+"related_url": "https://api.openverse.org/v1/audio/6b1e0d4b-01e2-47f2-bc86-316b7bdb5acf/related/",
+"waveform": "https://api.openverse.org/v1/audio/6b1e0d4b-01e2-47f2-bc86-316b7bdb5acf/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "892fe1ac-eba1-47d8-b88b-f6f498265092",
+"title": "01416 toy music box brahms.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Robinhood76/sounds/86039",
+"url": "https://cdn.freesound.org/previews/86/86039_321967-hq.mp3",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 466505,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bell",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "box",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lullaby",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "music",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "music-box",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "musicbox",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ring",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rings",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "toy",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/86039/download/",
+"bit_rate": 0,
+"filesize": 1815860,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"01416 toy music box brahms.wav\" by Robinhood76 is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "TOY sound stories",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/4332/",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 20587,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/892fe1ac-eba1-47d8-b88b-f6f498265092/",
+"related_url": "https://api.openverse.org/v1/audio/892fe1ac-eba1-47d8-b88b-f6f498265092/related/",
+"waveform": "https://api.openverse.org/v1/audio/892fe1ac-eba1-47d8-b88b-f6f498265092/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "67aaffad-0bc6-48b9-8545-e5011c2c780c",
+"title": "jack jill toy piano.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/FreqMan/sounds/42837",
+"url": "https://cdn.freesound.org/previews/42/42837_92661-hq.mp3",
+"creator": "FreqMan",
+"creator_url": "https://freesound.org/people/FreqMan",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 267870,
+"filetype": "mp3",
+"tags": [
+{
+"name": "children",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nursery-rhyme",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "toy-piano",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/42837/download/",
+"bit_rate": 0,
+"filesize": 2434704,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"jack jill toy piano.wav\" by FreqMan is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Piano",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/1930/",
+"creator": "FreqMan",
+"creator_url": "https://freesound.org/people/FreqMan/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 13801,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/67aaffad-0bc6-48b9-8545-e5011c2c780c/",
+"related_url": "https://api.openverse.org/v1/audio/67aaffad-0bc6-48b9-8545-e5011c2c780c/related/",
+"waveform": "https://api.openverse.org/v1/audio/67aaffad-0bc6-48b9-8545-e5011c2c780c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ece17391-b5f0-4a36-afa5-4a3819112f45",
+"title": "Toi dedans INSTRUMENTAL VERSION",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/938051",
+"url": "https://prod-1.storage.jamendo.com/?trackid=938051&format=mp32",
+"creator": "L\u00f6hstana David",
+"creator_url": "https://www.jamendo.com/artist/7805/david",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"country",
+"folk",
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "banjo",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Toi dedans INSTRUMENTAL VERSION\" by L\u00f6hstana David is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Folk & Acoustic 2",
+"foreign_landing_url": "https://www.jamendo.com/album/110144/folk-and-acoustic-2",
+"creator": "L\u00f6hstana David",
+"creator_url": "https://www.jamendo.com/artist/7805/david",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 195000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/ece17391-b5f0-4a36-afa5-4a3819112f45/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/ece17391-b5f0-4a36-afa5-4a3819112f45/",
+"related_url": "https://api.openverse.org/v1/audio/ece17391-b5f0-4a36-afa5-4a3819112f45/related/",
+"waveform": "https://api.openverse.org/v1/audio/ece17391-b5f0-4a36-afa5-4a3819112f45/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7fcc4617-afcf-47b4-af65-8795a41f203c",
+"title": "Different de Toi",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/709229",
+"url": "https://prod-1.storage.jamendo.com/?trackid=709229&format=mp32",
+"creator": "Francesco",
+"creator_url": "https://www.jamendo.com/artist/4864/francesco",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"newage"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_low",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Different de Toi\" by Francesco is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "R\u00e9flexions",
+"foreign_landing_url": "https://www.jamendo.com/album/82736/reflexions",
+"creator": "Francesco",
+"creator_url": "https://www.jamendo.com/artist/4864/francesco",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 337000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/7fcc4617-afcf-47b4-af65-8795a41f203c/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/7fcc4617-afcf-47b4-af65-8795a41f203c/",
+"related_url": "https://api.openverse.org/v1/audio/7fcc4617-afcf-47b4-af65-8795a41f203c/related/",
+"waveform": "https://api.openverse.org/v1/audio/7fcc4617-afcf-47b4-af65-8795a41f203c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ff8595f4-ed36-4a6f-b6dd-a321cb501d88",
+"title": "baby toy",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Kodack/sounds/271047",
+"url": "https://cdn.freesound.org/previews/271/271047_2276808-hq.mp3",
+"creator": "Kodack",
+"creator_url": "https://freesound.org/people/Kodack",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2061668,
+"filetype": "mp3",
+"tags": [
+{
+"name": "babies",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bell",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "box",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "children",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "childrens",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "creepy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "jack",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "jingle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "music",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "music-box",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "musicbox",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scary",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "toy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tune",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/271047/download/",
+"bit_rate": 0,
+"filesize": 14694806,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"baby toy\" by Kodack is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 83302,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ff8595f4-ed36-4a6f-b6dd-a321cb501d88/",
+"related_url": "https://api.openverse.org/v1/audio/ff8595f4-ed36-4a6f-b6dd-a321cb501d88/related/",
+"waveform": "https://api.openverse.org/v1/audio/ff8595f4-ed36-4a6f-b6dd-a321cb501d88/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b98635d5-3e2f-4f2c-9b99-788c0d42d60b",
+"title": "Toy Train Whistle3.aif",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/timgormly/sounds/162803",
+"url": "https://cdn.freesound.org/previews/162/162803_2578041-hq.mp3",
+"creator": "timgormly",
+"creator_url": "https://freesound.org/people/timgormly",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 62565,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Choo-choo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "H4n",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Toy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Toys",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Train",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Whistle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Zoom",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/162803/download/",
+"bit_rate": 0,
+"filesize": 473564,
+"filetype": "aiff",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Toy Train Whistle3.aif\" by timgormly is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Toys",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/10095/",
+"creator": "timgormly",
+"creator_url": "https://freesound.org/people/timgormly/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 2676,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b98635d5-3e2f-4f2c-9b99-788c0d42d60b/",
+"related_url": "https://api.openverse.org/v1/audio/b98635d5-3e2f-4f2c-9b99-788c0d42d60b/related/",
+"waveform": "https://api.openverse.org/v1/audio/b98635d5-3e2f-4f2c-9b99-788c0d42d60b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3bed8e0f-57ac-4719-8770-e9603748f1ae",
+"title": "seagull-toy-mix.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/freesound61476/sounds/62158",
+"url": "https://cdn.freesound.org/previews/62/62158_818983-hq.mp3",
+"creator": "freesound61476",
+"creator_url": "https://freesound.org/people/freesound61476",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 132321,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bird",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ocean",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pure",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sea",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "seagull",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "toy",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/62158/download/",
+"bit_rate": 0,
+"filesize": 989684,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"seagull-toy-mix.wav\" by freesound61476 is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "seagull toy",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/3977/",
+"creator": "freesound61476",
+"creator_url": "https://freesound.org/people/freesound61476/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 5610,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/3bed8e0f-57ac-4719-8770-e9603748f1ae/",
+"related_url": "https://api.openverse.org/v1/audio/3bed8e0f-57ac-4719-8770-e9603748f1ae/related/",
+"waveform": "https://api.openverse.org/v1/audio/3bed8e0f-57ac-4719-8770-e9603748f1ae/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "85274469-16b9-4474-8810-a3540c89a83b",
+"title": "Space Invaders Arcade Game.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/portwain/sounds/261170",
+"url": "https://cdn.freesound.org/previews/261/261170_1092443-hq.mp3",
+"creator": "portwain",
+"creator_url": "https://freesound.org/people/portwain",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1732960,
+"filetype": "mp3",
+"tags": [
+{
+"name": "arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "buttons",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "joystick",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound-sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/261170/download/",
+"bit_rate": 0,
+"filesize": 16710182,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Space Invaders Arcade Game.wav\" by portwain is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "ArcadeSound",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/16002/",
+"creator": "portwain",
+"creator_url": "https://freesound.org/people/portwain/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 94719,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/85274469-16b9-4474-8810-a3540c89a83b/",
+"related_url": "https://api.openverse.org/v1/audio/85274469-16b9-4474-8810-a3540c89a83b/related/",
+"waveform": "https://api.openverse.org/v1/audio/85274469-16b9-4474-8810-a3540c89a83b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b5f83ebf-96ad-48dd-948d-b23646b33ea2",
+"title": "Arcade pinball machine theme song.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/ScottHurly/sounds/366514",
+"url": "https://cdn.freesound.org/previews/366/366514_6038569-hq.mp3",
+"creator": "ScottHurly",
+"creator_url": "https://freesound.org/people/ScottHurly",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 549840,
+"filetype": "mp3",
+"tags": [
+{
+"name": "OWI",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pinball",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tune",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/366514/download/",
+"bit_rate": 0,
+"filesize": 6910918,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Arcade pinball machine theme song.wav\" by ScottHurly is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 23993,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b5f83ebf-96ad-48dd-948d-b23646b33ea2/",
+"related_url": "https://api.openverse.org/v1/audio/b5f83ebf-96ad-48dd-948d-b23646b33ea2/related/",
+"waveform": "https://api.openverse.org/v1/audio/b5f83ebf-96ad-48dd-948d-b23646b33ea2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "20abf2d3-3743-4780-a80f-b2e46acd08ab",
+"title": "150209 Trevor Webb Arcade Ambience.wav",
+"indexed_on": "2023-03-10T13:20:18.216530Z",
+"foreign_landing_url": "https://freesound.org/people/Bleachbear/sounds/327010",
+"url": "https://cdn.freesound.org/previews/327/327010_5650790-hq.mp3",
+"creator": "Bleachbear",
+"creator_url": "https://freesound.org/people/Bleachbear",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 3823920,
+"filetype": "mp3",
+"tags": [
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "busy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "OWI",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "loud",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machines",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fun",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmos",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "games",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bustle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chatter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background-sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/327010/download/",
+"bit_rate": 0,
+"filesize": 48420370,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"150209 Trevor Webb Arcade Ambience.wav\" by Bleachbear is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 168124,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/20abf2d3-3743-4780-a80f-b2e46acd08ab/",
+"related_url": "https://api.openverse.org/v1/audio/20abf2d3-3743-4780-a80f-b2e46acd08ab/related/",
+"waveform": "https://api.openverse.org/v1/audio/20abf2d3-3743-4780-a80f-b2e46acd08ab/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "90428963-e8b7-4b1a-9328-eb0f92e3094e",
+"title": "Eternity Arcade - Heat of the Night (Full Album of synthwave music made with AI))",
+"indexed_on": "2024-10-03T00:12:00.406007Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=153466430",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Eternity_Arcade_-_Heat_of_the_Night_%28Full_Album_of_synthwave_music_made_with_AI%29%29.opus",
+"creator": "Eternity Arcade",
+"creator_url": "https://www.youtube.com/@EternityArcade",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 63296398,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Eternity Arcade - Heat of the Night (Full Album of synthwave music made with AI))\" by Eternity Arcade is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 3888881,
+"bit_rate": null,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/90428963-e8b7-4b1a-9328-eb0f92e3094e/",
+"related_url": "https://api.openverse.org/v1/audio/90428963-e8b7-4b1a-9328-eb0f92e3094e/related/",
+"waveform": "https://api.openverse.org/v1/audio/90428963-e8b7-4b1a-9328-eb0f92e3094e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "05af775a-719c-4d57-958d-bf5269ac8c64",
+"title": "Nl-arcade",
+"indexed_on": "2023-12-17T15:46:16.636021Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=29219064",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Nl-arcade.ogg",
+"creator": "Marcel Coenders",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 15509,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-arcade\" by Marcel Coenders is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1250,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/05af775a-719c-4d57-958d-bf5269ac8c64/",
+"related_url": "https://api.openverse.org/v1/audio/05af775a-719c-4d57-958d-bf5269ac8c64/related/",
+"waveform": "https://api.openverse.org/v1/audio/05af775a-719c-4d57-958d-bf5269ac8c64/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f395c569-628e-4c93-8534-6ce29800eb6c",
+"title": "Nl-arcades",
+"indexed_on": "2023-12-17T15:46:16.636021Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=29219070",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Nl-arcades.ogg",
+"creator": "Marcel Coenders",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16481,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-arcades\" by Marcel Coenders is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1400,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f395c569-628e-4c93-8534-6ce29800eb6c/",
+"related_url": "https://api.openverse.org/v1/audio/f395c569-628e-4c93-8534-6ce29800eb6c/related/",
+"waveform": "https://api.openverse.org/v1/audio/f395c569-628e-4c93-8534-6ce29800eb6c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "880ea2f6-0cff-4676-80ff-abd6da9e6cf2",
+"title": "LL-Q150 (fra)-Guilhelma-arcade",
+"indexed_on": "2024-01-07T13:59:50.305940Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=113987131",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/LL-Q150_%28fra%29-Guilhelma-arcade.wav",
+"creator": "Speaker: Guilhelma Recorder: Guilhelma",
+"creator_url": "https://lingualibre.org/wiki/Q547",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 117548,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Guilhelma-arcade\" by Speaker: Guilhelma Recorder: Guilhelma is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1224,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/880ea2f6-0cff-4676-80ff-abd6da9e6cf2/",
+"related_url": "https://api.openverse.org/v1/audio/880ea2f6-0cff-4676-80ff-abd6da9e6cf2/related/",
+"waveform": "https://api.openverse.org/v1/audio/880ea2f6-0cff-4676-80ff-abd6da9e6cf2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a19ce2ff-2efd-46d2-a5a5-331c1fbcf34d",
+"title": "LL-Q150 (fra)-Poslovitch-arcade",
+"indexed_on": "2025-03-16T00:09:53.783811Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=162104169",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/LL-Q150_%28fra%29-Poslovitch-arcade.wav",
+"creator": "Speaker: Poslovitch Recorder: Poslovitch",
+"creator_url": "http://lingualibre.org/wiki/Q142683",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 103468,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Poslovitch-arcade\" by Speaker: Poslovitch Recorder: Poslovitch is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1077,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a19ce2ff-2efd-46d2-a5a5-331c1fbcf34d/",
+"related_url": "https://api.openverse.org/v1/audio/a19ce2ff-2efd-46d2-a5a5-331c1fbcf34d/related/",
+"waveform": "https://api.openverse.org/v1/audio/a19ce2ff-2efd-46d2-a5a5-331c1fbcf34d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bb4444fc-7e18-4d01-aa49-857fb408bda1",
+"title": "LL-Q150 (fra)-WikiLucas00-arcades",
+"indexed_on": "2025-08-10T21:53:27.047540Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=108876961",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/LL-Q150_%28fra%29-WikiLucas00-arcades.wav",
+"creator": "Speaker: WikiLucas00 Recorder: WikiLucas00",
+"creator_url": "https://lingualibre.org/wiki/Q102123",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-WikiLucas00-arcades\" by Speaker: WikiLucas00 Recorder: WikiLucas00 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/bb4444fc-7e18-4d01-aa49-857fb408bda1/",
+"related_url": "https://api.openverse.org/v1/audio/bb4444fc-7e18-4d01-aa49-857fb408bda1/related/",
+"waveform": "https://api.openverse.org/v1/audio/bb4444fc-7e18-4d01-aa49-857fb408bda1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f5064aa5-cf79-4b01-9e58-f7624b541f99",
+"title": "LL-Q150 (fra)-WikiLucas00-arcade",
+"indexed_on": "2023-04-23T10:52:33.930368Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=83470517",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/38/LL-Q150_%28fra%29-WikiLucas00-arcade.wav",
+"creator": "Speaker: WikiLucas00 Recorder: WikiLucas00",
+"creator_url": "https://lingualibre.org/wiki/Q102123",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-WikiLucas00-arcade\" by Speaker: WikiLucas00 Recorder: WikiLucas00 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f5064aa5-cf79-4b01-9e58-f7624b541f99/",
+"related_url": "https://api.openverse.org/v1/audio/f5064aa5-cf79-4b01-9e58-f7624b541f99/related/",
+"waveform": "https://api.openverse.org/v1/audio/f5064aa5-cf79-4b01-9e58-f7624b541f99/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9699ac29-2f05-4d7f-9f6e-a1f5b66f3185",
+"title": "LL-Q150 (fra)-Mathieu Kappler-arcade",
+"indexed_on": "2022-06-09T00:31:58.546244Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=119087976",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/LL-Q150_%28fra%29-Mathieu_Kappler-arcade.wav",
+"creator": "Speaker: Mathieu Kappler Recorder: Mathieu Kappler",
+"creator_url": "https://lingualibre.org/wiki/Q780283",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 99604,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Mathieu Kappler-arcade\" by Speaker: Mathieu Kappler Recorder: Mathieu Kappler is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1128,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9699ac29-2f05-4d7f-9f6e-a1f5b66f3185/",
+"related_url": "https://api.openverse.org/v1/audio/9699ac29-2f05-4d7f-9f6e-a1f5b66f3185/related/",
+"waveform": "https://api.openverse.org/v1/audio/9699ac29-2f05-4d7f-9f6e-a1f5b66f3185/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "12aadf8d-bed2-4a15-8b80-67b46e437d4f",
+"title": "LL-Q1860 (eng)-Vealhurl-amusement arcade",
+"indexed_on": "2025-12-13T00:08:36.229995Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=179761703",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/LL-Q1860_%28eng%29-Vealhurl-amusement_arcade.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 148268,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-amusement arcade\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1544,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/12aadf8d-bed2-4a15-8b80-67b46e437d4f/",
+"related_url": "https://api.openverse.org/v1/audio/12aadf8d-bed2-4a15-8b80-67b46e437d4f/related/",
+"waveform": "https://api.openverse.org/v1/audio/12aadf8d-bed2-4a15-8b80-67b46e437d4f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ff8f1f41-4184-49d8-9de6-1155f28e6217",
+"title": "Arcade d\u5db0\u5ee7tion",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/74969",
+"url": "https://prod-1.storage.jamendo.com/?trackid=74969&format=mp32",
+"creator": "free little king",
+"creator_url": "https://www.jamendo.com/artist/7576/free.little.king",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"hardcore",
+"techno"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "hardteck",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Arcade d\u00e9c\u00e9ption\" by free little king is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "SuB",
+"foreign_landing_url": "https://www.jamendo.com/album/6682/sub",
+"creator": "free little king",
+"creator_url": "https://www.jamendo.com/artist/7576/free.little.king",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 124000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/ff8f1f41-4184-49d8-9de6-1155f28e6217/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/ff8f1f41-4184-49d8-9de6-1155f28e6217/",
+"related_url": "https://api.openverse.org/v1/audio/ff8f1f41-4184-49d8-9de6-1155f28e6217/related/",
+"waveform": "https://api.openverse.org/v1/audio/ff8f1f41-4184-49d8-9de6-1155f28e6217/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "41e638ff-e872-426d-9097-eb0a21b48003",
+"title": "Arcade Jump 2",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Aesterial-Arts/sounds/633247",
+"url": "https://cdn.freesound.org/previews/633/633247_13978579-hq.mp3",
+"creator": "Aesterial-Arts",
+"creator_url": "https://freesound.org/people/Aesterial-Arts",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2976,
+"filetype": "mp3",
+"tags": [
+{
+"name": "8-bit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cartoon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "jump",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "retro",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "video-game",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/633247/download/",
+"bit_rate": 0,
+"filesize": 9680,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Arcade Jump 2\" by Aesterial-Arts is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Arcade",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/35113/",
+"creator": "Aesterial-Arts",
+"creator_url": "https://freesound.org/people/Aesterial-Arts/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 50,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/41e638ff-e872-426d-9097-eb0a21b48003/",
+"related_url": "https://api.openverse.org/v1/audio/41e638ff-e872-426d-9097-eb0a21b48003/related/",
+"waveform": "https://api.openverse.org/v1/audio/41e638ff-e872-426d-9097-eb0a21b48003/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6c504fe0-af19-4a84-abf1-a17c65bfa1f9",
+"title": "Arcade",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1055156",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1055156&format=mp32",
+"creator": "Barcroft45",
+"creator_url": "https://www.jamendo.com/artist/436021/barcroft45",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"experimental",
+"filmscore",
+"reggae"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "variable",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Arcade\" by Barcroft45 is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Under Control",
+"foreign_landing_url": "https://www.jamendo.com/album/124393/under-control",
+"creator": "Barcroft45",
+"creator_url": "https://www.jamendo.com/artist/436021/barcroft45",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 168000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/6c504fe0-af19-4a84-abf1-a17c65bfa1f9/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/6c504fe0-af19-4a84-abf1-a17c65bfa1f9/",
+"related_url": "https://api.openverse.org/v1/audio/6c504fe0-af19-4a84-abf1-a17c65bfa1f9/related/",
+"waveform": "https://api.openverse.org/v1/audio/6c504fe0-af19-4a84-abf1-a17c65bfa1f9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e283cb53-42db-4258-b2bd-6a306659a16f",
+"title": "Arcades",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/426735",
+"url": "https://prod-1.storage.jamendo.com/?trackid=426735&format=mp32",
+"creator": "Mirrorpool",
+"creator_url": "https://www.jamendo.com/artist/353541/Mirrorpool",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/de/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Arcades\" by Mirrorpool is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/de/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Future Sound Of Berlin",
+"foreign_landing_url": "https://www.jamendo.com/album/52112/the-future-sound-of-berlin",
+"creator": "Mirrorpool",
+"creator_url": "https://www.jamendo.com/artist/353541/Mirrorpool",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 312000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e283cb53-42db-4258-b2bd-6a306659a16f/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e283cb53-42db-4258-b2bd-6a306659a16f/",
+"related_url": "https://api.openverse.org/v1/audio/e283cb53-42db-4258-b2bd-6a306659a16f/related/",
+"waveform": "https://api.openverse.org/v1/audio/e283cb53-42db-4258-b2bd-6a306659a16f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "607ee638-4efb-436b-a4fd-a99ee7579a45",
+"title": "Spooky Arcade Loop.mp3",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/JungleBean/sounds/368092",
+"url": "https://cdn.freesound.org/previews/368/368092_6715869-hq.mp3",
+"creator": "JungleBean",
+"creator_url": "https://freesound.org/people/JungleBean",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 886266,
+"filetype": "mp3",
+"tags": [
+{
+"name": "8-bit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Arp",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Creepy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Loop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Scary",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Soundtrack",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Spooky",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Video-Game",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/368092/download/",
+"bit_rate": 192000,
+"filesize": 968328,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Spooky Arcade Loop.mp3\" by JungleBean is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 40164,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/607ee638-4efb-436b-a4fd-a99ee7579a45/",
+"related_url": "https://api.openverse.org/v1/audio/607ee638-4efb-436b-a4fd-a99ee7579a45/related/",
+"waveform": "https://api.openverse.org/v1/audio/607ee638-4efb-436b-a4fd-a99ee7579a45/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "83a2e741-8b20-489f-9987-46548e650a4f",
+"title": "Chopping Arcade",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/529918",
+"url": "https://prod-1.storage.jamendo.com/?trackid=529918&format=mp32",
+"creator": "5KFEDDUP",
+"creator_url": "https://www.jamendo.com/artist/357831/5KFEDDUP",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/de/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"techno",
+"trance"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Chopping Arcade\" by 5KFEDDUP is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/de/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Release, Deliverance and Disentanglement.",
+"foreign_landing_url": "https://www.jamendo.com/album/61864/release-deliverance-and-disentanglement",
+"creator": "5KFEDDUP",
+"creator_url": "https://www.jamendo.com/artist/357831/5KFEDDUP",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 402000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/83a2e741-8b20-489f-9987-46548e650a4f/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/83a2e741-8b20-489f-9987-46548e650a4f/",
+"related_url": "https://api.openverse.org/v1/audio/83a2e741-8b20-489f-9987-46548e650a4f/related/",
+"waveform": "https://api.openverse.org/v1/audio/83a2e741-8b20-489f-9987-46548e650a4f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9e614e43-be07-4884-a321-43104faf383c",
+"title": "Retro arcade music #5",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/BloodPixelHero/sounds/613965",
+"url": "https://cdn.freesound.org/previews/613/613965_10182789-hq.mp3",
+"creator": "BloodPixelHero",
+"creator_url": "https://freesound.org/people/BloodPixelHero",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2048736,
+"filetype": "mp3",
+"tags": [
+{
+"name": "8bit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chiptune",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electro",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electronic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "loop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "melody",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "music",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ost",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "retro",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rhythmic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sample",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundtrack",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/613965/download/",
+"bit_rate": 1500000,
+"filesize": 18432044,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Retro arcade music #5\" by BloodPixelHero is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 96000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9e614e43-be07-4884-a321-43104faf383c/",
+"related_url": "https://api.openverse.org/v1/audio/9e614e43-be07-4884-a321-43104faf383c/related/",
+"waveform": "https://api.openverse.org/v1/audio/9e614e43-be07-4884-a321-43104faf383c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "14be56c1-ac60-4fba-8f36-63dde76aa237",
+"title": "Amusement arcade-01.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/KeyKrusher/sounds/152734",
+"url": "https://cdn.freesound.org/previews/152/152734_2193194-hq.mp3",
+"creator": "KeyKrusher",
+"creator_url": "https://freesound.org/people/KeyKrusher",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 964569,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Amusement",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "arcade",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machines",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "slot",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/152734/download/",
+"bit_rate": 0,
+"filesize": 7556998,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Amusement arcade-01.wav\" by KeyKrusher is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Places",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/9568/",
+"creator": "KeyKrusher",
+"creator_url": "https://freesound.org/people/KeyKrusher/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 42829,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/14be56c1-ac60-4fba-8f36-63dde76aa237/",
+"related_url": "https://api.openverse.org/v1/audio/14be56c1-ac60-4fba-8f36-63dde76aa237/related/",
+"waveform": "https://api.openverse.org/v1/audio/14be56c1-ac60-4fba-8f36-63dde76aa237/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d4ebe856-c101-4bd3-8ef5-4adb56483523",
+"title": "tram turn.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Inplano/sounds/81052",
+"url": "https://cdn.freesound.org/previews/81/81052_1244709-hq.mp3",
+"creator": "Inplano",
+"creator_url": "https://freesound.org/people/Inplano",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 682561,
+"filetype": "mp3",
+"tags": [
+{
+"name": "mechanical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tram",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/81052/download/",
+"bit_rate": 0,
+"filesize": 5230984,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"tram turn.wav\" by Inplano is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 29653,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d4ebe856-c101-4bd3-8ef5-4adb56483523/",
+"related_url": "https://api.openverse.org/v1/audio/d4ebe856-c101-4bd3-8ef5-4adb56483523/related/",
+"waveform": "https://api.openverse.org/v1/audio/d4ebe856-c101-4bd3-8ef5-4adb56483523/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ddcd243e-a9c5-4b8c-9d25-6937728c24b8",
+"title": "Tram Accelerator Lever.aiff",
+"indexed_on": "2023-03-10T13:20:18.216530Z",
+"foreign_landing_url": "https://freesound.org/people/nikohfb/sounds/59523",
+"url": "https://cdn.freesound.org/previews/59/59523_754179-hq.mp3",
+"creator": "nikohfb",
+"creator_url": "https://freesound.org/people/nikohfb",
+"license": "sampling+",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/licenses/sampling+/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 21657,
+"filetype": "mp3",
+"tags": [
+{
+"name": "crank",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electro-mechanical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lever",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mechanical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "public-transport",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "streetcar",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tram",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/59523/download/",
+"bit_rate": 0,
+"filesize": 155504,
+"filetype": "aiff",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Tram Accelerator Lever.aiff\" by nikohfb is licensed under CC Sampling+ 1.0. To view a copy of this license, visit https://creativecommons.org/licenses/sampling+/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 858,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ddcd243e-a9c5-4b8c-9d25-6937728c24b8/",
+"related_url": "https://api.openverse.org/v1/audio/ddcd243e-a9c5-4b8c-9d25-6937728c24b8/related/",
+"waveform": "https://api.openverse.org/v1/audio/ddcd243e-a9c5-4b8c-9d25-6937728c24b8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bc2abf5d-8a7d-45c9-a2e9-0bbc726d1b3d",
+"title": "Squeaking tram departing.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/dersinnsspace/sounds/417657",
+"url": "https://cdn.freesound.org/previews/417/417657_8224400-hq.mp3",
+"creator": "dersinnsspace",
+"creator_url": "https://freesound.org/people/dersinnsspace",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 478584,
+"filetype": "mp3",
+"tags": [
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "industrial",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rail",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "raw",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "squeaking",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "train",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tram",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tramway",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "transport",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "transportation",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/417657/download/",
+"bit_rate": 0,
+"filesize": 3748174,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Squeaking tram departing.wav\" by dersinnsspace is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Trams",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/23584/",
+"creator": "dersinnsspace",
+"creator_url": "https://freesound.org/people/dersinnsspace/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 21247,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/bc2abf5d-8a7d-45c9-a2e9-0bbc726d1b3d/",
+"related_url": "https://api.openverse.org/v1/audio/bc2abf5d-8a7d-45c9-a2e9-0bbc726d1b3d/related/",
+"waveform": "https://api.openverse.org/v1/audio/bc2abf5d-8a7d-45c9-a2e9-0bbc726d1b3d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d67545e8-d983-4672-876d-de8d5ec22af0",
+"title": "Squeaking tram arriving.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/dersinnsspace/sounds/417658",
+"url": "https://cdn.freesound.org/previews/417/417658_8224400-hq.mp3",
+"creator": "dersinnsspace",
+"creator_url": "https://freesound.org/people/dersinnsspace",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 632855,
+"filetype": "mp3",
+"tags": [
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "industrial",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rail",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "raw",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "squeaking",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "train",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tram",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tramway",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "transport",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "transportation",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/417658/download/",
+"bit_rate": 0,
+"filesize": 9603854,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Squeaking tram arriving.wav\" by dersinnsspace is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Trams",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/23584/",
+"creator": "dersinnsspace",
+"creator_url": "https://freesound.org/people/dersinnsspace/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 27221,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d67545e8-d983-4672-876d-de8d5ec22af0/",
+"related_url": "https://api.openverse.org/v1/audio/d67545e8-d983-4672-876d-de8d5ec22af0/related/",
+"waveform": "https://api.openverse.org/v1/audio/d67545e8-d983-4672-876d-de8d5ec22af0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e94ac0d1-7367-4e22-9dd4-d1bdae17be89",
+"title": "Amsterdam city centre 3 amb, trams traffic people, Spui, EG14.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/eruk/sounds/259740",
+"url": "https://cdn.freesound.org/previews/259/259740_99-hq.mp3",
+"creator": "eruk",
+"creator_url": "https://freesound.org/people/eruk",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 4669440,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Amsterdam",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Spui",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "amb",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "centre",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "city",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "street",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "traffic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "trams",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/259740/download/",
+"bit_rate": 0,
+"filesize": 59416790,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Amsterdam city centre 3 amb, trams traffic people, Spui, EG14.wav\" by eruk is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 203093,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e94ac0d1-7367-4e22-9dd4-d1bdae17be89/",
+"related_url": "https://api.openverse.org/v1/audio/e94ac0d1-7367-4e22-9dd4-d1bdae17be89/related/",
+"waveform": "https://api.openverse.org/v1/audio/e94ac0d1-7367-4e22-9dd4-d1bdae17be89/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "809008fd-3324-4b2f-a1ad-fb307f4ece4e",
+"title": "09-07-15_1714_Starting tram Massarelos.WAV",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/digitopia/sounds/76980",
+"url": "https://cdn.freesound.org/previews/76/76980_1172438-hq.mp3",
+"creator": "digitopia",
+"creator_url": "https://freesound.org/people/digitopia",
+"license": "sampling+",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/licenses/sampling+/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1222577,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "city",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "digitopia",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "engine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "florian",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "motor",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "porto",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "portugal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "portuguese",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "street",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "streetcar",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tram",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/76980/download/",
+"bit_rate": 0,
+"filesize": 14266154,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"09-07-15_1714_Starting tram Massarelos.WAV\" by digitopia is licensed under CC Sampling+ 1.0. To view a copy of this license, visit https://creativecommons.org/licenses/sampling+/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Tram/Streetcar in Porto",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/4997/",
+"creator": "digitopia",
+"creator_url": "https://freesound.org/people/digitopia/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 53915,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/809008fd-3324-4b2f-a1ad-fb307f4ece4e/",
+"related_url": "https://api.openverse.org/v1/audio/809008fd-3324-4b2f-a1ad-fb307f4ece4e/related/",
+"waveform": "https://api.openverse.org/v1/audio/809008fd-3324-4b2f-a1ad-fb307f4ece4e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "06ccdb46-baf2-4a8d-ba68-7ceefefb6192",
+"title": "room tone house plane tram car neighborhood",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/PivanlaDbrouille/sounds/407423",
+"url": "https://cdn.freesound.org/previews/407/407423_7342155-hq.mp3",
+"creator": "PivanlaDbrouille",
+"creator_url": "https://freesound.org/people/PivanlaDbrouille",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 3170736,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "car",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "house",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "neighborhood",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "plane",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "room",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tram",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/407423/download/",
+"bit_rate": 0,
+"filesize": 39729170,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"room tone house plane tram car neighborhood\" by PivanlaDbrouille is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "house",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/23006/",
+"creator": "PivanlaDbrouille",
+"creator_url": "https://freesound.org/people/PivanlaDbrouille/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 137216,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/06ccdb46-baf2-4a8d-ba68-7ceefefb6192/",
+"related_url": "https://api.openverse.org/v1/audio/06ccdb46-baf2-4a8d-ba68-7ceefefb6192/related/",
+"waveform": "https://api.openverse.org/v1/audio/06ccdb46-baf2-4a8d-ba68-7ceefefb6192/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "dcf74477-276f-43dd-827e-31f74eb2de5e",
+"title": "Nl-tram",
+"indexed_on": "2024-03-10T21:40:00.045624Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=5949504",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Nl-tram.ogg",
+"creator": "Ejhoekstra",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Ejhoekstra",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 30074,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-tram\" by Ejhoekstra is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1567,
+"bit_rate": 160000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/dcf74477-276f-43dd-827e-31f74eb2de5e/",
+"related_url": "https://api.openverse.org/v1/audio/dcf74477-276f-43dd-827e-31f74eb2de5e/related/",
+"waveform": "https://api.openverse.org/v1/audio/dcf74477-276f-43dd-827e-31f74eb2de5e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4063c22e-9a93-4238-8898-022da6f7e069",
+"title": "tram inside 01.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Kneedless/sounds/167461",
+"url": "https://cdn.freesound.org/previews/167/167461_3065829-hq.mp3",
+"creator": "Kneedless",
+"creator_url": "https://freesound.org/people/Kneedless",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 3173405,
+"filetype": "mp3",
+"tags": [
+{
+"name": "inside",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "melbourne",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tracks",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tram",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/167461/download/",
+"bit_rate": 0,
+"filesize": 24908942,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"tram inside 01.wav\" by Kneedless is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 141202,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4063c22e-9a93-4238-8898-022da6f7e069/",
+"related_url": "https://api.openverse.org/v1/audio/4063c22e-9a93-4238-8898-022da6f7e069/related/",
+"waveform": "https://api.openverse.org/v1/audio/4063c22e-9a93-4238-8898-022da6f7e069/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "39c58e5b-5efc-4d95-b7cc-b654f3e2c60f",
+"title": "De-Tram",
+"indexed_on": "2022-12-11T15:29:10.313344Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=79764772",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-Tram.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 15686,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-Tram\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1510,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/39c58e5b-5efc-4d95-b7cc-b654f3e2c60f/",
+"related_url": "https://api.openverse.org/v1/audio/39c58e5b-5efc-4d95-b7cc-b654f3e2c60f/related/",
+"waveform": "https://api.openverse.org/v1/audio/39c58e5b-5efc-4d95-b7cc-b654f3e2c60f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0fec13d9-a3cc-40cd-a06a-9fea7819c539",
+"title": "LL-Q188 (deu)-Sebastian Wallroth-Tram",
+"indexed_on": "2024-01-28T15:48:51.565233Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=78867182",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/LL-Q188_%28deu%29-Sebastian_Wallroth-Tram.wav",
+"creator": "Speaker: Sebastian Wallroth Recorder: Sebastian Wallroth",
+"creator_url": "https://lingualibre.org/wiki/Q124281",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 92972,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q188 (deu)-Sebastian Wallroth-Tram\" by Speaker: Sebastian Wallroth Recorder: Sebastian Wallroth is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 968,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0fec13d9-a3cc-40cd-a06a-9fea7819c539/",
+"related_url": "https://api.openverse.org/v1/audio/0fec13d9-a3cc-40cd-a06a-9fea7819c539/related/",
+"waveform": "https://api.openverse.org/v1/audio/0fec13d9-a3cc-40cd-a06a-9fea7819c539/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "66a4ba6c-da64-4503-9ee5-42ab24f6769c",
+"title": "09-07-13_1757_Piolho - Tram is starting.WAV",
+"indexed_on": "2022-10-01T04:02:44.560321Z",
+"foreign_landing_url": "https://freesound.org/people/digitopia/sounds/76976",
+"url": "https://cdn.freesound.org/previews/76/76976_1172438-hq.mp3",
+"creator": "digitopia",
+"creator_url": "https://freesound.org/people/digitopia",
+"license": "sampling+",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/licenses/sampling+/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 699607,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "creak",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "digitopia",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "engine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "florian",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "groan",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "historical",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "metal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "motor",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "porto",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "portugal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "public",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rattle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "squeak",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "streetcar",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "traffic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tram",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "transport",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wood",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/76976/download/",
+"bit_rate": 0,
+"filesize": 8095676,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"09-07-13_1757_Piolho - Tram is starting.WAV\" by digitopia is licensed under CC Sampling+ 1.0. To view a copy of this license, visit https://creativecommons.org/licenses/sampling+/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Tram/Streetcar in Porto",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/4997/",
+"creator": "digitopia",
+"creator_url": "https://freesound.org/people/digitopia/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 30595,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/66a4ba6c-da64-4503-9ee5-42ab24f6769c/",
+"related_url": "https://api.openverse.org/v1/audio/66a4ba6c-da64-4503-9ee5-42ab24f6769c/related/",
+"waveform": "https://api.openverse.org/v1/audio/66a4ba6c-da64-4503-9ee5-42ab24f6769c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8e9bfb19-05fa-416e-8b8e-2792b8dc815f",
+"title": "Nl-trams",
+"indexed_on": "2023-07-18T14:58:04.774168Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=29777071",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Nl-trams.ogg",
+"creator": "Marcel coenders",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Marcel_coenders",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 12968,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-trams\" by Marcel coenders is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1050,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8e9bfb19-05fa-416e-8b8e-2792b8dc815f/",
+"related_url": "https://api.openverse.org/v1/audio/8e9bfb19-05fa-416e-8b8e-2792b8dc815f/related/",
+"waveform": "https://api.openverse.org/v1/audio/8e9bfb19-05fa-416e-8b8e-2792b8dc815f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "40026c84-0fa2-49e9-bb92-c452556e46c6",
+"title": "Melbourne street with trams passing XY.WAV",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/dnlburnett/sounds/360760",
+"url": "https://cdn.freesound.org/previews/360/360760_5658680-hq.mp3",
+"creator": "dnlburnett",
+"creator_url": "https://freesound.org/people/dnlburnett",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1883395,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Air-tone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Airtone",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Cars",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "City",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Melbourne",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Passing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Pedestrian",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Public",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Street",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Traffic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Trams",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Trolley",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Urban",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/360760/download/",
+"bit_rate": 0,
+"filesize": 14645248,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Melbourne street with trams passing XY.WAV\" by dnlburnett is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 82837,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/40026c84-0fa2-49e9-bb92-c452556e46c6/",
+"related_url": "https://api.openverse.org/v1/audio/40026c84-0fa2-49e9-bb92-c452556e46c6/related/",
+"waveform": "https://api.openverse.org/v1/audio/40026c84-0fa2-49e9-bb92-c452556e46c6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "81631105-42d4-49dc-8af8-33a946d1406d",
+"title": "tram bell.wav",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/AmazingRolo/sounds/448366",
+"url": "https://cdn.freesound.org/previews/448/448366_456-hq.mp3",
+"creator": "AmazingRolo",
+"creator_url": "https://freesound.org/people/AmazingRolo",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 728274,
+"filetype": "mp3",
+"tags": [
+{
+"name": "tram",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Edinburgh",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bell",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/448366/download/",
+"bit_rate": 0,
+"filesize": 5558752,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"tram bell.wav\" by AmazingRolo is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 31512,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/81631105-42d4-49dc-8af8-33a946d1406d/",
+"related_url": "https://api.openverse.org/v1/audio/81631105-42d4-49dc-8af8-33a946d1406d/related/",
+"waveform": "https://api.openverse.org/v1/audio/81631105-42d4-49dc-8af8-33a946d1406d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "73481421-dc96-46aa-a680-79bbceaef2cb",
+"title": "Rue du tram",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/195548",
+"url": "https://prod-1.storage.jamendo.com/?trackid=195548&format=mp32",
+"creator": "Passe-Fil",
+"creator_url": "https://www.jamendo.com/artist/340897/Passe-Fil",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"chansonfrancaise",
+"electronic",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "text",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Rue du tram\" by Passe-Fil is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Plages Folles",
+"foreign_landing_url": "https://www.jamendo.com/album/29250/plages-folles",
+"creator": "Passe-Fil",
+"creator_url": "https://www.jamendo.com/artist/340897/Passe-Fil",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 200000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/73481421-dc96-46aa-a680-79bbceaef2cb/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/73481421-dc96-46aa-a680-79bbceaef2cb/",
+"related_url": "https://api.openverse.org/v1/audio/73481421-dc96-46aa-a680-79bbceaef2cb/related/",
+"waveform": "https://api.openverse.org/v1/audio/73481421-dc96-46aa-a680-79bbceaef2cb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "19cd847c-7534-4504-aa03-e51634ace430",
+"title": "02800 tram is passing.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Robinhood76/sounds/128997",
+"url": "https://cdn.freesound.org/previews/128/128997_321967-hq.mp3",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 469417,
+"filetype": "mp3",
+"tags": [
+{
+"name": "city",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "passing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rail",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "street-car",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tram",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tramway",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/128997/download/",
+"bit_rate": 0,
+"filesize": 3579274,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"02800 tram is passing.wav\" by Robinhood76 is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "RAILWAY AND TRAIN AMBIENCE mono and stereo",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/3729/",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 20285,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/19cd847c-7534-4504-aa03-e51634ace430/",
+"related_url": "https://api.openverse.org/v1/audio/19cd847c-7534-4504-aa03-e51634ace430/related/",
+"waveform": "https://api.openverse.org/v1/audio/19cd847c-7534-4504-aa03-e51634ace430/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9fdc72a7-77e8-4d11-b878-3187288cd596",
+"title": "Leipzig, Germany, ride with old, rattling tram",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/hEARt_PhoniX/sounds/164846",
+"url": "https://cdn.freesound.org/previews/164/164846_55099-hq.mp3",
+"creator": "hEARt_PhoniX",
+"creator_url": "https://freesound.org/people/hEARt_PhoniX",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 12615716,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Leipzig",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "binaural",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "documentation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tram",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tram-ride",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/164846/download/",
+"bit_rate": 0,
+"filesize": 41256140,
+"filetype": "flac",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Leipzig, Germany, ride with old, rattling tram\" by hEARt_PhoniX is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 543036,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9fdc72a7-77e8-4d11-b878-3187288cd596/",
+"related_url": "https://api.openverse.org/v1/audio/9fdc72a7-77e8-4d11-b878-3187288cd596/related/",
+"waveform": "https://api.openverse.org/v1/audio/9fdc72a7-77e8-4d11-b878-3187288cd596/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0336c506-151a-4058-a66d-1038ddddeb26",
+"title": "23-donetsk-tram-ways-doors-opening-and-closing.wav",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/Bram/sounds/11702",
+"url": "https://cdn.freesound.org/previews/11/11702_2-hq.mp3",
+"creator": "Bram",
+"creator_url": "https://freesound.org/people/Bram",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 5018760,
+"filetype": "mp3",
+"tags": [
+{
+"name": "closing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "donetsk",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "doors",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "opening",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rattling",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tram",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/11702/download/",
+"bit_rate": 0,
+"filesize": 61988396,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"23-donetsk-tram-ways-doors-opening-and-closing.wav\" by Bram is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Ucraine",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/622/",
+"creator": "Bram",
+"creator_url": "https://freesound.org/people/Bram/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 215237,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0336c506-151a-4058-a66d-1038ddddeb26/",
+"related_url": "https://api.openverse.org/v1/audio/0336c506-151a-4058-a66d-1038ddddeb26/related/",
+"waveform": "https://api.openverse.org/v1/audio/0336c506-151a-4058-a66d-1038ddddeb26/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "683fa299-dd0b-400d-902f-685b98a40152",
+"title": "tram exterior08 driveby stops leaving fade away.wav",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/notchfilter/sounds/43695",
+"url": "https://cdn.freesound.org/previews/43/43695_456439-hq.mp3",
+"creator": "notchfilter",
+"creator_url": "https://freesound.org/people/notchfilter",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1418401,
+"filetype": "mp3",
+"tags": [
+{
+"name": "leave",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ride",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tram",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/43695/download/",
+"bit_rate": 0,
+"filesize": 16654568,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"tram exterior08 driveby stops leaving fade away.wav\" by notchfilter is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 62938,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/683fa299-dd0b-400d-902f-685b98a40152/",
+"related_url": "https://api.openverse.org/v1/audio/683fa299-dd0b-400d-902f-685b98a40152/related/",
+"waveform": "https://api.openverse.org/v1/audio/683fa299-dd0b-400d-902f-685b98a40152/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9313602a-a31b-41a9-a4c2-8d548d5c5d25",
+"title": "neon sign buzz hum stereo close lowcut to taste3.flac",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/kyles/sounds/453490",
+"url": "https://cdn.freesound.org/previews/453/453490_612689-hq.mp3",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2138688,
+"filetype": "mp3",
+"tags": [
+{
+"name": "buzz",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "close",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hum",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lowcut",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "neon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sign",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stereo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "taste",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/453490/download/",
+"bit_rate": 0,
+"filesize": 10246805,
+"filetype": "flac",
+"sample_rate": 48000
+}
+],
+"attribution": "\"neon sign buzz hum stereo close lowcut to taste3.flac\" by kyles is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "random",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/3340/",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 90358,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9313602a-a31b-41a9-a4c2-8d548d5c5d25/",
+"related_url": "https://api.openverse.org/v1/audio/9313602a-a31b-41a9-a4c2-8d548d5c5d25/related/",
+"waveform": "https://api.openverse.org/v1/audio/9313602a-a31b-41a9-a4c2-8d548d5c5d25/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "487912ac-6129-4106-9393-b7fba91beefb",
+"title": "Neon Taylor - K U R U",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1157679",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1157679&format=mp32",
+"creator": "Neon Taylor",
+"creator_url": "https://www.jamendo.com/artist/454728/Neon_Taylor",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"edm",
+"hardcore",
+"hiphop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "soft",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Taylor - K U R U\" by Neon Taylor is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "As above so below",
+"foreign_landing_url": "https://www.jamendo.com/album/138925/as-above-so-below",
+"creator": "Neon Taylor",
+"creator_url": "https://www.jamendo.com/artist/454728/Neon_Taylor",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 152000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/487912ac-6129-4106-9393-b7fba91beefb/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/487912ac-6129-4106-9393-b7fba91beefb/",
+"related_url": "https://api.openverse.org/v1/audio/487912ac-6129-4106-9393-b7fba91beefb/related/",
+"waveform": "https://api.openverse.org/v1/audio/487912ac-6129-4106-9393-b7fba91beefb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6106d6b4-c10f-405e-9bed-ee57857f8972",
+"title": "Neon Funk",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1250862",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1250862&format=mp32",
+"creator": "JCRZ",
+"creator_url": "https://www.jamendo.com/artist/2189/jcrz",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"dance",
+"electronic",
+"funk"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthetiseurs",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Funk\" by JCRZ is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Jubilee",
+"foreign_landing_url": "https://www.jamendo.com/album/149692/jubilee",
+"creator": "JCRZ",
+"creator_url": "https://www.jamendo.com/artist/2189/jcrz",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 338000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/6106d6b4-c10f-405e-9bed-ee57857f8972/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/6106d6b4-c10f-405e-9bed-ee57857f8972/",
+"related_url": "https://api.openverse.org/v1/audio/6106d6b4-c10f-405e-9bed-ee57857f8972/related/",
+"waveform": "https://api.openverse.org/v1/audio/6106d6b4-c10f-405e-9bed-ee57857f8972/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "71b36297-fbbb-430d-a09f-afc4ae4ce45f",
+"title": "neon tube fluorescent light hum cu1 wider.flac",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/kyles/sounds/454095",
+"url": "https://cdn.freesound.org/previews/454/454095_612689-hq.mp3",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1846272,
+"filetype": "mp3",
+"tags": [
+{
+"name": "fluorescent",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hum",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "light",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "neon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tube",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/454095/download/",
+"bit_rate": 0,
+"filesize": 18827911,
+"filetype": "flac",
+"sample_rate": 48000
+}
+],
+"attribution": "\"neon tube fluorescent light hum cu1 wider.flac\" by kyles is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "random",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/3340/",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 80791,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/71b36297-fbbb-430d-a09f-afc4ae4ce45f/",
+"related_url": "https://api.openverse.org/v1/audio/71b36297-fbbb-430d-a09f-afc4ae4ce45f/related/",
+"waveform": "https://api.openverse.org/v1/audio/71b36297-fbbb-430d-a09f-afc4ae4ce45f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a8052ebe-0dcc-482c-aad4-24b05efd840a",
+"title": "A55hol3 Neon Stereo Remix",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1402144",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1402144&format=mp32",
+"creator": "A Virtual Friend",
+"creator_url": "https://www.jamendo.com/artist/467367/A_Virtual_Friend",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"house",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "drums",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "remix",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"A55hol3 Neon Stereo Remix\" by A Virtual Friend is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "A55hol3 EP",
+"foreign_landing_url": "https://www.jamendo.com/album/164033/a55hol3-ep",
+"creator": "A Virtual Friend",
+"creator_url": "https://www.jamendo.com/artist/467367/A_Virtual_Friend",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 334000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/a8052ebe-0dcc-482c-aad4-24b05efd840a/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/a8052ebe-0dcc-482c-aad4-24b05efd840a/",
+"related_url": "https://api.openverse.org/v1/audio/a8052ebe-0dcc-482c-aad4-24b05efd840a/related/",
+"waveform": "https://api.openverse.org/v1/audio/a8052ebe-0dcc-482c-aad4-24b05efd840a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8031d7f5-e33b-48dc-a8c8-350f42389d58",
+"title": "Neon Taylor - In & Out pt2",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1157678",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1157678&format=mp32",
+"creator": "Neon Taylor",
+"creator_url": "https://www.jamendo.com/artist/454728/Neon_Taylor",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"edm",
+"hardcore",
+"hiphop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "soft",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Taylor - In &amp; Out pt2\" by Neon Taylor is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "As above so below",
+"foreign_landing_url": "https://www.jamendo.com/album/138925/as-above-so-below",
+"creator": "Neon Taylor",
+"creator_url": "https://www.jamendo.com/artist/454728/Neon_Taylor",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 77000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/8031d7f5-e33b-48dc-a8c8-350f42389d58/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/8031d7f5-e33b-48dc-a8c8-350f42389d58/",
+"related_url": "https://api.openverse.org/v1/audio/8031d7f5-e33b-48dc-a8c8-350f42389d58/related/",
+"waveform": "https://api.openverse.org/v1/audio/8031d7f5-e33b-48dc-a8c8-350f42389d58/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "741a559a-21ac-4409-9536-20e133631814",
+"title": "Neon",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1521657",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1521657&format=mp32",
+"creator": "Got No Choice",
+"creator_url": "https://www.jamendo.com/artist/507030/Got_No_Choice",
+"license": "by-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"groovemetal",
+"metal",
+"metalcore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vaporwave",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon\" by Got No Choice is licensed under CC BY-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Neon EP",
+"foreign_landing_url": "https://www.jamendo.com/album/174785/neon-ep",
+"creator": "Got No Choice",
+"creator_url": "https://www.jamendo.com/artist/507030/Got_No_Choice",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 278000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/741a559a-21ac-4409-9536-20e133631814/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/741a559a-21ac-4409-9536-20e133631814/",
+"related_url": "https://api.openverse.org/v1/audio/741a559a-21ac-4409-9536-20e133631814/related/",
+"waveform": "https://api.openverse.org/v1/audio/741a559a-21ac-4409-9536-20e133631814/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c55d525a-207d-49d5-a564-ad34308fc4e3",
+"title": "LL-Q1860 (eng)-Tesco250-neon",
+"indexed_on": "2026-07-16T00:30:08.273191Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=195719478",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/64/LL-Q1860_%28eng%29-Tesco250-neon.wav",
+"creator": "Speaker: Tesco250 Recorder: Tesco250",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Tesco250",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 98604,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Tesco250-neon\" by Speaker: Tesco250 Recorder: Tesco250 is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1026,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c55d525a-207d-49d5-a564-ad34308fc4e3/",
+"related_url": "https://api.openverse.org/v1/audio/c55d525a-207d-49d5-a564-ad34308fc4e3/related/",
+"waveform": "https://api.openverse.org/v1/audio/c55d525a-207d-49d5-a564-ad34308fc4e3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bb0e035d-fcef-468e-a2ed-ca522d2ca638",
+"title": "LL-Q143 (epo)-TranqyPoo-neon",
+"indexed_on": "2026-02-16T00:39:48.102465Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=184160770",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/20/LL-Q143_%28epo%29-TranqyPoo-neon.wav",
+"creator": "Speaker: TranqyPoo Recorder: TranqyPoo",
+"creator_url": "https://lingualibre.org/wiki/%27%27",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 87596,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q143 (epo)-TranqyPoo-neon\" by Speaker: TranqyPoo Recorder: TranqyPoo is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 912,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/bb0e035d-fcef-468e-a2ed-ca522d2ca638/",
+"related_url": "https://api.openverse.org/v1/audio/bb0e035d-fcef-468e-a2ed-ca522d2ca638/related/",
+"waveform": "https://api.openverse.org/v1/audio/bb0e035d-fcef-468e-a2ed-ca522d2ca638/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "716001d8-f75a-46b5-9807-dc5c791cc954",
+"title": "LL-Q9056 (ces)-TranslateForFun-neon",
+"indexed_on": "2026-02-15T00:36:59.164537Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=183992958",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LL-Q9056_%28ces%29-TranslateForFun-neon.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "Speaker: TranslateForFun Recorder: TranslateForFun",
+"creator_url": "http://lingualibre.org/wiki/Q1602635",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 96300,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q9056 (ces)-TranslateForFun-neon\" by Speaker: TranslateForFun Recorder: TranslateForFun is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1002,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/716001d8-f75a-46b5-9807-dc5c791cc954/",
+"related_url": "https://api.openverse.org/v1/audio/716001d8-f75a-46b5-9807-dc5c791cc954/related/",
+"waveform": "https://api.openverse.org/v1/audio/716001d8-f75a-46b5-9807-dc5c791cc954/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fdbec6e1-4346-45e6-9d58-1c7a76504cde",
+"title": "LL-Q9051 (ltz)-Procrastineur49-Neon",
+"indexed_on": "2024-03-15T00:05:54.718762Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=146362260",
+"url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/LL-Q9051_%28ltz%29-Procrastineur49-Neon.wav",
+"creator": "Speaker: Procrastineur49 Recorder: Procrastineur49",
+"creator_url": "https://lingualibre.org/wiki/Q1311684",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 105516,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q9051 (ltz)-Procrastineur49-Neon\" by Speaker: Procrastineur49 Recorder: Procrastineur49 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1098,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/fdbec6e1-4346-45e6-9d58-1c7a76504cde/",
+"related_url": "https://api.openverse.org/v1/audio/fdbec6e1-4346-45e6-9d58-1c7a76504cde/related/",
+"waveform": "https://api.openverse.org/v1/audio/fdbec6e1-4346-45e6-9d58-1c7a76504cde/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5ce288e5-98c7-438f-95ee-5f206b27a980",
+"title": "Neon Taylor - V N V R C K Y",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1157689",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1157689&format=mp32",
+"creator": "Neon Taylor",
+"creator_url": "https://www.jamendo.com/artist/454728/Neon_Taylor",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"edm",
+"hardcore",
+"hiphop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "soft",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Taylor - V N V R C K Y\" by Neon Taylor is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "As above so below",
+"foreign_landing_url": "https://www.jamendo.com/album/138925/as-above-so-below",
+"creator": "Neon Taylor",
+"creator_url": "https://www.jamendo.com/artist/454728/Neon_Taylor",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 170000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/5ce288e5-98c7-438f-95ee-5f206b27a980/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/5ce288e5-98c7-438f-95ee-5f206b27a980/",
+"related_url": "https://api.openverse.org/v1/audio/5ce288e5-98c7-438f-95ee-5f206b27a980/related/",
+"waveform": "https://api.openverse.org/v1/audio/5ce288e5-98c7-438f-95ee-5f206b27a980/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e65c6bec-be2f-4807-b937-dbec20d65068",
+"title": "Neon Star",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/740570",
+"url": "https://prod-1.storage.jamendo.com/?trackid=740570&format=mp32",
+"creator": "Zetabet",
+"creator_url": "https://www.jamendo.com/artist/349700/Zxoie",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"disco",
+"electronic",
+"electropop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "retro",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Star\" by Zetabet is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Love Me Now",
+"foreign_landing_url": "https://www.jamendo.com/album/86552/love-me-now",
+"creator": "Zetabet",
+"creator_url": "https://www.jamendo.com/artist/349700/Zxoie",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 214000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e65c6bec-be2f-4807-b937-dbec20d65068/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e65c6bec-be2f-4807-b937-dbec20d65068/",
+"related_url": "https://api.openverse.org/v1/audio/e65c6bec-be2f-4807-b937-dbec20d65068/related/",
+"waveform": "https://api.openverse.org/v1/audio/e65c6bec-be2f-4807-b937-dbec20d65068/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4bd6fc0b-3caf-41fc-9c53-5e9ec12bdf1c",
+"title": "neon sign buzz hum stereo close lowcut to taste4.flac",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/kyles/sounds/453491",
+"url": "https://cdn.freesound.org/previews/453/453491_612689-hq.mp3",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1662048,
+"filetype": "mp3",
+"tags": [
+{
+"name": "buzz",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "close",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hum",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lowcut",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "neon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sign",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stereo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "taste",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/453491/download/",
+"bit_rate": 0,
+"filesize": 8137584,
+"filetype": "flac",
+"sample_rate": 48000
+}
+],
+"attribution": "\"neon sign buzz hum stereo close lowcut to taste4.flac\" by kyles is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "random",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/3340/",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 71246,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4bd6fc0b-3caf-41fc-9c53-5e9ec12bdf1c/",
+"related_url": "https://api.openverse.org/v1/audio/4bd6fc0b-3caf-41fc-9c53-5e9ec12bdf1c/related/",
+"waveform": "https://api.openverse.org/v1/audio/4bd6fc0b-3caf-41fc-9c53-5e9ec12bdf1c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "160280f7-ea20-4342-9362-470922ff70e9",
+"title": "Neon Civilized Resistance",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/100786",
+"url": "https://prod-1.storage.jamendo.com/?trackid=100786&format=mp32",
+"creator": "arca\u00efde",
+"creator_url": "https://www.jamendo.com/artist/336992/arcaide",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"experimental",
+"industrial"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Civilized Resistance\" by arca\u00efde is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Opus Mort",
+"foreign_landing_url": "https://www.jamendo.com/album/11149/opus-mort",
+"creator": "arca\u00efde",
+"creator_url": "https://www.jamendo.com/artist/336992/arcaide",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 146000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/160280f7-ea20-4342-9362-470922ff70e9/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/160280f7-ea20-4342-9362-470922ff70e9/",
+"related_url": "https://api.openverse.org/v1/audio/160280f7-ea20-4342-9362-470922ff70e9/related/",
+"waveform": "https://api.openverse.org/v1/audio/160280f7-ea20-4342-9362-470922ff70e9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bb0ecc97-63b5-4a01-ad95-a4e45365813c",
+"title": "into the neon city",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/373498",
+"url": "https://prod-1.storage.jamendo.com/?trackid=373498&format=mp32",
+"creator": "trickster (Atsuki)",
+"creator_url": "https://www.jamendo.com/artist/349961/Atsuki_(2)",
+"license": "by-sa",
+"license_version": "2.1",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.1/jp/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": null,
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "how_many_moments (5 songs version)",
+"foreign_landing_url": "https://www.jamendo.com/album/47778/how_many_moments-5-songs-version",
+"creator": "trickster (Atsuki)",
+"creator_url": "https://www.jamendo.com/artist/349961/Atsuki_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 265000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/bb0ecc97-63b5-4a01-ad95-a4e45365813c/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/bb0ecc97-63b5-4a01-ad95-a4e45365813c/",
+"related_url": "https://api.openverse.org/v1/audio/bb0ecc97-63b5-4a01-ad95-a4e45365813c/related/",
+"waveform": "https://api.openverse.org/v1/audio/bb0ecc97-63b5-4a01-ad95-a4e45365813c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a82d86c8-7fea-4982-8381-47119b13b584",
+"title": "neon goodbye loop",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/yatoimtop/sounds/579079",
+"url": "https://cdn.freesound.org/previews/579/579079_2816123-hq.mp3",
+"creator": "yatoimtop",
+"creator_url": "https://freesound.org/people/yatoimtop",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 544800,
+"filetype": "mp3",
+"tags": [
+{
+"name": "125-bpm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electronic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "loop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "music",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nostalgic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "synth",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vaporwave",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/579079/download/",
+"bit_rate": 0,
+"filesize": 6635630,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"neon goodbye loop\" by yatoimtop is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 23040,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a82d86c8-7fea-4982-8381-47119b13b584/",
+"related_url": "https://api.openverse.org/v1/audio/a82d86c8-7fea-4982-8381-47119b13b584/related/",
+"waveform": "https://api.openverse.org/v1/audio/a82d86c8-7fea-4982-8381-47119b13b584/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "070a9531-dfa0-448d-942d-f1c580bb4ed9",
+"title": "Neon Mauve",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/390412",
+"url": "https://prod-1.storage.jamendo.com/?trackid=390412&format=mp32",
+"creator": "Bruiser",
+"creator_url": "https://www.jamendo.com/artist/352142/Bruiser",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Mauve\" by Bruiser is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "RightBeforeTheStopAhead",
+"foreign_landing_url": "https://www.jamendo.com/album/49169/rightbeforethestopahead",
+"creator": "Bruiser",
+"creator_url": "https://www.jamendo.com/artist/352142/Bruiser",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 186000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/070a9531-dfa0-448d-942d-f1c580bb4ed9/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/070a9531-dfa0-448d-942d-f1c580bb4ed9/",
+"related_url": "https://api.openverse.org/v1/audio/070a9531-dfa0-448d-942d-f1c580bb4ed9/related/",
+"waveform": "https://api.openverse.org/v1/audio/070a9531-dfa0-448d-942d-f1c580bb4ed9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e3a54c7b-95ce-4bb7-96a2-f3eb867ea74b",
+"title": "Neon Skyline",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1921368",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1921368&format=mp32",
+"creator": "neonfish",
+"creator_url": "https://www.jamendo.com/artist/513458/neonfish",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"synthwave"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sport",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Skyline\" by neonfish is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Neon Skyline",
+"foreign_landing_url": "https://www.jamendo.com/album/472247/neon-skyline",
+"creator": "neonfish",
+"creator_url": "https://www.jamendo.com/artist/513458/neonfish",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 134000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e3a54c7b-95ce-4bb7-96a2-f3eb867ea74b/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e3a54c7b-95ce-4bb7-96a2-f3eb867ea74b/",
+"related_url": "https://api.openverse.org/v1/audio/e3a54c7b-95ce-4bb7-96a2-f3eb867ea74b/related/",
+"waveform": "https://api.openverse.org/v1/audio/e3a54c7b-95ce-4bb7-96a2-f3eb867ea74b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9d2cac4f-8f1d-40e1-b158-d43642cf25a4",
+"title": "Neon Heart INSTRUMENTAL",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1577945",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1577945&format=mp32",
+"creator": "Neon NiteClub",
+"creator_url": "https://www.jamendo.com/artist/371777/Neon_NiteClub_(2)",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"dance",
+"electropop",
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "80s",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "fun",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "retro",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Neon Heart INSTRUMENTAL\" by Neon NiteClub is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Neon NiteClub Instrumental Collection",
+"foreign_landing_url": "https://www.jamendo.com/album/179494/neon-niteclub-instrumental-collection",
+"creator": "Neon NiteClub",
+"creator_url": "https://www.jamendo.com/artist/371777/Neon_NiteClub_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 228000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/9d2cac4f-8f1d-40e1-b158-d43642cf25a4/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/9d2cac4f-8f1d-40e1-b158-d43642cf25a4/",
+"related_url": "https://api.openverse.org/v1/audio/9d2cac4f-8f1d-40e1-b158-d43642cf25a4/related/",
+"waveform": "https://api.openverse.org/v1/audio/9d2cac4f-8f1d-40e1-b158-d43642cf25a4/waveform/",
+"unstable__sensitivity": []
 }
 ]

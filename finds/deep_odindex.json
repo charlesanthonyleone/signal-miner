@@ -38582,5 +38582,2721 @@
 ]
 ],
 "mined_at": "2026-11-06T23:21:12Z"
+},
+{
+"source": "Open Directory",
+"title": "openiked-7.3-relnotes.txt",
+"date": "2023-11-19 16:59",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.6K",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/openiked-7.3-relnotes.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 1.6K \uff77 2023-11-19 16:59 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "cd80.iso",
+"date": "2026-10-07 13:18",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.9M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/cd80.iso",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 2.9M \uff77 2026-10-07 13:18 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "openiked-7.2-relnotes.txt",
+"date": "2022-12-01 17:39",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.4K",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/openiked-7.2-relnotes.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 1.4K \uff77 2022-12-01 17:39 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "man80.tgz",
+"date": "2026-10-07 12:40",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "8.3M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/man80.tgz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 8.3M \uff77 2026-10-07 12:40 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "openiked-7.3.tar.gz.asc",
+"date": "2023-11-19 16:59",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "228",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/openiked-7.3.tar.gz.asc",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 228 \uff77 2023-11-19 16:59 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "openiked.pub",
+"date": "2021-05-17 17:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "96",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/openiked.pub",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 96 \uff77 2021-05-17 17:33 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "miniroot80.img",
+"date": "2026-10-07 13:18",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "3.0M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/miniroot80.img",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 3.0M \uff77 2026-10-07 13:18 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "xfont80.tgz",
+"date": "2026-10-07 15:54",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "22M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/xfont80.tgz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 22M \uff77 2026-10-07 15:54 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "install80.iso",
+"date": "2026-10-07 16:04",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "245M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/install80.iso",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 245M \uff77 2026-10-07 16:04 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "comp80.tgz",
+"date": "2026-10-07 12:40",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "50M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/comp80.tgz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 50M \uff77 2026-10-07 12:40 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "openiked-7.1-relnotes.txt",
+"date": "2022-05-23 13:48",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.6K",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/openiked-7.1-relnotes.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 1.6K \uff77 2022-05-23 13:48 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "SHA256",
+"date": "2026-10-07 16:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.7K",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/SHA256",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 1.7K \uff77 2026-10-07 16:17 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "BUILDINFO",
+"date": "2026-10-07 13:18",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "54",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/BUILDINFO",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 54 \uff77 2026-10-07 13:18 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "openiked-7.4-relnotes.txt",
+"date": "2025-04-10 19:10",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.2K",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/openiked-7.4-relnotes.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 1.2K \uff77 2025-04-10 19:10 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "netboot",
+"date": "2026-10-07 11:02",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "76K",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/netboot",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 76K \uff77 2026-10-07 11:02 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "base80.tgz",
+"date": "2026-10-07 12:38",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "119M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/base80.tgz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 119M \uff77 2026-10-07 12:38 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "bsd.rd",
+"date": "2026-10-07 13:18",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.7M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/bsd.rd",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 2.7M \uff77 2026-10-07 13:18 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "openiked-7.1.tar.gz",
+"date": "2022-05-23 13:48",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "298K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/openiked-7.1.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 298K \uff77 2022-05-23 13:48 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "openiked.asc",
+"date": "2021-05-17 17:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "413",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/openiked.asc",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 413 \uff77 2021-05-17 17:33 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "openiked-7.3.tar.gz",
+"date": "2023-11-19 16:59",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "310K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/openiked-7.3.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 310K \uff77 2023-11-19 16:59 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "INSTALL.alpha",
+"date": "2026-10-07 13:18",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "50K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/INSTALL.alpha",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 50K \uff77 2026-10-07 13:18 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "SHA256.asc",
+"date": "2025-04-10 19:10",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "228",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/SHA256.asc",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 228 \uff77 2025-04-10 19:10 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenIKED/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "xshare80.tgz",
+"date": "2026-10-07 15:54",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "4.5M",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/xshare80.tgz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 4.5M \uff77 2026-10-07 15:54 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/alpha/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "new-this-week",
+"date": "24-May-2006 07:51",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "16",
+"ftype": "text",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/new-this-week",
+"mime": "text/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "text \uff77 16 \uff77 24-May-2006 07:51 \uff77 in https://ftp.lip6.fr/pub/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "gettext-0.22.tar.gz",
+"date": "17-Jun-2023 11:14",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "26105696",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/gettext-0.22.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 26105696 \uff77 17-Jun-2023 11:14 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "gperf-2.7-19981006.pat",
+"date": "07-Oct-1998 22:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "6359",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/gperf-2.7-19981006.pat",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 6359 \uff77 07-Oct-1998 22:00 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "mpc-0.8.1.tar.gz",
+"date": "08-Dec-2009 15:10",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "544950",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/mpc-0.8.1.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 544950 \uff77 08-Dec-2009 15:10 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "ls-lR.gz",
+"date": "06-Nov-2026 09:20",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "164955635",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/ls-lR.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 164955635 \uff77 06-Nov-2026 09:20 \uff77 in https://ftp.lip6.fr/pub/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "sha512.sum",
+"date": "12-Feb-2017 15:44",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "300",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/summit/sha512.sum",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 300 \uff77 12-Feb-2017 15:44 \uff77 in https://ftp.lip6.fr/pub/gcc/summit/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/summit/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/summit/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "license.dvi",
+"date": "15-Dec-2005 11:19",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "14716",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/pvs/license.dvi",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 14716 \uff77 15-Dec-2005 11:19 \uff77 in https://ftp.lip6.fr/pub/pvs/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/pvs/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/pvs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "mpfr-3.1.4.tar.bz2",
+"date": "06-Mar-2016 12:43",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1279284",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/mpfr-3.1.4.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 1279284 \uff77 06-Mar-2016 12:43 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "gmp-6.1.0.tar.bz2",
+"date": "31-Oct-2015 23:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2383840",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/gmp-6.1.0.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 2383840 \uff77 31-Oct-2015 23:00 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "md5.sum",
+"date": "02-May-2016 06:44",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2152",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/md5.sum",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 2152 \uff77 02-May-2016 06:44 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "mpc-1.2.1.tar.gz",
+"date": "22-Oct-2020 22:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "838731",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/mpc-1.2.1.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 838731 \uff77 22-Oct-2020 22:00 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "mpfr-4.1.0.tar.bz2",
+"date": "09-Jul-2020 22:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1747243",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/mpfr-4.1.0.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 1747243 \uff77 09-Jul-2020 22:00 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "libg++-2.8.1.3-20000816.diff.gz",
+"date": "15-Aug-2000 22:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "489",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/libg%2B%2B-2.8.1.3-20000816.diff.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 489 \uff77 15-Aug-2000 22:00 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "isl-0.16.1.tar.bz2",
+"date": "15-Jan-2016 08:29",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1626446",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/isl-0.16.1.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 1626446 \uff77 15-Jan-2016 08:29 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "cctools-576.tar.bz2",
+"date": "26-Mar-2005 00:38",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1501452",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/cctools-576.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 1501452 \uff77 26-Mar-2005 00:38 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "cctools-590.36.tar.bz2",
+"date": "16-Mar-2006 00:44",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1566015",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/cctools-590.36.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 1566015 \uff77 16-Mar-2006 00:44 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "isl-0.14.tar.bz2",
+"date": "28-Oct-2014 08:06",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1399896",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/isl-0.14.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 1399896 \uff77 28-Oct-2014 08:06 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "INSTALL.redhat9",
+"date": "25-Oct-2004 13:13",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "685",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/pvs/INSTALL.redhat9",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 685 \uff77 25-Oct-2004 13:13 \uff77 in https://ftp.lip6.fr/pub/pvs/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/pvs/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/pvs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "pooma-2.3.0-gcc.tar.gz",
+"date": "26-Apr-2002 22:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1156334",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/pooma-2.3.0-gcc.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 1156334 \uff77 26-Apr-2002 22:00 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "opencoarrays-1.9.0.tar.gz",
+"date": "21-Aug-2017 05:12",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "320584",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/opencoarrays-1.9.0.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 320584 \uff77 21-Aug-2017 05:12 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "mpfr-4.2.2.tar.bz2",
+"date": "07-Aug-2025 04:38",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1753999",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/mpfr-4.2.2.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 1753999 \uff77 07-Aug-2025 04:38 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "sha512.sum",
+"date": "05-Feb-2015 20:14",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "275",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/sha512.sum",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 275 \uff77 05-Feb-2015 20:14 \uff77 in https://ftp.lip6.fr/pub/gcc/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "libg++-2.8.1.3-20000914.diff.gz",
+"date": "13-Sep-2000 22:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "3065",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/libg%2B%2B-2.8.1.3-20000914.diff.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 3065 \uff77 13-Sep-2000 22:00 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "libg++-2.8.1.3-20000312.diff.gz",
+"date": "11-Mar-2000 23:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "541",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/libg%2B%2B-2.8.1.3-20000312.diff.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 541 \uff77 11-Mar-2000 23:00 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "isl-0.15.tar.bz2",
+"date": "12-Jun-2015 09:44",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1574964",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/isl-0.15.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 1574964 \uff77 12-Jun-2015 09:44 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "2006-GCC-Summit-Proceedings.pdf",
+"date": "12-Feb-2017 14:35",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "13320796",
+"ftype": "text",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/summit/2006-GCC-Summit-Proceedings.pdf",
+"mime": "text/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "text \uff77 13320796 \uff77 12-Feb-2017 14:35 \uff77 in https://ftp.lip6.fr/pub/gcc/summit/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/summit/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/summit/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "cloog-0.16.2.tar.gz",
+"date": "23-Mar-2011 20:43",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1850841",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/cloog-0.16.2.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 1850841 \uff77 23-Mar-2011 20:43 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "ppl-0.10.2.tar.gz",
+"date": "18-Apr-2009 03:22",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "10796863",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/ppl-0.10.2.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 10796863 \uff77 18-Apr-2009 03:22 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "mpc-1.3.1.tar.gz",
+"date": "07-Aug-2025 04:38",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "773573",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/mpc-1.3.1.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 773573 \uff77 07-Aug-2025 04:38 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "cctools-590.12.tar.bz2",
+"date": "31-Oct-2005 08:14",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1541689",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/gcc/infrastructure/cctools-590.12.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 1541689 \uff77 31-Oct-2005 08:14 \uff77 in https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gcc/infrastructure/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/gcc/infrastructure/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2023-04-17.csv",
+"date": "2023-04-18 01:38",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "15K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2023-04-17.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 15K \uff77 2023-04-18 01:38 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2022-12-06.csv",
+"date": "2022-12-07 01:48",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "13K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2022-12-06.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 13K \uff77 2022-12-07 01:48 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2022-10-19.csv",
+"date": "2022-10-20 01:57",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "14K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2022-10-19.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 14K \uff77 2022-10-20 01:57 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2023-03-28.csv",
+"date": "2023-03-29 01:46",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "16K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2023-03-28.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 16K \uff77 2023-03-29 01:46 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2022-08-22.csv",
+"date": "2022-08-23 01:52",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "16K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2022-08-22.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 16K \uff77 2022-08-23 01:52 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2024-07-03.csv",
+"date": "2024-07-04 02:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "20K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2024-07-03.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 20K \uff77 2024-07-04 02:17 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2022-10-28.csv",
+"date": "2022-10-29 01:56",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "14K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2022-10-28.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 14K \uff77 2022-10-29 01:56 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "gpx-planet-2013-04-09.tar.xz.md5",
+"date": "2013-04-12 11:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "63",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/gps/gpx-planet-2013-04-09.tar.xz.md5",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 63 \uff77 2013-04-12 11:17 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/gps/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/gps/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/gps/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2024-01-11.csv",
+"date": "2024-01-12 02:11",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "16K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2024-01-11.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 16K \uff77 2024-01-12 02:11 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2024-07-26.csv",
+"date": "2024-07-27 02:10",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "18K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2024-07-26.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 18K \uff77 2024-07-27 02:10 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2023-03-14.csv",
+"date": "2023-03-15 01:44",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "15K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2023-03-14.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 15K \uff77 2023-03-15 01:44 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2025-03-30.csv",
+"date": "2025-03-31 02:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "15K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2025-03-30.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 15K \uff77 2025-03-31 02:00 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2024-05-26.csv",
+"date": "2024-05-27 02:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "15K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2024-05-26.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 15K \uff77 2024-05-27 02:01 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2022-11-15.csv",
+"date": "2022-11-16 01:52",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "13K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2022-11-15.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 13K \uff77 2022-11-16 01:52 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2025-03-27.csv",
+"date": "2025-03-28 02:20",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "21K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2025-03-27.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 21K \uff77 2025-03-28 02:20 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2022-08-19.csv",
+"date": "2022-08-20 01:50",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "15K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2022-08-19.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 15K \uff77 2022-08-20 01:50 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2023-03-29.csv",
+"date": "2023-03-30 01:43",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "15K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2023-03-29.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 15K \uff77 2023-03-30 01:43 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2024-02-25.csv",
+"date": "2024-02-26 01:55",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "13K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2024-02-25.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 13K \uff77 2024-02-26 01:55 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2024-09-02.csv",
+"date": "2024-09-03 02:04",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "20K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2024-09-02.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 20K \uff77 2024-09-03 02:04 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2024-05-22.csv",
+"date": "2024-05-23 02:19",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "19K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2024-05-22.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 19K \uff77 2024-05-23 02:19 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2023-10-25.csv",
+"date": "2023-10-26 02:05",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "16K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2023-10-25.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 16K \uff77 2023-10-26 02:05 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2025-01-27.csv",
+"date": "2025-01-28 02:15",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "20K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2025-01-27.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 20K \uff77 2025-01-28 02:15 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2022-10-29.csv",
+"date": "2022-10-30 01:36",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "11K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2022-10-29.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 11K \uff77 2022-10-30 01:36 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2024-12-03.csv",
+"date": "2024-12-04 02:09",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "23K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2024-12-03.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 23K \uff77 2024-12-04 02:09 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2024-02-18.csv",
+"date": "2024-02-19 01:56",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "13K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2024-02-18.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 13K \uff77 2024-02-19 01:56 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2023-11-07.csv",
+"date": "2023-11-08 02:09",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "16K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2023-11-07.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 16K \uff77 2023-11-08 02:09 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2023-04-13.csv",
+"date": "2023-04-14 01:39",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "15K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2023-04-13.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 15K \uff77 2023-04-14 01:39 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2023-07-14.csv",
+"date": "2023-07-15 01:41",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "17K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2023-07-14.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 17K \uff77 2023-07-15 01:41 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2023-05-16.csv",
+"date": "2023-05-17 01:30",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "16K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2023-05-16.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 16K \uff77 2023-05-17 01:30 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "apps-2024-06-21.csv",
+"date": "2024-06-22 02:12",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "18K",
+"ftype": "other",
+"host": "mirror.aarnet.edu.au",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/apps-2024-06-21.csv",
+"mime": "other/*",
+"query": "random descent from https://mirror.aarnet.edu.au/pub/",
+"kw": "",
+"preview": "other \uff77 18K \uff77 2024-06-22 02:12 \uff77 in https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/",
+"links": [
+[
+"parent dir \u2197",
+"https://mirror.aarnet.edu.au/pub/openstreetmap/tile_logs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "dgs-0.5.0.tar.gz",
+"date": "1998-03-13 03:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "6.1M",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/dgs/dgs-0.5.0.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 6.1M \uff77 1998-03-13 03:00 \uff77 in https://ftp.gnu.org/old-gnu/dgs/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/dgs/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/dgs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "cpp2html-1.2.tar.gz.md5sum.sig",
+"date": "2001-01-13 11:37",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "232",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cpp2html/cpp2html-1.2.tar.gz.md5sum.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 232 \uff77 2001-01-13 11:37 \uff77 in https://ftp.gnu.org/old-gnu/cpp2html/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cpp2html/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cpp2html/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "dgs-0.5.9-0.5.9.1.diff",
+"date": "2000-01-28 11:41",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "16K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/dgs/dgs-0.5.9-0.5.9.1.diff",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 16K \uff77 2000-01-28 11:41 \uff77 in https://ftp.gnu.org/old-gnu/dgs/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/dgs/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/dgs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "dgs-0.5.8.tar.gz",
+"date": "1999-09-23 17:48",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "3.9M",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/dgs/dgs-0.5.8.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 3.9M \uff77 1999-09-23 17:48 \uff77 in https://ftp.gnu.org/old-gnu/dgs/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/dgs/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/dgs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "cpp2html-1.2.tar.gz",
+"date": "2001-01-13 11:37",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "128K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cpp2html/cpp2html-1.2.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 128K \uff77 2001-01-13 11:37 \uff77 in https://ftp.gnu.org/old-gnu/cpp2html/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cpp2html/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cpp2html/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "cpp2html-1.0.tar.gz",
+"date": "2000-05-06 04:41",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "117K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cpp2html/cpp2html-1.0.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 117K \uff77 2000-05-06 04:41 \uff77 in https://ftp.gnu.org/old-gnu/cpp2html/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cpp2html/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cpp2html/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "md5sum.README",
+"date": "2000-12-29 08:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "361",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cpp2html/md5sum.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 361 \uff77 2000-12-29 08:17 \uff77 in https://ftp.gnu.org/old-gnu/cpp2html/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cpp2html/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cpp2html/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "cpp2html-1.1.tar.gz.md5sum",
+"date": "2000-12-29 08:15",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "54",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cpp2html/cpp2html-1.1.tar.gz.md5sum",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 54 \uff77 2000-12-29 08:15 \uff77 in https://ftp.gnu.org/old-gnu/cpp2html/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cpp2html/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cpp2html/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "cpp2html-1.1.tar.gz",
+"date": "2000-12-29 08:15",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "126K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cpp2html/cpp2html-1.1.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 126K \uff77 2000-12-29 08:15 \uff77 in https://ftp.gnu.org/old-gnu/cpp2html/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cpp2html/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cpp2html/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "dgs-0.5.10.tar.gz",
+"date": "2000-06-19 10:12",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "3.4M",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/dgs/dgs-0.5.10.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 3.4M \uff77 2000-06-19 10:12 \uff77 in https://ftp.gnu.org/old-gnu/dgs/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/dgs/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/dgs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "dgs-0.5.9.1.tar.gz",
+"date": "2000-01-28 11:43",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "3.9M",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/dgs/dgs-0.5.9.1.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 3.9M \uff77 2000-01-28 11:43 \uff77 in https://ftp.gnu.org/old-gnu/dgs/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/dgs/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/dgs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "cpp2html-1.1.tar.gz.md5sum.sig",
+"date": "2000-12-29 08:15",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "240",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cpp2html/cpp2html-1.1.tar.gz.md5sum.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 240 \uff77 2000-12-29 08:15 \uff77 in https://ftp.gnu.org/old-gnu/cpp2html/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cpp2html/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cpp2html/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "cpp2html-1.2.tar.gz.md5sum",
+"date": "2001-01-13 11:37",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "54",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/cpp2html/cpp2html-1.2.tar.gz.md5sum",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 54 \uff77 2001-01-13 11:37 \uff77 in https://ftp.gnu.org/old-gnu/cpp2html/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/cpp2html/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/cpp2html/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
+},
+{
+"source": "Open Directory",
+"title": "dgs-0.5.9.tar.gz",
+"date": "2000-01-12 08:54",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "3.9M",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/dgs/dgs-0.5.9.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 3.9M \uff77 2000-01-12 08:54 \uff77 in https://ftp.gnu.org/old-gnu/dgs/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/dgs/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/dgs/"
+]
+],
+"mined_at": "2026-11-07T06:16:55Z"
 }
 ]
