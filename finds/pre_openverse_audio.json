@@ -76693,5 +76693,3207 @@
 "related_url": "https://api.openverse.org/v1/audio/d7259153-f3ac-466b-b6ad-ac4ffe492c5e/related/",
 "waveform": "https://api.openverse.org/v1/audio/d7259153-f3ac-466b-b6ad-ac4ffe492c5e/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "f1c0835b-364a-4024-9165-010afdbcda13",
+"title": "Winter garden",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1849150",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1849150&format=mp32",
+"creator": "Stefan Kartenberg",
+"creator_url": "https://www.jamendo.com/artist/487675/Stefan_Kartenberg",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"folk",
+"musicbed",
+"production"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "travel",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Winter garden\" by Stefan Kartenberg is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Music for film: folk editions Vol. 2",
+"foreign_landing_url": "https://www.jamendo.com/album/200992/music-for-film-folk-editions-vol-2",
+"creator": "Stefan Kartenberg",
+"creator_url": "https://www.jamendo.com/artist/487675/Stefan_Kartenberg",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 221000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/f1c0835b-364a-4024-9165-010afdbcda13/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/f1c0835b-364a-4024-9165-010afdbcda13/",
+"related_url": "https://api.openverse.org/v1/audio/f1c0835b-364a-4024-9165-010afdbcda13/related/",
+"waveform": "https://api.openverse.org/v1/audio/f1c0835b-364a-4024-9165-010afdbcda13/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "82651e6a-2f7b-43e9-9304-3cffbb28b614",
+"title": "A Garden In Blooming Groove",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/165078",
+"url": "https://prod-1.storage.jamendo.com/?trackid=165078&format=mp32",
+"creator": "Mike Link/Harvey Taylor",
+"creator_url": "https://www.jamendo.com/artist/4590/mike.link.harvey.taylor",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"acidjazz"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"A Garden In Blooming Groove\" by Mike Link/Harvey Taylor is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Beat Elementals",
+"foreign_landing_url": "https://www.jamendo.com/album/24185/beat-elementals",
+"creator": "Mike Link/Harvey Taylor",
+"creator_url": "https://www.jamendo.com/artist/4590/mike.link.harvey.taylor",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 242000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/82651e6a-2f7b-43e9-9304-3cffbb28b614/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/82651e6a-2f7b-43e9-9304-3cffbb28b614/",
+"related_url": "https://api.openverse.org/v1/audio/82651e6a-2f7b-43e9-9304-3cffbb28b614/related/",
+"waveform": "https://api.openverse.org/v1/audio/82651e6a-2f7b-43e9-9304-3cffbb28b614/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9d942c9e-8972-4c1d-9012-df6ef4dd3615",
+"title": "Garden",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/richwise/sounds/497422",
+"url": "https://cdn.freesound.org/previews/497/497422_1481531-hq.mp3",
+"creator": "richwise",
+"creator_url": "https://freesound.org/people/richwise",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 9768888,
+"filetype": "mp3",
+"tags": [
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "garden",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "southampton",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "uk",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "winter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/497422/download/",
+"bit_rate": 0,
+"filesize": 120960336,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Garden\" by richwise is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "My Garden",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/29128/",
+"creator": "richwise",
+"creator_url": "https://freesound.org/people/richwise/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 420000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9d942c9e-8972-4c1d-9012-df6ef4dd3615/",
+"related_url": "https://api.openverse.org/v1/audio/9d942c9e-8972-4c1d-9012-df6ef4dd3615/related/",
+"waveform": "https://api.openverse.org/v1/audio/9d942c9e-8972-4c1d-9012-df6ef4dd3615/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "58cdea8f-9a0b-424d-ab00-2c46b2b6dcb2",
+"title": "Secret Garden",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/25386",
+"url": "https://prod-1.storage.jamendo.com/?trackid=25386&format=mp32",
+"creator": "Celestial Aeon Project",
+"creator_url": "https://www.jamendo.com/artist/2740/celestial.aeon.project",
+"license": "by-nc-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.5/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore",
+"medieval"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "harp",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "soft",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Secret Garden\" by Celestial Aeon Project is licensed under CC BY-NC-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.5/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Aeon 2",
+"foreign_landing_url": "https://www.jamendo.com/album/3495/aeon-2",
+"creator": "Celestial Aeon Project",
+"creator_url": "https://www.jamendo.com/artist/2740/celestial.aeon.project",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 136000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/58cdea8f-9a0b-424d-ab00-2c46b2b6dcb2/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/58cdea8f-9a0b-424d-ab00-2c46b2b6dcb2/",
+"related_url": "https://api.openverse.org/v1/audio/58cdea8f-9a0b-424d-ab00-2c46b2b6dcb2/related/",
+"waveform": "https://api.openverse.org/v1/audio/58cdea8f-9a0b-424d-ab00-2c46b2b6dcb2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b2107e8b-4f98-4c82-bc1b-0e1df4b78a0d",
+"title": "Garden Tree",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/20530",
+"url": "https://prod-1.storage.jamendo.com/?trackid=20530&format=mp32",
+"creator": "Robinson, Freitag And The Lonely Trumpet",
+"creator_url": "https://www.jamendo.com/artist/3039/robinson.freitag.and.the.lonely.trumpet",
+"license": "by-nc-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.5/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"indie",
+"pop",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "ethno",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "fun",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Garden Tree\" by Robinson, Freitag And The Lonely Trumpet is licensed under CC BY-NC-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.5/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Shaking Hands!",
+"foreign_landing_url": "https://www.jamendo.com/album/2882/shaking-hands",
+"creator": "Robinson, Freitag And The Lonely Trumpet",
+"creator_url": "https://www.jamendo.com/artist/3039/robinson.freitag.and.the.lonely.trumpet",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 232000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/b2107e8b-4f98-4c82-bc1b-0e1df4b78a0d/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/b2107e8b-4f98-4c82-bc1b-0e1df4b78a0d/",
+"related_url": "https://api.openverse.org/v1/audio/b2107e8b-4f98-4c82-bc1b-0e1df4b78a0d/related/",
+"waveform": "https://api.openverse.org/v1/audio/b2107e8b-4f98-4c82-bc1b-0e1df4b78a0d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b176c53a-5ba6-4f50-8ab0-e8492aba4e58",
+"title": "Ophelia's garden",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/447278",
+"url": "https://prod-1.storage.jamendo.com/?trackid=447278&format=mp32",
+"creator": "klox",
+"creator_url": "https://www.jamendo.com/artist/354322/klox",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"world"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Ophelia's garden\" by klox is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The garden of early delights",
+"foreign_landing_url": "https://www.jamendo.com/album/53776/the-garden-of-early-delights",
+"creator": "klox",
+"creator_url": "https://www.jamendo.com/artist/354322/klox",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 221000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/b176c53a-5ba6-4f50-8ab0-e8492aba4e58/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/b176c53a-5ba6-4f50-8ab0-e8492aba4e58/",
+"related_url": "https://api.openverse.org/v1/audio/b176c53a-5ba6-4f50-8ab0-e8492aba4e58/related/",
+"waveform": "https://api.openverse.org/v1/audio/b176c53a-5ba6-4f50-8ab0-e8492aba4e58/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3b265fb6-c1e6-48cb-ad0b-0618b579c104",
+"title": "The garden",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/150792",
+"url": "https://prod-1.storage.jamendo.com/?trackid=150792&format=mp32",
+"creator": "Torley on Piano",
+"creator_url": "https://www.jamendo.com/artist/338247/Torley_on_Piano",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"classical"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The garden\" by Torley on Piano is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "solo piano 7: Improvisations for a New Age",
+"foreign_landing_url": "https://www.jamendo.com/album/21576/solo-piano-7-improvisations-for-a-new-age",
+"creator": "Torley on Piano",
+"creator_url": "https://www.jamendo.com/artist/338247/Torley_on_Piano",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 128000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/3b265fb6-c1e6-48cb-ad0b-0618b579c104/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/3b265fb6-c1e6-48cb-ad0b-0618b579c104/",
+"related_url": "https://api.openverse.org/v1/audio/3b265fb6-c1e6-48cb-ad0b-0618b579c104/related/",
+"waveform": "https://api.openverse.org/v1/audio/3b265fb6-c1e6-48cb-ad0b-0618b579c104/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ba829111-7e38-4b55-a417-367f4cbb45a6",
+"title": "Spraying water from a garden hose",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/meisterjaan/sounds/323485",
+"url": "https://cdn.freesound.org/previews/323/323485_1337335-hq.mp3",
+"creator": "meisterjaan",
+"creator_url": "https://freesound.org/people/meisterjaan",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 152115,
+"filetype": "mp3",
+"tags": [
+{
+"name": "garden",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hose",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spraying",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/323485/download/",
+"bit_rate": 0,
+"filesize": 1708396,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Spraying water from a garden hose\" by meisterjaan is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 6445,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ba829111-7e38-4b55-a417-367f4cbb45a6/",
+"related_url": "https://api.openverse.org/v1/audio/ba829111-7e38-4b55-a417-367f4cbb45a6/related/",
+"waveform": "https://api.openverse.org/v1/audio/ba829111-7e38-4b55-a417-367f4cbb45a6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3ca74c08-4985-47be-907a-35b717b14f89",
+"title": "Swinging In A Secret Garden",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/116599",
+"url": "https://prod-1.storage.jamendo.com/?trackid=116599&format=mp32",
+"creator": "Doc",
+"creator_url": "https://www.jamendo.com/artist/6186/doc",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"experimental",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "horror",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "meditative",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "scifi",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Swinging In A Secret Garden\" by Doc is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Nangilima",
+"foreign_landing_url": "https://www.jamendo.com/album/15574/nangilima",
+"creator": "Doc",
+"creator_url": "https://www.jamendo.com/artist/6186/doc",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 923000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/3ca74c08-4985-47be-907a-35b717b14f89/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/3ca74c08-4985-47be-907a-35b717b14f89/",
+"related_url": "https://api.openverse.org/v1/audio/3ca74c08-4985-47be-907a-35b717b14f89/related/",
+"waveform": "https://api.openverse.org/v1/audio/3ca74c08-4985-47be-907a-35b717b14f89/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c73d53b1-636d-4ca5-bd96-fbff088f4913",
+"title": "A peaceful day in the garden 2012-05-27.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Kyster/sounds/157755",
+"url": "https://cdn.freesound.org/previews/157/157755_646701-hq.mp3",
+"creator": "Kyster",
+"creator_url": "https://freesound.org/people/Kyster",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 37812288,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Garden",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "life",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "peace",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quiet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relax",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "summer",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/157755/download/",
+"bit_rate": 0,
+"filesize": 314487190,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"A peaceful day in the garden 2012-05-27.wav\" by Kyster is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1637950,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c73d53b1-636d-4ca5-bd96-fbff088f4913/",
+"related_url": "https://api.openverse.org/v1/audio/c73d53b1-636d-4ca5-bd96-fbff088f4913/related/",
+"waveform": "https://api.openverse.org/v1/audio/c73d53b1-636d-4ca5-bd96-fbff088f4913/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0097b2f1-7217-4f24-9426-01a60414c2d5",
+"title": "R09_0031-Garden Chimes - 1.mp3",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/monterey2000/sounds/22345",
+"url": "https://cdn.freesound.org/previews/22/22345_124978-hq.mp3",
+"creator": "monterey2000",
+"creator_url": "https://freesound.org/people/monterey2000",
+"license": "sampling+",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/licenses/sampling+/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 429888,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bells",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chimes",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "garden",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ringing",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/22345/download/",
+"bit_rate": 256000,
+"filesize": 607872,
+"filetype": "mp3",
+"sample_rate": 48000
+}
+],
+"attribution": "\"R09_0031-Garden Chimes - 1.mp3\" by monterey2000 is licensed under CC Sampling+ 1.0. To view a copy of this license, visit https://creativecommons.org/licenses/sampling+/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 18949,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0097b2f1-7217-4f24-9426-01a60414c2d5/",
+"related_url": "https://api.openverse.org/v1/audio/0097b2f1-7217-4f24-9426-01a60414c2d5/related/",
+"waveform": "https://api.openverse.org/v1/audio/0097b2f1-7217-4f24-9426-01a60414c2d5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ab0f41c6-3ed4-4a1e-a261-cc554335dcd0",
+"title": "The Herb Garden",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/711608",
+"url": "https://prod-1.storage.jamendo.com/?trackid=711608&format=mp32",
+"creator": "StrangeZero",
+"creator_url": "https://www.jamendo.com/artist/3799/strangezero",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The Herb Garden\" by StrangeZero is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Future Is A Choice You Make (EP)",
+"foreign_landing_url": "https://www.jamendo.com/album/83070/future-is-a-choice-you-make-ep",
+"creator": "StrangeZero",
+"creator_url": "https://www.jamendo.com/artist/3799/strangezero",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 372000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/ab0f41c6-3ed4-4a1e-a261-cc554335dcd0/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/ab0f41c6-3ed4-4a1e-a261-cc554335dcd0/",
+"related_url": "https://api.openverse.org/v1/audio/ab0f41c6-3ed4-4a1e-a261-cc554335dcd0/related/",
+"waveform": "https://api.openverse.org/v1/audio/ab0f41c6-3ed4-4a1e-a261-cc554335dcd0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "22ac5c94-9ba5-4352-ad68-0f0d04996e93",
+"title": "Garden Hose Spraying",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/deleted_user_7146007/sounds/383713",
+"url": "https://cdn.freesound.org/previews/383/383713_7146007-hq.mp3",
+"creator": "deleted_user_7146007",
+"creator_url": "https://freesound.org/people/deleted_user_7146007",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 379440,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Garden",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Hose",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Spraying",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/383713/download/",
+"bit_rate": 0,
+"filesize": 3701222,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Garden Hose Spraying\" by deleted_user_7146007 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 19166,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/22ac5c94-9ba5-4352-ad68-0f0d04996e93/",
+"related_url": "https://api.openverse.org/v1/audio/22ac5c94-9ba5-4352-ad68-0f0d04996e93/related/",
+"waveform": "https://api.openverse.org/v1/audio/22ac5c94-9ba5-4352-ad68-0f0d04996e93/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c2b94590-1f19-48e8-bf0e-1f20d08eefd7",
+"title": "Garden Ambience.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/mixxythepixxy/sounds/348011",
+"url": "https://cdn.freesound.org/previews/348/348011_6271616-hq.mp3",
+"creator": "mixxythepixxy",
+"creator_url": "https://freesound.org/people/mixxythepixxy",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 951744,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "backyard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birdsong",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "breeze",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "garden",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/348011/download/",
+"bit_rate": 0,
+"filesize": 12006532,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Garden Ambience.wav\" by mixxythepixxy is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Ambience",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/19770/",
+"creator": "mixxythepixxy",
+"creator_url": "https://freesound.org/people/mixxythepixxy/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 41685,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c2b94590-1f19-48e8-bf0e-1f20d08eefd7/",
+"related_url": "https://api.openverse.org/v1/audio/c2b94590-1f19-48e8-bf0e-1f20d08eefd7/related/",
+"waveform": "https://api.openverse.org/v1/audio/c2b94590-1f19-48e8-bf0e-1f20d08eefd7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "563c932c-cd59-4348-a079-91d76faae687",
+"title": "Waking up in the garden",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/728036",
+"url": "https://prod-1.storage.jamendo.com/?trackid=728036&format=mp32",
+"creator": "Dave Imbernon",
+"creator_url": "https://www.jamendo.com/artist/366613/Dave_Imbernon",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Waking up in the garden\" by Dave Imbernon is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Free Songs in a Slave World",
+"foreign_landing_url": "https://www.jamendo.com/album/85093/free-songs-in-a-slave-world",
+"creator": "Dave Imbernon",
+"creator_url": "https://www.jamendo.com/artist/366613/Dave_Imbernon",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 162000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/563c932c-cd59-4348-a079-91d76faae687/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/563c932c-cd59-4348-a079-91d76faae687/",
+"related_url": "https://api.openverse.org/v1/audio/563c932c-cd59-4348-a079-91d76faae687/related/",
+"waveform": "https://api.openverse.org/v1/audio/563c932c-cd59-4348-a079-91d76faae687/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "61dad04b-b15c-4f1e-9c7f-4bb69de7c56d",
+"title": "Morning Garden Ambience with birds",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/170084/sounds/408192",
+"url": "https://cdn.freesound.org/previews/408/408192_7122721-hq.mp3",
+"creator": "170084",
+"creator_url": "https://freesound.org/people/170084",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 3342528,
+"filetype": "mp3",
+"tags": [
+{
+"name": "OWI",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bird",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birdsong",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chirping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "early",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "garden",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "h6",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "morning",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "neighborhood",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noises",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sfx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spring",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stereo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "urban",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "xy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "zoom",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/408192/download/",
+"bit_rate": 0,
+"filesize": 42504568,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Morning Garden Ambience with birds\" by 170084 is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 147583,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/61dad04b-b15c-4f1e-9c7f-4bb69de7c56d/",
+"related_url": "https://api.openverse.org/v1/audio/61dad04b-b15c-4f1e-9c7f-4bb69de7c56d/related/",
+"waveform": "https://api.openverse.org/v1/audio/61dad04b-b15c-4f1e-9c7f-4bb69de7c56d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5954b0fb-3051-44fb-b3b3-cd7f690466cf",
+"title": "Garden Background",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Fabrizio84/sounds/457572",
+"url": "https://cdn.freesound.org/previews/457/457572_2841496-hq.mp3",
+"creator": "Fabrizio84",
+"creator_url": "https://freesound.org/people/Fabrizio84",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 28511867,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "garden",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/457572/download/",
+"bit_rate": 256000,
+"filesize": 40117129,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Garden Background\" by Fabrizio84 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1254680,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5954b0fb-3051-44fb-b3b3-cd7f690466cf/",
+"related_url": "https://api.openverse.org/v1/audio/5954b0fb-3051-44fb-b3b3-cd7f690466cf/related/",
+"waveform": "https://api.openverse.org/v1/audio/5954b0fb-3051-44fb-b3b3-cd7f690466cf/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5bafbb69-0afc-4227-bb94-8728645f25c9",
+"title": "Garden Hose",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Project_Trident/sounds/140317",
+"url": "https://cdn.freesound.org/previews/140/140317_2338419-hq.mp3",
+"creator": "Project_Trident",
+"creator_url": "https://freesound.org/people/Project_Trident",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 242544,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Hose",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drip",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "garden",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pour",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "splash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spray",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/140317/download/",
+"bit_rate": 0,
+"filesize": 1832530,
+"filetype": "aiff",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Garden Hose\" by Project_Trident is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 9544,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5bafbb69-0afc-4227-bb94-8728645f25c9/",
+"related_url": "https://api.openverse.org/v1/audio/5bafbb69-0afc-4227-bb94-8728645f25c9/related/",
+"waveform": "https://api.openverse.org/v1/audio/5bafbb69-0afc-4227-bb94-8728645f25c9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "27d6d21a-9f52-475c-bb1f-acd055f1ec90",
+"title": "garden of heathens",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/705314",
+"url": "https://prod-1.storage.jamendo.com/?trackid=705314&format=mp32",
+"creator": "Fragmento Deemento",
+"creator_url": "https://www.jamendo.com/artist/355290/Fragmento_Deemento",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"garden of heathens\" by Fragmento Deemento is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "volume 2.1",
+"foreign_landing_url": "https://www.jamendo.com/album/82275/volume-2-1",
+"creator": "Fragmento Deemento",
+"creator_url": "https://www.jamendo.com/artist/355290/Fragmento_Deemento",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 242000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/27d6d21a-9f52-475c-bb1f-acd055f1ec90/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/27d6d21a-9f52-475c-bb1f-acd055f1ec90/",
+"related_url": "https://api.openverse.org/v1/audio/27d6d21a-9f52-475c-bb1f-acd055f1ec90/related/",
+"waveform": "https://api.openverse.org/v1/audio/27d6d21a-9f52-475c-bb1f-acd055f1ec90/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2f83945b-20ca-4bd5-bab7-87783a44ebdf",
+"title": "Garden Ambience",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/eudes_uaila0/sounds/410310",
+"url": "https://cdn.freesound.org/previews/410/410310_7118593-hq.mp3",
+"creator": "eudes_uaila0",
+"creator_url": "https://freesound.org/people/eudes_uaila0",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 532487,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Field-Recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Garden",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Outside",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Stereo",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/410310/download/",
+"bit_rate": 0,
+"filesize": 6351136,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Garden Ambience\" by eudes_uaila0 is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 24000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2f83945b-20ca-4bd5-bab7-87783a44ebdf/",
+"related_url": "https://api.openverse.org/v1/audio/2f83945b-20ca-4bd5-bab7-87783a44ebdf/related/",
+"waveform": "https://api.openverse.org/v1/audio/2f83945b-20ca-4bd5-bab7-87783a44ebdf/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "38f72953-39a5-404f-b354-4750f8453e00",
+"title": "Night village edge with away storm.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Gombar_Bendeguz/sounds/583740",
+"url": "https://cdn.freesound.org/previews/583/583740_10355458-hq.mp3",
+"creator": "Gombar_Bendeguz",
+"creator_url": "https://freesound.org/people/Gombar_Bendeguz",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2986224,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Night",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmos",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background-sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "general-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "night",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "storm",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/583740/download/",
+"bit_rate": 0,
+"filesize": 37454682,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Night village edge with away storm.wav\" by Gombar_Bendeguz is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Goose Atmos",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/30169/",
+"creator": "Gombar_Bendeguz",
+"creator_url": "https://freesound.org/people/Gombar_Bendeguz/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 129360,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/38f72953-39a5-404f-b354-4750f8453e00/",
+"related_url": "https://api.openverse.org/v1/audio/38f72953-39a5-404f-b354-4750f8453e00/related/",
+"waveform": "https://api.openverse.org/v1/audio/38f72953-39a5-404f-b354-4750f8453e00/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f0611830-12dd-465d-82d1-c66a1dc7549b",
+"title": "Fight for your Village",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/851428",
+"url": "https://prod-1.storage.jamendo.com/?trackid=851428&format=mp32",
+"creator": "Koke N\u00fa\u00f1ez G\u00f3mez",
+"creator_url": "https://www.jamendo.com/artist/372321/Kokenovem",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "cinematic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "epic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "film",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Fight for your Village\" by Koke N\u00fa\u00f1ez G\u00f3mez is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Ancient Kingdoms (Volume 2)",
+"foreign_landing_url": "https://www.jamendo.com/album/99471/ancient-kingdoms-volume-2",
+"creator": "Koke N\u00fa\u00f1ez G\u00f3mez",
+"creator_url": "https://www.jamendo.com/artist/372321/Kokenovem",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 141000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/f0611830-12dd-465d-82d1-c66a1dc7549b/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/f0611830-12dd-465d-82d1-c66a1dc7549b/",
+"related_url": "https://api.openverse.org/v1/audio/f0611830-12dd-465d-82d1-c66a1dc7549b/related/",
+"waveform": "https://api.openverse.org/v1/audio/f0611830-12dd-465d-82d1-c66a1dc7549b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8271ae0c-093c-4ca5-b1cd-9926e3026552",
+"title": "village bar.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/arnaud%20coutancier/sounds/271325",
+"url": "https://cdn.freesound.org/previews/271/271325_520316-hq.mp3",
+"creator": "arnaud coutancier",
+"creator_url": "https://freesound.org/people/arnaud%20coutancier",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2072648,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bar",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crowd-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "door",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "doors",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pub",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "public-chatter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/271325/download/",
+"bit_rate": 0,
+"filesize": 16259964,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"village bar.wav\" by arnaud coutancier is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Frogerie's sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/2937/",
+"creator": "arnaud coutancier",
+"creator_url": "https://freesound.org/people/arnaud%20coutancier/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 92176,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8271ae0c-093c-4ca5-b1cd-9926e3026552/",
+"related_url": "https://api.openverse.org/v1/audio/8271ae0c-093c-4ca5-b1cd-9926e3026552/related/",
+"waveform": "https://api.openverse.org/v1/audio/8271ae0c-093c-4ca5-b1cd-9926e3026552/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "08aa53dd-1121-4732-ae78-97a55e3d1316",
+"title": "Desert Village",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/25248",
+"url": "https://prod-1.storage.jamendo.com/?trackid=25248&format=mp32",
+"creator": "Celestial Aeon Project",
+"creator_url": "https://www.jamendo.com/artist/2740/celestial.aeon.project",
+"license": "nc-sampling+",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/licenses/nc-sampling+/1.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "arabian",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "cinematic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Desert Village\" by Celestial Aeon Project is licensed under CC NC-Sampling+ 1.0. To view a copy of this license, visit https://creativecommons.org/licenses/nc-sampling+/1.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Aeon",
+"foreign_landing_url": "https://www.jamendo.com/album/3480/aeon",
+"creator": "Celestial Aeon Project",
+"creator_url": "https://www.jamendo.com/artist/2740/celestial.aeon.project",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 125000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/08aa53dd-1121-4732-ae78-97a55e3d1316/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/08aa53dd-1121-4732-ae78-97a55e3d1316/",
+"related_url": "https://api.openverse.org/v1/audio/08aa53dd-1121-4732-ae78-97a55e3d1316/related/",
+"waveform": "https://api.openverse.org/v1/audio/08aa53dd-1121-4732-ae78-97a55e3d1316/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a08748d7-4d25-4689-98af-0850b0fad13c",
+"title": "early morning village alem 110417 7am.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/klankbeeld/sounds/170930",
+"url": "https://cdn.freesound.org/previews/170/170930_1648170-hq.mp3",
+"creator": "klankbeeld",
+"creator_url": "https://freesound.org/people/klankbeeld",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 6067104,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Europe",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Holland",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "May",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Netherlands",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bird",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birdsong",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "chorus",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "country",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "countryside",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dawn",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "early",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hamlet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "morning",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "natural",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "outdoor",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spring",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "village",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/170930/download/",
+"bit_rate": 0,
+"filesize": 77171170,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"early morning village alem 110417 7am.wav\" by klankbeeld is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "white noise village",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/7367/",
+"creator": "klankbeeld",
+"creator_url": "https://freesound.org/people/klankbeeld/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 267955,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a08748d7-4d25-4689-98af-0850b0fad13c/",
+"related_url": "https://api.openverse.org/v1/audio/a08748d7-4d25-4689-98af-0850b0fad13c/related/",
+"waveform": "https://api.openverse.org/v1/audio/a08748d7-4d25-4689-98af-0850b0fad13c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1d55ae80-7f10-42fd-8828-743ff96fac73",
+"title": "Fr-village",
+"indexed_on": "2023-11-26T18:26:56.081310Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=3043806",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Fr-village.ogg",
+"creator": "Vion Nicolas",
+"creator_url": null,
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/fr/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 15620,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Fr-village\" by Vion Nicolas is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/fr/deed.en/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1300,
+"bit_rate": 80000,
+"sample_rate": 44000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1d55ae80-7f10-42fd-8828-743ff96fac73/",
+"related_url": "https://api.openverse.org/v1/audio/1d55ae80-7f10-42fd-8828-743ff96fac73/related/",
+"waveform": "https://api.openverse.org/v1/audio/1d55ae80-7f10-42fd-8828-743ff96fac73/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3b607556-cbe8-48c5-a31b-e0663c8014af",
+"title": "En-uk-village",
+"indexed_on": "2024-02-18T15:47:28.902290Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=9028921",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/En-uk-village.ogg",
+"creator": "Association Shtooka, Judith Franck",
+"creator_url": null,
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/us/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16103,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-uk-village\" by Association Shtooka, Judith Franck is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/us/deed.en/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1250,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/3b607556-cbe8-48c5-a31b-e0663c8014af/",
+"related_url": "https://api.openverse.org/v1/audio/3b607556-cbe8-48c5-a31b-e0663c8014af/related/",
+"waveform": "https://api.openverse.org/v1/audio/3b607556-cbe8-48c5-a31b-e0663c8014af/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "644000cf-fa99-47d1-9644-319e00cfeab2",
+"title": "Le village",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/23193",
+"url": "https://prod-1.storage.jamendo.com/?trackid=23193&format=mp32",
+"creator": "Mes chansons chaussent du 24",
+"creator_url": "https://www.jamendo.com/artist/3434/mes.chansons.chaussent.du.24",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"chansonfrancaise",
+"pop",
+"world"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "enfants",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "history",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Le village\" by Mes chansons chaussent du 24 is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "EDGAR",
+"foreign_landing_url": "https://www.jamendo.com/album/3209/edgar",
+"creator": "Mes chansons chaussent du 24",
+"creator_url": "https://www.jamendo.com/artist/3434/mes.chansons.chaussent.du.24",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 74000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/644000cf-fa99-47d1-9644-319e00cfeab2/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/644000cf-fa99-47d1-9644-319e00cfeab2/",
+"related_url": "https://api.openverse.org/v1/audio/644000cf-fa99-47d1-9644-319e00cfeab2/related/",
+"waveform": "https://api.openverse.org/v1/audio/644000cf-fa99-47d1-9644-319e00cfeab2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9ac7ddaf-2f8c-4c4e-be08-2e1eb2eba640",
+"title": "En-us-village",
+"indexed_on": "2024-04-14T17:15:31.682730Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=1239758",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/93/En-us-village.ogg",
+"creator": "Dvortygirl",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Dvortygirl",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 12482,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-us-village\" by Dvortygirl is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 801,
+"bit_rate": 96001,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9ac7ddaf-2f8c-4c4e-be08-2e1eb2eba640/",
+"related_url": "https://api.openverse.org/v1/audio/9ac7ddaf-2f8c-4c4e-be08-2e1eb2eba640/related/",
+"waveform": "https://api.openverse.org/v1/audio/9ac7ddaf-2f8c-4c4e-be08-2e1eb2eba640/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "12359d3c-861c-4435-84e4-61330808d7d9",
+"title": "A village in Africa. General ambience",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/felix.blume/sounds/174445",
+"url": "https://cdn.freesound.org/previews/174/174445_1661766-hq.mp3",
+"creator": "felix.blume",
+"creator_url": "https://freesound.org/people/felix.blume",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 3459648,
+"filetype": "mp3",
+"tags": [
+{
+"name": "africa",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "african",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "blume",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "day",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "diafarabe",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "felix",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mali",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "small",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "village",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "voice",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "voices",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/174445/download/",
+"bit_rate": 0,
+"filesize": 28979528,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"A village in Africa. General ambience.\" by felix.blume is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Mali",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/10716/",
+"creator": "felix.blume",
+"creator_url": "https://freesound.org/people/felix.blume/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 150929,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/12359d3c-861c-4435-84e4-61330808d7d9/",
+"related_url": "https://api.openverse.org/v1/audio/12359d3c-861c-4435-84e4-61330808d7d9/related/",
+"waveform": "https://api.openverse.org/v1/audio/12359d3c-861c-4435-84e4-61330808d7d9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "126f7651-57dc-467d-bfee-8892f44545f1",
+"title": "morning ambience of a small mountain village in the mountains of Kazakhstan",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/gladkiy/sounds/276946",
+"url": "https://cdn.freesound.org/previews/276/276946_2364707-hq.mp3",
+"creator": "gladkiy",
+"creator_url": "https://freesound.org/people/gladkiy",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 20672544,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atoms",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "countryside",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "insects",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mountains",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/276946/download/",
+"bit_rate": 0,
+"filesize": 179912081,
+"filetype": "flac",
+"sample_rate": 48000
+}
+],
+"attribution": "\"morning ambience of a small mountain village in the mountains of Kazakhstan\" by gladkiy is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Ambiences of Kazakhstan",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/17083/",
+"creator": "gladkiy",
+"creator_url": "https://freesound.org/people/gladkiy/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 924972,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/126f7651-57dc-467d-bfee-8892f44545f1/",
+"related_url": "https://api.openverse.org/v1/audio/126f7651-57dc-467d-bfee-8892f44545f1/related/",
+"waveform": "https://api.openverse.org/v1/audio/126f7651-57dc-467d-bfee-8892f44545f1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1f8e4229-5c50-47c0-a6c0-dd0746346aa2",
+"title": "Very quiet village evening ambience 1",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/makarius79/sounds/398114",
+"url": "https://cdn.freesound.org/previews/398/398114_5328592-hq.mp3",
+"creator": "makarius79",
+"creator_url": "https://freesound.org/people/makarius79",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 5231515,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "evening",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quiet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "raw",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "village",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/398114/download/",
+"bit_rate": 0,
+"filesize": 39988912,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Very quiet village evening ambience 1\" by makarius79 is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Sleeping_Village_Phonogram",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/19786/",
+"creator": "makarius79",
+"creator_url": "https://freesound.org/people/makarius79/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 226691,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1f8e4229-5c50-47c0-a6c0-dd0746346aa2/",
+"related_url": "https://api.openverse.org/v1/audio/1f8e4229-5c50-47c0-a6c0-dd0746346aa2/related/",
+"waveform": "https://api.openverse.org/v1/audio/1f8e4229-5c50-47c0-a6c0-dd0746346aa2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b9489873-5262-483a-8696-4e7424859edd",
+"title": "Sc\u92dde de village",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/8279",
+"url": "https://prod-1.storage.jamendo.com/?trackid=8279&format=mp32",
+"creator": "Philippe Mangold",
+"creator_url": "https://www.jamendo.com/artist/872/philippe.mangold",
+"license": "by-nc-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.5/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore",
+"newage",
+"world"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "ethnique",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Sc\u00e8ne de village\" by Philippe Mangold is licensed under CC BY-NC-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.5/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "IGAPO",
+"foreign_landing_url": "https://www.jamendo.com/album/1245/igapo",
+"creator": "Philippe Mangold",
+"creator_url": "https://www.jamendo.com/artist/872/philippe.mangold",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 82000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/b9489873-5262-483a-8696-4e7424859edd/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/b9489873-5262-483a-8696-4e7424859edd/",
+"related_url": "https://api.openverse.org/v1/audio/b9489873-5262-483a-8696-4e7424859edd/related/",
+"waveform": "https://api.openverse.org/v1/audio/b9489873-5262-483a-8696-4e7424859edd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a94b40af-fb8f-4abf-b96c-bd6031c2edee",
+"title": "01170 village hen 4.wav",
+"indexed_on": "2022-10-01T04:02:44.560321Z",
+"foreign_landing_url": "https://freesound.org/people/Robinhood76/sounds/76868",
+"url": "https://cdn.freesound.org/previews/76/76868_321967-hq.mp3",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 427527,
+"filetype": "mp3",
+"tags": [
+{
+"name": "chicken",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cluck",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "clucking",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hen",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "poultry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "village",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/76868/download/",
+"bit_rate": 0,
+"filesize": 3282906,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"01170 village hen 4.wav\" by Robinhood76 is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "COUNTRYSIDE sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/4403/",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 18605,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a94b40af-fb8f-4abf-b96c-bd6031c2edee/",
+"related_url": "https://api.openverse.org/v1/audio/a94b40af-fb8f-4abf-b96c-bd6031c2edee/related/",
+"waveform": "https://api.openverse.org/v1/audio/a94b40af-fb8f-4abf-b96c-bd6031c2edee/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e75053e2-8c8a-4b82-aba5-a6b8ab992670",
+"title": "Hum of voices in a church before a concert in a small village of Switzerland (Vrin, Graubunden)",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/felix.blume/sounds/143225",
+"url": "https://cdn.freesound.org/previews/143/143225_1661766-hq.mp3",
+"creator": "felix.blume",
+"creator_url": "https://freesound.org/people/felix.blume",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 4106304,
+"filetype": "mp3",
+"tags": [
+{
+"name": "200",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Hum",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "blume",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "church",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "concert",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cough",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coughing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crowd",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "felix",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "graunbunden",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "intermission",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "persons",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "switzerland",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "talk",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "talking",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "voices",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vrin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wait",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "waiting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "whisper",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "whispering",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/143225/download/",
+"bit_rate": 0,
+"filesize": 52102276,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Hum of voices in a church before a concert in a small village of Switzerland (Vrin, Graubunden).\" by felix.blume is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Crowd & People",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/8819/",
+"creator": "felix.blume",
+"creator_url": "https://freesound.org/people/felix.blume/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 180907,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e75053e2-8c8a-4b82-aba5-a6b8ab992670/",
+"related_url": "https://api.openverse.org/v1/audio/e75053e2-8c8a-4b82-aba5-a6b8ab992670/related/",
+"waveform": "https://api.openverse.org/v1/audio/e75053e2-8c8a-4b82-aba5-a6b8ab992670/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "505c3934-e849-45e0-90c9-843377135fc6",
+"title": "En-au-village",
+"indexed_on": "2023-01-01T14:49:46.793429Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=75701838",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/En-au-village.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 22996,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-au-village\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1768,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/505c3934-e849-45e0-90c9-843377135fc6/",
+"related_url": "https://api.openverse.org/v1/audio/505c3934-e849-45e0-90c9-843377135fc6/related/",
+"waveform": "https://api.openverse.org/v1/audio/505c3934-e849-45e0-90c9-843377135fc6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "14f6b407-32af-42bf-b96b-dc218a03a6d0",
+"title": "Fight for your Village (no female vocal)",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/851433",
+"url": "https://prod-1.storage.jamendo.com/?trackid=851433&format=mp32",
+"creator": "Koke N\u00fa\u00f1ez G\u00f3mez",
+"creator_url": "https://www.jamendo.com/artist/372321/Kokenovem",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "cinematic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Fight for your Village (no female vocal)\" by Koke N\u00fa\u00f1ez G\u00f3mez is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Ancient Kingdoms (Volume 2)",
+"foreign_landing_url": "https://www.jamendo.com/album/99471/ancient-kingdoms-volume-2",
+"creator": "Koke N\u00fa\u00f1ez G\u00f3mez",
+"creator_url": "https://www.jamendo.com/artist/372321/Kokenovem",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 141000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/14f6b407-32af-42bf-b96b-dc218a03a6d0/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/14f6b407-32af-42bf-b96b-dc218a03a6d0/",
+"related_url": "https://api.openverse.org/v1/audio/14f6b407-32af-42bf-b96b-dc218a03a6d0/related/",
+"waveform": "https://api.openverse.org/v1/audio/14f6b407-32af-42bf-b96b-dc218a03a6d0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b40e7153-dee1-444b-b879-76201ae75125",
+"title": "A forest village",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/278831",
+"url": "https://prod-1.storage.jamendo.com/?trackid=278831&format=mp32",
+"creator": "Krzysztof Kurkowski",
+"creator_url": "https://www.jamendo.com/artist/345748/Krzysztof_Kurkowski",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"A forest village\" by Krzysztof Kurkowski is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Soundtrack2",
+"foreign_landing_url": "https://www.jamendo.com/album/39272/soundtrack2",
+"creator": "Krzysztof Kurkowski",
+"creator_url": "https://www.jamendo.com/artist/345748/Krzysztof_Kurkowski",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 223000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/b40e7153-dee1-444b-b879-76201ae75125/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/b40e7153-dee1-444b-b879-76201ae75125/",
+"related_url": "https://api.openverse.org/v1/audio/b40e7153-dee1-444b-b879-76201ae75125/related/",
+"waveform": "https://api.openverse.org/v1/audio/b40e7153-dee1-444b-b879-76201ae75125/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cc4083fd-8e0d-4a22-894a-bca1edcc9f27",
+"title": "Village Evil Bell Project",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/M-Murray/sounds/634647",
+"url": "https://cdn.freesound.org/previews/634/634647_13315998-hq.mp3",
+"creator": "M-Murray",
+"creator_url": "https://freesound.org/people/M-Murray",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1357550,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Creepy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Eerie",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Environment",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Halloween",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Horror",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Scary",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Spooky",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Thriller",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Video-Game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Violent",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dark",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "demon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "doom",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "evil",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fear",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ghost",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "halloween",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "haunted",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "horror",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nightmare",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "orchestra",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "paranormal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rising",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sinister",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "thriller",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "violins",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/634647/download/",
+"bit_rate": 160000,
+"filesize": 1205206,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Village Evil Bell Project\" by M-Murray is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 60043,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cc4083fd-8e0d-4a22-894a-bca1edcc9f27/",
+"related_url": "https://api.openverse.org/v1/audio/cc4083fd-8e0d-4a22-894a-bca1edcc9f27/related/",
+"waveform": "https://api.openverse.org/v1/audio/cc4083fd-8e0d-4a22-894a-bca1edcc9f27/waveform/",
+"unstable__sensitivity": []
 }
 ]

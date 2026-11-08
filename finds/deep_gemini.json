@@ -5326,5 +5326,77 @@
    ]
   ],
   "mined_at": "2026-11-08T18:05:37Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "A Mansion Has Many Rooms",
+  "url": "https://portal.mozz.us/gemini/musicbrainz.uploadedlobster.com/recording/bb293c88-0a45-4d61-b6f9-47bf90287b46",
+  "gemini": "gemini://musicbrainz.uploadedlobster.com/recording/bb293c88-0a45-4d61-b6f9-47bf90287b46",
+  "date": "",
+  "dateLabel": "",
+  "count": 754,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "musicbrainz.uploadedlobster.com",
+  "preview": "# A Mansion Has Many Rooms\n\nRecording by Grails\nDuration: 2:49\nFirst release year: 2010\n\n\n## Appears on releases\n\n=> /release/b9c09480-15f8-489e-8e08-351c38ed2e44 Black Tar Prophecies, Volume 4 by Grails\nUS 2010-05-04\n=> /release/f6e63b11-86b1-484c-9522-f8babb3e8012 Black Tar Prophecies, Volumes 4, 5 & 6 by Grails\nUS 2013-10-01\n=> /release/647645a9-ed06-4a70-adfa-fe5f5a50c562 Black Tar Prophecies, Volumes 4, 5 & 6 by Grails\nXW 2013-10-01\n\n\n## Relations\n mix\n=> /artist/6cdbb461-d99d-4571-95d6-cc09cbde7517 \ud83e\uddd1 Emil Amos\n mix\n=> /artist/4cdbfb08-b44a-42ee-81cf-431ec02b3a6d \ud83e\uddd1 Alex Hall\n producer\n=> /artist/6cdbb461-d99d-4571-95d6-cc09cbde7517 \ud83e\uddd1 Emil Amos\n producer\n=> /artist/4cdbfb08-b44a-42ee-81cf-431ec02b3a6d \ud83e\uddd1 Alex Hall\n\n\n=> / Return to start page",
+  "query": "gemini search \"prophecy\"",
+  "kw": "prophecy",
+  "extra": "capsule: musicbrainz.uploadedlobster.com \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://musicbrainz.uploadedlobster.com/recording/bb293c88-0a45-4d61-b6f9-47bf90287b46"
+   ]
+  ],
+  "mined_at": "2026-11-08T22:21:23Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Pale Purple Blues",
+  "url": "https://portal.mozz.us/gemini/musicbrainz.uploadedlobster.com/recording/7a70037b-b4d0-4ed9-b803-9f182a2dd41e",
+  "gemini": "gemini://musicbrainz.uploadedlobster.com/recording/7a70037b-b4d0-4ed9-b803-9f182a2dd41e",
+  "date": "",
+  "dateLabel": "",
+  "count": 774,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "musicbrainz.uploadedlobster.com",
+  "preview": "# Pale Purple Blues\n\nRecording by Grails\nDuration: 4:30\nFirst release year: 2012\n\n\n## Appears on releases\n\n=> /release/0ad75033-1e17-4da5-8db7-bfc3941cf9aa The Black Tar Prophecies Vol 5 / Palmu by Grails / Pharaoh Overlord\nUS 2012-10-30\n=> /release/f6e63b11-86b1-484c-9522-f8babb3e8012 Black Tar Prophecies, Volumes 4, 5 & 6 by Grails\nUS 2013-10-01\n=> /release/647645a9-ed06-4a70-adfa-fe5f5a50c562 Black Tar Prophecies, Volumes 4, 5 & 6 by Grails\nXW 2013-10-01\n\n\n## Relations\n mix\n=> /artist/6cdbb461-d99d-4571-95d6-cc09cbde7517 \ud83e\uddd1 Emil Amos\n mix\n=> /artist/4cdbfb08-b44a-42ee-81cf-431ec02b3a6d \ud83e\uddd1 Alex Hall\n producer\n=> /artist/6cdbb461-d99d-4571-95d6-cc09cbde7517 \ud83e\uddd1 Emil Amos\n producer\n=> /artist/4cdbfb08-b44a-42ee-81cf-431ec02b3a6d \ud83e\uddd1 Alex Hall\n\n\n=> / Return to start page",
+  "query": "gemini search \"prophecy\"",
+  "kw": "prophecy",
+  "extra": "capsule: musicbrainz.uploadedlobster.com \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://musicbrainz.uploadedlobster.com/recording/7a70037b-b4d0-4ed9-b803-9f182a2dd41e"
+   ]
+  ],
+  "mined_at": "2026-11-08T22:21:23Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "on having a daily tarot practice",
+  "url": "https://portal.mozz.us/gemini/dogboy.smol.pub/tarotpractice",
+  "gemini": "gemini://dogboy.smol.pub/tarotpractice",
+  "date": "",
+  "dateLabel": "",
+  "count": 4901,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "dogboy.smol.pub",
+  "preview": "# on having a daily tarot practice\n\ndisclaimer: i'm the first to admit that reading cards is fun and i truly understand wanting to do it every day, finding a way to make that happen. if you're doing a daily reading and are fulfilled, all the power to you. this semi-rant is about the poor souls who think it's what's expected otherwise you're somehow a tarot fraud.\r\nit is kind of interesting how the tarot world went from \"you really shouldn't read for yourself\" to \"if you're not doing your cards every day, do you even have a Practice?\" in a matter of a few decades (what's a practice? like - tarot as magical practice? as a spiritual practice? what if that's not what tarot is to someone? regardless of whether they have an actual magic and/or spiritual practice alongside it) \r\ni think somewhere along the way we conflated two different meanings of \"practice\". there's the evergreen advice given to beginners to pull a daily card for practice (ie. for learning, getting familiarized with the cards) and that's somehow morphed into doing a whole daily reading for yourself as \"your tarot practice\" (be it magical or spiritual, practice as \"path\", kind of akin to the business meaning of idk havin",
+  "query": "gemini search \"tarot\"",
+  "kw": "tarot",
+  "extra": "capsule: dogboy.smol.pub \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://dogboy.smol.pub/tarotpractice"
+   ]
+  ],
+  "mined_at": "2026-11-08T22:21:23Z"
  }
 ]

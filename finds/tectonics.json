@@ -967,5 +967,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-08T18:02:19Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 23.221.208.0/24",
+  "date": "2026-11-08",
+  "dateLabel": "sampled",
+  "count": 321,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"23.221.208.0/24\",\n  \"origin\": \"35994\",\n  \"time\": \"2022-07-26T00:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"23.221.208.0/24\",\n  \"origin\": \"20940\",\n  \"time\": \"2026-11-08T16:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 321,\n   \"total_ris_peers\": 321\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 20940,\n   \"route_objects\": [\n    \"ARIN\"\n   ]\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/23.221.208.0/24",
+  "query": "RIPEstat routing-status 23.221.208.0/24",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-08T22:15:43Z"
  }
 ]
