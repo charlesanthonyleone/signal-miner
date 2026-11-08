@@ -2638,5 +2638,25 @@
 "inventor": "Franz Hofstoetter",
 "module": "survival",
 "mined_at": "2026-11-06T23:23:22Z"
+},
+{
+"source": "Google Patents",
+"title": "Gas mask head harness",
+"date": "1934-01-09",
+"dateLabel": "published",
+"count": null,
+"countLabel": "",
+"kind": "meta",
+"mime": "patent/text",
+"thumb": "",
+"src": "",
+"preview": "",
+"url": "https://patents.google.com/patent/US1942442A/en",
+"query": "google patents q=\"gas mask\" cpc=A62B before 1960",
+"extra": "patent US1942442A \u00b7 inventor Armand V Motsinger",
+"patent_number": "US1942442A",
+"inventor": "Armand V Motsinger",
+"module": "survival",
+"mined_at": "2026-11-08T00:52:46Z"
 }
 ]

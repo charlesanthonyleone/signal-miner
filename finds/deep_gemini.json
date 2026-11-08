@@ -5206,5 +5206,29 @@
    ]
   ],
   "mined_at": "2026-11-07T19:36:26Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "versify",
+  "url": "https://portal.mozz.us/gemini/tilde.club/~filip/tech/script/versify/versify.gmi",
+  "gemini": "gemini://tilde.club/~filip/tech/script/versify/versify.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 1892,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "tilde.club",
+  "preview": "# versify\n\nA bash/awk script for browsing versified text given in a TSV file. The script is a remake (and an improvement) of a script for browsing The King James Bible.\n\n## Usage\n```usage\nList books and print random series or verse:\n  ./versify.sh <FILE> -l  --  list books\n  ./versify.sh <FILE> -s  --  random series\n  ./versify.sh <FILE> -v  --  random verse\n\nGet up to 12 random words from:\n  ./versify.sh <FILE> -o\n\nPrint verses in a reference:\n  ./versify.sh <FILE> <REF> [<REF> <REF> ...]\nExampes of a reference:\"\n  1:2:1,3,5-10  --  1st book, 2nd series, verses 1,3,5,6,7,8,9,10\n  /key          --  verses containing 'key'\n  1/key         --  verses from the 1st book containing 'key'\n  *:1:1         --  1st series, 1st verse of all the books\n  1-2:1         --  1st series of books 1 and 2\n\nInteractive mode:\n  ./versify.sh <FILE> -i\n\nHelp:\n  ./versify.sh -h\n```\n\n## TSV file format\n```tsv file format\n<BOOK_NUM>\\t<BOOK_TIT>\\t<SERIES_NUM>\\t<SERIES_BOOK_NUM>\\t<SERIES_TIT>\\t<VERSE_NUM>\\t<VERSE_SERIES_NUM>\\t<VERSE>\n```\n\n## Download\nThe script is split into two files: `versify.sh` and `versify.awk`.\n=>versify.sh.txt versify.sh.txt\n=>versify.awk.txt versify.awk.txt\nSome texts in the appropri",
+  "query": "gemini search \"apocrypha\"",
+  "kw": "apocrypha",
+  "extra": "capsule: tilde.club \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://tilde.club/~filip/tech/script/versify/versify.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-08T00:52:36Z"
  }
 ]

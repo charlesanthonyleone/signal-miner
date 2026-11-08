@@ -4254,5 +4254,24 @@
   "extra": "center GSFC \u00b7 nasa_id GSFC_20171208_Archive_e001137 \u00b7 keywords NASA's Best-Observed X-Class Flare of All Time, sun, nasa, flare, goddard, xclass",
   "module": "space",
   "mined_at": "2026-11-07T13:15:50Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "Neutron star Interior Composition Explorer (NICER)",
+  "date": "2017-12-08",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000048/GSFC_20171208_Archive_e000048~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000048/GSFC_20171208_Archive_e000048~thumb.jpg",
+  "preview": "A photo taken during the NICER range-of-motion test at NASA\u2019s Goddard Space Flight Center shows the photographer\u2019s reflection in the mirror-like radiator surface of the detector plate. Teflon-coated silver tape is used to keep NICER\u2019s detectors cool.  The Neutron star Interior Composition Explorer (NICER) is a NASA Explorer Mission of Opportunity dedicated to studying the extraordinary environments \u2014 strong gravity, ultra-dense matter, and the most powerful magnetic fields in the universe \u2014 embo",
+  "url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000048",
+  "query": "images-api.nasa.gov q=\"pulsar\"",
+  "extra": "center GSFC \u00b7 nasa_id GSFC_20171208_Archive_e000048 \u00b7 keywords Neutron star Interior Composition Explorer (NICER)",
+  "module": "space",
+  "mined_at": "2026-11-08T00:48:13Z"
  }
 ]

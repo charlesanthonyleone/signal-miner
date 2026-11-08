@@ -67947,5 +67947,3271 @@
 "related_url": "https://api.openverse.org/v1/audio/01698183-7d48-4396-ac19-14371d60ee21/related/",
 "waveform": "https://api.openverse.org/v1/audio/01698183-7d48-4396-ac19-14371d60ee21/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "bfe392c3-d50a-4aed-8eda-45f128e3cac4",
+"title": "LL-Q1860 (eng)-Wodencafe-looms",
+"indexed_on": "2024-01-15T00:09:24.710963Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=143945972",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/45/LL-Q1860_%28eng%29-Wodencafe-looms.wav",
+"creator": "Speaker: Wodencafe Recorder: Wodencafe",
+"creator_url": "https://lingualibre.org/wiki/Q1207413",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 90412,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Wodencafe-looms\" by Speaker: Wodencafe Recorder: Wodencafe is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 941,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/bfe392c3-d50a-4aed-8eda-45f128e3cac4/",
+"related_url": "https://api.openverse.org/v1/audio/bfe392c3-d50a-4aed-8eda-45f128e3cac4/related/",
+"waveform": "https://api.openverse.org/v1/audio/bfe392c3-d50a-4aed-8eda-45f128e3cac4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fe7a8a49-b141-4fd9-b27d-f8d207772434",
+"title": "Kangaspuut / Old wooden loom from 1857, weaving a rag rug",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/YleArkisto/sounds/368577",
+"url": "https://cdn.freesound.org/previews/368/368577_4415905-hq.mp3",
+"creator": "YleArkisto",
+"creator_url": "https://freesound.org/people/YleArkisto",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 4324032,
+"filetype": "mp3",
+"tags": [
+{
+"name": "1800-luku",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "1900th",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Field-Recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Finland",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Finnish-Broadcasting-Company",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kangaspuut",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kutoa",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kutominen",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Loom",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Matonkudonta",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Matto",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Rag-rug",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Rug",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Soundfx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Suomi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Tehosteet",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Weave",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Weaving",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Yle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Yleisradio",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/368577/download/",
+"bit_rate": 0,
+"filesize": 52855870,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Kangaspuut / Old wooden loom from 1857, weaving a rag rug\" by YleArkisto is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Ty\u00f6 Work",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/15046/",
+"creator": "YleArkisto",
+"creator_url": "https://freesound.org/people/YleArkisto/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 180228,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/fe7a8a49-b141-4fd9-b27d-f8d207772434/",
+"related_url": "https://api.openverse.org/v1/audio/fe7a8a49-b141-4fd9-b27d-f8d207772434/related/",
+"waveform": "https://api.openverse.org/v1/audio/fe7a8a49-b141-4fd9-b27d-f8d207772434/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "74493315-cf98-4c43-a087-d05a1a9474df",
+"title": "Queen Street Mill, loom running then stops.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/phonoflora/sounds/201181",
+"url": "https://cdn.freesound.org/previews/201/201181_401348-hq.mp3",
+"creator": "phonoflora",
+"creator_url": "https://freesound.org/people/phonoflora",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 464083,
+"filetype": "mp3",
+"tags": [
+{
+"name": "clatter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cotton",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "deafening",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "factory",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "industrial",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "loom",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "loud",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "textile",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "weaving",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/201181/download/",
+"bit_rate": 0,
+"filesize": 3552398,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Queen Street Mill, loom running then stops.wav\" by phonoflora is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Weaving mills and factories",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/12806/",
+"creator": "phonoflora",
+"creator_url": "https://freesound.org/people/phonoflora/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 20133,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/74493315-cf98-4c43-a087-d05a1a9474df/",
+"related_url": "https://api.openverse.org/v1/audio/74493315-cf98-4c43-a087-d05a1a9474df/related/",
+"waveform": "https://api.openverse.org/v1/audio/74493315-cf98-4c43-a087-d05a1a9474df/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c32d2c61-2f61-4a0a-a36b-e3ebd1d69fd6",
+"title": "looming Abyss.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/ProtoSounds/sounds/379020",
+"url": "https://cdn.freesound.org/previews/379/379020_7022069-hq.mp3",
+"creator": "ProtoSounds",
+"creator_url": "https://freesound.org/people/ProtoSounds",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 8842795,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Synth",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmos",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmospheric",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background-sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "general-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "phantom",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "white-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/379020/download/",
+"bit_rate": 0,
+"filesize": 68164532,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"looming Abyss.wav\" by ProtoSounds is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Synth General",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/21299/",
+"creator": "ProtoSounds",
+"creator_url": "https://freesound.org/people/ProtoSounds/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 386420,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c32d2c61-2f61-4a0a-a36b-e3ebd1d69fd6/",
+"related_url": "https://api.openverse.org/v1/audio/c32d2c61-2f61-4a0a-a36b-e3ebd1d69fd6/related/",
+"waveform": "https://api.openverse.org/v1/audio/c32d2c61-2f61-4a0a-a36b-e3ebd1d69fd6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "55784f8b-88a9-4df9-93ad-e82a53edde72",
+"title": "Working a Loom",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/PMBROWNE/sounds/427796",
+"url": "https://cdn.freesound.org/previews/427/427796_2333574-hq.mp3",
+"creator": "PMBROWNE",
+"creator_url": "https://freesound.org/people/PMBROWNE",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1608392,
+"filetype": "mp3",
+"tags": [
+{
+"name": "LOOM",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "MACHINERY",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "TEXTILES",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "WEAVING",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/427796/download/",
+"bit_rate": 0,
+"filesize": 12420002,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Working a Loom\" by PMBROWNE is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 70392,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/55784f8b-88a9-4df9-93ad-e82a53edde72/",
+"related_url": "https://api.openverse.org/v1/audio/55784f8b-88a9-4df9-93ad-e82a53edde72/related/",
+"waveform": "https://api.openverse.org/v1/audio/55784f8b-88a9-4df9-93ad-e82a53edde72/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "95662dbe-612f-42ad-bf87-f1cbce5bb2cb",
+"title": "a looming threat",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/135858",
+"url": "https://prod-1.storage.jamendo.com/?trackid=135858&format=mp32",
+"creator": "gOdd",
+"creator_url": "https://www.jamendo.com/artist/338220/gOdd",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"darkwave",
+"electronic",
+"industrial"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [],
+"alt_files": null,
+"attribution": "\"a looming threat\" by gOdd is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "prOmethean",
+"foreign_landing_url": "https://www.jamendo.com/album/19389/promethean",
+"creator": "gOdd",
+"creator_url": "https://www.jamendo.com/artist/338220/gOdd",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 155000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/95662dbe-612f-42ad-bf87-f1cbce5bb2cb/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/95662dbe-612f-42ad-bf87-f1cbce5bb2cb/",
+"related_url": "https://api.openverse.org/v1/audio/95662dbe-612f-42ad-bf87-f1cbce5bb2cb/related/",
+"waveform": "https://api.openverse.org/v1/audio/95662dbe-612f-42ad-bf87-f1cbce5bb2cb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a60de9f8-e6f7-4494-aebe-e6eecad87173",
+"title": "En-au-loom large",
+"indexed_on": "2024-05-05T13:14:03.192544Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=79048986",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/En-au-loom_large.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16596,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-au-loom large\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1407,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a60de9f8-e6f7-4494-aebe-e6eecad87173/",
+"related_url": "https://api.openverse.org/v1/audio/a60de9f8-e6f7-4494-aebe-e6eecad87173/related/",
+"waveform": "https://api.openverse.org/v1/audio/a60de9f8-e6f7-4494-aebe-e6eecad87173/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b14a102f-2222-4982-bf67-7ea1a69b3aa0",
+"title": "Et-loome",
+"indexed_on": "2024-05-15T00:11:05.686118Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=148350043",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Et-loome.ogg",
+"creator": "Eesti Keele Instituut",
+"creator_url": null,
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 11098,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Et-loome\" by Eesti Keele Instituut is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 866,
+"bit_rate": 80000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b14a102f-2222-4982-bf67-7ea1a69b3aa0/",
+"related_url": "https://api.openverse.org/v1/audio/b14a102f-2222-4982-bf67-7ea1a69b3aa0/related/",
+"waveform": "https://api.openverse.org/v1/audio/b14a102f-2222-4982-bf67-7ea1a69b3aa0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "951d02cf-2497-4607-980e-a288cb9798ee",
+"title": "Nl-looms",
+"indexed_on": "2023-11-19T18:44:29.883685Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=39157795",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Nl-looms.ogg",
+"creator": "marcel coenders",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Marcel_coenders",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 13845,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-looms\" by marcel coenders is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1150,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/951d02cf-2497-4607-980e-a288cb9798ee/",
+"related_url": "https://api.openverse.org/v1/audio/951d02cf-2497-4607-980e-a288cb9798ee/related/",
+"waveform": "https://api.openverse.org/v1/audio/951d02cf-2497-4607-980e-a288cb9798ee/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f6b39889-7860-4d3c-a24b-6a6b5d918e00",
+"title": "LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-loom large",
+"indexed_on": "2025-05-04T00:28:43.261334Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=164634440",
+"url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/LL-Q1860_%28eng%29-Naomi_Persephone_Amethyst_%28NaomiAmethyst%29-loom_large.wav",
+"creator": "Speaker: Naomi Persephone Amethyst Recorder: NaomiAmethyst",
+"creator_url": "http://lingualibre.org/wiki/Q1492185",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 123692,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-loom large\" by Speaker: Naomi Persephone Amethyst Recorder: NaomiAmethyst is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1288,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f6b39889-7860-4d3c-a24b-6a6b5d918e00/",
+"related_url": "https://api.openverse.org/v1/audio/f6b39889-7860-4d3c-a24b-6a6b5d918e00/related/",
+"waveform": "https://api.openverse.org/v1/audio/f6b39889-7860-4d3c-a24b-6a6b5d918e00/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ac7fd8db-5af4-43ab-b3c4-3979c6122add",
+"title": "Nl-loome",
+"indexed_on": "2025-03-16T00:09:53.783811Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=162079049",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Nl-loome.ogg",
+"creator": "Marcel coenders",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Marcel_coenders",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 14952,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-loome\" by Marcel coenders is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1250,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ac7fd8db-5af4-43ab-b3c4-3979c6122add/",
+"related_url": "https://api.openverse.org/v1/audio/ac7fd8db-5af4-43ab-b3c4-3979c6122add/related/",
+"waveform": "https://api.openverse.org/v1/audio/ac7fd8db-5af4-43ab-b3c4-3979c6122add/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1043d238-1788-4788-9d7b-c533d289bb7e",
+"title": "Looming Eyes",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/322863",
+"url": "https://prod-1.storage.jamendo.com/?trackid=322863&format=mp32",
+"creator": "Septic Underground",
+"creator_url": "https://www.jamendo.com/artist/349214/Septic_Underground",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/nl/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Looming Eyes\" by Septic Underground is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/nl/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Desolations in Paradise",
+"foreign_landing_url": "https://www.jamendo.com/album/43450/desolations-in-paradise",
+"creator": "Septic Underground",
+"creator_url": "https://www.jamendo.com/artist/349214/Septic_Underground",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 181000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/1043d238-1788-4788-9d7b-c533d289bb7e/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/1043d238-1788-4788-9d7b-c533d289bb7e/",
+"related_url": "https://api.openverse.org/v1/audio/1043d238-1788-4788-9d7b-c533d289bb7e/related/",
+"waveform": "https://api.openverse.org/v1/audio/1043d238-1788-4788-9d7b-c533d289bb7e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "97bba613-b935-458a-831d-2ddceeee28fb",
+"title": "Morning Loom",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/15849",
+"url": "https://prod-1.storage.jamendo.com/?trackid=15849&format=mp32",
+"creator": "Dwight Jack",
+"creator_url": "https://www.jamendo.com/artist/2311/dwight.jack",
+"license": "by-nc-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.5/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Morning Loom\" by Dwight Jack is licensed under CC BY-NC-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.5/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Ephemeral Sound",
+"foreign_landing_url": "https://www.jamendo.com/album/2248/the-ephemeral-sound",
+"creator": "Dwight Jack",
+"creator_url": "https://www.jamendo.com/artist/2311/dwight.jack",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 227000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/97bba613-b935-458a-831d-2ddceeee28fb/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/97bba613-b935-458a-831d-2ddceeee28fb/",
+"related_url": "https://api.openverse.org/v1/audio/97bba613-b935-458a-831d-2ddceeee28fb/related/",
+"waveform": "https://api.openverse.org/v1/audio/97bba613-b935-458a-831d-2ddceeee28fb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f8ee6eb9-f86a-4e4c-bcce-a03b611d6539",
+"title": "Looming Threat",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/667237",
+"url": "https://prod-1.storage.jamendo.com/?trackid=667237&format=mp32",
+"creator": "Dj Maco",
+"creator_url": "https://www.jamendo.com/artist/363833/Dj_Maco",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Looming Threat\" by Dj Maco is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Pick Off",
+"foreign_landing_url": "https://www.jamendo.com/album/77405/pick-off",
+"creator": "Dj Maco",
+"creator_url": "https://www.jamendo.com/artist/363833/Dj_Maco",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 274000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/f8ee6eb9-f86a-4e4c-bcce-a03b611d6539/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/f8ee6eb9-f86a-4e4c-bcce-a03b611d6539/",
+"related_url": "https://api.openverse.org/v1/audio/f8ee6eb9-f86a-4e4c-bcce-a03b611d6539/related/",
+"waveform": "https://api.openverse.org/v1/audio/f8ee6eb9-f86a-4e4c-bcce-a03b611d6539/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "864388ea-f7a6-40f9-a956-f7c5e4b9e76f",
+"title": "Loom on my roof",
+"indexed_on": "2023-05-04T00:05:01.880122Z",
+"foreign_landing_url": "https://www.jamendo.com/track/103737",
+"url": "https://prod-1.storage.jamendo.com/?trackid=103737&format=mp32",
+"creator": "arca\u00efde",
+"creator_url": "https://www.jamendo.com/artist/336992/arcaide",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/fr/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"experimental",
+"industrial"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Loom on my roof\" by arca\u00efde is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/fr/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Probably problematic",
+"foreign_landing_url": "https://www.jamendo.com/album/12013/probably-problematic",
+"creator": "arca\u00efde",
+"creator_url": "https://www.jamendo.com/artist/336992/arcaide",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 231000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/864388ea-f7a6-40f9-a956-f7c5e4b9e76f/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/864388ea-f7a6-40f9-a956-f7c5e4b9e76f/",
+"related_url": "https://api.openverse.org/v1/audio/864388ea-f7a6-40f9-a956-f7c5e4b9e76f/related/",
+"waveform": "https://api.openverse.org/v1/audio/864388ea-f7a6-40f9-a956-f7c5e4b9e76f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f207db04-3dcd-450d-aff2-2c72efb6678c",
+"title": "Chasing Calm (Deviant Lads Remix) - Loome",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1401027",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1401027&format=mp32",
+"creator": "Pomme Framboise Records",
+"creator_url": "https://www.jamendo.com/artist/495621/Pomme_Framboise_Records_(2)",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"deephouse",
+"electronic",
+"techno"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Chasing Calm (Deviant Lads Remix) - Loome\" by Pomme Framboise Records is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Pomme Framboise Records, vol. 1",
+"foreign_landing_url": "https://www.jamendo.com/album/163948/pomme-framboise-records-vol-1",
+"creator": "Pomme Framboise Records",
+"creator_url": "https://www.jamendo.com/artist/495621/Pomme_Framboise_Records_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 425000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/f207db04-3dcd-450d-aff2-2c72efb6678c/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/f207db04-3dcd-450d-aff2-2c72efb6678c/",
+"related_url": "https://api.openverse.org/v1/audio/f207db04-3dcd-450d-aff2-2c72efb6678c/related/",
+"waveform": "https://api.openverse.org/v1/audio/f207db04-3dcd-450d-aff2-2c72efb6678c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b1f0ea6d-c934-435a-a895-2fac5b927f89",
+"title": "Sad Clouds Looming Over Hull",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/15621",
+"url": "https://prod-1.storage.jamendo.com/?trackid=15621&format=mp32",
+"creator": "Minus Clay",
+"creator_url": "https://www.jamendo.com/artist/2274/minus.clay",
+"license": "by-nc-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.5/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_low",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Sad Clouds Looming Over Hull\" by Minus Clay is licensed under CC BY-NC-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.5/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Demo",
+"foreign_landing_url": "https://www.jamendo.com/album/2220/demo",
+"creator": "Minus Clay",
+"creator_url": "https://www.jamendo.com/artist/2274/minus.clay",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 177000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/b1f0ea6d-c934-435a-a895-2fac5b927f89/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/b1f0ea6d-c934-435a-a895-2fac5b927f89/",
+"related_url": "https://api.openverse.org/v1/audio/b1f0ea6d-c934-435a-a895-2fac5b927f89/related/",
+"waveform": "https://api.openverse.org/v1/audio/b1f0ea6d-c934-435a-a895-2fac5b927f89/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "34b6bc02-fc0d-4553-914a-241125b6f88b",
+"title": "The Looming! (Loop)",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1164198",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1164198&format=mp32",
+"creator": "Snabisch",
+"creator_url": "https://www.jamendo.com/artist/357317/Snabisch",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"loop",
+"production"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "drummachine",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "other",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "retro",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The Looming! (Loop)\" by Snabisch is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "MUSIC For VIDEOGAMES Vol. II",
+"foreign_landing_url": "https://www.jamendo.com/album/139905/music-for-videogames-vol-ii",
+"creator": "Snabisch",
+"creator_url": "https://www.jamendo.com/artist/357317/Snabisch",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 64000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/34b6bc02-fc0d-4553-914a-241125b6f88b/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/34b6bc02-fc0d-4553-914a-241125b6f88b/",
+"related_url": "https://api.openverse.org/v1/audio/34b6bc02-fc0d-4553-914a-241125b6f88b/related/",
+"waveform": "https://api.openverse.org/v1/audio/34b6bc02-fc0d-4553-914a-241125b6f88b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "eee41cc2-b40e-4483-a209-7a47e75d425d",
+"title": "Wooden hand Loom .mp3",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/snapcam/sounds/582994",
+"url": "https://cdn.freesound.org/previews/582/582994_8373484-hq.mp3",
+"creator": "snapcam",
+"creator_url": "https://freesound.org/people/snapcam",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 380447,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Cottage-loom",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Hand-Loom",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Working",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Working-loom",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/582994/download/",
+"bit_rate": 128000,
+"filesize": 344536,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Wooden hand Loom .mp3\" by snapcam is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 21512,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/eee41cc2-b40e-4483-a209-7a47e75d425d/",
+"related_url": "https://api.openverse.org/v1/audio/eee41cc2-b40e-4483-a209-7a47e75d425d/related/",
+"waveform": "https://api.openverse.org/v1/audio/eee41cc2-b40e-4483-a209-7a47e75d425d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b673310d-a561-4251-ab84-fa7948137731",
+"title": "LL-Q1860 (eng)-Vininn126-embroidery",
+"indexed_on": "2023-10-29T13:59:34.823726Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=114623651",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/81/LL-Q1860_%28eng%29-Vininn126-embroidery.wav",
+"creator": "Speaker: Vininn126 Recorder: Vininn126",
+"creator_url": "http://lingualibre.org/wiki/Q747313",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 117548,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vininn126-embroidery\" by Speaker: Vininn126 Recorder: Vininn126 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1224,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b673310d-a561-4251-ab84-fa7948137731/",
+"related_url": "https://api.openverse.org/v1/audio/b673310d-a561-4251-ab84-fa7948137731/related/",
+"waveform": "https://api.openverse.org/v1/audio/b673310d-a561-4251-ab84-fa7948137731/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e92869d6-5609-4cdb-93ec-aed13a9387d6",
+"title": "embroidery machine.WAV",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/n8daly/sounds/42556",
+"url": "https://cdn.freesound.org/previews/42/42556_235403-hq.mp3",
+"creator": "n8daly",
+"creator_url": "https://freesound.org/people/n8daly",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2576112,
+"filetype": "mp3",
+"tags": [
+{
+"name": "embroidery-machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "industrial",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/42556/download/",
+"bit_rate": 0,
+"filesize": 20711152,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"embroidery machine.WAV\" by n8daly is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 107849,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e92869d6-5609-4cdb-93ec-aed13a9387d6/",
+"related_url": "https://api.openverse.org/v1/audio/e92869d6-5609-4cdb-93ec-aed13a9387d6/related/",
+"waveform": "https://api.openverse.org/v1/audio/e92869d6-5609-4cdb-93ec-aed13a9387d6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a844e827-d04a-4d51-80bb-7de4f921066a",
+"title": "point broderie.mp3",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/joesgarage/sounds/563779",
+"url": "https://cdn.freesound.org/previews/563/563779_9808495-hq.mp3",
+"creator": "joesgarage",
+"creator_url": "https://freesound.org/people/joesgarage",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1779312,
+"filetype": "mp3",
+"tags": [
+{
+"name": "embroidery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "linen",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "needle",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/563779/download/",
+"bit_rate": 81000,
+"filesize": 1006344,
+"filetype": "mp3",
+"sample_rate": 48000
+}
+],
+"attribution": "\"point broderie.mp3\" by joesgarage is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Grincements manuels (handmade squeaks)",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/31657/",
+"creator": "joesgarage",
+"creator_url": "https://freesound.org/people/joesgarage/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 98720,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a844e827-d04a-4d51-80bb-7de4f921066a/",
+"related_url": "https://api.openverse.org/v1/audio/a844e827-d04a-4d51-80bb-7de4f921066a/related/",
+"waveform": "https://api.openverse.org/v1/audio/a844e827-d04a-4d51-80bb-7de4f921066a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3c73addc-8349-486d-b9fd-c8e2d2ce6590",
+"title": "G\u93d4ez_Juan_antropo_fon\u71f0_m\u5aeduina_bordadora_brother_bp2100",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/artesmediales/sounds/515613",
+"url": "https://cdn.freesound.org/previews/515/515613_5848334-hq.mp3",
+"creator": "artesmediales",
+"creator_url": "https://freesound.org/people/artesmediales",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 827351,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Machine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Embroidery",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Maquina",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Brother",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Bordadora",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/515613/download/",
+"bit_rate": 0,
+"filesize": 3051764,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"G\u00f3mez_Juan_antropo_fon\u00eda_m\u00e1quina_bordadora_brother_bp2100\" by artesmediales is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 34600,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/3c73addc-8349-486d-b9fd-c8e2d2ce6590/",
+"related_url": "https://api.openverse.org/v1/audio/3c73addc-8349-486d-b9fd-c8e2d2ce6590/related/",
+"waveform": "https://api.openverse.org/v1/audio/3c73addc-8349-486d-b9fd-c8e2d2ce6590/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "75182a12-6ab7-4302-8509-6643eb530698",
+"title": "78 Anisha Satish Bhagwani Recounts Her Family's Displacement, Barrack Adaptations, and the Civic Realities of Ulhasnagar",
+"indexed_on": "2026-07-31T00:09:34.816323Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=196487077",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/78_Anisha_Satish_Bhagwani_Recounts_Her_Family%27s_Displacement%2C_Barrack_Adaptations%2C_and_the_Civic_Realities_of_Ulhasnagar.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "EngProff",
+"creator_url": "https://commons.wikimedia.org/wiki/User:EngProff",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 29730280,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"78 Anisha Satish Bhagwani Recounts Her Family's Displacement, Barrack Adaptations, and the Civic Realities of Ulhasnagar\" by EngProff is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2187869,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/75182a12-6ab7-4302-8509-6643eb530698/",
+"related_url": "https://api.openverse.org/v1/audio/75182a12-6ab7-4302-8509-6643eb530698/related/",
+"waveform": "https://api.openverse.org/v1/audio/75182a12-6ab7-4302-8509-6643eb530698/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "406f35c0-7edc-406b-a06b-6e4cf34881c8",
+"title": "Satish Samtani Talks about Barracks as a Space of One's Roots",
+"indexed_on": "2025-11-21T00:07:10.782775Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=178750366",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Satish_Samtani_Talks_about_Barracks_as_a_Space_of_One%27s_Roots.ogg",
+"creator": "EngProff",
+"creator_url": "https://commons.wikimedia.org/w/index.php?title=User:EngProff&action=edit&redlink=1",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 26786251,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Satish Samtani Talks about Barracks as a Space of One's Roots\" by EngProff is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 3754885,
+"bit_rate": 80000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/406f35c0-7edc-406b-a06b-6e4cf34881c8/",
+"related_url": "https://api.openverse.org/v1/audio/406f35c0-7edc-406b-a06b-6e4cf34881c8/related/",
+"waveform": "https://api.openverse.org/v1/audio/406f35c0-7edc-406b-a06b-6e4cf34881c8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bd29c88e-7e8d-4a59-943c-a8a6e3151970",
+"title": "79 Durupadi Hardasani Reflects on Her Family's Journey from Khairpur and Life in Ulhasnagar's Barracks",
+"indexed_on": "2026-08-04T00:18:20.249390Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=196713204",
+"url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/79_Durupadi_Hardasani_Reflects_on_Her_Family%27s_Journey_from_Khairpur_and_Life_in_Ulhasnagar%27s_Barracks.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "EngProff",
+"creator_url": "https://commons.wikimedia.org/wiki/User:EngProff",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 19805124,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"79 Durupadi Hardasani Reflects on Her Family's Journey from Khairpur and Life in Ulhasnagar's Barracks\" by EngProff is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1399487,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/bd29c88e-7e8d-4a59-943c-a8a6e3151970/",
+"related_url": "https://api.openverse.org/v1/audio/bd29c88e-7e8d-4a59-943c-a8a6e3151970/related/",
+"waveform": "https://api.openverse.org/v1/audio/bd29c88e-7e8d-4a59-943c-a8a6e3151970/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bdb20d21-f066-4856-8da7-ac704bdd4591",
+"title": "WWS Embroiderymachine",
+"indexed_on": "2024-04-28T18:38:07.739578Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=42799529",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/WWS_Embroiderymachine.ogg",
+"creator": "Work With Sounds / Konrad Gutkowski",
+"creator_url": "https://commons.wikimedia.org/wiki/Commons:Work_With_Sounds",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 1424978,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"WWS Embroiderymachine\" by Work With Sounds / Konrad Gutkowski is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 104735,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/bdb20d21-f066-4856-8da7-ac704bdd4591/",
+"related_url": "https://api.openverse.org/v1/audio/bdb20d21-f066-4856-8da7-ac704bdd4591/related/",
+"waveform": "https://api.openverse.org/v1/audio/bdb20d21-f066-4856-8da7-ac704bdd4591/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "dbd589e5-c89c-43a3-bcb4-51b21a530f97",
+"title": "Inleiding deFilharmonie & Otto Tausk (audio)",
+"indexed_on": "2024-03-10T15:56:52.617542Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=94104911",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Inleiding_deFilharmonie_%26_Otto_Tausk_%28audio%29.mp3",
+"creator": "deSingel",
+"creator_url": "https://en.wikipedia.org/wiki/en:DeSingel",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 28704030,
+"filetype": "mp3",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Inleiding deFilharmonie & Otto Tausk (audio)\" by deSingel is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1793814,
+"bit_rate": 128000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/dbd589e5-c89c-43a3-bcb4-51b21a530f97/",
+"related_url": "https://api.openverse.org/v1/audio/dbd589e5-c89c-43a3-bcb4-51b21a530f97/related/",
+"waveform": "https://api.openverse.org/v1/audio/dbd589e5-c89c-43a3-bcb4-51b21a530f97/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2d964677-442a-4ced-93b5-6b3878f3709f",
+"title": "70 Sangeeta Rajdev Remembers Life, Work, and Transience in Ulhasnagar\u2019s Barracks",
+"indexed_on": "2026-07-24T00:14:31.715348Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=196039375",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/70_Sangeeta_Rajdev_Remembers_Life%2C_Work%2C_and_Transience_in_Ulhasnagar%E2%80%99s_Barracks.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "EngProff",
+"creator_url": "https://commons.wikimedia.org/wiki/User:EngProff",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 28647535,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"70 Sangeeta Rajdev Remembers Life, Work, and Transience in Ulhasnagar\u2019s Barracks\" by EngProff is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2125278,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2d964677-442a-4ced-93b5-6b3878f3709f/",
+"related_url": "https://api.openverse.org/v1/audio/2d964677-442a-4ced-93b5-6b3878f3709f/related/",
+"waveform": "https://api.openverse.org/v1/audio/2d964677-442a-4ced-93b5-6b3878f3709f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a09f61ea-ae83-4ea4-a8bc-aca83b7affa0",
+"title": "Gangadevi Chhatpar Recalls the Bombay Dockyard, Gandhi\u2019s Assassination, and Other Landmarks of Her Life in Ulhasnagar",
+"indexed_on": "2026-05-15T00:09:57.056571Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=191958457",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Gangadevi_Chhatpar_Recalls_the_Bombay_Dockyard%2C_Gandhi%E2%80%99s_Assassination%2C_and_Other_Landmarks_of_Her_Life_in_Ulhasnagar.oga",
+"creator": "EngProff",
+"creator_url": "https://commons.wikimedia.org/wiki/User:EngProff",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 42245675,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Gangadevi Chhatpar Recalls the Bombay Dockyard, Gandhi\u2019s Assassination, and Other Landmarks of Her Life in Ulhasnagar\" by EngProff is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 3078671,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a09f61ea-ae83-4ea4-a8bc-aca83b7affa0/",
+"related_url": "https://api.openverse.org/v1/audio/a09f61ea-ae83-4ea4-a8bc-aca83b7affa0/related/",
+"waveform": "https://api.openverse.org/v1/audio/a09f61ea-ae83-4ea4-a8bc-aca83b7affa0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "96af6af0-7191-4c6c-b693-d5ccc45fb82c",
+"title": "41 Muskan Chichiriya Shares about Her 21 Years in Ulhasnagar 5 and the Enduring Sindhi Spirit",
+"indexed_on": "2026-05-16T00:15:25.977185Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=191994401",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/41_Muskan_Chichiriya_Shares_about_Her_21_Years_in_Ulhasnagar_5_and_the_Enduring_Sindhi_Spirit.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "EngProff",
+"creator_url": "https://commons.wikimedia.org/wiki/User:EngProff",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 16085628,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"41 Muskan Chichiriya Shares about Her 21 Years in Ulhasnagar 5 and the Enduring Sindhi Spirit\" by EngProff is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1117358,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/96af6af0-7191-4c6c-b693-d5ccc45fb82c/",
+"related_url": "https://api.openverse.org/v1/audio/96af6af0-7191-4c6c-b693-d5ccc45fb82c/related/",
+"waveform": "https://api.openverse.org/v1/audio/96af6af0-7191-4c6c-b693-d5ccc45fb82c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "43f877c1-8c32-4f8a-9943-53cbe2afc58f",
+"title": "100 Sarita Jewani Shares Memories of Mutual Aid in the Barracks and Ulhasnagar\u2019s Potential as a Thriving Sindhi Enclave",
+"indexed_on": "2026-09-28T00:14:37.865020Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=200352596",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/46/100_Sarita_Jewani_Shares_Memories_of_Mutual_Aid_in_the_Barracks_and_Ulhasnagar%E2%80%99s_Potential_as_a_Thriving_Sindhi_Enclave.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "EngProff",
+"creator_url": "https://commons.wikimedia.org/wiki/User:EngProff",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 15010025,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"100 Sarita Jewani Shares Memories of Mutual Aid in the Barracks and Ulhasnagar\u2019s Potential as a Thriving Sindhi Enclave\" by EngProff is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 961649,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/43f877c1-8c32-4f8a-9943-53cbe2afc58f/",
+"related_url": "https://api.openverse.org/v1/audio/43f877c1-8c32-4f8a-9943-53cbe2afc58f/related/",
+"waveform": "https://api.openverse.org/v1/audio/43f877c1-8c32-4f8a-9943-53cbe2afc58f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cccd1167-3873-4d15-b0d9-494fcc9d1199",
+"title": "92 Sunita Dalwani Reflects on Barrack Living, Building Disasters, and Civic Decline in Ulhasnagar",
+"indexed_on": "2026-09-27T00:14:10.373360Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=200286691",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/de/92_Sunita_Dalwani_Reflects_on_Barrack_Living%2C_Building_Disasters%2C_and_Civic_Decline_in_Ulhasnagar.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "EngProff",
+"creator_url": "https://commons.wikimedia.org/wiki/User:EngProff",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 31028698,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"92 Sunita Dalwani Reflects on Barrack Living, Building Disasters, and Civic Decline in Ulhasnagar\" by EngProff is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1928908,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cccd1167-3873-4d15-b0d9-494fcc9d1199/",
+"related_url": "https://api.openverse.org/v1/audio/cccd1167-3873-4d15-b0d9-494fcc9d1199/related/",
+"waveform": "https://api.openverse.org/v1/audio/cccd1167-3873-4d15-b0d9-494fcc9d1199/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5be1a42e-c6ea-480e-929f-e9ac103f3885",
+"title": "84 Varsha Badlani Reflects on Her Family's Jewellery Heritage, Refugee Hardships, and the Civic Transformation of Ulhasnagar",
+"indexed_on": "2026-08-13T00:15:50.382587Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=197285297",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/84_Varsha_Badlani_Reflects_on_Her_Family%27s_Jewellery_Heritage%2C_Refugee_Hardships%2C_and_the_Civic_Transformation_of_Ulhasnagar.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "EngProff",
+"creator_url": "https://commons.wikimedia.org/wiki/User:EngProff",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 14230656,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"84 Varsha Badlani Reflects on Her Family's Jewellery Heritage, Refugee Hardships, and the Civic Transformation of Ulhasnagar\" by EngProff is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 994139,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5be1a42e-c6ea-480e-929f-e9ac103f3885/",
+"related_url": "https://api.openverse.org/v1/audio/5be1a42e-c6ea-480e-929f-e9ac103f3885/related/",
+"waveform": "https://api.openverse.org/v1/audio/5be1a42e-c6ea-480e-929f-e9ac103f3885/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c676e4ee-5dc7-4796-ae93-720e67e54f3e",
+"title": "109 Vicky Dodeja Recounts the Shift from Traditional Barracks to a Commercial Centre in Ulhasnagar",
+"indexed_on": "2026-10-23T00:16:24.897505Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=202117451",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/13/109_Vicky_Dodeja_Recounts_the_Shift_from_Traditional_Barracks_to_a_Commercial_Centre_in_Ulhasnagar.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "EngProff",
+"creator_url": "https://commons.wikimedia.org/wiki/User:EngProff",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 14179823,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"109 Vicky Dodeja Recounts the Shift from Traditional Barracks to a Commercial Centre in Ulhasnagar\" by EngProff is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1446996,
+"bit_rate": 112000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c676e4ee-5dc7-4796-ae93-720e67e54f3e/",
+"related_url": "https://api.openverse.org/v1/audio/c676e4ee-5dc7-4796-ae93-720e67e54f3e/related/",
+"waveform": "https://api.openverse.org/v1/audio/c676e4ee-5dc7-4796-ae93-720e67e54f3e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1b3ea027-887b-41f5-9a3d-f6c483ec37b6",
+"title": "38 Shobha Rameshlal Daryani Speaks about Ulhasnagar",
+"indexed_on": "2026-05-15T00:09:57.056571Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=191950608",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/51/38_Shobha_Rameshlal_Daryani_Speaks_about_Ulhasnagar.ogg",
+"creator": "EngProff",
+"creator_url": "https://commons.wikimedia.org/wiki/User:EngProff",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 17398625,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"38 Shobha Rameshlal Daryani Speaks about Ulhasnagar\" by EngProff is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1208343,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1b3ea027-887b-41f5-9a3d-f6c483ec37b6/",
+"related_url": "https://api.openverse.org/v1/audio/1b3ea027-887b-41f5-9a3d-f6c483ec37b6/related/",
+"waveform": "https://api.openverse.org/v1/audio/1b3ea027-887b-41f5-9a3d-f6c483ec37b6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "19fa0e3e-8ccb-4507-8ade-32e56ee89ce7",
+"title": "122 Taneesha Jaisinghani Traces Her Family's Journey Through Three Ulhasnagar Barracks Alongside the City's Infrastructure Challenges",
+"indexed_on": "2026-10-25T00:09:50.483770Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=202173659",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/57/122_Taneesha_Jaisinghani_Traces_Her_Family%27s_Journey_Through_Three_Ulhasnagar_Barracks_Alongside_the_City%27s_Infrastructure_Challenges.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "EngProff",
+"creator_url": "https://commons.wikimedia.org/wiki/User:EngProff",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 14906957,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"122 Taneesha Jaisinghani Traces Her Family's Journey Through Three Ulhasnagar Barracks Alongside the City's Infrastructure Challenges\" by EngProff is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1520957,
+"bit_rate": 112000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/19fa0e3e-8ccb-4507-8ade-32e56ee89ce7/",
+"related_url": "https://api.openverse.org/v1/audio/19fa0e3e-8ccb-4507-8ade-32e56ee89ce7/related/",
+"waveform": "https://api.openverse.org/v1/audio/19fa0e3e-8ccb-4507-8ade-32e56ee89ce7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e4022516-c18b-4c0f-a294-1759ed40f3db",
+"title": "110 Sachin Manik Discusses His Corporate Career and the Spacious Reality of His Childhood Barrack",
+"indexed_on": "2026-10-25T00:09:50.483770Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=202169561",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/81/110_Sachin_Manik_Discusses_His_Corporate_Career_and_the_Spacious_Reality_of_His_Childhood_Barrack.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "EngProff",
+"creator_url": "https://commons.wikimedia.org/wiki/User:EngProff",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 7141526,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"110 Sachin Manik Discusses His Corporate Career and the Spacious Reality of His Childhood Barrack\" by EngProff is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 733897,
+"bit_rate": 112000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e4022516-c18b-4c0f-a294-1759ed40f3db/",
+"related_url": "https://api.openverse.org/v1/audio/e4022516-c18b-4c0f-a294-1759ed40f3db/related/",
+"waveform": "https://api.openverse.org/v1/audio/e4022516-c18b-4c0f-a294-1759ed40f3db/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bf1861a1-a411-47e9-847d-d0565f377597",
+"title": "Letters & Delusions",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/393390",
+"url": "https://prod-1.storage.jamendo.com/?trackid=393390&format=mp32",
+"creator": "Tymphony",
+"creator_url": "https://www.jamendo.com/artist/350154/Tymphony",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"jazz"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "lounge",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Letters & Delusions\" by Tymphony is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "A Wish for Awaking in the Dream",
+"foreign_landing_url": "https://www.jamendo.com/album/49413/a-wish-for-awaking-in-the-dream",
+"creator": "Tymphony",
+"creator_url": "https://www.jamendo.com/artist/350154/Tymphony",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 195000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/bf1861a1-a411-47e9-847d-d0565f377597/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/bf1861a1-a411-47e9-847d-d0565f377597/",
+"related_url": "https://api.openverse.org/v1/audio/bf1861a1-a411-47e9-847d-d0565f377597/related/",
+"waveform": "https://api.openverse.org/v1/audio/bf1861a1-a411-47e9-847d-d0565f377597/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6501c0e2-1d94-473c-9278-aced0d5299dd",
+"title": "Letters Home",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1336202",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1336202&format=mp32",
+"creator": "Gr\u00e9goire Lourme",
+"creator_url": "https://www.jamendo.com/artist/560/gregoire.lourme",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "emotional",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "epic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Letters Home\" by Gr\u00e9goire Lourme is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "1914-1918 Never Forget",
+"foreign_landing_url": "https://www.jamendo.com/album/157914/1914-1918-never-forget",
+"creator": "Gr\u00e9goire Lourme",
+"creator_url": "https://www.jamendo.com/artist/560/gregoire.lourme",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 228000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/6501c0e2-1d94-473c-9278-aced0d5299dd/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/6501c0e2-1d94-473c-9278-aced0d5299dd/",
+"related_url": "https://api.openverse.org/v1/audio/6501c0e2-1d94-473c-9278-aced0d5299dd/related/",
+"waveform": "https://api.openverse.org/v1/audio/6501c0e2-1d94-473c-9278-aced0d5299dd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "10ef54e5-a32e-482f-ac09-d45234d45b7e",
+"title": "love letters",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/368162",
+"url": "https://prod-1.storage.jamendo.com/?trackid=368162&format=mp32",
+"creator": "Alexander Klein",
+"creator_url": "https://www.jamendo.com/artist/342854/Alexander_Franke",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"classical",
+"filmscore",
+"newage"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "ballad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"love letters\" by Alexander Klein is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "From The Heart",
+"foreign_landing_url": "https://www.jamendo.com/album/47377/from-the-heart",
+"creator": "Alexander Klein",
+"creator_url": "https://www.jamendo.com/artist/342854/Alexander_Franke",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 149000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/10ef54e5-a32e-482f-ac09-d45234d45b7e/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/10ef54e5-a32e-482f-ac09-d45234d45b7e/",
+"related_url": "https://api.openverse.org/v1/audio/10ef54e5-a32e-482f-ac09-d45234d45b7e/related/",
+"waveform": "https://api.openverse.org/v1/audio/10ef54e5-a32e-482f-ac09-d45234d45b7e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "503a5164-b9d1-472c-9ddd-32553f29e39f",
+"title": "The Letter",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1051203",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1051203&format=mp32",
+"creator": "Jill Zimmerman",
+"creator_url": "https://www.jamendo.com/artist/436034/Jill_Zimmerman",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"folk",
+"pop",
+"singersongwriter"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The Letter\" by Jill Zimmerman is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Souls to Fuse",
+"foreign_landing_url": "https://www.jamendo.com/album/123815/souls-to-fuse",
+"creator": "Jill Zimmerman",
+"creator_url": "https://www.jamendo.com/artist/436034/Jill_Zimmerman",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 204000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/503a5164-b9d1-472c-9ddd-32553f29e39f/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/503a5164-b9d1-472c-9ddd-32553f29e39f/",
+"related_url": "https://api.openverse.org/v1/audio/503a5164-b9d1-472c-9ddd-32553f29e39f/related/",
+"waveform": "https://api.openverse.org/v1/audio/503a5164-b9d1-472c-9ddd-32553f29e39f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3e43d7ed-ace3-40f5-be8d-84f4bbbd2370",
+"title": "Letter",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1222745",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1222745&format=mp32",
+"creator": "Kinematic",
+"creator_url": "https://www.jamendo.com/artist/457573/Kinematic",
+"license": "by-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"folk",
+"indie",
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "beatles",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Letter\" by Kinematic is licensed under CC BY-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Time and Place",
+"foreign_landing_url": "https://www.jamendo.com/album/146662/time-and-place",
+"creator": "Kinematic",
+"creator_url": "https://www.jamendo.com/artist/457573/Kinematic",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 210000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/3e43d7ed-ace3-40f5-be8d-84f4bbbd2370/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/3e43d7ed-ace3-40f5-be8d-84f4bbbd2370/",
+"related_url": "https://api.openverse.org/v1/audio/3e43d7ed-ace3-40f5-be8d-84f4bbbd2370/related/",
+"waveform": "https://api.openverse.org/v1/audio/3e43d7ed-ace3-40f5-be8d-84f4bbbd2370/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4d91afe6-9636-4678-b1bb-b5c90ee214a4",
+"title": "365 Daze Love Letters [prod. Juice Beats]",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1116683",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1116683&format=mp32",
+"creator": "Jus Daze",
+"creator_url": "https://www.jamendo.com/artist/389940/JusDaze",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"hiphop",
+"rap"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "jusdaze",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sampler",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"365 Daze Love Letters [prod. Juice Beats]\" by Jus Daze is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Walk Twice As Hard",
+"foreign_landing_url": "https://www.jamendo.com/album/133413/walk-twice-as-hard",
+"creator": "Jus Daze",
+"creator_url": "https://www.jamendo.com/artist/389940/JusDaze",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 181000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/4d91afe6-9636-4678-b1bb-b5c90ee214a4/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/4d91afe6-9636-4678-b1bb-b5c90ee214a4/",
+"related_url": "https://api.openverse.org/v1/audio/4d91afe6-9636-4678-b1bb-b5c90ee214a4/related/",
+"waveform": "https://api.openverse.org/v1/audio/4d91afe6-9636-4678-b1bb-b5c90ee214a4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7ea72bf9-3088-4fa0-8f1b-8c103729f127",
+"title": "Letter To Osiris",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1068922",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1068922&format=mp32",
+"creator": "Chuck Mason",
+"creator_url": "https://www.jamendo.com/artist/438341/Chuck_Mason",
+"license": "by-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"hiphop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Letter To Osiris\" by Chuck Mason is licensed under CC BY-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Summer's Eulogy",
+"foreign_landing_url": "https://www.jamendo.com/album/126382/summer-s-eulogy",
+"creator": "Chuck Mason",
+"creator_url": "https://www.jamendo.com/artist/438341/Chuck_Mason",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 276000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/7ea72bf9-3088-4fa0-8f1b-8c103729f127/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/7ea72bf9-3088-4fa0-8f1b-8c103729f127/",
+"related_url": "https://api.openverse.org/v1/audio/7ea72bf9-3088-4fa0-8f1b-8c103729f127/related/",
+"waveform": "https://api.openverse.org/v1/audio/7ea72bf9-3088-4fa0-8f1b-8c103729f127/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d621c5ae-dec1-4ca6-ba58-219b3dea4048",
+"title": "Letters To A Young Girl",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/78804",
+"url": "https://prod-1.storage.jamendo.com/?trackid=78804&format=mp32",
+"creator": "Staggered Crossing",
+"creator_url": "https://www.jamendo.com/artist/7988/staggered.crossing",
+"license": "by-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"blues",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "canadian",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Letters To A Young Girl\" by Staggered Crossing is licensed under CC BY-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Burgundy & Blue",
+"foreign_landing_url": "https://www.jamendo.com/album/7175/burgundy-and-blue",
+"creator": "Staggered Crossing",
+"creator_url": "https://www.jamendo.com/artist/7988/staggered.crossing",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 280000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/d621c5ae-dec1-4ca6-ba58-219b3dea4048/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/d621c5ae-dec1-4ca6-ba58-219b3dea4048/",
+"related_url": "https://api.openverse.org/v1/audio/d621c5ae-dec1-4ca6-ba58-219b3dea4048/related/",
+"waveform": "https://api.openverse.org/v1/audio/d621c5ae-dec1-4ca6-ba58-219b3dea4048/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "10b5670c-9fa2-453d-b64b-95ff44702928",
+"title": "Letters to God",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/188746",
+"url": "https://prod-1.storage.jamendo.com/?trackid=188746&format=mp32",
+"creator": "Amity in Fame",
+"creator_url": "https://www.jamendo.com/artist/340555/Amity_in_Fame",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Letters to God\" by Amity in Fame is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Dinner for One",
+"foreign_landing_url": "https://www.jamendo.com/album/28245/dinner-for-one",
+"creator": "Amity in Fame",
+"creator_url": "https://www.jamendo.com/artist/340555/Amity_in_Fame",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 336000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/10b5670c-9fa2-453d-b64b-95ff44702928/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/10b5670c-9fa2-453d-b64b-95ff44702928/",
+"related_url": "https://api.openverse.org/v1/audio/10b5670c-9fa2-453d-b64b-95ff44702928/related/",
+"waveform": "https://api.openverse.org/v1/audio/10b5670c-9fa2-453d-b64b-95ff44702928/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "aff7b7f7-2408-45ea-aae9-963df31f3f02",
+"title": "En-uk-letter",
+"indexed_on": "2024-02-18T15:47:28.902290Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=9023194",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/23/En-uk-letter.ogg",
+"creator": "Association Shtooka, Judith Franck",
+"creator_url": null,
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/us/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16013,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-uk-letter\" by Association Shtooka, Judith Franck is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/us/deed.en/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1250,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/aff7b7f7-2408-45ea-aae9-963df31f3f02/",
+"related_url": "https://api.openverse.org/v1/audio/aff7b7f7-2408-45ea-aae9-963df31f3f02/related/",
+"waveform": "https://api.openverse.org/v1/audio/aff7b7f7-2408-45ea-aae9-963df31f3f02/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9584aaa7-479a-4af5-abc5-58ae3be8734a",
+"title": "Letter from Home",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/392888",
+"url": "https://prod-1.storage.jamendo.com/?trackid=392888&format=mp32",
+"creator": "Terepin",
+"creator_url": "https://www.jamendo.com/artist/6246/mr.henky",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"trance"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Letter from Home\" by Terepin is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Visions",
+"foreign_landing_url": "https://www.jamendo.com/album/49372/visions",
+"creator": "Terepin",
+"creator_url": "https://www.jamendo.com/artist/6246/mr.henky",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 306000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/9584aaa7-479a-4af5-abc5-58ae3be8734a/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/9584aaa7-479a-4af5-abc5-58ae3be8734a/",
+"related_url": "https://api.openverse.org/v1/audio/9584aaa7-479a-4af5-abc5-58ae3be8734a/related/",
+"waveform": "https://api.openverse.org/v1/audio/9584aaa7-479a-4af5-abc5-58ae3be8734a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ec994271-a563-43ca-aadb-739f16f8fb44",
+"title": "long long letter",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1068665",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1068665&format=mp32",
+"creator": "Pianochocolate",
+"creator_url": "https://www.jamendo.com/artist/348064/Pianochocolate",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "soft",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"long long letter\" by Pianochocolate is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Lilac Music",
+"foreign_landing_url": "https://www.jamendo.com/album/126331/lilac-music",
+"creator": "Pianochocolate",
+"creator_url": "https://www.jamendo.com/artist/348064/Pianochocolate",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 232000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/ec994271-a563-43ca-aadb-739f16f8fb44/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/ec994271-a563-43ca-aadb-739f16f8fb44/",
+"related_url": "https://api.openverse.org/v1/audio/ec994271-a563-43ca-aadb-739f16f8fb44/related/",
+"waveform": "https://api.openverse.org/v1/audio/ec994271-a563-43ca-aadb-739f16f8fb44/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "007431d0-e484-4c33-bd7b-c78b9f16f0cc",
+"title": "opening letter",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/ThatMisfit/sounds/413461",
+"url": "https://cdn.freesound.org/previews/413/413461_6131603-hq.mp3",
+"creator": "ThatMisfit",
+"creator_url": "https://freesound.org/people/ThatMisfit",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 302496,
+"filetype": "mp3",
+"tags": [
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "letter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "opening",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "paper",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/413461/download/",
+"bit_rate": 0,
+"filesize": 13789198,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"opening letter\" by ThatMisfit is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 15872,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/007431d0-e484-4c33-bd7b-c78b9f16f0cc/",
+"related_url": "https://api.openverse.org/v1/audio/007431d0-e484-4c33-bd7b-c78b9f16f0cc/related/",
+"waveform": "https://api.openverse.org/v1/audio/007431d0-e484-4c33-bd7b-c78b9f16f0cc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8e30a605-2951-4a0e-8952-f4e47419fd92",
+"title": "04743 letter folding.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Robinhood76/sounds/213262",
+"url": "https://cdn.freesound.org/previews/213/213262_321967-hq.mp3",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 148816,
+"filetype": "mp3",
+"tags": [
+{
+"name": "envelope",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "folding",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "letter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "paper",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "post",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "send",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/213262/download/",
+"bit_rate": 0,
+"filesize": 550138,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"04743 letter folding.wav\" by Robinhood76 is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "OFFICE and PAPERWORK sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/4024/",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 6236,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8e30a605-2951-4a0e-8952-f4e47419fd92/",
+"related_url": "https://api.openverse.org/v1/audio/8e30a605-2951-4a0e-8952-f4e47419fd92/related/",
+"waveform": "https://api.openverse.org/v1/audio/8e30a605-2951-4a0e-8952-f4e47419fd92/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bd16de4a-23db-47b8-8426-fdeefce266af",
+"title": "MACACO MAU - Letter 2 Mata",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/773282",
+"url": "https://prod-1.storage.jamendo.com/?trackid=773282&format=mp32",
+"creator": "mACACO mAU",
+"creator_url": "https://www.jamendo.com/artist/368576/mACACO_mAU",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"MACACO MAU - Letter 2 Mata\" by mACACO mAU is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "lOOM",
+"foreign_landing_url": "https://www.jamendo.com/album/90646/loom",
+"creator": "mACACO mAU",
+"creator_url": "https://www.jamendo.com/artist/368576/mACACO_mAU",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 1272000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/bd16de4a-23db-47b8-8426-fdeefce266af/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/bd16de4a-23db-47b8-8426-fdeefce266af/",
+"related_url": "https://api.openverse.org/v1/audio/bd16de4a-23db-47b8-8426-fdeefce266af/related/",
+"waveform": "https://api.openverse.org/v1/audio/bd16de4a-23db-47b8-8426-fdeefce266af/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cbb645f9-dc40-4971-932c-d7fb1f0f3f49",
+"title": "Lady Susan Letters 32 - 41, Conclusion",
+"indexed_on": "2024-08-11T16:49:59.597665Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=49360778",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Lady_Susan_Letters_32_-_41%2C_Conclusion.ogg",
+"creator": "Jane Austen, read by full cast.",
+"creator_url": "https://en.wikipedia.org/wiki/Jane_Austen",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 12851381,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Lady Susan Letters 32 - 41, Conclusion\" by Jane Austen, read by full cast. is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1365342,
+"bit_rate": 96000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cbb645f9-dc40-4971-932c-d7fb1f0f3f49/",
+"related_url": "https://api.openverse.org/v1/audio/cbb645f9-dc40-4971-932c-d7fb1f0f3f49/related/",
+"waveform": "https://api.openverse.org/v1/audio/cbb645f9-dc40-4971-932c-d7fb1f0f3f49/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "05140418-d4fd-44e9-8f20-7b10cfd92610",
+"title": "Faded Letters",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1278736",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1278736&format=mp32",
+"creator": "Pablo Samonta",
+"creator_url": "https://www.jamendo.com/artist/481486/Pablo_Samonta_(2)",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "melancholic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "pain",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Faded Letters\" by Pablo Samonta is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Melancholy",
+"foreign_landing_url": "https://www.jamendo.com/album/152570/melancholy",
+"creator": "Pablo Samonta",
+"creator_url": "https://www.jamendo.com/artist/481486/Pablo_Samonta_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 35000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/05140418-d4fd-44e9-8f20-7b10cfd92610/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/05140418-d4fd-44e9-8f20-7b10cfd92610/",
+"related_url": "https://api.openverse.org/v1/audio/05140418-d4fd-44e9-8f20-7b10cfd92610/related/",
+"waveform": "https://api.openverse.org/v1/audio/05140418-d4fd-44e9-8f20-7b10cfd92610/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f7869fd0-fe88-4771-bbb8-8e346cf5d8fb",
+"title": "Letters from Heaven",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1388698",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1388698&format=mp32",
+"creator": "Pablo Masi\u00e1",
+"creator_url": "https://www.jamendo.com/artist/359108/Pablo_Masia",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"synthpop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "jarrevangelis",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Letters from Heaven\" by Pablo Masi\u00e1 is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "&amp;Quot;",
+"foreign_landing_url": "https://www.jamendo.com/album/162878/and-quot",
+"creator": "Pablo Masi\u00e1",
+"creator_url": "https://www.jamendo.com/artist/359108/Pablo_Masia",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 438000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/f7869fd0-fe88-4771-bbb8-8e346cf5d8fb/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/f7869fd0-fe88-4771-bbb8-8e346cf5d8fb/",
+"related_url": "https://api.openverse.org/v1/audio/f7869fd0-fe88-4771-bbb8-8e346cf5d8fb/related/",
+"waveform": "https://api.openverse.org/v1/audio/f7869fd0-fe88-4771-bbb8-8e346cf5d8fb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c6f0d3d7-cc7c-4b1b-991a-ea470599a421",
+"title": "Letter from Orion",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/689876",
+"url": "https://prod-1.storage.jamendo.com/?trackid=689876&format=mp32",
+"creator": "The Flanger Sound",
+"creator_url": "https://www.jamendo.com/artist/364910/The_Flanger_Sound",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Letter from Orion\" by The Flanger Sound is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Introspective",
+"foreign_landing_url": "https://www.jamendo.com/album/80343/introspective",
+"creator": "The Flanger Sound",
+"creator_url": "https://www.jamendo.com/artist/364910/The_Flanger_Sound",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 332000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/c6f0d3d7-cc7c-4b1b-991a-ea470599a421/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/c6f0d3d7-cc7c-4b1b-991a-ea470599a421/",
+"related_url": "https://api.openverse.org/v1/audio/c6f0d3d7-cc7c-4b1b-991a-ea470599a421/related/",
+"waveform": "https://api.openverse.org/v1/audio/c6f0d3d7-cc7c-4b1b-991a-ea470599a421/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "aae2a5d4-23c1-4baf-93e5-6d18ab75b826",
+"title": "Open letter and reading",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/dersuperanton/sounds/434466",
+"url": "https://cdn.freesound.org/previews/434/434466_1992856-hq.mp3",
+"creator": "dersuperanton",
+"creator_url": "https://freesound.org/people/dersuperanton",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 171219,
+"filetype": "mp3",
+"tags": [
+{
+"name": "letter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mail",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mailing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "open",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "paper",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "post",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "reading",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/434466/download/",
+"bit_rate": 0,
+"filesize": 622712,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Open letter and reading\" by dersuperanton is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 7058,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/aae2a5d4-23c1-4baf-93e5-6d18ab75b826/",
+"related_url": "https://api.openverse.org/v1/audio/aae2a5d4-23c1-4baf-93e5-6d18ab75b826/related/",
+"waveform": "https://api.openverse.org/v1/audio/aae2a5d4-23c1-4baf-93e5-6d18ab75b826/waveform/",
+"unstable__sensitivity": []
 }
 ]
