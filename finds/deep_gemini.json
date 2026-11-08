@@ -5230,5 +5230,53 @@
    ]
   ],
   "mined_at": "2026-11-08T00:52:36Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Monastery",
+  "url": "https://portal.mozz.us/gemini/gemi.dev/cgi-bin/wp.cgi/view?Monastery",
+  "gemini": "gemini://gemi.dev/cgi-bin/wp.cgi/view?Monastery",
+  "date": "",
+  "dateLabel": "",
+  "count": 8126,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gemi.dev",
+  "preview": "# Monastery\n=> /cgi-bin/wp.cgi/images?Monastery Gallery: 19 images\n=> /cgi-bin/wp.cgi/search?Monastery Other articles that mention 'Monastery'\n\n=> /cgi-bin/wp.cgi/media/media.jpg?https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2d%2FDechen_Choekhor_Mahavihara_%252C_Sarabai%252C_Kullu_%2528_Himachal_Pradesh%2529.jpg%2F500px-Dechen_Choekhor_Mahavihara_%252C_Sarabai%252C_Kullu_%2528_Himachal_Pradesh%2529.jpg%3Futm_source%3Den.wikipedia.org%26utm_campaign%3Dparser%26utm_content%3Dthumbnail Sharabai Monastery (Himachal Pradesh)\nA monastery is a building or complex of buildings comprising the domestic quarters and workplaces of monastics, monks or nuns, whether living in communities (as cenobites) or alone (as hermits). A monastery generally includes a place reserved for prayer which may be a chapel, church, or temple, and may also serve as an oratory, or in the case of communities anything from a single building housing only one senior and two or three junior monks or nuns, to vast complexes and estates housing tens or hundreds. A monastery complex typically comprises a number of buildings which include a church, dormitory, cloister, refectory, library, balneary and",
+  "query": "gemini search \"monastery\"",
+  "kw": "monastery",
+  "extra": "capsule: gemi.dev \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gemi.dev/cgi-bin/wp.cgi/view?Monastery"
+   ]
+  ],
+  "mined_at": "2026-11-08T10:37:38Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "alchemy.txt.gmi",
+  "url": "https://portal.mozz.us/gemini/gem.snork.ca/textfiles.com/occult/alchemy.txt.gmi",
+  "gemini": "gemini://gem.snork.ca/textfiles.com/occult/alchemy.txt.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 8188,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gem.snork.ca",
+  "preview": "Taken from a 1960 reprint of \"AN ENCYCLOPAEDIA OF OCCULTISM\", by\r\n    Lewis Spence; University Press, Hyde Park, New York.  Originally\r\n    Published in 1920, it is considered to be one of the most complete\r\n    texts on the subject.\r\n------------------------------------------------------------------------\r\n \r\n  ALCHEMY: The science by aid of which the chemical philosophers of\r\nmedieval times attempted to transmute the baser metals into gold or\r\nsilver.  There is considerable divergence of opinion as to the etymology\r\nof the word, but it would seem to be derived from the Arabic al=the, and\r\nkimya=chemistry, which in turn derives from the late Greek\r\nchemica=chemistry, from chumeia=a mingling, or cheein, `to pour out` or\r\n`mix', Aryan root ghu, to pour, whence the word `gush'.  Mr. A. Wallis\r\nBudge in his \"Egyptian Magic\", however, states that it is possible that\r\nit may be derived from the Egyptian word khemeia, that is to say 'the\r\npreparation of the black ore', or `powder', which was regarded as the\r\nactive principle in the transmutation of metals.  To this name the Arabs\r\naffixed the article `al', thus giving al-khemeia, or alchemy. \r\n  HISTORY OF ALCHEMY:  From an early period ",
+  "query": "gemini search \"alchemy\"",
+  "kw": "alchemy",
+  "extra": "capsule: gem.snork.ca \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gem.snork.ca/textfiles.com/occult/alchemy.txt.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-08T10:37:38Z"
  }
 ]

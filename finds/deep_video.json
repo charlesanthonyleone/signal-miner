@@ -15416,5 +15416,25 @@
 "preview": "highwarriors.mpg \uff77 59 \uff77 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/tv+movies/warriors/",
 "extra": "open directory on ftp.sunet.se",
 "mined_at": "2026-11-06T00:05:41Z"
+},
+{
+"source": "Open Directory (index)",
+"title": "funet_pieni.mpg",
+"date": "1998-10-09",
+"dateLabel": "modified",
+"count": null,
+"countLabel": "",
+"size": "803K",
+"ftype": "video/mpg",
+"host": "ftp.funet.fi",
+"gated": true,
+"thumb": "",
+"kind": "link",
+"src": "https://ftp.funet.fi/pub/doc/FUNET/history/pics/funet_pieni.mpg",
+"url": "https://ftp.funet.fi/pub/doc/FUNET/history/pics/funet_pieni.mpg",
+"query": "open-directory index (odbig) video extensions",
+"preview": "funet_pieni.mpg \uff77 803K \uff77 in https://ftp.funet.fi/pub/doc/FUNET/history/pics/",
+"extra": "open directory on ftp.funet.fi",
+"mined_at": "2026-11-08T10:37:46Z"
 }
 ]

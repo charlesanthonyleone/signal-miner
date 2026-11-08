@@ -3378,5 +3378,25 @@
 "inventor": "Jacques D Avignon",
 "module": "weather",
 "mined_at": "2026-11-07T06:18:52Z"
+},
+{
+"source": "Google Patents",
+"title": "Methods of dispersing fogs",
+"date": "1959-07-21",
+"dateLabel": "published",
+"count": null,
+"countLabel": "",
+"kind": "meta",
+"mime": "patent/text",
+"thumb": "",
+"src": "",
+"preview": "",
+"url": "https://patents.google.com/patent/US2895679A/en",
+"query": "google patents q=\"rain making\" before 1960",
+"extra": "patent US2895679A \u00b7 inventor Elton George Alfred Hugh",
+"patent_number": "US2895679A",
+"inventor": "Elton George Alfred Hugh",
+"module": "weather",
+"mined_at": "2026-11-08T10:38:00Z"
 }
 ]

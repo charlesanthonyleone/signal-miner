@@ -43370,5 +43370,173 @@
 ]
 ],
 "mined_at": "2026-11-08T00:50:58Z"
+},
+{
+"source": "Open Directory",
+"title": "ds3100",
+"date": "1993-02-15 07:55",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "66K",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/library/vetelys/ds3100",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "text \uff77 66K \uff77 1993-02-15 07:55 \uff77 in https://ftp.funet.fi/pub/sci/library/vetelys/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/library/vetelys/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/library/vetelys/"
+]
+],
+"mined_at": "2026-11-08T10:36:06Z"
+},
+{
+"source": "Open Directory",
+"title": "layout.fmt",
+"date": "1993-02-15 07:55",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.5K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/library/vetelys/layout.fmt",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 1.5K \uff77 1993-02-15 07:55 \uff77 in https://ftp.funet.fi/pub/sci/library/vetelys/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/library/vetelys/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/library/vetelys/"
+]
+],
+"mined_at": "2026-11-08T10:36:06Z"
+},
+{
+"source": "Open Directory",
+"title": "sparc",
+"date": "1993-02-15 07:55",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "136K",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/library/vetelys/sparc",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "text \uff77 136K \uff77 1993-02-15 07:55 \uff77 in https://ftp.funet.fi/pub/sci/library/vetelys/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/library/vetelys/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/library/vetelys/"
+]
+],
+"mined_at": "2026-11-08T10:36:06Z"
+},
+{
+"source": "Open Directory",
+"title": "vetelys.sh.Z",
+"date": "1993-02-15 07:55",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "27K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/library/vetelys/vetelys.sh.Z",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 27K \uff77 1993-02-15 07:55 \uff77 in https://ftp.funet.fi/pub/sci/library/vetelys/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/library/vetelys/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/library/vetelys/"
+]
+],
+"mined_at": "2026-11-08T10:36:06Z"
+},
+{
+"source": "Open Directory",
+"title": "foxbase.fmt",
+"date": "1993-02-15 07:55",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.1K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/library/vetelys/foxbase.fmt",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 1.1K \uff77 1993-02-15 07:55 \uff77 in https://ftp.funet.fi/pub/sci/library/vetelys/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/library/vetelys/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/library/vetelys/"
+]
+],
+"mined_at": "2026-11-08T10:36:06Z"
+},
+{
+"source": "Open Directory",
+"title": "lue.mut",
+"date": "1993-02-15 07:55",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.4K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/library/vetelys/lue.mut",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 2.4K \uff77 1993-02-15 07:55 \uff77 in https://ftp.funet.fi/pub/sci/library/vetelys/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/library/vetelys/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/library/vetelys/"
+]
+],
+"mined_at": "2026-11-08T10:36:06Z"
 }
 ]
