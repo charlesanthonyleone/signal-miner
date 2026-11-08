@@ -5278,5 +5278,53 @@
    ]
   ],
   "mined_at": "2026-11-08T10:37:38Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Get a life! (imp.)",
+  "url": "https://portal.mozz.us/gemini/tilde.club/~sfelicio/glossary/Get-a-life-.gmi",
+  "gemini": "gemini://tilde.club/~sfelicio/glossary/Get-a-life-.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 705,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "tilde.club",
+  "preview": "# Get a life! (imp.)\n\nHacker-standard way of suggesting that the person to whom it is directed has succumbed to terminal geekdom (see geek).  Often heard on Usenet, esp. as a way of suggesting that the target is taking some obscure issue of theology too seriously.  This exhortation was popularized by William Shatner on a 1987 Saturday Night Live episode in a speech that ended \n\n> Get a life!\n\n, but it can be traced back at least to \u2018Valley Girl\u2019 slang in 1983.  It was certainly in wide use among hackers for years before achieving mainstream currency via the sitcom Get A Life in 1990.\n\n=> Usenet.gmi Usenet\n=> geek.gmi geek\n=> theology.gmi theology\n\n=> /~sfelicio/glossary.gmi back to glossary index",
+  "query": "gemini search \"theology\"",
+  "kw": "theology",
+  "extra": "capsule: tilde.club \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://tilde.club/~sfelicio/glossary/Get-a-life-.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-08T18:05:37Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Second Temple",
+  "url": "https://portal.mozz.us/gemini/scholasticdiversity.us.to/scriptures/jewish/?Second+Temple",
+  "gemini": "gemini://scholasticdiversity.us.to/scriptures/jewish/?Second+Temple",
+  "date": "",
+  "dateLabel": "",
+  "count": 293,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "scholasticdiversity.us.to",
+  "preview": "# Second Temple \n\n=> https://sefaria.org Powered by Sefaria.org\n\n=> /scriptures/jewish/t/Megillat%20Ta%27anit Megillat Ta'anit\n=> /scriptures/jewish/?Second+Temple%2FApocrypha Apocrypha\n=> /scriptures/jewish/?Second+Temple%2FPhilo Philo\n=> /scriptures/jewish/?Second+Temple%2FJosephus Josephus",
+  "query": "gemini search \"apocrypha\"",
+  "kw": "apocrypha",
+  "extra": "capsule: scholasticdiversity.us.to \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://scholasticdiversity.us.to/scriptures/jewish/?Second+Temple"
+   ]
+  ],
+  "mined_at": "2026-11-08T18:05:37Z"
  }
 ]

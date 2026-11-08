@@ -4879,23 +4879,6 @@
 "mined_at": "2026-10-31T19:30:17Z"
 },
 {
-"source": "Open Directory .txt",
-"title": "ftp.funet.fi/pub/culture/occult/hermetica/INFO.ascii",
-"date": "",
-"dateLabel": "seen",
-"count": 472,
-"countLabel": "chars read",
-"kind": "meta",
-"depth": "800 m \u00b7 mesopelagic",
-"mime": "text/plain",
-"preview": "This is a rendition of the enochian great table, after the work of Dr. John\nDee and Edward Kelley in the 1580's. \n\nThis package contains the great table in both PostScript and TIFF format,\n\n\nFurther editions are planned at this point; I hope to have the other major\ndiagrams of the enochian system presented, as well as this one presented \nwith enochian characters substituted for roman. This as time allows.\n\nI can be contacted at:\n\njoshua@gnu.ai.mit.edu\n\n\nJoshua Geller\n",
-"url": "https://ftp.funet.fi/pub/culture/occult/hermetica/INFO.ascii",
-"query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
-"bucket": "grimoire",
-"extra": "bucket: grimoire \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/hermetica/",
-"mined_at": "2026-10-31T19:30:17Z"
-},
-{
 "source": "Gopherspace (Veronica-2)",
 "title": "2024-09 Constellation to Launch Crane Clean Energy Center Restoring Jo \u2014 magical.fish",
 "date": "",
@@ -9705,5 +9688,22 @@
 "bucket": null,
 "extra": "bucket: unsorted \u00b7 dir: https://www.ibiblio.org/pub/docs/UNC-bbs/",
 "mined_at": "2026-11-08T10:33:32Z"
+},
+{
+"source": "Common Crawl text/plain",
+"title": "ccel.org/ccel/b/boyce/theology/cache/theology.txt",
+"date": "2026-09-04",
+"dateLabel": "captured",
+"count": 455365,
+"countLabel": "bytes",
+"kind": "meta",
+"depth": "6 km \u00b7 hadal",
+"mime": "text/plain",
+"preview": "     __________________________________________________________________\n\n           Title: Abstract of Systematic Theology\n      Creator(s): Boyce, James Petigru (1827-1888)\n     Print Basis: 1887\n          Rights: Public Domain\n   CCEL Subjects: All;\n      LC Call no: BT75.B6\n     LC Subjects:\n\n                  Doctrinal theology\n     __________________________________________________________________\n\n                        Abstract of Systematic Theology\n\n   By\n\nRev. James Petigru Boyce, D. D., LL. D.,\n\n   Joseph-Emerson-Brown Professor of Systematic Theology\n   in The Southern Baptist Theological Seminary\n\n   First published in 1887\n     __________________________________________________________________\n\n   To the\n   HON. JOSEPH E. BROWN,\n   President of the\n   Board of Trustees of The Southern Baptist Theological Seminary,\n\n   this book is respectfully dedicated, as a token of high personal\n   esteem, and in recognition of his deep interest in the cause of\n   education, and especially of the theological education of the Christian\n   ministry; as evinced, among other generous gifts, by his endowment in\n   The Southern Baptist Theological Seminary of the Chair of Systematic\n   Theology, with which the author is officially connected.\n     __________________________________________________________________\n\n   Transcribed by Roane Hunt, Spencer Haygood, Todd Wilson, and Dan Wright\n   Proofread by Cindy Kemp, Lewis Noles, Sam Hughey, and Henry Holloway\n   HTML by Lewis Noles ",
+"url": "https://ccel.org/ccel/b/boyce/theology/cache/theology.txt",
+"query": "Common Crawl url=www.ccel.org/* mime:text/plain (host from obscure-TLD crawl)",
+"bucket": null,
+"extra": "bucket: unsorted \u00b7 original: https://ccel.org/ccel/b/boyce/theology/cache/theology.txt \u00b7 host: www.ccel.org",
+"mined_at": "2026-11-08T18:00:37Z"
 }
 ]
