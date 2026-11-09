@@ -45722,5 +45722,1965 @@
 ]
 ],
 "mined_at": "2026-11-09T06:52:19Z"
+},
+{
+"source": "Open Directory",
+"title": "gc.php",
+"date": "2026-11-09 12:13",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "62K",
+"ftype": "other",
+"host": "www.gc.ryan-sanders.com",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.gc.ryan-sanders.com/gc.php",
+"mime": "other/*",
+"query": "urlscan 'Index of' sighting \u2192 https://www.gc.ryan-sanders.com/",
+"kw": "",
+"preview": "other \uff77 62K \uff77 2026-11-09 12:13 \uff77 in https://www.gc.ryan-sanders.com/",
+"extra": "host: www.gc.ryan-sanders.com \u00b7 dir: https://www.gc.ryan-sanders.com/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.gc.ryan-sanders.com/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "release.caches.db",
+"date": "09-Nov-2026 10:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2M",
+"ftype": "other",
+"host": "ydvhllolvbvkdb.pages.dev",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ydvhllolvbvkdb.pages.dev/db/release.caches.db",
+"mime": "other/*",
+"query": "urlscan 'Index of' sighting \u2192 https://ydvhllolvbvkdb.pages.dev/",
+"kw": "",
+"preview": "other \uff77 2M \uff77 09-Nov-2026 10:01 \uff77 in https://ydvhllolvbvkdb.pages.dev/db/",
+"extra": "host: ydvhllolvbvkdb.pages.dev \u00b7 dir: https://ydvhllolvbvkdb.pages.dev/db/",
+"links": [
+[
+"parent dir \u2197",
+"https://ydvhllolvbvkdb.pages.dev/db/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "references.db",
+"date": "09-Nov-2026 10:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "7M",
+"ftype": "other",
+"host": "ydvhllolvbvkdb.pages.dev",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ydvhllolvbvkdb.pages.dev/db/references.db",
+"mime": "other/*",
+"query": "urlscan 'Index of' sighting \u2192 https://ydvhllolvbvkdb.pages.dev/",
+"kw": "",
+"preview": "other \uff77 7M \uff77 09-Nov-2026 10:01 \uff77 in https://ydvhllolvbvkdb.pages.dev/db/",
+"extra": "host: ydvhllolvbvkdb.pages.dev \u00b7 dir: https://ydvhllolvbvkdb.pages.dev/db/",
+"links": [
+[
+"parent dir \u2197",
+"https://ydvhllolvbvkdb.pages.dev/db/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "contents.cache.db",
+"date": "09-Nov-2026 10:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "98M",
+"ftype": "other",
+"host": "ydvhllolvbvkdb.pages.dev",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ydvhllolvbvkdb.pages.dev/db/contents.cache.db",
+"mime": "other/*",
+"query": "urlscan 'Index of' sighting \u2192 https://ydvhllolvbvkdb.pages.dev/",
+"kw": "",
+"preview": "other \uff77 98M \uff77 09-Nov-2026 10:01 \uff77 in https://ydvhllolvbvkdb.pages.dev/db/",
+"extra": "host: ydvhllolvbvkdb.pages.dev \u00b7 dir: https://ydvhllolvbvkdb.pages.dev/db/",
+"links": [
+[
+"parent dir \u2197",
+"https://ydvhllolvbvkdb.pages.dev/db/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "packages.db",
+"date": "09-Nov-2026 10:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "108M",
+"ftype": "other",
+"host": "ydvhllolvbvkdb.pages.dev",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ydvhllolvbvkdb.pages.dev/db/packages.db",
+"mime": "other/*",
+"query": "urlscan 'Index of' sighting \u2192 https://ydvhllolvbvkdb.pages.dev/",
+"kw": "",
+"preview": "other \uff77 108M \uff77 09-Nov-2026 10:01 \uff77 in https://ydvhllolvbvkdb.pages.dev/db/",
+"extra": "host: ydvhllolvbvkdb.pages.dev \u00b7 dir: https://ydvhllolvbvkdb.pages.dev/db/",
+"links": [
+[
+"parent dir \u2197",
+"https://ydvhllolvbvkdb.pages.dev/db/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "version",
+"date": "09-Nov-2026 10:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "31",
+"ftype": "text",
+"host": "ydvhllolvbvkdb.pages.dev",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ydvhllolvbvkdb.pages.dev/db/version",
+"mime": "text/*",
+"query": "urlscan 'Index of' sighting \u2192 https://ydvhllolvbvkdb.pages.dev/",
+"kw": "",
+"preview": "text \uff77 31 \uff77 09-Nov-2026 10:01 \uff77 in https://ydvhllolvbvkdb.pages.dev/db/",
+"extra": "host: ydvhllolvbvkdb.pages.dev \u00b7 dir: https://ydvhllolvbvkdb.pages.dev/db/",
+"links": [
+[
+"parent dir \u2197",
+"https://ydvhllolvbvkdb.pages.dev/db/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "checksums.db",
+"date": "09-Nov-2026 10:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "12M",
+"ftype": "other",
+"host": "ydvhllolvbvkdb.pages.dev",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ydvhllolvbvkdb.pages.dev/db/checksums.db",
+"mime": "other/*",
+"query": "urlscan 'Index of' sighting \u2192 https://ydvhllolvbvkdb.pages.dev/",
+"kw": "",
+"preview": "other \uff77 12M \uff77 09-Nov-2026 10:01 \uff77 in https://ydvhllolvbvkdb.pages.dev/db/",
+"extra": "host: ydvhllolvbvkdb.pages.dev \u00b7 dir: https://ydvhllolvbvkdb.pages.dev/db/",
+"links": [
+[
+"parent dir \u2197",
+"https://ydvhllolvbvkdb.pages.dev/db/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "releases.json",
+"date": "23-Sep-2026 08:54",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1917",
+"ftype": "other",
+"host": "ydvhllolvbvkdb.pages.dev",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ydvhllolvbvkdb.pages.dev/releases.json",
+"mime": "other/*",
+"query": "urlscan 'Index of' sighting \u2192 https://ydvhllolvbvkdb.pages.dev/",
+"kw": "",
+"preview": "other \uff77 1917 \uff77 23-Sep-2026 08:54 \uff77 in https://ydvhllolvbvkdb.pages.dev/",
+"extra": "host: ydvhllolvbvkdb.pages.dev \u00b7 dir: https://ydvhllolvbvkdb.pages.dev/",
+"links": [
+[
+"parent dir \u2197",
+"https://ydvhllolvbvkdb.pages.dev/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "Info",
+"date": "1991-07-19 17:54",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "4.0K",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/papers/Info",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "text \uff77 4.0K \uff77 1991-07-19 17:54 \uff77 in https://ftp.funet.fi/pub/sci/papers/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/papers/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/papers/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "Info.ps",
+"date": "1992-02-26 18:51",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "53K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/papers/Info.ps",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 53K \uff77 1992-02-26 18:51 \uff77 in https://ftp.funet.fi/pub/sci/papers/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/papers/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/papers/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "techreport-sites.gz",
+"date": "1995-06-09 07:09",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "16K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/papers/techreport-sites.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 16K \uff77 1995-06-09 07:09 \uff77 in https://ftp.funet.fi/pub/sci/papers/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/papers/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/papers/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "CGpapers",
+"date": "2000-09-14 15:15",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "4.9K",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/papers/CGpapers",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "text \uff77 4.9K \uff77 2000-09-14 15:15 \uff77 in https://ftp.funet.fi/pub/sci/papers/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/papers/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/papers/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "Index",
+"date": "1994-06-28 18:39",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "123",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/papers/Index",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "text \uff77 123 \uff77 1994-06-28 18:39 \uff77 in https://ftp.funet.fi/pub/sci/papers/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/papers/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/papers/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "Papers",
+"date": "1992-04-22 15:21",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "21K",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/papers/Papers",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "text \uff77 21K \uff77 1992-04-22 15:21 \uff77 in https://ftp.funet.fi/pub/sci/papers/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/papers/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/papers/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "image31.sit",
+"date": "1992-06-07 15:04",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "436K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/image31.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 436K \uff77 1992-06-07 15:04 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "porsche.sit",
+"date": "1992-06-07 15:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "92K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/porsche.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 92K \uff77 1992-06-07 15:01 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "gel_with_plots.sit",
+"date": "1992-06-07 15:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "28K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/gel_with_plots.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 28K \uff77 1992-06-07 15:00 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "BigPicture35.hqx",
+"date": "1997-02-18 01:52",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "278K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/BigPicture35.hqx",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 278K \uff77 1997-02-18 01:52 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "pet_scan.sit",
+"date": "1992-06-07 15:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "9.2K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/pet_scan.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "scan",
+"preview": "other \uff77 9.2K \uff77 1992-06-07 15:01 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "bird_movie.sit",
+"date": "1992-06-07 15:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "13K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/bird_movie.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 13K \uff77 1992-06-07 15:00 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "simpsons.sit",
+"date": "1992-06-07 15:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.4K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/simpsons.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 1.4K \uff77 1992-06-07 15:01 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "imagestack.sit",
+"date": "1992-06-07 15:03",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "188K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/imagestack.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 188K \uff77 1992-06-07 15:03 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "lightningpaint.sea",
+"date": "1992-06-07 15:04",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "172K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/lightningpaint.sea",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 172K \uff77 1992-06-07 15:04 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "helix11.sit",
+"date": "1992-06-07 15:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "30K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/helix11.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 30K \uff77 1992-06-07 15:01 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "jpeg2gif.cpt",
+"date": "1992-06-07 15:04",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "160K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/jpeg2gif.cpt",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 160K \uff77 1992-06-07 15:04 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "imagery.sea",
+"date": "1992-06-07 15:04",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "72K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/imagery.sea",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 72K \uff77 1992-06-07 15:04 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "colorsqueeze.sit",
+"date": "1992-06-07 15:03",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "499K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/colorsqueeze.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 499K \uff77 1992-06-07 15:03 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "image141.sit",
+"date": "1992-06-07 15:04",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "265K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/image141.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 265K \uff77 1992-06-07 15:04 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "rastertoolkit.sit",
+"date": "1992-06-07 15:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "59K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/rastertoolkit.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 59K \uff77 1992-06-07 15:01 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "retouch.sit",
+"date": "1992-06-07 15:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "118K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/retouch.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 118K \uff77 1992-06-07 15:01 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "Zorak_FighterCraft.sit.bin",
+"date": "1995-04-21 08:28",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "822K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/Zorak_FighterCraft.sit.bin",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 822K \uff77 1995-04-21 08:28 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "triangulate.sit",
+"date": "1992-06-07 15:03",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "45K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/triangulate.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 45K \uff77 1992-06-07 15:03 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "image137manual.sit",
+"date": "1992-06-07 15:02",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "156K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/image137manual.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "manual",
+"preview": "other \uff77 156K \uff77 1992-06-07 15:02 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "00Index.old",
+"date": "1996-05-20 13:29",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.0K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/00Index.old",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 2.0K \uff77 1996-05-20 13:29 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "colourconverter.sit",
+"date": "1992-06-07 15:02",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "53K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/colourconverter.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 53K \uff77 1992-06-07 15:02 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "cgmmaker.sit",
+"date": "1992-06-07 15:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "97K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/cgmmaker.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 97K \uff77 1992-06-07 15:01 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "AntiAlias_1.01_FAT.sit.hqx",
+"date": "1994-11-21 14:51",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "134K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/AntiAlias_1.01_FAT.sit.hqx",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 134K \uff77 1994-11-21 14:51 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "retdoc.sit",
+"date": "1992-06-07 15:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "102K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/retdoc.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 102K \uff77 1992-06-07 15:01 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "ct_scan.sit",
+"date": "1992-06-07 15:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "43K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/ct_scan.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "scan",
+"preview": "other \uff77 43K \uff77 1992-06-07 15:00 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "shutdownpict.sit",
+"date": "1992-06-07 15:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "5.8K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/pics/viewers/mac/shutdownpict.sit",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "other \uff77 5.8K \uff77 1992-06-07 15:01 \uff77 in https://ftp.funet.fi/pub/pics/viewers/mac/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/viewers/mac/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/viewers/mac/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "pscontr2.lzh",
+"date": "06-Jun-1997 15:44",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "21045",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Mint/pscontr2.lzh",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 21045 \uff77 06-Jun-1997 15:44 \uff77 in https://ftp.lip6.fr/pub/atari/Mint/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Mint/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Mint/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "Index.all.txt",
+"date": "18-Jan-1999 12:20",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "196897",
+"ftype": "text",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Index.all.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "text \uff77 196897 \uff77 18-Jan-1999 12:20 \uff77 in https://ftp.lip6.fr/pub/atari/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "sgscan.zip",
+"date": "25-Aug-1997 21:59",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "41958",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/sgscan.zip",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "scan",
+"preview": "other \uff77 41958 \uff77 25-Aug-1997 21:59 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "DIRS.byname",
+"date": "24-May-2006 08:24",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "14",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/DIRS.byname",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 14 \uff77 24-May-2006 08:24 \uff77 in https://ftp.lip6.fr/pub/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "mapmem.lzh",
+"date": "06-Jun-1997 16:11",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2675",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/mapmem.lzh",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 2675 \uff77 06-Jun-1997 16:11 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "ramfs_1.51.tar.gz",
+"date": "31-Jul-1997 22:28",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "28200",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Mint/ramfs_1.51.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 28200 \uff77 31-Jul-1997 22:28 \uff77 in https://ftp.lip6.fr/pub/atari/Mint/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Mint/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Mint/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "finger.tgz",
+"date": "06-Jun-1997 15:40",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "45351",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Mint/finger.tgz",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 45351 \uff77 06-Jun-1997 15:40 \uff77 in https://ftp.lip6.fr/pub/atari/Mint/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Mint/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Mint/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "cee92.tos",
+"date": "06-Jun-1997 16:09",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "53819",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/cee92.tos",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 53819 \uff77 06-Jun-1997 16:09 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "prof2_14.zip",
+"date": "06-Jun-1997 16:12",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "182925",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/prof2_14.zip",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 182925 \uff77 06-Jun-1997 16:12 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "tdsk140a.lzh",
+"date": "06-Jun-1997 16:13",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "184392",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/tdsk140a.lzh",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 184392 \uff77 06-Jun-1997 16:13 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "ardvark.lzh",
+"date": "06-Jun-1997 16:09",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "5951",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/ardvark.lzh",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 5951 \uff77 06-Jun-1997 16:09 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "cqd_256.upl",
+"date": "25-Aug-1997 22:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "497",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/cqd_256.upl",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 497 \uff77 25-Aug-1997 22:17 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "minttl01.zip",
+"date": "06-Jun-1997 15:43",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "225550",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Mint/minttl01.zip",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 225550 \uff77 06-Jun-1997 15:43 \uff77 in https://ftp.lip6.fr/pub/atari/Mint/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Mint/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Mint/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "ttart18.zip",
+"date": "06-Jun-1997 16:13",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "76170",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/ttart18.zip",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 76170 \uff77 06-Jun-1997 16:13 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "twinsync.zip",
+"date": "18-Jun-1997 22:47",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2738",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/twinsync.zip",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 2738 \uff77 18-Jun-1997 22:47 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "winx23g.zip",
+"date": "06-Jun-1997 16:13",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "42524",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/winx23g.zip",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 42524 \uff77 06-Jun-1997 16:13 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "fputest.zip",
+"date": "06-Jun-1997 16:10",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "23540",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/fputest.zip",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 23540 \uff77 06-Jun-1997 16:10 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "master61.lzh",
+"date": "06-Jun-1997 16:11",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "193184",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/master61.lzh",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 193184 \uff77 06-Jun-1997 16:11 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "pgs_cfg.lzh",
+"date": "06-Jun-1997 16:12",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "16020",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/pgs_cfg.lzh",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 16020 \uff77 06-Jun-1997 16:12 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "specc207.lzh",
+"date": "06-Jun-1997 16:12",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "540612",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/specc207.lzh",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 540612 \uff77 06-Jun-1997 16:12 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "ytalk302-01.tgz",
+"date": "06-Jun-1997 15:45",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "109430",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Mint/ytalk302-01.tgz",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 109430 \uff77 06-Jun-1997 15:45 \uff77 in https://ftp.lip6.fr/pub/atari/Mint/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Mint/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Mint/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "takeoff.lzh",
+"date": "06-Jun-1997 16:13",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "30976",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/takeoff.lzh",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 30976 \uff77 06-Jun-1997 16:13 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "one_jack.lzh",
+"date": "06-Jun-1997 16:11",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "17633",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/one_jack.lzh",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 17633 \uff77 06-Jun-1997 16:11 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "boottos.zip",
+"date": "06-Jun-1997 16:09",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2323",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/boottos.zip",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 2323 \uff77 06-Jun-1997 16:09 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "dadu_dp2.zip",
+"date": "06-Jun-1997 16:10",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "14865",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/dadu_dp2.zip",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 14865 \uff77 06-Jun-1997 16:10 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "treeview20.zip",
+"date": "06-Jun-1997 16:13",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "58425",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/treeview20.zip",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 58425 \uff77 06-Jun-1997 16:13 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "modm0dev.zoo",
+"date": "06-Jun-1997 15:43",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "70332",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Mint/modm0dev.zoo",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 70332 \uff77 06-Jun-1997 15:43 \uff77 in https://ftp.lip6.fr/pub/atari/Mint/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Mint/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Mint/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "specci.zip",
+"date": "06-Jun-1997 16:12",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "583208",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Utilities/specci.zip",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 583208 \uff77 06-Jun-1997 16:12 \uff77 in https://ftp.lip6.fr/pub/atari/Utilities/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Utilities/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Utilities/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "term-224.tgz",
+"date": "06-Jun-1997 15:45",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "679886",
+"ftype": "other",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/atari/Mint/term-224.tgz",
+"mime": "other/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "other \uff77 679886 \uff77 06-Jun-1997 15:45 \uff77 in https://ftp.lip6.fr/pub/atari/Mint/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/atari/Mint/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/atari/Mint/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
+},
+{
+"source": "Open Directory",
+"title": "README.html",
+"date": "05-Aug-2001 22:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2378",
+"ftype": "text",
+"host": "ftp.lip6.fr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.lip6.fr/pub/python/README.html",
+"mime": "text/*",
+"query": "random descent from https://ftp.lip6.fr/pub/",
+"kw": "",
+"preview": "text \uff77 2378 \uff77 05-Aug-2001 22:00 \uff77 in https://ftp.lip6.fr/pub/python/",
+"extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/python/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.lip6.fr/pub/python/"
+]
+],
+"mined_at": "2026-11-09T19:58:34Z"
 }
 ]

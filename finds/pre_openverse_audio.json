@@ -83878,5 +83878,3796 @@
 "related_url": "https://api.openverse.org/v1/audio/dbee7f85-3d8a-4a87-922f-d2361f422773/related/",
 "waveform": "https://api.openverse.org/v1/audio/dbee7f85-3d8a-4a87-922f-d2361f422773/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "8d0d8d58-9854-4d39-b322-5a77a9f99ba7",
+"title": "LL-Q1860 (eng)-Vealhurl-etch",
+"indexed_on": "2023-01-08T13:48:47.381183Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=89033335",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/LL-Q1860_%28eng%29-Vealhurl-etch.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 92972,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-etch\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 968,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8d0d8d58-9854-4d39-b322-5a77a9f99ba7/",
+"related_url": "https://api.openverse.org/v1/audio/8d0d8d58-9854-4d39-b322-5a77a9f99ba7/related/",
+"waveform": "https://api.openverse.org/v1/audio/8d0d8d58-9854-4d39-b322-5a77a9f99ba7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "539bc60b-18d2-4a70-9d89-4751d739f8a1",
+"title": "LL-Q1860 (eng)-Persent101-etching",
+"indexed_on": "2023-11-11T00:08:28.900677Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=140511526",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/LL-Q1860_%28eng%29-Persent101-etching.wav",
+"creator": "Speaker: Persent101 Recorder: Persent101",
+"creator_url": "https://lingualibre.org/wiki/Q1099971",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 81708,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Persent101-etching\" by Speaker: Persent101 Recorder: Persent101 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 850,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/539bc60b-18d2-4a70-9d89-4751d739f8a1/",
+"related_url": "https://api.openverse.org/v1/audio/539bc60b-18d2-4a70-9d89-4751d739f8a1/related/",
+"waveform": "https://api.openverse.org/v1/audio/539bc60b-18d2-4a70-9d89-4751d739f8a1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7509b109-b910-4fd1-86f6-7aa7985e7464",
+"title": "Jenski-Etched",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1128634",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1128634&format=mp32",
+"creator": "Jenski",
+"creator_url": "https://www.jamendo.com/artist/366084/Jenski",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"dubstep",
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "poststep",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Jenski-Etched\" by Jenski is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Dubs",
+"foreign_landing_url": "https://www.jamendo.com/album/135208/dubs",
+"creator": "Jenski",
+"creator_url": "https://www.jamendo.com/artist/366084/Jenski",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 207000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/7509b109-b910-4fd1-86f6-7aa7985e7464/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/7509b109-b910-4fd1-86f6-7aa7985e7464/",
+"related_url": "https://api.openverse.org/v1/audio/7509b109-b910-4fd1-86f6-7aa7985e7464/related/",
+"waveform": "https://api.openverse.org/v1/audio/7509b109-b910-4fd1-86f6-7aa7985e7464/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4979179b-79d4-426e-b77e-16daf7e4a86b",
+"title": "LL-Q1860 (eng)-Flame, not lame-view someone's etchings",
+"indexed_on": "2024-11-06T00:06:31.335177Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=154903407",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/46/LL-Q1860_%28eng%29-Flame%2C_not_lame-view_someone%27s_etchings.wav",
+"creator": "Speaker: Flame, not lame Recorder: Flame",
+"creator_url": "https://lingualibre.org/wiki/Q1191054",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 175916,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Flame, not lame-view someone's etchings\" by Speaker: Flame, not lame Recorder: Flame is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1832,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4979179b-79d4-426e-b77e-16daf7e4a86b/",
+"related_url": "https://api.openverse.org/v1/audio/4979179b-79d4-426e-b77e-16daf7e4a86b/related/",
+"waveform": "https://api.openverse.org/v1/audio/4979179b-79d4-426e-b77e-16daf7e4a86b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a7cefec6-f404-4458-99da-03b16dcf3e7b",
+"title": "Voices Etched in Stone",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/677613",
+"url": "https://prod-1.storage.jamendo.com/?trackid=677613&format=mp32",
+"creator": "Sononox",
+"creator_url": "https://www.jamendo.com/artist/364306/Sononox",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Voices Etched in Stone\" by Sononox is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Data Rot",
+"foreign_landing_url": "https://www.jamendo.com/album/78717/data-rot",
+"creator": "Sononox",
+"creator_url": "https://www.jamendo.com/artist/364306/Sononox",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 170000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/a7cefec6-f404-4458-99da-03b16dcf3e7b/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/a7cefec6-f404-4458-99da-03b16dcf3e7b/",
+"related_url": "https://api.openverse.org/v1/audio/a7cefec6-f404-4458-99da-03b16dcf3e7b/related/",
+"waveform": "https://api.openverse.org/v1/audio/a7cefec6-f404-4458-99da-03b16dcf3e7b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "93f96ede-1b10-42f2-870f-8854aee4a3d0",
+"title": "Etched in Light",
+"indexed_on": "2025-09-01T17:00:17.357357Z",
+"foreign_landing_url": "https://www.jamendo.com/track/2268181",
+"url": "https://prod-1.storage.jamendo.com/?trackid=2268181&format=mp32",
+"creator": "Arden",
+"creator_url": "https://www.jamendo.com/artist/601040/Arden_(3)",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"experimental"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "meditative",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_low",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Etched in Light\" by Arden is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Etched in Light",
+"foreign_landing_url": "https://www.jamendo.com/album/609896/etched-in-light",
+"creator": "Arden",
+"creator_url": "https://www.jamendo.com/artist/601040/Arden_(3)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 521000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/93f96ede-1b10-42f2-870f-8854aee4a3d0/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/93f96ede-1b10-42f2-870f-8854aee4a3d0/",
+"related_url": "https://api.openverse.org/v1/audio/93f96ede-1b10-42f2-870f-8854aee4a3d0/related/",
+"waveform": "https://api.openverse.org/v1/audio/93f96ede-1b10-42f2-870f-8854aee4a3d0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "40391a3a-5452-45e5-936e-8c845f8252b9",
+"title": "208- As You Etch on the Inner Window of Your Eye",
+"indexed_on": "2025-05-01T00:46:07.588159Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=164470843",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/208-_As_You_Etch_on_the_Inner_Window_of_Your_Eye.ogg",
+"creator": "Bull of Heaven",
+"creator_url": "https://en.wikipedia.org/wiki/en:Bull_of_Heaven_(band)",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 106205285,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"208- As You Etch on the Inner Window of Your Eye\" by Bull of Heaven is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 13107147,
+"bit_rate": 96000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/40391a3a-5452-45e5-936e-8c845f8252b9/",
+"related_url": "https://api.openverse.org/v1/audio/40391a3a-5452-45e5-936e-8c845f8252b9/related/",
+"waveform": "https://api.openverse.org/v1/audio/40391a3a-5452-45e5-936e-8c845f8252b9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f365aa05-60f1-473c-8fed-a7385941f1f9",
+"title": "Head Hair Scratching.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/RutgerMuller/sounds/51153",
+"url": "https://cdn.freesound.org/previews/51/51153_179538-hq.mp3",
+"creator": "RutgerMuller",
+"creator_url": "https://freesound.org/people/RutgerMuller",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 107593,
+"filetype": "mp3",
+"tags": [
+{
+"name": "claw",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "etch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "etching",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "friction",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "grate",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "grated",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "grating",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hair",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hairs",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "head",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rubbed",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rubbing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sand-paper",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scour",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scoured",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scouring",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scrape",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scratch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scratched",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scratches",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scratchin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scratching",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scribble",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scribbling",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scruff",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scruffed",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scruffing",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/51153/download/",
+"bit_rate": 0,
+"filesize": 600582,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Head Hair Scratching.wav\" by RutgerMuller is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "SFX - Drag, Move, Slide",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/3281/",
+"creator": "RutgerMuller",
+"creator_url": "https://freesound.org/people/RutgerMuller/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 4518,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f365aa05-60f1-473c-8fed-a7385941f1f9/",
+"related_url": "https://api.openverse.org/v1/audio/f365aa05-60f1-473c-8fed-a7385941f1f9/related/",
+"waveform": "https://api.openverse.org/v1/audio/f365aa05-60f1-473c-8fed-a7385941f1f9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a7701e38-c77a-4590-af91-4a26406b12a0",
+"title": "En-UK-Aveton Gifford",
+"indexed_on": "2023-10-08T19:22:33.574777Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=61346848",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/63/En-UK-Aveton_Gifford.ogg",
+"creator": "Adam37",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Adam37",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 19786,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-UK-Aveton Gifford\" by Adam37 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1707,
+"bit_rate": 112000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a7701e38-c77a-4590-af91-4a26406b12a0/",
+"related_url": "https://api.openverse.org/v1/audio/a7701e38-c77a-4590-af91-4a26406b12a0/related/",
+"waveform": "https://api.openverse.org/v1/audio/a7701e38-c77a-4590-af91-4a26406b12a0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5bb2c3b3-f85f-4188-8161-ec24ef8e9c7e",
+"title": "G2 Singing Bowl Meditation Low Tone",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Glen_Hoban/sounds/435800",
+"url": "https://cdn.freesound.org/previews/435/435800_8914976-hq.mp3",
+"creator": "Glen_Hoban",
+"creator_url": "https://freesound.org/people/Glen_Hoban",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 8733552,
+"filetype": "mp3",
+"tags": [
+{
+"name": "antique",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "brass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "himalayan",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditative",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pentatonic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scale",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "singing-bowl",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/435800/download/",
+"bit_rate": 320000,
+"filesize": 15413033,
+"filetype": "mp3",
+"sample_rate": 48000
+}
+],
+"attribution": "\"G2 Singing Bowl Meditation Low Tone\" by Glen_Hoban is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Drones",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/24950/",
+"creator": "Glen_Hoban",
+"creator_url": "https://freesound.org/people/Glen_Hoban/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 385270,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5bb2c3b3-f85f-4188-8161-ec24ef8e9c7e/",
+"related_url": "https://api.openverse.org/v1/audio/5bb2c3b3-f85f-4188-8161-ec24ef8e9c7e/related/",
+"waveform": "https://api.openverse.org/v1/audio/5bb2c3b3-f85f-4188-8161-ec24ef8e9c7e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "be186d02-cdfb-41d8-9ed1-be923c63229a",
+"title": "G 2 SingingBowlMeditationLow&HighTones",
+"indexed_on": "2023-03-10T13:20:18.216530Z",
+"foreign_landing_url": "https://freesound.org/people/Glen_Hoban/sounds/435801",
+"url": "https://cdn.freesound.org/previews/435/435801_8914976-hq.mp3",
+"creator": "Glen_Hoban",
+"creator_url": "https://freesound.org/people/Glen_Hoban",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 20695488,
+"filetype": "mp3",
+"tags": [
+{
+"name": "antique",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "brass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "himalayan",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditative",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pentatonic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scale",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "singing-bowl",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/435801/download/",
+"bit_rate": 320000,
+"filesize": 36765365,
+"filetype": "mp3",
+"sample_rate": 48000
+}
+],
+"attribution": "\"G 2 SingingBowlMeditationLow&HighTones\" by Glen_Hoban is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Drones",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/24950/",
+"creator": "Glen_Hoban",
+"creator_url": "https://freesound.org/people/Glen_Hoban/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 919058,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/be186d02-cdfb-41d8-9ed1-be923c63229a/",
+"related_url": "https://api.openverse.org/v1/audio/be186d02-cdfb-41d8-9ed1-be923c63229a/related/",
+"waveform": "https://api.openverse.org/v1/audio/be186d02-cdfb-41d8-9ed1-be923c63229a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "28bdd6b4-2516-415d-86f3-1d14d1914d3b",
+"title": "Pentatonic Bowl #2",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Glen_Hoban/sounds/435798",
+"url": "https://cdn.freesound.org/previews/435/435798_8914976-hq.mp3",
+"creator": "Glen_Hoban",
+"creator_url": "https://freesound.org/people/Glen_Hoban",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1947120,
+"filetype": "mp3",
+"tags": [
+{
+"name": "antique",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "brass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "himalayan",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditative",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pentatonic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scale",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "singing-bowl",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/435798/download/",
+"bit_rate": 320000,
+"filesize": 3367928,
+"filetype": "mp3",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Pentatonic Bowl #2\" by Glen_Hoban is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Himlayan Singing Bowl Sample Pack #1",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/24776/",
+"creator": "Glen_Hoban",
+"creator_url": "https://freesound.org/people/Glen_Hoban/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 84129,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/28bdd6b4-2516-415d-86f3-1d14d1914d3b/",
+"related_url": "https://api.openverse.org/v1/audio/28bdd6b4-2516-415d-86f3-1d14d1914d3b/related/",
+"waveform": "https://api.openverse.org/v1/audio/28bdd6b4-2516-415d-86f3-1d14d1914d3b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "268f58f8-3737-4f45-b733-0a67a86e688e",
+"title": "puerta rechinando.m4a",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/roritopra/sounds/534426",
+"url": "https://cdn.freesound.org/previews/534/534426_11848840-hq.mp3",
+"creator": "roritopra",
+"creator_url": "https://freesound.org/people/roritopra",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 173736,
+"filetype": "mp3",
+"tags": [
+{
+"name": "close",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "closing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "door",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "doors",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "slam",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/534426/download/",
+"bit_rate": 153000,
+"filesize": 130427,
+"filetype": "m4a",
+"sample_rate": 48000
+}
+],
+"attribution": "\"puerta rechinando.m4a\" by roritopra is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Sounds Work",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/30103/",
+"creator": "roritopra",
+"creator_url": "https://freesound.org/people/roritopra/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 6784,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/268f58f8-3737-4f45-b733-0a67a86e688e/",
+"related_url": "https://api.openverse.org/v1/audio/268f58f8-3737-4f45-b733-0a67a86e688e/related/",
+"waveform": "https://api.openverse.org/v1/audio/268f58f8-3737-4f45-b733-0a67a86e688e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9e534c54-2322-476f-a639-26db4554c52c",
+"title": "PentatonicBowl #4 Sample 1",
+"indexed_on": "2024-04-18T18:52:10.009444Z",
+"foreign_landing_url": "https://freesound.org/people/Glen_Hoban/sounds/435803",
+"url": "https://cdn.freesound.org/previews/435/435803_8914976-hq.mp3",
+"creator": "Glen_Hoban",
+"creator_url": "https://freesound.org/people/Glen_Hoban",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1607952,
+"filetype": "mp3",
+"tags": [
+{
+"name": "antique",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "brass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "himalayan",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditative",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pentatonic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scale",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "singing-bowl",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/435803/download/",
+"bit_rate": 320000,
+"filesize": 2769848,
+"filetype": "mp3",
+"sample_rate": 48000
+}
+],
+"attribution": "\"PentatonicBowl #4 Sample 1\" by Glen_Hoban is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Himlayan Singing Bowl Sample Pack #1",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/24776/",
+"creator": "Glen_Hoban",
+"creator_url": "https://freesound.org/people/Glen_Hoban/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 69174,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9e534c54-2322-476f-a639-26db4554c52c/",
+"related_url": "https://api.openverse.org/v1/audio/9e534c54-2322-476f-a639-26db4554c52c/related/",
+"waveform": "https://api.openverse.org/v1/audio/9e534c54-2322-476f-a639-26db4554c52c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "58df7dda-6b5c-4b14-9110-1e75271b0b2a",
+"title": "Pentatonic Bowl#1",
+"indexed_on": "2024-04-18T18:52:10.009444Z",
+"foreign_landing_url": "https://freesound.org/people/Glen_Hoban/sounds/435799",
+"url": "https://cdn.freesound.org/previews/435/435799_8914976-hq.mp3",
+"creator": "Glen_Hoban",
+"creator_url": "https://freesound.org/people/Glen_Hoban",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1818000,
+"filetype": "mp3",
+"tags": [
+{
+"name": "antique",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "brass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "himalayan",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditative",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pentatonic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scale",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "singing-bowl",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/435799/download/",
+"bit_rate": 320000,
+"filesize": 3154800,
+"filetype": "mp3",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Pentatonic Bowl#1\" by Glen_Hoban is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Himlayan Singing Bowl Sample Pack #1",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/24776/",
+"creator": "Glen_Hoban",
+"creator_url": "https://freesound.org/people/Glen_Hoban/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 78813,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/58df7dda-6b5c-4b14-9110-1e75271b0b2a/",
+"related_url": "https://api.openverse.org/v1/audio/58df7dda-6b5c-4b14-9110-1e75271b0b2a/related/",
+"waveform": "https://api.openverse.org/v1/audio/58df7dda-6b5c-4b14-9110-1e75271b0b2a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7db4e01a-7c9a-44d2-bdf5-2b7d11112b61",
+"title": "Pentatonic Bowl #5 Sample 1",
+"indexed_on": "2024-07-18T23:07:51.922982Z",
+"foreign_landing_url": "https://freesound.org/people/Glen_Hoban/sounds/435807",
+"url": "https://cdn.freesound.org/previews/435/435807_8914976-hq.mp3",
+"creator": "Glen_Hoban",
+"creator_url": "https://freesound.org/people/Glen_Hoban",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1959792,
+"filetype": "mp3",
+"tags": [
+{
+"name": "antique",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "brass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "himalayan",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditative",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pentatonic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scale",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "singing-bowl",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/435807/download/",
+"bit_rate": 320000,
+"filesize": 3419768,
+"filetype": "mp3",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Pentatonic Bowl #5 Sample 1\" by Glen_Hoban is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Himlayan Singing Bowl Sample Pack #1",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/24776/",
+"creator": "Glen_Hoban",
+"creator_url": "https://freesound.org/people/Glen_Hoban/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 85432,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/7db4e01a-7c9a-44d2-bdf5-2b7d11112b61/",
+"related_url": "https://api.openverse.org/v1/audio/7db4e01a-7c9a-44d2-bdf5-2b7d11112b61/related/",
+"waveform": "https://api.openverse.org/v1/audio/7db4e01a-7c9a-44d2-bdf5-2b7d11112b61/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ae515388-3eb1-4d1b-afa8-650ef23834b0",
+"title": "spray.m4a",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/roritopra/sounds/534427",
+"url": "https://cdn.freesound.org/previews/534/534427_11848840-hq.mp3",
+"creator": "roritopra",
+"creator_url": "https://freesound.org/people/roritopra",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 126768,
+"filetype": "mp3",
+"tags": [
+{
+"name": "alcohol",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bottle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "splash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spray",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wather",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/534427/download/",
+"bit_rate": 155000,
+"filesize": 99209,
+"filetype": "m4a",
+"sample_rate": 48000
+}
+],
+"attribution": "\"spray.m4a\" by roritopra is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Sounds Work",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/30103/",
+"creator": "roritopra",
+"creator_url": "https://freesound.org/people/roritopra/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 5098,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ae515388-3eb1-4d1b-afa8-650ef23834b0/",
+"related_url": "https://api.openverse.org/v1/audio/ae515388-3eb1-4d1b-afa8-650ef23834b0/related/",
+"waveform": "https://api.openverse.org/v1/audio/ae515388-3eb1-4d1b-afa8-650ef23834b0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "20b1f4da-e759-44af-b034-a24ed62c8298",
+"title": "Pentatonic Bowl #4 Sample 2",
+"indexed_on": "2024-04-18T18:52:10.009444Z",
+"foreign_landing_url": "https://freesound.org/people/Glen_Hoban/sounds/435802",
+"url": "https://cdn.freesound.org/previews/435/435802_8914976-hq.mp3",
+"creator": "Glen_Hoban",
+"creator_url": "https://freesound.org/people/Glen_Hoban",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1857504,
+"filetype": "mp3",
+"tags": [
+{
+"name": "antique",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "brass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "himalayan",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditative",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pentatonic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scale",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "singing-bowl",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/435802/download/",
+"bit_rate": 320000,
+"filesize": 3225802,
+"filetype": "mp3",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Pentatonic Bowl #4 Sample 2\" by Glen_Hoban is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Himlayan Singing Bowl Sample Pack #1",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/24776/",
+"creator": "Glen_Hoban",
+"creator_url": "https://freesound.org/people/Glen_Hoban/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 80570,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/20b1f4da-e759-44af-b034-a24ed62c8298/",
+"related_url": "https://api.openverse.org/v1/audio/20b1f4da-e759-44af-b034-a24ed62c8298/related/",
+"waveform": "https://api.openverse.org/v1/audio/20b1f4da-e759-44af-b034-a24ed62c8298/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "311f6190-3772-4c0f-baf4-036fb560165e",
+"title": "Pentatonic Bowl #5 Sample 2",
+"indexed_on": "2024-04-18T18:52:10.009444Z",
+"foreign_landing_url": "https://freesound.org/people/Glen_Hoban/sounds/435806",
+"url": "https://cdn.freesound.org/previews/435/435806_8914976-hq.mp3",
+"creator": "Glen_Hoban",
+"creator_url": "https://freesound.org/people/Glen_Hoban",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1677552,
+"filetype": "mp3",
+"tags": [
+{
+"name": "antique",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "brass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "himalayan",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "meditative",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pentatonic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "scale",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "singing-bowl",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/435806/download/",
+"bit_rate": 320000,
+"filesize": 2932042,
+"filetype": "mp3",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Pentatonic Bowl #5 Sample 2\" by Glen_Hoban is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Himlayan Singing Bowl Sample Pack #1",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/24776/",
+"creator": "Glen_Hoban",
+"creator_url": "https://freesound.org/people/Glen_Hoban/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 73229,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/311f6190-3772-4c0f-baf4-036fb560165e/",
+"related_url": "https://api.openverse.org/v1/audio/311f6190-3772-4c0f-baf4-036fb560165e/related/",
+"waveform": "https://api.openverse.org/v1/audio/311f6190-3772-4c0f-baf4-036fb560165e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "79c0b286-c456-4fe2-b7f0-0946e543677e",
+"title": "Postcard",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/236957",
+"url": "https://prod-1.storage.jamendo.com/?trackid=236957&format=mp32",
+"creator": "State Shirt",
+"creator_url": "https://www.jamendo.com/artist/343164/State_Shirt_(2)",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Postcard\" by State Shirt is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Don't Die",
+"foreign_landing_url": "https://www.jamendo.com/album/34592/don-t-die",
+"creator": "State Shirt",
+"creator_url": "https://www.jamendo.com/artist/343164/State_Shirt_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 269000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/79c0b286-c456-4fe2-b7f0-0946e543677e/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/79c0b286-c456-4fe2-b7f0-0946e543677e/",
+"related_url": "https://api.openverse.org/v1/audio/79c0b286-c456-4fe2-b7f0-0946e543677e/related/",
+"waveform": "https://api.openverse.org/v1/audio/79c0b286-c456-4fe2-b7f0-0946e543677e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3d002536-74e0-4227-b1dd-934feba01ef4",
+"title": "Postcard",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/512619",
+"url": "https://prod-1.storage.jamendo.com/?trackid=512619&format=mp32",
+"creator": "The Skans",
+"creator_url": "https://www.jamendo.com/artist/356981/The_Skans",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Postcard\" by The Skans is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Skans - D\u00e9mo",
+"foreign_landing_url": "https://www.jamendo.com/album/60016/the-skans-demo",
+"creator": "The Skans",
+"creator_url": "https://www.jamendo.com/artist/356981/The_Skans",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 192000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/3d002536-74e0-4227-b1dd-934feba01ef4/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/3d002536-74e0-4227-b1dd-934feba01ef4/",
+"related_url": "https://api.openverse.org/v1/audio/3d002536-74e0-4227-b1dd-934feba01ef4/related/",
+"waveform": "https://api.openverse.org/v1/audio/3d002536-74e0-4227-b1dd-934feba01ef4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c1163e3d-1a22-4ee6-9dc4-294f131f96b1",
+"title": "IDES-FRANCE-postcard-aleena et hayet.mp3",
+"indexed_on": "2022-01-20T14:35:10.795854Z",
+"foreign_landing_url": "https://freesound.org/people/thecityrings/sounds/175858",
+"url": "https://cdn.freesound.org/previews/175/175858_2337088-hq.mp3",
+"creator": "thecityrings",
+"creator_url": "https://freesound.org/people/thecityrings",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1607043,
+"filetype": "mp3",
+"tags": [
+{
+"name": "France",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "IDES",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Paris",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/175858/download/",
+"bit_rate": 256000,
+"filesize": 2142593,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"IDES-FRANCE-postcard-aleena et hayet.mp3\" by thecityrings is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "SonicPostcards_Jan2013",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/11027/",
+"creator": "thecityrings",
+"creator_url": "https://freesound.org/people/thecityrings/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 66884,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c1163e3d-1a22-4ee6-9dc4-294f131f96b1/",
+"related_url": "https://api.openverse.org/v1/audio/c1163e3d-1a22-4ee6-9dc4-294f131f96b1/related/",
+"waveform": "https://api.openverse.org/v1/audio/c1163e3d-1a22-4ee6-9dc4-294f131f96b1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "dc597ec1-0728-4ba8-80d1-0b68e468b18e",
+"title": "postcards-49GR-the-barba.wav",
+"indexed_on": "2022-11-01T13:48:32.970278Z",
+"foreign_landing_url": "https://freesound.org/people/thecityrings/sounds/237844",
+"url": "https://cdn.freesound.org/previews/237/237844_2337088-hq.mp3",
+"creator": "thecityrings",
+"creator_url": "https://freesound.org/people/thecityrings",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 560400,
+"filetype": "mp3",
+"tags": [
+{
+"name": "49th-primary-school-of-Athens",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "clapping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "flush",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Greece",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sonicpostcards",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "the-barba",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/237844/download/",
+"bit_rate": 0,
+"filesize": 3806756,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"postcards-49GR-the-barba.wav\" by thecityrings is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "sonicpostcards-may2014",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/14588/",
+"creator": "thecityrings",
+"creator_url": "https://freesound.org/people/thecityrings/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 21580,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/dc597ec1-0728-4ba8-80d1-0b68e468b18e/",
+"related_url": "https://api.openverse.org/v1/audio/dc597ec1-0728-4ba8-80d1-0b68e468b18e/related/",
+"waveform": "https://api.openverse.org/v1/audio/dc597ec1-0728-4ba8-80d1-0b68e468b18e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b42eb276-3e44-48d2-ba53-cdb1c8613b54",
+"title": "Postcard",
+"indexed_on": "2023-10-01T22:35:41.429277Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1968049",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1968049&format=mp32",
+"creator": "Kinematic",
+"creator_url": "https://www.jamendo.com/artist/457573/Kinematic",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"folk",
+"singersongwriter"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "acousticguitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Postcard\" by Kinematic is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Long Divide",
+"foreign_landing_url": "https://www.jamendo.com/album/493114/the-long-divide",
+"creator": "Kinematic",
+"creator_url": "https://www.jamendo.com/artist/457573/Kinematic",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 148000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/b42eb276-3e44-48d2-ba53-cdb1c8613b54/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/b42eb276-3e44-48d2-ba53-cdb1c8613b54/",
+"related_url": "https://api.openverse.org/v1/audio/b42eb276-3e44-48d2-ba53-cdb1c8613b54/related/",
+"waveform": "https://api.openverse.org/v1/audio/b42eb276-3e44-48d2-ba53-cdb1c8613b54/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "eb69f013-cc13-43dd-b18e-19f169199eea",
+"title": "Postcard",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/942677",
+"url": "https://prod-1.storage.jamendo.com/?trackid=942677&format=mp32",
+"creator": "Snailshow",
+"creator_url": "https://www.jamendo.com/artist/415509/Snailshow",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Postcard\" by Snailshow is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Collecting Years",
+"foreign_landing_url": "https://www.jamendo.com/album/110762/collecting-years",
+"creator": "Snailshow",
+"creator_url": "https://www.jamendo.com/artist/415509/Snailshow",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 206000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/eb69f013-cc13-43dd-b18e-19f169199eea/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/eb69f013-cc13-43dd-b18e-19f169199eea/",
+"related_url": "https://api.openverse.org/v1/audio/eb69f013-cc13-43dd-b18e-19f169199eea/related/",
+"waveform": "https://api.openverse.org/v1/audio/eb69f013-cc13-43dd-b18e-19f169199eea/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "da1eaa3c-b126-4d56-a428-ad045f764315",
+"title": "Jordi Canal Artigas (veu)",
+"indexed_on": "2025-10-20T00:11:58.981073Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=177015786",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Jordi_Canal_Artigas_%28veu%29.ogg",
+"creator": "Ricard Soler Roger",
+"creator_url": "https://commons.wikimedia.org/w/index.php?title=User:Ricard_Soler_Roger&action=edit&redlink=1",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 139175,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Jordi Canal Artigas (veu)\" by Ricard Soler Roger is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 11976,
+"bit_rate": 112000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/da1eaa3c-b126-4d56-a428-ad045f764315/",
+"related_url": "https://api.openverse.org/v1/audio/da1eaa3c-b126-4d56-a428-ad045f764315/related/",
+"waveform": "https://api.openverse.org/v1/audio/da1eaa3c-b126-4d56-a428-ad045f764315/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6a4d9f4c-40e4-4061-abc1-40e033dea18c",
+"title": "Nl-blueprints",
+"indexed_on": "2025-02-14T00:26:28.010053Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=159687680",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Nl-blueprints.ogg",
+"creator": "Marcel coenders",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Marcel_coenders",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 18609,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-blueprints\" by Marcel coenders is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1500,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/6a4d9f4c-40e4-4061-abc1-40e033dea18c/",
+"related_url": "https://api.openverse.org/v1/audio/6a4d9f4c-40e4-4061-abc1-40e033dea18c/related/",
+"waveform": "https://api.openverse.org/v1/audio/6a4d9f4c-40e4-4061-abc1-40e033dea18c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a58e952c-b26f-4ac2-96d7-1d213cae1efc",
+"title": "New Wasp Blueprint",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/541849",
+"url": "https://prod-1.storage.jamendo.com/?trackid=541849&format=mp32",
+"creator": "Cagey House",
+"creator_url": "https://www.jamendo.com/artist/354190/Cagey_House_(3)",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"New Wasp Blueprint\" by Cagey House is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "More Assorted Fun",
+"foreign_landing_url": "https://www.jamendo.com/album/63167/more-assorted-fun",
+"creator": "Cagey House",
+"creator_url": "https://www.jamendo.com/artist/354190/Cagey_House_(3)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 144000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/a58e952c-b26f-4ac2-96d7-1d213cae1efc/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/a58e952c-b26f-4ac2-96d7-1d213cae1efc/",
+"related_url": "https://api.openverse.org/v1/audio/a58e952c-b26f-4ac2-96d7-1d213cae1efc/related/",
+"waveform": "https://api.openverse.org/v1/audio/a58e952c-b26f-4ac2-96d7-1d213cae1efc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "720ce401-9bbf-42c7-b7d0-15a4a4bc1a94",
+"title": "Blueprint",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1598482",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1598482&format=mp32",
+"creator": "Jahzzar",
+"creator_url": "https://www.jamendo.com/artist/348998/Jahzzar",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"jazzfunk",
+"soul"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "60s",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "hammond",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Blueprint\" by Jahzzar is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Ashes",
+"foreign_landing_url": "https://www.jamendo.com/album/181092/ashes",
+"creator": "Jahzzar",
+"creator_url": "https://www.jamendo.com/artist/348998/Jahzzar",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 127000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/720ce401-9bbf-42c7-b7d0-15a4a4bc1a94/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/720ce401-9bbf-42c7-b7d0-15a4a4bc1a94/",
+"related_url": "https://api.openverse.org/v1/audio/720ce401-9bbf-42c7-b7d0-15a4a4bc1a94/related/",
+"waveform": "https://api.openverse.org/v1/audio/720ce401-9bbf-42c7-b7d0-15a4a4bc1a94/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "45ba9b78-9b9c-4453-9421-c07f53939fbe",
+"title": "BLUEPRINT - time",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/783981",
+"url": "https://prod-1.storage.jamendo.com/?trackid=783981&format=mp32",
+"creator": "Pierrot Le Fou",
+"creator_url": "https://www.jamendo.com/artist/369016/Pierrot_Compilations",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"BLUEPRINT - time\" by Pierrot Le Fou is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Pierrot Wishes You A Late Summer Night",
+"foreign_landing_url": "https://www.jamendo.com/album/91957/pierrot-wishes-you-a-late-summer-night",
+"creator": "Pierrot Le Fou",
+"creator_url": "https://www.jamendo.com/artist/369016/Pierrot_Compilations",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 194000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/45ba9b78-9b9c-4453-9421-c07f53939fbe/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/45ba9b78-9b9c-4453-9421-c07f53939fbe/",
+"related_url": "https://api.openverse.org/v1/audio/45ba9b78-9b9c-4453-9421-c07f53939fbe/related/",
+"waveform": "https://api.openverse.org/v1/audio/45ba9b78-9b9c-4453-9421-c07f53939fbe/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "86c2e30e-7347-4b6d-9ce0-bcf3e9533e3e",
+"title": "Blueprint for Brilliance",
+"indexed_on": "2024-07-01T18:32:57.174001Z",
+"foreign_landing_url": "https://www.jamendo.com/track/2172265",
+"url": "https://prod-1.storage.jamendo.com/?trackid=2172265&format=mp32",
+"creator": "xgomusic",
+"creator_url": "https://www.jamendo.com/artist/590528/igomusic",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"synthwave"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Blueprint for Brilliance\" by xgomusic is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Corporate Background Music for Ads and Promos, Vol. 3",
+"foreign_landing_url": "https://www.jamendo.com/album/567192/corporate-background-music-for-ads-and-promos-vol-3",
+"creator": "xgomusic",
+"creator_url": "https://www.jamendo.com/artist/590528/igomusic",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 126000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/86c2e30e-7347-4b6d-9ce0-bcf3e9533e3e/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/86c2e30e-7347-4b6d-9ce0-bcf3e9533e3e/",
+"related_url": "https://api.openverse.org/v1/audio/86c2e30e-7347-4b6d-9ce0-bcf3e9533e3e/related/",
+"waveform": "https://api.openverse.org/v1/audio/86c2e30e-7347-4b6d-9ce0-bcf3e9533e3e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b90b3eff-127b-4582-bf12-479313eb2873",
+"title": "The Anarchy Blueprint",
+"indexed_on": "2026-08-01T17:23:15.377185Z",
+"foreign_landing_url": "https://www.jamendo.com/track/2302394",
+"url": "https://prod-1.storage.jamendo.com/?trackid=2302394&format=mp32",
+"creator": "Illuminated Subspace Project",
+"creator_url": "https://www.jamendo.com/artist/601818/Illuminated_Subspace_Project",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"industrialrock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "electricguitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The Anarchy Blueprint\" by Illuminated Subspace Project is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Pillars of New Eden",
+"foreign_landing_url": "https://www.jamendo.com/album/625898/the-pillars-of-new-eden",
+"creator": "Illuminated Subspace Project",
+"creator_url": "https://www.jamendo.com/artist/601818/Illuminated_Subspace_Project",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 255000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/b90b3eff-127b-4582-bf12-479313eb2873/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/b90b3eff-127b-4582-bf12-479313eb2873/",
+"related_url": "https://api.openverse.org/v1/audio/b90b3eff-127b-4582-bf12-479313eb2873/related/",
+"waveform": "https://api.openverse.org/v1/audio/b90b3eff-127b-4582-bf12-479313eb2873/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4e88d34f-1639-4d4e-a637-a9f566fc8a60",
+"title": "Nl-blueprint",
+"indexed_on": "2025-02-14T00:26:28.010053Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=159687676",
+"url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Nl-blueprint.ogg",
+"creator": "Marcel coenders",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Marcel_coenders",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 15988,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-blueprint\" by Marcel coenders is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1400,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4e88d34f-1639-4d4e-a637-a9f566fc8a60/",
+"related_url": "https://api.openverse.org/v1/audio/4e88d34f-1639-4d4e-a637-a9f566fc8a60/related/",
+"waveform": "https://api.openverse.org/v1/audio/4e88d34f-1639-4d4e-a637-a9f566fc8a60/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c4fbf977-dbd5-4853-ace5-41b65b76fae2",
+"title": "Wellard",
+"indexed_on": "2022-11-01T13:48:32.970278Z",
+"foreign_landing_url": "https://freesound.org/people/genghisattenborough/sounds/212796",
+"url": "https://cdn.freesound.org/previews/212/212796_205108-hq.mp3",
+"creator": "genghisattenborough",
+"creator_url": "https://freesound.org/people/genghisattenborough",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 4538883,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Blueprint",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Guitar-piece",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Idea",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Tune",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/212796/download/",
+"bit_rate": 0,
+"filesize": 34517036,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Wellard\" by genghisattenborough is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Miniatures",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/2016/",
+"creator": "genghisattenborough",
+"creator_url": "https://freesound.org/people/genghisattenborough/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 195675,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c4fbf977-dbd5-4853-ace5-41b65b76fae2/",
+"related_url": "https://api.openverse.org/v1/audio/c4fbf977-dbd5-4853-ace5-41b65b76fae2/related/",
+"waveform": "https://api.openverse.org/v1/audio/c4fbf977-dbd5-4853-ace5-41b65b76fae2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d4e706b9-72f2-4a83-97ad-50e295ab8176",
+"title": "Bell-600Baud-PsalmBlueprint.mp3",
+"indexed_on": "2024-04-18T18:52:10.009444Z",
+"foreign_landing_url": "https://freesound.org/people/christislord/sounds/690659",
+"url": "https://cdn.freesound.org/previews/690/690659_10325990-hq.mp3",
+"creator": "christislord",
+"creator_url": "https://freesound.org/people/christislord",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 240153936,
+"filetype": "mp3",
+"tags": [
+{
+"name": "baud",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "blueprint",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cyanotype",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "minimodem",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "psalm",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/690659/download/",
+"bit_rate": 64000,
+"filesize": 89025792,
+"filetype": "mp3",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Bell-600Baud-PsalmBlueprint.mp3\" by christislord is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 11128200,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d4e706b9-72f2-4a83-97ad-50e295ab8176/",
+"related_url": "https://api.openverse.org/v1/audio/d4e706b9-72f2-4a83-97ad-50e295ab8176/related/",
+"waveform": "https://api.openverse.org/v1/audio/d4e706b9-72f2-4a83-97ad-50e295ab8176/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5879b564-d654-4c14-b2a1-225367961205",
+"title": "Inleiding Le Concert Spirituel olv. Herv\u0418 Niquet (audio)",
+"indexed_on": "2023-09-24T13:16:41.739650Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=88760286",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Inleiding_Le_Concert_Spirituel_olv._Herv%C3%A9_Niquet_%28audio%29.mp3",
+"creator": "deSingel",
+"creator_url": "https://en.wikipedia.org/wiki/en:DeSingel",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 24249244,
+"filetype": "mp3",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Inleiding Le Concert Spirituel olv. Herv\u00e9 Niquet (audio)\" by deSingel is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1515410,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5879b564-d654-4c14-b2a1-225367961205/",
+"related_url": "https://api.openverse.org/v1/audio/5879b564-d654-4c14-b2a1-225367961205/related/",
+"waveform": "https://api.openverse.org/v1/audio/5879b564-d654-4c14-b2a1-225367961205/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1de95cde-4ca5-4b34-a0c9-fdf09dab85c8",
+"title": "55 Rajesh Santumal Kamra Recalls His Family\u2019s Journey from Devlali to Ulhasnagar",
+"indexed_on": "2026-07-15T00:14:05.911342Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=195655642",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/11/55_Rajesh_Santumal_Kamra_Recalls_His_Family%E2%80%99s_Journey_from_Devlali_to_Ulhasnagar.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "EngProff",
+"creator_url": "https://commons.wikimedia.org/wiki/User:EngProff",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 10763397,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"55 Rajesh Santumal Kamra Recalls His Family\u2019s Journey from Devlali to Ulhasnagar\" by EngProff is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 803955,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1de95cde-4ca5-4b34-a0c9-fdf09dab85c8/",
+"related_url": "https://api.openverse.org/v1/audio/1de95cde-4ca5-4b34-a0c9-fdf09dab85c8/related/",
+"waveform": "https://api.openverse.org/v1/audio/1de95cde-4ca5-4b34-a0c9-fdf09dab85c8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5ffc368e-d799-4fce-b00c-2983c8a0a889",
+"title": "Inleiding Labyrint Ligeti (audio)",
+"indexed_on": "2024-06-09T16:09:37.394171Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=94128264",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Inleiding_Labyrint_Ligeti_%28audio%29.mp3",
+"creator": "deSingel",
+"creator_url": "https://en.wikipedia.org/wiki/en:DeSingel",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 34760339,
+"filetype": "mp3",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Inleiding Labyrint Ligeti (audio)\" by deSingel is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2172324,
+"bit_rate": 128000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5ffc368e-d799-4fce-b00c-2983c8a0a889/",
+"related_url": "https://api.openverse.org/v1/audio/5ffc368e-d799-4fce-b00c-2983c8a0a889/related/",
+"waveform": "https://api.openverse.org/v1/audio/5ffc368e-d799-4fce-b00c-2983c8a0a889/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fac15003-c437-4af1-95f4-3803733ec5af",
+"title": "Harvest Moon",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/8871",
+"url": "https://prod-1.storage.jamendo.com/?trackid=8871&format=mp32",
+"creator": "Naetherna",
+"creator_url": "https://www.jamendo.com/artist/1323/naetherna",
+"license": "by-nc-nd",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"deathmetal",
+"metal",
+"symphonic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "black",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "upbeat",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Harvest Moon\" by Naetherna is licensed under CC BY-NC-ND 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.5/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Naetherna (MCD)",
+"foreign_landing_url": "https://www.jamendo.com/album/1333/naetherna-mcd",
+"creator": "Naetherna",
+"creator_url": "https://www.jamendo.com/artist/1323/naetherna",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 359000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/fac15003-c437-4af1-95f4-3803733ec5af/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/fac15003-c437-4af1-95f4-3803733ec5af/",
+"related_url": "https://api.openverse.org/v1/audio/fac15003-c437-4af1-95f4-3803733ec5af/related/",
+"waveform": "https://api.openverse.org/v1/audio/fac15003-c437-4af1-95f4-3803733ec5af/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "866879d4-b750-4e7a-9900-fa6f727ae67a",
+"title": "Harvest",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/231509",
+"url": "https://prod-1.storage.jamendo.com/?trackid=231509&format=mp32",
+"creator": "Hungry Lucy",
+"creator_url": "https://www.jamendo.com/artist/342904/Hungry_Lucy_(2)",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Harvest\" by Hungry Lucy is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Before We Stand... We Crawl",
+"foreign_landing_url": "https://www.jamendo.com/album/34073/before-we-stand-we-crawl",
+"creator": "Hungry Lucy",
+"creator_url": "https://www.jamendo.com/artist/342904/Hungry_Lucy_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 286000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/866879d4-b750-4e7a-9900-fa6f727ae67a/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/866879d4-b750-4e7a-9900-fa6f727ae67a/",
+"related_url": "https://api.openverse.org/v1/audio/866879d4-b750-4e7a-9900-fa6f727ae67a/related/",
+"waveform": "https://api.openverse.org/v1/audio/866879d4-b750-4e7a-9900-fa6f727ae67a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d848e546-2a9d-49a0-ae5a-18454f8d3a25",
+"title": "Harvest Sounds.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/wobesound/sounds/488378",
+"url": "https://cdn.freesound.org/previews/488/488378_10523948-hq.mp3",
+"creator": "wobesound",
+"creator_url": "https://freesound.org/people/wobesound",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 138768,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Cutting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Grass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Harvest",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Plant",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Scissor",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/488378/download/",
+"bit_rate": 0,
+"filesize": 1369394,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Harvest Sounds.wav\" by wobesound is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Greenwich Soundpack",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/27578/",
+"creator": "wobesound",
+"creator_url": "https://freesound.org/people/wobesound/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 7130,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d848e546-2a9d-49a0-ae5a-18454f8d3a25/",
+"related_url": "https://api.openverse.org/v1/audio/d848e546-2a9d-49a0-ae5a-18454f8d3a25/related/",
+"waveform": "https://api.openverse.org/v1/audio/d848e546-2a9d-49a0-ae5a-18454f8d3a25/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2f9c6453-bac7-4559-9d1f-760aabeebcc8",
+"title": "En-us-harvest",
+"indexed_on": "2024-09-22T17:17:11.078451Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=1780124",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/10/En-us-harvest.ogg",
+"creator": "Dvortygirl",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Dvortygirl",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 14037,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-us-harvest\" by Dvortygirl is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1150,
+"bit_rate": 80000,
+"sample_rate": 44000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2f9c6453-bac7-4559-9d1f-760aabeebcc8/",
+"related_url": "https://api.openverse.org/v1/audio/2f9c6453-bac7-4559-9d1f-760aabeebcc8/related/",
+"waveform": "https://api.openverse.org/v1/audio/2f9c6453-bac7-4559-9d1f-760aabeebcc8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "88438be6-47c0-4f52-b1ee-3b4c99c17f56",
+"title": "Harvest (Feat. Sink600)",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1709713",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1709713&format=mp32",
+"creator": "Tony Bontana",
+"creator_url": "https://www.jamendo.com/artist/524918/Tony_Bontana",
+"license": "by-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"hiphop",
+"triphop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "abstract",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Harvest (Feat. Sink600)\" by Tony Bontana is licensed under CC BY-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Tony Tape, Volume 2",
+"foreign_landing_url": "https://www.jamendo.com/album/189683/the-tony-tape-volume-2",
+"creator": "Tony Bontana",
+"creator_url": "https://www.jamendo.com/artist/524918/Tony_Bontana",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 144000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/88438be6-47c0-4f52-b1ee-3b4c99c17f56/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/88438be6-47c0-4f52-b1ee-3b4c99c17f56/",
+"related_url": "https://api.openverse.org/v1/audio/88438be6-47c0-4f52-b1ee-3b4c99c17f56/related/",
+"waveform": "https://api.openverse.org/v1/audio/88438be6-47c0-4f52-b1ee-3b4c99c17f56/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "866314ff-c644-4581-9fa6-601b2ecf26cf",
+"title": "Harvest is Ripened",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/133743",
+"url": "https://prod-1.storage.jamendo.com/?trackid=133743&format=mp32",
+"creator": "Melnar Tilromen",
+"creator_url": "https://www.jamendo.com/artist/338124/Melnar_Tilromen",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Harvest is Ripened\" by Melnar Tilromen is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Valley of the Withered River",
+"foreign_landing_url": "https://www.jamendo.com/album/18984/valley-of-the-withered-river",
+"creator": "Melnar Tilromen",
+"creator_url": "https://www.jamendo.com/artist/338124/Melnar_Tilromen",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 282000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/866314ff-c644-4581-9fa6-601b2ecf26cf/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/866314ff-c644-4581-9fa6-601b2ecf26cf/",
+"related_url": "https://api.openverse.org/v1/audio/866314ff-c644-4581-9fa6-601b2ecf26cf/related/",
+"waveform": "https://api.openverse.org/v1/audio/866314ff-c644-4581-9fa6-601b2ecf26cf/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ab2ee6c6-320e-446c-beee-9233900aaaa2",
+"title": "00294 harvest festival rumour 1.wav",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/Robinhood76/sounds/59875",
+"url": "https://cdn.freesound.org/previews/59/59875_321967-hq.mp3",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76",
+"license": "by-nc",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 6862020,
+"filetype": "mp3",
+"tags": [
+{
+"name": "concert",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "crowd",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "event",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "men",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "people",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "talking",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "village",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "women",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/59875/download/",
+"bit_rate": 0,
+"filesize": 52773424,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"00294 harvest festival rumour 1.wav\" by Robinhood76 is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "CROWD & MASSIVE EVENTS sound shots",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/3830/",
+"creator": "Robinhood76",
+"creator_url": "https://freesound.org/people/Robinhood76/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 299169,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ab2ee6c6-320e-446c-beee-9233900aaaa2/",
+"related_url": "https://api.openverse.org/v1/audio/ab2ee6c6-320e-446c-beee-9233900aaaa2/related/",
+"waveform": "https://api.openverse.org/v1/audio/ab2ee6c6-320e-446c-beee-9233900aaaa2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "34934bf4-0f56-4533-89b9-de31aaf820a8",
+"title": "Dark Harvest",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/350801",
+"url": "https://prod-1.storage.jamendo.com/?trackid=350801&format=mp32",
+"creator": "Dark Harvest",
+"creator_url": "https://www.jamendo.com/artist/350640/Dark_Harvest",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Dark Harvest\" by Dark Harvest is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Dark Harvest",
+"foreign_landing_url": "https://www.jamendo.com/album/45983/dark-harvest",
+"creator": "Dark Harvest",
+"creator_url": "https://www.jamendo.com/artist/350640/Dark_Harvest",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 312000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/34934bf4-0f56-4533-89b9-de31aaf820a8/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/34934bf4-0f56-4533-89b9-de31aaf820a8/",
+"related_url": "https://api.openverse.org/v1/audio/34934bf4-0f56-4533-89b9-de31aaf820a8/related/",
+"waveform": "https://api.openverse.org/v1/audio/34934bf4-0f56-4533-89b9-de31aaf820a8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e180d156-4d5b-476f-a17c-ff560e949663",
+"title": "Kathotiya, manual wheat harvest 1.mp3",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/JordiF/sounds/191379",
+"url": "https://cdn.freesound.org/previews/191/191379_3557723-hq.mp3",
+"creator": "JordiF",
+"creator_url": "https://freesound.org/people/JordiF",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1184897,
+"filetype": "mp3",
+"tags": [
+{
+"name": "India",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kathotiya",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Madhya-Pradesh",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "harvest",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/191379/download/",
+"bit_rate": 128000,
+"filesize": 807914,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Kathotiya, manual wheat harvest 1.mp3\" by JordiF is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 50424,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e180d156-4d5b-476f-a17c-ff560e949663/",
+"related_url": "https://api.openverse.org/v1/audio/e180d156-4d5b-476f-a17c-ff560e949663/related/",
+"waveform": "https://api.openverse.org/v1/audio/e180d156-4d5b-476f-a17c-ff560e949663/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cc1dd059-53be-4eb4-a979-a492330038c5",
+"title": "LL-Q1860 (eng)-Wodencafe-harvesting",
+"indexed_on": "2024-02-03T00:04:45.803910Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=144931267",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/62/LL-Q1860_%28eng%29-Wodencafe-harvesting.wav",
+"creator": "Speaker: Wodencafe Recorder: Wodencafe",
+"creator_url": "https://lingualibre.org/wiki/Q1207413",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 95020,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Wodencafe-harvesting\" by Speaker: Wodencafe Recorder: Wodencafe is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 989,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cc1dd059-53be-4eb4-a979-a492330038c5/",
+"related_url": "https://api.openverse.org/v1/audio/cc1dd059-53be-4eb4-a979-a492330038c5/related/",
+"waveform": "https://api.openverse.org/v1/audio/cc1dd059-53be-4eb4-a979-a492330038c5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d3461f06-816c-49ce-afd0-d8aec4bfa395",
+"title": "Kathotiya, manual wheat harvest 2.mp3",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/JordiF/sounds/191380",
+"url": "https://cdn.freesound.org/previews/191/191380_3557723-hq.mp3",
+"creator": "JordiF",
+"creator_url": "https://freesound.org/people/JordiF",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1731957,
+"filetype": "mp3",
+"tags": [
+{
+"name": "India",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Kathotiya",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Madhya",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Pradesh",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "harvest",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/191380/download/",
+"bit_rate": 128000,
+"filesize": 1164851,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Kathotiya, manual wheat harvest 2.mp3\" by JordiF is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 72737,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d3461f06-816c-49ce-afd0-d8aec4bfa395/",
+"related_url": "https://api.openverse.org/v1/audio/d3461f06-816c-49ce-afd0-d8aec4bfa395/related/",
+"waveform": "https://api.openverse.org/v1/audio/d3461f06-816c-49ce-afd0-d8aec4bfa395/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c3af75dd-353e-415d-9cc2-3a9d9b62ff70",
+"title": "Alex M.O.R.P.H. - new harvest (ewerkboy remix)",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/601714",
+"url": "https://prod-1.storage.jamendo.com/?trackid=601714&format=mp32",
+"creator": "ewerkboy",
+"creator_url": "https://www.jamendo.com/artist/360946/ewerkboy",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Alex M.O.R.P.H. - new harvest (ewerkboy remix)\" by ewerkboy is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Pistas Sueltas",
+"foreign_landing_url": "https://www.jamendo.com/album/69576/pistas-sueltas",
+"creator": "ewerkboy",
+"creator_url": "https://www.jamendo.com/artist/360946/ewerkboy",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 309000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/c3af75dd-353e-415d-9cc2-3a9d9b62ff70/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/c3af75dd-353e-415d-9cc2-3a9d9b62ff70/",
+"related_url": "https://api.openverse.org/v1/audio/c3af75dd-353e-415d-9cc2-3a9d9b62ff70/related/",
+"waveform": "https://api.openverse.org/v1/audio/c3af75dd-353e-415d-9cc2-3a9d9b62ff70/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c6af3d31-bf0f-4b48-b2ea-a189c4cc9c1a",
+"title": "Lone Harvest (ISRC USUAN1100409)",
+"indexed_on": "2023-02-26T14:48:28.449983Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=64747658",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Lone_Harvest_%28ISRC_USUAN1100409%29.mp3",
+"creator": "Kevin MacLeod",
+"creator_url": null,
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 2502138,
+"filetype": "mp3",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Lone Harvest (ISRC USUAN1100409)\" by Kevin MacLeod is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 60055,
+"bit_rate": 320000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c6af3d31-bf0f-4b48-b2ea-a189c4cc9c1a/",
+"related_url": "https://api.openverse.org/v1/audio/c6af3d31-bf0f-4b48-b2ea-a189c4cc9c1a/related/",
+"waveform": "https://api.openverse.org/v1/audio/c6af3d31-bf0f-4b48-b2ea-a189c4cc9c1a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f41ddea6-fadb-49c6-b6a9-e53adaef5d39",
+"title": "LL-Q1860 (eng)-Vealhurl-harvester",
+"indexed_on": "2026-02-06T00:32:08.824327Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=183206958",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/56/LL-Q1860_%28eng%29-Vealhurl-harvester.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/%27%27",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 98604,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-harvester\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1026,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/f41ddea6-fadb-49c6-b6a9-e53adaef5d39/",
+"related_url": "https://api.openverse.org/v1/audio/f41ddea6-fadb-49c6-b6a9-e53adaef5d39/related/",
+"waveform": "https://api.openverse.org/v1/audio/f41ddea6-fadb-49c6-b6a9-e53adaef5d39/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a2e6d727-f650-43c3-a254-b2a4fbdb5371",
+"title": "LL-Q1860 (eng)-Vealhurl-combine harvester",
+"indexed_on": "2025-06-05T00:21:47.447153Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=166778584",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/LL-Q1860_%28eng%29-Vealhurl-combine_harvester.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "http://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 149292,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-combine harvester\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1554,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a2e6d727-f650-43c3-a254-b2a4fbdb5371/",
+"related_url": "https://api.openverse.org/v1/audio/a2e6d727-f650-43c3-a254-b2a4fbdb5371/related/",
+"waveform": "https://api.openverse.org/v1/audio/a2e6d727-f650-43c3-a254-b2a4fbdb5371/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8e76bdb0-ed49-4bef-ab5c-0db8e62f172e",
+"title": "Dreamy Harvest Yoga Meditation Chillout Relax Wellness Moods 002",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/990595",
+"url": "https://prod-1.storage.jamendo.com/?trackid=990595&format=mp32",
+"creator": "PremiumMusic (Instrumental Version)",
+"creator_url": "https://www.jamendo.com/artist/420766/PremiumMusic",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"chillout",
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "spiritual",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "travel",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Dreamy Harvest Yoga Meditation Chillout Relax Wellness Moods 002\" by PremiumMusic (Instrumental Version) is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Dreamy Harvest Yoga Meditation Chillout Relax Wellness Moods",
+"foreign_landing_url": "https://www.jamendo.com/album/116529/dreamy-harvest-yoga-meditation-chillout-relax-wellness-moods",
+"creator": "PremiumMusic (Instrumental Version)",
+"creator_url": "https://www.jamendo.com/artist/420766/PremiumMusic",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 157000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/8e76bdb0-ed49-4bef-ab5c-0db8e62f172e/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/8e76bdb0-ed49-4bef-ab5c-0db8e62f172e/",
+"related_url": "https://api.openverse.org/v1/audio/8e76bdb0-ed49-4bef-ab5c-0db8e62f172e/related/",
+"waveform": "https://api.openverse.org/v1/audio/8e76bdb0-ed49-4bef-ab5c-0db8e62f172e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "866c766d-8305-4c7e-b7ed-28868611e4d5",
+"title": "Dreamy Harvest Yoga Meditation Chillout Relax Wellness Moods 003",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/990599",
+"url": "https://prod-1.storage.jamendo.com/?trackid=990599&format=mp32",
+"creator": "PremiumMusic (Instrumental Version)",
+"creator_url": "https://www.jamendo.com/artist/420766/PremiumMusic",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"chillout",
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "spiritual",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "travel",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Dreamy Harvest Yoga Meditation Chillout Relax Wellness Moods 003\" by PremiumMusic (Instrumental Version) is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Dreamy Harvest Yoga Meditation Chillout Relax Wellness Moods",
+"foreign_landing_url": "https://www.jamendo.com/album/116529/dreamy-harvest-yoga-meditation-chillout-relax-wellness-moods",
+"creator": "PremiumMusic (Instrumental Version)",
+"creator_url": "https://www.jamendo.com/artist/420766/PremiumMusic",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 149000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/866c766d-8305-4c7e-b7ed-28868611e4d5/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/866c766d-8305-4c7e-b7ed-28868611e4d5/",
+"related_url": "https://api.openverse.org/v1/audio/866c766d-8305-4c7e-b7ed-28868611e4d5/related/",
+"waveform": "https://api.openverse.org/v1/audio/866c766d-8305-4c7e-b7ed-28868611e4d5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d165b8b0-bda9-4ddd-b2b8-ede708b05922",
+"title": "Dreamy Harvest Yoga Meditation Chillout Relax Wellness Moods 004",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/990596",
+"url": "https://prod-1.storage.jamendo.com/?trackid=990596&format=mp32",
+"creator": "PremiumMusic (Instrumental Version)",
+"creator_url": "https://www.jamendo.com/artist/420766/PremiumMusic",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"chillout",
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "spiritual",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "travel",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Dreamy Harvest Yoga Meditation Chillout Relax Wellness Moods 004\" by PremiumMusic (Instrumental Version) is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Dreamy Harvest Yoga Meditation Chillout Relax Wellness Moods",
+"foreign_landing_url": "https://www.jamendo.com/album/116529/dreamy-harvest-yoga-meditation-chillout-relax-wellness-moods",
+"creator": "PremiumMusic (Instrumental Version)",
+"creator_url": "https://www.jamendo.com/artist/420766/PremiumMusic",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 158000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/d165b8b0-bda9-4ddd-b2b8-ede708b05922/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/d165b8b0-bda9-4ddd-b2b8-ede708b05922/",
+"related_url": "https://api.openverse.org/v1/audio/d165b8b0-bda9-4ddd-b2b8-ede708b05922/related/",
+"waveform": "https://api.openverse.org/v1/audio/d165b8b0-bda9-4ddd-b2b8-ede708b05922/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "52c53790-06a8-4280-9727-0d756ba0d144",
+"title": "Dreamy Harvest Yoga Meditation Chillout Relax Wellness Moods 001",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/990601",
+"url": "https://prod-1.storage.jamendo.com/?trackid=990601&format=mp32",
+"creator": "PremiumMusic (Instrumental Version)",
+"creator_url": "https://www.jamendo.com/artist/420766/PremiumMusic",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"chillout",
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "spiritual",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "travel",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Dreamy Harvest Yoga Meditation Chillout Relax Wellness Moods 001\" by PremiumMusic (Instrumental Version) is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Dreamy Harvest Yoga Meditation Chillout Relax Wellness Moods",
+"foreign_landing_url": "https://www.jamendo.com/album/116529/dreamy-harvest-yoga-meditation-chillout-relax-wellness-moods",
+"creator": "PremiumMusic (Instrumental Version)",
+"creator_url": "https://www.jamendo.com/artist/420766/PremiumMusic",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 151000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/52c53790-06a8-4280-9727-0d756ba0d144/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/52c53790-06a8-4280-9727-0d756ba0d144/",
+"related_url": "https://api.openverse.org/v1/audio/52c53790-06a8-4280-9727-0d756ba0d144/related/",
+"waveform": "https://api.openverse.org/v1/audio/52c53790-06a8-4280-9727-0d756ba0d144/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "76f19836-09e4-4c4f-9d54-b5bbb407a2b7",
+"title": "Harvest Time",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1066081",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1066081&format=mp32",
+"creator": "Ray Of Lightss",
+"creator_url": "https://www.jamendo.com/artist/437995/Ray_Of_Lightss",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Harvest Time\" by Ray Of Lightss is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Ray Of Lightss Healing Love Music",
+"foreign_landing_url": "https://www.jamendo.com/album/126003/ray-of-lightss-healing-love-music",
+"creator": "Ray Of Lightss",
+"creator_url": "https://www.jamendo.com/artist/437995/Ray_Of_Lightss",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 224000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/76f19836-09e4-4c4f-9d54-b5bbb407a2b7/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/76f19836-09e4-4c4f-9d54-b5bbb407a2b7/",
+"related_url": "https://api.openverse.org/v1/audio/76f19836-09e4-4c4f-9d54-b5bbb407a2b7/related/",
+"waveform": "https://api.openverse.org/v1/audio/76f19836-09e4-4c4f-9d54-b5bbb407a2b7/waveform/",
+"unstable__sensitivity": []
 }
 ]

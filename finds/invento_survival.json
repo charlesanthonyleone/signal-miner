@@ -3038,5 +3038,25 @@
 "inventor": "",
 "module": "survival",
 "mined_at": "2026-11-08T22:21:34Z"
+},
+{
+"source": "Google Patents",
+"title": "Underground bomb shelter and storage cellar unit",
+"date": "1984-05-17",
+"dateLabel": "published",
+"count": null,
+"countLabel": "",
+"kind": "meta",
+"mime": "patent/text",
+"thumb": "",
+"src": "",
+"preview": "",
+"url": "https://patents.google.com/patent/DE3242080A1/en",
+"query": "google patents q=\"bomb shelter\" cpc=E04H9 before 2000",
+"extra": "patent DE3242080A1 \u00b7 inventor Bert 37034 Holmsj\u00f6 Gustafsson",
+"patent_number": "DE3242080A1",
+"inventor": "Bert 37034 Holmsj\u00f6 Gustafsson",
+"module": "survival",
+"mined_at": "2026-11-09T20:00:18Z"
 }
 ]
