@@ -79895,5 +79895,3988 @@
 "related_url": "https://api.openverse.org/v1/audio/cc4083fd-8e0d-4a22-894a-bca1edcc9f27/related/",
 "waveform": "https://api.openverse.org/v1/audio/cc4083fd-8e0d-4a22-894a-bca1edcc9f27/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "51a27a65-6405-4a45-83cd-c446b411b458",
+"title": "glitch diaries 44.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/shpira/sounds/317103",
+"url": "https://cdn.freesound.org/previews/317/317103_656142-hq.mp3",
+"creator": "shpira",
+"creator_url": "https://freesound.org/people/shpira",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 742583,
+"filetype": "mp3",
+"tags": [
+{
+"name": "a",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "equipment",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fault",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "glitch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kinda",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "long",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "made",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "malfunction",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "or",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "samples",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "some",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sudden",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "temporary",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "usually",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/317103/download/",
+"bit_rate": 0,
+"filesize": 5292044,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"glitch diaries 44.wav\" by shpira is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Glitch Diaries",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/17762/",
+"creator": "shpira",
+"creator_url": "https://freesound.org/people/shpira/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 30000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/51a27a65-6405-4a45-83cd-c446b411b458/",
+"related_url": "https://api.openverse.org/v1/audio/51a27a65-6405-4a45-83cd-c446b411b458/related/",
+"waveform": "https://api.openverse.org/v1/audio/51a27a65-6405-4a45-83cd-c446b411b458/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "640b2fe6-73e1-4a94-8992-585de1bf73d6",
+"title": "En-us-diary",
+"indexed_on": "2024-09-22T17:17:11.078451Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=1780035",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/98/En-us-diary.ogg",
+"creator": "Dvortygirl",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Dvortygirl",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 13766,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-us-diary\" by Dvortygirl is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1100,
+"bit_rate": 80000,
+"sample_rate": 44000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/640b2fe6-73e1-4a94-8992-585de1bf73d6/",
+"related_url": "https://api.openverse.org/v1/audio/640b2fe6-73e1-4a94-8992-585de1bf73d6/related/",
+"waveform": "https://api.openverse.org/v1/audio/640b2fe6-73e1-4a94-8992-585de1bf73d6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0923d001-75b8-4c0e-b7c5-720968ae9ea9",
+"title": "glitch diaries 33.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/shpira/sounds/317104",
+"url": "https://cdn.freesound.org/previews/317/317104_656142-hq.mp3",
+"creator": "shpira",
+"creator_url": "https://freesound.org/people/shpira",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1184803,
+"filetype": "mp3",
+"tags": [
+{
+"name": "a",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "equipment",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fault",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "glitch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kinda",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "long",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "made",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "malfunction",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "or",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "samples",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "some",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sudden",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "temporary",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "usually",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/317104/download/",
+"bit_rate": 0,
+"filesize": 8467304,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"glitch diaries 33.wav\" by shpira is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Glitch Diaries",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/17762/",
+"creator": "shpira",
+"creator_url": "https://freesound.org/people/shpira/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 48000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0923d001-75b8-4c0e-b7c5-720968ae9ea9/",
+"related_url": "https://api.openverse.org/v1/audio/0923d001-75b8-4c0e-b7c5-720968ae9ea9/related/",
+"waveform": "https://api.openverse.org/v1/audio/0923d001-75b8-4c0e-b7c5-720968ae9ea9/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a75e66a4-0373-4e69-95c4-08d3a0b7e55d",
+"title": "Anne's diary",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/968213",
+"url": "https://prod-1.storage.jamendo.com/?trackid=968213&format=mp32",
+"creator": "Radio Interior Fusion",
+"creator_url": "https://www.jamendo.com/artist/420796/Radio_Interior_Fusion",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"newage"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "melodica",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Anne's diary\" by Radio Interior Fusion is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "'Nocturno'",
+"foreign_landing_url": "https://www.jamendo.com/album/113913/nocturno",
+"creator": "Radio Interior Fusion",
+"creator_url": "https://www.jamendo.com/artist/420796/Radio_Interior_Fusion",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 465000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/a75e66a4-0373-4e69-95c4-08d3a0b7e55d/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/a75e66a4-0373-4e69-95c4-08d3a0b7e55d/",
+"related_url": "https://api.openverse.org/v1/audio/a75e66a4-0373-4e69-95c4-08d3a0b7e55d/related/",
+"waveform": "https://api.openverse.org/v1/audio/a75e66a4-0373-4e69-95c4-08d3a0b7e55d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "66184898-f185-4832-a974-11e2a9825fc6",
+"title": "glitch diaries 22.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/shpira/sounds/317105",
+"url": "https://cdn.freesound.org/previews/317/317105_656142-hq.mp3",
+"creator": "shpira",
+"creator_url": "https://freesound.org/people/shpira",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 612702,
+"filetype": "mp3",
+"tags": [
+{
+"name": "a",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "equipment",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fault",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "glitch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kinda",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "long",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "made",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "malfunction",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "or",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "samples",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "some",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sudden",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "temporary",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "usually",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/317105/download/",
+"bit_rate": 0,
+"filesize": 4586504,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"glitch diaries 22.wav\" by shpira is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Glitch Diaries",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/17762/",
+"creator": "shpira",
+"creator_url": "https://freesound.org/people/shpira/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 26000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/66184898-f185-4832-a974-11e2a9825fc6/",
+"related_url": "https://api.openverse.org/v1/audio/66184898-f185-4832-a974-11e2a9825fc6/related/",
+"waveform": "https://api.openverse.org/v1/audio/66184898-f185-4832-a974-11e2a9825fc6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0e5faa65-9774-4c80-a170-c5d0676cdb56",
+"title": "In Your Diary",
+"indexed_on": "2023-05-04T00:05:01.880122Z",
+"foreign_landing_url": "https://www.jamendo.com/track/9515",
+"url": "https://prod-1.storage.jamendo.com/?trackid=9515&format=mp32",
+"creator": "all:my:faults",
+"creator_url": "https://www.jamendo.com/artist/1428/allmyfaults",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/de/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"metal",
+"newwave",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"In Your Diary\" by all:my:faults is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/de/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Secrets",
+"foreign_landing_url": "https://www.jamendo.com/album/1424/secrets",
+"creator": "all:my:faults",
+"creator_url": "https://www.jamendo.com/artist/1428/allmyfaults",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 299000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/0e5faa65-9774-4c80-a170-c5d0676cdb56/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/0e5faa65-9774-4c80-a170-c5d0676cdb56/",
+"related_url": "https://api.openverse.org/v1/audio/0e5faa65-9774-4c80-a170-c5d0676cdb56/related/",
+"waveform": "https://api.openverse.org/v1/audio/0e5faa65-9774-4c80-a170-c5d0676cdb56/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "38f7e742-1910-4f0b-9a04-ce91e7e3e402",
+"title": "glitch diaries 11.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/shpira/sounds/317106",
+"url": "https://cdn.freesound.org/previews/317/317106_656142-hq.mp3",
+"creator": "shpira",
+"creator_url": "https://freesound.org/people/shpira",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 850249,
+"filetype": "mp3",
+"tags": [
+{
+"name": "a",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "equipment",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fault",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "glitch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kinda",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "long",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "made",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "malfunction",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "or",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "samples",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "some",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sudden",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "temporary",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "usually",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/317106/download/",
+"bit_rate": 0,
+"filesize": 5997704,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"glitch diaries 11.wav\" by shpira is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Glitch Diaries",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/17762/",
+"creator": "shpira",
+"creator_url": "https://freesound.org/people/shpira/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 34000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/38f7e742-1910-4f0b-9a04-ce91e7e3e402/",
+"related_url": "https://api.openverse.org/v1/audio/38f7e742-1910-4f0b-9a04-ce91e7e3e402/related/",
+"waveform": "https://api.openverse.org/v1/audio/38f7e742-1910-4f0b-9a04-ce91e7e3e402/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "df7f37ce-ad1a-4529-91a6-6abf5f3cc0c7",
+"title": "LL-Q7026 (cat)-Unjoanqualsevol-diari",
+"indexed_on": "2024-06-02T14:42:37.603168Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=101207814",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/LL-Q7026_%28cat%29-Unjoanqualsevol-diari.wav",
+"creator": "Speaker: Unjoanqualsevol Recorder: Unjoanqualsevol",
+"creator_url": "https://lingualibre.org/wiki/Q3686",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 99604,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q7026 (cat)-Unjoanqualsevol-diari\" by Speaker: Unjoanqualsevol Recorder: Unjoanqualsevol is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1128,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/df7f37ce-ad1a-4529-91a6-6abf5f3cc0c7/",
+"related_url": "https://api.openverse.org/v1/audio/df7f37ce-ad1a-4529-91a6-6abf5f3cc0c7/related/",
+"waveform": "https://api.openverse.org/v1/audio/df7f37ce-ad1a-4529-91a6-6abf5f3cc0c7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "64a3778f-5c41-4ff2-8d97-eac57b23868e",
+"title": "Diary - Heather",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/355066",
+"url": "https://prod-1.storage.jamendo.com/?trackid=355066&format=mp32",
+"creator": "Ceci est Mon R\u00eave",
+"creator_url": "https://www.jamendo.com/artist/350805/Ceci_est_Mon_Reve",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/fr/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Diary - Heather\" by Ceci est Mon R\u00eave is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/fr/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "One Dream, One Night",
+"foreign_landing_url": "https://www.jamendo.com/album/46362/one-dream-one-night",
+"creator": "Ceci est Mon R\u00eave",
+"creator_url": "https://www.jamendo.com/artist/350805/Ceci_est_Mon_Reve",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 213000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/64a3778f-5c41-4ff2-8d97-eac57b23868e/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/64a3778f-5c41-4ff2-8d97-eac57b23868e/",
+"related_url": "https://api.openverse.org/v1/audio/64a3778f-5c41-4ff2-8d97-eac57b23868e/related/",
+"waveform": "https://api.openverse.org/v1/audio/64a3778f-5c41-4ff2-8d97-eac57b23868e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1e38260b-106a-43de-8d96-c50b5b9f4f36",
+"title": "Daydream diary",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/213182",
+"url": "https://prod-1.storage.jamendo.com/?trackid=213182&format=mp32",
+"creator": "Spinefish",
+"creator_url": "https://www.jamendo.com/artist/341507/Spinefish",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"gothic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Daydream diary\" by Spinefish is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Fool's Paradise Revisited",
+"foreign_landing_url": "https://www.jamendo.com/album/31430/fool-s-paradise-revisited",
+"creator": "Spinefish",
+"creator_url": "https://www.jamendo.com/artist/341507/Spinefish",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 179000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/1e38260b-106a-43de-8d96-c50b5b9f4f36/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/1e38260b-106a-43de-8d96-c50b5b9f4f36/",
+"related_url": "https://api.openverse.org/v1/audio/1e38260b-106a-43de-8d96-c50b5b9f4f36/related/",
+"waveform": "https://api.openverse.org/v1/audio/1e38260b-106a-43de-8d96-c50b5b9f4f36/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cfd1dd5d-d9e5-4cd4-8088-036efdbdf2d5",
+"title": "Project System 12 - Dear Diary",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/892548",
+"url": "https://prod-1.storage.jamendo.com/?trackid=892548&format=mp32",
+"creator": "Project System 12",
+"creator_url": "https://www.jamendo.com/artist/5082/project.system.12",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Project System 12 - Dear Diary\" by Project System 12 is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Golden Autumn",
+"foreign_landing_url": "https://www.jamendo.com/album/104991/golden-autumn",
+"creator": "Project System 12",
+"creator_url": "https://www.jamendo.com/artist/5082/project.system.12",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 193000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/cfd1dd5d-d9e5-4cd4-8088-036efdbdf2d5/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/cfd1dd5d-d9e5-4cd4-8088-036efdbdf2d5/",
+"related_url": "https://api.openverse.org/v1/audio/cfd1dd5d-d9e5-4cd4-8088-036efdbdf2d5/related/",
+"waveform": "https://api.openverse.org/v1/audio/cfd1dd5d-d9e5-4cd4-8088-036efdbdf2d5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e20a3dfe-3d34-4743-ae21-748fa0de13dc",
+"title": "Audrey's Diary",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/377466",
+"url": "https://prod-1.storage.jamendo.com/?trackid=377466&format=mp32",
+"creator": "ARTSomerville",
+"creator_url": "https://www.jamendo.com/artist/6453/artsomerville",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_verylow",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Audrey's Diary\" by ARTSomerville is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Bell and the Bees at The Nave",
+"foreign_landing_url": "https://www.jamendo.com/album/48106/bell-and-the-bees-at-the-nave",
+"creator": "ARTSomerville",
+"creator_url": "https://www.jamendo.com/artist/6453/artsomerville",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 132000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e20a3dfe-3d34-4743-ae21-748fa0de13dc/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e20a3dfe-3d34-4743-ae21-748fa0de13dc/",
+"related_url": "https://api.openverse.org/v1/audio/e20a3dfe-3d34-4743-ae21-748fa0de13dc/related/",
+"waveform": "https://api.openverse.org/v1/audio/e20a3dfe-3d34-4743-ae21-748fa0de13dc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0fa76eb6-4263-4ce6-91ed-8cb9adb1c7e8",
+"title": "Transformers Diary",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1158649",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1158649&format=mp32",
+"creator": "Igor Ombak &amp; Jafar Penari",
+"creator_url": "https://www.jamendo.com/artist/442132/Igor_jafar",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "computer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "energetic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Transformers Diary\" by Igor Ombak &amp; Jafar Penari is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Your Bunny Wrote",
+"foreign_landing_url": "https://www.jamendo.com/album/139059/your-bunny-wrote",
+"creator": "Igor Ombak &amp; Jafar Penari",
+"creator_url": "https://www.jamendo.com/artist/442132/Igor_jafar",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 190000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/0fa76eb6-4263-4ce6-91ed-8cb9adb1c7e8/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/0fa76eb6-4263-4ce6-91ed-8cb9adb1c7e8/",
+"related_url": "https://api.openverse.org/v1/audio/0fa76eb6-4263-4ce6-91ed-8cb9adb1c7e8/related/",
+"waveform": "https://api.openverse.org/v1/audio/0fa76eb6-4263-4ce6-91ed-8cb9adb1c7e8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "07fbdb89-841a-4726-b741-70be737702bd",
+"title": "Diari d'una guerra",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/389881",
+"url": "https://prod-1.storage.jamendo.com/?trackid=389881&format=mp32",
+"creator": "ODI",
+"creator_url": "https://www.jamendo.com/artist/346190/ODI_(2)",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"rock",
+"ska"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Diari d'una guerra\" by ODI is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Esperan\u00e7a Rebel",
+"foreign_landing_url": "https://www.jamendo.com/album/49118/esperanca-rebel",
+"creator": "ODI",
+"creator_url": "https://www.jamendo.com/artist/346190/ODI_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 269000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/07fbdb89-841a-4726-b741-70be737702bd/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/07fbdb89-841a-4726-b741-70be737702bd/",
+"related_url": "https://api.openverse.org/v1/audio/07fbdb89-841a-4726-b741-70be737702bd/related/",
+"waveform": "https://api.openverse.org/v1/audio/07fbdb89-841a-4726-b741-70be737702bd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6ecf4592-bc26-4177-a8ef-d82093307f96",
+"title": "Wayfarer's Diary",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1730173",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1730173&format=mp32",
+"creator": "Crypt of Insomnia",
+"creator_url": "https://www.jamendo.com/artist/467601/Crypt_of_Insomnia",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "documentary",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "mystery",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_low",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Wayfarer's Diary\" by Crypt of Insomnia is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Dramatic, Sad, Beautiful Piano and Strings",
+"foreign_landing_url": "https://www.jamendo.com/album/191263/dramatic-sad-beautiful-piano-and-strings",
+"creator": "Crypt of Insomnia",
+"creator_url": "https://www.jamendo.com/artist/467601/Crypt_of_Insomnia",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 174000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/6ecf4592-bc26-4177-a8ef-d82093307f96/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/6ecf4592-bc26-4177-a8ef-d82093307f96/",
+"related_url": "https://api.openverse.org/v1/audio/6ecf4592-bc26-4177-a8ef-d82093307f96/related/",
+"waveform": "https://api.openverse.org/v1/audio/6ecf4592-bc26-4177-a8ef-d82093307f96/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "277ccafd-5ebb-4352-ad1c-c8527596a0a4",
+"title": "Dux - Harry's Diary",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/987976",
+"url": "https://prod-1.storage.jamendo.com/?trackid=987976&format=mp32",
+"creator": "Psicotropicodelia Music [netlabel]",
+"creator_url": "https://www.jamendo.com/artist/8021/psicotropicodelia.music",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Dux - Harry's Diary\" by Psicotropicodelia Music [netlabel] is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Various Artists - Psicotropicodelia Music Vol. 5 [PTDM035]",
+"foreign_landing_url": "https://www.jamendo.com/album/116313/various-artists-psicotropicodelia-music-vol-5-ptdm035",
+"creator": "Psicotropicodelia Music [netlabel]",
+"creator_url": "https://www.jamendo.com/artist/8021/psicotropicodelia.music",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 198000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/277ccafd-5ebb-4352-ad1c-c8527596a0a4/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/277ccafd-5ebb-4352-ad1c-c8527596a0a4/",
+"related_url": "https://api.openverse.org/v1/audio/277ccafd-5ebb-4352-ad1c-c8527596a0a4/related/",
+"waveform": "https://api.openverse.org/v1/audio/277ccafd-5ebb-4352-ad1c-c8527596a0a4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c69e6ef9-478b-4656-b859-36a67bbcf165",
+"title": "Dear Diary",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1344266",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1344266&format=mp32",
+"creator": "Igor Lenik",
+"creator_url": "https://www.jamendo.com/artist/458979/Igor_Lenik_(5)",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"classical",
+"newage"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "mood",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Dear Diary\" by Igor Lenik is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Chesuse's Creepers",
+"foreign_landing_url": "https://www.jamendo.com/album/158678/chesuse-s-creepers",
+"creator": "Igor Lenik",
+"creator_url": "https://www.jamendo.com/artist/458979/Igor_Lenik_(5)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 152000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/c69e6ef9-478b-4656-b859-36a67bbcf165/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/c69e6ef9-478b-4656-b859-36a67bbcf165/",
+"related_url": "https://api.openverse.org/v1/audio/c69e6ef9-478b-4656-b859-36a67bbcf165/related/",
+"waveform": "https://api.openverse.org/v1/audio/c69e6ef9-478b-4656-b859-36a67bbcf165/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1259e322-bb7c-46cd-970e-18178abb7559",
+"title": "My Diary (Interlude)",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/471752",
+"url": "https://prod-1.storage.jamendo.com/?trackid=471752&format=mp32",
+"creator": "Honey",
+"creator_url": "https://www.jamendo.com/artist/355244/Honey_(3)",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"My Diary (Interlude)\" by Honey is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "This Is My Life",
+"foreign_landing_url": "https://www.jamendo.com/album/55769/this-is-my-life",
+"creator": "Honey",
+"creator_url": "https://www.jamendo.com/artist/355244/Honey_(3)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 121000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/1259e322-bb7c-46cd-970e-18178abb7559/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/1259e322-bb7c-46cd-970e-18178abb7559/",
+"related_url": "https://api.openverse.org/v1/audio/1259e322-bb7c-46cd-970e-18178abb7559/related/",
+"waveform": "https://api.openverse.org/v1/audio/1259e322-bb7c-46cd-970e-18178abb7559/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4f321bb3-c626-4d49-bc31-6cbe45ac14bd",
+"title": "Record in the Diary \u211618",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/383584",
+"url": "https://prod-1.storage.jamendo.com/?trackid=383584&format=mp32",
+"creator": "LizZarDino",
+"creator_url": "https://www.jamendo.com/artist/340968/LizZarDino",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"darkambient",
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "psychedelic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_low",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Record in the Diary \u211618\" by LizZarDino is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Psychedelic Diary",
+"foreign_landing_url": "https://www.jamendo.com/album/48613/psychedelic-diary",
+"creator": "LizZarDino",
+"creator_url": "https://www.jamendo.com/artist/340968/LizZarDino",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 410000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/4f321bb3-c626-4d49-bc31-6cbe45ac14bd/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/4f321bb3-c626-4d49-bc31-6cbe45ac14bd/",
+"related_url": "https://api.openverse.org/v1/audio/4f321bb3-c626-4d49-bc31-6cbe45ac14bd/related/",
+"waveform": "https://api.openverse.org/v1/audio/4f321bb3-c626-4d49-bc31-6cbe45ac14bd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b50397b6-2c81-46f1-9030-f83a54f64041",
+"title": "diary",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1017291",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1017291&format=mp32",
+"creator": "Jahzzar",
+"creator_url": "https://www.jamendo.com/artist/348998/Jahzzar",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"dubstep",
+"rnb"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "electricpiano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "melancholic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "slowly",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_low",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"diary\" by Jahzzar is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Sketches",
+"foreign_landing_url": "https://www.jamendo.com/album/119816/sketches",
+"creator": "Jahzzar",
+"creator_url": "https://www.jamendo.com/artist/348998/Jahzzar",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 188000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/b50397b6-2c81-46f1-9030-f83a54f64041/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/b50397b6-2c81-46f1-9030-f83a54f64041/",
+"related_url": "https://api.openverse.org/v1/audio/b50397b6-2c81-46f1-9030-f83a54f64041/related/",
+"waveform": "https://api.openverse.org/v1/audio/b50397b6-2c81-46f1-9030-f83a54f64041/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "19bf488a-63d2-4cba-a97a-2e47230ba49f",
+"title": "Canal",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/277816",
+"url": "https://prod-1.storage.jamendo.com/?trackid=277816&format=mp32",
+"creator": "Dan Falvey",
+"creator_url": "https://www.jamendo.com/artist/347359/Dan_Falvey",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"folk",
+"pop",
+"singersongwriter"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "ballad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "emotional",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "guitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "love",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "romantic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Canal\" by Dan Falvey is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Canal",
+"foreign_landing_url": "https://www.jamendo.com/album/39102/canal",
+"creator": "Dan Falvey",
+"creator_url": "https://www.jamendo.com/artist/347359/Dan_Falvey",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 136000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/19bf488a-63d2-4cba-a97a-2e47230ba49f/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/19bf488a-63d2-4cba-a97a-2e47230ba49f/",
+"related_url": "https://api.openverse.org/v1/audio/19bf488a-63d2-4cba-a97a-2e47230ba49f/related/",
+"waveform": "https://api.openverse.org/v1/audio/19bf488a-63d2-4cba-a97a-2e47230ba49f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "18911d7d-03b8-4be8-b3aa-532b675fba6a",
+"title": "Fr-canal",
+"indexed_on": "2023-11-26T18:26:56.081310Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=3044967",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Fr-canal.ogg",
+"creator": "Vion Nicolas",
+"creator_url": null,
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/fr/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 17758,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Fr-canal\" by Vion Nicolas is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/fr/deed.en/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1250,
+"bit_rate": 80000,
+"sample_rate": 44000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/18911d7d-03b8-4be8-b3aa-532b675fba6a/",
+"related_url": "https://api.openverse.org/v1/audio/18911d7d-03b8-4be8-b3aa-532b675fba6a/related/",
+"waveform": "https://api.openverse.org/v1/audio/18911d7d-03b8-4be8-b3aa-532b675fba6a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e5ebccd4-befe-47c9-b60a-344047085d0e",
+"title": "Venezia Canal Grande early morning",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/emanuele.caro/sounds/449721",
+"url": "https://cdn.freesound.org/previews/449/449721_7152236-hq.mp3",
+"creator": "emanuele.caro",
+"creator_url": "https://freesound.org/people/emanuele.caro",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 9525214,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Canal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Grande",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Italia",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Italy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Venezia",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Venice",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "boat",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gull",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "morning",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wave",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/449721/download/",
+"bit_rate": 0,
+"filesize": 109458336,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Venezia Canal Grande early morning\" by emanuele.caro is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Venice",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/25480/",
+"creator": "emanuele.caro",
+"creator_url": "https://freesound.org/people/emanuele.caro/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 413125,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e5ebccd4-befe-47c9-b60a-344047085d0e/",
+"related_url": "https://api.openverse.org/v1/audio/e5ebccd4-befe-47c9-b60a-344047085d0e/related/",
+"waveform": "https://api.openverse.org/v1/audio/e5ebccd4-befe-47c9-b60a-344047085d0e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "63a2cb39-8832-43fe-bd85-5e1f6160299d",
+"title": "LL-Q7026 (cat)-Marvives-canal",
+"indexed_on": "2023-09-03T05:18:50.876227Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=128032125",
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/LL-Q7026_%28cat%29-Marvives-canal.wav",
+"creator": "Speaker: Marvives Recorder: Marvives",
+"creator_url": "https://lingualibre.org/wiki/Q842213",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 101164,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q7026 (cat)-Marvives-canal\" by Speaker: Marvives Recorder: Marvives is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1053,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/63a2cb39-8832-43fe-bd85-5e1f6160299d/",
+"related_url": "https://api.openverse.org/v1/audio/63a2cb39-8832-43fe-bd85-5e1f6160299d/related/",
+"waveform": "https://api.openverse.org/v1/audio/63a2cb39-8832-43fe-bd85-5e1f6160299d/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0043de0d-e947-48ce-8e26-eeff9c8a8564",
+"title": "Rushing-Through-Canal-Lock_03_StereoXY_192000.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Sonicquinn/sounds/439232",
+"url": "https://cdn.freesound.org/previews/439/439232_8913961-hq.mp3",
+"creator": "Sonicquinn",
+"creator_url": "https://freesound.org/people/Sonicquinn",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 453984,
+"filetype": "mp3",
+"tags": [
+{
+"name": "canal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "liquid",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pour",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "river",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rush",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rushing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/439232/download/",
+"bit_rate": 0,
+"filesize": 22557394,
+"filetype": "wav",
+"sample_rate": 192000
+}
+],
+"attribution": "\"Rushing-Through-Canal-Lock_03_StereoXY_192000.wav\" by Sonicquinn is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Elements",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/24759/",
+"creator": "Sonicquinn",
+"creator_url": "https://freesound.org/people/Sonicquinn/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 19580,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0043de0d-e947-48ce-8e26-eeff9c8a8564/",
+"related_url": "https://api.openverse.org/v1/audio/0043de0d-e947-48ce-8e26-eeff9c8a8564/related/",
+"waveform": "https://api.openverse.org/v1/audio/0043de0d-e947-48ce-8e26-eeff9c8a8564/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "086ae832-783f-452a-a9bf-33a3da972ccf",
+"title": "LL-Q1321 (spa)-AdrianAbdulBaha-canal",
+"indexed_on": "2023-05-07T13:58:53.845284Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=112135643",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/LL-Q1321_%28spa%29-AdrianAbdulBaha-canal.wav",
+"creator": "Speaker: AdrianAbdulBaha Recorder: AdrianAbdulBaha",
+"creator_url": "https://lingualibre.org/wiki/Q643953",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 101164,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1321 (spa)-AdrianAbdulBaha-canal\" by Speaker: AdrianAbdulBaha Recorder: AdrianAbdulBaha is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1053,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/086ae832-783f-452a-a9bf-33a3da972ccf/",
+"related_url": "https://api.openverse.org/v1/audio/086ae832-783f-452a-a9bf-33a3da972ccf/related/",
+"waveform": "https://api.openverse.org/v1/audio/086ae832-783f-452a-a9bf-33a3da972ccf/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "74400a77-f237-491a-b2c0-387cb59ce5ed",
+"title": "Canal Grande",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1381002",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1381002&format=mp32",
+"creator": "Nik Grey",
+"creator_url": "https://www.jamendo.com/artist/475732/Nik_Grey",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"classical",
+"dance",
+"experimental"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "canalgrande",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "upbeat",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Canal Grande\" by Nik Grey is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Travel-album \u00abStreets\u00bb (2014)",
+"foreign_landing_url": "https://www.jamendo.com/album/162202/travel-album-streets-2014",
+"creator": "Nik Grey",
+"creator_url": "https://www.jamendo.com/artist/475732/Nik_Grey",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 446000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/74400a77-f237-491a-b2c0-387cb59ce5ed/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/74400a77-f237-491a-b2c0-387cb59ce5ed/",
+"related_url": "https://api.openverse.org/v1/audio/74400a77-f237-491a-b2c0-387cb59ce5ed/related/",
+"waveform": "https://api.openverse.org/v1/audio/74400a77-f237-491a-b2c0-387cb59ce5ed/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "00e695b4-1e7d-4be4-a1d5-97136a981632",
+"title": "Water - canal gate",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/AntonyBK/sounds/387031",
+"url": "https://cdn.freesound.org/previews/387/387031_4507058-hq.mp3",
+"creator": "AntonyBK",
+"creator_url": "https://freesound.org/people/AntonyBK",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 985904,
+"filetype": "mp3",
+"tags": [
+{
+"name": "fall",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rush",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/387031/download/",
+"bit_rate": 0,
+"filesize": 7639036,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Water - canal gate\" by AntonyBK is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Manchester Levenshulme Spring 2017",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/21759/",
+"creator": "AntonyBK",
+"creator_url": "https://freesound.org/people/AntonyBK/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 43078,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/00e695b4-1e7d-4be4-a1d5-97136a981632/",
+"related_url": "https://api.openverse.org/v1/audio/00e695b4-1e7d-4be4-a1d5-97136a981632/related/",
+"waveform": "https://api.openverse.org/v1/audio/00e695b4-1e7d-4be4-a1d5-97136a981632/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "32a324e0-e15b-4420-bcfd-30826be92171",
+"title": "Ho Una Storia Nel Canale",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1418350",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1418350&format=mp32",
+"creator": "Nettezza",
+"creator_url": "https://www.jamendo.com/artist/496772/Nettezza",
+"license": "by-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"heavymetal",
+"metal",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "divertente",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Ho Una Storia Nel Canale\" by Nettezza is licensed under CC BY-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Nettezza",
+"foreign_landing_url": "https://www.jamendo.com/album/165506/nettezza",
+"creator": "Nettezza",
+"creator_url": "https://www.jamendo.com/artist/496772/Nettezza",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 247000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/32a324e0-e15b-4420-bcfd-30826be92171/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/32a324e0-e15b-4420-bcfd-30826be92171/",
+"related_url": "https://api.openverse.org/v1/audio/32a324e0-e15b-4420-bcfd-30826be92171/related/",
+"waveform": "https://api.openverse.org/v1/audio/32a324e0-e15b-4420-bcfd-30826be92171/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bc6e5387-0b5c-4268-8ebf-b563e366320a",
+"title": "Fr-canal de panama",
+"indexed_on": "2023-10-01T19:20:14.925083Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=1180483",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Fr-canal_de_panama.ogg",
+"creator": "Speaker: Witoki Authors of the article",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Witoki",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 12691393,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Fr-canal de panama\" by Speaker: Witoki Authors of the article is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 2070473,
+"bit_rate": 48000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/bc6e5387-0b5c-4268-8ebf-b563e366320a/",
+"related_url": "https://api.openverse.org/v1/audio/bc6e5387-0b5c-4268-8ebf-b563e366320a/related/",
+"waveform": "https://api.openverse.org/v1/audio/bc6e5387-0b5c-4268-8ebf-b563e366320a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4f1c62c0-ac14-4ab8-ac2c-3e3e5fda8aba",
+"title": "LL-Q5146 (por)-MedK1-canal",
+"indexed_on": "2023-09-10T14:47:20.507000Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=122581025",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/30/LL-Q5146_%28por%29-MedK1-canal.wav",
+"creator": "Speaker: MedK1 Recorder: MedK1",
+"creator_url": "https://lingualibre.org/wiki/Q802368",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 91412,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q5146 (por)-MedK1-canal\" by Speaker: MedK1 Recorder: MedK1 is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1035,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4f1c62c0-ac14-4ab8-ac2c-3e3e5fda8aba/",
+"related_url": "https://api.openverse.org/v1/audio/4f1c62c0-ac14-4ab8-ac2c-3e3e5fda8aba/related/",
+"waveform": "https://api.openverse.org/v1/audio/4f1c62c0-ac14-4ab8-ac2c-3e3e5fda8aba/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e280ddee-283d-4c83-abc7-a4193c51fd7b",
+"title": "LL-Q150 (fra)-Eihel-canal",
+"indexed_on": "2024-11-24T15:55:25.760810Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=100729371",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/LL-Q150_%28fra%29-Eihel-canal.wav",
+"creator": "Speaker: Eihel Recorder: Eihel",
+"creator_url": "https://lingualibre.org/wiki/Q308570",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Eihel-canal\" by Speaker: Eihel Recorder: Eihel is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e280ddee-283d-4c83-abc7-a4193c51fd7b/",
+"related_url": "https://api.openverse.org/v1/audio/e280ddee-283d-4c83-abc7-a4193c51fd7b/related/",
+"waveform": "https://api.openverse.org/v1/audio/e280ddee-283d-4c83-abc7-a4193c51fd7b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8f96449c-1b87-4bf7-bb0a-c3a69d378da3",
+"title": "LL-Q150 (fra)-Mathieu Kappler-canal",
+"indexed_on": "2022-06-09T00:31:58.546244Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=119087993",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/65/LL-Q150_%28fra%29-Mathieu_Kappler-canal.wav",
+"creator": "Speaker: Mathieu Kappler Recorder: Mathieu Kappler",
+"creator_url": "https://lingualibre.org/wiki/Q780283",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 91412,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Mathieu Kappler-canal\" by Speaker: Mathieu Kappler Recorder: Mathieu Kappler is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1035,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8f96449c-1b87-4bf7-bb0a-c3a69d378da3/",
+"related_url": "https://api.openverse.org/v1/audio/8f96449c-1b87-4bf7-bb0a-c3a69d378da3/related/",
+"waveform": "https://api.openverse.org/v1/audio/8f96449c-1b87-4bf7-bb0a-c3a69d378da3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5e0ce7d2-be33-45db-aa8a-52803268a2cd",
+"title": "LL-Q150 (fra)-LoquaxFR-canal",
+"indexed_on": "2023-06-25T11:09:01.633514Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=85432490",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/LL-Q150_%28fra%29-LoquaxFR-canal.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "Speaker: LoquaxFR Recorder: LoquaxFR",
+"creator_url": "https://lingualibre.org/wiki/Q215420",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 69740,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-LoquaxFR-canal\" by Speaker: LoquaxFR Recorder: LoquaxFR is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 726,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5e0ce7d2-be33-45db-aa8a-52803268a2cd/",
+"related_url": "https://api.openverse.org/v1/audio/5e0ce7d2-be33-45db-aa8a-52803268a2cd/related/",
+"waveform": "https://api.openverse.org/v1/audio/5e0ce7d2-be33-45db-aa8a-52803268a2cd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "53fdf4d6-73bf-43ef-b52b-be5b749b0b13",
+"title": "Miguel Canales",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/215298",
+"url": "https://prod-1.storage.jamendo.com/?trackid=215298&format=mp32",
+"creator": "Pensador Latino",
+"creator_url": "https://www.jamendo.com/artist/341782/Pensador_Latino",
+"license": "by-nc-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.5/co/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Miguel Canales\" by Pensador Latino is licensed under CC BY-NC-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.5/co/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Compae Chipuco y otras mas",
+"foreign_landing_url": "https://www.jamendo.com/album/31703/compae-chipuco-y-otras-mas",
+"creator": "Pensador Latino",
+"creator_url": "https://www.jamendo.com/artist/341782/Pensador_Latino",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 48000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/53fdf4d6-73bf-43ef-b52b-be5b749b0b13/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/53fdf4d6-73bf-43ef-b52b-be5b749b0b13/",
+"related_url": "https://api.openverse.org/v1/audio/53fdf4d6-73bf-43ef-b52b-be5b749b0b13/related/",
+"waveform": "https://api.openverse.org/v1/audio/53fdf4d6-73bf-43ef-b52b-be5b749b0b13/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f440850f-b3ba-4b9d-8235-758d951fb5ac",
+"title": "CANALES K",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1177690",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1177690&format=mp32",
+"creator": "CHAMANSAYA",
+"creator_url": "https://www.jamendo.com/artist/458064/CHAMANSAYA",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"newage"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "chaman",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "conga",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "ethno",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "psychedelic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"CANALES K\" by CHAMANSAYA is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "CANALES K",
+"foreign_landing_url": "https://www.jamendo.com/album/141761/canales-k",
+"creator": "CHAMANSAYA",
+"creator_url": "https://www.jamendo.com/artist/458064/CHAMANSAYA",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 160000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/f440850f-b3ba-4b9d-8235-758d951fb5ac/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/f440850f-b3ba-4b9d-8235-758d951fb5ac/",
+"related_url": "https://api.openverse.org/v1/audio/f440850f-b3ba-4b9d-8235-758d951fb5ac/related/",
+"waveform": "https://api.openverse.org/v1/audio/f440850f-b3ba-4b9d-8235-758d951fb5ac/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "613c14aa-c5a2-4ff1-8182-519fe572add8",
+"title": "IBERMEGA canal",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/341421",
+"url": "https://prod-1.storage.jamendo.com/?trackid=341421&format=mp32",
+"creator": "IBERMEGA digital",
+"creator_url": "https://www.jamendo.com/artist/350172/IBERMEGA_digital",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"house",
+"techno"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "ibermega",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"IBERMEGA canal\" by IBERMEGA digital is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "IBERMEGA digital",
+"foreign_landing_url": "https://www.jamendo.com/album/45059/ibermega-digital",
+"creator": "IBERMEGA digital",
+"creator_url": "https://www.jamendo.com/artist/350172/IBERMEGA_digital",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 177000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/613c14aa-c5a2-4ff1-8182-519fe572add8/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/613c14aa-c5a2-4ff1-8182-519fe572add8/",
+"related_url": "https://api.openverse.org/v1/audio/613c14aa-c5a2-4ff1-8182-519fe572add8/related/",
+"waveform": "https://api.openverse.org/v1/audio/613c14aa-c5a2-4ff1-8182-519fe572add8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "803768b2-3ac9-453a-9466-e736a05d9c8c",
+"title": "Calm city-canal s-Hertogenbosch 150227_00 AB30.flac",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/klankbeeld/sounds/265268",
+"url": "https://cdn.freesound.org/previews/265/265268_1648170-hq.mp3",
+"creator": "klankbeeld",
+"creator_url": "https://freesound.org/people/klankbeeld",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 36612336,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Den-Bosch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Holland",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Netherlands",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Vughterstroom",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "afternoon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambiance",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmospheric",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "background-sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "calm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "city",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "city-canal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "city-river",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "daytime",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "down-town",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "general-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "river",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "s-Hertogenbosch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "spring",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "town",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "white-noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "winter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/265268/download/",
+"bit_rate": 0,
+"filesize": 265380245,
+"filetype": "flac",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Calm city-canal s-Hertogenbosch 150227_00 AB30.flac\" by klankbeeld is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "city calm NL EU 2015",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/34422/",
+"creator": "klankbeeld",
+"creator_url": "https://freesound.org/people/klankbeeld/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 1600320,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/803768b2-3ac9-453a-9466-e736a05d9c8c/",
+"related_url": "https://api.openverse.org/v1/audio/803768b2-3ac9-453a-9466-e736a05d9c8c/related/",
+"waveform": "https://api.openverse.org/v1/audio/803768b2-3ac9-453a-9466-e736a05d9c8c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "26de0b09-cd14-4ab6-8669-0eb9081abf23",
+"title": "Manchester Bolton and Bury Canal",
+"indexed_on": "2022-12-11T19:06:53.945669Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=5183673",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Manchester_Bolton_and_Bury_Canal.ogg",
+"creator": "Speaker: The Voice of Hassocks Authors of the article",
+"creator_url": "https://commons.wikimedia.org/wiki/User:The_Voice_of_Hassocks",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 19258471,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Manchester Bolton and Bury Canal\" by Speaker: The Voice of Hassocks Authors of the article is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 3038713,
+"bit_rate": 60000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/26de0b09-cd14-4ab6-8669-0eb9081abf23/",
+"related_url": "https://api.openverse.org/v1/audio/26de0b09-cd14-4ab6-8669-0eb9081abf23/related/",
+"waveform": "https://api.openverse.org/v1/audio/26de0b09-cd14-4ab6-8669-0eb9081abf23/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4a177cdc-3d48-472c-812b-de6be4fccd39",
+"title": "fog horn sample(dry).wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/kathol/sounds/37914",
+"url": "https://cdn.freesound.org/previews/37/37914_211893-hq.mp3",
+"creator": "kathol",
+"creator_url": "https://freesound.org/people/kathol",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 109365,
+"filetype": "mp3",
+"tags": [
+{
+"name": "dry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fog",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foghorn",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "horn",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/37914/download/",
+"bit_rate": 0,
+"filesize": 835064,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"fog horn sample(dry).wav\" by kathol is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 4733,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4a177cdc-3d48-472c-812b-de6be4fccd39/",
+"related_url": "https://api.openverse.org/v1/audio/4a177cdc-3d48-472c-812b-de6be4fccd39/related/",
+"waveform": "https://api.openverse.org/v1/audio/4a177cdc-3d48-472c-812b-de6be4fccd39/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cb514149-0056-4ec6-b37a-8e4e5d011fb5",
+"title": "TRAIN FOG HORN LONG WYOMMING",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/andybrannan/sounds/145622",
+"url": "https://cdn.freesound.org/previews/145/145622_2221269-hq.mp3",
+"creator": "andybrannan",
+"creator_url": "https://freesound.org/people/andybrannan",
+"license": "by-nc",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 423264,
+"filetype": "mp3",
+"tags": [
+{
+"name": "FOG",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "HORN",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "TRAIN",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/145622/download/",
+"bit_rate": 0,
+"filesize": 3584884,
+"filetype": "aiff",
+"sample_rate": 48000
+}
+],
+"attribution": "\"TRAIN FOG HORN LONG WYOMMING\" by andybrannan is licensed under CC BY-NC 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 18667,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cb514149-0056-4ec6-b37a-8e4e5d011fb5/",
+"related_url": "https://api.openverse.org/v1/audio/cb514149-0056-4ec6-b37a-8e4e5d011fb5/related/",
+"waveform": "https://api.openverse.org/v1/audio/cb514149-0056-4ec6-b37a-8e4e5d011fb5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4ee4ac8d-6e7f-4ca4-a291-f30f2f928a52",
+"title": "fog horn sample(wet).wav",
+"indexed_on": "2022-10-01T04:02:44.560321Z",
+"foreign_landing_url": "https://freesound.org/people/kathol/sounds/37915",
+"url": "https://cdn.freesound.org/previews/37/37915_211893-hq.mp3",
+"creator": "kathol",
+"creator_url": "https://freesound.org/people/kathol",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 108424,
+"filetype": "mp3",
+"tags": [
+{
+"name": "fog",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "horn",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wet",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/37915/download/",
+"bit_rate": 0,
+"filesize": 835064,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"fog horn sample(wet).wav\" by kathol is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 4733,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4ee4ac8d-6e7f-4ca4-a291-f30f2f928a52/",
+"related_url": "https://api.openverse.org/v1/audio/4ee4ac8d-6e7f-4ca4-a291-f30f2f928a52/related/",
+"waveform": "https://api.openverse.org/v1/audio/4ee4ac8d-6e7f-4ca4-a291-f30f2f928a52/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "722f2cda-2a92-47b7-a70c-416929175800",
+"title": "Fog Horn.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/CGEffex/sounds/94678",
+"url": "https://cdn.freesound.org/previews/94/94678_1386366-hq.mp3",
+"creator": "CGEffex",
+"creator_url": "https://freesound.org/people/CGEffex",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 147648,
+"filetype": "mp3",
+"tags": [
+{
+"name": "air",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "boat",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dock",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fog",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "horn",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tug",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/94678/download/",
+"bit_rate": 0,
+"filesize": 1223084,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Fog Horn.wav\" by CGEffex is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 6370,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/722f2cda-2a92-47b7-a70c-416929175800/",
+"related_url": "https://api.openverse.org/v1/audio/722f2cda-2a92-47b7-a70c-416929175800/related/",
+"waveform": "https://api.openverse.org/v1/audio/722f2cda-2a92-47b7-a70c-416929175800/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e384a596-9678-4de7-86bd-0d0f020c48dd",
+"title": "En-us-fog",
+"indexed_on": "2025-03-16T20:51:10.721775Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=631208",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/45/En-us-fog.ogg",
+"creator": "Dvortygirl",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Dvortygirl",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16382,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-us-fog\" by Dvortygirl is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 766,
+"bit_rate": 160003,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e384a596-9678-4de7-86bd-0d0f020c48dd/",
+"related_url": "https://api.openverse.org/v1/audio/e384a596-9678-4de7-86bd-0d0f020c48dd/related/",
+"waveform": "https://api.openverse.org/v1/audio/e384a596-9678-4de7-86bd-0d0f020c48dd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cc0f989c-9662-46aa-ab64-ce45348abbe5",
+"title": "Fog Sounds and Shots 06 EQ'd.flac",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Will%20Stanton/sounds/58740",
+"url": "https://cdn.freesound.org/previews/58/58740_231978-hq.mp3",
+"creator": "Will Stanton",
+"creator_url": "https://freesound.org/people/Will%20Stanton",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 3746832,
+"filetype": "mp3",
+"tags": [
+{
+"name": "fog",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fog-horn",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "francisco",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "san",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/58740/download/",
+"bit_rate": 0,
+"filesize": 5456251,
+"filetype": "flac",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Fog Sounds and Shots 06 EQ'd.flac\" by Will Stanton is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 170408,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cc0f989c-9662-46aa-ab64-ce45348abbe5/",
+"related_url": "https://api.openverse.org/v1/audio/cc0f989c-9662-46aa-ab64-ce45348abbe5/related/",
+"waveform": "https://api.openverse.org/v1/audio/cc0f989c-9662-46aa-ab64-ce45348abbe5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "80835a75-932b-4dcb-911b-ad93b4adcb56",
+"title": "SooSLiX - Dreams in the Fog",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/747897",
+"url": "https://prod-1.storage.jamendo.com/?trackid=747897&format=mp32",
+"creator": "Tunguska Electronic Music Society",
+"creator_url": "https://www.jamendo.com/artist/343607/Tunguska_Chillout_Grooves_vol.1",
+"license": "by-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"SooSLiX - Dreams in the Fog\" by Tunguska Electronic Music Society is licensed under CC BY-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Ellipsis II: Tunguska.Across.Sphere. vol.2",
+"foreign_landing_url": "https://www.jamendo.com/album/87453/ellipsis-ii-tunguska-across-sphere-vol-2",
+"creator": "Tunguska Electronic Music Society",
+"creator_url": "https://www.jamendo.com/artist/343607/Tunguska_Chillout_Grooves_vol.1",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 344000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/80835a75-932b-4dcb-911b-ad93b4adcb56/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/80835a75-932b-4dcb-911b-ad93b4adcb56/",
+"related_url": "https://api.openverse.org/v1/audio/80835a75-932b-4dcb-911b-ad93b4adcb56/related/",
+"waveform": "https://api.openverse.org/v1/audio/80835a75-932b-4dcb-911b-ad93b4adcb56/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9309c140-4494-4016-80d6-6a5f2d330075",
+"title": "Ship Horn - Fog Horn - Cruise Ship Grand Princess",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/coalcon/sounds/636075",
+"url": "https://cdn.freesound.org/previews/636/636075_3320549-hq.mp3",
+"creator": "coalcon",
+"creator_url": "https://freesound.org/people/coalcon",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 136817,
+"filetype": "mp3",
+"tags": [
+{
+"name": "boat",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fog",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fog-horn",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foghorn",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "harbor",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "horn",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lighthouse",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ship",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "storm",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "weather",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/636075/download/",
+"bit_rate": 64000,
+"filesize": 48655,
+"filetype": "m4a",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Ship Horn - Fog Horn - Cruise Ship Grand Princess\" by coalcon is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 6037,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9309c140-4494-4016-80d6-6a5f2d330075/",
+"related_url": "https://api.openverse.org/v1/audio/9309c140-4494-4016-80d6-6a5f2d330075/related/",
+"waveform": "https://api.openverse.org/v1/audio/9309c140-4494-4016-80d6-6a5f2d330075/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "96487cae-5112-4caf-baf9-f294ddcb5c1c",
+"title": "Loud fog horn",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/SamsterBirdies/sounds/437683",
+"url": "https://cdn.freesound.org/previews/437/437683_5487341-hq.mp3",
+"creator": "SamsterBirdies",
+"creator_url": "https://freesound.org/people/SamsterBirdies",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 124401,
+"filetype": "mp3",
+"tags": [
+{
+"name": "boat",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ferry",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fog",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foghorn",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "honk",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "horn",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "loud",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ship",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/437683/download/",
+"bit_rate": 0,
+"filesize": 944208,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Loud fog horn\" by SamsterBirdies is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 5352,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/96487cae-5112-4caf-baf9-f294ddcb5c1c/",
+"related_url": "https://api.openverse.org/v1/audio/96487cae-5112-4caf-baf9-f294ddcb5c1c/related/",
+"waveform": "https://api.openverse.org/v1/audio/96487cae-5112-4caf-baf9-f294ddcb5c1c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8508a2b6-e42f-4fad-9a3f-a641b1a7d2df",
+"title": "Nantucket fog horn.mp3",
+"indexed_on": "2022-10-01T04:02:44.560321Z",
+"foreign_landing_url": "https://freesound.org/people/Bansemer/sounds/35675",
+"url": "https://cdn.freesound.org/previews/35/35675_341440-hq.mp3",
+"creator": "Bansemer",
+"creator_url": "https://freesound.org/people/Bansemer",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 13142990,
+"filetype": "mp3",
+"tags": [
+{
+"name": "fog-horn",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/35675/download/",
+"bit_rate": 128000,
+"filesize": 9364921,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Nantucket fog horn.mp3\" by Bansemer is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 585288,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8508a2b6-e42f-4fad-9a3f-a641b1a7d2df/",
+"related_url": "https://api.openverse.org/v1/audio/8508a2b6-e42f-4fad-9a3f-a641b1a7d2df/related/",
+"waveform": "https://api.openverse.org/v1/audio/8508a2b6-e42f-4fad-9a3f-a641b1a7d2df/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "97fcfe13-43ed-4f88-af35-9278bdc0288c",
+"title": "Morning Fog over the Troubled Waters of my Awakening Mind",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/25559",
+"url": "https://prod-1.storage.jamendo.com/?trackid=25559&format=mp32",
+"creator": "Cool Cavemen",
+"creator_url": "https://www.jamendo.com/artist/675/cool.cavemen",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"jazz",
+"pop",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "electricguitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "electroamplified",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "inspirational",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "travel",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Morning Fog over the Troubled Waters of my Awakening Mind\" by Cool Cavemen is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Fusion",
+"foreign_landing_url": "https://www.jamendo.com/album/3511/fusion",
+"creator": "Cool Cavemen",
+"creator_url": "https://www.jamendo.com/artist/675/cool.cavemen",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 247000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/97fcfe13-43ed-4f88-af35-9278bdc0288c/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/97fcfe13-43ed-4f88-af35-9278bdc0288c/",
+"related_url": "https://api.openverse.org/v1/audio/97fcfe13-43ed-4f88-af35-9278bdc0288c/related/",
+"waveform": "https://api.openverse.org/v1/audio/97fcfe13-43ed-4f88-af35-9278bdc0288c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5ac750c5-4edf-495d-ac55-f462b441311c",
+"title": "Hu-fog",
+"indexed_on": "2024-08-25T19:47:11.585011Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=30518400",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hu-fog.ogg",
+"creator": "Panda10",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Panda10",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 10645,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Hu-fog\" by Panda10 is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 750,
+"bit_rate": 80000,
+"sample_rate": 44000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5ac750c5-4edf-495d-ac55-f462b441311c/",
+"related_url": "https://api.openverse.org/v1/audio/5ac750c5-4edf-495d-ac55-f462b441311c/related/",
+"waveform": "https://api.openverse.org/v1/audio/5ac750c5-4edf-495d-ac55-f462b441311c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "93318b98-d211-4289-8c60-0551e89a6da2",
+"title": "Swallowtail Lighthouse Old Fog Bell",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/bob.burgess/sounds/160882",
+"url": "https://cdn.freesound.org/previews/160/160882_2269874-hq.mp3",
+"creator": "bob.burgess",
+"creator_url": "https://freesound.org/people/bob.burgess",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1090087,
+"filetype": "mp3",
+"tags": [
+{
+"name": "bell",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fog",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "grand-manan",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lighthouse",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "swallowtail",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/160882/download/",
+"bit_rate": 320000,
+"filesize": 1955111,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Swallowtail Lighthouse Old Fog Bell\" by bob.burgess is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 48837,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/93318b98-d211-4289-8c60-0551e89a6da2/",
+"related_url": "https://api.openverse.org/v1/audio/93318b98-d211-4289-8c60-0551e89a6da2/related/",
+"waveform": "https://api.openverse.org/v1/audio/93318b98-d211-4289-8c60-0551e89a6da2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1dd1b4ea-0740-4548-9137-e7542e1f116e",
+"title": "The Ghosts in the Fog",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/476228",
+"url": "https://prod-1.storage.jamendo.com/?trackid=476228&format=mp32",
+"creator": "Danny Roemhild",
+"creator_url": "https://www.jamendo.com/artist/354306/Nightwalker_(2)",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The Ghosts in the Fog\" by Danny Roemhild is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Witching Hour",
+"foreign_landing_url": "https://www.jamendo.com/album/57292/witching-hour",
+"creator": "Danny Roemhild",
+"creator_url": "https://www.jamendo.com/artist/354306/Nightwalker_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 296000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/1dd1b4ea-0740-4548-9137-e7542e1f116e/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/1dd1b4ea-0740-4548-9137-e7542e1f116e/",
+"related_url": "https://api.openverse.org/v1/audio/1dd1b4ea-0740-4548-9137-e7542e1f116e/related/",
+"waveform": "https://api.openverse.org/v1/audio/1dd1b4ea-0740-4548-9137-e7542e1f116e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c06e274c-41b1-46d3-8648-21ac16f028b0",
+"title": "Fog Horn",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/qubodup/sounds/181949",
+"url": "https://cdn.freesound.org/previews/181/181949_71257-hq.mp3",
+"creator": "qubodup",
+"creator_url": "https://freesound.org/people/qubodup",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 126048,
+"filetype": "mp3",
+"tags": [
+{
+"name": "coast",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fog",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "foley",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "horn",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ship",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shore",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "transportation",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "travel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "warning",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/181949/download/",
+"bit_rate": 0,
+"filesize": 561704,
+"filetype": "flac",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Fog Horn\" by qubodup is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Epic Effects",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/9790/",
+"creator": "qubodup",
+"creator_url": "https://freesound.org/people/qubodup/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 5000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c06e274c-41b1-46d3-8648-21ac16f028b0/",
+"related_url": "https://api.openverse.org/v1/audio/c06e274c-41b1-46d3-8648-21ac16f028b0/related/",
+"waveform": "https://api.openverse.org/v1/audio/c06e274c-41b1-46d3-8648-21ac16f028b0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c48f51b3-1bad-4062-8687-cdb747176faa",
+"title": "Through The Fog",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/385419",
+"url": "https://prod-1.storage.jamendo.com/?trackid=385419&format=mp32",
+"creator": "Kevan Paul",
+"creator_url": "https://www.jamendo.com/artist/343710/Kevan_Paul_(2)",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore",
+"jazz",
+"newage"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "electricguitar",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_low",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthesizer",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Through The Fog\" by Kevan Paul is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Going Home",
+"foreign_landing_url": "https://www.jamendo.com/album/48721/going-home",
+"creator": "Kevan Paul",
+"creator_url": "https://www.jamendo.com/artist/343710/Kevan_Paul_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 441000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/c48f51b3-1bad-4062-8687-cdb747176faa/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/c48f51b3-1bad-4062-8687-cdb747176faa/",
+"related_url": "https://api.openverse.org/v1/audio/c48f51b3-1bad-4062-8687-cdb747176faa/related/",
+"waveform": "https://api.openverse.org/v1/audio/c48f51b3-1bad-4062-8687-cdb747176faa/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "67d538c7-3e26-450b-a1be-cc4ef5df8e51",
+"title": "LL-Q1860 (eng)-Lirazelf-fog",
+"indexed_on": "2023-12-24T13:18:14.426958Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=106943368",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/LL-Q1860_%28eng%29-Lirazelf-fog.wav",
+"creator": "Speaker: Lirazelf Recorder: Lirazelf",
+"creator_url": "https://lingualibre.org/wiki/Q585003",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 84780,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Lirazelf-fog\" by Speaker: Lirazelf Recorder: Lirazelf is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 882,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/67d538c7-3e26-450b-a1be-cc4ef5df8e51/",
+"related_url": "https://api.openverse.org/v1/audio/67d538c7-3e26-450b-a1be-cc4ef5df8e51/related/",
+"waveform": "https://api.openverse.org/v1/audio/67d538c7-3e26-450b-a1be-cc4ef5df8e51/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "09e66bbe-d81a-46c4-8da0-7382cc71910c",
+"title": "LL-Q1860 (eng)-Back ache-fog",
+"indexed_on": "2023-01-01T14:42:46.184599Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=77899699",
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/55/LL-Q1860_%28eng%29-Back_ache-fog.wav",
+"creator": "Speaker: Back ache Recorder: Back ache",
+"creator_url": "https://lingualibre.org/wiki/Q113883",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 76588,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Back ache-fog\" by Speaker: Back ache Recorder: Back ache is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 797,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/09e66bbe-d81a-46c4-8da0-7382cc71910c/",
+"related_url": "https://api.openverse.org/v1/audio/09e66bbe-d81a-46c4-8da0-7382cc71910c/related/",
+"waveform": "https://api.openverse.org/v1/audio/09e66bbe-d81a-46c4-8da0-7382cc71910c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "357fa77e-d006-4205-8fca-75bcdad4dae0",
+"title": "Lost in the Fog",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/376422",
+"url": "https://prod-1.storage.jamendo.com/?trackid=376422&format=mp32",
+"creator": "Daniel H",
+"creator_url": "https://www.jamendo.com/artist/341459/DANIEL_H",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/fr/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"classical"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "contemporary",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Lost in the Fog\" by Daniel H is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/fr/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Rainbow of the night",
+"foreign_landing_url": "https://www.jamendo.com/album/48023/rainbow-of-the-night",
+"creator": "Daniel H",
+"creator_url": "https://www.jamendo.com/artist/341459/DANIEL_H",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 172000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/357fa77e-d006-4205-8fca-75bcdad4dae0/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/357fa77e-d006-4205-8fca-75bcdad4dae0/",
+"related_url": "https://api.openverse.org/v1/audio/357fa77e-d006-4205-8fca-75bcdad4dae0/related/",
+"waveform": "https://api.openverse.org/v1/audio/357fa77e-d006-4205-8fca-75bcdad4dae0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "dbee7f85-3d8a-4a87-922f-d2361f422773",
+"title": "Morning Fog (D,E)",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/565682",
+"url": "https://prod-1.storage.jamendo.com/?trackid=565682&format=mp32",
+"creator": "Nanten",
+"creator_url": "https://www.jamendo.com/artist/359361/Nanten",
+"license": "by",
+"license_version": "2.1",
+"license_url": "https://creativecommons.org/licenses/by/2.1/jp/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": null,
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Polyphonic Shrine (Disc Edition)",
+"foreign_landing_url": "https://www.jamendo.com/album/65438/polyphonic-shrine-disc-edition",
+"creator": "Nanten",
+"creator_url": "https://www.jamendo.com/artist/359361/Nanten",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 260000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/dbee7f85-3d8a-4a87-922f-d2361f422773/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/dbee7f85-3d8a-4a87-922f-d2361f422773/",
+"related_url": "https://api.openverse.org/v1/audio/dbee7f85-3d8a-4a87-922f-d2361f422773/related/",
+"waveform": "https://api.openverse.org/v1/audio/dbee7f85-3d8a-4a87-922f-d2361f422773/waveform/",
+"unstable__sensitivity": []
 }
 ]

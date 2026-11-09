@@ -4501,5 +4501,24 @@
   "extra": "center KSC \u00b7 nasa_id KSC-20190612-PH_CSH01_0081 \u00b7 keywords NASA, Kennedy Space Center, KSC, Swarmathon, robots, education",
   "module": "space",
   "mined_at": "2026-11-08T22:15:44Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "Holiday Asteroid Flyby",
+  "date": "2018-12-21",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA22970/PIA22970~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/PIA22970/PIA22970~thumb.jpg",
+  "preview": "These three radar images of near-Earth asteroid 2003 SD220 were obtained on Dec. 15-17, by coordinating observations with NASA's 230-foot (70-meter) antenna at the Goldstone Deep Space Communications Complex in California and the National Science Foundation's (NSF) 330-foot (100-meter) Green Bank Telescope in West Virginia.  The radar image on the left was obtained on Dec. 15 when asteroid 2003 SD220 was 2.8 million miles (4.5 million kilometers) from Earth. The radar image in the middle was gen",
+  "url": "https://images.nasa.gov/details/PIA22970",
+  "query": "images-api.nasa.gov q=\"Green Bank Telescope\"",
+  "extra": "center JPL \u00b7 nasa_id PIA22970 \u00b7 keywords Asteroid",
+  "module": "space",
+  "mined_at": "2026-11-09T06:51:29Z"
  }
 ]

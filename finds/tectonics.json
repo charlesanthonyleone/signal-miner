@@ -984,5 +984,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-08T22:15:43Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 23.205.44.0/24",
+  "date": "2026-11-09",
+  "dateLabel": "sampled",
+  "count": 321,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"23.205.44.0/24\",\n  \"origin\": \"9498\",\n  \"time\": \"2013-09-12T16:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"23.205.44.0/24\",\n  \"origin\": \"20940\",\n  \"time\": \"2026-11-09T00:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 321,\n   \"total_ris_peers\": 321\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 20940,\n   \"route_objects\": [\n    \"ARIN\"\n   ]\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/23.205.44.0/24",
+  "query": "RIPEstat routing-status 23.205.44.0/24",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-09T06:51:29Z"
  }
 ]
