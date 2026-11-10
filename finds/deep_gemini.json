@@ -5590,5 +5590,29 @@
    ]
   ],
   "mined_at": "2026-11-09T20:00:05Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Creative Faithfulness",
+  "url": "https://portal.mozz.us/gemini/vigilia.cc/gemlog/2024-05-11_creative_faithfulness.gmi?&fnote=1",
+  "gemini": "gemini://vigilia.cc/gemlog/2024-05-11_creative_faithfulness.gmi?&fnote=1",
+  "date": "",
+  "dateLabel": "",
+  "count": 2807,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "vigilia.cc",
+  "preview": "# Creative Faithfulness\n\nThe Pope addressed INSECT [^FN] thuswise:\n\u2028> In this light, dear friends, I would like to point to three guidelines for theology: creative fidelity to tradition, a cross-disciplinary approach and collegiality (cf. Address to the International Theological Commission, 4 November 2022). These are the essential \u201cingredients\u201d of the vocation of Catholic theologians in the heart of the Church. For theologians, are like the scouting party sent by Joshua to explore the land of Canaan: they are charged with finding the right paths towards the inculturation of the faith. 3 lines of development for theology according to the Pope: creative fidelity to tradition, a cross-disciplinary approach and collegiality.\n=> https://zenit.org/2024/05/11/3-lines-of-development-for-theology-according-to-the-pope-creative-fidelity-to-tradition-a-cross-disciplinary-approach-and-collegiality/ 3 lines of development for theology according to the Pope: creative fidelity to tradition, a cross-disciplinary approach and collegiality | ZENIT - English\n\nSending this on to my dear friend Ioannes (PhD Theol), he had this to add:\n\n> [Ioannes]: g had a good line on this\n> [Ioannes]: he said--at a ",
+  "query": "gemini search \"theology\"",
+  "kw": "theology",
+  "extra": "capsule: vigilia.cc \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://vigilia.cc/gemlog/2024-05-11_creative_faithfulness.gmi?&fnote=1"
+   ]
+  ],
+  "mined_at": "2026-11-10T03:49:16Z"
  }
 ]
