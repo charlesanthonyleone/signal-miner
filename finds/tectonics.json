@@ -1035,5 +1035,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-10T03:46:20Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 193.0.20.0/23",
+  "date": "2026-11-10",
+  "dateLabel": "sampled",
+  "count": 321,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "1.5 km \u00b7 bathypelagic",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"193.0.20.0/23\",\n  \"origin\": \"3333\",\n  \"time\": \"2008-03-27T00:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"193.0.20.0/23\",\n  \"origin\": \"3333\",\n  \"time\": \"2026-11-10T08:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 321,\n   \"total_ris_peers\": 321\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 3333,\n   \"route_objects\": [\n    \"RIPE\"\n   ]\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/193.0.20.0/23",
+  "query": "RIPEstat routing-status 193.0.20.0/23",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-10T15:03:24Z"
  }
 ]
