@@ -5614,5 +5614,29 @@
    ]
   ],
   "mined_at": "2026-11-10T03:49:16Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "How the Exoteric Relates to the Esoteric",
+  "url": "https://portal.mozz.us/gemini/polyphanes.smol.pub/1732714896",
+  "gemini": "gemini://polyphanes.smol.pub/1732714896",
+  "date": "",
+  "dateLabel": "",
+  "count": 1210,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "polyphanes.smol.pub",
+  "preview": "```\r\n\u250c\u2500\u2577\u2500\u2510\r\n\u2575\u250c\u253c\u2510\u2575 polyphanes.smol.pub\r\n\u2577\u2514\u253c\u2518\u2577 by polyphanes\r\n\u2514\u2500\u2575\u2500\u2518\r\n```\r\n=> //polyphanes.smol.pub/ return to homepage\r\n=> //polyphanes.smol.pub/posts return to post index\r\n\r\n\u2500\u2500\u2500\u2562\u203b\u255f\u2500\u2500\u2500\n\n# How the Exoteric Relates to the Esoteric\n\nAny kind of exoteric spiritual practice established for people at large to engage with is no more than a Taylor series that approximates a particular individual's spiritual needs.  Sure, it may satisfy some needs for some people at least some of the time, but an individual will always have other needs at other times that a given exoteric thing won't satisfy.  Maybe they can use a blend of different exoteric things to cover different bits of ground.  But the whole rest of the stuff that no exoteric system will cover\u2014that's where the esoteric comes into play, and that's for each one of us to tackle in our own ways.\r\n\r\nBy all means, build on all the exoteric stuff you have access to!  Learn from it, take from it, integrate it, see what you can use from it.  Match patterns, extrapolate, practice katas, whatever; it's all helpful!  But don't forget: at the very end of the Hermetic text \"The Perfect Sermon\", Herm\u0113s and his students actually left the temple in orde",
+  "query": "gemini search \"esoteric\"",
+  "kw": "esoteric",
+  "extra": "capsule: polyphanes.smol.pub \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://polyphanes.smol.pub/1732714896"
+   ]
+  ],
+  "mined_at": "2026-11-10T21:32:53Z"
  }
 ]

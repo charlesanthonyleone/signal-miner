@@ -4577,5 +4577,43 @@
   "extra": "center GSFC \u00b7 nasa_id GSFC_20171208_Archive_e001984 \u00b7 keywords Eclipsing Pulsar Promises Clues to Crushed Matter, earth, space, nasa, pulsar, goddardspaceflightcenter",
   "module": "space",
   "mined_at": "2026-11-09T19:56:59Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "ARC-2009-ACD09-0108-044",
+  "date": "2009-02-08",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0108-044/ARC-2009-ACD09-0108-044~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0108-044/ARC-2009-ACD09-0108-044~thumb.jpg",
+  "preview": "An SUV-sized Asteroid 2008TC# Impacts on October 7, 2008 in the Nubian Desert, Northern Sudan: Dr. Peter Jenniskens, NASA/SETI joined Muawia Shaddas of the University of Khartoum in leading an expedition on a search for samples.  searching  Photo Credit: NASA/SETI/P. Jenniskens",
+  "url": "https://images.nasa.gov/details/ARC-2009-ACD09-0108-044",
+  "query": "images-api.nasa.gov q=\"SETI\"",
+  "extra": "center ARC \u00b7 nasa_id ARC-2009-ACD09-0108-044 \u00b7 keywords Asteroid",
+  "module": "space",
+  "mined_at": "2026-11-10T21:28:13Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "ARC-2009-ACD09-0108-038",
+  "date": "2009-02-08",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "1.5 km \u00b7 bathypelagic",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0108-038/ARC-2009-ACD09-0108-038~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0108-038/ARC-2009-ACD09-0108-038~thumb.jpg",
+  "preview": "An SUV-sized Asteroid 2008TC# Impacts on October 7, 2008 in the Nubian Desert, Northern Sudan: Dr. Peter Jenniskens, NASA/SETI joined Muawia Shaddas of the University of Khartoum in leading an expedition on a search for samples.  Peter Jenniskens finds the brick.  Photo Credit: NASA/SETI/P. Jenniskens",
+  "url": "https://images.nasa.gov/details/ARC-2009-ACD09-0108-038",
+  "query": "images-api.nasa.gov q=\"SETI\"",
+  "extra": "center ARC \u00b7 nasa_id ARC-2009-ACD09-0108-038 \u00b7 keywords Asteroid",
+  "module": "space",
+  "mined_at": "2026-11-10T21:28:13Z"
  }
 ]

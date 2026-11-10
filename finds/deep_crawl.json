@@ -4414,5 +4414,37 @@
   "query": "CC-MAIN-2026-39 url=*.ws/* page=4",
   "extra": "mime text/html \u00b7 status 200 \u00b7 host www.buzztv.ws",
   "mined_at": "2026-11-10T15:00:19Z"
+ },
+ {
+  "source": "Common Crawl",
+  "title": "scholar.afit.edu/etd/6325/",
+  "date": "2026-09-16",
+  "dateLabel": "captured",
+  "count": 7668,
+  "countLabel": "bytes (warc)",
+  "kind": "meta",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "text/html",
+  "preview": "(open source link for live text \u2014 pre-mined metadata only)",
+  "url": "https://scholar.afit.edu/etd/6325/",
+  "query": "CC-MAIN-2026-39 url=*.edu/* page=4",
+  "extra": "mime text/html \u00b7 status 200 \u00b7 host scholar.afit.edu",
+  "mined_at": "2026-11-10T21:20:35Z"
+ },
+ {
+  "source": "Common Crawl",
+  "title": "scholar.afit.edu/etd/6317/",
+  "date": "2026-09-08",
+  "dateLabel": "captured",
+  "count": 7693,
+  "countLabel": "bytes (warc)",
+  "kind": "meta",
+  "depth": "1.5 km \u00b7 bathypelagic",
+  "mime": "text/html",
+  "preview": "(open source link for live text \u2014 pre-mined metadata only)",
+  "url": "https://scholar.afit.edu/etd/6317/",
+  "query": "CC-MAIN-2026-39 url=*.edu/* page=4",
+  "extra": "mime text/html \u00b7 status 200 \u00b7 host scholar.afit.edu",
+  "mined_at": "2026-11-10T21:20:35Z"
  }
 ]

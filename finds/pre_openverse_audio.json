@@ -91259,5 +91259,2666 @@
 "related_url": "https://api.openverse.org/v1/audio/17d7b730-8df3-434d-b734-90bc98376428/related/",
 "waveform": "https://api.openverse.org/v1/audio/17d7b730-8df3-434d-b734-90bc98376428/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "9715404c-ad37-46f8-93f8-679721c9d77e",
+"title": "small town desert oasis distant traffic dune buggys bird and kids playing echo Huacachina, Peru, South America.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/kyles/sounds/413914",
+"url": "https://cdn.freesound.org/previews/413/413914_612689-hq.mp3",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2098656,
+"filetype": "mp3",
+"tags": [
+{
+"name": "America",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Peru",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "South",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bird",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "buggy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "desert",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dune",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kids",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "oasis",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "playing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "small",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "town",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/413914/download/",
+"bit_rate": 0,
+"filesize": 55007478,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"small town desert oasis distant traffic dune buggys bird and kids playing echo Huacachina, Peru, South America.wav\" by kyles is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Peru",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/23322/",
+"creator": "kyles",
+"creator_url": "https://freesound.org/people/kyles/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 94010,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9715404c-ad37-46f8-93f8-679721c9d77e/",
+"related_url": "https://api.openverse.org/v1/audio/9715404c-ad37-46f8-93f8-679721c9d77e/related/",
+"waveform": "https://api.openverse.org/v1/audio/9715404c-ad37-46f8-93f8-679721c9d77e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e8b35cbf-2e55-4144-a8dc-1f1f174d3498",
+"title": "Dunes",
+"indexed_on": "2023-05-04T00:05:01.880122Z",
+"foreign_landing_url": "https://www.jamendo.com/track/8594",
+"url": "https://prod-1.storage.jamendo.com/?trackid=8594&format=mp32",
+"creator": "Jean-Luc Pourroy",
+"creator_url": "https://www.jamendo.com/artist/1308/jean-luc.pourroy",
+"license": "by-nc-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/fr/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Dunes\" by Jean-Luc Pourroy is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/2.0/fr/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Fl\u00fbte !",
+"foreign_landing_url": "https://www.jamendo.com/album/1294/flute",
+"creator": "Jean-Luc Pourroy",
+"creator_url": "https://www.jamendo.com/artist/1308/jean-luc.pourroy",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 173000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/e8b35cbf-2e55-4144-a8dc-1f1f174d3498/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/e8b35cbf-2e55-4144-a8dc-1f1f174d3498/",
+"related_url": "https://api.openverse.org/v1/audio/e8b35cbf-2e55-4144-a8dc-1f1f174d3498/related/",
+"waveform": "https://api.openverse.org/v1/audio/e8b35cbf-2e55-4144-a8dc-1f1f174d3498/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8171aa01-f854-43e9-8e9c-37987e69919b",
+"title": "Dune",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/993747",
+"url": "https://prod-1.storage.jamendo.com/?trackid=993747&format=mp32",
+"creator": "Jahzzar",
+"creator_url": "https://www.jamendo.com/artist/348998/Jahzzar",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Dune\" by Jahzzar is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Dune",
+"foreign_landing_url": "https://www.jamendo.com/album/116889/dune",
+"creator": "Jahzzar",
+"creator_url": "https://www.jamendo.com/artist/348998/Jahzzar",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 156000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/8171aa01-f854-43e9-8e9c-37987e69919b/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/8171aa01-f854-43e9-8e9c-37987e69919b/",
+"related_url": "https://api.openverse.org/v1/audio/8171aa01-f854-43e9-8e9c-37987e69919b/related/",
+"waveform": "https://api.openverse.org/v1/audio/8171aa01-f854-43e9-8e9c-37987e69919b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "25b451ab-e6aa-4f4e-b8ee-b0d67e0f2f73",
+"title": "Nl-Dune (film)-article",
+"indexed_on": "2024-12-22T14:07:17.268145Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=10460154",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Nl-Dune_%28film%29-article.ogg",
+"creator": "Speaker: VR-Land Authors of the article",
+"creator_url": "https://commons.wikimedia.org/wiki/User:VR-Land",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 4377718,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-Dune (film)-article\" by Speaker: VR-Land Authors of the article is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 430480,
+"bit_rate": 96000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/25b451ab-e6aa-4f4e-b8ee-b0d67e0f2f73/",
+"related_url": "https://api.openverse.org/v1/audio/25b451ab-e6aa-4f4e-b8ee-b0d67e0f2f73/related/",
+"waveform": "https://api.openverse.org/v1/audio/25b451ab-e6aa-4f4e-b8ee-b0d67e0f2f73/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6f5c2448-a0d4-4a75-8f23-c874164b6a89",
+"title": "Nl-Dune 2000-article",
+"indexed_on": "2024-09-01T17:22:02.533860Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=12857540",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nl-Dune_2000-article.ogg",
+"creator": "Speaker: VR-Land Authors of the article",
+"creator_url": "https://commons.wikimedia.org/wiki/User:VR-Land",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 1732019,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-Dune 2000-article\" by Speaker: VR-Land Authors of the article is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 163665,
+"bit_rate": 96000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/6f5c2448-a0d4-4a75-8f23-c874164b6a89/",
+"related_url": "https://api.openverse.org/v1/audio/6f5c2448-a0d4-4a75-8f23-c874164b6a89/related/",
+"waveform": "https://api.openverse.org/v1/audio/6f5c2448-a0d4-4a75-8f23-c874164b6a89/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b58cf74f-9eaa-427a-b56c-bddc19311e2b",
+"title": "De-dune",
+"indexed_on": "2023-01-01T14:49:12.243485Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=113628387",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/15/De-dune.ogg",
+"creator": "Jeuwre",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jeuwre",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16001,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"De-dune\" by Jeuwre is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1570,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b58cf74f-9eaa-427a-b56c-bddc19311e2b/",
+"related_url": "https://api.openverse.org/v1/audio/b58cf74f-9eaa-427a-b56c-bddc19311e2b/related/",
+"waveform": "https://api.openverse.org/v1/audio/b58cf74f-9eaa-427a-b56c-bddc19311e2b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4ade9615-7924-49dc-b7ce-0339f1279944",
+"title": "LL-Q150 (fra)-Eihel-dune",
+"indexed_on": "2022-12-04T15:03:17.513853Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=100639654",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/99/LL-Q150_%28fra%29-Eihel-dune.wav",
+"creator": "Speaker: Eihel Recorder: Eihel",
+"creator_url": "https://lingualibre.org/wiki/Q308570",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 101164,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Eihel-dune\" by Speaker: Eihel Recorder: Eihel is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1053,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/4ade9615-7924-49dc-b7ce-0339f1279944/",
+"related_url": "https://api.openverse.org/v1/audio/4ade9615-7924-49dc-b7ce-0339f1279944/related/",
+"waveform": "https://api.openverse.org/v1/audio/4ade9615-7924-49dc-b7ce-0339f1279944/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "45b4a1cf-b6e2-494a-a222-6cdf0f551d9f",
+"title": "Dune - \u728btimo intento",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/874235",
+"url": "https://prod-1.storage.jamendo.com/?trackid=874235&format=mp32",
+"creator": "DUNE",
+"creator_url": "https://www.jamendo.com/artist/375035/DUNE_(6)",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Dune - \u00daltimo intento\" by DUNE is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "DUNE, DemoExpress",
+"foreign_landing_url": "https://www.jamendo.com/album/102577/dune-demoexpress",
+"creator": "DUNE",
+"creator_url": "https://www.jamendo.com/artist/375035/DUNE_(6)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 232000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/45b4a1cf-b6e2-494a-a222-6cdf0f551d9f/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/45b4a1cf-b6e2-494a-a222-6cdf0f551d9f/",
+"related_url": "https://api.openverse.org/v1/audio/45b4a1cf-b6e2-494a-a222-6cdf0f551d9f/related/",
+"waveform": "https://api.openverse.org/v1/audio/45b4a1cf-b6e2-494a-a222-6cdf0f551d9f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "81fb3fa4-33d4-4234-8f58-6ba4f92ffe9f",
+"title": "The Dune Sea And The Bone Forest",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/776542",
+"url": "https://prod-1.storage.jamendo.com/?trackid=776542&format=mp32",
+"creator": "Skyline Trooper",
+"creator_url": "https://www.jamendo.com/artist/368715/Skyline_Trooper",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"ambient",
+"electronic",
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "ethno",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The Dune Sea And The Bone Forest\" by Skyline Trooper is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Skyline Sleep",
+"foreign_landing_url": "https://www.jamendo.com/album/90999/skyline-sleep",
+"creator": "Skyline Trooper",
+"creator_url": "https://www.jamendo.com/artist/368715/Skyline_Trooper",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 498000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/81fb3fa4-33d4-4234-8f58-6ba4f92ffe9f/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/81fb3fa4-33d4-4234-8f58-6ba4f92ffe9f/",
+"related_url": "https://api.openverse.org/v1/audio/81fb3fa4-33d4-4234-8f58-6ba4f92ffe9f/related/",
+"waveform": "https://api.openverse.org/v1/audio/81fb3fa4-33d4-4234-8f58-6ba4f92ffe9f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9215440d-8ccd-493f-bcc6-f2b4c45d9de7",
+"title": "Dune Ambience with birds, soft wind through conifers, and roaring male deer in the mating season 2",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/jorickhoofd/sounds/169538",
+"url": "https://cdn.freesound.org/previews/169/169538_2888453-hq.mp3",
+"creator": "jorickhoofd",
+"creator_url": "https://freesound.org/people/jorickhoofd",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1409098,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bulderen",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bulderende",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "conifers",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "deer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "duin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "duinen",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dune",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "hert",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "herten",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mating",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "naaldbomen",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "roaring",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vogels",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wind",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/169538/download/",
+"bit_rate": 0,
+"filesize": 10751374,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Dune Ambience with birds, soft wind through conifers, and roaring male deer in the mating season 2\" by jorickhoofd is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Nature",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/10548/",
+"creator": "jorickhoofd",
+"creator_url": "https://freesound.org/people/jorickhoofd/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 60943,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9215440d-8ccd-493f-bcc6-f2b4c45d9de7/",
+"related_url": "https://api.openverse.org/v1/audio/9215440d-8ccd-493f-bcc6-f2b4c45d9de7/related/",
+"waveform": "https://api.openverse.org/v1/audio/9215440d-8ccd-493f-bcc6-f2b4c45d9de7/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "48a3cf26-f793-464a-a91a-905bc1cf9d08",
+"title": "Coins",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Mateusz_Chenc/sounds/512216",
+"url": "https://cdn.freesound.org/previews/512/512216_10756146-hq.mp3",
+"creator": "Mateusz_Chenc",
+"creator_url": "https://freesound.org/people/Mateusz_Chenc",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 13150,
+"filetype": "mp3",
+"tags": [
+{
+"name": "cash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "change",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coins",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "counting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "design",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "effect",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "gold",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "metal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "money",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pay",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sfx",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sounddesign",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/512216/download/",
+"bit_rate": 151000,
+"filesize": 8371,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Coins\" by Mateusz_Chenc is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 441,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/48a3cf26-f793-464a-a91a-905bc1cf9d08/",
+"related_url": "https://api.openverse.org/v1/audio/48a3cf26-f793-464a-a91a-905bc1cf9d08/related/",
+"waveform": "https://api.openverse.org/v1/audio/48a3cf26-f793-464a-a91a-905bc1cf9d08/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "dbf3dcbf-814a-4230-a1b0-328600564a6f",
+"title": "Coins Purchase 3",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/rhodesmas/sounds/342751",
+"url": "https://cdn.freesound.org/previews/342/342751_5260872-hq.mp3",
+"creator": "rhodesmas",
+"creator_url": "https://freesound.org/people/rhodesmas",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 27342,
+"filetype": "mp3",
+"tags": [
+{
+"name": "accomplished",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "alert",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bonus",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coins",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "collect",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "great",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "item",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "level",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "notification",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "object",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "positive",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "purchase",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "score",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "software",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "success",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "up",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "victory",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "win",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "winning",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/342751/download/",
+"bit_rate": 0,
+"filesize": 179936,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Coins Purchase 3\" by rhodesmas is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "SFX for games/apps",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/17958/",
+"creator": "rhodesmas",
+"creator_url": "https://freesound.org/people/rhodesmas/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 1017,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/dbf3dcbf-814a-4230-a1b0-328600564a6f/",
+"related_url": "https://api.openverse.org/v1/audio/dbf3dcbf-814a-4230-a1b0-328600564a6f/related/",
+"waveform": "https://api.openverse.org/v1/audio/dbf3dcbf-814a-4230-a1b0-328600564a6f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cd557821-ace4-4b24-95f4-7668c24cec54",
+"title": "Coin flip.m4a",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/eZZin/sounds/545857",
+"url": "https://cdn.freesound.org/previews/545/545857_2175308-hq.mp3",
+"creator": "eZZin",
+"creator_url": "https://freesound.org/people/eZZin",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 206197,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "big",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ding",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "flip",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pling",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/545857/download/",
+"bit_rate": 287000,
+"filesize": 317691,
+"filetype": "m4a",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Coin flip.m4a\" by eZZin is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 8853,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cd557821-ace4-4b24-95f4-7668c24cec54/",
+"related_url": "https://api.openverse.org/v1/audio/cd557821-ace4-4b24-95f4-7668c24cec54/related/",
+"waveform": "https://api.openverse.org/v1/audio/cd557821-ace4-4b24-95f4-7668c24cec54/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "fcb56b69-ed58-4296-ad5c-00c46ebaab12",
+"title": "Retro, Coin 04.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/MATRIXXX_/sounds/402766",
+"url": "https://cdn.freesound.org/previews/402/402766_6142149-hq.mp3",
+"creator": "MATRIXXX_",
+"creator_url": "https://freesound.org/people/MATRIXXX_",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 8872,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Adventure",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Cartoon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Collect",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Collecting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Journey",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Pickup",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Platformer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Retro",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Shiny",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Treasure",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "adventure",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cartoon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "collect",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "collecting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "journey",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pickup",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "platformer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "retro",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shiny",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "treasure",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/402766/download/",
+"bit_rate": 0,
+"filesize": 47386,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Retro, Coin 04.wav\" by MATRIXXX_ is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 267,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/fcb56b69-ed58-4296-ad5c-00c46ebaab12/",
+"related_url": "https://api.openverse.org/v1/audio/fcb56b69-ed58-4296-ad5c-00c46ebaab12/related/",
+"waveform": "https://api.openverse.org/v1/audio/fcb56b69-ed58-4296-ad5c-00c46ebaab12/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1d330255-5d01-430a-99d1-6b1bdc021f89",
+"title": "Coins Shuffle",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/adgawrhbshbffsfgvsrf/sounds/492017",
+"url": "https://cdn.freesound.org/previews/492/492017_10632984-hq.mp3",
+"creator": "adgawrhbshbffsfgvsrf",
+"creator_url": "https://freesound.org/people/adgawrhbshbffsfgvsrf",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 69982,
+"filetype": "mp3",
+"tags": [
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coins",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "money",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/492017/download/",
+"bit_rate": 0,
+"filesize": 491564,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Coins Shuffle\" by adgawrhbshbffsfgvsrf is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Money",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/27736/",
+"creator": "adgawrhbshbffsfgvsrf",
+"creator_url": "https://freesound.org/people/adgawrhbshbffsfgvsrf/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 2786,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1d330255-5d01-430a-99d1-6b1bdc021f89/",
+"related_url": "https://api.openverse.org/v1/audio/1d330255-5d01-430a-99d1-6b1bdc021f89/related/",
+"waveform": "https://api.openverse.org/v1/audio/1d330255-5d01-430a-99d1-6b1bdc021f89/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "84a19cf5-1a3c-4058-b756-6dd71b8a8ee5",
+"title": "Drop Coin into Glass",
+"indexed_on": "2022-10-01T04:02:44.560321Z",
+"foreign_landing_url": "https://freesound.org/people/thedapperdan/sounds/199922",
+"url": "https://cdn.freesound.org/previews/199/199922_11337-hq.mp3",
+"creator": "thedapperdan",
+"creator_url": "https://freesound.org/people/thedapperdan",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 403342,
+"filetype": "mp3",
+"tags": [
+{
+"name": "glass",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coins",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/199922/download/",
+"bit_rate": 0,
+"filesize": 2912104,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Drop Coin into Glass\" by thedapperdan is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 16507,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/84a19cf5-1a3c-4058-b756-6dd71b8a8ee5/",
+"related_url": "https://api.openverse.org/v1/audio/84a19cf5-1a3c-4058-b756-6dd71b8a8ee5/related/",
+"waveform": "https://api.openverse.org/v1/audio/84a19cf5-1a3c-4058-b756-6dd71b8a8ee5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "719f1189-8f0c-49c3-8122-4627361baf39",
+"title": "Quarter Inserted, falls into coin return",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/bassmosphere/sounds/384700",
+"url": "https://cdn.freesound.org/previews/384/384700_1067129-hq.mp3",
+"creator": "bassmosphere",
+"creator_url": "https://freesound.org/people/bassmosphere",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 50624,
+"filetype": "mp3",
+"tags": [
+{
+"name": "cash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coins",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "insert",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "money",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quarter",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/384700/download/",
+"bit_rate": 0,
+"filesize": 607816,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Quarter Inserted, falls into coin return\" by bassmosphere is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Hi-Lo Ace",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/21599/",
+"creator": "bassmosphere",
+"creator_url": "https://freesound.org/people/bassmosphere/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 1722,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/719f1189-8f0c-49c3-8122-4627361baf39/",
+"related_url": "https://api.openverse.org/v1/audio/719f1189-8f0c-49c3-8122-4627361baf39/related/",
+"waveform": "https://api.openverse.org/v1/audio/719f1189-8f0c-49c3-8122-4627361baf39/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "93cb42c3-9ac0-4fc6-a9ea-c1c84816d928",
+"title": "coin drop on concrete",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/PetervH/sounds/324760",
+"url": "https://cdn.freesound.org/previews/324/324760_5497409-hq.mp3",
+"creator": "PetervH",
+"creator_url": "https://freesound.org/people/PetervH",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 37044,
+"filetype": "mp3",
+"tags": [
+{
+"name": "cash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "change",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coins",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "jingle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "money",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tinkle",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/324760/download/",
+"bit_rate": 311000,
+"filesize": 59635,
+"filetype": "mp3",
+"sample_rate": 44100
+}
+],
+"attribution": "\"coin drop on concrete\" by PetervH is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1529,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/93cb42c3-9ac0-4fc6-a9ea-c1c84816d928/",
+"related_url": "https://api.openverse.org/v1/audio/93cb42c3-9ac0-4fc6-a9ea-c1c84816d928/related/",
+"waveform": "https://api.openverse.org/v1/audio/93cb42c3-9ac0-4fc6-a9ea-c1c84816d928/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5ae65b94-d34b-42e0-9cbc-bec2ea5b60ef",
+"title": "Real Coin Drop",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Rocotilos/sounds/343462",
+"url": "https://cdn.freesound.org/previews/343/343462_1400623-hq.mp3",
+"creator": "Rocotilos",
+"creator_url": "https://freesound.org/people/Rocotilos",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 6054,
+"filetype": "mp3",
+"tags": [
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pick",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pickup",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "real",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "score",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/343462/download/",
+"bit_rate": 0,
+"filesize": 15284,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Real Coin Drop\" by Rocotilos is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 164,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5ae65b94-d34b-42e0-9cbc-bec2ea5b60ef/",
+"related_url": "https://api.openverse.org/v1/audio/5ae65b94-d34b-42e0-9cbc-bec2ea5b60ef/related/",
+"waveform": "https://api.openverse.org/v1/audio/5ae65b94-d34b-42e0-9cbc-bec2ea5b60ef/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "aff70ebe-445e-42b2-85b5-f3fc061f2e90",
+"title": "Retro, Coin 06.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/MATRIXXX_/sounds/515736",
+"url": "https://cdn.freesound.org/previews/515/515736_6142149-hq.mp3",
+"creator": "MATRIXXX_",
+"creator_url": "https://freesound.org/people/MATRIXXX_",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 10540,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Adventure",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Cartoon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Collect",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Collecting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Journey",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Pickup",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Platformer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Retro",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Shiny",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Treasure",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "adventure",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cartoon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "collect",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "collecting",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "journey",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pickup",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "platformer",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "retro",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "shiny",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "treasure",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/515736/download/",
+"bit_rate": 0,
+"filesize": 78566,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Retro, Coin 06.wav\" by MATRIXXX_ is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 443,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/aff70ebe-445e-42b2-85b5-f3fc061f2e90/",
+"related_url": "https://api.openverse.org/v1/audio/aff70ebe-445e-42b2-85b5-f3fc061f2e90/related/",
+"waveform": "https://api.openverse.org/v1/audio/aff70ebe-445e-42b2-85b5-f3fc061f2e90/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a97889ab-984f-42f4-9b7c-79ab698e2966",
+"title": "Coins",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/brunoboselli/sounds/341513",
+"url": "https://cdn.freesound.org/previews/341/341513_300738-hq.mp3",
+"creator": "brunoboselli",
+"creator_url": "https://freesound.org/people/brunoboselli",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 969463,
+"filetype": "mp3",
+"tags": [
+{
+"name": "argent",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bonus",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "boselli",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bruno",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "car",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "cash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "casino",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "change",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coins",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dime",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dimes",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dropping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fall",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "keys",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "metal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "monedas",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "money",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pay",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pennies",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "penny",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quarter",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "quarters",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "steal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tinkle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "video",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "win",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/341513/download/",
+"bit_rate": 0,
+"filesize": 3719110,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Coins\" by brunoboselli is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 42166,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a97889ab-984f-42f4-9b7c-79ab698e2966/",
+"related_url": "https://api.openverse.org/v1/audio/a97889ab-984f-42f4-9b7c-79ab698e2966/related/",
+"waveform": "https://api.openverse.org/v1/audio/a97889ab-984f-42f4-9b7c-79ab698e2966/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b9bfcd2d-c6de-402f-9665-1ec453d9efa8",
+"title": "Coins Purchase 4",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/rhodesmas/sounds/342750",
+"url": "https://cdn.freesound.org/previews/342/342750_5260872-hq.mp3",
+"creator": "rhodesmas",
+"creator_url": "https://freesound.org/people/rhodesmas",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 33655,
+"filetype": "mp3",
+"tags": [
+{
+"name": "accomplished",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "alert",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "app",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bonus",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coins",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "collect",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "game",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "great",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "item",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "level",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "notification",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "object",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "positive",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "purchase",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "score",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "software",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "success",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "up",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "victory",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "win",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "winning",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/342750/download/",
+"bit_rate": 0,
+"filesize": 233000,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Coins Purchase 4\" by rhodesmas is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "SFX for games/apps",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/17958/",
+"creator": "rhodesmas",
+"creator_url": "https://freesound.org/people/rhodesmas/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 1318,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b9bfcd2d-c6de-402f-9665-1ec453d9efa8/",
+"related_url": "https://api.openverse.org/v1/audio/b9bfcd2d-c6de-402f-9665-1ec453d9efa8/related/",
+"waveform": "https://api.openverse.org/v1/audio/b9bfcd2d-c6de-402f-9665-1ec453d9efa8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "aef19648-ccc0-406d-ab32-b6962e92e50f",
+"title": "Coins Dropping",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/f4ngy/sounds/240780",
+"url": "https://cdn.freesound.org/previews/240/240780_4107740-hq.mp3",
+"creator": "f4ngy",
+"creator_url": "https://freesound.org/people/f4ngy",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 44204,
+"filetype": "mp3",
+"tags": [
+{
+"name": "change",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coins",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "currency",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dropping",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "home-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "jingling",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "metal",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "money",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/240780/download/",
+"bit_rate": 0,
+"filesize": 280072,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Coins Dropping\" by f4ngy is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1587,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/aef19648-ccc0-406d-ab32-b6962e92e50f/",
+"related_url": "https://api.openverse.org/v1/audio/aef19648-ccc0-406d-ab32-b6962e92e50f/related/",
+"waveform": "https://api.openverse.org/v1/audio/aef19648-ccc0-406d-ab32-b6962e92e50f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ec01cfaa-dd7f-4513-9b7c-46a241805331",
+"title": "8-Bit Coin",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/TheDweebMan/sounds/277215",
+"url": "https://cdn.freesound.org/previews/277/277215_5324223-hq.mp3",
+"creator": "TheDweebMan",
+"creator_url": "https://freesound.org/people/TheDweebMan",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 11794,
+"filetype": "mp3",
+"tags": [
+{
+"name": "8",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "8-bit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "8bit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "bit",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "classic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "games",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "old",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "old-school",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "oldschool",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "vintage",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/277215/download/",
+"bit_rate": 0,
+"filesize": 36672,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"8-Bit Coin\" by TheDweebMan is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "8 Bit Basics",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/17100/",
+"creator": "TheDweebMan",
+"creator_url": "https://freesound.org/people/TheDweebMan/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 415,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ec01cfaa-dd7f-4513-9b7c-46a241805331/",
+"related_url": "https://api.openverse.org/v1/audio/ec01cfaa-dd7f-4513-9b7c-46a241805331/related/",
+"waveform": "https://api.openverse.org/v1/audio/ec01cfaa-dd7f-4513-9b7c-46a241805331/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c9b56d9a-87e7-4c68-9ea8-bcad18ab3ed6",
+"title": "Fr-coin",
+"indexed_on": "2023-11-26T18:26:56.081310Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=3046001",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Fr-coin.ogg",
+"creator": "Vion Nicolas",
+"creator_url": null,
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/fr/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 14165,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Fr-coin\" by Vion Nicolas is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/fr/deed.en/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1050,
+"bit_rate": 80000,
+"sample_rate": 44000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c9b56d9a-87e7-4c68-9ea8-bcad18ab3ed6/",
+"related_url": "https://api.openverse.org/v1/audio/c9b56d9a-87e7-4c68-9ea8-bcad18ab3ed6/related/",
+"waveform": "https://api.openverse.org/v1/audio/c9b56d9a-87e7-4c68-9ea8-bcad18ab3ed6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "136108a6-db6d-4963-9560-1324152a996a",
+"title": "coin fall 2.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/FenrirFangs/sounds/213986",
+"url": "https://cdn.freesound.org/previews/213/213986_3635427-hq.mp3",
+"creator": "FenrirFangs",
+"creator_url": "https://freesound.org/people/FenrirFangs",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 39136,
+"filetype": "mp3",
+"tags": [
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dollar-coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "money",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/213986/download/",
+"bit_rate": 0,
+"filesize": 411378,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"coin fall 2.wav\" by FenrirFangs is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Coins",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/13584/",
+"creator": "FenrirFangs",
+"creator_url": "https://freesound.org/people/FenrirFangs/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 1528,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/136108a6-db6d-4963-9560-1324152a996a/",
+"related_url": "https://api.openverse.org/v1/audio/136108a6-db6d-4963-9560-1324152a996a/related/",
+"waveform": "https://api.openverse.org/v1/audio/136108a6-db6d-4963-9560-1324152a996a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b024b6d2-8ea6-4496-bb56-60f4e322ee73",
+"title": "coin fall 1.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/FenrirFangs/sounds/213987",
+"url": "https://cdn.freesound.org/previews/213/213987_3635427-hq.mp3",
+"creator": "FenrirFangs",
+"creator_url": "https://freesound.org/people/FenrirFangs",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 50512,
+"filetype": "mp3",
+"tags": [
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dollar-coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "money",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/213987/download/",
+"bit_rate": 0,
+"filesize": 537044,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"coin fall 1.wav\" by FenrirFangs is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Coins",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/13584/",
+"creator": "FenrirFangs",
+"creator_url": "https://freesound.org/people/FenrirFangs/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 2006,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b024b6d2-8ea6-4496-bb56-60f4e322ee73/",
+"related_url": "https://api.openverse.org/v1/audio/b024b6d2-8ea6-4496-bb56-60f4e322ee73/related/",
+"waveform": "https://api.openverse.org/v1/audio/b024b6d2-8ea6-4496-bb56-60f4e322ee73/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "69e41cfb-e8ab-4089-a077-8e08eb6996ce",
+"title": "coin clatter 8.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/FenrirFangs/sounds/213982",
+"url": "https://cdn.freesound.org/previews/213/213982_3635427-hq.mp3",
+"creator": "FenrirFangs",
+"creator_url": "https://freesound.org/people/FenrirFangs",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 20769,
+"filetype": "mp3",
+"tags": [
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dollar-coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "money",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/213982/download/",
+"bit_rate": 0,
+"filesize": 200052,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"coin clatter 8.wav\" by FenrirFangs is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Coins",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/13584/",
+"creator": "FenrirFangs",
+"creator_url": "https://freesound.org/people/FenrirFangs/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 729,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/69e41cfb-e8ab-4089-a077-8e08eb6996ce/",
+"related_url": "https://api.openverse.org/v1/audio/69e41cfb-e8ab-4089-a077-8e08eb6996ce/related/",
+"waveform": "https://api.openverse.org/v1/audio/69e41cfb-e8ab-4089-a077-8e08eb6996ce/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ae6e2582-df18-4139-8c5c-c19c5302e5ff",
+"title": "coin clatter 2.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/FenrirFangs/sounds/213980",
+"url": "https://cdn.freesound.org/previews/213/213980_3635427-hq.mp3",
+"creator": "FenrirFangs",
+"creator_url": "https://freesound.org/people/FenrirFangs",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 42427,
+"filetype": "mp3",
+"tags": [
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dollar-coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "money",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/213980/download/",
+"bit_rate": 0,
+"filesize": 435432,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"coin clatter 2.wav\" by FenrirFangs is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Coins",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/13584/",
+"creator": "FenrirFangs",
+"creator_url": "https://freesound.org/people/FenrirFangs/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 1619,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ae6e2582-df18-4139-8c5c-c19c5302e5ff/",
+"related_url": "https://api.openverse.org/v1/audio/ae6e2582-df18-4139-8c5c-c19c5302e5ff/related/",
+"waveform": "https://api.openverse.org/v1/audio/ae6e2582-df18-4139-8c5c-c19c5302e5ff/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6e85e52c-2dac-4a37-b420-6b2c86fd3469",
+"title": "coin falling on floor.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/sethlind/sounds/265011",
+"url": "https://cdn.freesound.org/previews/265/265011_4101863-hq.mp3",
+"creator": "sethlind",
+"creator_url": "https://freesound.org/people/sethlind",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 88608,
+"filetype": "mp3",
+"tags": [
+{
+"name": "cash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "coin",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "currency",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "drop",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fall",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "falling",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "floor",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "money",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "wooden",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/265011/download/",
+"bit_rate": 0,
+"filesize": 363294,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"coin falling on floor.wav\" by sethlind is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "household sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/16330/",
+"creator": "sethlind",
+"creator_url": "https://freesound.org/people/sethlind/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 3738,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/6e85e52c-2dac-4a37-b420-6b2c86fd3469/",
+"related_url": "https://api.openverse.org/v1/audio/6e85e52c-2dac-4a37-b420-6b2c86fd3469/related/",
+"waveform": "https://api.openverse.org/v1/audio/6e85e52c-2dac-4a37-b420-6b2c86fd3469/waveform/",
+"unstable__sensitivity": []
 }
 ]
