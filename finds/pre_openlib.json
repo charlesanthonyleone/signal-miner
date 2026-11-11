@@ -1,1141 +1,6 @@
 [
 {
 "author_name": [
-"James Stephens"
-],
-"cover_i": 9695717,
-"ebook_access": "public",
-"edition_count": 4,
-"first_publish_year": 1928,
-"ia": [
-"etchedinmoonligh0000step"
-],
-"key": "/works/OL1154803W",
-"title": "Etched in moonlight"
-},
-{
-"author_name": [
-"Gordon W. Nowell-Usticke"
-],
-"cover_i": 15051140,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 1967,
-"ia": [
-"rembrandtsetchin0000nowe"
-],
-"key": "/works/OL188088W",
-"title": "Rembrandt's etchings"
-},
-{
-"author_name": [
-"Adrian Phoenix"
-],
-"cover_i": 6698394,
-"ebook_access": "printdisabled",
-"edition_count": 1,
-"first_publish_year": 2011,
-"ia": [
-"etchedinbone0000phoe"
-],
-"key": "/works/OL15679606W",
-"title": "Etched in Bone (The Maker's Song # 4)"
-},
-{
-"author_name": [
-"Rembrandt"
-],
-"cover_i": 310416,
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 1988,
-"key": "/works/OL8249552W",
-"title": "Rembrandt Etchings"
-},
-{
-"author_name": [
-"James McNeill Whistler"
-],
-"cover_i": 11027726,
-"ebook_access": "no_ebook",
-"edition_count": 6,
-"first_publish_year": 2018,
-"key": "/works/OL24441237W",
-"title": "Etchings by Whistler"
-},
-{
-"author_name": [
-"Charles Holme"
-],
-"cover_i": 15019025,
-"ebook_access": "public",
-"edition_count": 5,
-"first_publish_year": 1902,
-"ia": [
-"modernetchingeng0000char"
-],
-"key": "/works/OL28528056W",
-"title": "Modern Etching and Engraving"
-},
-{
-"author_name": [
-"Fanny Bruce Cook"
-],
-"cover_i": 5652205,
-"ebook_access": "public",
-"edition_count": 3,
-"first_publish_year": 1892,
-"ia": [
-"fancysetchingsfa00cookrich"
-],
-"key": "/works/OL7896608W",
-"title": "Fancy's etchings"
-},
-{
-"author_name": [
-"Giorgio Morandi"
-],
-"cover_i": 12851670,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 1978,
-"ia": [
-"morandietchings0000mora"
-],
-"key": "/works/OL71982W",
-"title": "Morandi etchings"
-},
-{
-"author_name": [
-"Rembrandt Harmenszoon van Rijn"
-],
-"cover_i": 310417,
-"ebook_access": "no_ebook",
-"edition_count": 3,
-"first_publish_year": 1947,
-"key": "/works/OL54666W",
-"title": "Rembrandt etchings"
-},
-{
-"author_name": [
-"Edwin George Lutz"
-],
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 1933,
-"key": "/works/OL2749372W",
-"title": "Practical engraving and etching"
-},
-{
-"author_name": [
-"Arthur Magyer Hind"
-],
-"cover_i": 7190070,
-"ebook_access": "public",
-"edition_count": 1,
-"first_publish_year": 1907,
-"ia": [
-"etchingsofrembra00hind"
-],
-"key": "/works/OL15664374W",
-"title": "Etchings of Rembrandt"
-},
-{
-"author_name": [
-"Ian Lowe",
-"Wilfred Fairclough"
-],
-"ebook_access": "no_ebook",
-"edition_count": 6,
-"first_publish_year": 2019,
-"key": "/works/OL25243662W",
-"title": "Etchings of Wilfred Fairclough"
-},
-{
-"author_name": [
-"F. W. H. Hollstein"
-],
-"ebook_access": "no_ebook",
-"edition_count": 6,
-"first_publish_year": 1986,
-"key": "/works/OL6498118W",
-"title": "German engravings, etchings and woodcuts, 1400 - 1700"
-},
-{
-"author_name": [
-"Lucy Zeh"
-],
-"cover_i": 842368,
-"ebook_access": "no_ebook",
-"edition_count": 4,
-"first_publish_year": 2000,
-"key": "/works/OL8943359W",
-"title": "Etched in stone"
-},
-{
-"author_name": [
-"Marthe Le Van"
-],
-"cover_i": 2932929,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 2003,
-"ia": [
-"creativeglasscra0000leva"
-],
-"key": "/works/OL5825118W",
-"title": "Creative Glass Crafts"
-},
-{
-"author_name": [
-"Ad Stijnman"
-],
-"cover_i": 9054113,
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2012,
-"key": "/works/OL20387638W",
-"title": "Engraving and Etching 1400-2000"
-},
-{
-"author_name": [
-"Rembrandt Harmenszoon van Rijn"
-],
-"ebook_access": "no_ebook",
-"edition_count": 4,
-"first_publish_year": 1952,
-"key": "/works/OL11737812W",
-"title": "Rembrandt's etchings"
-},
-{
-"author_name": [
-"Frank Weston Benson",
-"Adam Edwin Merriman Paff"
-],
-"cover_i": 10884426,
-"ebook_access": "no_ebook",
-"edition_count": 12,
-"first_publish_year": 2010,
-"key": "/works/OL24357892W",
-"title": "Etchings and Drypoints by Frank W. Benson"
-},
-{
-"author_name": [
-"Levon West"
-],
-"cover_i": 15010699,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 1932,
-"ia": [
-"makingetching0000levo_v9m1"
-],
-"key": "/works/OL11070279W",
-"title": "Making an etching"
-},
-{
-"author_name": [
-"Arthur Magyer Hind"
-],
-"cover_i": 308638,
-"ebook_access": "no_ebook",
-"edition_count": 5,
-"first_publish_year": 1963,
-"key": "/works/OL8249455W",
-"title": "A History of Engraving and Etching"
-},
-{
-"author_name": [
-"Hamerton, Philip Gilbert"
-],
-"cover_i": 5824489,
-"ebook_access": "public",
-"edition_count": 22,
-"first_publish_year": 1873,
-"ia": [
-"intellectuallife04hame",
-"cihm_91435",
-"intellectuallife00hameuoft",
-"intellectuallif14hamegoog",
-"intellectuallif00hamegoog",
-"intellectuallif15hamegoog"
-],
-"key": "/works/OL2226105W",
-"title": "The intellectual life"
-},
-{
-"author_name": [
-"Hamerton, Philip Gilbert"
-],
-"cover_i": 5865548,
-"ebook_access": "public",
-"edition_count": 4,
-"first_publish_year": 1902,
-"ia": [
-"etchingsetchers00hamegoog"
-],
-"key": "/works/OL2226087W",
-"title": "Etchings & etchers"
-},
-{
-"author_name": [
-"Louis Icart"
-],
-"cover_i": 3747855,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 1990,
-"ia": [
-"louisicartcomple0000icar"
-],
-"key": "/works/OL2118417W",
-"title": "Louis Icart, the complete etchings"
-},
-{
-"author_name": [
-"John Buckland Wright"
-],
-"cover_i": 6799873,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1973,
-"ia": [
-"etchingengraving00buck"
-],
-"key": "/works/OL15836067W",
-"title": "Etching and engraving"
-},
-{
-"author_name": [
-"Kathryn Lasky"
-],
-"cover_i": 10706088,
-"ebook_access": "borrowable",
-"edition_count": 8,
-"first_publish_year": 2004,
-"ia": [
-"onebeetletoomany0000kath"
-],
-"key": "/works/OL15071116W",
-"title": "Charles Darwin"
-},
-{
-"author_name": [
-"Mort Walker"
-],
-"cover_i": 6696169,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1987,
-"ia": [
-"lifesbeach00walk"
-],
-"key": "/works/OL15545819W",
-"title": "Life's a beach"
-},
-{
-"author_name": [
-"Jerry Pallotta"
-],
-"cover_i": 1915886,
-"ebook_access": "printdisabled",
-"edition_count": 5,
-"first_publish_year": 2003,
-"ia": [
-"beetlealphabetbo0000pall"
-],
-"key": "/works/OL1955380W",
-"title": "Beetle Alphabet Book"
-},
-{
-"author_name": [
-"Aliza Layne"
-],
-"cover_i": 14945026,
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2025,
-"key": "/works/OL42549207W",
-"title": "Beetle and the Chimera Carnival"
-},
-{
-"author_name": [
-"Mort Walker"
-],
-"cover_i": 6385347,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1972,
-"ia": [
-"beetlebaileyonpa00walk"
-],
-"key": "/works/OL15133904W",
-"title": "Beetle Bailey on parade"
-},
-{
-"author_name": [
-"K\u014dtar\u014d Isaka"
-],
-"cover_i": 13678002,
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2010,
-"key": "/works/OL19943319W",
-"title": "Maria b\u012btoru ="
-},
-{
-"author_name": [
-"Mort Walker"
-],
-"cover_i": 6876550,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 1967,
-"ia": [
-"beetlebaileyinso00walk",
-"beetlebaileyinso00walk"
-],
-"key": "/works/OL16030253W",
-"title": "Beetle Bailey in the soup"
-},
-{
-"author_name": [
-"M.G. Leonard"
-],
-"cover_i": 8537327,
-"ebook_access": "printdisabled",
-"edition_count": 1,
-"first_publish_year": 2017,
-"ia": [
-"beetleboy0000leon"
-],
-"key": "/works/OL19624350W",
-"title": "Beetle Boy"
-},
-{
-"author_name": [
-"Chris Barber",
-"Chris Barber",
-"CHRIS BARBER"
-],
-"cover_i": 2061207,
-"ebook_access": "no_ebook",
-"edition_count": 3,
-"first_publish_year": 2003,
-"key": "/works/OL2667729W",
-"title": "Birth of the Beetle"
-},
-{
-"author_name": [
-"Margaret Willey"
-],
-"cover_i": 8204348,
-"ebook_access": "borrowable",
-"edition_count": 5,
-"first_publish_year": 2014,
-"ia": [
-"beetleboy0000will"
-],
-"key": "/works/OL17891458W",
-"title": "Beetle Boy"
-},
-{
-"author_name": [
-"Len Wein"
-],
-"cover_i": 12574069,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 2015,
-"ia": [
-"bluebeetlevolume0000wein"
-],
-"key": "/works/OL20014799W",
-"title": "Showcase presents Blue Beetle"
-},
-{
-"author_name": [
-"Jean-Henri Fabre",
-"Alexander Teixeira de Mattos"
-],
-"cover_i": 5842714,
-"ebook_access": "public",
-"edition_count": 16,
-"first_publish_year": 1919,
-"ia": [
-"glowwormotherbee00fabr",
-"cihm_72829",
-"glowwormotherbee00fabriala",
-"glowwormotherbee00fabruoft"
-],
-"key": "/works/OL1809419W",
-"title": "The glow-worm and other beetles"
-},
-{
-"author_name": [
-"M. G. Leonard"
-],
-"cover_i": 8794303,
-"ebook_access": "no_ebook",
-"edition_count": 3,
-"first_publish_year": 2018,
-"key": "/works/OL20150289W",
-"title": "Battle of the Beetles"
-},
-{
-"author_name": [
-"Mort Walker"
-],
-"cover_i": 6385346,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1990,
-"ia": [
-"beetlebaileynewo00walk"
-],
-"key": "/works/OL15133903W",
-"title": "Beetle Bailey, new outfit!"
-},
-{
-"author_name": [
-"Harriet Ziefert"
-],
-"cover_i": 1333689,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 1998,
-"ia": [
-"bugsbeetlesbutte00zief"
-],
-"key": "/works/OL14968436W",
-"title": "Bugs, beetles, and butterflies"
-},
-{
-"author_name": [
-"Mort Walker"
-],
-"cover_i": 6500188,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 1969,
-"ia": [
-"falloutlaughingb00walk"
-],
-"key": "/works/OL3065260W",
-"title": "Fall out laughing, Beetle Bailey"
-},
-{
-"author_name": [
-"Richard Marsh"
-],
-"cover_i": 13850183,
-"ebook_access": "no_ebook",
-"edition_count": 8,
-"first_publish_year": 2020,
-"key": "/works/OL34958862W",
-"title": "The Beetle"
-},
-{
-"author_name": [
-"Mort Walker"
-],
-"cover_i": 6943701,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1976,
-"ia": [
-"beetlebaileyabou00walk"
-],
-"key": "/works/OL16045705W",
-"title": "Beetle Bailey, about face"
-},
-{
-"author_name": [
-"Cheryl Coughlan"
-],
-"cover_i": 5022885,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 1998,
-"ia": [
-"beetles0000coug"
-],
-"key": "/works/OL1934809W",
-"title": "Beetles"
-},
-{
-"author_name": [
-"Sandra Markle"
-],
-"cover_i": 2655590,
-"ebook_access": "printdisabled",
-"edition_count": 6,
-"first_publish_year": 2007,
-"ia": [
-"divingbeetlesund0000mark"
-],
-"key": "/works/OL1957903W",
-"title": "Diving Beetles"
-},
-{
-"author_name": [
-"M.G. Leonard"
-],
-"cover_i": 10232643,
-"ebook_access": "printdisabled",
-"edition_count": 1,
-"first_publish_year": 2017,
-"ia": [
-"beetlequeen0000leon"
-],
-"key": "/works/OL20897293W",
-"title": "Beetle Queen"
-},
-{
-"author_name": [
-"Sally Carrighar"
-],
-"cover_i": 4435450,
-"ebook_access": "printdisabled",
-"edition_count": 4,
-"first_publish_year": 1944,
-"ia": [
-"onedayonbeetlero00carr",
-"onedayonbeetlero0000carr"
-],
-"key": "/works/OL4452114W",
-"title": "One day on Beetle rock"
-},
-{
-"author_name": [
-"Lawrence David"
-],
-"cover_i": 9256902,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 2001,
-"ia": [
-"beetleboy0000davi_k7u5",
-"beetleboy0000davi"
-],
-"key": "/works/OL20640286W",
-"title": "Beetle boy"
-},
-{
-"author_name": [
-"Mort Walker"
-],
-"cover_i": 6504366,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1982,
-"ia": [
-"generalalert00walk"
-],
-"key": "/works/OL15140551W",
-"title": "General alert"
-},
-{
-"author_name": [
-"Mort Walker"
-],
-"cover_i": 5727062,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1958,
-"ia": [
-"beetlebaileynotr00walk"
-],
-"key": "/works/OL3065212W",
-"title": "Beetle Bailey and Sarge"
-},
-{
-"author_name": [
-"Sir William Jardine",
-"James Duncan"
-],
-"cover_i": 5632422,
-"ebook_access": "public",
-"edition_count": 10,
-"first_publish_year": 1800,
-"ia": [
-"b33029544",
-"beetlesjames00duncrich",
-"naturalhistoryof01dunc",
-"beetles00duncgoog"
-],
-"key": "/works/OL1461502W",
-"title": "Entomology"
-},
-{
-"author_name": [
-"Holly Webb",
-"Marion Lindsay"
-],
-"cover_i": 10406473,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 2015,
-"ia": [
-"caseofblindbeetl0000webb"
-],
-"key": "/works/OL21092916W",
-"title": "Case of the Blind Beetle"
-},
-{
-"author_name": [
-"Michael Kaan"
-],
-"cover_i": 14531456,
-"ebook_access": "borrowable",
-"edition_count": 4,
-"first_publish_year": 2017,
-"ia": [
-"waterbeetlesnove0000kaan"
-],
-"key": "/works/OL21312155W",
-"title": "Water Beetles"
-},
-{
-"author_name": [
-"Mort Walker"
-],
-"cover_i": 6791293,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1977,
-"ia": [
-"illflipyouforitb00walk"
-],
-"key": "/works/OL15826748W",
-"title": "I'll flip you for it, Beetle Bailey"
-},
-{
-"author_name": [
-"Adam Blade"
-],
-"cover_i": 10379210,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 2007,
-"ia": [
-"quagosarmouredbe0000blad"
-],
-"key": "/works/OL20036524W",
-"title": "Quagos"
-},
-{
-"author_name": [
-"Mildred Walker"
-],
-"cover_i": 15047079,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 1947,
-"ia": [
-"quarry0000mild",
-"quarry0000mild_z7l5"
-],
-"key": "/works/OL34647612W",
-"title": "The Quarry"
-},
-{
-"author_name": [
-"Max Allan Collins"
-],
-"cover_i": 641402,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 2006,
-"ia": [
-"lastquarry00coll"
-],
-"key": "/works/OL15119272W",
-"title": "The Last Quarry (Hard Case Crime)"
-},
-{
-"author_name": [
-"Max Allan Collins"
-],
-"cover_i": 872052,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 2003,
-"ia": [
-"quarrysgreatesth0000coll"
-],
-"key": "/works/OL15119309W",
-"title": "Quarry's greatest hits"
-},
-{
-"author_name": [
-"Ianthe Jerrold"
-],
-"cover_i": 8135649,
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2015,
-"key": "/works/OL17839981W",
-"title": "Dead Man's Quarry"
-},
-{
-"author_name": [
-"Max Allan Collins"
-],
-"cover_i": 11969442,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 2016,
-"ia": [
-"quarry0000coll"
-],
-"key": "/works/OL25099550W",
-"title": "Quarry - TV Tie-In Edition"
-},
-{
-"author_name": [
-"Max Allan Collins"
-],
-"cover_i": 13926663,
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 1985,
-"key": "/works/OL15119305W",
-"title": "Quarry"
-},
-{
-"author_name": [
-"Rand McNally"
-],
-"ebook_access": "no_ebook",
-"edition_count": 12,
-"first_publish_year": 1980,
-"key": "/works/OL14902963W",
-"title": "Stone and Slate Quarrying and Mining"
-},
-{
-"author_name": [
-"Andrew Garve"
-],
-"cover_i": 9069618,
-"ebook_access": "no_ebook",
-"edition_count": 4,
-"first_publish_year": 1972,
-"key": "/works/OL5115085W",
-"title": "The case of Robert Quarry"
-},
-{
-"author_name": [
-"William Lee Stokes"
-],
-"ebook_access": "no_ebook",
-"edition_count": 7,
-"first_publish_year": 1985,
-"key": "/works/OL1371870W",
-"title": "The Cleveland-Lloyd dinosaur quarry"
-},
-{
-"author_name": [
-"Giles A. Lutz"
-],
-"cover_i": 10620105,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 1980,
-"ia": [
-"wildquarry0000lutz"
-],
-"key": "/works/OL4460335W",
-"title": "The Wild Quarry"
-},
-{
-"author_name": [
-"C. Terry Cline"
-],
-"cover_i": 4637784,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 1987,
-"ia": [
-"quarrycl00clin",
-"quarrycl00clin",
-"quarrycl00clin"
-],
-"key": "/works/OL4803678W",
-"title": "Quarry"
-},
-{
-"author_name": [
-"Harvey Grossinger"
-],
-"cover_i": 1555340,
-"ebook_access": "borrowable",
-"edition_count": 4,
-"first_publish_year": 1997,
-"ia": [
-"quarrystories00gros"
-],
-"key": "/works/OL3288804W",
-"title": "The quarry"
-},
-{
-"author_name": [
-"Max Allan Collins",
-"Chris Kipiniak"
-],
-"cover_i": 11969636,
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2016,
-"key": "/works/OL25101231W",
-"title": "Quarry's Deal"
-},
-{
-"author_name": [
-"Eric S. Tonks"
-],
-"cover_i": 3018742,
-"ebook_access": "no_ebook",
-"edition_count": 7,
-"first_publish_year": 1988,
-"key": "/works/OL4668436W",
-"title": "The Ironstone Quarries of the Midlands"
-},
-{
-"author_name": [
-"Sergei Ivanovich Tomkeieff"
-],
-"ebook_access": "no_ebook",
-"edition_count": 9,
-"first_publish_year": 1964,
-"key": "/works/OL10443149W",
-"title": "The economic geology of quarried materials"
-},
-{
-"author_name": [
-"Manning Coles"
-],
-"cover_i": 13864033,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 1956,
-"ia": [
-"birdwatchersquar0000mann"
-],
-"key": "/works/OL15126150W",
-"title": "Birdwatcher's quarry"
-},
-{
-"author_name": [
-"George Eliot"
-],
-"ebook_access": "no_ebook",
-"edition_count": 4,
-"first_publish_year": 1950,
-"key": "/works/OL20902W",
-"title": "Quarry for Middlemarch"
-},
-{
-"author_name": [
-"John Norman"
-],
-"cover_i": 10324414,
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2019,
-"key": "/works/OL21001798W",
-"title": "Quarry of Gor"
-},
-{
-"author_name": [
-"Harold H. Watts"
-],
-"cover_i": 14892782,
-"ebook_access": "borrowable",
-"edition_count": 5,
-"first_publish_year": 1953,
-"ia": [
-"bwb_KP-522-527"
-],
-"key": "/works/OL6794481W",
-"title": "Hound and quarry"
-},
-{
-"author_name": [
-"Tom Shaw"
-],
-"cover_i": 5795247,
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 1994,
-"key": "/works/OL5443453W",
-"title": "That Day at the Quarry"
-},
-{
-"author_name": [
-"Paul Henissart"
-],
-"cover_i": 13254753,
-"ebook_access": "no_ebook",
-"edition_count": 4,
-"first_publish_year": 1976,
-"key": "/works/OL4789532W",
-"title": "Winter quarry"
-},
-{
-"author_name": [
-"K.R. Bentley"
-],
-"ebook_access": "no_ebook",
-"edition_count": 6,
-"first_publish_year": 1984,
-"key": "/works/OL9685136W",
-"title": "Directory of Mines and Quarries"
-},
-{
-"author_name": [
-"Laurie Loveman"
-],
-"cover_i": 6717745,
-"ebook_access": "no_ebook",
-"edition_count": 4,
-"first_publish_year": 1998,
-"key": "/works/OL9225178W",
-"title": "The Quarry"
-},
-{
-"author_name": [
-"Jane White"
-],
-"cover_i": 8043256,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 1967,
-"ia": [
-"quarry00whit"
-],
-"key": "/works/OL6700111W",
-"title": "Quarry"
-},
-{
-"author_name": [
-"Jill Staynes",
-"Margaret Storey"
-],
-"cover_i": 2551232,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 1999,
-"ia": [
-"quarry0000stay_p7d1",
-"quarry0000stay"
-],
-"key": "/works/OL27062488W",
-"title": "Quarry"
-},
-{
-"author_name": [
-"Elizabeth Inman"
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 1994,
-"key": "/works/OL15555532W",
-"title": "The rake's quarry"
-},
-{
-"author_name": [
-"Max Allan Collins"
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2021,
-"key": "/works/OL26339365W",
-"title": "Quarry's Blood"
-},
-{
-"author_name": [
-"Max Allan Collins"
-],
-"cover_i": 12857988,
-"ebook_access": "printdisabled",
-"edition_count": 1,
-"first_publish_year": 2011,
-"ia": [
-"quarrysex0000coll"
-],
-"key": "/works/OL16498544W",
-"title": "Quarry's ex"
-},
-{
-"author_name": [
-"Walter Everett"
-],
-"cover_i": 3731978,
-"ebook_access": "printdisabled",
-"edition_count": 5,
-"first_publish_year": 1999,
-"ia": [
-"beatlesasmusicia00ever"
-],
-"key": "/works/OL1901200W",
-"title": "The Beatles as Musicians"
-},
-{
-"author_name": [
-"Mary E. Waller"
-],
-"ebook_access": "no_ebook",
-"edition_count": 5,
-"first_publish_year": 2008,
-"key": "/works/OL28875385W",
-"title": "Flamsted Quarries"
-},
-{
-"author_name": [
-"Sara Craven"
-],
-"cover_i": 12475309,
-"ebook_access": "borrowable",
-"edition_count": 6,
-"first_publish_year": 1988,
-"ia": [
-"witchsharvest0000crav",
-"witchsharvest0000crav_d2i7"
-],
-"key": "/works/OL3467599W",
-"title": "Witch's Harvest"
-},
-{
-"author_name": [
-"Yvonne Whittal"
-],
-"cover_i": 6791535,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 1982,
-"ia": [
-"lateharvest00whit"
-],
-"key": "/works/OL4225415W",
-"title": "Late Harvest"
-},
-{
-"author_name": [
-"Anne Hampson"
-],
-"cover_i": 6917464,
-"ebook_access": "printdisabled",
-"edition_count": 4,
-"first_publish_year": 1977,
-"ia": [
-"bitterharvest00hamp"
-],
-"key": "/works/OL4463844W",
-"title": "Bitter Harvest"
-},
-{
-"author_name": [
 "Anne Mather"
 ],
 "cover_i": 7321286,
@@ -41302,5 +40167,1242 @@
 "first_publish_year": 2020,
 "key": "/works/OL25450516W",
 "title": "Aqueducts of Rome"
+},
+{
+"ebook_access": "no_ebook",
+"edition_count": 4,
+"first_publish_year": 2002,
+"key": "/works/OL18497490W",
+"title": "Geology, glaciers & gold"
+},
+{
+"author_name": [
+"Luc Ferry"
+],
+"cover_i": 4204993,
+"ebook_access": "borrowable",
+"edition_count": 4,
+"first_publish_year": 1984,
+"ia": [
+"philosophiepolit0000ferr"
+],
+"key": "/works/OL136672W",
+"title": "Philosophie politique"
+},
+{
+"author_name": [
+"Joseph Ferry"
+],
+"cover_i": 6806783,
+"ebook_access": "printdisabled",
+"edition_count": 4,
+"first_publish_year": 2003,
+"ia": [
+"jeffersonmemoria00ferr",
+"jeffersonmemoria00ferr"
+],
+"key": "/works/OL15843577W",
+"title": "The Jefferson Memorial"
+},
+{
+"author_name": [
+"David Ferry"
+],
+"cover_i": 8055862,
+"ebook_access": "borrowable",
+"edition_count": 4,
+"first_publish_year": 1959,
+"ia": [
+"limitsofmortalit00f4"
+],
+"key": "/works/OL13763W",
+"title": "The limits of mortality"
+},
+{
+"author_name": [
+"Arthur John Maginnis"
+],
+"cover_i": 10920872,
+"ebook_access": "no_ebook",
+"edition_count": 5,
+"first_publish_year": 2018,
+"key": "/works/OL24386336W",
+"title": "The Atlantic Ferry"
+},
+{
+"author_name": [
+"Ferry Piekart"
+],
+"cover_i": 6796660,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 2004,
+"ia": [
+"playingwithstuff00piek",
+"playingwithstuff00piek"
+],
+"key": "/works/OL15832642W",
+"title": "Playing with stuff"
+},
+{
+"author_name": [
+"David Ferry"
+],
+"cover_i": 224983,
+"ebook_access": "no_ebook",
+"edition_count": 2,
+"first_publish_year": 1998,
+"key": "/works/OL19697564W",
+"title": "The odes of Horace"
+},
+{
+"author_name": [
+"Phillip Vannini"
+],
+"ebook_access": "no_ebook",
+"edition_count": 6,
+"first_publish_year": 2011,
+"key": "/works/OL16015189W",
+"title": "Ferry tales"
+},
+{
+"author_name": [
+"Graeme Andrews"
+],
+"cover_i": 8441034,
+"ebook_access": "no_ebook",
+"edition_count": 3,
+"first_publish_year": 1969,
+"key": "/works/OL3564472W",
+"title": "Ferries of Sydney"
+},
+{
+"author_name": [
+"Marghanita Laski"
+],
+"cover_i": 12363741,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1983,
+"ia": [
+"ferryjerusalemca0000lask"
+],
+"key": "/works/OL1400702W",
+"title": "Ferry the Jerusalem Cat"
+},
+{
+"author_name": [
+"Steven Ferry"
+],
+"ebook_access": "no_ebook",
+"edition_count": 7,
+"first_publish_year": 2008,
+"key": "/works/OL21777902W",
+"title": "John Tyler"
+},
+{
+"author_name": [
+"Steven Ferry"
+],
+"ebook_access": "no_ebook",
+"edition_count": 7,
+"first_publish_year": 2008,
+"key": "/works/OL21777958W",
+"title": "Franklin Pierce"
+},
+{
+"author_name": [
+"Steven Ferry"
+],
+"ebook_access": "no_ebook",
+"edition_count": 7,
+"first_publish_year": 2008,
+"key": "/works/OL21778081W",
+"title": "Martin Van Buren"
+},
+{
+"author_name": [
+"George Woodman Hilton"
+],
+"cover_i": 730330,
+"ebook_access": "borrowable",
+"edition_count": 4,
+"first_publish_year": 1962,
+"ia": [
+"greatlakescarfer0000hilt"
+],
+"key": "/works/OL2690919W",
+"title": "The Great Lakes car ferries"
+},
+{
+"author_name": [
+"Peter Ferry"
+],
+"cover_i": 6428407,
+"ebook_access": "no_ebook",
+"edition_count": 3,
+"first_publish_year": 2009,
+"key": "/works/OL15170793W",
+"title": "None of this Ever Really Happened"
+},
+{
+"author_name": [
+"Dani Sneed"
+],
+"ebook_access": "no_ebook",
+"edition_count": 4,
+"first_publish_year": 2013,
+"key": "/works/OL28372061W",
+"title": "Man Who Invented the Ferris Wheel"
+},
+{
+"author_name": [
+"D.T. Hornsby"
+],
+"cover_i": 1346563,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 1999,
+"ia": [
+"coastalshipsferr0000horn"
+],
+"key": "/works/OL8349184W",
+"title": "Coastal Ships and Ferries"
+},
+{
+"author_name": [
+"Fred F. Ferri"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2024,
+"key": "/works/OL38623772W",
+"title": "Ferri's Clinical Advisor 2025"
+},
+{
+"author_name": [
+"Kate DiCamillo"
+],
+"ebook_access": "no_ebook",
+"edition_count": 3,
+"first_publish_year": 2024,
+"key": "/works/OL39189578W",
+"title": "Ferris"
+},
+{
+"author_name": [
+"John Hendy"
+],
+"cover_i": 10640421,
+"ebook_access": "borrowable",
+"edition_count": 3,
+"first_publish_year": 1992,
+"ia": [
+"ferriesofscotlan0000hend",
+"ferriesofscotlan0000cows"
+],
+"key": "/works/OL109986W",
+"title": "Ferries of Scotland"
+},
+{
+"author_name": [
+"Benedict Blathwayt"
+],
+"cover_i": 11631351,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 2016,
+"ia": [
+"ferry0000blat"
+],
+"key": "/works/OL21128234W",
+"title": "Ferry"
+},
+{
+"author_name": [
+"John William Ferry"
+],
+"cover_i": 7390499,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 1960,
+"ia": [
+"historyofdepartm00ferr"
+],
+"key": "/works/OL7343949W",
+"title": "A history of the department store"
+},
+{
+"author_name": [
+"Gyula Illy\u00e9s"
+],
+"cover_i": 4524780,
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2000,
+"key": "/works/OL1708370W",
+"title": "Charon's ferry"
+},
+{
+"author_name": [
+"Jim Fitchlee"
+],
+"ebook_access": "no_ebook",
+"edition_count": 4,
+"first_publish_year": 2018,
+"key": "/works/OL38197362W",
+"title": "Ferry County PUD"
+},
+{
+"author_name": [
+"Neil Alexander Campbell"
+],
+"cover_i": 581911,
+"ebook_access": "borrowable",
+"edition_count": 57,
+"first_publish_year": 1987,
+"ia": [
+"biology0000neil_d2o4",
+"biologyconceptsc0000unse",
+"biologycamp00camp",
+"biology0000unse_h9g5",
+"campbellbiology0000reec",
+"campbellbiology0000reec_h4i4",
+"biology4ewithint00neil",
+"biology0000camp_h9r0",
+"biolog00camp",
+"biology03camp",
+"biology0000camp_b7z1",
+"biologie00camp",
+"biologyed00camp",
+"OL26973587M"
+],
+"key": "/works/OL1983087W",
+"title": "Biology"
+},
+{
+"author_name": [
+"Odette Ferry"
+],
+"cover_i": 10997203,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 1979,
+"ia": [
+"sissiimperatrice0000ferr"
+],
+"key": "/works/OL24430129W",
+"title": "Sissi imp\u5ee8atrice"
+},
+{
+"author_name": [
+"Luc Ferry"
+],
+"cover_i": 140706,
+"ebook_access": "printdisabled",
+"edition_count": 1,
+"first_publish_year": 1995,
+"ia": [
+"newecologicalord0000ferr"
+],
+"key": "/works/OL15281278W",
+"title": "The new ecological order"
+},
+{
+"author_name": [
+"D. K. Ferry",
+"David Ferry"
+],
+"ebook_access": "no_ebook",
+"edition_count": 6,
+"first_publish_year": 2001,
+"key": "/works/OL25156390W",
+"title": "Quantum Mechanics"
+},
+{
+"author_name": [
+"Fred F. Ferri MD  FACP"
+],
+"cover_i": 10194802,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 2010,
+"ia": [
+"ferrisdifferenti0000ferr"
+],
+"key": "/works/OL20873742W",
+"title": "Ferri's Differential Diagnosis"
+},
+{
+"author_name": [
+"Jules Ferry"
+],
+"ebook_access": "no_ebook",
+"edition_count": 6,
+"first_publish_year": 2018,
+"key": "/works/OL28446209W",
+"title": "Discours et Opinions de Jules Ferry"
+},
+{
+"author_name": [
+"Peter Ferry"
+],
+"ebook_access": "no_ebook",
+"edition_count": 6,
+"first_publish_year": 2020,
+"key": "/works/OL20735439W",
+"title": "Beards and Masculinity in American Literature"
+},
+{
+"author_name": [
+"Evan S. Connell"
+],
+"cover_i": 656105,
+"ebook_access": "borrowable",
+"edition_count": 11,
+"first_publish_year": 1920,
+"ia": [
+"mrsbridgenovel00conn",
+"mrsbridge00conn",
+"mrsbridgenovel0000conn",
+"mrsbridgenovel0000conn_j9k4"
+],
+"key": "/works/OL497524W",
+"title": "Mrs. Bridge"
+},
+{
+"author_name": [
+"Karen Kingsbury"
+],
+"cover_i": 7277832,
+"ebook_access": "printdisabled",
+"edition_count": 14,
+"first_publish_year": 2012,
+"ia": [
+"bridgenovel0000king_s0l0",
+"bridge0000king",
+"bridgenovel00king",
+"bridgenovel0000king_w4r3"
+],
+"key": "/works/OL16509773W",
+"title": "The Bridge"
+},
+{
+"author_name": [
+"Mwangi Gicheru"
+],
+"ebook_access": "no_ebook",
+"edition_count": 2,
+"first_publish_year": 1979,
+"key": "/works/OL5254180W",
+"title": "Across the bridge"
+},
+{
+"author_name": [
+"Stephen E. Ambrose"
+],
+"cover_i": 5276752,
+"ebook_access": "borrowable",
+"edition_count": 17,
+"first_publish_year": 1984,
+"ia": [
+"pegasusbridge6ju0000ambr",
+"pegasusbridge6ju0000step",
+"pegasusbridgejun00ambr",
+"pegasusbridgedda0000ambr",
+"pegasusbridge6ju0000ambr_h6b3"
+],
+"key": "/works/OL478571W",
+"title": "Pegasus Bridge"
+},
+{
+"author_name": [
+"Phoebe Waller-Bridge"
+],
+"cover_i": 9158389,
+"ebook_access": "no_ebook",
+"edition_count": 8,
+"first_publish_year": 2014,
+"key": "/works/OL20502590W",
+"title": "Fleabag"
+},
+{
+"author_name": [
+"Hildegarde Hoyt Swift",
+"Lynd Ward"
+],
+"cover_i": 113538,
+"ebook_access": "borrowable",
+"edition_count": 17,
+"first_publish_year": 1942,
+"ia": [
+"littleredlightho0000hild",
+"littleredlightho00swif",
+"littleredlightho0000swif_a7s6",
+"littleredlightho0000swif"
+],
+"key": "/works/OL129267W",
+"title": "The little red lighthouse and the great gray bridge"
+},
+{
+"author_name": [
+"Emma Goldrick"
+],
+"cover_i": 6924568,
+"ebook_access": "borrowable",
+"edition_count": 3,
+"first_publish_year": 1985,
+"ia": [
+"troublewithbridg00gold"
+],
+"key": "/works/OL3498963W",
+"title": "The trouble with bridges"
+},
+{
+"author_name": [
+"Hammond Innes"
+],
+"cover_i": 2386631,
+"ebook_access": "borrowable",
+"edition_count": 33,
+"first_publish_year": 1951,
+"ia": [
+"airbridgestrange0000inne",
+"airbrigdge0000unse",
+"airbridge0000inne_l7g4",
+"airbridge0000inne",
+"bwb_W8-CAF-092"
+],
+"key": "/works/OL1822005W",
+"title": "Air Bridge"
+},
+{
+"author_name": [
+"Kenneth Oppel"
+],
+"cover_i": 27817,
+"ebook_access": "public",
+"edition_count": 25,
+"first_publish_year": 1997,
+"ia": [
+"airborn00oppe",
+"filsduciel0000oppe",
+"airborn0000oppe_e6k8",
+"airborn2004oppe",
+"airbornoppe00oppe",
+"airborn0000oppe_h2b7",
+"airbornoppe00oppe",
+"airborn0000oppe_y5l8",
+"airborn00oppe_0"
+],
+"key": "/works/OL19328W",
+"title": "Airborn"
+},
+{
+"author_name": [
+"Jeff Rubens"
+],
+"cover_i": 7007354,
+"ebook_access": "borrowable",
+"edition_count": 6,
+"first_publish_year": 1969,
+"ia": [
+"secretsofwinning00rube"
+],
+"key": "/works/OL4327806W",
+"title": "The secrets of winning bridge"
+},
+{
+"author_name": [
+"David Bird",
+"Tim Bourke"
+],
+"cover_i": 2099358,
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2004,
+"key": "/works/OL8722827M",
+"title": "Planning In Notrump Contracts (Test Your Bridge Technique)"
+},
+{
+"author_name": [
+"Marty Neumeier"
+],
+"cover_i": 193786,
+"ebook_access": "printdisabled",
+"edition_count": 4,
+"first_publish_year": 2003,
+"ia": [
+"brandgaphowtobr00neum",
+"brandgaphowtobri00neum"
+],
+"key": "/works/OL120747W",
+"title": "The brand gap"
+},
+{
+"author_name": [
+"Rachel Bridge"
+],
+"cover_i": 7455683,
+"ebook_access": "printdisabled",
+"edition_count": 2,
+"first_publish_year": 2012,
+"ia": [
+"howtostartbusine0000brid"
+],
+"key": "/works/OL17376379W",
+"title": "How To Start A Business Without Any Money"
+},
+{
+"author_name": [
+"Bina Idonije"
+],
+"cover_i": 13200578,
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2022,
+"key": "/works/OL31812941W",
+"title": "Bridges are for burning"
+},
+{
+"author_name": [
+"Rainbow Rowell"
+],
+"cover_i": 8736824,
+"ebook_access": "printdisabled",
+"edition_count": 9,
+"first_publish_year": 2015,
+"ia": [
+"carryonrisefallo0000rowe_d9e7"
+],
+"key": "/works/OL17339151W",
+"title": "Carry On"
+},
+{
+"author_name": [
+"David L. Paterson"
+],
+"cover_i": 8329699,
+"ebook_access": "printdisabled",
+"edition_count": 3,
+"first_publish_year": 2006,
+"ia": [
+"isbn_9780061215315",
+"isbn_9780061215315"
+],
+"key": "/works/OL18165216W",
+"title": "Bridge to Terabithia"
+},
+{
+"author_name": [
+"John Stewart"
+],
+"cover_i": 55610,
+"ebook_access": "printdisabled",
+"edition_count": 16,
+"first_publish_year": 1973,
+"ia": [
+"bridgesnotwallsb0000unse",
+"bridgesnotwalls00john"
+],
+"key": "/works/OL3531561W",
+"title": "Bridges Not Walls"
+},
+{
+"author_name": [
+"Markus Zusak"
+],
+"cover_i": 11473158,
+"ebook_access": "printdisabled",
+"edition_count": 26,
+"first_publish_year": 2018,
+"ia": [
+"bridgeofclay0000mark",
+"bridgeofclay0000zusa_o4c0",
+"glinianymost0000unse",
+"bridgeofclay0000zusa_e6c6",
+"bridgeofclay0000zusa_j7a5",
+"bridgeofclay0000zusa_s1n0",
+"lepontdargile0000zusa",
+"puentedeclaybrid0000mark",
+"bridgeofclay0000zusa_q5y6",
+"bridgeofclay0000mark_r1k9",
+"bridgeofclay0000zusa"
+],
+"key": "/works/OL19755561W",
+"title": "Bridge of Clay"
+},
+{
+"author_name": [
+"Gregg Braden"
+],
+"cover_i": 750542,
+"ebook_access": "printdisabled",
+"edition_count": 4,
+"first_publish_year": 2006,
+"ia": [
+"divinematrixbrid00brad"
+],
+"key": "/works/OL8198181W",
+"title": "The Divine Matrix"
+},
+{
+"author_name": [
+"Leslie McFarlane"
+],
+"cover_i": 10653359,
+"ebook_access": "printdisabled",
+"edition_count": 11,
+"first_publish_year": 1965,
+"ia": [
+"mysteryofspiralb00dixo",
+"mysteryofspiralb0000fran"
+],
+"key": "/works/OL39986W",
+"title": "The Mystery of the Spiral Bridge"
+},
+{
+"author_name": [
+"Ruby Bridges",
+"Grace Maccarone"
+],
+"cover_i": 9485244,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 2003,
+"ia": [
+"letsreadaboutrub00bri_6pq"
+],
+"key": "/works/OL1995892W",
+"title": "Let's read about-- Ruby Bridges"
+},
+{
+"author_name": [
+"Hart Crane"
+],
+"cover_i": 4502529,
+"ebook_access": "borrowable",
+"edition_count": 8,
+"first_publish_year": 1930,
+"ia": [
+"bridgepoem0000cran_g5q5",
+"bridgepoem0000cran"
+],
+"key": "/works/OL3363219W",
+"title": "The bridge"
+},
+{
+"author_name": [
+"Philip Pullman"
+],
+"cover_i": 197391,
+"ebook_access": "printdisabled",
+"edition_count": 18,
+"first_publish_year": 1990,
+"ia": [
+"brokenbridge0000pull",
+"brokenbridge0000pull_z5v1",
+"brokenbridge00pull",
+"brokenbridge0000pull_w8n1",
+"brokenbridge0000pull_p"
+],
+"key": "/works/OL29015W",
+"title": "The Broken Bridge"
+},
+{
+"author_name": [
+"Naomi Judd"
+],
+"cover_i": 4966514,
+"ebook_access": "borrowable",
+"edition_count": 7,
+"first_publish_year": 1993,
+"ia": [
+"lovecanbuildbrid00judd"
+],
+"key": "/works/OL98605W",
+"title": "Love can build a bridge"
+},
+{
+"author_name": [
+"William B. Gudykunst"
+],
+"cover_i": 3945346,
+"ebook_access": "printdisabled",
+"edition_count": 7,
+"first_publish_year": 1991,
+"ia": [
+"bridgingdifferen00gudy",
+"bridgingdifferen00gudy_0"
+],
+"key": "/works/OL1834977W",
+"title": "Bridging differences"
+},
+{
+"author_name": [
+"Nicola Baxter"
+],
+"cover_i": 1395980,
+"ebook_access": "borrowable",
+"edition_count": 5,
+"first_publish_year": 2000,
+"ia": [
+"bridgestopicbook00nico",
+"pyramids0000macd_b5b7"
+],
+"key": "/works/OL100711W",
+"title": "Bridges"
+},
+{
+"author_name": [
+"Roger Zelazny"
+],
+"cover_i": 4437725,
+"ebook_access": "borrowable",
+"edition_count": 6,
+"first_publish_year": 1976,
+"ia": [
+"bridgeofashes0000roge",
+"bridgeofashes00zela"
+],
+"key": "/works/OL13963W",
+"title": "Bridge of Ashes"
+},
+{
+"author_name": [
+"Cornelius Ryan"
+],
+"cover_i": 3334560,
+"ebook_access": "borrowable",
+"edition_count": 32,
+"first_publish_year": 1631,
+"ia": [
+"bridgetoofarbyco0000corn",
+"bridgetoofar0000ryan_c9p4",
+"bridgeofar00ryan_2w7",
+"bridgetoofar00ryan_0",
+"bridgetoofar00corn",
+"bridgetoofar0000ryan_q7y8",
+"bridgetoofar0000ryan_g0d9",
+"bycorneliusryanb0000corn"
+],
+"key": "/works/OL3086889W",
+"title": "A Bridge Too Far"
+},
+{
+"author_name": [
+"Julie Orringer"
+],
+"cover_i": 6680990,
+"ebook_access": "printdisabled",
+"edition_count": 3,
+"first_publish_year": 2010,
+"ia": [
+"invisiblebridgen0000orri"
+],
+"key": "/works/OL15026614W",
+"title": "The Invisible Bridge"
+},
+{
+"author_name": [
+"George Mann"
+],
+"cover_i": 7018796,
+"ebook_access": "printdisabled",
+"edition_count": 6,
+"first_publish_year": 2008,
+"ia": [
+"affinitybridgene0000mann",
+"affinitybridge00geor"
+],
+"key": "/works/OL11293540W",
+"title": "The Affinity Bridge"
+},
+{
+"author_name": [
+"William C. Bullitt"
+],
+"cover_i": 1770676,
+"ebook_access": "printdisabled",
+"edition_count": 5,
+"first_publish_year": 1946,
+"ia": [
+"greatglobeitself0000bull"
+],
+"key": "/works/OL2594501W",
+"title": "The great globe itself"
+},
+{
+"author_name": [
+"Cathy Burnett",
+"Guy Merchant",
+"Julia Davies",
+"Jennifer Rowsell"
+],
+"ebook_access": "no_ebook",
+"edition_count": 7,
+"first_publish_year": 2014,
+"key": "/works/OL21262877W",
+"title": "New Literacies Around the Globe"
+},
+{
+"author_name": [
+"Globe Fearon"
+],
+"ebook_access": "borrowable",
+"edition_count": 6,
+"first_publish_year": 1999,
+"ia": [
+"globeliteraturee0000glob"
+],
+"key": "/works/OL8605985W",
+"title": "Globe Literature Enrichment Workbook"
+},
+{
+"author_name": [
+"Denise Chong"
+],
+"cover_i": 3881501,
+"ebook_access": "borrowable",
+"edition_count": 9,
+"first_publish_year": 1994,
+"ia": [
+"concubineschildr00chon_1",
+"concubineschildr0000chon",
+"concubineschildr00chon",
+"concubineschildr0000chon_f8z9",
+"concubineschildr00chon_0",
+"concubineschildr0000chon_u2h8"
+],
+"key": "/works/OL3498997W",
+"title": "The concubine's children"
+},
+{
+"author_name": [
+"Geoffrey Baym"
+],
+"cover_i": 7663231,
+"ebook_access": "no_ebook",
+"edition_count": 6,
+"first_publish_year": 2012,
+"key": "/works/OL17480707W",
+"title": "News Parody And Political Satire Across The Globe"
+},
+{
+"author_name": [
+"Wilbur A. Haak",
+"Lynn F. Haak",
+"Gila County Historical Museum Archive"
+],
+"cover_i": 5506267,
+"ebook_access": "no_ebook",
+"edition_count": 5,
+"first_publish_year": 2008,
+"key": "/works/OL9443381W",
+"title": "Globe"
+},
+{
+"author_name": [
+"Ann Hironaka"
+],
+"cover_i": 9408842,
+"ebook_access": "no_ebook",
+"edition_count": 7,
+"first_publish_year": 2014,
+"key": "/works/OL20724725W",
+"title": "Greening the Globe"
+},
+{
+"author_name": [
+"Robert J. House"
+],
+"cover_i": 7364841,
+"ebook_access": "printdisabled",
+"edition_count": 4,
+"first_publish_year": 2013,
+"ia": [
+"strategicleaders0000hous"
+],
+"key": "/works/OL17193541W",
+"title": "Strategic Leadership Across Cultures"
+},
+{
+"author_name": [
+"Marie Rutkoski"
+],
+"cover_i": 6297302,
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2009,
+"key": "/works/OL11910081W",
+"title": "The Celestial Globe"
+},
+{
+"author_name": [
+"Baron Georges Cuvier",
+"Jean Chr\u00e9tien Ferdinand Hoefer",
+"Ferdinand Hoefer",
+"Jean Pierre Flourens",
+"Ambroise Firmin-Didot"
+],
+"cover_i": 5734089,
+"ebook_access": "public",
+"edition_count": 35,
+"first_publish_year": 1813,
+"ia": [
+"discourseonrevol00cuvi",
+"discourssurlesrv00cuvi",
+"discourssurlesre00cuvi",
+"essayontheoryofe00cuvirich",
+"theoryofeessayon00cuvirich",
+"discourssurlesr00firmgoog",
+"discourssurlesr00hoefgoog",
+"discourssurlesr01cuvigoog",
+"adiscourseonrev00cuvigoog",
+"discourssurlesr02cuvigoog",
+"essayontheoryea00jamegoog"
+],
+"key": "/works/OL198899W",
+"title": "Discours sur les re\u0301volutions de la surface du globe"
+},
+{
+"author_name": [
+"Alfred W. McCoy"
+],
+"cover_i": 13239278,
+"ebook_access": "no_ebook",
+"edition_count": 2,
+"first_publish_year": 2021,
+"key": "/works/OL25471851W",
+"title": "To Govern the Globe"
+},
+{
+"author_name": [
+"Dominic Dromgoole"
+],
+"ebook_access": "no_ebook",
+"edition_count": 5,
+"first_publish_year": 2017,
+"key": "/works/OL20052223W",
+"title": "Hamlet Globe to globe"
+},
+{
+"author_name": [
+"Connie A. Moore"
+],
+"cover_i": 8177439,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 1993,
+"ia": [
+"snowglobescollec0000moor"
+],
+"key": "/works/OL3624614W",
+"title": "Snow globes"
+},
+{
+"author_name": [
+"Billings"
+],
+"ebook_access": "no_ebook",
+"edition_count": 2,
+"first_publish_year": 1989,
+"key": "/works/OL8431410W",
+"title": "Maps, Globes and Graphs"
+},
+{
+"author_name": [
+"Globe Fearon"
+],
+"cover_i": 8112288,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 2004,
+"ia": [
+"globefearonconce00glob"
+],
+"key": "/works/OL17821684W",
+"title": "The human body"
+},
+{
+"author_name": [
+"Sam Epstein",
+"Beryl Epstein",
+"Laszlo Roth"
+],
+"cover_i": 7161736,
+"ebook_access": "borrowable",
+"edition_count": 3,
+"first_publish_year": 1959,
+"ia": [
+"firstbookofmapsa00epst",
+"firstbookofmapsg00epst"
+],
+"key": "/works/OL1590577W",
+"title": "The First Book of Maps and Globes"
+},
+{
+"author_name": [
+"Ron Stelle"
+],
+"cover_i": 11352299,
+"ebook_access": "no_ebook",
+"edition_count": 3,
+"first_publish_year": 2014,
+"key": "/works/OL24658569W",
+"title": "The Globe"
+},
+{
+"author_name": [
+"Globe Fearon"
+],
+"ebook_access": "no_ebook",
+"edition_count": 6,
+"first_publish_year": 1999,
+"key": "/works/OL8605986W",
+"title": "Globe Literature Fine Arts Notes"
+},
+{
+"author_name": [
+"Globe Fearon"
+],
+"ebook_access": "no_ebook",
+"edition_count": 6,
+"first_publish_year": 1999,
+"key": "/works/OL8605987W",
+"title": "Globe Literature Teacher's Resource Book"
+},
+{
+"author_name": [
+"Globe Fearon"
+],
+"cover_i": 5140627,
+"ebook_access": "borrowable",
+"edition_count": 3,
+"first_publish_year": 1996,
+"ia": [
+"gethiredfindingj0000anem",
+"janusemployabili0000glob"
+],
+"key": "/works/OL8605974W",
+"title": "The Janus Employability Skills Program"
+},
+{
+"author_name": [
+"C. Walter Hodges"
+],
+"cover_i": 4476931,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 1973,
+"ia": [
+"shakespearesseco0000hodg"
+],
+"key": "/works/OL1923419W",
+"title": "Shakespeare's Second Globe"
+},
+{
+"author_name": [
+"Veronica Meewes"
+],
+"cover_i": 12897048,
+"ebook_access": "borrowable",
+"edition_count": 5,
+"first_publish_year": 2015,
+"ia": [
+"fishsaucecookboo0000meew"
+],
+"key": "/works/OL20008620W",
+"title": "The fish sauce cookbook"
+},
+{
+"author_name": [
+"Florian Stadtler",
+"Ole Birk Laursen"
+],
+"cover_i": 13499910,
+"ebook_access": "no_ebook",
+"edition_count": 6,
+"first_publish_year": 2015,
+"key": "/works/OL21284326W",
+"title": "Networking the Globe"
+},
+{
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 1806,
+"key": "/works/OL17487300M",
+"title": "Observations on the sowing of spring wheat, and on the cultivation of the globe turnip"
+},
+{
+"author_name": [
+"Karma Brown"
+],
+"cover_i": 9256216,
+"ebook_access": "no_ebook",
+"edition_count": 8,
+"first_publish_year": 2019,
+"key": "/works/OL20639916W",
+"title": "Recipe for a Perfect Wife"
+},
+{
+"author_name": [
+"Sathnam Sanghera"
+],
+"cover_i": 14658197,
+"ebook_access": "no_ebook",
+"edition_count": 4,
+"first_publish_year": 2024,
+"key": "/works/OL37568245W",
+"title": "Empireworld"
+},
+{
+"author_name": [
+"Crystal Abidin",
+"Megan Lindsay Brown"
+],
+"ebook_access": "no_ebook",
+"edition_count": 4,
+"first_publish_year": 2018,
+"key": "/works/OL21195296W",
+"title": "Microcelebrity Around the Globe"
+},
+{
+"author_name": [
+"Ben Green"
+],
+"cover_i": 1066673,
+"ebook_access": "printdisabled",
+"edition_count": 3,
+"first_publish_year": 2005,
+"ia": [
+"spinningglobe00gree",
+"spinninggloberis0000gree"
+],
+"key": "/works/OL1992915W",
+"title": "Spinning the Globe"
+},
+{
+"author_name": [
+"Samuel Birley Rowbotham"
+],
+"cover_i": 10657614,
+"ebook_access": "no_ebook",
+"edition_count": 5,
+"first_publish_year": 2007,
+"key": "/works/OL24209625W",
+"title": "Zetetic Astronomy"
+},
+{
+"author_name": [
+"David Lowe",
+"Das, Dilip K."
+],
+"cover_i": 13518010,
+"ebook_access": "no_ebook",
+"edition_count": 13,
+"first_publish_year": 2013,
+"key": "/works/OL21288645W",
+"title": "Trends in the Judiciary"
 }
 ]

@@ -1086,5 +1086,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-11T06:44:59Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 99.85.0.0/17",
+  "date": "2026-11-11",
+  "dateLabel": "sampled",
+  "count": 320,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"99.85.0.0/17\",\n  \"origin\": \"7018\",\n  \"time\": \"2017-12-14T08:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"99.85.0.0/17\",\n  \"origin\": \"7018\",\n  \"time\": \"2026-11-11T16:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 320,\n   \"total_ris_peers\": 320\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 7018,\n   \"route_objects\": []\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/99.85.0.0/17",
+  "query": "RIPEstat routing-status 99.85.0.0/17",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-11T17:21:22Z"
  }
 ]
