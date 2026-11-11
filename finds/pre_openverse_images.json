@@ -142932,5 +142932,3475 @@
 "detail_url": "https://api.openverse.org/v1/images/31e9d8e8-63ac-4b6a-bf03-674615c0ebd4/",
 "related_url": "https://api.openverse.org/v1/images/31e9d8e8-63ac-4b6a-bf03-674615c0ebd4/related/",
 "unstable__sensitivity": []
+},
+{
+"id": "8b1370b4-0213-4a81-b56b-1733563b9248",
+"title": "Woodcut illustration of Nicholas of Cusa (1401-1464), cardinal, theologian and envoy of Pope Eugene IV, holding a girdle book. Used by Georg Rhaw of Wittenberg",
+"indexed_on": "2020-04-17T01:16:20.993840Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/5954917032",
+"url": "https://live.staticflickr.com/6147/5954917032_5395e1b39a_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gc5k9893538b",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "germancultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "girdlebooks",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "metabiblon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nicholasofcusacardinal14011464",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rhawgeorg14881548",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "wittenberggermany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "adult",
+"accuracy": 0.95257,
+"unstable__provider": "clarifai"
+},
+{
+"name": "art",
+"accuracy": 0.9751,
+"unstable__provider": "clarifai"
+},
+{
+"name": "illustration",
+"accuracy": 0.97836,
+"unstable__provider": "clarifai"
+},
+{
+"name": "manuscript",
+"accuracy": 0.90406,
+"unstable__provider": "clarifai"
+},
+{
+"name": "old",
+"accuracy": 0.9393,
+"unstable__provider": "clarifai"
+},
+{
+"name": "painting",
+"accuracy": 0.94017,
+"unstable__provider": "clarifai"
+},
+{
+"name": "paper",
+"accuracy": 0.92968,
+"unstable__provider": "clarifai"
+},
+{
+"name": "people",
+"accuracy": 0.99224,
+"unstable__provider": "clarifai"
+},
+{
+"name": "print",
+"accuracy": 0.9792,
+"unstable__provider": "clarifai"
+},
+{
+"name": "retro",
+"accuracy": 0.92187,
+"unstable__provider": "clarifai"
+},
+{
+"name": "text",
+"accuracy": 0.97897,
+"unstable__provider": "clarifai"
+},
+{
+"name": "vintage",
+"accuracy": 0.93651,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Woodcut illustration of Nicholas of Cusa (1401-1464), cardinal, theologian and envoy of Pope Eugene IV, holding a girdle book. Used by Georg Rhaw of Wittenberg\" by Provenance Online Project is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 780,
+"thumbnail": "https://api.openverse.org/v1/images/8b1370b4-0213-4a81-b56b-1733563b9248/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/8b1370b4-0213-4a81-b56b-1733563b9248/",
+"related_url": "https://api.openverse.org/v1/images/8b1370b4-0213-4a81-b56b-1733563b9248/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "8e438a1d-c7a4-4feb-b21c-d1def924278d",
+"title": "Text and illustrations within 2-part woodcut border used by Matthias Hupfuff of Strasbourg",
+"indexed_on": "2020-04-17T05:01:19.651721Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/6010956535",
+"url": "https://live.staticflickr.com/6026/6010956535_4319d08eef_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "bellows",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "books",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fools",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gc5l9748512h",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "germancultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hupfuffmatthiasd1520",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "strasbourgfrance",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "adult",
+"accuracy": 0.97169,
+"unstable__provider": "clarifai"
+},
+{
+"name": "art",
+"accuracy": 0.93396,
+"unstable__provider": "clarifai"
+},
+{
+"name": "engraving",
+"accuracy": 0.91439,
+"unstable__provider": "clarifai"
+},
+{
+"name": "group",
+"accuracy": 0.93849,
+"unstable__provider": "clarifai"
+},
+{
+"name": "illustration",
+"accuracy": 0.95235,
+"unstable__provider": "clarifai"
+},
+{
+"name": "man",
+"accuracy": 0.95569,
+"unstable__provider": "clarifai"
+},
+{
+"name": "one",
+"accuracy": 0.96943,
+"unstable__provider": "clarifai"
+},
+{
+"name": "paper",
+"accuracy": 0.9311,
+"unstable__provider": "clarifai"
+},
+{
+"name": "people",
+"accuracy": 0.99517,
+"unstable__provider": "clarifai"
+},
+{
+"name": "portrait",
+"accuracy": 0.95414,
+"unstable__provider": "clarifai"
+},
+{
+"name": "print",
+"accuracy": 0.99285,
+"unstable__provider": "clarifai"
+},
+{
+"name": "retro",
+"accuracy": 0.93668,
+"unstable__provider": "clarifai"
+},
+{
+"name": "text",
+"accuracy": 0.91714,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Text and illustrations within 2-part woodcut border used by Matthias Hupfuff of Strasbourg\" by Provenance Online Project is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 721,
+"thumbnail": "https://api.openverse.org/v1/images/8e438a1d-c7a4-4feb-b21c-d1def924278d/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/8e438a1d-c7a4-4feb-b21c-d1def924278d/",
+"related_url": "https://api.openverse.org/v1/images/8e438a1d-c7a4-4feb-b21c-d1def924278d/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "da3d2dac-78ed-4e67-9aba-e043ba9aac43",
+"title": "Woodcut ('Sauritt des Papsts') after Lucas Cranach the Elder, used by Christian R\u9430inger the Elder of Magdeburg, of the pope riding a sow, holding steaming excrement",
+"indexed_on": "2020-04-16T05:28:19.577495Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/5615492671",
+"url": "https://live.staticflickr.com/5022/5615492671_f30d69557a_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "cranachlucas14721553",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cultureclassbestiary",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gc5f5948550e",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "germancultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "magdeburggermany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "metabiblon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pigs",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "popes",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ru00f6dingerchristiand1557",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "tsc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "adult",
+"accuracy": 0.92204,
+"unstable__provider": "clarifai"
+},
+{
+"name": "art",
+"accuracy": 0.97802,
+"unstable__provider": "clarifai"
+},
+{
+"name": "chalk out",
+"accuracy": 0.91854,
+"unstable__provider": "clarifai"
+},
+{
+"name": "illustration",
+"accuracy": 0.99041,
+"unstable__provider": "clarifai"
+},
+{
+"name": "man",
+"accuracy": 0.92305,
+"unstable__provider": "clarifai"
+},
+{
+"name": "manuscript",
+"accuracy": 0.94261,
+"unstable__provider": "clarifai"
+},
+{
+"name": "old",
+"accuracy": 0.95464,
+"unstable__provider": "clarifai"
+},
+{
+"name": "one",
+"accuracy": 0.90301,
+"unstable__provider": "clarifai"
+},
+{
+"name": "painting",
+"accuracy": 0.95656,
+"unstable__provider": "clarifai"
+},
+{
+"name": "paper",
+"accuracy": 0.96612,
+"unstable__provider": "clarifai"
+},
+{
+"name": "people",
+"accuracy": 0.98958,
+"unstable__provider": "clarifai"
+},
+{
+"name": "print",
+"accuracy": 0.99074,
+"unstable__provider": "clarifai"
+},
+{
+"name": "retro",
+"accuracy": 0.95879,
+"unstable__provider": "clarifai"
+},
+{
+"name": "text",
+"accuracy": 0.95288,
+"unstable__provider": "clarifai"
+},
+{
+"name": "vintage",
+"accuracy": 0.93847,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Woodcut ('Sauritt des Papsts') after Lucas Cranach the Elder, used by Christian R\u00f6dinger the Elder of Magdeburg, of the pope riding a sow, holding steaming excrement\" by Provenance Online Project is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 827,
+"thumbnail": "https://api.openverse.org/v1/images/da3d2dac-78ed-4e67-9aba-e043ba9aac43/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/da3d2dac-78ed-4e67-9aba-e043ba9aac43/",
+"related_url": "https://api.openverse.org/v1/images/da3d2dac-78ed-4e67-9aba-e043ba9aac43/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "639677cb-27f1-4cad-854a-222ac8414e38",
+"title": "Woodcut illustration (possibly representing the devil as a bird-catcher?) used by Heinrich Stayner of Augsburg",
+"indexed_on": "2020-04-18T07:45:20.342110Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/6581250305",
+"url": "https://live.staticflickr.com/7162/6581250305_59a80a094a_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "augsburggermany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "behamhanssebald15001550",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cultureclassbestiary",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gc5sc963525bb",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "germancultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "staynerheinrich1548",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "adult",
+"accuracy": 0.93966,
+"unstable__provider": "clarifai"
+},
+{
+"name": "art",
+"accuracy": 0.97595,
+"unstable__provider": "clarifai"
+},
+{
+"name": "chalk out",
+"accuracy": 0.97965,
+"unstable__provider": "clarifai"
+},
+{
+"name": "engraving",
+"accuracy": 0.9686,
+"unstable__provider": "clarifai"
+},
+{
+"name": "group",
+"accuracy": 0.92199,
+"unstable__provider": "clarifai"
+},
+{
+"name": "illustration",
+"accuracy": 0.99249,
+"unstable__provider": "clarifai"
+},
+{
+"name": "man",
+"accuracy": 0.95672,
+"unstable__provider": "clarifai"
+},
+{
+"name": "people",
+"accuracy": 0.99488,
+"unstable__provider": "clarifai"
+},
+{
+"name": "print",
+"accuracy": 0.98706,
+"unstable__provider": "clarifai"
+},
+{
+"name": "retro",
+"accuracy": 0.94445,
+"unstable__provider": "clarifai"
+},
+{
+"name": "vintage",
+"accuracy": 0.90728,
+"unstable__provider": "clarifai"
+},
+{
+"name": "woodcut",
+"accuracy": 0.97812,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Woodcut illustration (possibly representing the devil as a bird-catcher?) used by Heinrich Stayner of Augsburg\" by Provenance Online Project is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 938,
+"thumbnail": "https://api.openverse.org/v1/images/639677cb-27f1-4cad-854a-222ac8414e38/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/639677cb-27f1-4cad-854a-222ac8414e38/",
+"related_url": "https://api.openverse.org/v1/images/639677cb-27f1-4cad-854a-222ac8414e38/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "9e855fbb-75c9-4bdf-a155-1f9dbed2d615",
+"title": "Woodcut depiction of the rosary (with printed instructions for prayer in Latin above) used by Friedrich Peypus of Nuremberg",
+"indexed_on": "2020-04-17T05:01:19.651721Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/6010953799",
+"url": "https://live.staticflickr.com/6005/6010953799_385e18904d_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "barbarasaint",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "catherineofalexandriasaint",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "davidkingofisrael",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "francisofassisisaint11821226",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gc5l7888499r1514",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "germancultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gregoryipopeca540604",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "jeromesaint419or420",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "jesuschrist",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "johntheapostlesaint",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "johnthebaptistsaint",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lukesaint",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "marksaint",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "maryblessedvirginsaint",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "matthewtheapostlesaint",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mosesbiblicalleader",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "nuremberggermany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "paultheapostlesaint",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "petertheapostlesaint",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "peypusfriedrich14851534",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "purgatory",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "rosary",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "antique",
+"accuracy": 0.91413,
+"unstable__provider": "clarifai"
+},
+{
+"name": "art",
+"accuracy": 0.9653,
+"unstable__provider": "clarifai"
+},
+{
+"name": "currency",
+"accuracy": 0.91105,
+"unstable__provider": "clarifai"
+},
+{
+"name": "desktop",
+"accuracy": 0.9222,
+"unstable__provider": "clarifai"
+},
+{
+"name": "document",
+"accuracy": 0.919,
+"unstable__provider": "clarifai"
+},
+{
+"name": "dollar",
+"accuracy": 0.92738,
+"unstable__provider": "clarifai"
+},
+{
+"name": "illustration",
+"accuracy": 0.97184,
+"unstable__provider": "clarifai"
+},
+{
+"name": "manuscript",
+"accuracy": 0.90722,
+"unstable__provider": "clarifai"
+},
+{
+"name": "money",
+"accuracy": 0.91894,
+"unstable__provider": "clarifai"
+},
+{
+"name": "note",
+"accuracy": 0.90387,
+"unstable__provider": "clarifai"
+},
+{
+"name": "old",
+"accuracy": 0.9656,
+"unstable__provider": "clarifai"
+},
+{
+"name": "paper",
+"accuracy": 0.98583,
+"unstable__provider": "clarifai"
+},
+{
+"name": "print",
+"accuracy": 0.98121,
+"unstable__provider": "clarifai"
+},
+{
+"name": "retro",
+"accuracy": 0.93347,
+"unstable__provider": "clarifai"
+},
+{
+"name": "symbol",
+"accuracy": 0.93356,
+"unstable__provider": "clarifai"
+},
+{
+"name": "text",
+"accuracy": 0.95541,
+"unstable__provider": "clarifai"
+},
+{
+"name": "vintage",
+"accuracy": 0.93946,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Woodcut depiction of the rosary (with printed instructions for prayer in Latin above) used by Friedrich Peypus of Nuremberg\" by Provenance Online Project is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 731,
+"thumbnail": "https://api.openverse.org/v1/images/9e855fbb-75c9-4bdf-a155-1f9dbed2d615/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/9e855fbb-75c9-4bdf-a155-1f9dbed2d615/",
+"related_url": "https://api.openverse.org/v1/images/9e855fbb-75c9-4bdf-a155-1f9dbed2d615/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "fe121084-740b-4769-b6f1-43789ca32275",
+"title": "Woodcut illustration of a Roman woman (Romana) suckling her mother in prison",
+"indexed_on": "2020-04-09T20:01:17.444785Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/6693280617",
+"url": "https://live.staticflickr.com/7031/6693280617_2105081ae8_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incb720",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunablecollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunables",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunabula",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "istcib00720000",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "romana",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ulmgermany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "zainerjohannesd1541",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Woodcut illustration of a Roman woman (Romana) suckling her mother in prison\" by Provenance Online Project is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 816,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/fe121084-740b-4769-b6f1-43789ca32275/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/fe121084-740b-4769-b6f1-43789ca32275/",
+"related_url": "https://api.openverse.org/v1/images/fe121084-740b-4769-b6f1-43789ca32275/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "ce8ca093-0423-4fc9-a84c-f23450e673c4",
+"title": "Woodcut illustration of Cassandra's prophecy of the fall of Troy (at left) and her death (at right)",
+"indexed_on": "2019-01-09T18:46:16.477513Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/6693259259",
+"url": "https://live.staticflickr.com/7145/6693259259_188769565c_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "cassandralegendarycharacter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incb720",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunablecollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunables",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunabula",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "troyextinctcity",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ulmgermany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "zainerjohannesd1541",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Woodcut illustration of Cassandra's prophecy of the fall of Troy (at left) and her death (at right)\" by Provenance Online Project is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 865,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/ce8ca093-0423-4fc9-a84c-f23450e673c4/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/ce8ca093-0423-4fc9-a84c-f23450e673c4/",
+"related_url": "https://api.openverse.org/v1/images/ce8ca093-0423-4fc9-a84c-f23450e673c4/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "9e948799-6f83-466d-8813-fab8bbadcb89",
+"title": "Woodcut illustration of God joining man and woman (or possibly Adam and Eve, specifically) in marriage, used by Heinrich Stayner of Augsburg",
+"indexed_on": "2020-04-18T07:45:20.342110Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/6581252137",
+"url": "https://live.staticflickr.com/7146/6581252137_11961e4913_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "adambiblicalfigure",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "augsburggermany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "behamhanssebald15001550",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "evebiblicalfigure",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gc5sc963525bb",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "germancultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "staynerheinrich1548",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "adult",
+"accuracy": 0.95189,
+"unstable__provider": "clarifai"
+},
+{
+"name": "art",
+"accuracy": 0.97423,
+"unstable__provider": "clarifai"
+},
+{
+"name": "chair",
+"accuracy": 0.90963,
+"unstable__provider": "clarifai"
+},
+{
+"name": "chalk out",
+"accuracy": 0.90564,
+"unstable__provider": "clarifai"
+},
+{
+"name": "engraving",
+"accuracy": 0.96823,
+"unstable__provider": "clarifai"
+},
+{
+"name": "group",
+"accuracy": 0.97562,
+"unstable__provider": "clarifai"
+},
+{
+"name": "illustration",
+"accuracy": 0.99469,
+"unstable__provider": "clarifai"
+},
+{
+"name": "leader",
+"accuracy": 0.90216,
+"unstable__provider": "clarifai"
+},
+{
+"name": "man",
+"accuracy": 0.9824,
+"unstable__provider": "clarifai"
+},
+{
+"name": "old",
+"accuracy": 0.93685,
+"unstable__provider": "clarifai"
+},
+{
+"name": "one",
+"accuracy": 0.90078,
+"unstable__provider": "clarifai"
+},
+{
+"name": "people",
+"accuracy": 0.99653,
+"unstable__provider": "clarifai"
+},
+{
+"name": "print",
+"accuracy": 0.98767,
+"unstable__provider": "clarifai"
+},
+{
+"name": "retro",
+"accuracy": 0.94465,
+"unstable__provider": "clarifai"
+},
+{
+"name": "two",
+"accuracy": 0.91499,
+"unstable__provider": "clarifai"
+},
+{
+"name": "vintage",
+"accuracy": 0.94858,
+"unstable__provider": "clarifai"
+},
+{
+"name": "woodcut",
+"accuracy": 0.94874,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Woodcut illustration of God joining man and woman (or possibly Adam and Eve, specifically) in marriage, used by Heinrich Stayner of Augsburg\" by Provenance Online Project is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 983,
+"thumbnail": "https://api.openverse.org/v1/images/9e948799-6f83-466d-8813-fab8bbadcb89/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/9e948799-6f83-466d-8813-fab8bbadcb89/",
+"related_url": "https://api.openverse.org/v1/images/9e948799-6f83-466d-8813-fab8bbadcb89/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "72891256-f86e-4b70-a762-b26097610d20",
+"title": "Woodcut illustration of Odysseus's return to Penelope",
+"indexed_on": "2019-01-09T18:46:16.477513Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/6693263917",
+"url": "https://live.staticflickr.com/7007/6693263917_7da93da11d_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incb720",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunablecollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunables",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunabula",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "istcib00720000",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "odysseusgreekmythology",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "penelopegreekmythology",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ulmgermany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "zainerjohannesd1541",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Woodcut illustration of Odysseus's return to Penelope\" by Provenance Online Project is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 902,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/72891256-f86e-4b70-a762-b26097610d20/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/72891256-f86e-4b70-a762-b26097610d20/",
+"related_url": "https://api.openverse.org/v1/images/72891256-f86e-4b70-a762-b26097610d20/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "c37321ae-d1e7-4f3f-a090-ba6dd8588913",
+"title": "Woodcut illustration of Dido founding Carthage",
+"indexed_on": "2019-01-09T18:46:16.477513Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/6693265679",
+"url": "https://live.staticflickr.com/7032/6693265679_aec8ba6863_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "carthageextinctcity",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "didolegendarycharacter",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incb720",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunablecollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunables",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunabula",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "istcib00720000",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ulmgermany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "zainerjohannesd1541",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Woodcut illustration of Dido founding Carthage\" by Provenance Online Project is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 904,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/c37321ae-d1e7-4f3f-a090-ba6dd8588913/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/c37321ae-d1e7-4f3f-a090-ba6dd8588913/",
+"related_url": "https://api.openverse.org/v1/images/c37321ae-d1e7-4f3f-a090-ba6dd8588913/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "41cda7ae-d5c1-4678-8638-8d001561818f",
+"title": "Woodcut illustration of Sophonisba committing suicide on the advice of her husband Masinissa, ordered to repudiate her by his ally Laelius",
+"indexed_on": "2019-01-09T18:46:16.477513Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/6693286177",
+"url": "https://live.staticflickr.com/7145/6693286177_3c7dd9d321_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gaiuslaelius",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incb720",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunablecollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunables",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunabula",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "masinissakingofnumidiaca240148bc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sophonisbad203bc",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ulmgermany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "zainerjohannesd1541",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Woodcut illustration of Sophonisba committing suicide on the advice of her husband Masinissa, ordered to repudiate her by his ally Laelius\" by Provenance Online Project is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 823,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/41cda7ae-d5c1-4678-8638-8d001561818f/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/41cda7ae-d5c1-4678-8638-8d001561818f/",
+"related_url": "https://api.openverse.org/v1/images/41cda7ae-d5c1-4678-8638-8d001561818f/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "1adc27eb-52eb-4800-9872-fd13febe1ef1",
+"title": "\u201cLimited Edition Prints by Damien Hirst: Thr-ser, 2012 (1-inch woodcut spot)\u201d / Paragon Press / Art Basel Hong Kong 2013 / SML.20130523.EOSM.04002.SQ",
+"indexed_on": "2016-11-17T12:30:17.032617Z",
+"foreign_landing_url": "https://www.flickr.com/photos/48973657@N00/8864290568",
+"url": "https://live.staticflickr.com/2828/8864290568_73c88aec24_b.jpg",
+"creator": "See-ming Lee (SML)",
+"creator_url": "https://www.flickr.com/photos/48973657@N00",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": 4251430,
+"filetype": null,
+"tags": [
+{
+"name": "2013",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "abhk",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "abstract",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "art",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "artbasel",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "artbaselhongkong2013",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "canonefm22mmf2stm",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "canoneosm",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "china",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cn",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "colorist",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "creativecommons",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "damienhirst",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "eosm",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "events",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fineart",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "fl2fbp",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hk",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hkg",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hongkong",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "journalism",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "paragonpress",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "photography",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "photojournalism",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "prints",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "seeminglee",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "smlevents",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "smlfineart",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "smlphotography",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "smlprojects",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "smluniverse",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "spot",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u4e2du56fd",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u4e2du570b",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u57ceu5e02",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u6444u5f71",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u651du5f71",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u65b0u805e",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u65b0u805eu651du5f71",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u674eu601du660e",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "u9999u6e2f",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "uk",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "urban",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcut",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "yba",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "art",
+"accuracy": 0.91639,
+"unstable__provider": "clarifai"
+},
+{
+"name": "design",
+"accuracy": 0.96472,
+"unstable__provider": "clarifai"
+},
+{
+"name": "desktop",
+"accuracy": 0.90636,
+"unstable__provider": "clarifai"
+},
+{
+"name": "graphic",
+"accuracy": 0.90528,
+"unstable__provider": "clarifai"
+},
+{
+"name": "illustration",
+"accuracy": 0.98438,
+"unstable__provider": "clarifai"
+},
+{
+"name": "vector",
+"accuracy": 0.96327,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"\u201cLimited Edition Prints by Damien Hirst: Thr-ser, 2012 (1-inch woodcut spot)\u201d / Paragon Press / Art Basel Hong Kong 2013 / SML.20130523.EOSM.04002.SQ\" by See-ming Lee (SML) is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/1adc27eb-52eb-4800-9872-fd13febe1ef1/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/1adc27eb-52eb-4800-9872-fd13febe1ef1/",
+"related_url": "https://api.openverse.org/v1/images/1adc27eb-52eb-4800-9872-fd13febe1ef1/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "26b934c1-743f-45c9-a6dd-536795cf03ea",
+"title": "Woodcut device used by Augsburg printer Philipp Ulhart",
+"indexed_on": "2016-11-16T20:56:26.870462Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/5473312277",
+"url": "https://live.staticflickr.com/5297/5473312277_6f1eb547f9_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": 2460417,
+"filetype": null,
+"tags": [
+{
+"name": "augsburggermany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cultureclassbestiary",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gc5b3218542o",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gc5b5314538d1540",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gc5b5314540i",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gc5h8703533w1542",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gc5h8703542b",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gc5h8703542g",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "germancultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "metabiblon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "printersdevices",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ulhartphilippd1567or8",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ancient",
+"accuracy": 0.95715,
+"unstable__provider": "clarifai"
+},
+{
+"name": "antique",
+"accuracy": 0.9592,
+"unstable__provider": "clarifai"
+},
+{
+"name": "art",
+"accuracy": 0.99498,
+"unstable__provider": "clarifai"
+},
+{
+"name": "chalk out",
+"accuracy": 0.99465,
+"unstable__provider": "clarifai"
+},
+{
+"name": "decoration",
+"accuracy": 0.91014,
+"unstable__provider": "clarifai"
+},
+{
+"name": "design",
+"accuracy": 0.94779,
+"unstable__provider": "clarifai"
+},
+{
+"name": "engraving",
+"accuracy": 0.96585,
+"unstable__provider": "clarifai"
+},
+{
+"name": "graphic",
+"accuracy": 0.92952,
+"unstable__provider": "clarifai"
+},
+{
+"name": "illustration",
+"accuracy": 0.99922,
+"unstable__provider": "clarifai"
+},
+{
+"name": "old",
+"accuracy": 0.95071,
+"unstable__provider": "clarifai"
+},
+{
+"name": "painting",
+"accuracy": 0.96494,
+"unstable__provider": "clarifai"
+},
+{
+"name": "people",
+"accuracy": 0.9707,
+"unstable__provider": "clarifai"
+},
+{
+"name": "print",
+"accuracy": 0.99267,
+"unstable__provider": "clarifai"
+},
+{
+"name": "retro",
+"accuracy": 0.97428,
+"unstable__provider": "clarifai"
+},
+{
+"name": "vector",
+"accuracy": 0.94248,
+"unstable__provider": "clarifai"
+},
+{
+"name": "vintage",
+"accuracy": 0.9691,
+"unstable__provider": "clarifai"
+},
+{
+"name": "visuals",
+"accuracy": 0.97386,
+"unstable__provider": "clarifai"
+},
+{
+"name": "woodcut",
+"accuracy": 0.98845,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Woodcut device used by Augsburg printer Philipp Ulhart.\" by Provenance Online Project is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 836,
+"thumbnail": "https://api.openverse.org/v1/images/26b934c1-743f-45c9-a6dd-536795cf03ea/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/26b934c1-743f-45c9-a6dd-536795cf03ea/",
+"related_url": "https://api.openverse.org/v1/images/26b934c1-743f-45c9-a6dd-536795cf03ea/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "585656bd-50ca-4ce1-bea8-45b99e087476",
+"title": "Floriated and inhabited armorial woodcut border (leaf [a]6r) with an initial D containing and flanked by the arms of Eleanore of Scotland, Archduchess of Austria",
+"indexed_on": "2019-01-09T18:46:16.477513Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/6693230199",
+"url": "https://live.staticflickr.com/7144/6693230199_b66e0174c1_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "coatsofarms",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "eleanoreofscotlandarchduchessconsortofsigmundarchdukeofaustria14331480",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incb720",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunablecollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunables",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunabula",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "inscriptions",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "istcib00720000",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "steinh\u00f6welheinrich14121482",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "steinhu00f6welheinrich14121482",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ulmgermany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "zainerjohannesd1541",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Floriated and inhabited armorial woodcut border (leaf [a]6r) with an initial D containing and flanked by the arms of Eleanore of Scotland, Archduchess of Austria\" by Provenance Online Project is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 739,
+"thumbnail": "https://api.openverse.org/v1/images/585656bd-50ca-4ce1-bea8-45b99e087476/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/585656bd-50ca-4ce1-bea8-45b99e087476/",
+"related_url": "https://api.openverse.org/v1/images/585656bd-50ca-4ce1-bea8-45b99e087476/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "67fae674-9b50-40ef-8580-46ac05f64182",
+"title": "Woodcut printer's device, used by Paolo Gherardo in Venice",
+"indexed_on": "2020-04-12T21:15:32.949855Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/7589860124",
+"url": "https://live.staticflickr.com/8291/7589860124_2e9ec499a9_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "birds",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "devices",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "eagles",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gherardopaoloactive15431560",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "grcar466ef221544",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "greekcultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "metabiblon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "printersdevices",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "adult",
+"accuracy": 0.93174,
+"unstable__provider": "clarifai"
+},
+{
+"name": "art",
+"accuracy": 0.99677,
+"unstable__provider": "clarifai"
+},
+{
+"name": "chalk out",
+"accuracy": 0.97553,
+"unstable__provider": "clarifai"
+},
+{
+"name": "engraving",
+"accuracy": 0.99595,
+"unstable__provider": "clarifai"
+},
+{
+"name": "etching",
+"accuracy": 0.96785,
+"unstable__provider": "clarifai"
+},
+{
+"name": "group",
+"accuracy": 0.96529,
+"unstable__provider": "clarifai"
+},
+{
+"name": "illustration",
+"accuracy": 0.99745,
+"unstable__provider": "clarifai"
+},
+{
+"name": "man",
+"accuracy": 0.93178,
+"unstable__provider": "clarifai"
+},
+{
+"name": "one",
+"accuracy": 0.98203,
+"unstable__provider": "clarifai"
+},
+{
+"name": "painting",
+"accuracy": 0.9729,
+"unstable__provider": "clarifai"
+},
+{
+"name": "people",
+"accuracy": 0.98928,
+"unstable__provider": "clarifai"
+},
+{
+"name": "print",
+"accuracy": 0.99746,
+"unstable__provider": "clarifai"
+},
+{
+"name": "retro",
+"accuracy": 0.95026,
+"unstable__provider": "clarifai"
+},
+{
+"name": "two",
+"accuracy": 0.95392,
+"unstable__provider": "clarifai"
+},
+{
+"name": "wear",
+"accuracy": 0.91371,
+"unstable__provider": "clarifai"
+},
+{
+"name": "woodcut",
+"accuracy": 0.96466,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Woodcut printer's device, used by Paolo Gherardo in Venice\" by Provenance Online Project is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 914,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/67fae674-9b50-40ef-8580-46ac05f64182/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/67fae674-9b50-40ef-8580-46ac05f64182/",
+"related_url": "https://api.openverse.org/v1/images/67fae674-9b50-40ef-8580-46ac05f64182/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "c12f7d54-f7eb-4774-858c-5683547047b5",
+"title": "Woodcut arms of Hans von Tiefen (hand-colored) used by Georg Osterberger of K\u9735igsberg [i.e. Kaliningrad]",
+"indexed_on": "2018-11-08T17:31:32.467511Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/6987001443",
+"url": "https://live.staticflickr.com/7043/6987001443_49412c594c_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "1580s",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1584",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "coatsofarms",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gc55a100584k",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "germancultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "hansvontiefen14401497",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kaliningradkaliningradskai\ufe20a\ufe21oblast\u02b9russia",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kaliningradkaliningradskaiufe20aufe21oblastu02b9russia",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kaliningradkaliningradskai\\ufe20a\\ufe21oblast\\u02b9russia",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "osterbergergeorgdca1602",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "teutonicknights",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Woodcut arms of Hans von Tiefen (hand-colored) used by Georg Osterberger of K\u00f6nigsberg [i.e. Kaliningrad]\" by Provenance Online Project is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 704,
+"thumbnail": "https://api.openverse.org/v1/images/c12f7d54-f7eb-4774-858c-5683547047b5/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/c12f7d54-f7eb-4774-858c-5683547047b5/",
+"related_url": "https://api.openverse.org/v1/images/c12f7d54-f7eb-4774-858c-5683547047b5/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "cf9fa013-8baa-48fb-b1f3-2d1ce386f167",
+"title": "Woodcut illustration of 4 cities of the Holy Roman Empire (clockwise from top left: Augsburg, Metz, L\u9edaeck, and Aachen) with their insignia, used by Peter Jordan of Mainz",
+"indexed_on": "2020-04-17T01:16:20.993840Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/5954367473",
+"url": "https://live.staticflickr.com/6146/5954367473_9412f00243_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "aachengermany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "augsburggermany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gc5k8183530g",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "germancultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "holyromanempire",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "jordanpeterfl1535",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "lu00fcbeckgermany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "mainzrhinelandpalatinategermany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "metzfrance",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "illustration",
+"accuracy": 0.91303,
+"unstable__provider": "clarifai"
+},
+{
+"name": "paper",
+"accuracy": 0.96888,
+"unstable__provider": "clarifai"
+},
+{
+"name": "people",
+"accuracy": 0.97485,
+"unstable__provider": "clarifai"
+},
+{
+"name": "print",
+"accuracy": 0.98255,
+"unstable__provider": "clarifai"
+},
+{
+"name": "text",
+"accuracy": 0.99041,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Woodcut illustration of 4 cities of the Holy Roman Empire (clockwise from top left: Augsburg, Metz, L\u00fcbeck, and Aachen) with their insignia, used by Peter Jordan of Mainz\" by Provenance Online Project is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 707,
+"thumbnail": "https://api.openverse.org/v1/images/cf9fa013-8baa-48fb-b1f3-2d1ce386f167/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/cf9fa013-8baa-48fb-b1f3-2d1ce386f167/",
+"related_url": "https://api.openverse.org/v1/images/cf9fa013-8baa-48fb-b1f3-2d1ce386f167/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "513470e0-c863-432d-a3cf-41f6b6a12ed8",
+"title": "Woodcut arms of Heinrich von Plauen (hand-colored) used by Georg Osterberger of K\u9735igsberg [i.e. Kaliningrad]",
+"indexed_on": "2016-11-16T20:41:31.907022Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/6986998375",
+"url": "https://live.staticflickr.com/7176/6986998375_7b41066432_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "1580s",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "1584",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "coatsofarms",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "gc55a100584k",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "germancultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kaliningradkaliningradskai\ufe20a\ufe21oblast\u02b9russia",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kaliningradkaliningradskaiufe20aufe21oblastu02b9russia",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "osterbergergeorgdca1602",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "plauenheinrichvonca13701429",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "teutonicknights",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "antique",
+"accuracy": 0.91992,
+"unstable__provider": "clarifai"
+},
+{
+"name": "document",
+"accuracy": 0.90492,
+"unstable__provider": "clarifai"
+},
+{
+"name": "illustration",
+"accuracy": 0.98533,
+"unstable__provider": "clarifai"
+},
+{
+"name": "paper",
+"accuracy": 0.97288,
+"unstable__provider": "clarifai"
+},
+{
+"name": "people",
+"accuracy": 0.94027,
+"unstable__provider": "clarifai"
+},
+{
+"name": "print",
+"accuracy": 0.98846,
+"unstable__provider": "clarifai"
+},
+{
+"name": "retro",
+"accuracy": 0.95454,
+"unstable__provider": "clarifai"
+},
+{
+"name": "vintage",
+"accuracy": 0.96249,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Woodcut arms of Heinrich von Plauen (hand-colored) used by Georg Osterberger of K\u00f6nigsberg [i.e. Kaliningrad]\" by Provenance Online Project is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 672,
+"thumbnail": "https://api.openverse.org/v1/images/513470e0-c863-432d-a3cf-41f6b6a12ed8/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/513470e0-c863-432d-a3cf-41f6b6a12ed8/",
+"related_url": "https://api.openverse.org/v1/images/513470e0-c863-432d-a3cf-41f6b6a12ed8/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "da01a4dd-a7f8-4d5a-8787-0eb025a3566f",
+"title": "Henry Bugbee Kane Woodcut Illustration - 1950 - 'Coyote'",
+"indexed_on": "2020-04-16T01:47:25.681609Z",
+"foreign_landing_url": "https://www.flickr.com/photos/49580580@N02/5555175352",
+"url": "https://live.staticflickr.com/5147/5555175352_08a2646dac_b.jpg",
+"creator": "Thomas Shahan 3",
+"creator_url": "https://www.flickr.com/photos/49580580@N02",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "bugbee",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "coyote",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "henry",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "illustration",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "kane",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "onedayonbeetlerock",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcut",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "animal",
+"accuracy": 0.91079,
+"unstable__provider": "clarifai"
+},
+{
+"name": "art",
+"accuracy": 0.93424,
+"unstable__provider": "clarifai"
+},
+{
+"name": "chalk out",
+"accuracy": 0.96901,
+"unstable__provider": "clarifai"
+},
+{
+"name": "design",
+"accuracy": 0.9424,
+"unstable__provider": "clarifai"
+},
+{
+"name": "illustration",
+"accuracy": 0.9777,
+"unstable__provider": "clarifai"
+},
+{
+"name": "nature",
+"accuracy": 0.93734,
+"unstable__provider": "clarifai"
+},
+{
+"name": "retro",
+"accuracy": 0.92375,
+"unstable__provider": "clarifai"
+},
+{
+"name": "tattoo",
+"accuracy": 0.93919,
+"unstable__provider": "clarifai"
+},
+{
+"name": "vector",
+"accuracy": 0.96544,
+"unstable__provider": "clarifai"
+},
+{
+"name": "wing",
+"accuracy": 0.91318,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Henry Bugbee Kane Woodcut Illustration - 1950 - 'Coyote'\" by Thomas Shahan 3 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 1024,
+"width": 770,
+"thumbnail": "https://api.openverse.org/v1/images/da01a4dd-a7f8-4d5a-8787-0eb025a3566f/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/da01a4dd-a7f8-4d5a-8787-0eb025a3566f/",
+"related_url": "https://api.openverse.org/v1/images/da01a4dd-a7f8-4d5a-8787-0eb025a3566f/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "5636ed99-92f9-4708-b187-dbd3a27b650f",
+"title": "Woodcut illustration of Sappho",
+"indexed_on": "2020-04-09T20:01:17.444785Z",
+"foreign_landing_url": "https://www.flickr.com/photos/58558794@N07/6693268673",
+"url": "https://live.staticflickr.com/7144/6693268673_14650deb7e_b.jpg",
+"creator": "Provenance Online Project",
+"creator_url": "https://www.flickr.com/photos/58558794@N07",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "cultureclasscollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "identified",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incb720",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunablecollection",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunables",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "incunabula",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "istcib00720000",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "metabiblon",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "pennlibraries",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "sappho",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ulmgermany",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "woodcuts",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "zainerjohannesd1541",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "ancient",
+"accuracy": 0.91974,
+"unstable__provider": "clarifai"
+},
+{
+"name": "antique",
+"accuracy": 0.94767,
+"unstable__provider": "clarifai"
+},
+{
+"name": "art",
+"accuracy": 0.94496,
+"unstable__provider": "clarifai"
+},
+{
+"name": "card",
+"accuracy": 0.93277,
+"unstable__provider": "clarifai"
+},
+{
+"name": "illustration",
+"accuracy": 0.98708,
+"unstable__provider": "clarifai"
+},
+{
+"name": "old",
+"accuracy": 0.96713,
+"unstable__provider": "clarifai"
+},
+{
+"name": "paper",
+"accuracy": 0.95046,
+"unstable__provider": "clarifai"
+},
+{
+"name": "print",
+"accuracy": 0.95414,
+"unstable__provider": "clarifai"
+},
+{
+"name": "retro",
+"accuracy": 0.94651,
+"unstable__provider": "clarifai"
+},
+{
+"name": "vintage",
+"accuracy": 0.96026,
+"unstable__provider": "clarifai"
+}
+],
+"attribution": "\"Woodcut illustration of Sappho\" by Provenance Online Project is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 874,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/5636ed99-92f9-4708-b187-dbd3a27b650f/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/5636ed99-92f9-4708-b187-dbd3a27b650f/",
+"related_url": "https://api.openverse.org/v1/images/5636ed99-92f9-4708-b187-dbd3a27b650f/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "da28131e-5b61-4e69-9023-e7f15311b8dd",
+"title": "School life, now a memory",
+"indexed_on": "2020-04-21T07:36:34.959617Z",
+"foreign_landing_url": "https://www.flickr.com/photos/35580185@N08/4474213396",
+"url": "https://live.staticflickr.com/2782/4474213396_31cfc26e6b_b.jpg",
+"creator": "Abhishek Jacob",
+"creator_url": "https://www.flickr.com/photos/35580185@N08",
+"license": "by-nc-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "memories",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "schooldaysareover",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "schoollife",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"School life, now a memory\" by Abhishek Jacob is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/da28131e-5b61-4e69-9023-e7f15311b8dd/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/da28131e-5b61-4e69-9023-e7f15311b8dd/",
+"related_url": "https://api.openverse.org/v1/images/da28131e-5b61-4e69-9023-e7f15311b8dd/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "d17a84c3-4230-4c68-a7a7-876b6d8276c9",
+"title": "School building",
+"indexed_on": "2019-05-16T15:15:17.386086Z",
+"foreign_landing_url": "https://www.flickr.com/photos/12173213@N00/4837735722",
+"url": "https://live.staticflickr.com/4113/4837735722_78661eabf7_b.jpg",
+"creator": "matsuyuki",
+"creator_url": "https://www.flickr.com/photos/12173213@N00",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "building",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"School building\" by matsuyuki is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/d17a84c3-4230-4c68-a7a7-876b6d8276c9/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/d17a84c3-4230-4c68-a7a7-876b6d8276c9/",
+"related_url": "https://api.openverse.org/v1/images/d17a84c3-4230-4c68-a7a7-876b6d8276c9/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "d327dfb5-5439-4a44-8f52-8c3ad8cd13d3",
+"title": "School",
+"indexed_on": "2020-04-23T23:46:27.799161Z",
+"foreign_landing_url": "https://www.flickr.com/photos/12078789@N00/3275386905",
+"url": "https://live.staticflickr.com/3297/3275386905_c36d086238_b.jpg",
+"creator": "Dan Harrelson",
+"creator_url": "https://www.flickr.com/photos/12078789@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "memories",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "norfolk",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "snow",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"School\" by Dan Harrelson is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/d327dfb5-5439-4a44-8f52-8c3ad8cd13d3/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/d327dfb5-5439-4a44-8f52-8c3ad8cd13d3/",
+"related_url": "https://api.openverse.org/v1/images/d327dfb5-5439-4a44-8f52-8c3ad8cd13d3/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "d0548611-80e8-4b9c-96b0-d7291d57d1ed",
+"title": "School",
+"indexed_on": "2018-11-08T17:31:32.467511Z",
+"foreign_landing_url": "https://www.flickr.com/photos/61368956@N00/5686104599",
+"url": "https://live.staticflickr.com/5227/5686104599_891440f0e3_b.jpg",
+"creator": "bfishadow",
+"creator_url": "https://www.flickr.com/photos/61368956@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "dalian",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "snapshot",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "voyage",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"School\" by bfishadow is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 765,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/d0548611-80e8-4b9c-96b0-d7291d57d1ed/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/d0548611-80e8-4b9c-96b0-d7291d57d1ed/",
+"related_url": "https://api.openverse.org/v1/images/d0548611-80e8-4b9c-96b0-d7291d57d1ed/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "840a2bdd-fecc-4ba7-ab3d-4dd2ffda9ef4",
+"title": "School",
+"indexed_on": "2018-11-08T01:45:17.652714Z",
+"foreign_landing_url": "https://www.flickr.com/photos/72558920@N00/2780745671",
+"url": "https://live.staticflickr.com/3245/2780745671_58d4cdc2e0_b.jpg",
+"creator": "teofilo",
+"creator_url": "https://www.flickr.com/photos/72558920@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "durango",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"School\" by teofilo is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/840a2bdd-fecc-4ba7-ab3d-4dd2ffda9ef4/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/840a2bdd-fecc-4ba7-ab3d-4dd2ffda9ef4/",
+"related_url": "https://api.openverse.org/v1/images/840a2bdd-fecc-4ba7-ab3d-4dd2ffda9ef4/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "f8494753-e81f-4a1f-a4e6-d86e36385c52",
+"title": "School building",
+"indexed_on": "2020-04-22T05:17:33.223525Z",
+"foreign_landing_url": "https://www.flickr.com/photos/12173213@N00/4837123321",
+"url": "https://live.staticflickr.com/4088/4837123321_043eae7d27_b.jpg",
+"creator": "matsuyuki",
+"creator_url": "https://www.flickr.com/photos/12173213@N00",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "building",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"School building\" by matsuyuki is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/f8494753-e81f-4a1f-a4e6-d86e36385c52/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/f8494753-e81f-4a1f-a4e6-d86e36385c52/",
+"related_url": "https://api.openverse.org/v1/images/f8494753-e81f-4a1f-a4e6-d86e36385c52/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "e81f0c4e-27b4-46a6-92c6-b5d7354bc1cd",
+"title": "School",
+"indexed_on": "2019-06-04T21:28:47.671042Z",
+"foreign_landing_url": "https://www.flickr.com/photos/8224828@N04/3084183512",
+"url": "https://live.staticflickr.com/3185/3084183512_77a91651b3_b.jpg",
+"creator": "A Silly Person",
+"creator_url": "https://www.flickr.com/photos/8224828@N04",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "calculator",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"School\" by A Silly Person is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 683,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/e81f0c4e-27b4-46a6-92c6-b5d7354bc1cd/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/e81f0c4e-27b4-46a6-92c6-b5d7354bc1cd/",
+"related_url": "https://api.openverse.org/v1/images/e81f0c4e-27b4-46a6-92c6-b5d7354bc1cd/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "f9f6caf9-bf59-4a23-b9e6-703f895cdfef",
+"title": "School",
+"indexed_on": "2018-11-08T01:45:17.652714Z",
+"foreign_landing_url": "https://www.flickr.com/photos/51035555243@N01/3172808502",
+"url": "https://live.staticflickr.com/3091/3172808502_b4f56d3255_b.jpg",
+"creator": "Thomas Hawk",
+"creator_url": "https://www.flickr.com/photos/51035555243@N01",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "night",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"School\" by Thomas Hawk is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 648,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/f9f6caf9-bf59-4a23-b9e6-703f895cdfef/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/f9f6caf9-bf59-4a23-b9e6-703f895cdfef/",
+"related_url": "https://api.openverse.org/v1/images/f9f6caf9-bf59-4a23-b9e6-703f895cdfef/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "c3ab2921-360d-4568-8291-ec2e2e0bf8f2",
+"title": "Early Memories of School",
+"indexed_on": "2020-05-07T12:16:23.419959Z",
+"foreign_landing_url": "https://www.flickr.com/photos/64528316@N00/11836797",
+"url": "https://live.staticflickr.com/8/11836797_48c637e16c.jpg",
+"creator": "jimthompson",
+"creator_url": "https://www.flickr.com/photos/64528316@N00",
+"license": "by-sa",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "memorymap",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "memorymaps",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "weatherly",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Early Memories of School\" by jimthompson is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 375,
+"width": 500,
+"thumbnail": "https://api.openverse.org/v1/images/c3ab2921-360d-4568-8291-ec2e2e0bf8f2/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/c3ab2921-360d-4568-8291-ec2e2e0bf8f2/",
+"related_url": "https://api.openverse.org/v1/images/c3ab2921-360d-4568-8291-ec2e2e0bf8f2/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "9a577ac2-38e0-453b-b6b6-ebd1595b4548",
+"title": "school",
+"indexed_on": "2020-04-05T20:30:25.722182Z",
+"foreign_landing_url": "https://www.flickr.com/photos/61808112@N02/15513155108",
+"url": "https://live.staticflickr.com/3942/15513155108_8b3305b58c_b.jpg",
+"creator": "m_takahashi",
+"creator_url": "https://www.flickr.com/photos/61808112@N02",
+"license": "by-nd",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nd/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "girl",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"school\" by m_takahashi is licensed under CC BY-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 683,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/9a577ac2-38e0-453b-b6b6-ebd1595b4548/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/9a577ac2-38e0-453b-b6b6-ebd1595b4548/",
+"related_url": "https://api.openverse.org/v1/images/9a577ac2-38e0-453b-b6b6-ebd1595b4548/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "bd6b3f8b-10c7-484e-a9f3-e166b9a778e3",
+"title": "School",
+"indexed_on": "2018-11-08T01:45:17.652714Z",
+"foreign_landing_url": "https://www.flickr.com/photos/72558920@N00/2781604498",
+"url": "https://live.staticflickr.com/3131/2781604498_d4a5c8386c_b.jpg",
+"creator": "teofilo",
+"creator_url": "https://www.flickr.com/photos/72558920@N00",
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "durango",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"School\" by teofilo is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 768,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/bd6b3f8b-10c7-484e-a9f3-e166b9a778e3/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/bd6b3f8b-10c7-484e-a9f3-e166b9a778e3/",
+"related_url": "https://api.openverse.org/v1/images/bd6b3f8b-10c7-484e-a9f3-e166b9a778e3/related/",
+"unstable__sensitivity": []
+},
+{
+"id": "fa72145f-c9b5-40f8-885c-451794f52474",
+"title": "Girls in school uniforms",
+"indexed_on": "2020-04-24T01:14:32.572078Z",
+"foreign_landing_url": "https://www.flickr.com/photos/72512129@N00/3301133851",
+"url": "https://live.staticflickr.com/3400/3301133851_35de4b7a4b_b.jpg",
+"creator": "arcticpenguin",
+"creator_url": "https://www.flickr.com/photos/72512129@N00",
+"license": "by-nc",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+"provider": "flickr",
+"source": "flickr",
+"category": null,
+"filesize": null,
+"filetype": null,
+"tags": [
+{
+"name": "life",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "school",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "second",
+"accuracy": null,
+"unstable__provider": "flickr"
+},
+{
+"name": "uniform",
+"accuracy": null,
+"unstable__provider": "flickr"
+}
+],
+"attribution": "\"Girls in school uniforms\" by arcticpenguin is licensed under CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"height": 590,
+"width": 1024,
+"thumbnail": "https://api.openverse.org/v1/images/fa72145f-c9b5-40f8-885c-451794f52474/thumb/",
+"detail_url": "https://api.openverse.org/v1/images/fa72145f-c9b5-40f8-885c-451794f52474/",
+"related_url": "https://api.openverse.org/v1/images/fa72145f-c9b5-40f8-885c-451794f52474/related/",
+"unstable__sensitivity": []
 }
 ]

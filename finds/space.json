@@ -4615,5 +4615,43 @@
   "extra": "center ARC \u00b7 nasa_id ARC-2009-ACD09-0108-038 \u00b7 keywords Asteroid",
   "module": "space",
   "mined_at": "2026-11-10T21:28:13Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "A Giant Gathering of Galaxies",
+  "date": "2015-11-03",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "1.5 km \u00b7 bathypelagic",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA20052/PIA20052~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/PIA20052/PIA20052~thumb.jpg",
+  "preview": "The galaxy cluster called MOO J1142+1527 can be seen here as it existed when light left it 8.5 billion years ago. The red galaxies at the center of the image make up the heart of the galaxy cluster.  This color image is constructed from multi-wavelength observations: Infrared observations from NASA's Spitzer Space Telescope are shown in red; near-infrared and visible light captured by the Gemini Observatory atop Mauna Kea in Hawaii is green and blue; and radio light from the Combined Array for R",
+  "url": "https://images.nasa.gov/details/PIA20052",
+  "query": "images-api.nasa.gov q=\"radio telescope\"",
+  "extra": "center JPL \u00b7 nasa_id PIA20052 \u00b7 keywords Spitzer Space Telescope",
+  "module": "space",
+  "mined_at": "2026-11-11T06:45:00Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "Bi-static Radar Images of the Binary Asteroid 2017 YE5",
+  "date": "2018-07-12",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA22559/PIA22559~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/PIA22559/PIA22559~thumb.jpg",
+  "preview": "Bi-static radar images of the binary asteroid 2017 YE5 from the Arecibo Observatory and the Green Bank Observatory on June 25. The observations show that the asteroid consists of two separate objects in orbit around each other.  A movie is available at https://photojournal.jpl.nasa.gov/catalog/PIA22559",
+  "url": "https://images.nasa.gov/details/PIA22559",
+  "query": "images-api.nasa.gov q=\"Arecibo\"",
+  "extra": "center JPL \u00b7 nasa_id PIA22559 \u00b7 keywords Asteroid, Asteroid 2017 YE5, Arecibo Observatory, Green Bank Observatory",
+  "module": "space",
+  "mined_at": "2026-11-11T06:45:00Z"
  }
 ]

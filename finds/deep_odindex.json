@@ -51854,5 +51854,2049 @@
 ]
 ],
 "mined_at": "2026-11-10T21:31:21Z"
+},
+{
+"source": "Open Directory",
+"title": ":music-adm@ftp.funet.fi:",
+"date": "1995-05-13 15:05",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "0",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/culture/music/:music-adm@ftp.funet.fi:",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/culture/",
+"kw": "cult",
+"preview": "other \uff77 0 \uff77 1995-05-13 15:05 \uff77 in https://ftp.funet.fi/pub/culture/music/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/music/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/culture/music/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "README",
+"date": "2006-11-02 08:14",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "200",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/culture/russian/README",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/culture/",
+"kw": "cult",
+"preview": "text \uff77 200 \uff77 2006-11-02 08:14 \uff77 in https://ftp.funet.fi/pub/culture/russian/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/russian/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/culture/russian/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20111222.tar.bz2",
+"date": "2011-12-21 18:14",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "180K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20111222.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 180K \uff77 2011-12-21 18:14 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20110822.tar.bz2",
+"date": "2011-08-21 19:22",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "178K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20110822.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 178K \uff77 2011-08-21 19:22 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "gnutrition-0.2.tar.gz",
+"date": "2010-04-21 12:02",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.2M",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/gnutrition/gnutrition-0.2.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 2.2M \uff77 2010-04-21 12:02 \uff77 in https://ftp.gnu.org/old-gnu/gnutrition/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnutrition/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/gnutrition/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20100722.tar.bz2",
+"date": "2010-07-22 14:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "93K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20100722.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 93K \uff77 2010-07-22 14:33 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20110205.tar.bz2",
+"date": "2011-02-03 17:41",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "156K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20110205.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 156K \uff77 2011-02-03 17:41 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20110122.tar.bz2.sig",
+"date": "2011-01-22 17:41",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "72",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20110122.tar.bz2.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 72 \uff77 2011-01-22 17:41 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20101122.tar.bz2",
+"date": "2010-11-21 17:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "147K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20101122.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 147K \uff77 2010-11-21 17:01 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20110722.tar.bz2",
+"date": "2011-07-22 04:56",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "175K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20110722.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 175K \uff77 2011-07-22 04:56 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20100620.tar.bz2",
+"date": "2010-06-22 09:26",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "87K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20100620.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 87K \uff77 2010-06-22 09:26 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20100424.tar.bz2.sig",
+"date": "2010-04-26 07:08",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "72",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20100424.tar.bz2.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 72 \uff77 2010-04-26 07:08 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20101113.tar.bz2",
+"date": "2010-11-13 11:22",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "130K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20101113.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 130K \uff77 2010-11-13 11:22 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20110125.tar.bz2.sig",
+"date": "2011-01-25 09:36",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "72",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20110125.tar.bz2.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 72 \uff77 2011-01-25 09:36 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20100615.tar.bz2",
+"date": "2010-06-15 10:42",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "87K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20100615.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 87K \uff77 2010-06-15 10:42 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20101115.tar.bz2.sig",
+"date": "2010-11-15 14:18",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "72",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20101115.tar.bz2.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 72 \uff77 2010-11-15 14:18 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "gnutrition-0.31.tar.gz",
+"date": "2010-04-26 16:51",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.4M",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/gnutrition/gnutrition-0.31.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 2.4M \uff77 2010-04-26 16:51 \uff77 in https://ftp.gnu.org/old-gnu/gnutrition/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnutrition/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/gnutrition/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20100822.tar.bz2",
+"date": "2010-08-22 05:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "111K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20100822.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 111K \uff77 2010-08-22 05:00 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20101115.tar.bz2",
+"date": "2010-11-15 14:18",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "131K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20101115.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 131K \uff77 2010-11-15 14:18 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20100922.tar.bz2",
+"date": "2010-09-21 16:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "123K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20100922.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 123K \uff77 2010-09-21 16:33 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20110322.tar.bz2",
+"date": "2011-03-21 20:03",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "160K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20110322.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 160K \uff77 2011-03-21 20:03 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20100906.tar.bz2.sig",
+"date": "2010-09-05 18:23",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "72",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20100906.tar.bz2.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 72 \uff77 2010-09-05 18:23 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20100601.tar.bz2.sig",
+"date": "2010-06-05 18:03",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "72",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20100601.tar.bz2.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 72 \uff77 2010-06-05 18:03 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "phantom_home-beta0.60.tar.gz",
+"date": "1999-10-11 13:53",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "206K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/phantom/home/phantom_home-beta0.60.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 206K \uff77 1999-10-11 13:53 \uff77 in https://ftp.gnu.org/old-gnu/phantom/home/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/phantom/home/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/phantom/home/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20100922.tar.bz2.sig",
+"date": "2010-09-21 16:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "72",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20100922.tar.bz2.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 72 \uff77 2010-09-21 16:33 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "gnutrition-0.1.tar.gz.sig",
+"date": "2010-04-21 12:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "65",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/gnutrition/gnutrition-0.1.tar.gz.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 65 \uff77 2010-04-21 12:01 \uff77 in https://ftp.gnu.org/old-gnu/gnutrition/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnutrition/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/gnutrition/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20111122.tar.bz2.sig",
+"date": "2011-11-22 16:54",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "72",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20111122.tar.bz2.sig",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 72 \uff77 2011-11-22 16:54 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20110125.tar.bz2",
+"date": "2011-01-25 09:35",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "154K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20110125.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 154K \uff77 2011-01-25 09:35 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "parallel-20110122.tar.bz2",
+"date": "2011-01-22 17:41",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "153K",
+"ftype": "other",
+"host": "ftp.gnu.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.gnu.org/old-gnu/parallel/parallel-20110122.tar.bz2",
+"mime": "other/*",
+"query": "random descent from https://ftp.gnu.org/old-gnu/",
+"kw": "",
+"preview": "other \uff77 153K \uff77 2011-01-22 17:41 \uff77 in https://ftp.gnu.org/old-gnu/parallel/",
+"extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/parallel/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.gnu.org/old-gnu/parallel/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "README",
+"date": "1993-02-26 21:32",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "151",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/fun/README",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "text \uff77 151 \uff77 1993-02-26 21:32 \uff77 in https://ftp.funet.fi/pub/doc/fun/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/fun/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/fun/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "christmas.worm.gz",
+"date": "1990-06-07 12:26",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.7K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/fun/christmas/christmas.worm.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 1.7K \uff77 1990-06-07 12:26 \uff77 in https://ftp.funet.fi/pub/doc/fun/christmas/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/fun/christmas/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/fun/christmas/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "church.stories.gz",
+"date": "1990-12-31 12:34",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.1K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/fun/religious/church.stories.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "church",
+"preview": "other \uff77 2.1K \uff77 1990-12-31 12:34 \uff77 in https://ftp.funet.fi/pub/doc/fun/religious/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/fun/religious/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/fun/religious/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "cryptreg.Z",
+"date": "1991-10-11 00:38",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "31K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/security/cryptreg.Z",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 31K \uff77 1991-10-11 00:38 \uff77 in https://ftp.funet.fi/pub/doc/security/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/security/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/security/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "xmas.vt.gz",
+"date": "1990-06-07 12:52",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.5K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/fun/christmas/xmas.vt.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 2.5K \uff77 1990-06-07 12:52 \uff77 in https://ftp.funet.fi/pub/doc/fun/christmas/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/fun/christmas/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/fun/christmas/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "orange-book.Z",
+"date": "1991-01-14 12:35",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "105K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/security/orange-book.Z",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 105K \uff77 1991-01-14 12:35 \uff77 in https://ftp.funet.fi/pub/doc/security/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/security/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/security/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "security-doc.tar.Z",
+"date": "1990-05-02 12:46",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "57K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/security/security-doc.tar.Z",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 57K \uff77 1990-05-02 12:46 \uff77 in https://ftp.funet.fi/pub/doc/security/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/security/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/security/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "xmas.stuff.gz",
+"date": "1990-12-31 12:34",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "13K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/fun/christmas/xmas.stuff.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 13K \uff77 1990-12-31 12:34 \uff77 in https://ftp.funet.fi/pub/doc/fun/christmas/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/fun/christmas/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/fun/christmas/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "ecma.desdps.tar.Z",
+"date": "1989-05-15 15:39",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "556K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/security/ecma.desdps.tar.Z",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 556K \uff77 1989-05-15 15:39 \uff77 in https://ftp.funet.fi/pub/doc/security/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/security/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/security/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "sec-study.ps",
+"date": "1989-11-03 14:42",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "92K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/security/sec-study.ps",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 92K \uff77 1989-11-03 14:42 \uff77 in https://ftp.funet.fi/pub/doc/security/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/security/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/security/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "kerblimit.ps",
+"date": "1990-07-21 12:39",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "93K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/security/kerblimit.ps",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 93K \uff77 1990-07-21 12:39 \uff77 in https://ftp.funet.fi/pub/doc/security/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/security/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/security/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "santas.gun.gz",
+"date": "1990-06-07 12:52",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.1K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/fun/christmas/santas.gun.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 1.1K \uff77 1990-06-07 12:52 \uff77 in https://ftp.funet.fi/pub/doc/fun/christmas/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/fun/christmas/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/fun/christmas/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "daniel-klein-passwd.ps.Z",
+"date": "1993-02-17 17:55",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "42K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/security/daniel-klein-passwd.ps.Z",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 42K \uff77 1993-02-17 17:55 \uff77 in https://ftp.funet.fi/pub/doc/security/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/security/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/security/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "merry.christmas.gz",
+"date": "1990-06-07 12:27",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "17K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/fun/christmas/merry.christmas.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "other \uff77 17K \uff77 1990-06-07 12:27 \uff77 in https://ftp.funet.fi/pub/doc/fun/christmas/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/fun/christmas/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/fun/christmas/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "petition1",
+"date": "1994-11-10 12:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.7K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/petition1",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 1.7K \uff77 1994-11-10 12:33 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "epps.asc",
+"date": "1995-01-31 19:16",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "15K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/epps.asc",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 15K \uff77 1995-01-31 19:16 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "jones",
+"date": "1994-11-10 12:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "35K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/jones",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 35K \uff77 1994-11-10 12:33 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "ncinsurance",
+"date": "1994-11-10 12:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "39K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/ncinsurance",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 39K \uff77 1994-11-10 12:33 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "powell",
+"date": "1994-11-10 12:34",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "29K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/powell",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 29K \uff77 1994-11-10 12:34 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "pinckney.asc",
+"date": "1995-01-31 19:20",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "43K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/pinckney.asc",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 43K \uff77 1995-01-31 19:20 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "draft.part.II",
+"date": "1992-08-16 00:38",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "31K",
+"ftype": "other",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/iafa/draft.part.II",
+"mime": "other/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "other \uff77 31K \uff77 1992-08-16 00:38 \uff77 in https://www.ibiblio.org/pub/docs/iafa/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/iafa/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/iafa/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "horn",
+"date": "1994-11-10 12:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "13K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/horn",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 13K \uff77 1994-11-10 12:33 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "cited",
+"date": "1994-11-10 12:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.1K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/cited",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 1.1K \uff77 1994-11-10 12:33 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "baymon",
+"date": "1994-11-10 12:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "32K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/baymon",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 32K \uff77 1994-11-10 12:33 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "ward",
+"date": "1994-11-10 12:34",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "14K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/ward",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 14K \uff77 1994-11-10 12:34 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "daniels",
+"date": "1994-11-10 12:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "145K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/daniels",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 145K \uff77 1994-11-10 12:33 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "budd.asc",
+"date": "1995-01-31 19:18",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "26K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/budd.asc",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 26K \uff77 1995-01-31 19:18 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "rouse.ascc",
+"date": "1995-01-31 19:26",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "21K",
+"ftype": "other",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/rouse.ascc",
+"mime": "other/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "other \uff77 21K \uff77 1995-01-31 19:26 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "robinette.asc",
+"date": "1995-01-31 19:24",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "22K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/robinette.asc",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 22K \uff77 1995-01-31 19:24 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "draft.part.I",
+"date": "1992-08-16 05:37",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "22K",
+"ftype": "other",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/iafa/draft.part.I",
+"mime": "other/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "other \uff77 22K \uff77 1992-08-16 05:37 \uff77 in https://www.ibiblio.org/pub/docs/iafa/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/iafa/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/iafa/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "iafa-doc.package",
+"date": "1992-08-16 00:43",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.2K",
+"ftype": "other",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/iafa/iafa-doc.package",
+"mime": "other/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "other \uff77 2.2K \uff77 1992-08-16 00:43 \uff77 in https://www.ibiblio.org/pub/docs/iafa/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/iafa/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/iafa/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "dobson",
+"date": "1994-11-10 12:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "8.3K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/dobson",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 8.3K \uff77 1994-11-10 12:33 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "ingle",
+"date": "1994-11-10 12:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "98K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/ingle",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 98K \uff77 1994-11-10 12:33 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "phelps",
+"date": "1994-11-10 12:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "39K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/phelps",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 39K \uff77 1994-11-10 12:33 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "bromhal.asc",
+"date": "1995-01-31 19:23",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "18K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/bromhal.asc",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 18K \uff77 1995-01-31 19:23 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "brooks",
+"date": "1994-11-10 12:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "46K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/brooks",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 46K \uff77 1994-11-10 12:33 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "leazer",
+"date": "1994-11-10 12:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "14K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/leazer",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 14K \uff77 1994-11-10 12:33 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "sims.asc",
+"date": "1995-01-31 19:18",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "14K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/sims.asc",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 14K \uff77 1995-01-31 19:18 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "aetna.asc",
+"date": "1995-01-31 19:25",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "6.0K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/aetna.asc",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 6.0K \uff77 1995-01-31 19:25 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "mckoin",
+"date": "1994-11-10 12:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "10K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/mckoin",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 10K \uff77 1994-11-10 12:33 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "stroh.asc",
+"date": "1995-01-31 19:11",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "24K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/stroh.asc",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 24K \uff77 1995-01-31 19:11 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "carson",
+"date": "1994-11-10 12:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "22K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/carson",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 22K \uff77 1994-11-10 12:33 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/jul2994/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "nichols.asc",
+"date": "1995-01-31 19:24",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "18K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/nichols.asc",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 18K \uff77 1995-01-31 19:24 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
+},
+{
+"source": "Open Directory",
+"title": "csunrep6.asc",
+"date": "1995-01-31 19:10",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "7.0K",
+"ftype": "text",
+"host": "www.ibiblio.org",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/csunrep6.asc",
+"mime": "text/*",
+"query": "random descent from https://www.ibiblio.org/pub/docs/",
+"kw": "",
+"preview": "text \uff77 7.0K \uff77 1995-01-31 19:10 \uff77 in https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/",
+"links": [
+[
+"parent dir \u2197",
+"https://www.ibiblio.org/pub/docs/nc-supreme-court/sep0694/"
+]
+],
+"mined_at": "2026-11-11T06:45:55Z"
 }
 ]

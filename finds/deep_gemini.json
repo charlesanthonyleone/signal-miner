@@ -5638,5 +5638,29 @@
    ]
   ],
   "mined_at": "2026-11-10T21:32:53Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "starwood.txt.gmi",
+  "url": "https://portal.mozz.us/gemini/gem.snork.ca/textfiles.com/occult/PAGAN/starwood.txt.gmi",
+  "gemini": "gemini://gem.snork.ca/textfiles.com/occult/PAGAN/starwood.txt.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 4406,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gem.snork.ca",
+  "preview": "FROM: The Office of the Fifth Deputy Vice-Arch Druid\r\nSUBJ: Political necessity of doing public ritual\r\n\r\n        It was asked in a recent issue of News from the Mother Grove, whether an ADF ritual needed to be done at festivals such as Starwood.  The arguements against it were 1) there wasn't a major holiday near the date (late July), 2) Isaac and Deborah were getting burnt out doing basically the same ritual every couple of weeks.  \r\n\r\n        It is a necessity to do an ADF ritual at major festivals, especially when ADF has a large presence on-site.  This is especially true at Starwood, which is the yearly member's meeting.  Some of the factors to consider as to whether or not rituals should be done, are burnout, that there are only two High Days during the heaviest part of the festival season, the need to \"show the flag\", and the need for ADF members who aren't members of local Groves to attend and participate in an ADF ritual.\r\n\r\n        I understand that doing the same ritual every couple of weeks can lead to burnout.  I don't know if this is because newcomers need to be taught the ritual everytime, or if because Isaac and Deborah are doing the same ritual every time.  A coupl",
+  "query": "gemini search \"ritual\"",
+  "kw": "ritual",
+  "extra": "capsule: gem.snork.ca \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gem.snork.ca/textfiles.com/occult/PAGAN/starwood.txt.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-11T06:47:24Z"
  }
 ]
