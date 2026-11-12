@@ -7658,5 +7658,25 @@
 "inventor": "",
 "module": "expired",
 "mined_at": "2026-11-11T17:24:00Z"
+},
+{
+"source": "Google Patents",
+"title": "Mail-carrier",
+"date": "1912-06-11",
+"dateLabel": "published",
+"count": null,
+"countLabel": "",
+"kind": "meta",
+"mime": "patent/text",
+"thumb": "",
+"src": "",
+"preview": "",
+"url": "https://patents.google.com/patent/US1028894A/en",
+"query": "google patents q=\"improved apparatus\" cpc=A47G before 1940",
+"extra": "patent US1028894A \u00b7 inventor Charles Maar",
+"patent_number": "US1028894A",
+"inventor": "Charles Maar",
+"module": "expired",
+"mined_at": "2026-11-12T20:08:35Z"
 }
 ]

@@ -56922,5 +56922,1209 @@
 ]
 ],
 "mined_at": "2026-11-12T11:32:11Z"
+},
+{
+"source": "Open Directory",
+"title": "mta-sts.txt",
+"date": "2026-11-09 14:37",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "143",
+"ftype": "text",
+"host": "mta-sts.cfcorporatefinance.com",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "http://mta-sts.cfcorporatefinance.com/.well-known/mta-sts.txt",
+"mime": "text/*",
+"query": "urlscan 'Index of' sighting \u2192 http://mta-sts.cfcorporatefinance.com/",
+"kw": "",
+"preview": "text \uff77 143 \uff77 2026-11-09 14:37 \uff77 in http://mta-sts.cfcorporatefinance.com/.well-known/",
+"extra": "host: mta-sts.cfcorporatefinance.com \u00b7 dir: http://mta-sts.cfcorporatefinance.com/.well-known/",
+"links": [
+[
+"parent dir \u2197",
+"http://mta-sts.cfcorporatefinance.com/.well-known/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "ptx.README",
+"date": "10-Aug-1999 18:32",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "83",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/ptx.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 83 \uff77 10-Aug-1999 18:32 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "grg.README",
+"date": "26-Apr-2002 16:37",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "180",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/grg.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 180 \uff77 26-Apr-2002 16:37 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "gnutls.README",
+"date": "18-Nov-2001 15:38",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "171",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/gnutls.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 171 \uff77 18-Nov-2001 15:38 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "ilisp.README",
+"date": "25-Apr-2002 21:32",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "330",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/ilisp.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 330 \uff77 25-Apr-2002 21:32 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "webstump.README",
+"date": "26-Apr-2002 18:36",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "227",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/webstump.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 227 \uff77 26-Apr-2002 18:36 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "elisp-archive.README",
+"date": "24-Jan-1999 02:22",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "835",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/elisp-archive.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 835 \uff77 24-Jan-1999 02:22 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "stump.README",
+"date": "26-Apr-2002 18:35",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "227",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/stump.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 227 \uff77 26-Apr-2002 18:35 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "gnans.README",
+"date": "25-Apr-2002 21:08",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "756",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/gnans.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 756 \uff77 25-Apr-2002 21:08 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "mule.README",
+"date": "26-Apr-1999 05:32",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "943",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/mule.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 943 \uff77 26-Apr-1999 05:32 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "gpc.README",
+"date": "26-Apr-2002 16:10",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "122",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/gpc.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 122 \uff77 26-Apr-2002 16:10 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "lout.README",
+"date": "19-Jan-1998 08:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1103",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/lout.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 1103 \uff77 19-Jan-1998 08:00 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "objective-c.README",
+"date": "06-Jun-1999 05:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "194",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/objective-c.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 194 \uff77 06-Jun-1999 05:00 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "gnome.README",
+"date": "20-Jun-1999 17:12",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "380",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/gnome.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 380 \uff77 20-Jun-1999 17:12 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "mkid.README",
+"date": "01-Jun-1999 01:05",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "298",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/mkid.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 298 \uff77 01-Jun-1999 01:05 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "mm.README",
+"date": "05-Jun-2000 00:53",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "236",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/mm.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 236 \uff77 05-Jun-2000 00:53 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "makeinfo.README",
+"date": "25-Apr-2002 20:29",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "273",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/makeinfo.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 273 \uff77 25-Apr-2002 20:29 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "gimp.README",
+"date": "01-May-2002 19:24",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "146",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/gimp.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 146 \uff77 01-May-2002 19:24 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "gnu-keyring.gpg",
+"date": "11-Nov-2026 16:22",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "4M",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/gnu-keyring.gpg",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 4M \uff77 11-Nov-2026 16:22 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "sipp.README",
+"date": "27-Jun-1998 10:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "611",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/sipp.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 611 \uff77 27-Jun-1998 10:00 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "button.14.0.shar",
+"date": "28-Oct-1994 07:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "136K",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/button.14.0.shar",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 136K \uff77 28-Oct-1994 07:00 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "README.DESCRIPTIONS",
+"date": "08-Nov-2010 15:41",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "233",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/README.DESCRIPTIONS",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 233 \uff77 08-Nov-2010 15:41 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "gurgle.README",
+"date": "26-Apr-2002 16:36",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1002",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/gurgle.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 1002 \uff77 26-Apr-2002 16:36 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "gnupg.README",
+"date": "18-Aug-2014 18:24",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "81",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/gnupg.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 81 \uff77 18-Aug-2014 18:24 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "ProgramIndex",
+"date": "03-May-1998 07:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "28K",
+"ftype": "text",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/ProgramIndex",
+"mime": "text/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "text \uff77 28K \uff77 03-May-1998 07:00 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "mirror-updated-timestamp.txt",
+"date": "11-Nov-2026 16:16",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "11",
+"ftype": "text",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/mirror-updated-timestamp.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "text \uff77 11 \uff77 11-Nov-2026 16:16 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "=README-about-.gz-files",
+"date": "08-Jan-2000 21:58",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1042",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/%3DREADME-about-.gz-files",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 1042 \uff77 08-Jan-2000 21:58 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "uuencode.README",
+"date": "06-Jun-1999 05:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "148",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/uuencode.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 148 \uff77 06-Jun-1999 05:01 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "dictionary.README",
+"date": "15-Apr-2002 18:12",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "134",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/dictionary.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 134 \uff77 15-Apr-2002 18:12 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "gnuserv.README",
+"date": "25-Apr-2002 20:46",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "277",
+"ftype": "other",
+"host": "ftp.cc.uoc.gr",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.cc.uoc.gr/mirrors/gnu/gnuserv.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.cc.uoc.gr/",
+"kw": "",
+"preview": "other \uff77 277 \uff77 25-Apr-2002 20:46 \uff77 in https://ftp.cc.uoc.gr/mirrors/gnu/",
+"extra": "host: ftp.cc.uoc.gr \u00b7 dir: https://ftp.cc.uoc.gr/mirrors/gnu/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.cc.uoc.gr/mirrors/gnu/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "index",
+"date": "1993-07-13 12:35",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "49K",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/math/lapack/index",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "text \uff77 49K \uff77 1993-07-13 12:35 \uff77 in https://ftp.funet.fi/pub/sci/math/lapack/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/math/lapack/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/math/lapack/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "lunar-2.0.tar.Z",
+"date": "1991-06-21 06:39",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "17K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/culture/chinese/unix/lunar-2.0.tar.Z",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/culture/",
+"kw": "cult",
+"preview": "other \uff77 17K \uff77 1991-06-21 06:39 \uff77 in https://ftp.funet.fi/pub/culture/chinese/unix/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/chinese/unix/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/culture/chinese/unix/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "sub00051.jpg",
+"date": "1995-09-18 16:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "168K",
+"ftype": "image",
+"host": "ftp.funet.fi",
+"thumb": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00051.jpg",
+"kind": "img",
+"src": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00051.jpg",
+"gated": true,
+"url": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00051.jpg",
+"mime": "image/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "image \uff77 168K \uff77 1995-09-18 16:01 \uff77 in https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/nature/deepsea/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "sub00035.jpg",
+"date": "1995-09-18 16:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "155K",
+"ftype": "image",
+"host": "ftp.funet.fi",
+"thumb": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00035.jpg",
+"kind": "img",
+"src": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00035.jpg",
+"gated": true,
+"url": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00035.jpg",
+"mime": "image/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "image \uff77 155K \uff77 1995-09-18 16:01 \uff77 in https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/nature/deepsea/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "sub00071.jpg",
+"date": "1995-09-29 17:16",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "122K",
+"ftype": "image",
+"host": "ftp.funet.fi",
+"thumb": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00071.jpg",
+"kind": "img",
+"src": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00071.jpg",
+"gated": true,
+"url": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00071.jpg",
+"mime": "image/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "image \uff77 122K \uff77 1995-09-29 17:16 \uff77 in https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/nature/deepsea/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "sub00054.jpg",
+"date": "1995-09-18 16:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "156K",
+"ftype": "image",
+"host": "ftp.funet.fi",
+"thumb": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00054.jpg",
+"kind": "img",
+"src": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00054.jpg",
+"gated": true,
+"url": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00054.jpg",
+"mime": "image/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "image \uff77 156K \uff77 1995-09-18 16:01 \uff77 in https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/nature/deepsea/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "sub00028.jpg",
+"date": "1995-09-18 16:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "123K",
+"ftype": "image",
+"host": "ftp.funet.fi",
+"thumb": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00028.jpg",
+"kind": "img",
+"src": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00028.jpg",
+"gated": true,
+"url": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00028.jpg",
+"mime": "image/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "image \uff77 123K \uff77 1995-09-18 16:01 \uff77 in https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/nature/deepsea/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "sub00038.jpg",
+"date": "1995-09-18 16:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "165K",
+"ftype": "image",
+"host": "ftp.funet.fi",
+"thumb": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00038.jpg",
+"kind": "img",
+"src": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00038.jpg",
+"gated": true,
+"url": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00038.jpg",
+"mime": "image/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "image \uff77 165K \uff77 1995-09-18 16:01 \uff77 in https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/nature/deepsea/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "sub00023.jpg",
+"date": "1995-07-12 23:34",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "106K",
+"ftype": "image",
+"host": "ftp.funet.fi",
+"thumb": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00023.jpg",
+"kind": "img",
+"src": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00023.jpg",
+"gated": true,
+"url": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00023.jpg",
+"mime": "image/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "image \uff77 106K \uff77 1995-07-12 23:34 \uff77 in https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/nature/deepsea/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "sub00053.jpg",
+"date": "1995-09-18 16:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "118K",
+"ftype": "image",
+"host": "ftp.funet.fi",
+"thumb": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00053.jpg",
+"kind": "img",
+"src": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00053.jpg",
+"gated": true,
+"url": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00053.jpg",
+"mime": "image/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "image \uff77 118K \uff77 1995-09-18 16:01 \uff77 in https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/nature/deepsea/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "sub00032.jpg",
+"date": "1995-09-18 16:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "161K",
+"ftype": "image",
+"host": "ftp.funet.fi",
+"thumb": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00032.jpg",
+"kind": "img",
+"src": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00032.jpg",
+"gated": true,
+"url": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00032.jpg",
+"mime": "image/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "image \uff77 161K \uff77 1995-09-18 16:01 \uff77 in https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/nature/deepsea/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "sub00048.jpg",
+"date": "1995-09-18 16:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "85K",
+"ftype": "image",
+"host": "ftp.funet.fi",
+"thumb": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00048.jpg",
+"kind": "img",
+"src": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00048.jpg",
+"gated": true,
+"url": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00048.jpg",
+"mime": "image/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "image \uff77 85K \uff77 1995-09-18 16:01 \uff77 in https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/nature/deepsea/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "sub00076.jpg",
+"date": "1995-09-29 17:16",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "131K",
+"ftype": "image",
+"host": "ftp.funet.fi",
+"thumb": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00076.jpg",
+"kind": "img",
+"src": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00076.jpg",
+"gated": true,
+"url": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00076.jpg",
+"mime": "image/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "image \uff77 131K \uff77 1995-09-29 17:16 \uff77 in https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/nature/deepsea/"
+]
+],
+"mined_at": "2026-11-12T20:06:32Z"
 }
 ]
