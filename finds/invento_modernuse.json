@@ -7458,5 +7458,25 @@
 "inventor": "Yoshiki Minowa",
 "module": "modernuse",
 "mined_at": "2026-11-12T01:00:16Z"
+},
+{
+"source": "Google Patents",
+"title": "Talking-machine",
+"date": "1918-09-17",
+"dateLabel": "published",
+"count": null,
+"countLabel": "",
+"kind": "meta",
+"mime": "patent/text",
+"thumb": "",
+"src": "",
+"preview": "",
+"url": "https://patents.google.com/patent/US1279375A/en",
+"query": "google patents q=\"phonograph\" cpc=G11B3 before 1940",
+"extra": "patent US1279375A \u00b7 inventor Moses Stuart Levussove",
+"patent_number": "US1279375A",
+"inventor": "Moses Stuart Levussove",
+"module": "modernuse",
+"mined_at": "2026-11-12T11:33:58Z"
 }
 ]

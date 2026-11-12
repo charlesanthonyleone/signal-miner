@@ -5662,5 +5662,29 @@
    ]
   ],
   "mined_at": "2026-11-11T06:47:24Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "magick7.txt.gmi",
+  "url": "https://portal.mozz.us/gemini/gem.snork.ca/textfiles.com/occult/magick7.txt.gmi",
+  "gemini": "gemini://gem.snork.ca/textfiles.com/occult/magick7.txt.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 8192,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gem.snork.ca",
+  "preview": "Copyright (c) 1988 by Phil Hansford. This article is\r\nis licenced for free non-commercial distribution only.\r\n\r\n----------------------------------------------------------\r\n\r\n** MAGICK 7 -- BASIC RITUAL **\r\n\r\n        'The first part of every ceremony is the\r\n        banishing; the second the invoking.'\r\n                   (--Crowley, Magick, p. 104)\r\n\r\n        It may be said that ritual is the very heart of\r\nmagick.  For it is through ritual that we achieve our magical\r\nresults. Ritual is a magical procedure or ceremony we perform\r\nin order to change the environment. Usually we think of\r\nritual as bearing on active magick, although certainly, it\r\ncan also affect passive magick. Most often the change\r\nachieved is subjective (it may be subtle) and in the physical\r\nworld. Outsiders may put them down to coincidence, but the\r\neffects are very real. Magical goals for a ritual should not\r\nbe taken lightly.\r\n        The successful practice of magick depends upon strong\r\nbelief. The simplest ritual of them all must be belief\r\nitself. If you can believe in your desired results strongly\r\nenough, that act is a magical ritual which will achieve your\r\nresults. Even a very complex ritual is no mor",
+  "query": "gemini search \"ritual\"",
+  "kw": "ritual",
+  "extra": "capsule: gem.snork.ca \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gem.snork.ca/textfiles.com/occult/magick7.txt.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-12T11:33:43Z"
  }
 ]
