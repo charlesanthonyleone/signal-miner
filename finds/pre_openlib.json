@@ -1,1539 +1,6 @@
 [
 {
 "author_name": [
-"Anne Mather"
-],
-"cover_i": 7321286,
-"ebook_access": "printdisabled",
-"edition_count": 8,
-"first_publish_year": 1978,
-"ia": [
-"proudharvest00math"
-],
-"key": "/works/OL3771310W",
-"title": "Proud Harvest"
-},
-{
-"author_name": [
-"Thomas Tryon"
-],
-"cover_i": 6987378,
-"ebook_access": "borrowable",
-"edition_count": 23,
-"first_publish_year": 1969,
-"ia": [
-"harvesthome00thom",
-"harvesthome0000thom_h2a3",
-"harvesthome0000thom_z8g1",
-"harvesthome0000unse",
-"harvesthome00tryo",
-"isbn_0449234967",
-"harvestho00tryo"
-],
-"key": "/works/OL3524583W",
-"title": "La f\u76bbe du mais"
-},
-{
-"author_name": [
-"Dashiell Hammett"
-],
-"cover_i": 968508,
-"ebook_access": "public",
-"edition_count": 48,
-"first_publish_year": 1929,
-"ia": [
-"bwb_O8-BOR-751",
-"lamoissonrouge0000hamm",
-"redharvest00hamm",
-"isbn_9781439507292"
-],
-"key": "/works/OL47269W",
-"title": "Red Harvest"
-},
-{
-"author_name": [
-"Kay Thorpe"
-],
-"cover_i": 6615379,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 1976,
-"ia": [
-"sugarcaneharvest00thor"
-],
-"key": "/works/OL3759493W",
-"title": "Sugar cane harvest"
-},
-{
-"author_name": [
-"Tess Gerritsen"
-],
-"cover_i": 1469618,
-"ebook_access": "printdisabled",
-"edition_count": 18,
-"first_publish_year": 1996,
-"ia": [
-"harvest0000gerr",
-"harvest0000gerr_i4s0",
-"harvestg00gerr",
-"harvest00gerr",
-"harvestgerr00gerr",
-"harvest0000gerr_g3b1"
-],
-"key": "/works/OL14871622W",
-"title": "Harvest"
-},
-{
-"author_name": [
-"Joe Schreiber"
-],
-"cover_i": 10885073,
-"ebook_access": "printdisabled",
-"edition_count": 6,
-"first_publish_year": 2010,
-"ia": [
-"starwarsredharve00schr_0"
-],
-"key": "/works/OL15598136W",
-"title": "Star Wars - Red Harvest"
-},
-{
-"author_name": [
-"Jodi Picoult"
-],
-"cover_i": 3932269,
-"ebook_access": "printdisabled",
-"edition_count": 6,
-"first_publish_year": 1993,
-"ia": [
-"harvestingheart00pico_0",
-"harvestingheart00pico"
-],
-"key": "/works/OL891943W",
-"title": "Harvesting the heart"
-},
-{
-"author_name": [
-"Tim F. LaHaye"
-],
-"cover_i": 4530474,
-"ebook_access": "borrowable",
-"edition_count": 10,
-"first_publish_year": 1998,
-"ia": [
-"soulharvestworld00laha",
-"soulharvestworld0000laha",
-"soulharvestworld00laha",
-"cosechadealmasel0000laha_y0m7"
-],
-"key": "/works/OL137689W",
-"title": "Soul Harvest"
-},
-{
-"author_name": [
-"John Darnielle"
-],
-"cover_i": 8835206,
-"ebook_access": "printdisabled",
-"edition_count": 7,
-"first_publish_year": 2017,
-"ia": [
-"bwb_S0-ATZ-713"
-],
-"key": "/works/OL20046537W",
-"title": "Universal harvester"
-},
-{
-"author_name": [
-"James Hilton"
-],
-"cover_i": 542804,
-"ebook_access": "borrowable",
-"edition_count": 66,
-"first_publish_year": 1941,
-"ia": [
-"bwb_O6-BFH-616",
-"randomharvest0000hilt_h9s2",
-"randomharvest0000unse",
-"randomharvest0000hilt_t8i7",
-"randomharvest00hilt"
-],
-"key": "/works/OL2455092W",
-"title": "Random harvest"
-},
-{
-"author_name": [
-"Manjula Padmanabhan."
-],
-"cover_i": 1687941,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 1998,
-"ia": [
-"harvest00manj"
-],
-"key": "/works/OL2313834W",
-"title": "Harvest"
-},
-{
-"author_name": [
-"Heather Graham",
-"Phil Gigante"
-],
-"cover_i": 6794259,
-"ebook_access": "printdisabled",
-"edition_count": 10,
-"first_publish_year": 2008,
-"ia": [
-"deadlyharvest00grah"
-],
-"key": "/works/OL121735W",
-"title": "Deadly harvest"
-},
-{
-"author_name": [
-"Norman Partridge"
-],
-"cover_i": 1443187,
-"ebook_access": "printdisabled",
-"edition_count": 3,
-"first_publish_year": 2006,
-"ia": [
-"darkharvest0000part",
-"isbn_9780765358714"
-],
-"key": "/works/OL6220705W",
-"title": "Dark Harvest"
-},
-{
-"author_name": [
-"Gene Stratton-Porter"
-],
-"cover_i": 4115711,
-"ebook_access": "public",
-"edition_count": 34,
-"first_publish_year": 1911,
-"ia": [
-"harvester0000gene_l2h0",
-"harvester00straiala",
-"harvester0000gene_d4b7",
-"harvester00strauoft",
-"harvesterthe00strarich",
-"harvester00stra",
-"harvester00desigoog"
-],
-"key": "/works/OL42383W",
-"title": "The Harvester"
-},
-{
-"author_name": [
-"Ann Rule"
-],
-"cover_i": 425251,
-"ebook_access": "printdisabled",
-"edition_count": 5,
-"first_publish_year": 1997,
-"ia": [
-"bitterharvestwom00rule",
-"bitterharvestwom00rule_0"
-],
-"key": "/works/OL892125W",
-"title": "Bitter Harvest"
-},
-{
-"author_name": [
-"Emily Dickinson"
-],
-"cover_i": 8310779,
-"ebook_access": "borrowable",
-"edition_count": 9,
-"first_publish_year": 1961,
-"ia": [
-"finalharvest00emil",
-"finalharvestemil00dick_0",
-"finalharvestemil00dick"
-],
-"key": "/works/OL51378W",
-"title": "Final harvest"
-},
-{
-"author_name": [
-"Stella Frances Nel"
-],
-"cover_i": 5071482,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 1973,
-"ia": [
-"goldenharvest0000nels"
-],
-"key": "/works/OL18188562W",
-"title": "Golden harvest"
-},
-{
-"author_name": [
-"Amalendu Chakraverty"
-],
-"cover_i": 8249112,
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 1988,
-"key": "/works/OL9871108W",
-"title": "Post harvest technology of cereals, pulses and oilseeds"
-},
-{
-"author_name": [
-"Joseph Staten"
-],
-"cover_i": 1443118,
-"ebook_access": "printdisabled",
-"edition_count": 1,
-"first_publish_year": 2007,
-"ia": [
-"halocontactharve0000stat"
-],
-"key": "/works/OL9242848W",
-"title": "Contact Harvest (Halo)"
-},
-{
-"author_name": [
-"Robert Conquest"
-],
-"cover_i": 4164295,
-"ebook_access": "printdisabled",
-"edition_count": 9,
-"first_publish_year": 1986,
-"ia": [
-"harvestofsorrows00conq",
-"harvestofsorrows0000conq"
-],
-"key": "/works/OL29406W",
-"title": "The harvest of sorrow"
-},
-{
-"author_name": [
-"Wole Soyinka"
-],
-"cover_i": 12510324,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 1967,
-"ia": [
-"kongisharvest0000soyi"
-],
-"key": "/works/OL10637849W",
-"title": "Kongi's harvest"
-},
-{
-"author_name": [
-"Kerry Allyne"
-],
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 1979,
-"key": "/works/OL4220908W",
-"title": "Sweet harvest"
-},
-{
-"author_name": [
-"Petra Nash"
-],
-"cover_i": 6973995,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1990,
-"ia": [
-"ladyharrietsharv00nash"
-],
-"key": "/works/OL16040644W",
-"title": "Lady Harriet's harvest"
-},
-{
-"author_name": [
-"Sally Heywood"
-],
-"cover_i": 13203910,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 1990,
-"ia": [
-"lovessweetharves0000sall",
-"lovessweetharves0000heyw"
-],
-"key": "/works/OL4180831W",
-"title": "Love's Sweet Harvest"
-},
-{
-"author_name": [
-"Robyn Carr"
-],
-"cover_i": 14543831,
-"ebook_access": "printdisabled",
-"edition_count": 10,
-"first_publish_year": 2011,
-"ia": [
-"harvestmoon0000roby",
-"harvestmoon0000carr",
-"harvestmoonlarge0000roby",
-"harvestmoon00harl"
-],
-"key": "/works/OL15662863W",
-"title": "Harvest Moon"
-},
-{
-"author_name": [
-"Neville Goddard"
-],
-"cover_i": 666941,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 1956,
-"ia": [
-"seedtimeharvest0000nevi"
-],
-"key": "/works/OL4492050W",
-"title": "Seedtime and harvest"
-},
-{
-"author_name": [
-"E. M. Forster"
-],
-"cover_i": 6798224,
-"ebook_access": "borrowable",
-"edition_count": 43,
-"first_publish_year": 1936,
-"ia": [
-"abingerharvest0000emfo_a7m8",
-"bwb_KU-377-356",
-"abingerharvest0000emfo_d4n8",
-"abingerharvest0000emfo",
-"bwb_KP-110-278",
-"bwb_o5-muy-262",
-"abingerharvest0000edwa",
-"abingerharvest0000fors",
-"abingerharvest00fors",
-"abingerharvest00fors"
-],
-"key": "/works/OL15834297W",
-"title": "Abinger harvest"
-},
-{
-"author_name": [
-"Nathaniel Hawthorne"
-],
-"cover_i": 5654516,
-"ebook_access": "public",
-"edition_count": 2425,
-"first_publish_year": 1800,
-"ia": [
-"scarletletter0000nath_g4v2",
-"scarletletter0000nath_a8t6",
-"scarletletter0000nath_b2j8",
-"scarletletter0000nath_h5h7",
-"bwb_P9-ARM-460",
-"bwb_T2-EYP-555",
-"scarletletterrom0000nath",
-"scarletlettersal0000hawt",
-"laletraescarlata36990gut",
-"thescarletletter00033gut",
-"scarletletterver2_1501_librivox",
-"de_scharlaken_letter_1405_librivox",
-"scarletletterrom01hawt",
-"thescarletletter25344gut",
-"complwritingsnat06hawtrich",
-"completewritings0000hawt_a3b9",
-"hawthworks03hawtuoft",
-"completewritings06hawtuoft",
-"laletraescarlata00hawt",
-"cu31924022247773",
-"cihm_91514",
-"scarletletterhaw00hawtrich",
-"scarletletterintro00hawtrich",
-"scarletletterrom00hawtiala",
-"letterromscarlet00hawtrich",
-"20scarletletter00hawtrich",
-"scarlettlettersi00nath",
-"scarletletter00hawt",
-"scarletletter1900hawt",
-"scarletletterrom00hawtrich",
-"scarletletter00hawtuoft",
-"romancescarlet00hawtrich",
-"scarletletter00hawtiala",
-"scarletletterrom1850hawt",
-"thescarletletter0000hawt",
-"cu31924022258200",
-"scarlet_letter_0710",
-"completewritings06hawt",
-"completewriting00scudgoog",
-"completewriting00hawtgoog",
-"scarletletterar04hawtgoog",
-"scarletletterar03hawtgoog",
-"satwordsfromlite0000nath",
-"scarletletterrom0000hawt_y8i6",
-"alaiabukvaromann0000hawt",
-"scarletletterawa0000nath",
-"scarletlettergre0000nath",
-"scarletletterhar0000nath",
-"bwb_P9-EEG-176",
-"bwb_P9-AGB-749",
-"isbn_9781499551396",
-"scarletletter0000unse_a6y1",
-"isbn_9781516895748",
-"bwb_W9-CKZ-645",
-"scarletletterfor0000unse",
-"scarletletter00rice",
-"scarletletter0000hawt",
-"scarletletter0000hawt_j1b0",
-"scarletlettersec0000unse",
-"scarletletterrom0000unse",
-"bwb_P8-AFY-085",
-"bwb_KU-259-538",
-"scarletletter0000nath_z8y9",
-"scarletletter0000nath_d0c7",
-"scarletletter0000unse_v5q3",
-"scarletletter0000nath",
-"scarletletter0000nath_b0p6",
-"scarletletter0000nath_l7j5",
-"scarletletter0000nath_p4d0",
-"scarletletter0000nath_t9n4",
-"bwb_P9-CBM-107",
-"bwb_P9-EEP-223",
-"bwb_S0-ADK-267",
-"bwb_S0-ATX-007",
-"bwb_S0-AUV-136",
-"bwb_S0-BKJ-772",
-"bwb_W8-BZH-080",
-"bwb_O8-CPJ-455",
-"bwb_P8-BIX-817",
-"scarletletter0000unse_f7q4",
-"scarletletter0000nath_d2i5",
-"scarletletter0000nath_z0c2",
-"lccn_1563180369",
-"scarletletterthe0000nath",
-"hongziscarletlet0000hawt",
-"laletraescarlata0000hawt_f3s8",
-"szkaratnalitera0000hawt",
-"derodeletterscar0000hawt",
-"derscharlachrote0000hawt_n6f3",
-"scarletletter0000hawt_w8p3",
-"scarletletterrom0000hawt_e2m7",
-"scarletletterrom0000hawt_v9b7",
-"scarletletterrom0000hawt_r6f1",
-"derscharlachrote0000hawt",
-"scarletletterrom0000hawt_j6n6",
-"scarletletter0000hawt_x4o0",
-"scarletletterrom0000hawt_t0l4",
-"scarletletterrom0000hawt_z1z5",
-"scarletletter0000hawt_i1u3",
-"scarletletter0000hawt_k8h8",
-"scarletletter0000hawt_i6u8",
-"scarletletter0001unse",
-"scarletletter0000unse",
-"laletraescarlata0000hawt",
-"scarletletter00nath_5",
-"scarletletter0000nath_j8m7",
-"scarletletterenr00hawt",
-"scarletletter0000hawt_j9b6",
-"scarletlettere00hawt",
-"scarletlettere00wash",
-"laletraroja0000hawt",
-"lalettreecarlate0000nath",
-"scarletletterwit0000unse",
-"scarletletter0000hawt_k0l8",
-"scarletletter0000hawt_g6r9",
-"worksofnathaniel0003hawt",
-"huosangmingzuoji0000hawt",
-"isbn_9784003230411",
-"scarletletter00nath_6",
-"scarlettletter00hawt",
-"isbn_0590090755",
-"scarletletterrom0000hawt",
-"scarletletter00nath",
-"scarletletteran00hawt",
-"scarletletterwit0000nath_j9g4",
-"scarletletter00nath_gw5",
-"scarletlettertex00hawt",
-"scarletlettertex0000hawt",
-"isbn_9781587266423",
-"scarletletterada00nath",
-"scarletletter0000hawt_p0e1",
-"scarletletter0000unse_i3y1",
-"scarletlett1984hawt",
-"scarletletter0000hawt_n7w6",
-"scarletletterhawth00hawt",
-"scarletletter400hawt",
-"scarletlett00hawt",
-"scarletletterann00hawt",
-"scarletlettercom00hawt",
-"scarletletter100hawt",
-"scarletlettersil00nat_hky",
-"scarletletter0000hawt_y4s6",
-"scarletletterbar00nath",
-"scarletletterlar0000nath",
-"scarletletter00hawt_7",
-"scarletletter0000nath_e3o2",
-"scarletletterkap0000nath",
-"scarletletter0000hawt_d0k4",
-"scarletletter0000hawt_v3x1",
-"scarletlettersig00nath_1",
-"scarletlett1955hawt",
-"nathanielhawthor0000unse_t5p2",
-"scarletletterrom00hawt_0",
-"scarletletter0000hawt_q7i9",
-"scarletletterpocket00hawt",
-"scarletletterkap0000hawt",
-"scarletletterrom0000hawt_t4v9",
-"scarletletter500hawt",
-"scarletletterrom00hawt",
-"scarletletter0000hawt_v2i0",
-"scarletletterro00hawt",
-"scarletletter1987hawt",
-"scarletletter0000hawt_o2z3",
-"scarletletterrom0000hawt_p8o9",
-"scarletletter00hawt_1",
-"isbn_9780785795452",
-"scarletletterbar00nath_0",
-"scarletletter0000unse_x3w0",
-"bwb_KU-689-054",
-"scarletletternor0000nath",
-"scarletletter0000hawt_s7n3",
-"isbn_0451511883",
-"scarletletter0000hawt_e5e0",
-"scarletlettera00hawt",
-"scarletletterann0000hawt",
-"scarletletteruna00hawt",
-"scarletletterrom0000hawt_r0q8",
-"scarletletterrom0000hawt_q8c6",
-"scarletletter0000hawt_b9e7",
-"scarletlettercom0000hawt_q5v1",
-"scarletletter0000hawt_z2u2",
-"scarletletter300hawt",
-"scarletlettersig00nath_0",
-"scarletletter000hawt",
-"scarletletter600hawt",
-"scarletletterrom0000hawt_q0p3",
-"scarletletter200hawt",
-"scarletletter00hawt_0",
-"scarletlettersig00nath",
-"scarletletter0000hawt_p9a6",
-"scarletletter700hawt",
-"scarletletter0000hawt_k5z4",
-"scaetter00nath",
-"scarletletterhawtho00hawt",
-"scarletletterhawt00hawt",
-"scarletletter0000hawt_n9n6",
-"scarletletter0000hawt_x7v4",
-"scarletletter02hawt",
-"scarletletterthe00hawt"
-],
-"key": "/works/OL455305W",
-"title": "The Scarlet Letter"
-},
-{
-"author_name": [
-"C. S. Lewis"
-],
-"cover_i": 9779,
-"ebook_access": "borrowable",
-"edition_count": 88,
-"first_publish_year": 1942,
-"ia": [
-"dienstanweisungf0000lewi",
-"screwtapeletters00lewi_0",
-"screwtapeletters0000csle_q1i1",
-"screwtapeletters0000lewi_m4b2",
-"screwtapeletters0000lewi_d5h8",
-"screwtapeletters1960lewi",
-"screwtapeletter00lewi",
-"screwtapeletters0000lewi_u1j6",
-"screwtapeletters0000lewi_t5i6",
-"screwtapeletters0000lewi_h3g8",
-"screwtapeletters0000lewi",
-"screwtapeletters0000lewi_g9r6",
-"screwtapeletters00lewi"
-],
-"key": "/works/OL71072W",
-"title": "The Screwtape Letters"
-},
-{
-"author_name": [
-"C. S. Lewis"
-],
-"cover_i": 6602818,
-"ebook_access": "borrowable",
-"edition_count": 32,
-"first_publish_year": 1955,
-"ia": [
-"screwtapeletters0000lewi_n2b6",
-"screwtapeletter000csle",
-"screwtapeletterslewi00lewi",
-"screwtapeletters00csle_0",
-"screwtapeletters00csle",
-"screwtapeletters00csle_1"
-],
-"key": "/works/OL15095540W",
-"title": "Novels (Screwtape Letters / Screwtape Proposes a Toast)"
-},
-{
-"author_name": [
-"Leslie McFarlane"
-],
-"cover_i": 15148670,
-"ebook_access": "printdisabled",
-"edition_count": 27,
-"first_publish_year": 1932,
-"ia": [
-"bwb_W9-CZR-630",
-"nancysmysterious0000unse_p7h3",
-"bwb_S0-CDI-745",
-"bwb_O7-CTZ-591",
-"bwb_T5-CWS-549",
-"bwb_S0-EMQ-607",
-"nancysmysterious0000mild",
-"nancysmysterious0000keen",
-"nancysmysterious00caro",
-"nancysmysterious0000keen_k0q9",
-"bwb_Y0-BXA-124",
-"nancysmysterious00keen",
-"nancysmysterious0000keen_k0y1",
-"nancysmysterious0000caro",
-"nancysmysterious0000unse_b2z0",
-"nancysmysterious0000unse_n0e2",
-"bwb_S0-EDG-425",
-"nancysmysterious0000keen_d6o7"
-],
-"key": "/works/OL39322W",
-"title": "Nancy's Mysterious Letter"
-},
-{
-"author_name": [
-"Rainer Maria Rilke"
-],
-"cover_i": 6874224,
-"ebook_access": "borrowable",
-"edition_count": 144,
-"first_publish_year": 1656,
-"ia": [
-"briefeeinenjun00rilk",
-"briefeeinenjun00rilk",
-"cartasunjovenpoe0000rilk",
-"lettresaunjeunep0000rilk",
-"lettresaunjeunep0000rilk_k0s2",
-"letterstoyoungpo0000rain_b6s3",
-"letterstoyoungpo0000rain_v3n2",
-"letterstoyoungpo00rilk",
-"letterstoyoungpo0000unse_h2w9",
-"letterstoyoungpo0000rilk_g0m4",
-"letterstoyoungpo0000rilk_z1p0",
-"letterstoyoungpo00rilkrich",
-"cartasunjovenpoe0000unse",
-"letterstoyoungpo0000rilk",
-"letterstoyoungpo0000unse",
-"letterstoyoungpo0000rilk_x0s2",
-"snj.letterstoyoungpo0000rain_q8w1",
-"letterstoyoungpo0000rain_h2r4",
-"letterstoyoungpo00rilk_0",
-"letterstoyoungpo0000rain"
-],
-"key": "/works/OL3800761W",
-"title": "Letters to a young poet"
-},
-{
-"author_name": [
-"Sir Walter Scott"
-],
-"cover_i": 5645404,
-"ebook_access": "public",
-"edition_count": 32,
-"first_publish_year": 1830,
-"ia": [
-"demonology00scotrich",
-"lettersondemonol00scotiala",
-"lettersondemonol00scot_2",
-"lettersondemonol00scotrich",
-"witchcraftletters00scotrich",
-"lettersondemonol00scot",
-"lettersondemonol0000sirw"
-],
-"key": "/works/OL863779W",
-"title": "Letters on demonology and witchcraft"
-},
-{
-"author_name": [
-"J.R.R. Tolkien"
-],
-"cover_i": 8220084,
-"ebook_access": "borrowable",
-"edition_count": 50,
-"first_publish_year": 1976,
-"ia": [
-"fatherchristmasl00tolk_0",
-"lettersfromfathe0000tolk_h5w0",
-"fatherchristmasl00tolk",
-"lettresduprenol0000jrrt",
-"lettersfromfathe0000tolk",
-"lettersfromfathe0000unse_c1t9",
-"lettersfromfathe0000unse_h8f3",
-"lettersfromfathe00tolk_0",
-"lettersfromfathe00tolk"
-],
-"key": "/works/OL27497W",
-"title": "The Father Christmas letters"
-},
-{
-"author_name": [
-"Elisabetta Dami"
-],
-"cover_i": 7373904,
-"ebook_access": "printdisabled",
-"edition_count": 18,
-"first_publish_year": 1900,
-"ia": [
-"theastiltonlostl0000stil"
-],
-"key": "/works/OL17209694W",
-"title": "Amore alla corte degli zar"
-},
-{
-"author_name": [
-"Vita Sackville-West",
-"Virginia Woolf"
-],
-"cover_i": 7102881,
-"ebook_access": "public",
-"edition_count": 15,
-"first_publish_year": 1984,
-"ia": [
-"poems00dows",
-"lettersofvitasac0000sack",
-"lettersofvitasac00sack"
-],
-"key": "/works/OL1347349W",
-"title": "The letters of Vita Sackville-West to Virginia Woolfe"
-},
-{
-"author_name": [
-"Christopher Pike"
-],
-"cover_i": 8567467,
-"ebook_access": "printdisabled",
-"edition_count": 6,
-"first_publish_year": 1986,
-"ia": [
-"chainletter00pike"
-],
-"key": "/works/OL1000782W",
-"title": "Chain Letter"
-},
-{
-"author_name": [
-"\u03a0\u03bb\u03ac\u03c4\u03c9\u03bd"
-],
-"cover_i": 14397846,
-"ebook_access": "borrowable",
-"edition_count": 7,
-"first_publish_year": 1952,
-"ia": [
-"dialogues00plat",
-"plato0007unse",
-"dialoguesofplato07plat"
-],
-"key": "/works/OL15100036W",
-"title": "The Dialogues of Plato / The Seventh Letter"
-},
-{
-"author_name": [
-"Seneca the Younger"
-],
-"cover_i": 103759,
-"ebook_access": "no_ebook",
-"edition_count": 3,
-"first_publish_year": 1969,
-"key": "/works/OL102290W",
-"title": "Letters from a Stoic"
-},
-{
-"author_name": [
-"Karen Hesse"
-],
-"cover_i": 579226,
-"ebook_access": "printdisabled",
-"edition_count": 16,
-"first_publish_year": 1992,
-"ia": [
-"lettersfromrif00hess",
-"lettersfromrifka00hess_0"
-],
-"key": "/works/OL1847166W",
-"title": "Letters from Rifka"
-},
-{
-"author_name": [
-"Patrick O'Brian"
-],
-"cover_i": 226572,
-"ebook_access": "printdisabled",
-"edition_count": 25,
-"first_publish_year": 1989,
-"ia": [
-"letterofmarque0000obri",
-"letterofmarque00obri",
-"letterofmarque00patr",
-"letterofmarque0000obri_n2v0",
-"letterofmarque00obri_0"
-],
-"key": "/works/OL14870952W",
-"title": "The Letter of Marque"
-},
-{
-"author_name": [
-"Edgar Allan Poe"
-],
-"cover_i": 11674884,
-"ebook_access": "public",
-"edition_count": 121,
-"first_publish_year": 1931,
-"ia": [
-"EdgarAllanPoe_LaLettreVolee",
-"EdgarAllanPoe",
-"purloinedletter0000poee"
-],
-"key": "/works/OL41065W",
-"title": "The Purloined Letter"
-},
-{
-"author_name": [
-"James Patterson"
-],
-"cover_i": 189719,
-"ebook_access": "borrowable",
-"edition_count": 38,
-"first_publish_year": 1874,
-"ia": [
-"confesionesjunto0000patt",
-"jenniferconamore0000patt",
-"lamournemeurtjam0000patt_v7u7",
-"ontrafeldverlede0000patt",
-"lamournemeurtjam0000patt",
-"samsletterstojen0000patt_h0z9",
-"samsletterstojen0000patt_n4v1",
-"samsletterstojenpatt00patt",
-"samsletterstojen00jame_1",
-"samsletterstojen00patt",
-"samsletterstojen00jame",
-"samsletterstojen0000patt_x5i5",
-"samsletterstojen0000patt",
-"samsletterstojen01patt",
-"samsletterstojen0000jame",
-"samsletterstojenpatt"
-],
-"key": "/works/OL167165W",
-"title": "Sam's Letters to Jennifer"
-},
-{
-"author_name": [
-"Tom Franklin",
-"Tom Franklin",
-"franklin-tom"
-],
-"cover_i": 6608037,
-"ebook_access": "printdisabled",
-"edition_count": 15,
-"first_publish_year": 2010,
-"ia": [
-"crookedlettercro0000fran_q0z4",
-"crookedlettercro0000fran",
-"crookedlettercro0000fran_h3d5",
-"crookedlettercro00fran"
-],
-"key": "/works/OL15092855W",
-"title": "Crooked letter, crooked letter"
-},
-{
-"author_name": [
-"Ava Dellaira"
-],
-"cover_i": 8764761,
-"ebook_access": "printdisabled",
-"edition_count": 9,
-"first_publish_year": 2013,
-"ia": [
-"loveletterstodea0000dell_p5v7"
-],
-"key": "/works/OL20103989W",
-"title": "Love Letters to the Dead"
-},
-{
-"author_name": [
-"Rebecca Yarros"
-],
-"cover_i": 10165652,
-"ebook_access": "no_ebook",
-"edition_count": 7,
-"first_publish_year": 2019,
-"key": "/works/OL20853227W",
-"title": "The Last Letter"
-},
-{
-"author_name": [
-"Franz Kafka"
-],
-"cover_i": 4066124,
-"ebook_access": "borrowable",
-"edition_count": 84,
-"first_publish_year": 1952,
-"ia": [
-"briefemilena0000fran",
-"briefemilena0000fran_b3e5",
-"lettresamilena0000kafk",
-"letterstomilena0000unse",
-"letterstomilena0000kafk",
-"letterstomilena0000kafk_u9s0"
-],
-"key": "/works/OL498788W",
-"title": "Briefe an Milena"
-},
-{
-"author_name": [
-"Edward Johnston"
-],
-"cover_i": 8244630,
-"ebook_access": "public",
-"edition_count": 46,
-"first_publish_year": 1906,
-"ia": [
-"writingilluminat00johnrich",
-"writingilluminat00john_0",
-"writingilluminat00johnuoft",
-"writingilluminat00edwa"
-],
-"key": "/works/OL2200371W",
-"title": "Writing & illuminating, & lettering"
-},
-{
-"author_name": [
-"Maya Angelou"
-],
-"cover_i": 6397768,
-"ebook_access": "printdisabled",
-"edition_count": 7,
-"first_publish_year": 2008,
-"ia": [
-"lettertomydaught00ange",
-"lettertomydaught0000ange_r7g0"
-],
-"key": "/works/OL14951921W",
-"title": "Letter to my daughter"
-},
-{
-"author_name": [
-"Mortimer Leach"
-],
-"cover_i": 6686595,
-"ebook_access": "no_ebook",
-"edition_count": 6,
-"first_publish_year": 1956,
-"key": "/works/OL174852W",
-"title": "Lettering for advertising"
-},
-{
-"author_name": [
-"Franz Kafka"
-],
-"cover_i": 3177168,
-"ebook_access": "borrowable",
-"edition_count": 37,
-"first_publish_year": 1953,
-"ia": [
-"lettertofather0000kafk",
-"briefdenvaterfas0000kafk",
-"briefdenvaterfak0000kafk",
-"briefdenvater0000fran"
-],
-"key": "/works/OL498787W",
-"title": "Brief an den Vater"
-},
-{
-"author_name": [
-"Shaun Usher"
-],
-"cover_i": 11502972,
-"ebook_access": "printdisabled",
-"edition_count": 45,
-"first_publish_year": 2013,
-"ia": [
-"lettersofnotecor0000unse",
-"lettersofnotevol0000unse"
-],
-"key": "/works/OL20040586W",
-"title": "Letters of note"
-},
-{
-"author_name": [
-"C. S. Lewis"
-],
-"cover_i": 6994848,
-"ebook_access": "borrowable",
-"edition_count": 22,
-"first_publish_year": 1964,
-"ia": [
-"letterstomalcolm0000lewi_o5n7"
-],
-"key": "/works/OL71126W",
-"title": "Letters to Malcolm"
-},
-{
-"author_name": [
-"Jojo Moyes"
-],
-"cover_i": 7435134,
-"ebook_access": "borrowable",
-"edition_count": 23,
-"first_publish_year": 2010,
-"ia": [
-"ostatnilistodkoc0000moye",
-"bucthutnhcuitiut0000moye",
-"lastletterfromyo0585moye_kn409",
-"lastletterfromyo0000moye_t7g1",
-"lastletterfromyo0000moye",
-"lastletterfromyo00moye"
-],
-"key": "/works/OL15942682W",
-"title": "The Last Letter from Your Lover"
-},
-{
-"author_name": [
-"J.R.R. Tolkien",
-"Humphrey Carpenter"
-],
-"cover_i": 8220129,
-"ebook_access": "borrowable",
-"edition_count": 22,
-"first_publish_year": 1981,
-"ia": [
-"lettersofjrrtolk00tolk_2",
-"lettersofjrrtolk00tolk_1",
-"lettere191419730000tolk",
-"lettersofjrrtolk00tolk_0",
-"lettersofjrrtolk00tolk",
-"lettersofjrrtolk0000tolk"
-],
-"key": "/works/OL27500W",
-"title": "The letters of J.R.R. Tolkien"
-},
-{
-"author_name": [
-"Christopher Pike"
-],
-"cover_i": 6470524,
-"ebook_access": "borrowable",
-"edition_count": 7,
-"first_publish_year": 1992,
-"ia": [
-"chainletter20000pike",
-"chainletter2anci00pike"
-],
-"key": "/works/OL1000781W",
-"title": "Chain Letter 2. The Ancient Evil"
-},
-{
-"author_name": [
-"Lemony Snicket"
-],
-"cover_i": 31077,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 2006,
-"ia": [
-"beatriceletters0000snic"
-],
-"key": "/works/OL118506W",
-"title": "The Beatrice Letters"
-},
-{
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 1989,
-"key": "/works/OL11316414M",
-"title": "American Quilts Blank Book/Pocket Size/Basket"
-},
-{
-"author_name": [
-"John Brougham"
-],
-"cover_i": 5662560,
-"ebook_access": "public",
-"edition_count": 7,
-"first_publish_year": 1855,
-"ia": [
-"abasketofchips00brourich",
-"basketofchips00brouuoft",
-"abasketchips00brougoog"
-],
-"key": "/works/OL4942717W",
-"title": "A basket of chips"
-},
-{
-"author_name": [
-"\u9ad8\u5c4b\u5948\u6708"
-],
-"cover_i": 2964136,
-"ebook_access": "no_ebook",
-"edition_count": 4,
-"first_publish_year": 2001,
-"key": "/works/OL5855285W",
-"title": "\u30d5\u30eb\u30fc\u30c4\u30d0\u30b9\u30b1\u30c3\u30c8 7"
-},
-{
-"author_name": [
-"Dawn Cusick"
-],
-"cover_i": 8160845,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 1990,
-"ia": [
-"decoratingbasket00cusi"
-],
-"key": "/works/OL2971643W",
-"title": "Decorating baskets"
-},
-{
-"author_name": [
-"Justin Lieberman"
-],
-"cover_i": 12768011,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 2006,
-"ia": [
-"hopibasketweavin0000lieb"
-],
-"key": "/works/OL12097085W",
-"title": "Hopi basket weaving"
-},
-{
-"author_name": [
-"Kathy Mackel"
-],
-"cover_i": 1189865,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 2000,
-"ia": [
-"eggsinonebasket00mack"
-],
-"key": "/works/OL2006423W",
-"title": "Eggs in one basket"
-},
-{
-"author_name": [
-"Joy Cowley"
-],
-"cover_i": 7075758,
-"ebook_access": "no_ebook",
-"edition_count": 3,
-"first_publish_year": 1993,
-"key": "/works/OL56364W",
-"title": "What next?"
-},
-{
-"author_name": [
-"Susan Breier"
-],
-"cover_i": 1899427,
-"ebook_access": "no_ebook",
-"edition_count": 3,
-"first_publish_year": 2006,
-"key": "/works/OL8883638W",
-"title": "It's a Wrap"
-},
-{
-"author_name": [
-"\u9ad8\u5c4b\u5948\u6708"
-],
-"cover_i": 6303574,
-"ebook_access": "no_ebook",
-"edition_count": 3,
-"first_publish_year": 2009,
-"key": "/works/OL14991601W",
-"title": "\u611b\u8535\u7248 \u30d5\u30eb\u30fc\u30c4\u30d0\u30b9\u30b1\u30c3\u30c8 4"
-},
-{
-"author_name": [
-"Marie Browning"
-],
-"cover_i": 751895,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 2005,
-"ia": [
-"jazzygiftbaskets0000brow"
-],
-"key": "/works/OL13510W",
-"title": "Jazzy Gift Baskets"
-},
-{
-"author_name": [
-"Edna Ferber"
-],
-"cover_i": 6925040,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1947,
-"ia": [
-"onebasket00ferb"
-],
-"key": "/works/OL16055442W",
-"title": "One basket"
-},
-{
-"author_name": [
-"Elisabeth Elliot"
-],
-"cover_i": 8174189,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1978,
-"ia": [
-"twelvebasketsofc0000elli"
-],
-"key": "/works/OL8315096W",
-"title": "Twelve Baskets of Crumbs"
-},
-{
-"author_name": [
-"George Wharton James"
-],
-"cover_i": 5923090,
-"ebook_access": "public",
-"edition_count": 5,
-"first_publish_year": 1903,
-"ia": [
-"tomakeindianhowo00jamerich",
-"howtomakeindiana00jameiala",
-"howtomakeindiano00jamerich",
-"howtomakeindiano00jame"
-],
-"key": "/works/OL1087316W",
-"title": "How to make Indian and other baskets"
-},
-{
-"author_name": [
-"Annabelle Stewart Altwater"
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 1971,
-"key": "/works/OL7217088W",
-"title": "Fruit basket"
-},
-{
-"author_name": [
-"Sharon De Vita"
-],
-"cover_i": 2409027,
-"ebook_access": "no_ebook",
-"edition_count": 4,
-"first_publish_year": 2000,
-"key": "/works/OL9481722W",
-"title": "Marriage Basket"
-},
-{
-"author_name": [
-"A. G. Knock"
-],
-"ebook_access": "no_ebook",
-"edition_count": 5,
-"first_publish_year": 1953,
-"key": "/works/OL7626087W",
-"title": "Willow basket-work"
-},
-{
-"author_name": [
-"Spears, Edward Sir"
-],
-"cover_i": 7967123,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 1967,
-"ia": [
-"bwb_KS-230-280",
-"picnicbasket00spea"
-],
-"key": "/works/OL6234897W",
-"title": "The picnic basket"
-},
-{
-"author_name": [
-"Amy Clipston"
-],
-"cover_i": 7996028,
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2016,
-"key": "/works/OL17719576W",
-"title": "The Courtship Basket"
-},
-{
-"author_name": [
-"Owens ALEXANDRA"
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2021,
-"key": "/works/OL36126117W",
-"title": "Basket Crochet Guide : Crochet Storage Basket Patterns"
-},
-{
-"author_name": [
-"Nancy Schiffer",
-"Nancy N. Schiffer",
-"J. M. Adovasio"
-],
-"cover_i": 1438830,
-"ebook_access": "no_ebook",
-"edition_count": 3,
-"first_publish_year": 1984,
-"key": "/works/OL86197W",
-"title": "Baskets"
-},
-{
-"author_name": [
-"Edna Ferber"
-],
-"ebook_access": "no_ebook",
-"edition_count": 7,
-"first_publish_year": 2013,
-"key": "/works/OL40115315W",
-"title": "One Basket"
-},
-{
-"author_name": [
-"Duane Yarnell"
-],
-"cover_i": 2485112,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 1948,
-"ia": [
-"winningbasket00yarn"
-],
-"key": "/works/OL194680W",
-"title": "The Winning Basket"
-},
-{
-"author_name": [
-"White MAURICE"
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2022,
-"key": "/works/OL27941634W",
-"title": "Simple Crochet Basket : Crochet Basket Pattern for Beginners"
-},
-{
-"author_name": [
-"Braddock SARA"
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2021,
-"key": "/works/OL36198178W",
-"title": "Crochet Storage Baskets : Simple Crochet Basket Patterns"
-},
-{
-"author_name": [
-"\u9ad8\u5c4b\u5948\u6708"
-],
-"cover_i": 8981194,
-"ebook_access": "printdisabled",
-"edition_count": 2,
-"first_publish_year": 2010,
-"ia": [
-"fruitsbasket60006taka"
-],
-"key": "/works/OL20319713W",
-"title": "Fruits Basket Ultimate Edition Volume 6"
-},
-{
-"author_name": [
-"Christoph von Schmid"
-],
-"ebook_access": "no_ebook",
-"edition_count": 6,
-"first_publish_year": 2009,
-"key": "/works/OL34584360W",
-"title": "A Basket of Flowers"
-},
-{
-"author_name": [
-"Golden Books"
-],
-"cover_i": 2359480,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 2002,
-"ia": [
-"petercottontailb0000mast"
-],
-"key": "/works/OL8039844W",
-"title": "Baskets of Fun"
-},
-{
-"author_name": [
-"Lois Walpole"
-],
-"cover_i": 8348558,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1989,
-"ia": [
-"creativebasketma0000walp"
-],
-"key": "/works/OL4645901W",
-"title": "Creative basket making"
-},
-{
-"author_name": [
-"Jane LaFerla"
-],
-"cover_i": 1937759,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 2002,
-"ia": [
-"makingcreativeba0000lafe"
-],
-"key": "/works/OL17869591W",
-"title": "Making creative baskets"
-},
-{
-"author_name": [
-"Gabriella Mariotti"
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 1996,
-"key": "/works/OL8479005W",
-"title": "All my baskets"
-},
-{
-"author_name": [
-"Shaun David Hutchinson"
-],
-"cover_i": 12355912,
-"ebook_access": "printdisabled",
-"edition_count": 8,
-"first_publish_year": 2016,
-"ia": [
-"weareants0000hutc"
-],
-"key": "/works/OL17934983W",
-"title": "We Are the Ants"
-},
-{
-"author_name": [
 "Jerry Spinelli"
 ],
 "cover_i": 14860093,
@@ -41404,5 +39871,1025 @@
 "first_publish_year": 2013,
 "key": "/works/OL21288645W",
 "title": "Trends in the Judiciary"
+},
+{
+"author_name": [
+"Al Ries"
+],
+"cover_i": 60549,
+"ebook_access": "borrowable",
+"edition_count": 5,
+"first_publish_year": 1986,
+"ia": [
+"marketingwarfare00ries_0",
+"marketingwarfare00ries"
+],
+"key": "/works/OL1892672W",
+"title": "Marketing Warfare"
+},
+{
+"author_name": [
+"Brian Shannon"
+],
+"cover_i": 8725951,
+"ebook_access": "no_ebook",
+"edition_count": 4,
+"first_publish_year": 2008,
+"key": "/works/OL19905807W",
+"title": "Technical analysis using multiple timeframes"
+},
+{
+"author_name": [
+"Kunal Ratnaparkhi"
+],
+"cover_i": 13969328,
+"ebook_access": "no_ebook",
+"edition_count": 2,
+"first_publish_year": 2017,
+"key": "/works/OL29578742W",
+"title": "Indian Share Market"
+},
+{
+"author_name": [
+"William D. Perreault",
+"Joseph P., Ph.D. Cannon",
+"E. Jerome McCarthy"
+],
+"cover_i": 5433949,
+"ebook_access": "borrowable",
+"edition_count": 16,
+"first_publish_year": 1996,
+"ia": [
+"basicmarketinggl00perr_0",
+"isbn_9780072409475",
+"isbn_9780072947038",
+"basicmarketinggl12perr",
+"basicmarketingma0000perr_j5k2",
+"basicmarketing00will"
+],
+"key": "/works/OL1823493W",
+"title": "Basic marketing"
+},
+{
+"author_name": [
+"R. W. McNeel"
+],
+"cover_i": 875484,
+"ebook_access": "borrowable",
+"edition_count": 8,
+"first_publish_year": 1921,
+"ia": [
+"beatingstockmark00mcne"
+],
+"key": "/works/OL147965W",
+"title": "Beating the stock market"
+},
+{
+"author_name": [
+"Alexander Hiam"
+],
+"cover_i": 812339,
+"ebook_access": "printdisabled",
+"edition_count": 4,
+"first_publish_year": 1997,
+"ia": [
+"marketingfordumm0000hiam"
+],
+"key": "/works/OL1996310W",
+"title": "Marketing for dummies"
+},
+{
+"author_name": [
+"Michael J. Etzel"
+],
+"cover_i": 3850479,
+"ebook_access": "printdisabled",
+"edition_count": 5,
+"first_publish_year": 1997,
+"ia": [
+"marketing0000etze",
+"marketing0000etze_j6b0"
+],
+"key": "/works/OL3270652W",
+"title": "Marketing"
+},
+{
+"author_name": [
+"Sandra Brown"
+],
+"cover_i": 9557909,
+"ebook_access": "borrowable",
+"edition_count": 27,
+"first_publish_year": 2001,
+"ia": [
+"jalouxroman0000brow",
+"zavist0000brow",
+"isbn_9781538744741",
+"envy0000brow_j3y9",
+"envy0000brow_d1i8",
+"envy0000brow",
+"envy0000brow_r6o1",
+"envy00browrich",
+"envyneid00sand",
+"env00brow",
+"envybrow00brow",
+"envybrown00brow",
+"envy0000brow_m4a6",
+"envy00brow_0",
+"envybrow00brow"
+],
+"key": "/works/OL167320W",
+"title": "Envy"
+},
+{
+"author_name": [
+"Michael R. Solomon",
+"Greg W. Marshall",
+"Elnora W. Stuart",
+"Elnora Stuart"
+],
+"cover_i": 1108290,
+"ebook_access": "printdisabled",
+"edition_count": 14,
+"first_publish_year": 1996,
+"ia": [
+"marketingrealpeo0000solo_w0l0",
+"marketingrealpeo0000solo",
+"marketingrealpeo0000solo_f6f9"
+],
+"key": "/works/OL1906371W",
+"title": "Marketing"
+},
+{
+"author_name": [
+"Tracy L. Tuten",
+"Michael R. Solomon"
+],
+"ebook_access": "no_ebook",
+"edition_count": 7,
+"first_publish_year": 2017,
+"key": "/works/OL21157048W",
+"title": "Social Media Marketing"
+},
+{
+"author_name": [
+"Jean-Pierre Jeannet"
+],
+"cover_i": 4531331,
+"ebook_access": "borrowable",
+"edition_count": 9,
+"first_publish_year": 1992,
+"ia": [
+"globalmarketings00jean_0",
+"globalmarketings0000jean_q5y9",
+"globalmarketings0000jean",
+"globalmarketings0000jean_e6e0",
+"globalmarketings00jean",
+"globalmarketings0005jean"
+],
+"key": "/works/OL2768696W",
+"title": "Global marketing strategies"
+},
+{
+"author_name": [
+"William G. Zikmund",
+"Barry J. Babin"
+],
+"cover_i": 1178166,
+"ebook_access": "printdisabled",
+"edition_count": 9,
+"first_publish_year": 1999,
+"ia": [
+"essentialsofmark0000zikm_a0a4",
+"essentialsofmark00zikm_0",
+"essentialsofmark0000zikm_s5d5",
+"essentialsofmark0000zikm"
+],
+"key": "/works/OL513587W",
+"title": "Essentials of marketing research"
+},
+{
+"author_name": [
+"Andrew W. Lo"
+],
+"cover_i": 8801577,
+"ebook_access": "no_ebook",
+"edition_count": 5,
+"first_publish_year": 2017,
+"key": "/works/OL20054738W",
+"title": "Adaptive markets"
+},
+{
+"author_name": [
+"Shiv Singh"
+],
+"cover_i": 9713459,
+"ebook_access": "printdisabled",
+"edition_count": 9,
+"first_publish_year": 2012,
+"ia": [
+"socialmediamarke0000sing_i0m3"
+],
+"key": "/works/OL19990273W",
+"title": "Social media marketing for dummies"
+},
+{
+"author_name": [
+"O. C. Ferrell",
+"Michael Hartline"
+],
+"cover_i": 4345332,
+"ebook_access": "printdisabled",
+"edition_count": 6,
+"first_publish_year": 2002,
+"ia": [
+"marketingstrateg0000ferr_u2f8",
+"marketingstrateg0000ferr_d9o1"
+],
+"key": "/works/OL531094W",
+"title": "Marketing strategy"
+},
+{
+"author_name": [
+"Seth Godin"
+],
+"cover_i": 427916,
+"ebook_access": "printdisabled",
+"edition_count": 4,
+"first_publish_year": 1999,
+"ia": [
+"permissionmarket00godi"
+],
+"key": "/works/OL2329257W",
+"title": "Permission Marketing"
+},
+{
+"author_name": [
+"Kathy Lien"
+],
+"cover_i": 13293709,
+"ebook_access": "printdisabled",
+"edition_count": 5,
+"first_publish_year": 2008,
+"ia": [
+"daytradingswingt0000lien"
+],
+"key": "/works/OL21105137W",
+"title": "Day Trading and Swing Trading the Currency Market"
+},
+{
+"author_name": [
+"Damian Ryan"
+],
+"cover_i": 12166555,
+"ebook_access": "borrowable",
+"edition_count": 10,
+"first_publish_year": 2008,
+"ia": [
+"understandingdig0000ryan_s5k4",
+"understandingdig0000ryan_f0l0"
+],
+"key": "/works/OL20054835W",
+"title": "Understanding digital marketing"
+},
+{
+"author_name": [
+"Marketing Digital"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2019,
+"key": "/works/OL27198124W",
+"title": "Knowing Online Marketing"
+},
+{
+"author_name": [
+"Howard Marks"
+],
+"cover_i": 10221762,
+"ebook_access": "no_ebook",
+"edition_count": 5,
+"first_publish_year": 2018,
+"key": "/works/OL20891114W",
+"title": "Mastering The Market Cycle"
+},
+{
+"author_name": [
+"Louis L'Amour"
+],
+"cover_i": 369056,
+"ebook_access": "printdisabled",
+"edition_count": 27,
+"first_publish_year": 1969,
+"ia": [
+"conagher00lamo_0",
+"conagher00lamo"
+],
+"key": "/works/OL51080W",
+"title": "Conagher"
+},
+{
+"author_name": [
+"Gary Armstrong",
+"Philip Kotler"
+],
+"cover_i": 13306019,
+"ebook_access": "no_ebook",
+"edition_count": 19,
+"first_publish_year": 1993,
+"key": "/works/OL21484306W",
+"title": "Marketing"
+},
+{
+"author_name": [
+"Philip Kotler",
+"Kevin Lane Keller"
+],
+"cover_i": 5443518,
+"ebook_access": "printdisabled",
+"edition_count": 7,
+"first_publish_year": 2001,
+"ia": [
+"frameworkformark0004kotl",
+"frameworkformark00kotl_2",
+"frameworkformark0000kotl",
+"frameworkformark00kotl_1"
+],
+"key": "/works/OL1807514W",
+"title": "A framework for marketing management"
+},
+{
+"author_name": [
+"Frank J. Fabozzi"
+],
+"cover_i": 6970197,
+"ebook_access": "borrowable",
+"edition_count": 19,
+"first_publish_year": 1989,
+"ia": [
+"bondmarketsanaly0000fabo",
+"bondmarketsanaly00fabo",
+"bondmarketsanaly0000fabo_w4n1"
+],
+"key": "/works/OL16288100W",
+"title": "Bond Markets, Analysis, and Strategies"
+},
+{
+"author_name": [
+"Firmanzah."
+],
+"cover_i": 5348619,
+"ebook_access": "no_ebook",
+"edition_count": 2,
+"first_publish_year": 2007,
+"key": "/works/OL11890174W",
+"title": "Marketing politik"
+},
+{
+"author_name": [
+"Jack D. Schwager"
+],
+"cover_i": 14726255,
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2012,
+"key": "/works/OL16676677W",
+"title": "Market wizards"
+},
+{
+"author_name": [
+"Manjula Chaudhary"
+],
+"cover_i": 11518182,
+"ebook_access": "printdisabled",
+"edition_count": 1,
+"first_publish_year": 2010,
+"ia": [
+"tourismmarketing0000chau"
+],
+"key": "/works/OL16144361W",
+"title": "Tourism marketing"
+},
+{
+"cover_i": 8777520,
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2019,
+"key": "/works/OL20124215W",
+"title": "Marketing Digital - Introdu\u8abdo Simples"
+},
+{
+"author_name": [
+"F. M. Scherer"
+],
+"cover_i": 9966163,
+"ebook_access": "borrowable",
+"edition_count": 6,
+"first_publish_year": 1970,
+"ia": [
+"industrialmarket00sche",
+"industr_sch_1970_00_2530"
+],
+"key": "/works/OL2965680W",
+"title": "Industrial market structure and economic performance"
+},
+{
+"author_name": [
+"Gilbert A. Churchill"
+],
+"cover_i": 4531109,
+"ebook_access": "printdisabled",
+"edition_count": 10,
+"first_publish_year": 1987,
+"ia": [
+"basicmarketingre0000chur",
+"basicmarketingre0000brow",
+"basicmarketingre0000chur_e4f7",
+"basicmarketingre00chur"
+],
+"key": "/works/OL2023331W",
+"title": "Basic marketing research"
+},
+{
+"author_name": [
+"Victoria Owens"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2019,
+"key": "/works/OL21639476W",
+"title": "Aqueducts and Viaducts of Britain"
+},
+{
+"author_name": [
+"Francesc Prat y Puig"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 1936,
+"key": "/works/OL44891155W",
+"title": "L'aq\u042deducte Rom\u042e de Pineda"
+},
+{
+"author_name": [
+"New York (N.Y .). Aqueduct Commission"
+],
+"cover_i": 6216942,
+"ebook_access": "public",
+"edition_count": 1,
+"first_publish_year": 1890,
+"ia": [
+"minutesaqueduct01commgoog"
+],
+"key": "/works/OL18068951W",
+"title": "Minutes of the Aqueduct Commissioners"
+},
+{
+"author_name": [
+"D.H Platt"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 1952,
+"key": "/works/OL13177599W",
+"title": "Roof-bolting the Delaware aqueduct"
+},
+{
+"author_name": [
+"John B. Jervis"
+],
+"cover_i": 7040209,
+"ebook_access": "public",
+"edition_count": 1,
+"first_publish_year": 1842,
+"ia": [
+"descriptioncrot00jervgoog"
+],
+"key": "/works/OL1112854W",
+"title": "Description of the Croton Aqueduct"
+},
+{
+"author_name": [
+"David Amit",
+"Joseph Patrich",
+"Yizhar Hirschfeld"
+],
+"cover_i": 5179897,
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2002,
+"key": "/works/OL24102153W",
+"title": "The aqueducts of Israel"
+},
+{
+"author_name": [
+"Greater Winnipeg Water District"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2021,
+"key": "/works/OL34180576W",
+"title": "Aqueduct Construction Scheme [microform]"
+},
+{
+"author_name": [
+"R. s. Gompertz"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2013,
+"key": "/works/OL25851193W",
+"title": "Aqueduct to Nowhere"
+},
+{
+"author_name": [
+"Phone Number List | Databases List"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 1916,
+"key": "/works/OL10881408W",
+"title": "Aqueduct bridge, District of Columbia"
+},
+{
+"author_name": [
+"Phone Number List | Databases List"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 1886,
+"key": "/works/OL10881407W",
+"title": "The Aqueduct Bridge"
+},
+{
+"author_name": [
+"Allen Kelly"
+],
+"cover_i": 8128474,
+"ebook_access": "public",
+"edition_count": 1,
+"first_publish_year": 1913,
+"ia": [
+"historicalsketch00kell"
+],
+"key": "/works/OL17834645W",
+"title": "Historical sketch of the Los Angeles Aqueduct"
+},
+{
+"author_name": [
+"William H. Lewis"
+],
+"cover_i": 8218573,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1997,
+"ia": [
+"aqueductmerritts0000lewi"
+],
+"key": "/works/OL8730480W",
+"title": "Aqueduct Merrittsville and Welland"
+},
+{
+"author_name": [
+"California. Dept. of Water Resources."
+],
+"cover_i": 6101364,
+"ebook_access": "public",
+"edition_count": 2,
+"first_publish_year": 1966,
+"ia": [
+"t2recreationareasa15466calirich"
+],
+"key": "/works/OL5337913W",
+"title": "Recreation areas along the California Aqueduct in the San Joaquin Valley"
+},
+{
+"author_name": [
+"Sextus Julius Frontinus"
+],
+"cover_i": 414570,
+"ebook_access": "no_ebook",
+"edition_count": 9,
+"first_publish_year": 1686,
+"key": "/works/OL963038W",
+"title": "The stratagems of war, or, A collection of the most celebrated practices and wise sayings of the great generals in former ages"
+},
+{
+"author_name": [
+"Sandra Purves"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2000,
+"key": "/works/OL12437085W",
+"title": "Aqueduct construction in the canal age"
+},
+{
+"author_name": [
+"Emery T. Cleaves"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 1968,
+"key": "/works/OL33192311W",
+"title": "Piedmont and coastal plain geology along the Susquehanna Aqueduct, Baltimore to Aberdeen, Maryland"
+},
+{
+"author_name": [
+"Martin Wickham"
+],
+"cover_i": 4407839,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 1978,
+"ia": [
+"potterysciencech0000wick"
+],
+"key": "/works/OL6621283W",
+"title": "Pottery science"
+},
+{
+"author_name": [
+"Jane Perryman"
+],
+"cover_i": 1696299,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1995,
+"ia": [
+"smokefiredpotter0000jane"
+],
+"key": "/works/OL223560W",
+"title": "Smoke-Fired Pottery"
+},
+{
+"author_name": [
+"Harvey, Roger"
+],
+"cover_i": 7164898,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 1975,
+"ia": [
+"buildingpotterye00harv"
+],
+"key": "/works/OL7009008W",
+"title": "Building pottery equipment"
+},
+{
+"author_name": [
+"Judy Cunningham-Smith"
+],
+"cover_i": 12647288,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 1979,
+"ia": [
+"selfsufficientpo0000cunn"
+],
+"key": "/works/OL6417088W",
+"title": "Self-sufficient pottery"
+},
+{
+"author_name": [
+"Tony Birks"
+],
+"cover_i": 451582,
+"ebook_access": "borrowable",
+"edition_count": 4,
+"first_publish_year": 1988,
+"ia": [
+"pottery0000tony",
+"potterycompleteg0000birk"
+],
+"key": "/works/OL4672457W",
+"title": "Pottery"
+},
+{
+"author_name": [
+"Jacqui Atkin"
+],
+"cover_i": 14317755,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 2017,
+"ia": [
+"makingpotteryyou0000atki"
+],
+"key": "/works/OL20056628W",
+"title": "Making pottery you can use"
+},
+{
+"author_name": [
+"Geoffrey Wills"
+],
+"cover_i": 9483022,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1969,
+"ia": [
+"englishpotterypo0000will"
+],
+"key": "/works/OL5199903W",
+"title": "English pottery and porcelain"
+},
+{
+"author_name": [
+"John Gibson"
+],
+"cover_i": 1348583,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 1987,
+"ia": [
+"potterydecoratio0000gibs"
+],
+"key": "/works/OL24190435W",
+"title": "Pottery decoration"
+},
+{
+"author_name": [
+"Jeffrey B. Snyder"
+],
+"cover_i": 4711151,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1999,
+"ia": [
+"mccoypottery0000snyd"
+],
+"key": "/works/OL106378W",
+"title": "McCoy Pottery"
+},
+{
+"author_name": [
+"Cora Pucci"
+],
+"cover_i": 7144721,
+"ebook_access": "borrowable",
+"edition_count": 3,
+"first_publish_year": 1974,
+"ia": [
+"pottery00cora"
+],
+"key": "/works/OL7000900W",
+"title": "Pottery"
+},
+{
+"author_name": [
+"michael cardew"
+],
+"cover_i": 8472669,
+"ebook_access": "no_ebook",
+"edition_count": 3,
+"first_publish_year": 1971,
+"key": "/works/OL19358117W",
+"title": "Pioneer Pottery"
+},
+{
+"author_name": [
+"Mike Schneider"
+],
+"cover_i": 1438908,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1996,
+"ia": [
+"grindleypotterym0000schn"
+],
+"key": "/works/OL58033W",
+"title": "Grindley pottery"
+},
+{
+"author_name": [
+"Robert Manuel Cook"
+],
+"cover_i": 1207688,
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 1998,
+"key": "/works/OL2639621W",
+"title": "East Greek pottery"
+},
+{
+"author_name": [
+"Murray Fieldhouse"
+],
+"ebook_access": "no_ebook",
+"edition_count": 4,
+"first_publish_year": 1952,
+"key": "/works/OL7484068W",
+"title": "Pottery"
+},
+{
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 1990,
+"key": "/works/OL18785075M",
+"title": "The Quiet eye"
+},
+{
+"author_name": [
+"Edward B. Adams"
+],
+"cover_i": 12745851,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 1991,
+"ia": [
+"koreaspotteryher0000adam"
+],
+"key": "/works/OL9084962W",
+"title": "Korea's Pottery Heritage (Korea's Pottery Heritage)"
+},
+{
+"author_name": [
+"Lucile Henzke"
+],
+"cover_i": 4519628,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 1970,
+"ia": [
+"americanartpotte00henz"
+],
+"key": "/works/OL4809117W",
+"title": "American art pottery"
+},
+{
+"author_name": [
+"Herbert H. Sanders"
+],
+"cover_i": 10034575,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 1974,
+"ia": [
+"howtomakepottery0000sand"
+],
+"key": "/works/OL7003732W",
+"title": "How to make pottery"
+},
+{
+"author_name": [
+"C. Jordan Thorn"
+],
+"cover_i": 12525224,
+"ebook_access": "borrowable",
+"edition_count": 4,
+"first_publish_year": 1947,
+"ia": [
+"handbookofoldpot0000cjor_f1n7",
+"handbookofoldpot0000thor"
+],
+"key": "/works/OL13048151W",
+"title": "Handbook of old pottery and porcelain marks"
+},
+{
+"author_name": [
+"Mollie Winterburn"
+],
+"cover_i": 7367007,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1969,
+"ia": [
+"techniqueofhandb00wint",
+"techniqueofhandb0000wint"
+],
+"key": "/works/OL7260362W",
+"title": "The technique of handbuilt pottery"
+},
+{
+"author_name": [
+"Penelope A. Mountjoy"
+],
+"cover_i": 13580644,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1993,
+"ia": [
+"mycenaeanpottery0000moun"
+],
+"key": "/works/OL3604395W",
+"title": "Mycenaean pottery"
+},
+{
+"author_name": [
+"John Ramsay"
+],
+"cover_i": 14868312,
+"ebook_access": "borrowable",
+"edition_count": 6,
+"first_publish_year": 1939,
+"ia": [
+"americanpottersp0000john"
+],
+"key": "/works/OL5438286W",
+"title": "American potters and pottery"
+},
+{
+"author_name": [
+"Susan D. Bagdade"
+],
+"cover_i": 3975587,
+"ebook_access": "borrowable",
+"edition_count": 3,
+"first_publish_year": 1987,
+"ia": [
+"warmansenglishco00bagd",
+"warmansenglishco0000bagd",
+"warmansenglishco0000bagd_x9g6"
+],
+"key": "/works/OL2273656W",
+"title": "Warman's English & continental pottery & porcelain"
+},
+{
+"author_name": [
+"Anna Mary Feldmeyer"
+],
+"cover_i": 1924991,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 2001,
+"ia": [
+"isbn_9781574322613"
+],
+"key": "/works/OL17270286W",
+"title": "UHL pottery"
+},
+{
+"author_name": [
+"Mary Caroline Richards"
+],
+"cover_i": 618092,
+"ebook_access": "printdisabled",
+"edition_count": 4,
+"first_publish_year": 1964,
+"ia": [
+"centeringinpotte00rich",
+"centeringinpotte00rich_0"
+],
+"key": "/works/OL3339338W",
+"title": "Centering in pottery, poetry, and the person"
+},
+{
+"author_name": [
+"Kenneth R. Beittel"
+],
+"cover_i": 635008,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1989,
+"ia": [
+"zenartofpottery00beit"
+],
+"key": "/works/OL4134834W",
+"title": "Zen and the art of pottery"
+},
+{
+"author_name": [
+"Mike Schneider"
+],
+"cover_i": 6798973,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1995,
+"ia": [
+"californiapotter00schn",
+"californiapotter00schn"
+],
+"key": "/works/OL15835106W",
+"title": "California potteries"
+},
+{
+"author_name": [
+"Vivien G. Swan"
+],
+"cover_i": 4388005,
+"ebook_access": "borrowable",
+"edition_count": 4,
+"first_publish_year": 1975,
+"ia": [
+"potteryinromanbr0000swan",
+"potteryinromanbr0000swan_w8s4"
+],
+"key": "/works/OL4708256W",
+"title": "Pottery in Roman Britain"
+},
+{
+"author_name": [
+"Ralph C. Davison"
+],
+"cover_i": 6261056,
+"ebook_access": "public",
+"edition_count": 7,
+"first_publish_year": 1909,
+"ia": [
+"concretepotteryg00daviiala",
+"cu31924020601831"
+],
+"key": "/works/OL250411W",
+"title": "Concrete pottery and garden furniture"
 }
 ]
