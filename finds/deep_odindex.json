@@ -58126,5 +58126,621 @@
 ]
 ],
 "mined_at": "2026-11-12T20:06:32Z"
+},
+{
+"source": "Open Directory",
+"title": "status.png",
+"date": "13-Nov-2026 01:56",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "9822",
+"ftype": "image",
+"host": "status.split.prometko.si",
+"thumb": "https://status.split.prometko.si/status.png",
+"kind": "img",
+"src": "https://status.split.prometko.si/status.png",
+"gated": true,
+"url": "https://status.split.prometko.si/status.png",
+"mime": "image/*",
+"query": "urlscan 'Index of' sighting \u2192 https://status.split.prometko.si/",
+"kw": "",
+"preview": "image \uff77 9822 \uff77 13-Nov-2026 01:56 \uff77 in https://status.split.prometko.si/",
+"extra": "host: status.split.prometko.si \u00b7 dir: https://status.split.prometko.si/",
+"links": [
+[
+"parent dir \u2197",
+"https://status.split.prometko.si/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "neradivisasila.png",
+"date": "11-Aug-2022 19:34",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1144",
+"ftype": "image",
+"host": "status.split.prometko.si",
+"thumb": "https://status.split.prometko.si/neradivisasila.png",
+"kind": "img",
+"src": "https://status.split.prometko.si/neradivisasila.png",
+"gated": true,
+"url": "https://status.split.prometko.si/neradivisasila.png",
+"mime": "image/*",
+"query": "urlscan 'Index of' sighting \u2192 https://status.split.prometko.si/",
+"kw": "",
+"preview": "image \uff77 1144 \uff77 11-Aug-2022 19:34 \uff77 in https://status.split.prometko.si/",
+"extra": "host: status.split.prometko.si \u00b7 dir: https://status.split.prometko.si/",
+"links": [
+[
+"parent dir \u2197",
+"https://status.split.prometko.si/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "neraditracker.png",
+"date": "11-Aug-2022 19:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1374",
+"ftype": "image",
+"host": "status.split.prometko.si",
+"thumb": "https://status.split.prometko.si/neraditracker.png",
+"kind": "img",
+"src": "https://status.split.prometko.si/neraditracker.png",
+"gated": true,
+"url": "https://status.split.prometko.si/neraditracker.png",
+"mime": "image/*",
+"query": "urlscan 'Index of' sighting \u2192 https://status.split.prometko.si/",
+"kw": "",
+"preview": "image \uff77 1374 \uff77 11-Aug-2022 19:33 \uff77 in https://status.split.prometko.si/",
+"extra": "host: status.split.prometko.si \u00b7 dir: https://status.split.prometko.si/",
+"links": [
+[
+"parent dir \u2197",
+"https://status.split.prometko.si/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "radi.png",
+"date": "11-Aug-2022 19:33",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "515",
+"ftype": "image",
+"host": "status.split.prometko.si",
+"thumb": "https://status.split.prometko.si/radi.png",
+"kind": "img",
+"src": "https://status.split.prometko.si/radi.png",
+"gated": true,
+"url": "https://status.split.prometko.si/radi.png",
+"mime": "image/*",
+"query": "urlscan 'Index of' sighting \u2192 https://status.split.prometko.si/",
+"kw": "",
+"preview": "image \uff77 515 \uff77 11-Aug-2022 19:33 \uff77 in https://status.split.prometko.si/",
+"extra": "host: status.split.prometko.si \u00b7 dir: https://status.split.prometko.si/",
+"links": [
+[
+"parent dir \u2197",
+"https://status.split.prometko.si/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "sitemap.xml",
+"date": "2026-10-07 21:49",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "312",
+"ftype": "other",
+"host": "miniguitarpedals.com",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://miniguitarpedals.com/sitemap.xml",
+"mime": "other/*",
+"query": "urlscan 'Index of' sighting \u2192 https://miniguitarpedals.com/",
+"kw": "",
+"preview": "other \uff77 312 \uff77 2026-10-07 21:49 \uff77 in https://miniguitarpedals.com/",
+"extra": "host: miniguitarpedals.com \u00b7 dir: https://miniguitarpedals.com/",
+"links": [
+[
+"parent dir \u2197",
+"https://miniguitarpedals.com/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "pm33logo.png",
+"date": "2026-10-07 21:24",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "370K",
+"ftype": "image",
+"host": "miniguitarpedals.com",
+"thumb": "https://miniguitarpedals.com/pm33logo.png",
+"kind": "img",
+"src": "https://miniguitarpedals.com/pm33logo.png",
+"gated": true,
+"url": "https://miniguitarpedals.com/pm33logo.png",
+"mime": "image/*",
+"query": "urlscan 'Index of' sighting \u2192 https://miniguitarpedals.com/",
+"kw": "",
+"preview": "image \uff77 370K \uff77 2026-10-07 21:24 \uff77 in https://miniguitarpedals.com/",
+"extra": "host: miniguitarpedals.com \u00b7 dir: https://miniguitarpedals.com/",
+"links": [
+[
+"parent dir \u2197",
+"https://miniguitarpedals.com/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "bannerpm33.jpg",
+"date": "2026-10-07 21:23",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "373K",
+"ftype": "image",
+"host": "miniguitarpedals.com",
+"thumb": "https://miniguitarpedals.com/bannerpm33.jpg",
+"kind": "img",
+"src": "https://miniguitarpedals.com/bannerpm33.jpg",
+"gated": true,
+"url": "https://miniguitarpedals.com/bannerpm33.jpg",
+"mime": "image/*",
+"query": "urlscan 'Index of' sighting \u2192 https://miniguitarpedals.com/",
+"kw": "",
+"preview": "image \uff77 373K \uff77 2026-10-07 21:23 \uff77 in https://miniguitarpedals.com/",
+"extra": "host: miniguitarpedals.com \u00b7 dir: https://miniguitarpedals.com/",
+"links": [
+[
+"parent dir \u2197",
+"https://miniguitarpedals.com/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "faviconpm33.png",
+"date": "2026-10-07 21:24",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "398K",
+"ftype": "image",
+"host": "miniguitarpedals.com",
+"thumb": "https://miniguitarpedals.com/faviconpm33.png",
+"kind": "img",
+"src": "https://miniguitarpedals.com/faviconpm33.png",
+"gated": true,
+"url": "https://miniguitarpedals.com/faviconpm33.png",
+"mime": "image/*",
+"query": "urlscan 'Index of' sighting \u2192 https://miniguitarpedals.com/",
+"kw": "",
+"preview": "image \uff77 398K \uff77 2026-10-07 21:24 \uff77 in https://miniguitarpedals.com/",
+"extra": "host: miniguitarpedals.com \u00b7 dir: https://miniguitarpedals.com/",
+"links": [
+[
+"parent dir \u2197",
+"https://miniguitarpedals.com/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "sub00042.jpg",
+"date": "1995-09-18 16:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "51K",
+"ftype": "image",
+"host": "ftp.funet.fi",
+"thumb": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00042.jpg",
+"kind": "img",
+"src": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00042.jpg",
+"gated": true,
+"url": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00042.jpg",
+"mime": "image/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "image \uff77 51K \uff77 1995-09-18 16:01 \uff77 in https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/nature/deepsea/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "sub00026.jpg",
+"date": "1995-09-18 16:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "158K",
+"ftype": "image",
+"host": "ftp.funet.fi",
+"thumb": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00026.jpg",
+"kind": "img",
+"src": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00026.jpg",
+"gated": true,
+"url": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00026.jpg",
+"mime": "image/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "image \uff77 158K \uff77 1995-09-18 16:01 \uff77 in https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/nature/deepsea/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "sub00078.jpg",
+"date": "1995-09-29 17:16",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "126K",
+"ftype": "image",
+"host": "ftp.funet.fi",
+"thumb": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00078.jpg",
+"kind": "img",
+"src": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00078.jpg",
+"gated": true,
+"url": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00078.jpg",
+"mime": "image/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "image \uff77 126K \uff77 1995-09-29 17:16 \uff77 in https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/nature/deepsea/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "sub00045.jpg",
+"date": "1995-09-18 16:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "161K",
+"ftype": "image",
+"host": "ftp.funet.fi",
+"thumb": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00045.jpg",
+"kind": "img",
+"src": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00045.jpg",
+"gated": true,
+"url": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00045.jpg",
+"mime": "image/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "image \uff77 161K \uff77 1995-09-18 16:01 \uff77 in https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/nature/deepsea/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "sub00018.jpg",
+"date": "1995-07-12 23:34",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "143K",
+"ftype": "image",
+"host": "ftp.funet.fi",
+"thumb": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00018.jpg",
+"kind": "img",
+"src": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00018.jpg",
+"gated": true,
+"url": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00018.jpg",
+"mime": "image/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "image \uff77 143K \uff77 1995-07-12 23:34 \uff77 in https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/nature/deepsea/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "sub00031.jpg",
+"date": "1995-09-18 16:01",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "136K",
+"ftype": "image",
+"host": "ftp.funet.fi",
+"thumb": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00031.jpg",
+"kind": "img",
+"src": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00031.jpg",
+"gated": true,
+"url": "https://ftp.funet.fi/pub/pics/nature/deepsea/sub00031.jpg",
+"mime": "image/*",
+"query": "random descent from https://ftp.funet.fi/pub/pics/",
+"kw": "",
+"preview": "image \uff77 136K \uff77 1995-09-18 16:01 \uff77 in https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/nature/deepsea/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/pics/nature/deepsea/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "Qabalah.gz",
+"date": "1991-04-01 22:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "972",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/culture/occult/qabalah/Qabalah.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+"kw": "occult",
+"preview": "other \uff77 972 \uff77 1991-04-01 22:00 \uff77 in https://ftp.funet.fi/pub/culture/occult/qabalah/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/qabalah/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/culture/occult/qabalah/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "sephiroth.ps.gz",
+"date": "1992-04-30 22:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "13K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/culture/occult/qabalah/sephiroth.ps.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+"kw": "occult",
+"preview": "other \uff77 13K \uff77 1992-04-30 22:00 \uff77 in https://ftp.funet.fi/pub/culture/occult/qabalah/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/qabalah/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/culture/occult/qabalah/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "NoK.TAR",
+"date": "1992-08-29 18:43",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "350K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/culture/occult/qabalah/NoK.TAR",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+"kw": "occult",
+"preview": "other \uff77 350K \uff77 1992-08-29 18:43 \uff77 in https://ftp.funet.fi/pub/culture/occult/qabalah/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/qabalah/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/culture/occult/qabalah/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "gematria.gz",
+"date": "1993-01-04 22:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "3.3K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/culture/occult/qabalah/misc/gematria.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+"kw": "occult",
+"preview": "other \uff77 3.3K \uff77 1993-01-04 22:00 \uff77 in https://ftp.funet.fi/pub/culture/occult/qabalah/misc/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/qabalah/misc/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/culture/occult/qabalah/misc/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "anatomy.txt.gz",
+"date": "1992-12-29 22:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "63K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/culture/occult/qabalah/misc/anatomy.txt.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+"kw": "occult",
+"preview": "other \uff77 63K \uff77 1992-12-29 22:00 \uff77 in https://ftp.funet.fi/pub/culture/occult/qabalah/misc/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/qabalah/misc/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/culture/occult/qabalah/misc/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "Qabalah",
+"date": "1992-08-29 18:43",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.9K",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/culture/occult/qabalah/Qabalah",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+"kw": "occult",
+"preview": "text \uff77 1.9K \uff77 1992-08-29 18:43 \uff77 in https://ftp.funet.fi/pub/culture/occult/qabalah/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/qabalah/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/culture/occult/qabalah/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "NoK.TAR.Z",
+"date": "1992-01-23 00:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "136K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/culture/occult/qabalah/NotesOnQabalah/NoK.TAR.Z",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+"kw": "occult",
+"preview": "other \uff77 136K \uff77 1992-01-23 00:00 \uff77 in https://ftp.funet.fi/pub/culture/occult/qabalah/NotesOnQabalah/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/qabalah/NotesOnQabalah/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/culture/occult/qabalah/NotesOnQabalah/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
+},
+{
+"source": "Open Directory",
+"title": "NoK.README",
+"date": "1992-01-23 00:00",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "796",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/culture/occult/qabalah/NotesOnQabalah/NoK.README",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+"kw": "occult",
+"preview": "other \uff77 796 \uff77 1992-01-23 00:00 \uff77 in https://ftp.funet.fi/pub/culture/occult/qabalah/NotesOnQabalah/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/qabalah/NotesOnQabalah/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/culture/occult/qabalah/NotesOnQabalah/"
+]
+],
+"mined_at": "2026-11-13T01:58:24Z"
 }
 ]
