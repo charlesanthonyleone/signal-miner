@@ -1154,5 +1154,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-13T01:56:49Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 31.56.174.0/24",
+  "date": "2026-11-13",
+  "dateLabel": "sampled",
+  "count": 318,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"31.56.174.0/24\",\n  \"origin\": \"31549\",\n  \"time\": \"2019-05-28T16:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"31.56.174.0/24\",\n  \"origin\": \"2914\",\n  \"time\": \"2026-11-13T08:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 318,\n   \"total_ris_peers\": 318\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 2914,\n   \"route_objects\": [\n    \"RIPE\",\n    \"radb\"\n   ]\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/31.56.174.0/24",
+  "query": "RIPEstat routing-status 31.56.174.0/24",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-13T11:12:30Z"
  }
 ]

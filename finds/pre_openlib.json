@@ -1,1621 +1,6 @@
 [
 {
 "author_name": [
-"Mary Renault",
-"MaryRenault"
-],
-"cover_i": 15132644,
-"ebook_access": "borrowable",
-"edition_count": 64,
-"first_publish_year": 1956,
-"ia": [
-"bwb_T3-BNW-648",
-"maskofapollo0000unse_j9r5",
-"maskofapollo0000unse_r3m5",
-"maskofapollo0000unse_d0i6",
-"maskofapollo0000unse_w7a2",
-"maskofapollo0000unse_h3h7",
-"maskofapollo0000unse_e8s8",
-"maskofapollo0000unse_k4q2",
-"maskofapollo0000unse_t0o1",
-"maskofapollo00vint",
-"lemasquedapollon0000rena",
-"isbn_0553228838",
-"maskofapollo0000mary_a7d0",
-"bwb_S0-BEV-133",
-"maskofapollo0000mary_o2m6",
-"maskofapollo0000unse_f7h2",
-"maskofapollo0000mary_s8q2",
-"maskofapollo0000mary_n8i5",
-"maskofapollo0000mary_m9r1",
-"maskofapollo0000mary",
-"isbn_0553107550",
-"maskofapol00rena",
-"maskofapollo0000mary_s7k3",
-"maskofapollo0000rena_s6x3",
-"maskofapollo0000rena_v6j4",
-"maskofapollo0000rena",
-"maskofapoll00rena",
-"maskofapollo00rena",
-"maskofapollo0000unse_p2n5",
-"isbn_0553127438",
-"maskofapollo0000rena_q3d6",
-"maskofapollo0000unse_n7y4",
-"maskofapollo0000unse"
-],
-"key": "/works/OL3906364W",
-"title": "The Mask of Apollo"
-},
-{
-"author_name": [
-"Christopher F. Monte"
-],
-"cover_i": 302713,
-"ebook_access": "printdisabled",
-"edition_count": 15,
-"first_publish_year": 1977,
-"ia": [
-"beneathmaskintro02edmont_u5n3",
-"beneathmaskintr00mont",
-"beneathmaskintro0000mont_g1d0",
-"beneathmaskintro00mont_0",
-"beneathmaskintro0000mont",
-"beneathmaskintro00mont"
-],
-"key": "/works/OL2026009W",
-"title": "Beneath the mask"
-},
-{
-"author_name": [
-"Phyllis A. Whitney"
-],
-"cover_i": 7285784,
-"ebook_access": "borrowable",
-"edition_count": 20,
-"first_publish_year": 1974,
-"ia": [
-"turquoisemask0000whit",
-"turquoisemask0000phyl_n8u9",
-"turquoisemask00whit",
-"lemasquedeturquo0000whit"
-],
-"key": "/works/OL60512W",
-"title": "The Turquoise Mask"
-},
-{
-"author_name": [
-"Rachel Lindsay"
-],
-"cover_i": 11081428,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1981,
-"ia": [
-"maskofgold0000lind"
-],
-"key": "/works/OL9274012W",
-"title": "Mask of Gold"
-},
-{
-"author_name": [
-"Deirdre Mask"
-],
-"cover_i": 9412773,
-"ebook_access": "no_ebook",
-"edition_count": 9,
-"first_publish_year": 2020,
-"key": "/works/OL20727597W",
-"title": "The Address Book"
-},
-{
-"author_name": [
-"Robert Lawrence Stine"
-],
-"cover_i": 11298491,
-"ebook_access": "printdisabled",
-"edition_count": 6,
-"first_publish_year": 2012,
-"ia": [
-"fromantiquitiest0000erik",
-"isbn_9780545417938"
-],
-"key": "/works/OL16464903W",
-"title": "Wanted - The Haunted Mask (Goosebumps Most Wanted)"
-},
-{
-"author_name": [
-"John Keegan"
-],
-"cover_i": 94668,
-"ebook_access": "borrowable",
-"edition_count": 12,
-"first_publish_year": 1987,
-"ia": [
-"lartducommandeme0000keeg",
-"maskofcommand00keegrich",
-"maskofcommandstu0000keeg",
-"maskofcommand00keeg_0"
-],
-"key": "/works/OL816413W",
-"title": "The mask of command"
-},
-{
-"author_name": [
-"Hervey M. Cleckley"
-],
-"cover_i": 8691488,
-"ebook_access": "public",
-"edition_count": 10,
-"first_publish_year": 1941,
-"ia": [
-"maskofsanityatte00clec_0",
-"maskofsanity0000clec",
-"maskofsanityatte0000clec_l3d5",
-"maskofsanityatte00clec"
-],
-"key": "/works/OL5896723W",
-"title": "The mask of sanity"
-},
-{
-"author_name": [
-"Patrick Weekes"
-],
-"cover_i": 8789292,
-"ebook_access": "printdisabled",
-"edition_count": 5,
-"first_publish_year": 2014,
-"ia": [
-"maskedempire0000week"
-],
-"key": "/works/OL20141411W",
-"title": "Dragon Age - The Masked Empire"
-},
-{
-"author_name": [
-"August Derleth"
-],
-"cover_i": 6456749,
-"ebook_access": "borrowable",
-"edition_count": 11,
-"first_publish_year": 1958,
-"ia": [
-"maskofcthulhu00derl"
-],
-"key": "/works/OL2023483W",
-"title": "The mask of Cthulhu"
-},
-{
-"author_name": [
-"Sara Wood"
-],
-"cover_i": 6615006,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1993,
-"ia": [
-"maskofdeception00wood"
-],
-"key": "/works/OL15397384W",
-"title": "Mask of deception"
-},
-{
-"author_name": [
-"Jack Vance",
-"Ivain Rodriguez de L\u00e9on"
-],
-"cover_i": 478501,
-"ebook_access": "borrowable",
-"edition_count": 14,
-"first_publish_year": 1976,
-"ia": [
-"maskethaery0000vanc",
-"maskethaery0000vanc_s2q6",
-"maske00jack",
-"maskethaery00vanc",
-"maskethaery00vanc",
-"maskethaery00vanc"
-],
-"key": "/works/OL2071500W",
-"title": "Maske"
-},
-{
-"author_name": [
-"Patricia Wentworth"
-],
-"cover_i": 8089897,
-"ebook_access": "public",
-"edition_count": 30,
-"first_publish_year": 1928,
-"ia": [
-"bwb_W9-ANO-109",
-"greymask0000went",
-"greymask00patr_1"
-],
-"key": "/works/OL3901369W",
-"title": "Grey Mask"
-},
-{
-"author_name": [
-"Jacob Bronowski"
-],
-"cover_i": 9319959,
-"ebook_access": "borrowable",
-"edition_count": 27,
-"first_publish_year": 1943,
-"ia": [
-"williamblake175700bronrich",
-"vigilofnation0000unse",
-"williamblake17570000bron"
-],
-"key": "/works/OL1203042W",
-"title": "William Blake, 1757-1827"
-},
-{
-"author_name": [
-"D. M. Henderson",
-"P. D. Orton",
-"Roy Watling"
-],
-"ebook_access": "borrowable",
-"edition_count": 5,
-"first_publish_year": 1969,
-"ia": [
-"agaricsboleti0000hend_j0v3"
-],
-"key": "/works/OL18928150W",
-"title": "Agarics and boleti"
-},
-{
-"author_name": [
-"B. J. W. Grieg"
-],
-"cover_i": 12984034,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1991,
-"ia": [
-"honeyfungus0000grei"
-],
-"key": "/works/OL12842341W",
-"title": "Honey fungus"
-},
-{
-"author_name": [
-"M F (Ed) Madelin"
-],
-"cover_i": 14966474,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1966,
-"ia": [
-"fungusspore0000mfed"
-],
-"key": "/works/OL35337205W",
-"title": "The Fungus Spore"
-},
-{
-"author_name": [
-"Brian Brett"
-],
-"cover_i": 1670740,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1988,
-"ia": [
-"fungusgarden0000bret"
-],
-"key": "/works/OL2214979W",
-"title": "The Fungus Garden"
-},
-{
-"author_name": [
-"Bryce Kendrick"
-],
-"cover_i": 9993924,
-"ebook_access": "public",
-"edition_count": 1,
-"first_publish_year": 1979,
-"ia": [
-"wholefungussexua02kend"
-],
-"key": "/works/OL17044187W",
-"title": "The Whole fungus"
-},
-{
-"author_name": [
-"John DiConsiglio"
-],
-"cover_i": 1272488,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 2007,
-"ia": [
-"theresfungusamon0000dico"
-],
-"key": "/works/OL6029670W",
-"title": "There's a Fungus Among Us!"
-},
-{
-"author_name": [
-"Doug Kaufmann",
-"David Holland"
-],
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2011,
-"key": "/works/OL25514440W",
-"title": "Fungus Link to Weight Loss"
-},
-{
-"author_name": [
-"Karla Jennings"
-],
-"cover_i": 5290800,
-"ebook_access": "printdisabled",
-"edition_count": 3,
-"first_publish_year": 1990,
-"ia": [
-"devouringfungust00jenn"
-],
-"key": "/works/OL4462682W",
-"title": "The devouring fungus"
-},
-{
-"author_name": [
-"Mirchan Fungus"
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2022,
-"key": "/works/OL28720588W",
-"title": "Inventory Log Book"
-},
-{
-"author_name": [
-"W. A. Campbell"
-],
-"cover_i": 11873891,
-"ebook_access": "public",
-"edition_count": 1,
-"first_publish_year": 1956,
-"ia": [
-"fungusenemiesofh03camp"
-],
-"key": "/works/OL24952031W",
-"title": "Fungus enemies of hickory"
-},
-{
-"author_name": [
-"Gavin Hildick-Smith"
-],
-"ebook_access": "no_ebook",
-"edition_count": 4,
-"first_publish_year": 1964,
-"key": "/works/OL10780070W",
-"title": "Fungus diseases and their treatment"
-},
-{
-"author_name": [
-"George Massee"
-],
-"cover_i": 10947695,
-"ebook_access": "no_ebook",
-"edition_count": 4,
-"first_publish_year": 2018,
-"key": "/works/OL24406034W",
-"title": "British Fungus-Flora"
-},
-{
-"author_name": [
-"Arthur L. Antonelli"
-],
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 1979,
-"key": "/works/OL8480744W",
-"title": "Fungus gnats"
-},
-{
-"author_name": [
-"George Massee"
-],
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2018,
-"key": "/works/OL41815720W",
-"title": "European Fungus Flora"
-},
-{
-"author_name": [
-"R. T. Rolfe"
-],
-"cover_i": 309159,
-"ebook_access": "public",
-"edition_count": 5,
-"first_publish_year": 1925,
-"ia": [
-"romanceoffungusw00rolf"
-],
-"key": "/works/OL1187046W",
-"title": "The romance of the fungus world"
-},
-{
-"author_name": [
-"Alexandra C. Brand",
-"Donna M. MacCallum"
-],
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2012,
-"key": "/works/OL27392569W",
-"title": "Host-Fungus Interactions"
-},
-{
-"author_name": [
-"Great Britain. Forestry Commission."
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 1967,
-"key": "/works/OL1477004W",
-"title": "Honey fungus"
-},
-{
-"author_name": [
-"Ann Boroch"
-],
-"cover_i": 12186712,
-"ebook_access": "printdisabled",
-"edition_count": 1,
-"first_publish_year": 2009,
-"ia": [
-"candidacureyeast0000boro"
-],
-"key": "/works/OL15415819W",
-"title": "The Candida cure"
-},
-{
-"author_name": [
-"Carla Billups"
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2017,
-"key": "/works/OL19714089W",
-"title": "It's a fungus among us"
-},
-{
-"author_name": [
-"T. J. Baer"
-],
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2013,
-"key": "/works/OL29871129W",
-"title": "Talking about Fungus"
-},
-{
-"author_name": [
-"Rebecca Stefoff"
-],
-"cover_i": 6794879,
-"ebook_access": "printdisabled",
-"edition_count": 2,
-"first_publish_year": 2008,
-"ia": [
-"funguskingdom00stef",
-"funguskingdom00stef"
-],
-"key": "/works/OL15036170W",
-"title": "The fungus kingdom"
-},
-{
-"author_name": [
-"Ezra E. Knopp"
-],
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2025,
-"key": "/works/OL42556738W",
-"title": "Plant or Fungus?"
-},
-{
-"author_name": [
-"Scott Garrett"
-],
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2025,
-"key": "/works/OL42560937W",
-"title": "We Need Fungus!"
-},
-{
-"author_name": [
-"David Tillerson Smith"
-],
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 1947,
-"key": "/works/OL1594607W",
-"title": "Fungus diseases of the lungs"
-},
-{
-"author_name": [
-"D. C. Lindsay"
-],
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 1980,
-"key": "/works/OL18991967W",
-"title": "A fungus flora of Warwickshire"
-},
-{
-"author_name": [
-"Jabez Hogg"
-],
-"cover_i": 11780305,
-"ebook_access": "public",
-"edition_count": 3,
-"first_publish_year": 1871,
-"ia": [
-"b22453118",
-"b22276920"
-],
-"key": "/works/OL24884795W",
-"title": "Mycetoma"
-},
-{
-"author_name": [
-"Matty Long"
-],
-"cover_i": 7840654,
-"ebook_access": "no_ebook",
-"edition_count": 4,
-"first_publish_year": 2015,
-"key": "/works/OL17569709W",
-"title": "Super Happy Magic Forest"
-},
-{
-"cover_i": 1201086,
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 1994,
-"key": "/works/OL16979151W",
-"title": "The Growing fungus"
-},
-{
-"author_name": [
-"Albert S\u00e1nchez Pi\u00f1ol"
-],
-"cover_i": 10301917,
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2018,
-"key": "/works/OL20934628W",
-"title": "Fungus"
-},
-{
-"author_name": [
-"Thomas Nallings"
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2016,
-"key": "/works/OL41069573W",
-"title": "Nail Fungus Treatment"
-},
-{
-"author_name": [
-"Jayne A. Archer"
-],
-"ebook_access": "no_ebook",
-"edition_count": 4,
-"first_publish_year": 2017,
-"key": "/works/OL38148609W",
-"title": "Warm Heart, Neon Soul"
-},
-{
-"author_name": [
-"Hal Rothman"
-],
-"ebook_access": "no_ebook",
-"edition_count": 4,
-"first_publish_year": 2015,
-"key": "/works/OL28298646W",
-"title": "Neon Metropolis"
-},
-{
-"author_name": [
-"Yoshiyuki Sadamoto"
-],
-"cover_i": 13128885,
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2022,
-"key": "/works/OL33440289W",
-"title": "Neon Genesis Evangelion [Edici\u93ee Coleccionista]"
-},
-{
-"author_name": [
-"Kimberly Skye"
-],
-"cover_i": 14731177,
-"ebook_access": "no_ebook",
-"edition_count": 3,
-"first_publish_year": 2021,
-"key": "/works/OL30756697W",
-"title": "Neon Moon"
-},
-{
-"author_name": [
-"Kadokawa"
-],
-"cover_i": 10410525,
-"ebook_access": "printdisabled",
-"edition_count": 1,
-"first_publish_year": 2006,
-"ia": [
-"neongenesisevang0000kado"
-],
-"key": "/works/OL21849309W",
-"title": "Neon Genesis Evangelion Vol.10 Manga"
-},
-{
-"author_name": [
-"Neon Squid",
-"Sam Priddy"
-],
-"cover_i": 14727378,
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2024,
-"key": "/works/OL37622494W",
-"title": "Big Book of Useless Knowledge"
-},
-{
-"author_name": [
-"Rachel Dawson"
-],
-"cover_i": 14539040,
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2023,
-"key": "/works/OL27820234W",
-"title": "Neon Roses"
-},
-{
-"author_name": [
-"Andersen Prunty"
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2019,
-"key": "/works/OL27592559W",
-"title": "Neon Dies At Dawn"
-},
-{
-"author_name": [
-"Yoshiyuki Sadamoto"
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2008,
-"key": "/works/OL19995753W",
-"title": "Neon genesis evangelion"
-},
-{
-"author_name": [
-"Yoshiyuki Sadamoto"
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2011,
-"key": "/works/OL19995754W",
-"title": "Neon genesis evangelion"
-},
-{
-"author_name": [
-"Susan Mara Bregman"
-],
-"ebook_access": "no_ebook",
-"edition_count": 3,
-"first_publish_year": 2018,
-"key": "/works/OL25799536W",
-"title": "New England Neon"
-},
-{
-"author_name": [
-"Gorospe Ballard Heitzman"
-],
-"ebook_access": "no_ebook",
-"edition_count": 3,
-"first_publish_year": 2014,
-"key": "/works/OL38160306W",
-"title": "Beyond the Neon"
-},
-{
-"author_name": [
-"James Gordon"
-],
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2011,
-"key": "/works/OL39869393W",
-"title": "Neon"
-},
-{
-"author_name": [
-"G. S. Locke"
-],
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2020,
-"key": "/works/OL20743604W",
-"title": "Neon"
-},
-{
-"author_name": [
-"Nikolaos Kontopoulos"
-],
-"cover_i": 7044404,
-"ebook_access": "public",
-"edition_count": 2,
-"first_publish_year": 1874,
-"ia": [
-"neonlexikonhell00kontgoog"
-],
-"key": "/works/OL7837964W",
-"title": "Neon lexikon hell\u0113noanglikon"
-},
-{
-"author_name": [
-"Lina Ramona Vitkauskas"
-],
-"cover_i": 12866297,
-"ebook_access": "printdisabled",
-"edition_count": 1,
-"first_publish_year": 2013,
-"ia": [
-"neontryst0000vitk"
-],
-"key": "/works/OL23441962W",
-"title": "A neon tryst"
-},
-{
-"author_name": [
-"Randall L. Caba"
-],
-"cover_i": 726920,
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2001,
-"key": "/works/OL4074905W",
-"title": "The Neon Superguide"
-},
-{
-"author_name": [
-"Mingming"
-],
-"cover_i": 10311536,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 2011,
-"ia": [
-"neongenesisevang0000ming"
-],
-"key": "/works/OL20942830W",
-"title": "Neon genesis evangelion"
-},
-{
-"author_name": [
-"Yoshiyuki Sadamoto"
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2012,
-"key": "/works/OL19995755W",
-"title": "\u65b0\u4e16\u7d00\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3 13"
-},
-{
-"author_name": [
-"Samuel C. Miller"
-],
-"cover_i": 5701696,
-"ebook_access": "public",
-"edition_count": 3,
-"first_publish_year": 1935,
-"ia": [
-"neonsignsmanufac00millrich"
-],
-"key": "/works/OL5272710W",
-"title": "Neon signs"
-},
-{
-"author_name": [
-"Sebastia\u0303o Lyrio"
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 1988,
-"key": "/works/OL4403716W",
-"title": "Nada de novo sob o neon"
-},
-{
-"author_name": [
-"Za'chary Westbrook"
-],
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2023,
-"key": "/works/OL35948961W",
-"title": "Neon Jezebel"
-},
-{
-"author_name": [
-"Toon Michiels"
-],
-"ebook_access": "no_ebook",
-"edition_count": 3,
-"first_publish_year": 1982,
-"key": "/works/OL10589254W",
-"title": "American neon signs by day and night"
-},
-{
-"author_name": [
-"Sherae Rimpsey"
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2022,
-"key": "/works/OL28719849W",
-"title": "Neon Neon"
-},
-{
-"author_name": [
-"Yoshiyuki Sadamoto"
-],
-"cover_i": 765531,
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2007,
-"key": "/works/OL8755963W",
-"title": "Neon Genesis Evangelion, Volume 10"
-},
-{
-"author_name": [
-"Karmelo C. Iribarren"
-],
-"cover_i": 10478599,
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2017,
-"key": "/works/OL22577512W",
-"title": "El amor, ese viejo ne\u93ee"
-},
-{
-"author_name": [
-"Philip Di Lemme"
-],
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 1984,
-"key": "/works/OL4986624W",
-"title": "American streamline"
-},
-{
-"author_name": [
-"Yoshiyuki Sadamoto"
-],
-"cover_i": 9035418,
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2013,
-"key": "/works/OL20368602W",
-"title": "Neon Genesis Evangelion 3-in-1 Edition, Volume 2"
-},
-{
-"author_name": [
-"Vin Smith"
-],
-"cover_i": 1740290,
-"ebook_access": "printdisabled",
-"edition_count": 2,
-"first_publish_year": 2002,
-"ia": [
-"neonstreets0000smit",
-"neonstreets0000vins"
-],
-"key": "/works/OL8714438W",
-"title": "Neon Streets"
-},
-{
-"author_name": [
-"Linzi Quinnin"
-],
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2010,
-"key": "/works/OL29001569W",
-"title": "Neon Nightmares"
-},
-{
-"author_name": [
-"Diana Palmer"
-],
-"cover_i": 218997,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 2002,
-"ia": [
-"stormoverlake0000unse"
-],
-"key": "/works/OL1902394W",
-"title": "Storm Over the Lake"
-},
-{
-"author_name": [
-"Susan Sizemore"
-],
-"cover_i": 4942554,
-"ebook_access": "borrowable",
-"edition_count": 5,
-"first_publish_year": 1992,
-"ia": [
-"wingsofstorm00susa",
-"wingsofstorm0000size"
-],
-"key": "/works/OL555503W",
-"title": "Wings of the Storm"
-},
-{
-"author_name": [
-"Cressida Cowell"
-],
-"cover_i": 6425194,
-"ebook_access": "printdisabled",
-"edition_count": 12,
-"first_publish_year": 2008,
-"ia": [
-"howtoridedragons0000cowe_l0z2",
-"howtoridedragons00cowe",
-"howtoridedragons0000cowe"
-],
-"key": "/works/OL15168490W",
-"title": "How to Ride a Dragon's Storm"
-},
-{
-"author_name": [
-"Beverly Jenkins"
-],
-"cover_i": 236658,
-"ebook_access": "no_ebook",
-"edition_count": 9,
-"first_publish_year": 1998,
-"key": "/works/OL553683W",
-"title": "Through the Storm"
-},
-{
-"author_name": [
-"Jenny Randles"
-],
-"cover_i": 1397177,
-"ebook_access": "no_ebook",
-"edition_count": 3,
-"first_publish_year": 2001,
-"key": "/works/OL2001509W",
-"title": "Time Storms"
-},
-{
-"author_name": [
-"Christine Feehan"
-],
-"cover_i": 10454767,
-"ebook_access": "no_ebook",
-"edition_count": 4,
-"first_publish_year": 2021,
-"key": "/works/OL22365975W",
-"title": "Shadow Storm"
-},
-{
-"author_name": [
-"Rob Kidd",
-"Sigal Gefen"
-],
-"cover_i": 766013,
-"ebook_access": "borrowable",
-"edition_count": 5,
-"first_publish_year": 2006,
-"ia": [
-"piratesofcaribbe00kidd",
-"piratesofcaribbe00kidd",
-"comingstorm00kidd"
-],
-"key": "/works/OL8786214W",
-"title": "Pirates of the Caribbean"
-},
-{
-"author_name": [
-"Emma Holly"
-],
-"cover_i": 213754,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 2002,
-"ia": [
-"cookingupstorm0000holl",
-"cookingupstormbl0000emma"
-],
-"key": "/works/OL5687111W",
-"title": "Cooking Up a Storm"
-},
-{
-"author_name": [
-"Jennifer Blake"
-],
-"cover_i": 6998439,
-"ebook_access": "borrowable",
-"edition_count": 4,
-"first_publish_year": 1981,
-"ia": [
-"stormsplendor00blak"
-],
-"key": "/works/OL1893787W",
-"title": "The Storm and the Splendor"
-},
-{
-"author_name": [
-"Shannon Messenger"
-],
-"cover_i": 10358935,
-"ebook_access": "printdisabled",
-"edition_count": 2,
-"first_publish_year": 2014,
-"ia": [
-"letstormbreak0000mess"
-],
-"key": "/works/OL19707320W",
-"title": "Let the Storm Break"
-},
-{
-"author_name": [
-"Theodor Storm"
-],
-"cover_i": 6265973,
-"ebook_access": "public",
-"edition_count": 55,
-"first_publish_year": 1891,
-"ia": [
-"stormimmensee00storiala",
-"immensee00storuoft",
-"cu31924026220172",
-"immensee1915storuoft",
-"immenseestormthe00storiala",
-"immenseewithengl00stor",
-"immenseestorm00storiala",
-"immensee01unkngoog",
-"immensee00unkngoog",
-"immensee01berngoog",
-"immensee00berngoog",
-"immensee01storgoog",
-"immensee02berngoog",
-"immensee00stor",
-"immensee0000stor",
-"immenseepolepopp0000stor"
-],
-"key": "/works/OL995266W",
-"title": "Immensee"
-},
-{
-"author_name": [
-"Theodor Storm"
-],
-"cover_i": 1010613,
-"ebook_access": "public",
-"edition_count": 36,
-"first_publish_year": 1908,
-"ia": [
-"derschimmelreite00storuoft",
-"derschimmelreite0000theo",
-"derschimmelreite0000stor_c6w1"
-],
-"key": "/works/OL995265W",
-"title": "Der Schimmelreiter"
-},
-{
-"author_name": [
-"Jim Butcher"
-],
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2007,
-"key": "/works/OL32449534W",
-"title": "Storm Front"
-},
-{
-"author_name": [
-"Nan Ryan"
-],
-"cover_i": 4965890,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 1987,
-"ia": [
-"desertstorm00nanr"
-],
-"key": "/works/OL3261925W",
-"title": "Desert Storm"
-},
-{
-"author_name": [
-"Troy Denning"
-],
-"cover_i": 10329156,
-"ebook_access": "printdisabled",
-"edition_count": 3,
-"first_publish_year": 2015,
-"ia": [
-"lastlight0000denn_g8h3",
-"lastlight0000denn"
-],
-"key": "/works/OL19764015W",
-"title": "Halo"
-},
-{
-"author_name": [
-"Jennifer L. Armentrout"
-],
-"cover_i": 15254598,
-"ebook_access": "printdisabled",
-"edition_count": 9,
-"first_publish_year": 2019,
-"ia": [
-"isbn_9781335526083",
-"stormfury0000jenn",
-"stormfury0000arme"
-],
-"key": "/works/OL21207947W",
-"title": "Storm and Fury"
-},
-{
-"author_name": [
-"C. J. Box"
-],
-"cover_i": 13193596,
-"ebook_access": "no_ebook",
-"edition_count": 9,
-"first_publish_year": 2023,
-"key": "/works/OL28083862W",
-"title": "Storm Watch"
-},
-{
-"author_name": [
-"Patricia Briggs"
-],
-"cover_i": 8794410,
-"ebook_access": "no_ebook",
-"edition_count": 2,
-"first_publish_year": 2019,
-"key": "/works/OL20150359W",
-"title": "Storm Cursed"
-},
-{
-"author_name": [
-"Robert Asprin",
-"C. J. Cherryh",
-"Diana L. Paxson",
-"Lynn Abbey",
-"Janet Morris",
-"Andrew J. Offutt"
-],
-"cover_i": 6700865,
-"ebook_access": "printdisabled",
-"edition_count": 5,
-"first_publish_year": 1982,
-"ia": [
-"stormseason00aspr"
-],
-"key": "/works/OL2485565W",
-"title": "Storm Season"
-},
-{
-"author_name": [
-"Giles Blunt"
-],
-"cover_i": 258946,
-"ebook_access": "borrowable",
-"edition_count": 13,
-"first_publish_year": 2003,
-"ia": [
-"delicatestorm0000blun_n1h2",
-"delicatestorm0000blun_x1g9",
-"delicatestorm0000blun",
-"delicatestorm00blun"
-],
-"key": "/works/OL4645835W",
-"title": "The delicate storm"
-},
-{
-"author_name": [
-"Grace Livingston Hill"
-],
-"cover_i": 2088127,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 1990,
-"ia": [
-"outofstorm0000hill_f2y9"
-],
-"key": "/works/OL14848566W",
-"title": "Out of the Storm"
-},
-{
-"author_name": [
-"Andre Norton"
-],
-"cover_i": 284446,
-"ebook_access": "borrowable",
-"edition_count": 22,
-"first_publish_year": 1962,
-"ia": [
-"lordofthunder0000andr",
-"lordofthunderple0000andr",
-"lordofthunde00nort",
-"lordofthunder0000nort",
-"lordofthunder00nort",
-"lordofthunder00nort",
-"lordofthunder00nort",
-"lordofthunder00nort",
-"lordofthunder00nort"
-],
-"key": "/works/OL473465W",
-"title": "Lord of Thunder"
-},
-{
-"author_name": [
-"Lucy Gillen"
-],
-"cover_i": 12463468,
-"ebook_access": "borrowable",
-"edition_count": 1,
-"first_publish_year": 1981,
-"ia": [
-"stormeagle0000gill"
-],
-"key": "/works/OL26440793W",
-"title": "The storm eagle"
-},
-{
-"author_name": [
-"Heather Amery",
-"Stephen Cartwright",
-"Sioned Lleinau"
-],
-"cover_i": 7570219,
-"ebook_access": "borrowable",
-"edition_count": 15,
-"first_publish_year": 1995,
-"ia": [
-"snowstorm00amer",
-"ystormeira0000amer",
-"snowstormusborne00hea_48c",
-"snowstorm0000amer_j2f8",
-"snowstorm0000amer_m7q9",
-"latempetedeneige0000amer",
-"snowstorm0000amer"
-],
-"key": "/works/OL2989900W",
-"title": "The Snow Storm (Farmyard Tales)"
-},
-{
-"author_name": [
-"Karen Hesse"
-],
-"cover_i": 385109,
-"ebook_access": "printdisabled",
-"edition_count": 9,
-"first_publish_year": 1999,
-"ia": [
-"lightinstormdiar0000hess",
-"lightinstormcivi00kare",
-"lightinstormcivi00hess"
-],
-"key": "/works/OL1847158W",
-"title": "A Light in the Storm"
-},
-{
-"author_name": [
-"Barry Eisler"
-],
-"cover_i": 259162,
-"ebook_access": "printdisabled",
-"edition_count": 4,
-"first_publish_year": 2004,
-"ia": [
-"rainstormjohnrai00barr",
-"rainstorm00eisl"
-],
-"key": "/works/OL5727481W",
-"title": "Rain storm"
-},
-{
-"author_name": [
-"Frederick Buechner"
-],
-"cover_i": 31975,
-"ebook_access": "borrowable",
-"edition_count": 11,
-"first_publish_year": 1998,
-"ia": [
-"storm00buec",
-"stormnovel00buec"
-],
-"key": "/works/OL12935W",
-"title": "The Storm"
-},
-{
-"author_name": [
-"Jay Stevens"
-],
-"cover_i": 5391864,
-"ebook_access": "borrowable",
-"edition_count": 12,
-"first_publish_year": 1987,
-"ia": [
-"stormingheavenls00steve",
-"stormingheavenls00stev",
-"stormingheaven0000jays"
-],
-"key": "/works/OL4956227W",
-"title": "Storming heaven"
-},
-{
-"author_name": [
-"Denise Giardina",
-"Denise Giardina"
-],
-"cover_i": 290009,
-"ebook_access": "printdisabled",
-"edition_count": 10,
-"first_publish_year": 1987,
-"ia": [
-"stormingheavenno00giar"
-],
-"key": "/works/OL2660462W",
-"title": "Storming heaven"
-},
-{
-"author_name": [
-"Aleen Malcolm"
-],
-"cover_i": 9830979,
-"ebook_access": "borrowable",
-"edition_count": 3,
-"first_publish_year": 1981,
-"ia": [
-"rideoutstorm0000malc"
-],
-"key": "/works/OL8123502W",
-"title": "Ride out the storm"
-},
-{
-"author_name": [
-"Ferry Efendi",
-"Makhfudli"
-],
-"cover_i": 6389560,
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2009,
-"key": "/works/OL15166217W",
-"title": "Keperawatan Kesehatan Komunitas"
-},
-{
-"author_name": [
-"David Ferry"
-],
-"cover_i": 224849,
-"ebook_access": "printdisabled",
-"edition_count": 4,
-"first_publish_year": 1992,
-"ia": [
-"gilgameshnewrend00ferr",
-"gilgameshnewrend0000ferr",
-"gilgameshnewrend00ferr"
-],
-"key": "/works/OL13761W",
-"title": "Gilgamesh"
-},
-{
-"author_name": [
-"Barbara Ferry Johnson"
-],
-"cover_i": 7392151,
-"ebook_access": "borrowable",
-"edition_count": 2,
-"first_publish_year": 1978,
-"ia": [
-"tarassong00john"
-],
-"key": "/works/OL6813422W",
-"title": "Tara's Song"
-},
-{
-"author_name": [
-"Michael Robotham"
-],
-"cover_i": 6802237,
-"ebook_access": "printdisabled",
-"edition_count": 6,
-"first_publish_year": 2007,
-"ia": [
-"nightferry0000robo_w0m9",
-"nightferrynovel00robo",
-"nightferrynovel00robo"
-],
-"key": "/works/OL15838712W",
-"title": "The night ferry"
-},
-{
-"author_name": [
-"Fred F. Ferri"
-],
-"cover_i": 13214270,
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2022,
-"key": "/works/OL26767746W",
-"title": "Ferri's Clinical Advisor 2023"
-},
-{
-"author_name": [
-"Kathryn Gibbs Davis"
-],
-"cover_i": 7314958,
-"ebook_access": "no_ebook",
-"edition_count": 3,
-"first_publish_year": 2014,
-"key": "/works/OL17075332W",
-"title": "Mr. Ferris and his wheel"
-},
-{
-"author_name": [
-"Todd Strasser"
-],
-"cover_i": 13227566,
-"ebook_access": "borrowable",
-"edition_count": 5,
-"first_publish_year": 1986,
-"ia": [
-"ferrisbuellersda0000stra"
-],
-"key": "/works/OL999011W",
-"title": "Ferris Bueller's Day Off"
-},
-{
-"author_name": [
-"Ferry N. Idroes"
-],
-"ebook_access": "no_ebook",
-"edition_count": 1,
-"first_publish_year": 2011,
-"key": "/works/OL16635226W",
-"title": "Manajemen risiko perbankan"
-},
-{
-"author_name": [
-"Beth Ferry"
-],
-"cover_i": 7348291,
-"ebook_access": "printdisabled",
-"edition_count": 1,
-"first_publish_year": 2015,
-"ia": [
-"stickstone0000ferr"
-],
-"key": "/works/OL17108507W",
-"title": "Stick and Stone"
-},
-{
-"author_name": [
-"Luc Ferry"
-],
-"cover_i": 12520736,
-"ebook_access": "printdisabled",
-"edition_count": 4,
-"first_publish_year": 2011,
-"ia": [
-"briefhistoryofth0000ferr"
-],
-"key": "/works/OL19953350W",
-"title": "A brief history of thought"
-},
-{
-"author_name": [
-"Jason Glaser",
-"Al Milgrom",
-"Bill Anderson",
-"Charles Barnett III"
-],
-"cover_i": 463574,
-"ebook_access": "borrowable",
-"edition_count": 7,
-"first_publish_year": 2000,
-"ia": [
-"johnbrownsraidon0000glas",
-"johnbrownelataqu0000glas"
-],
-"key": "/works/OL1982382W",
-"title": "John Brown's raid on Harpers Ferry"
-},
-{
-"author_name": [
-"Patricia Moyes"
-],
-"cover_i": 9295826,
-"ebook_access": "borrowable",
-"edition_count": 7,
-"first_publish_year": 1985,
-"ia": [
-"nightferrytodeat00moye"
-],
-"key": "/works/OL2558833W",
-"title": "Night ferry to death"
-},
-{
-"author_name": [
-"Peter Ferry"
-],
-"cover_i": 2325397,
-"ebook_access": "borrowable",
-"edition_count": 12,
-"first_publish_year": 2008,
-"ia": [
-"travelwriting0000ferr_d5q4",
-"travelwriting0000ferr",
-"travelwriting00ferr"
-],
-"key": "/works/OL9324707W",
-"title": "Travel writing"
-},
-{
-"author_name": [
-"Noah Gordon",
-"Bernard Ferry"
-],
-"cover_i": 5277259,
-"ebook_access": "borrowable",
-"edition_count": 26,
-"first_publish_year": 1969,
-"ia": [
-"elcomitedelamuer0000gord_d8k4",
-"dieklinikroman0000gord",
-"deathcommittee1987gord",
-"deathcommittee00gord",
-"deathcommittee0000unse",
-"dieklinik0000noah",
-"elcomitedelamuer0000gord_h2j9",
-"elcomitedelamuer0000gord"
-],
-"key": "/works/OL2296586W",
-"title": "The Death Committee"
-},
-{
-"author_name": [
-"Iris Gower"
-],
-"cover_i": 1360348,
-"ebook_access": "borrowable",
-"edition_count": 7,
-"first_publish_year": 1987,
-"ia": [
-"fiddlersferry0000gowe_j2h1",
-"fiddlersferry0000gowe"
-],
-"key": "/works/OL104258W",
-"title": "Fiddler's ferry"
-},
-{
-"author_name": [
 "Kate DiCamillo"
 ],
 "cover_i": 14562109,
@@ -40981,5 +39366,1547 @@
 ],
 "key": "/works/OL14922802W",
 "title": "Sketching outdoors in spring"
+},
+{
+"author_name": [
+"David J. Gingery"
+],
+"cover_i": 6675696,
+"ebook_access": "no_ebook",
+"edition_count": 3,
+"first_publish_year": 1982,
+"key": "/works/OL3976492W",
+"title": "The Charcoal Foundry"
+},
+{
+"author_name": [
+"Peter R. Beeley"
+],
+"cover_i": 1400507,
+"ebook_access": "printdisabled",
+"edition_count": 3,
+"first_publish_year": 1972,
+"ia": [
+"foundrytechnolog0000beel",
+"foundrytechnolog00beel"
+],
+"key": "/works/OL6226450W",
+"title": "Foundry technology"
+},
+{
+"author_name": [
+"United States. Navy Dept. Bureau of Ships."
+],
+"ebook_access": "no_ebook",
+"edition_count": 3,
+"first_publish_year": 1944,
+"key": "/works/OL13691714W",
+"title": "Foundry manual"
+},
+{
+"author_name": [
+"Howard F. Taylor"
+],
+"cover_i": 8446819,
+"ebook_access": "no_ebook",
+"edition_count": 2,
+"first_publish_year": 1959,
+"key": "/works/OL156579W",
+"title": "Foundry engineering"
+},
+{
+"author_name": [
+"American Foundrymen's Society."
+],
+"ebook_access": "no_ebook",
+"edition_count": 3,
+"first_publish_year": 1952,
+"key": "/works/OL6822174W",
+"title": "Foundry sand handbook"
+},
+{
+"author_name": [
+"Howard F Taylor"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 1959,
+"key": "/works/OL12067994W",
+"title": "Foundry engineering [by] Howard F. Taylor, Merton C. Flemings [and] John Wulff"
+},
+{
+"author_name": [
+"Albert Halper"
+],
+"cover_i": 6663265,
+"ebook_access": "borrowable",
+"edition_count": 3,
+"first_publish_year": 1934,
+"ia": [
+"foundryhalp00halp"
+],
+"key": "/works/OL4445570W",
+"title": "The foundry"
+},
+{
+"author_name": [
+"JAIN"
+],
+"cover_i": 10327724,
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2009,
+"key": "/works/OL21120270W",
+"title": "Principles of Foundry Technology"
+},
+{
+"author_name": [
+"Henry J. Kauffman"
+],
+"cover_i": 8090519,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1959,
+"ia": [
+"machineshopfound00kauf"
+],
+"key": "/works/OL3002116W",
+"title": "Machine shop and foundry projects"
+},
+{
+"author_name": [
+"David C. Ekey"
+],
+"ebook_access": "no_ebook",
+"edition_count": 2,
+"first_publish_year": 1954,
+"key": "/works/OL6454003W",
+"title": "Introduction to foundry technology"
+},
+{
+"author_name": [
+"United States. Navy Dept."
+],
+"cover_i": 1761393,
+"ebook_access": "no_ebook",
+"edition_count": 2,
+"first_publish_year": 1989,
+"key": "/works/OL8695720W",
+"title": "Foundry Manual"
+},
+{
+"author_name": [
+"John Howe Hall"
+],
+"ebook_access": "no_ebook",
+"edition_count": 5,
+"first_publish_year": 1914,
+"key": "/works/OL11442951W",
+"title": "The steel foundry"
+},
+{
+"author_name": [
+"Andrew McWilliam"
+],
+"cover_i": 5880417,
+"ebook_access": "public",
+"edition_count": 6,
+"first_publish_year": 1907,
+"ia": [
+"generalfoundrypr00mcwirich",
+"generalfoundryp01longgoog"
+],
+"key": "/works/OL6079269W",
+"title": "General foundry practice"
+},
+{
+"author_name": [
+"P. N. Rao"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 1987,
+"key": "/works/OL13658656W",
+"title": "Manufacturing technology"
+},
+{
+"author_name": [
+"J. Laing"
+],
+"cover_i": 8334234,
+"ebook_access": "borrowable",
+"edition_count": 5,
+"first_publish_year": 1934,
+"ia": [
+"manualoffoundryp00lain"
+],
+"key": "/works/OL180995W",
+"title": "A manual of foundry practice"
+},
+{
+"author_name": [
+"Eliot Peper"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2023,
+"key": "/works/OL36392737W",
+"title": "Foundry"
+},
+{
+"author_name": [
+"Palmer, R. H."
+],
+"cover_i": 5765153,
+"ebook_access": "public",
+"edition_count": 5,
+"first_publish_year": 1912,
+"ia": [
+"foundrypracticet00palm",
+"foundrypracticet01palm",
+"foundrypracticet00palmrich",
+"foundrypracticet00palmiala"
+],
+"key": "/works/OL7720640W",
+"title": "Foundry practice"
+},
+{
+"author_name": [
+"William C. Stimpson"
+],
+"cover_i": 5604218,
+"ebook_access": "public",
+"edition_count": 9,
+"first_publish_year": 1906,
+"ia": [
+"foundryworkptiin01stimiala",
+"foundryworkpract01stim",
+"foundryworkpract00stim"
+],
+"key": "/works/OL204483W",
+"title": "Foundry work"
+},
+{
+"author_name": [
+"W. K. V. Gale"
+],
+"ebook_access": "no_ebook",
+"edition_count": 3,
+"first_publish_year": 1946,
+"key": "/works/OL10585076W",
+"title": "Soho Foundry"
+},
+{
+"author_name": [
+"Eitan Shauly"
+],
+"ebook_access": "no_ebook",
+"edition_count": 3,
+"first_publish_year": 2022,
+"key": "/works/OL28349669W",
+"title": "Design Rules in a Semiconductor Foundry"
+},
+{
+"author_name": [
+"Talbot Baines Reed"
+],
+"cover_i": 7194854,
+"ebook_access": "public",
+"edition_count": 9,
+"first_publish_year": 1887,
+"ia": [
+"cu31924008833604",
+"historyofoldengl00reed",
+"historyofoldengl0000reed"
+],
+"key": "/works/OL7111891W",
+"title": "A history of the old English letter foundries"
+},
+{
+"author_name": [
+"Trudie A Grace",
+"Mark Forlow"
+],
+"cover_i": 11320993,
+"ebook_access": "no_ebook",
+"edition_count": 2,
+"first_publish_year": 2014,
+"key": "/works/OL24639851W",
+"title": "West Point Foundry"
+},
+{
+"author_name": [
+"Josh Long",
+"Kenny Bastani"
+],
+"cover_i": 8510267,
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2017,
+"key": "/works/OL19543763W",
+"title": "Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry"
+},
+{
+"author_name": [
+"Robert S. L. Andrews"
+],
+"cover_i": 15061702,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1963,
+"ia": [
+"shellprocessfoun0000robe"
+],
+"key": "/works/OL10544494W",
+"title": "Shell process foundry practice"
+},
+{
+"author_name": [
+"Cam Baity",
+"Benny Zelkowicz"
+],
+"cover_i": 7305307,
+"ebook_access": "printdisabled",
+"edition_count": 1,
+"first_publish_year": 2014,
+"ia": [
+"foundrysedge0000bait"
+],
+"key": "/works/OL17061399W",
+"title": "The Foundry's edge"
+},
+{
+"author_name": [
+"Andrew McWilliam"
+],
+"cover_i": 11090057,
+"ebook_access": "no_ebook",
+"edition_count": 5,
+"first_publish_year": 2018,
+"key": "/works/OL24478659W",
+"title": "General Foundry Practice"
+},
+{
+"author_name": [
+"W. Thorowgood and Company."
+],
+"ebook_access": "no_ebook",
+"edition_count": 6,
+"first_publish_year": 1832,
+"key": "/works/OL12766192W",
+"title": "Fann Street Letter Foundry"
+},
+{
+"author_name": [
+"Cincinnati Type Foundry."
+],
+"cover_i": 5660210,
+"ebook_access": "public",
+"edition_count": 2,
+"first_publish_year": 1882,
+"ia": [
+"fifteenthbookofs00cincrich"
+],
+"key": "/works/OL253732W",
+"title": "Fifteenth book of specimens"
+},
+{
+"author_name": [
+"American Foundrymen's Society"
+],
+"ebook_access": "no_ebook",
+"edition_count": 2,
+"first_publish_year": 1952,
+"key": "/works/OL38460578W",
+"title": "Foundry sand handbook"
+},
+{
+"author_name": [
+"Ray Lawler"
+],
+"cover_i": 379609,
+"ebook_access": "borrowable",
+"edition_count": 13,
+"first_publish_year": 1957,
+"ia": [
+"bwb_Y0-BCI-220",
+"summerofseventee00lawl",
+"summerofseventee00rayl"
+],
+"key": "/works/OL6635048W",
+"title": "Summer of the seventeenth doll"
+},
+{
+"author_name": [
+"Dorothy Daniels"
+],
+"cover_i": 8173764,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1972,
+"ia": [
+"houseofbrokendol00dani"
+],
+"key": "/works/OL15429706W",
+"title": "The house of broken dolls"
+},
+{
+"author_name": [
+"Rumer Godden"
+],
+"cover_i": 13725403,
+"ebook_access": "borrowable",
+"edition_count": 13,
+"first_publish_year": 1956,
+"ia": [
+"fairydoll0000godd",
+"fairydoll0000godd_l8n0",
+"fairydoll0000rume"
+],
+"key": "/works/OL1825416W",
+"title": "The fairy doll"
+},
+{
+"author_name": [
+"Sarah Sink Eames"
+],
+"cover_i": 689555,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1990,
+"ia": [
+"barbiedollfashio00sara",
+"barbiedollfashio00eame"
+],
+"key": "/works/OL4582118W",
+"title": "Barbie Doll Fashion"
+},
+{
+"author_name": [
+"Joy Cowley",
+"Gaia Bordicchia"
+],
+"cover_i": 12699077,
+"ebook_access": "borrowable",
+"edition_count": 13,
+"first_publish_year": 2017,
+"ia": [
+"toymusic0000cowl",
+"newtoy0000cowl",
+"badmanners0000cowl",
+"oldjokes0000cowl",
+"surpriseformissd0000cowl",
+"tinclown0000cowl",
+"rockingrace0000cowl",
+"rainbowbird0000cowl",
+"missdollismissin0000cowl",
+"yellowduck0000cowl",
+"whereisfireengin0000cowl"
+],
+"key": "/works/OL21582606W",
+"title": "Miss Doll and Friends"
+},
+{
+"author_name": [
+"Laura Jacobs",
+"Jeffrey Golick"
+],
+"cover_i": 695860,
+"ebook_access": "borrowable",
+"edition_count": 9,
+"first_publish_year": 1994,
+"ia": [
+"barbiewhatdoll0000jaco",
+"barbieinfashion00jaco_0",
+"barbiefourdecade0000jaco"
+],
+"key": "/works/OL890010W",
+"title": "Barbie"
+},
+{
+"author_name": [
+"Ka-tzetnik 135633"
+],
+"cover_i": 14982558,
+"ebook_access": "public",
+"edition_count": 19,
+"first_publish_year": 1955,
+"ia": [
+"nybc200682",
+"houseofdolls0000unse",
+"houseofdolls012901mbp"
+],
+"key": "/works/OL1577436W",
+"title": "Dos hoyz fun di lal\u1e33es"
+},
+{
+"author_name": [
+"Marjorie Stover"
+],
+"cover_i": 6288670,
+"ebook_access": "borrowable",
+"edition_count": 3,
+"first_publish_year": 1985,
+"ia": [
+"whendollswoke00stov"
+],
+"key": "/works/OL4800654W",
+"title": "When the dolls woke"
+},
+{
+"author_name": [
+"Nicky Epstein"
+],
+"cover_i": 957137,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 2002,
+"ia": [
+"crochetforbarbie00nick"
+],
+"key": "/works/OL1934801W",
+"title": "Crochet for Barbie Doll"
+},
+{
+"author_name": [
+"Jean Greenhowe"
+],
+"cover_i": 9596318,
+"ebook_access": "borrowable",
+"edition_count": 3,
+"first_publish_year": 1972,
+"ia": [
+"makingcostumedol00gree"
+],
+"key": "/works/OL4155506W",
+"title": "Making costume dolls"
+},
+{
+"author_name": [
+"L. P. Davies"
+],
+"cover_i": 6549477,
+"ebook_access": "borrowable",
+"edition_count": 6,
+"first_publish_year": 1964,
+"ia": [
+"paperdolls0000davi",
+"paperdolls0000lpda",
+"paperdolls00davi"
+],
+"key": "/works/OL6556270W",
+"title": "The paper dolls"
+},
+{
+"author_name": [
+"Catherine Woolley"
+],
+"cover_i": 6505349,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1960,
+"ia": [
+"ginniemysterydol00wool"
+],
+"key": "/works/OL4480273W",
+"title": "Ginnie and the mystery doll"
+},
+{
+"author_name": [
+"Jacqueline K. Ogburn"
+],
+"cover_i": 575344,
+"ebook_access": "borrowable",
+"edition_count": 5,
+"first_publish_year": 2000,
+"ia": [
+"magicnestingdoll0000ogbu"
+],
+"key": "/works/OL1940404W",
+"title": "The Magic Nesting Doll"
+},
+{
+"author_name": [
+"Gail Collins"
+],
+"cover_i": 22521,
+"ebook_access": "printdisabled",
+"edition_count": 15,
+"first_publish_year": 2003,
+"ia": [
+"americaswomen00gail",
+"americaswomenfou00coll"
+],
+"key": "/works/OL29037W",
+"title": "America's Women"
+},
+{
+"author_name": [
+"Marcie Melillo"
+],
+"cover_i": 663705,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1996,
+"ia": [
+"ultimatebarbiedo00meli"
+],
+"key": "/works/OL3369067W",
+"title": "The Ultimate Barbie Doll Book"
+},
+{
+"author_name": [
+"Ann M. Martin",
+"Laura Godwin"
+],
+"cover_i": 7347386,
+"ebook_access": "printdisabled",
+"edition_count": 4,
+"first_publish_year": 2008,
+"ia": [
+"runawaydolls0000mart",
+"runawaydolls00mart"
+],
+"key": "/works/OL818080W",
+"title": "The Runaway Dolls"
+},
+{
+"author_name": [
+"Lois Ruby"
+],
+"cover_i": 11621544,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 2014,
+"ia": [
+"dollgraveyard0000ruby"
+],
+"key": "/works/OL19980778W",
+"title": "The doll graveyard"
+},
+{
+"author_name": [
+"Constance Eileen King"
+],
+"cover_i": 7366896,
+"ebook_access": "borrowable",
+"edition_count": 4,
+"first_publish_year": 1977,
+"ia": [
+"dollsdollshouses00king"
+],
+"key": "/works/OL4552042W",
+"title": "Dolls and dolls' houses"
+},
+{
+"author_name": [
+"Holly Black"
+],
+"cover_i": 7357511,
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2013,
+"key": "/works/OL16671987W",
+"title": "Doll bones"
+},
+{
+"author_name": [
+"Patrick C. Olds",
+"Joyce L. Olds"
+],
+"cover_i": 1925003,
+"ebook_access": "borrowable",
+"edition_count": 5,
+"first_publish_year": 1996,
+"ia": [
+"barbiedollyearsc0000olds"
+],
+"key": "/works/OL1643867W",
+"title": "The Barbie doll years"
+},
+{
+"author_name": [
+"Jacqueline Susann"
+],
+"cover_i": 12433907,
+"ebook_access": "no_ebook",
+"edition_count": 14,
+"first_publish_year": 1966,
+"key": "/works/OL21294720W",
+"title": "Valley of the Dolls"
+},
+{
+"author_name": [
+"Holly Black"
+],
+"cover_i": 10399727,
+"ebook_access": "printdisabled",
+"edition_count": 1,
+"first_publish_year": 2013,
+"ia": [
+"dollbones0000blac_y7m1"
+],
+"key": "/works/OL21731176W",
+"title": "Doll Bones"
+},
+{
+"author_name": [
+"Jane Sarasohn-Kahn"
+],
+"cover_i": 4795899,
+"ebook_access": "borrowable",
+"edition_count": 3,
+"first_publish_year": 1997,
+"ia": [
+"contemporarybarb00sara"
+],
+"key": "/works/OL2771440W",
+"title": "Contemporary Barbie dolls"
+},
+{
+"author_name": [
+"Dare Wright"
+],
+"cover_i": 393117,
+"ebook_access": "borrowable",
+"edition_count": 3,
+"first_publish_year": 1966,
+"ia": [
+"giftfromlonelydo00dare"
+],
+"key": "/works/OL6225359W",
+"title": "A Gift from the Lonely Doll"
+},
+{
+"author_name": [
+"Michelle Hamilton"
+],
+"cover_i": 934952,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1996,
+"ia": [
+"sewingvictoriand0000hami"
+],
+"key": "/works/OL3263885W",
+"title": "Sewing Victorian doll clothes"
+},
+{
+"author_name": [
+"Margery Williams Bianco"
+],
+"cover_i": 7291033,
+"ebook_access": "no_ebook",
+"edition_count": 6,
+"first_publish_year": 1925,
+"key": "/works/OL812051W",
+"title": "The Little Wooden Doll"
+},
+{
+"author_name": [
+"James Patterson",
+"Kecia Bal"
+],
+"cover_i": 13194565,
+"ebook_access": "printdisabled",
+"edition_count": 4,
+"first_publish_year": 2017,
+"ia": [
+"dolls0000patt"
+],
+"key": "/works/OL19716858W",
+"title": "The dolls"
+},
+{
+"author_name": [
+"Eileen Mercer"
+],
+"cover_i": 8114105,
+"ebook_access": "borrowable",
+"edition_count": 5,
+"first_publish_year": 1962,
+"ia": [
+"letsmakedollfurn00merc"
+],
+"key": "/works/OL6901116W",
+"title": "Let's make doll furniture"
+},
+{
+"author_name": [
+"Philip Coristine"
+],
+"cover_i": 768842,
+"ebook_access": "borrowable",
+"edition_count": 3,
+"first_publish_year": 2000,
+"ia": [
+"serenawilddoll00phil"
+],
+"key": "/works/OL8817318W",
+"title": "Serena and the Wild Doll"
+},
+{
+"author_name": [
+"Caroline Horne"
+],
+"cover_i": 13086641,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1970,
+"ia": [
+"fashioncrochetfo0000horn"
+],
+"key": "/works/OL6281738W",
+"title": "Fashion crochet for your doll"
+},
+{
+"author_name": [
+"ARRL Inc."
+],
+"cover_i": 13769593,
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2022,
+"key": "/works/OL34945147W",
+"title": "ARRL Ham Radio License Manual 5th Edition \u2013 Complete Study Guide with Question Pool to Pass the Technician Class Amateur Radio Exam"
+},
+{
+"author_name": [
+"Boyd, Andrew"
+],
+"cover_i": 1150571,
+"ebook_access": "printdisabled",
+"edition_count": 4,
+"first_publish_year": 1993,
+"ia": [
+"broadcastjournal0000boyd",
+"broadcastjournal0000boyd_a1c8",
+"broadcastjournal04edboyd",
+"broadcastjournal0000boyd_i1a0"
+],
+"key": "/works/OL934316W",
+"title": "Broadcast journalism"
+},
+{
+"author_name": [
+"Joanne Ramos"
+],
+"cover_i": 8798655,
+"ebook_access": "no_ebook",
+"edition_count": 9,
+"first_publish_year": 2019,
+"key": "/works/OL20153631W",
+"title": "The Farm"
+},
+{
+"author_name": [
+"Ham Radio Magazine"
+],
+"cover_i": 12139766,
+"ebook_access": "borrowable",
+"edition_count": 3,
+"first_publish_year": 2003,
+"ia": [
+"hamradioantholog0000unse"
+],
+"key": "/works/OL9666683W",
+"title": "Ham Radio Anthology"
+},
+{
+"author_name": [
+"Pete Wilby"
+],
+"cover_i": 3945222,
+"ebook_access": "no_ebook",
+"edition_count": 7,
+"first_publish_year": 1994,
+"key": "/works/OL3956072W",
+"title": "The radio handbook"
+},
+{
+"author_name": [
+"Richard Bonner"
+],
+"cover_i": 2808408,
+"ebook_access": "no_ebook",
+"edition_count": 16,
+"first_publish_year": 1915,
+"key": "/works/OL7724615W",
+"title": "The Boy Inventors' Radio Telephone"
+},
+{
+"author_name": [
+"Joyce Krieg"
+],
+"cover_i": 185582,
+"ebook_access": "printdisabled",
+"edition_count": 6,
+"first_publish_year": 2004,
+"ia": [
+"slipcuetalkradio00krie"
+],
+"key": "/works/OL5732590W",
+"title": "Slip Cue"
+},
+{
+"author_name": [
+"Joe Richman"
+],
+"cover_i": 2717796,
+"ebook_access": "no_ebook",
+"edition_count": 6,
+"first_publish_year": 2000,
+"key": "/works/OL9753030W",
+"title": "Radio Diaries"
+},
+{
+"author_name": [
+"Alice Oseman"
+],
+"cover_i": 13307470,
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2021,
+"key": "/works/OL25338421W",
+"title": "Alice Oseman Four-Book Collection Box Set (Solitaire, Radio Silence, I Was Born for This, Loveless)"
+},
+{
+"author_name": [
+"Time-Life Books"
+],
+"cover_i": 6496119,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 1980,
+"ia": [
+"encyclopediaradi00time"
+],
+"key": "/works/OL15138738W",
+"title": "The Encyclopedia of Collectibles"
+},
+{
+"author_name": [
+"Chris Priestman"
+],
+"cover_i": 1150595,
+"ebook_access": "printdisabled",
+"edition_count": 6,
+"first_publish_year": 2001,
+"ia": [
+"webradioradiopro0000prie"
+],
+"key": "/works/OL9265914W",
+"title": "Web Radio"
+},
+{
+"author_name": [
+"SeungJune Yi"
+],
+"cover_i": 13471931,
+"ebook_access": "no_ebook",
+"edition_count": 6,
+"first_publish_year": 2012,
+"key": "/works/OL16714438W",
+"title": "Radio protocols for LTE and LTE-advanced"
+},
+{
+"author_name": [
+"Jonathan M. Marr",
+"Ronald Lee Snell",
+"Stanley E. Kurtz"
+],
+"cover_i": 11171716,
+"ebook_access": "no_ebook",
+"edition_count": 9,
+"first_publish_year": 2015,
+"key": "/works/OL22147767W",
+"title": "Fundamentals of Radio Astronomy"
+},
+{
+"author_name": [
+"John Markus"
+],
+"cover_i": 6686295,
+"ebook_access": "borrowable",
+"edition_count": 2,
+"first_publish_year": 1953,
+"ia": [
+"televisionradior00mark",
+"televisionradior0000mark"
+],
+"key": "/works/OL4760344W",
+"title": "Television and radio repairing"
+},
+{
+"author_name": [
+"Neville Goddard"
+],
+"cover_i": 11495474,
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2016,
+"key": "/works/OL24751177W",
+"title": "Neville Goddard Radio Lectures"
+},
+{
+"author_name": [
+"H. Ward Silver"
+],
+"cover_i": 12509515,
+"ebook_access": "printdisabled",
+"edition_count": 1,
+"first_publish_year": 2014,
+"ia": [
+"arrlhandbookforr0000unse_i5o4"
+],
+"key": "/works/OL27012852W",
+"title": "The ARRL handbook for radio communications, 2015"
+},
+{
+"author_name": [
+"John Allen Hendricks",
+"Bruce Mims"
+],
+"cover_i": 9233959,
+"ebook_access": "no_ebook",
+"edition_count": 6,
+"first_publish_year": 2018,
+"key": "/works/OL20592924W",
+"title": "The Radio Station"
+},
+{
+"author_name": [
+"Robert T. Holt"
+],
+"cover_i": 5518677,
+"ebook_access": "no_ebook",
+"edition_count": 4,
+"first_publish_year": 1958,
+"key": "/works/OL162232W",
+"title": "Radio Free Europe"
+},
+{
+"author_name": [
+"Jay Allison",
+"Dan Gediman",
+"John Gregory"
+],
+"cover_i": 8331330,
+"ebook_access": "printdisabled",
+"edition_count": 6,
+"first_publish_year": 2006,
+"ia": [
+"isbn_9780805086584",
+"isbn_9780805086584"
+],
+"key": "/works/OL18167873W",
+"title": "This I believe"
+},
+{
+"author_name": [
+"Sol Libes"
+],
+"ebook_access": "no_ebook",
+"edition_count": 4,
+"first_publish_year": 1960,
+"key": "/works/OL6443272W",
+"title": "Repairing transistor radios"
+},
+{
+"author_name": [
+"C. S. Lewis"
+],
+"cover_i": 6529226,
+"ebook_access": "borrowable",
+"edition_count": 107,
+"first_publish_year": 1956,
+"ia": [
+"saigonotatakai0000lewi",
+"lastbattlebycsle0000lewi",
+"lascronicasdenar0000csle",
+"lastbattle0000lewi_g7z5",
+"lastbattle0000lewi_q5p8",
+"laltimabatalla0000lewi",
+"lastbattlelewi00lewi",
+"lastbattle1994lewi",
+"lastbattle0000lewi_i3l8",
+"lastbattlechroni00csle",
+"lastbattle0000lewi_r1a9",
+"isbn_9780060884796",
+"lastbattle0000lewi_m5a0",
+"lastbattlethechr00csle_0",
+"lastbattle00csle",
+"lastbattle00lewi_0",
+"lastbatt00lewi",
+"lastbattle000lewi",
+"lastbattle00lewi",
+"lastbattlethechr00csle",
+"lastbattle0000csle_p6z6",
+"lastbattle0000lewi_q1a2",
+"lecronachedinarn00lewi_136"
+],
+"key": "/works/OL71124W",
+"title": "The Last Battle"
+},
+{
+"author_name": [
+"Saadat Hassan Manto",
+"Shiv Seth",
+"Rashid Sultan"
+],
+"cover_i": 11137735,
+"ebook_access": "no_ebook",
+"edition_count": 4,
+"first_publish_year": 2019,
+"key": "/works/OL24511612W",
+"title": "Manto"
+},
+{
+"author_name": [
+"Ian Rankin"
+],
+"cover_i": 499877,
+"ebook_access": "printdisabled",
+"edition_count": 29,
+"first_publish_year": 1987,
+"ia": [
+"knotscrosses0000rank",
+"knotscrossesinsp00ianr",
+"knotscrossesinsp00rank",
+"knotscrossesinsp0000rank",
+"knotscrosses00rank_0",
+"knotscrosses0000rank_m3l6",
+"knotscrossesinsp00ianr_0"
+],
+"key": "/works/OL483838W",
+"title": "Knots and Crosses"
+},
+{
+"author_name": [
+"Agatha Christie"
+],
+"cover_i": 9492111,
+"ebook_access": "public",
+"edition_count": 113,
+"first_publish_year": 1933,
+"ia": [
+"thirteenatdinner0000unse",
+"bwb_T3-CDW-992",
+"agathachristiele0000unse",
+"lecouteausurlanu0000chri_q8c6",
+"lecouteausurlanu0000agat",
+"13atdinner0000agat",
+"bwb_W6-BHE-331",
+"lecouteausurlanu0000chri_s9k1",
+"13atdinner00chri",
+"thirteenatdinner00chri",
+"lamuertedelorded0000chri",
+"dreizehnbeitisch0000chri",
+"lecouteausurlanu0000chri",
+"renxingjilulorde0000chri",
+"lordedgwaredies0000agat",
+"isbn_9780007815555",
+"agathachristielo0000unse",
+"lordedgwaredies0000chri_k2x9",
+"lordedgwaredies0000chri",
+"lordedgwaredies00chri",
+"lordedgwarediesh0000chri",
+"lordedgwaredies0000chri_m1k8"
+],
+"key": "/works/OL471767W",
+"title": "Lord Edgware Dies"
+},
+{
+"author_name": [
+"David F. Norman"
+],
+"ebook_access": "no_ebook",
+"edition_count": 2,
+"first_publish_year": 1975,
+"key": "/works/OL3747844W",
+"title": "Practical CB radio troubleshooting & repair"
+},
+{
+"author_name": [
+"Tony Buzan"
+],
+"cover_i": 375204,
+"ebook_access": "borrowable",
+"edition_count": 15,
+"first_publish_year": 1974,
+"ia": [
+"useyourhead0000buza",
+"useyourheadinnov0000buza_h2y3",
+"useyourhead0000buza_q5i1",
+"useyourhead0000buza_t8g2",
+"useyourhead0000buza_s2q0",
+"useyourheadinnov0000buza",
+"useyourhead0000buza_q2w6"
+],
+"key": "/works/OL1952759W",
+"title": "Use Your Head"
+},
+{
+"author_name": [
+"Dale Stacey"
+],
+"cover_i": 1238139,
+"ebook_access": "printdisabled",
+"edition_count": 5,
+"first_publish_year": 2007,
+"ia": [
+"aeronauticalradi0000stac"
+],
+"key": "/works/OL8204174W",
+"title": "Aeronautical Radio Communication Systems and Networks"
+},
+{
+"author_name": [
+"Marty and Sue Bunis",
+"Marty Bunis",
+"Sue Bunis"
+],
+"cover_i": 689537,
+"ebook_access": "borrowable",
+"edition_count": 6,
+"first_publish_year": 1991,
+"ia": [
+"collectorsguidet0000buni_w0f8",
+"collectorsguidet0000buni"
+],
+"key": "/works/OL2292996W",
+"title": "The Collector's Guide to Antique Radios"
+},
+{
+"author_name": [
+"Bob Gardner"
+],
+"cover_i": 789991,
+"ebook_access": "no_ebook",
+"edition_count": 8,
+"first_publish_year": 1995,
+"key": "/works/OL8859436W",
+"title": "Say Again, Please"
+},
+{
+"author_name": [
+"Radio Spirits"
+],
+"cover_i": 2921376,
+"ebook_access": "no_ebook",
+"edition_count": 5,
+"first_publish_year": 1995,
+"key": "/works/OL8899681W",
+"title": "Radio Movie Classics"
+},
+{
+"author_name": [
+"Paul Tannery"
+],
+"cover_i": 7216470,
+"ebook_access": "public",
+"edition_count": 1,
+"first_publish_year": 1922,
+"ia": [
+"sciencesexactesa00tann"
+],
+"key": "/works/OL15706169W",
+"title": "Sciences exactes au Moyen \u6b9fe, 1887-1921"
+},
+{
+"author_name": [
+"Roy Thomson",
+"Quita Mould"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2011,
+"key": "/works/OL15990810W",
+"title": "Leather tanneries"
+},
+{
+"author_name": [
+"Jules Tannery",
+"Paul Tannery"
+],
+"ebook_access": "no_ebook",
+"edition_count": 2,
+"first_publish_year": 2018,
+"key": "/works/OL28927168W",
+"title": "Notions de Math\u5e66atiques"
+},
+{
+"author_name": [
+"United States. Congress. House. Committee on Invalid Pensions."
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 1908,
+"key": "/works/OL11493378W",
+"title": "William W. Tannery"
+},
+{
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"key": "/works/OL34671841W",
+"title": "La Tannerie"
+},
+{
+"author_name": [
+"Celia Levi"
+],
+"cover_i": 10513720,
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2020,
+"key": "/works/OL23546860W",
+"title": "La Tannerie"
+},
+{
+"author_name": [
+"Arbingast, Stanley, A."
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 1951,
+"key": "/works/OL7475931W",
+"title": "A tannery survey"
+},
+{
+"author_name": [
+"Jean-Franc \u02b9ois Ricord"
+],
+"cover_i": 13411329,
+"ebook_access": "public",
+"edition_count": 1,
+"first_publish_year": 1794,
+"ia": [
+"tanneries00unse"
+],
+"key": "/works/OL17622480W",
+"title": "Tanneries"
+},
+{
+"author_name": [
+"Martha Tannery Jones"
+],
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 1988,
+"ia": [
+"greattexasscares0000mart"
+],
+"key": "/works/OL36433486W",
+"title": "The Great Texas Scare"
+},
+{
+"author_name": [
+"Tannery"
+],
+"cover_i": 5135718,
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 1987,
+"key": "/works/OL9631510W",
+"title": "POUR L'HISTOIRE DE SCIENCE (Greek and Roman Philosophy, Vol 39)"
+},
+{
+"author_name": [
+"J. Geraint Jenkins"
+],
+"cover_i": 13475378,
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 1973,
+"key": "/works/OL2406388W",
+"title": "The Rhaeadr Tannery"
+},
+{
+"author_name": [
+"Cher Brisebois"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 2024,
+"key": "/works/OL42430381W",
+"title": "Wildfibre Organic Tannery"
+},
+{
+"author_name": [
+"International Labour Office"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"key": "/works/OL12010350W",
+"title": "ANTHRAX IN THE TANNERY INDUSTRY"
+},
+{
+"author_name": [
+"Herbert Holms Moede"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 1974,
+"key": "/works/OL33182083W",
+"title": "Tannery costs"
+},
+{
+"author_name": [
+"Joseph W. Masselli",
+"Conn.). Hall Laboratory of Chemistry Wesleyan University (Middletown",
+"New England Interstate Water Pollution Control Commission"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 1958,
+"key": "/works/OL43274499W",
+"title": "Tannery wastes"
+},
+{
+"author_name": [
+"Ora Eugene Tannery"
+],
+"ebook_access": "no_ebook",
+"edition_count": 1,
+"first_publish_year": 1998,
+"key": "/works/OL7829981W",
+"title": "The Tannerys, young and old"
+},
+{
+"author_name": [
+"Melody Miller",
+"Allison Tannery"
+],
+"cover_i": 8204113,
+"ebook_access": "borrowable",
+"edition_count": 1,
+"first_publish_year": 2012,
+"ia": [
+"rubystarwrapping0000mill"
+],
+"key": "/works/OL16486517W",
+"title": "Ruby star wrapping"
+},
+{
+"author_name": [
+"Jules Tannery"
+],
+"ebook_access": "public",
+"edition_count": 2,
+"first_publish_year": 1893,
+"ia": [
+"elementsdelatheo027713mbp"
+],
+"key": "/works/OL28552502W",
+"title": "Elements de la Theorie des Fonctions Elliptiques Tome I"
+},
+{
+"author_name": [
+"Paul Tannery"
+],
+"ebook_access": "no_ebook",
+"edition_count": 2,
+"first_publish_year": 1887,
+"key": "/works/OL5278730W",
+"title": "La ge\u0301ome\u0301trie grecque"
+},
+{
+"author_name": [
+"Paul Tannery"
+],
+"cover_i": 6018725,
+"ebook_access": "public",
+"edition_count": 2,
+"first_publish_year": 1887,
+"ia": [
+"lagomtriegre01tannuoft"
+],
+"key": "/works/OL5278735W",
+"title": "La g\u5ee9m\u5f4brie grecque, comment son histoire nous est parvenue et ce que nous en savons"
+},
+{
+"author_name": [
+"Jules Tannery"
+],
+"ebook_access": "no_ebook",
+"edition_count": 2,
+"first_publish_year": 2022,
+"key": "/works/OL34095489W",
+"title": "Le\u851ens D'arithm\u5f4bique"
+},
+{
+"author_name": [
+"Jules Tannery"
+],
+"ebook_access": "public",
+"edition_count": 2,
+"first_publish_year": 1898,
+"ia": [
+"elementsdelatheo027729mbp"
+],
+"key": "/works/OL37680265W",
+"title": "Elements de la Theorie des Fonctions Elliptiques Tome III"
+},
+{
+"author_name": [
+"Jules Tannery"
+],
+"cover_i": 6138162,
+"ebook_access": "public",
+"edition_count": 2,
+"first_publish_year": 1909,
+"ia": [
+"elementedermathe00tann"
+],
+"key": "/works/OL15254956W",
+"title": "Elemente der Mathematik"
+},
+{
+"author_name": [
+"Claude Tannery"
+],
+"ebook_access": "no_ebook",
+"edition_count": 2,
+"first_publish_year": 1985,
+"key": "/works/OL4086998W",
+"title": "Malraux, l'agnostique absolu, ou, La me\u0301tamorphose comme loi du monde"
+},
+{
+"author_name": [
+"Jules Tannery"
+],
+"cover_i": 6517869,
+"ebook_access": "public",
+"edition_count": 2,
+"first_publish_year": 1904,
+"ia": [
+"introductionla01tannuoft"
+],
+"key": "/works/OL207183W",
+"title": "Introduction \u042e la th\u0418orie des fonctions d'una variable"
+},
+{
+"author_name": [
+"Jules Tannery"
+],
+"cover_i": 6545277,
+"ebook_access": "public",
+"edition_count": 2,
+"first_publish_year": 1901,
+"ia": [
+"noticesurlestrav00tannuoft"
+],
+"key": "/works/OL207184W",
+"title": "Notice sur les travaux scientifiques de M. Jules Tannery"
+},
+{
+"author_name": [
+"Paul Tannery"
+],
+"ebook_access": "no_ebook",
+"edition_count": 2,
+"first_publish_year": 1887,
+"key": "/works/OL38553540W",
+"title": "La g\u5ee9m\u5f4brie grecque"
 }
 ]
