@@ -6458,5 +6458,25 @@
 "inventor": "Hette Knijpstra",
 "module": "abandoned",
 "mined_at": "2026-11-13T11:15:39Z"
+},
+{
+"source": "Google Patents",
+"title": "Combined rocking and rotatable amusement device",
+"date": "1966-02-15",
+"dateLabel": "published",
+"count": null,
+"countLabel": "",
+"kind": "meta",
+"mime": "patent/text",
+"thumb": "",
+"src": "",
+"preview": "",
+"url": "https://patents.google.com/patent/US3235253A/en",
+"query": "google patents q=\"amusement device\" cpc=A63G before 1980",
+"extra": "patent US3235253A \u00b7 inventor Marvin I Glass",
+"patent_number": "US3235253A",
+"inventor": "Marvin I Glass",
+"module": "abandoned",
+"mined_at": "2026-11-13T19:57:07Z"
 }
 ]
