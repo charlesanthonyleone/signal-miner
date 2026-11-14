@@ -6284,5 +6284,109 @@
    ]
   ],
   "mined_at": "2026-11-10T21:30:34Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "rnb1.jpg",
+  "date": "2009-07-30",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "40 KB",
+  "ftype": "image/jpeg",
+  "host": "www.geocities.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20090730224406im_/http://www.geocities.com/Colosseum/7366/rnb1.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20090730224406im_/http://www.geocities.com/Colosseum/7366/rnb1.jpg",
+  "url": "https://web.archive.org/web/20090730224406/http://www.geocities.com/Colosseum/7366/rnb1.jpg",
+  "query": "CDX geocities.com/Colosseum/7366/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 41317 bytes \u00b7 originally at http://www.geocities.com/Colosseum/7366/rnb1.jpg",
+  "extra": "original host: www.geocities.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.geocities.com/Colosseum/7366/rnb1.jpg"
+   ]
+  ],
+  "mined_at": "2026-11-14T18:16:28Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "TORCELI.GIF",
+  "date": "2002-02-28",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "21 KB",
+  "ftype": "image/gif",
+  "host": "www.geocities.com:80",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20020228185215im_/http://www.geocities.com:80/Colosseum/7366/TORCELI.GIF",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20020228185215im_/http://www.geocities.com:80/Colosseum/7366/TORCELI.GIF",
+  "url": "https://web.archive.org/web/20020228185215/http://www.geocities.com:80/Colosseum/7366/TORCELI.GIF",
+  "query": "CDX geocities.com/Colosseum/7366/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/gif \u00b7 21646 bytes \u00b7 originally at http://www.geocities.com:80/Colosseum/7366/TORCELI.GIF",
+  "extra": "original host: www.geocities.com:80 (offline) \u00b7 image/gif",
+  "links": [
+   [
+    "original URL",
+    "http://www.geocities.com:80/Colosseum/7366/TORCELI.GIF"
+   ]
+  ],
+  "mined_at": "2026-11-14T18:16:28Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "rpd3.jpg",
+  "date": "2009-10-20",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "39 KB",
+  "ftype": "image/jpeg",
+  "host": "www.geocities.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20091020051628im_/http://www.geocities.com/Colosseum/7366/rpd3.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20091020051628im_/http://www.geocities.com/Colosseum/7366/rpd3.jpg",
+  "url": "https://web.archive.org/web/20091020051628/http://www.geocities.com/Colosseum/7366/rpd3.jpg",
+  "query": "CDX geocities.com/Colosseum/7366/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 40466 bytes \u00b7 originally at http://www.geocities.com/Colosseum/7366/rpd3.jpg",
+  "extra": "original host: www.geocities.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.geocities.com/Colosseum/7366/rpd3.jpg"
+   ]
+  ],
+  "mined_at": "2026-11-14T18:16:28Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "bor2.jpg",
+  "date": "2009-10-20",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "36 KB",
+  "ftype": "image/jpeg",
+  "host": "www.geocities.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20091020034513im_/http://www.geocities.com/Colosseum/7366/bor2.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20091020034513im_/http://www.geocities.com/Colosseum/7366/bor2.jpg",
+  "url": "https://web.archive.org/web/20091020034513/http://www.geocities.com/Colosseum/7366/bor2.jpg",
+  "query": "CDX geocities.com/Colosseum/7366/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 37791 bytes \u00b7 originally at http://www.geocities.com/Colosseum/7366/bor2.jpg",
+  "extra": "original host: www.geocities.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.geocities.com/Colosseum/7366/bor2.jpg"
+   ]
+  ],
+  "mined_at": "2026-11-14T18:16:28Z"
  }
 ]

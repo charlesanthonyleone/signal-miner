@@ -5782,5 +5782,29 @@
    ]
   ],
   "mined_at": "2026-11-14T01:37:04Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Creation Stories Redux",
+  "url": "https://portal.mozz.us/gemini/the-brannons.com/creation-redux/",
+  "gemini": "gemini://the-brannons.com/creation-redux/",
+  "date": "",
+  "dateLabel": "",
+  "count": 7196,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "the-brannons.com",
+  "preview": "# Creation Stories Redux\n\n=> gemini://gem.librehacker.com/gemlog/starlog/20230120-0.gmi Re: Creation Stories\n> I feel that there is one core issue here that must be addressed first: everyone has a creation story, or if you prefer, an origin story,\n\nI'll grant this point.  However, the origin story from modern science is backed up by a very large body of evidence.\n\n> He who spoke the universe into being was also capable of providing us with a record of it, and did so.\n\nThat body of literature is full of logical contradictions and other problems.  But I'll get to that in a moment.\n\n> a Nothing (a quantum nothing? a flucuation of nothingness?) was (became?) a singularity of unfathomably great mass/energy, which exploded. After this very hot material expanded and began to cool, and processes occurred over millions or billions of years to somehow form protostars.\n\nAs far as I know, nobody claims that the singularity at the beginning of the universe came from nothing, do they?  I thought it always existed?\n\nI've read somewhere or other that there is solid evidence that the universe is still expanding.  Perhaps the flipside of the big bang is a big crunch, where the universe reaches a cer",
+  "query": "gemini search \"gnostic\"",
+  "kw": "gnostic",
+  "extra": "capsule: the-brannons.com \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://the-brannons.com/creation-redux/"
+   ]
+  ],
+  "mined_at": "2026-11-14T18:18:46Z"
  }
 ]
