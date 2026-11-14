@@ -5806,5 +5806,29 @@
    ]
   ],
   "mined_at": "2026-11-14T18:18:46Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Seiya Pegasus",
+  "url": "https://portal.mozz.us/gemini/samunder12.srht.site/characters/seiya_pegasus.gmi",
+  "gemini": "gemini://samunder12.srht.site/characters/seiya_pegasus.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 1071,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "samunder12.srht.site",
+  "preview": "# Seiya Pegasus\r\n=> https://cdn.myanimelist.net/images/characters/16/209321.jpg [Image] View Seiya Pegasus Portrait\r\n\r\n## Statistics\r\n* MyAnimeList Favorites: 616\r\n\r\n## Character Lore & About\r\nAge: 13 (Saint Seiya), 38 (Saint Seiya Omega)\r\nBirthday: December 1\r\nBlood type: B\r\nHeight: 165 cm (5'5\") / 173 cm (Omega)\r\nWeight: 53 kg (117 lbs)\r\nRank: Bronze saint (Saint Seiya), Gold Saint (Saint Seiya Omega)\r\nCloth: Pegasus Cloth / Sagittarius Cloth\r\nPlace of Birth: Japan\r\n\r\nSeiya was trained to become a Saint of Athena, who is in charge of protecting the Earth from some of the other gods who would take it as part of their domain. Those gods include Hades, Artemis, and Poseidon. Seiya fights very tough battles but ends up successful through the help of his friends and his love for the Earth and his devotion to Athena. His determination has led to his overpowering gods.\r\n\r\nIn Saint Seiya Omega he wears the Sagittarius cloth, and he is considered a Legendary Saint.\r\n\r\n## Source\r\n=> https://myanimelist.net/character/2285/Seiya_Pegasus Original Page on MyAnimeList",
+  "query": "gemini search \"saint\"",
+  "kw": "saint",
+  "extra": "capsule: samunder12.srht.site \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://samunder12.srht.site/characters/seiya_pegasus.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:37:30Z"
  }
 ]

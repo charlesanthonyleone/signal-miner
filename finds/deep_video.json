@@ -16024,5 +16024,25 @@
   "preview": "uw_style_videoconf_1300k.asf \u00b7 78M \u00b7 in https://mirror.aarnet.edu.au/pub/aarnet/Videos/",
   "extra": "open directory on mirror.aarnet.edu.au",
   "mined_at": "2026-11-14T18:18:50Z"
+ },
+ {
+  "source": "Open Directory (index)",
+  "title": "Larry_Smarr_Usyd.m4v",
+  "date": "2008-10-27",
+  "dateLabel": "modified",
+  "count": null,
+  "countLabel": "",
+  "size": "435M",
+  "ftype": "video/m4v",
+  "host": "mirror.aarnet.edu.au",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://mirror.aarnet.edu.au/pub/aarnet/Videos/Larry_Smarr_Usyd.m4v",
+  "url": "https://mirror.aarnet.edu.au/pub/aarnet/Videos/Larry_Smarr_Usyd.m4v",
+  "query": "open-directory index (odbig) video extensions",
+  "preview": "Larry_Smarr_Usyd.m4v \u00b7 435M \u00b7 in https://mirror.aarnet.edu.au/pub/aarnet/Videos/",
+  "extra": "open directory on mirror.aarnet.edu.au",
+  "mined_at": "2026-11-14T22:37:30Z"
  }
 ]

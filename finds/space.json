@@ -5147,5 +5147,43 @@
   "extra": "center KSC \u00b7 nasa_id KSC-08pd0761 \u00b7 keywords ",
   "module": "space",
   "mined_at": "2026-11-14T01:31:54Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "ARC-2007-ACD07-0152-028",
+  "date": "2007-08-12",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/ARC-2007-ACD07-0152-028/ARC-2007-ACD07-0152-028~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/ARC-2007-ACD07-0152-028/ARC-2007-ACD07-0152-028~thumb.jpg",
+  "preview": "Perseid Meteor flight on Google's Gulfstream Aircraft. P.I. Peter Jenniskens, SETI Group L-R; Julian Nott, Santa Barbara, Peter Jenniskens, SETI and Apex Aviation Corp rep.",
+  "url": "https://images.nasa.gov/details/ARC-2007-ACD07-0152-028",
+  "query": "images-api.nasa.gov q=\"SETI\"",
+  "extra": "center ARC \u00b7 nasa_id ARC-2007-ACD07-0152-028 \u00b7 keywords Perseid Meteor flight, Peter Jeniskens, SETI Group",
+  "module": "space",
+  "mined_at": "2026-11-14T22:34:10Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "ARC-1984-AC84-0378-2",
+  "date": "1984-06-12",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/ARC-1984-AC84-0378-2/ARC-1984-AC84-0378-2~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/ARC-1984-AC84-0378-2/ARC-1984-AC84-0378-2~thumb.jpg",
+  "preview": "SETI (Search for Extraterrestrial Intelligence) Mulit-channel spectrum analyzer (MCSA) at Stanford University   used in Ames 60 yr. History NASA SP-2000-4314",
+  "url": "https://images.nasa.gov/details/ARC-1984-AC84-0378-2",
+  "query": "images-api.nasa.gov q=\"SETI\"",
+  "extra": "center ARC \u00b7 nasa_id ARC-1984-AC84-0378-2 \u00b7 keywords SETI",
+  "module": "space",
+  "mined_at": "2026-11-14T22:34:10Z"
  }
 ]

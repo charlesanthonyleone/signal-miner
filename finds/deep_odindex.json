@@ -62382,5 +62382,481 @@
    ]
   ],
   "mined_at": "2026-11-14T18:17:13Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "grasp.doc",
+  "date": "1993-04-05 13:03",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "104K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/grasp.doc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "text \u00b7 104K \u00b7 1993-04-05 13:03 \u00b7 in https://ftp.funet.fi/pub/pics/formats/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:35:57Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "img_files.spec",
+  "date": "1991-02-01 16:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "9.8K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/img_files.spec",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 9.8K \u00b7 1991-02-01 16:18 \u00b7 in https://ftp.funet.fi/pub/pics/formats/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:35:57Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "fits.doc",
+  "date": "1991-12-04 10:08",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "91K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/fits.doc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "text \u00b7 91K \u00b7 1991-12-04 10:08 \u00b7 in https://ftp.funet.fi/pub/pics/formats/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:35:57Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "targa.format",
+  "date": "1991-12-04 10:08",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "45K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/targa.format",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 45K \u00b7 1991-12-04 10:08 \u00b7 in https://ftp.funet.fi/pub/pics/formats/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:35:57Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "tiff.f.doc",
+  "date": "1991-02-01 16:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "17K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/tiff.f.doc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "text \u00b7 17K \u00b7 1991-02-01 16:18 \u00b7 in https://ftp.funet.fi/pub/pics/formats/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:35:57Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "pcx.doc",
+  "date": "1991-02-01 16:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "20K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/pcx.doc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "text \u00b7 20K \u00b7 1991-02-01 16:18 \u00b7 in https://ftp.funet.fi/pub/pics/formats/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:35:57Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "pict-file-notes.hqx",
+  "date": "1993-04-05 13:03",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "15K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/pict-file-notes.hqx",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 15K \u00b7 1993-04-05 13:03 \u00b7 in https://ftp.funet.fi/pub/pics/formats/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:35:57Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "iges.ptr",
+  "date": "1991-02-01 16:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.9K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/iges.ptr",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 1.9K \u00b7 1991-02-01 16:18 \u00b7 in https://ftp.funet.fi/pub/pics/formats/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:35:57Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "targa.doc.ps.z",
+  "date": "1993-04-05 13:03",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "55K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/targa.doc.ps.z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 55K \u00b7 1993-04-05 13:03 \u00b7 in https://ftp.funet.fi/pub/pics/formats/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:35:57Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ccitt.t4",
+  "date": "1991-12-04 10:07",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "16K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/ccitt.t4",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 16K \u00b7 1991-12-04 10:07 \u00b7 in https://ftp.funet.fi/pub/pics/formats/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:35:57Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gks.ptr",
+  "date": "1991-02-01 16:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.5K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/gks.ptr",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 1.5K \u00b7 1991-02-01 16:18 \u00b7 in https://ftp.funet.fi/pub/pics/formats/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:35:57Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "whitepaper.txt",
+  "date": "1993-02-01 15:48",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "14K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/freelore/whitepaper.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 14K \u00b7 1993-02-01 15:48 \u00b7 in https://ftp.funet.fi/pub/doc/freelore/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/freelore/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/freelore/"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:35:57Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "bull1.txt",
+  "date": "1993-02-01 15:47",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "12K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/freelore/bull1.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 12K \u00b7 1993-02-01 15:47 \u00b7 in https://ftp.funet.fi/pub/doc/freelore/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/freelore/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/freelore/"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:35:57Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "freelore.announce",
+  "date": "1993-02-01 15:47",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.9K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/freelore/freelore.announce",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 2.9K \u00b7 1993-02-01 15:47 \u00b7 in https://ftp.funet.fi/pub/doc/freelore/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/freelore/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/freelore/"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:35:57Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "diplomaattikilvet.gz",
+  "date": "1993-07-13 02:08",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "521",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/traffic/finnish/diplomaattikilvet.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 521 \u00b7 1993-07-13 02:08 \u00b7 in https://ftp.funet.fi/pub/doc/traffic/finnish/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/traffic/finnish/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/traffic/finnish/"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:35:57Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "bull2.txt",
+  "date": "1993-02-01 15:47",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "18K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/freelore/bull2.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 18K \u00b7 1993-02-01 15:47 \u00b7 in https://ftp.funet.fi/pub/doc/freelore/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/freelore/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/freelore/"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:35:57Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "bull3.txt",
+  "date": "1993-02-01 15:48",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "9.0K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/freelore/bull3.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 9.0K \u00b7 1993-02-01 15:48 \u00b7 in https://ftp.funet.fi/pub/doc/freelore/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/freelore/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/freelore/"
+   ]
+  ],
+  "mined_at": "2026-11-14T22:35:57Z"
  }
 ]
