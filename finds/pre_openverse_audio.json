@@ -111432,5 +111432,1211 @@
 "related_url": "https://api.openverse.org/v1/audio/631f8e1c-b592-432b-a45c-c3b8e1a0ea9f/related/",
 "waveform": "https://api.openverse.org/v1/audio/631f8e1c-b592-432b-a45c-c3b8e1a0ea9f/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "45f53abc-895c-4c8c-b8ac-cb0b2ba998ce",
+"title": "Globe",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1107043",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1107043&format=mp32",
+"creator": "eNoz",
+"creator_url": "https://www.jamendo.com/artist/5119/enoz",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"classical",
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "musiquedefilm",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Globe\" by eNoz is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Lann",
+"foreign_landing_url": "https://www.jamendo.com/album/132210/lann",
+"creator": "eNoz",
+"creator_url": "https://www.jamendo.com/artist/5119/enoz",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 112000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/45f53abc-895c-4c8c-b8ac-cb0b2ba998ce/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/45f53abc-895c-4c8c-b8ac-cb0b2ba998ce/",
+"related_url": "https://api.openverse.org/v1/audio/45f53abc-895c-4c8c-b8ac-cb0b2ba998ce/related/",
+"waveform": "https://api.openverse.org/v1/audio/45f53abc-895c-4c8c-b8ac-cb0b2ba998ce/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8cfbfbc3-2fb8-4e12-baf0-ed0659215acd",
+"title": "les globe & los carivasos-capaz q le moleste norte",
+"indexed_on": "2023-06-01T06:44:19.942567Z",
+"foreign_landing_url": "https://www.jamendo.com/track/517143",
+"url": "https://prod-1.storage.jamendo.com/?trackid=517143&format=mp32",
+"creator": "Los Carivasos & LEsGlobe",
+"creator_url": "https://www.jamendo.com/artist/357177/Los_Carivasos_LEsGlobe",
+"license": "by-nc-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.5/ar/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"les globe &amp; los carivasos-capaz q le moleste norte\" by Los Carivasos & LEsGlobe is licensed under CC BY-NC-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.5/ar/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Capaz que le moleste al norte",
+"foreign_landing_url": "https://www.jamendo.com/album/60498/capaz-que-le-moleste-al-norte",
+"creator": "Los Carivasos & LEsGlobe",
+"creator_url": "https://www.jamendo.com/artist/357177/Los_Carivasos_LEsGlobe",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 396000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/8cfbfbc3-2fb8-4e12-baf0-ed0659215acd/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/8cfbfbc3-2fb8-4e12-baf0-ed0659215acd/",
+"related_url": "https://api.openverse.org/v1/audio/8cfbfbc3-2fb8-4e12-baf0-ed0659215acd/related/",
+"waveform": "https://api.openverse.org/v1/audio/8cfbfbc3-2fb8-4e12-baf0-ed0659215acd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bd438709-2297-46e9-9c69-c544f5311619",
+"title": "EN-AU ck1 globe",
+"indexed_on": "2023-12-10T12:18:26.300144Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=75271505",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/EN-AU_ck1_globe.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 19619,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"EN-AU ck1 globe\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1442,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/bd438709-2297-46e9-9c69-c544f5311619/",
+"related_url": "https://api.openverse.org/v1/audio/bd438709-2297-46e9-9c69-c544f5311619/related/",
+"waveform": "https://api.openverse.org/v1/audio/bd438709-2297-46e9-9c69-c544f5311619/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b739233c-8e6c-4292-8a68-8a62c56849cc",
+"title": "Fr-globe",
+"indexed_on": "2023-11-26T18:26:56.081310Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=3042785",
+"url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Fr-globe.ogg",
+"creator": "Vion Nicolas",
+"creator_url": null,
+"license": "by",
+"license_version": "2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0/fr/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 14739,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Fr-globe\" by Vion Nicolas is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/fr/deed.en/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1150,
+"bit_rate": 80000,
+"sample_rate": 44000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b739233c-8e6c-4292-8a68-8a62c56849cc/",
+"related_url": "https://api.openverse.org/v1/audio/b739233c-8e6c-4292-8a68-8a62c56849cc/related/",
+"waveform": "https://api.openverse.org/v1/audio/b739233c-8e6c-4292-8a68-8a62c56849cc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d7c1d5d6-473a-4cd2-b3f8-cd8f5dcbcd14",
+"title": "TV static (Penguin Snow Globe Game)",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/Beetlemuse/sounds/529958",
+"url": "https://cdn.freesound.org/previews/529/529958_10334845-hq.mp3",
+"creator": "Beetlemuse",
+"creator_url": "https://freesound.org/people/Beetlemuse",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 47064,
+"filetype": "mp3",
+"tags": [
+{
+"name": "abstract",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "channel",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "digital",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electric",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electronic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "freaky",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "glitch",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lo-fi",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "noise",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "radio",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "static",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "strange",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "television",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "tv",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/529958/download/",
+"bit_rate": 0,
+"filesize": 374288,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"TV static (Penguin Snow Globe Game)\" by Beetlemuse is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Penguin Snow Globe Game SFX",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/29829/",
+"creator": "Beetlemuse",
+"creator_url": "https://freesound.org/people/Beetlemuse/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 2121,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d7c1d5d6-473a-4cd2-b3f8-cd8f5dcbcd14/",
+"related_url": "https://api.openverse.org/v1/audio/d7c1d5d6-473a-4cd2-b3f8-cd8f5dcbcd14/related/",
+"waveform": "https://api.openverse.org/v1/audio/d7c1d5d6-473a-4cd2-b3f8-cd8f5dcbcd14/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "25700ebb-785c-4470-97ae-7794ca689483",
+"title": "Bout en train (globe trotter)",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/645713",
+"url": "https://prod-1.storage.jamendo.com/?trackid=645713&format=mp32",
+"creator": "HAPPYOUPICOOL",
+"creator_url": "https://www.jamendo.com/artist/362622/HAPPYOUPICOOL",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Bout en train (globe trotter)\" by HAPPYOUPICOOL is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Pot pourri et Gribouillis",
+"foreign_landing_url": "https://www.jamendo.com/album/74826/pot-pourri-et-gribouillis",
+"creator": "HAPPYOUPICOOL",
+"creator_url": "https://www.jamendo.com/artist/362622/HAPPYOUPICOOL",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 168000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/25700ebb-785c-4470-97ae-7794ca689483/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/25700ebb-785c-4470-97ae-7794ca689483/",
+"related_url": "https://api.openverse.org/v1/audio/25700ebb-785c-4470-97ae-7794ca689483/related/",
+"waveform": "https://api.openverse.org/v1/audio/25700ebb-785c-4470-97ae-7794ca689483/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9efdf982-2033-4baa-b486-6b176a68eab5",
+"title": "LL-Q1860 (eng)-I learned some phrases-globes",
+"indexed_on": "2024-06-16T14:34:52.832083Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=80065913",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/LL-Q1860_%28eng%29-I_learned_some_phrases-globes.wav",
+"creator": "Speaker: I learned some phrases Recorder: I learned some phrases",
+"creator_url": "https://lingualibre.org/wiki/Q172230",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-I learned some phrases-globes\" by Speaker: I learned some phrases Recorder: I learned some phrases is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9efdf982-2033-4baa-b486-6b176a68eab5/",
+"related_url": "https://api.openverse.org/v1/audio/9efdf982-2033-4baa-b486-6b176a68eab5/related/",
+"waveform": "https://api.openverse.org/v1/audio/9efdf982-2033-4baa-b486-6b176a68eab5/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "23e5e16f-15cd-4ac3-b591-b541deee3549",
+"title": "Alison Balsom, audio description of Shakespeare's Globe Theatre Auditorium",
+"indexed_on": "2023-03-19T15:59:50.924520Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=46330238",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Alison_Balsom%2C_audio_description_of_Shakespeare%27s_Globe_Theatre_Auditorium.ogg",
+"creator": "VocalEyes",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Matthewcock",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 5047041,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Alison Balsom, audio description of Shakespeare's Globe Theatre Auditorium\" by VocalEyes is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 509962,
+"bit_rate": 96000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/23e5e16f-15cd-4ac3-b591-b541deee3549/",
+"related_url": "https://api.openverse.org/v1/audio/23e5e16f-15cd-4ac3-b591-b541deee3549/related/",
+"waveform": "https://api.openverse.org/v1/audio/23e5e16f-15cd-4ac3-b591-b541deee3549/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "0b2e4505-337f-402e-babd-7922cbe20a40",
+"title": "LL-Q150 (fra)-Lyoko\u041e-globe-trotter",
+"indexed_on": "2023-06-18T11:30:56.229047Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=106618169",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/LL-Q150_%28fra%29-Lyoko%C3%AF-globe-trotter.wav",
+"creator": "Speaker: Lyoko\u00ef Recorder: Lyoko\u00ef",
+"creator_url": "https://lingualibre.org/wiki/Q933",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 107796,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Lyoko\u00ef-globe-trotter\" by Speaker: Lyoko\u00ef Recorder: Lyoko\u00ef is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1221,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/0b2e4505-337f-402e-babd-7922cbe20a40/",
+"related_url": "https://api.openverse.org/v1/audio/0b2e4505-337f-402e-babd-7922cbe20a40/related/",
+"waveform": "https://api.openverse.org/v1/audio/0b2e4505-337f-402e-babd-7922cbe20a40/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "e3a026c1-c63c-4197-9674-2826551dcdc2",
+"title": "LL-Q150 (fra)-DenisdeShawi-globes",
+"indexed_on": "2022-12-04T15:02:18.477812Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=93778572",
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/LL-Q150_%28fra%29-DenisdeShawi-globes.wav",
+"creator": "Speaker: DenisdeShawi Recorder: DenisdeShawi",
+"creator_url": "https://lingualibre.org/wiki/Q308866",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 91412,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-DenisdeShawi-globes\" by Speaker: DenisdeShawi Recorder: DenisdeShawi is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1035,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/e3a026c1-c63c-4197-9674-2826551dcdc2/",
+"related_url": "https://api.openverse.org/v1/audio/e3a026c1-c63c-4197-9674-2826551dcdc2/related/",
+"waveform": "https://api.openverse.org/v1/audio/e3a026c1-c63c-4197-9674-2826551dcdc2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a349ac1c-6434-4ad2-919d-098331cfefa8",
+"title": "LL-Q150 (fra)-DSwissK-globe-trotteur",
+"indexed_on": "2023-05-14T15:17:31.147604Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=76744492",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/LL-Q150_%28fra%29-DSwissK-globe-trotteur.wav",
+"creator": "Speaker: DSwissK Recorder: DSwissK",
+"creator_url": "https://lingualibre.org/wiki/Q88891",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 133932,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-DSwissK-globe-trotteur\" by Speaker: DSwissK Recorder: DSwissK is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1394,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a349ac1c-6434-4ad2-919d-098331cfefa8/",
+"related_url": "https://api.openverse.org/v1/audio/a349ac1c-6434-4ad2-919d-098331cfefa8/related/",
+"waveform": "https://api.openverse.org/v1/audio/a349ac1c-6434-4ad2-919d-098331cfefa8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "797ddec4-3d68-46e6-a612-b55542a83469",
+"title": "LL-Q150 (fra)-LoquaxFR-globe",
+"indexed_on": "2023-12-10T12:12:52.960432Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=85019992",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/LL-Q150_%28fra%29-LoquaxFR-globe.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "Speaker: LoquaxFR Recorder: LoquaxFR",
+"creator_url": "https://lingualibre.org/wiki/Q215420",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 68972,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-LoquaxFR-globe\" by Speaker: LoquaxFR Recorder: LoquaxFR is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 718,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/797ddec4-3d68-46e6-a612-b55542a83469/",
+"related_url": "https://api.openverse.org/v1/audio/797ddec4-3d68-46e6-a612-b55542a83469/related/",
+"waveform": "https://api.openverse.org/v1/audio/797ddec4-3d68-46e6-a612-b55542a83469/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "82baf4ad-6601-4de0-8b57-6fe166d51f7b",
+"title": "Rolling Globe",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/giuseppeaceto/sounds/564654",
+"url": "https://cdn.freesound.org/previews/564/564654_6455031-hq.mp3",
+"creator": "giuseppeaceto",
+"creator_url": "https://freesound.org/people/giuseppeaceto",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1231919,
+"filetype": "mp3",
+"tags": [
+{
+"name": "globe",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "house",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "rolling",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/564654/download/",
+"bit_rate": 0,
+"filesize": 7113124,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Rolling Globe\" by giuseppeaceto is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 53734,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/82baf4ad-6601-4de0-8b57-6fe166d51f7b/",
+"related_url": "https://api.openverse.org/v1/audio/82baf4ad-6601-4de0-8b57-6fe166d51f7b/related/",
+"waveform": "https://api.openverse.org/v1/audio/82baf4ad-6601-4de0-8b57-6fe166d51f7b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1e822039-d915-4997-ad51-98f8b74ffd4b",
+"title": "Fr-Paris--globe-trotteur",
+"indexed_on": "2024-08-18T18:42:14.350357Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=10960309",
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Fr-Paris--globe-trotteur.ogg",
+"creator": "Jjackoti",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jjackoti",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16469,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Fr-Paris--globe-trotteur\" by Jjackoti is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1200,
+"bit_rate": 96000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1e822039-d915-4997-ad51-98f8b74ffd4b/",
+"related_url": "https://api.openverse.org/v1/audio/1e822039-d915-4997-ad51-98f8b74ffd4b/related/",
+"waveform": "https://api.openverse.org/v1/audio/1e822039-d915-4997-ad51-98f8b74ffd4b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "be2bed5e-5b86-4db8-81df-5037629baea4",
+"title": "Fr-Paris--globe-trotteuse",
+"indexed_on": "2024-08-18T18:42:14.350357Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=10960318",
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fr-Paris--globe-trotteuse.ogg",
+"creator": "Jjackoti",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Jjackoti",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 16707,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Fr-Paris--globe-trotteuse\" by Jjackoti is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1152,
+"bit_rate": 96000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/be2bed5e-5b86-4db8-81df-5037629baea4/",
+"related_url": "https://api.openverse.org/v1/audio/be2bed5e-5b86-4db8-81df-5037629baea4/related/",
+"waveform": "https://api.openverse.org/v1/audio/be2bed5e-5b86-4db8-81df-5037629baea4/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6b1bd4b9-552a-47e4-9b14-1ea0931e37c1",
+"title": "LL-Q150 (fra)-ClasseNoes-globe",
+"indexed_on": "2022-11-13T13:17:20.172096Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=99668765",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/LL-Q150_%28fra%29-ClasseNoes-globe.wav",
+"creator": "Speaker: ClasseNoes Recorder: ClasseNoes",
+"creator_url": "https://lingualibre.org/wiki/Q379871",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-ClasseNoes-globe\" by Speaker: ClasseNoes Recorder: ClasseNoes is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/6b1bd4b9-552a-47e4-9b14-1ea0931e37c1/",
+"related_url": "https://api.openverse.org/v1/audio/6b1bd4b9-552a-47e4-9b14-1ea0931e37c1/related/",
+"waveform": "https://api.openverse.org/v1/audio/6b1bd4b9-552a-47e4-9b14-1ea0931e37c1/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2dd9c9bd-ff75-4f83-a194-161bc0c19138",
+"title": "Mark Rylance on the Gates of the Globe Theatre",
+"indexed_on": "2023-09-17T18:30:53.819121Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=46393935",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Mark_Rylance_on_the_Gates_of_the_Globe_Theatre.ogg",
+"creator": "Matthewcock",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Matthewcock",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 5785300,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Mark Rylance on the Gates of the Globe Theatre\" by Matthewcock is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 566737,
+"bit_rate": 96000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2dd9c9bd-ff75-4f83-a194-161bc0c19138/",
+"related_url": "https://api.openverse.org/v1/audio/2dd9c9bd-ff75-4f83-a194-161bc0c19138/related/",
+"waveform": "https://api.openverse.org/v1/audio/2dd9c9bd-ff75-4f83-a194-161bc0c19138/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d1f93481-550a-4393-bdb4-e60f2f577c26",
+"title": "LL-Q150 (fra)-DSwissK-globe",
+"indexed_on": "2023-02-12T13:37:25.491299Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=76724538",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/LL-Q150_%28fra%29-DSwissK-globe.wav",
+"creator": "Speaker: DSwissK Recorder: DSwissK",
+"creator_url": "https://lingualibre.org/wiki/Q88891",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 109356,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-DSwissK-globe\" by Speaker: DSwissK Recorder: DSwissK is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1138,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/d1f93481-550a-4393-bdb4-e60f2f577c26/",
+"related_url": "https://api.openverse.org/v1/audio/d1f93481-550a-4393-bdb4-e60f2f577c26/related/",
+"waveform": "https://api.openverse.org/v1/audio/d1f93481-550a-4393-bdb4-e60f2f577c26/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "9c842cd3-c680-4409-bb01-f231c24319e8",
+"title": "LL-Q150 (fra)-Lepticed7-globe",
+"indexed_on": "2023-05-21T15:25:46.322335Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=105468212",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/71/LL-Q150_%28fra%29-Lepticed7-globe.wav",
+"creator": "Speaker: Lepticed7 Recorder: Lepticed7",
+"creator_url": "https://lingualibre.org/wiki/Q51319",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 92972,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Lepticed7-globe\" by Speaker: Lepticed7 Recorder: Lepticed7 is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 968,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/9c842cd3-c680-4409-bb01-f231c24319e8/",
+"related_url": "https://api.openverse.org/v1/audio/9c842cd3-c680-4409-bb01-f231c24319e8/related/",
+"waveform": "https://api.openverse.org/v1/audio/9c842cd3-c680-4409-bb01-f231c24319e8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "aae1df28-43cf-40e5-9bd0-96ff8ffdf6f6",
+"title": "LL-Q150 (fra)-Poslovitch-globe",
+"indexed_on": "2023-06-11T15:53:14.447729Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=88128673",
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/98/LL-Q150_%28fra%29-Poslovitch-globe.wav",
+"creator": "Speaker: Poslovitch Recorder: Poslovitch",
+"creator_url": "https://lingualibre.org/wiki/Q142683",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 85746,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-Poslovitch-globe\" by Speaker: Poslovitch Recorder: Poslovitch is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 971,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/aae1df28-43cf-40e5-9bd0-96ff8ffdf6f6/",
+"related_url": "https://api.openverse.org/v1/audio/aae1df28-43cf-40e5-9bd0-96ff8ffdf6f6/related/",
+"waveform": "https://api.openverse.org/v1/audio/aae1df28-43cf-40e5-9bd0-96ff8ffdf6f6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "2966df9b-f8de-4d4b-8d54-2729cc40cfbd",
+"title": "LL-Q1860 (eng)-Arlo Barnes-Lime Kiln Road",
+"indexed_on": "2024-05-05T13:14:20.515933Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=105073605",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/LL-Q1860_%28eng%29-Arlo_Barnes-Lime_Kiln_Road.wav",
+"creator": "Speaker: Arlo Barnes Recorder: Arlo Barnes",
+"creator_url": "https://lingualibre.org/wiki/Q532035",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 124180,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Arlo Barnes-Lime Kiln Road\" by Speaker: Arlo Barnes Recorder: Arlo Barnes is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1407,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/2966df9b-f8de-4d4b-8d54-2729cc40cfbd/",
+"related_url": "https://api.openverse.org/v1/audio/2966df9b-f8de-4d4b-8d54-2729cc40cfbd/related/",
+"waveform": "https://api.openverse.org/v1/audio/2966df9b-f8de-4d4b-8d54-2729cc40cfbd/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8269089b-750f-4005-94d6-04f0c711ca3a",
+"title": "Ghanaian Marimba Bb-mf",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/Sassaby/sounds/528064",
+"url": "https://cdn.freesound.org/previews/528/528064_2771755-hq.mp3",
+"creator": "Sassaby",
+"creator_url": "https://freesound.org/people/Sassaby",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 57196,
+"filetype": "mp3",
+"tags": [
+{
+"name": "african",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "balafon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ghana",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Marimba",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/528064/download/",
+"bit_rate": 0,
+"filesize": 449866,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Ghanaian Marimba Bb-mf\" by Sassaby is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Marimba / Balafon Samples",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/29681/",
+"creator": "Sassaby",
+"creator_url": "https://freesound.org/people/Sassaby/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 2550,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8269089b-750f-4005-94d6-04f0c711ca3a/",
+"related_url": "https://api.openverse.org/v1/audio/8269089b-750f-4005-94d6-04f0c711ca3a/related/",
+"waveform": "https://api.openverse.org/v1/audio/8269089b-750f-4005-94d6-04f0c711ca3a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8406dfd9-e617-4deb-8361-3e1b7f9d36ee",
+"title": "ceramics_kiln.wav",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/vasifer/sounds/262460",
+"url": "https://cdn.freesound.org/previews/262/262460_4673209-hq.mp3",
+"creator": "vasifer",
+"creator_url": "https://freesound.org/people/vasifer",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 121780,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ceramics",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electricity",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "kiln",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "mono",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "pottery",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/262460/download/",
+"bit_rate": 0,
+"filesize": 458956,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"ceramics_kiln.wav\" by vasifer is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 5201,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8406dfd9-e617-4deb-8361-3e1b7f9d36ee/",
+"related_url": "https://api.openverse.org/v1/audio/8406dfd9-e617-4deb-8361-3e1b7f9d36ee/related/",
+"waveform": "https://api.openverse.org/v1/audio/8406dfd9-e617-4deb-8361-3e1b7f9d36ee/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "83ab1276-52ea-42eb-a96c-0e266c0fb515",
+"title": "Ghanaian Marimba G1-mp",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/Sassaby/sounds/528065",
+"url": "https://cdn.freesound.org/previews/528/528065_2771755-hq.mp3",
+"creator": "Sassaby",
+"creator_url": "https://freesound.org/people/Sassaby",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 73062,
+"filetype": "mp3",
+"tags": [
+{
+"name": "african",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "balafon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "ghana",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Marimba",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "percussion",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/528065/download/",
+"bit_rate": 0,
+"filesize": 571490,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"Ghanaian Marimba G1-mp\" by Sassaby is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description"
+],
+"mature": false,
+"audio_set": {
+"title": "Marimba / Balafon Samples",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/29681/",
+"creator": "Sassaby",
+"creator_url": "https://freesound.org/people/Sassaby/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 3239,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/83ab1276-52ea-42eb-a96c-0e266c0fb515/",
+"related_url": "https://api.openverse.org/v1/audio/83ab1276-52ea-42eb-a96c-0e266c0fb515/related/",
+"waveform": "https://api.openverse.org/v1/audio/83ab1276-52ea-42eb-a96c-0e266c0fb515/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a4683f6f-85fc-43ff-9575-04c78ca4e818",
+"title": "1240 degrees C.wav",
+"indexed_on": "2024-04-18T18:52:10.009444Z",
+"foreign_landing_url": "https://freesound.org/people/vasifer/sounds/264412",
+"url": "https://cdn.freesound.org/previews/264/264412_4673209-hq.mp3",
+"creator": "vasifer",
+"creator_url": "https://freesound.org/people/vasifer",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 589667,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ceramics-kiln",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electricity",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/264412/download/",
+"bit_rate": 0,
+"filesize": 4448948,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"1240 degrees C.wav\" by vasifer is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 25219,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a4683f6f-85fc-43ff-9575-04c78ca4e818/",
+"related_url": "https://api.openverse.org/v1/audio/a4683f6f-85fc-43ff-9575-04c78ca4e818/related/",
+"waveform": "https://api.openverse.org/v1/audio/a4683f6f-85fc-43ff-9575-04c78ca4e818/waveform/",
+"unstable__sensitivity": []
 }
 ]

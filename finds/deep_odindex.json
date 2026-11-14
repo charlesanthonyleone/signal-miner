@@ -61458,5 +61458,145 @@
 ]
 ],
 "mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "fullfiletimelist",
+"date": "13-Nov-2026 21:25",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "65M",
+"ftype": "text",
+"host": "ftp.ussg.iu.edu",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.ussg.iu.edu/linux/centos-stream/fullfiletimelist",
+"mime": "text/*",
+"query": "random descent from https://ftp.ussg.iu.edu/",
+"kw": "",
+"preview": "text \uff77 65M \uff77 13-Nov-2026 21:25 \uff77 in https://ftp.ussg.iu.edu/linux/centos-stream/",
+"extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/centos-stream/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.ussg.iu.edu/linux/centos-stream/"
+]
+],
+"mined_at": "2026-11-14T10:39:24Z"
+},
+{
+"source": "Open Directory",
+"title": "TIME",
+"date": "13-Nov-2026 21:28",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "11",
+"ftype": "text",
+"host": "ftp.ussg.iu.edu",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.ussg.iu.edu/linux/centos-stream/TIME",
+"mime": "text/*",
+"query": "random descent from https://ftp.ussg.iu.edu/",
+"kw": "",
+"preview": "text \uff77 11 \uff77 13-Nov-2026 21:28 \uff77 in https://ftp.ussg.iu.edu/linux/centos-stream/",
+"extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/centos-stream/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.ussg.iu.edu/linux/centos-stream/"
+]
+],
+"mined_at": "2026-11-14T10:39:24Z"
+},
+{
+"source": "Open Directory",
+"title": "timestamp.txt",
+"date": "13-Nov-2026 21:28",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "29",
+"ftype": "text",
+"host": "ftp.ussg.iu.edu",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.ussg.iu.edu/linux/centos-stream/timestamp.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.ussg.iu.edu/",
+"kw": "",
+"preview": "text \uff77 29 \uff77 13-Nov-2026 21:28 \uff77 in https://ftp.ussg.iu.edu/linux/centos-stream/",
+"extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/centos-stream/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.ussg.iu.edu/linux/centos-stream/"
+]
+],
+"mined_at": "2026-11-14T10:39:24Z"
+},
+{
+"source": "Open Directory",
+"title": "merkle-new",
+"date": "1989-08-29 02:25",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "78K",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/security/merkle.crypt/merkle-new",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "text \uff77 78K \uff77 1989-08-29 02:25 \uff77 in https://ftp.funet.fi/pub/doc/security/merkle.crypt/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/security/merkle.crypt/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/security/merkle.crypt/"
+]
+],
+"mined_at": "2026-11-14T10:39:24Z"
+},
+{
+"source": "Open Directory",
+"title": "merkle-new-0",
+"date": "1989-08-29 02:25",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "22K",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/doc/security/merkle.crypt/merkle-new-0",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/doc/",
+"kw": "",
+"preview": "text \uff77 22K \uff77 1989-08-29 02:25 \uff77 in https://ftp.funet.fi/pub/doc/security/merkle.crypt/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/security/merkle.crypt/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/doc/security/merkle.crypt/"
+]
+],
+"mined_at": "2026-11-14T10:39:24Z"
 }
 ]

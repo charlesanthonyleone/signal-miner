@@ -3418,5 +3418,25 @@
 "inventor": "",
 "module": "formulas",
 "mined_at": "2026-11-09T20:00:17Z"
+},
+{
+"source": "Google Patents",
+"title": "Milk liqueur",
+"date": "1970-07-16",
+"dateLabel": "published",
+"count": null,
+"countLabel": "",
+"kind": "meta",
+"mime": "patent/text",
+"thumb": "",
+"src": "",
+"preview": "",
+"url": "https://patents.google.com/patent/DE1900495A1/en",
+"query": "google patents q=\"liqueur\" cpc=C12G before 1980",
+"extra": "patent DE1900495A1 \u00b7 inventor Rudolf Puehlhorn",
+"patent_number": "DE1900495A1",
+"inventor": "Rudolf Puehlhorn",
+"module": "formulas",
+"mined_at": "2026-11-14T10:41:06Z"
 }
 ]
