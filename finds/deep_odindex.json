@@ -60478,5 +60478,985 @@
 ]
 ],
 "mined_at": "2026-11-13T19:55:33Z"
+},
+{
+"source": "Open Directory",
+"title": "smpleb.tex",
+"date": "1991-10-07 09:24",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "40K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/physics/revtex/smpleb.tex",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 40K \uff77 1991-10-07 09:24 \uff77 in https://ftp.funet.fi/pub/sci/physics/revtex/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/physics/revtex/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/physics/revtex/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "eqsecnum.sty",
+"date": "1991-10-07 09:23",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "881",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/physics/revtex/eqsecnum.sty",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 881 \uff77 1991-10-07 09:23 \uff77 in https://ftp.funet.fi/pub/sci/physics/revtex/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/physics/revtex/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/physics/revtex/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "apguide.tex",
+"date": "1991-10-07 09:23",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "54K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/physics/revtex/apguide.tex",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 54K \uff77 1991-10-07 09:23 \uff77 in https://ftp.funet.fi/pub/sci/physics/revtex/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/physics/revtex/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/physics/revtex/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "smplec.tex",
+"date": "1991-10-07 09:24",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "40K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/physics/revtex/smplec.tex",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 40K \uff77 1991-10-07 09:24 \uff77 in https://ftp.funet.fi/pub/sci/physics/revtex/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/physics/revtex/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/physics/revtex/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "revtex.sty",
+"date": "1991-10-07 09:24",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "29K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/physics/revtex/revtex.sty",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 29K \uff77 1991-10-07 09:24 \uff77 in https://ftp.funet.fi/pub/sci/physics/revtex/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/physics/revtex/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/physics/revtex/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "preprint.sty",
+"date": "1991-10-07 09:24",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "6.0K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/physics/revtex/preprint.sty",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 6.0K \uff77 1991-10-07 09:24 \uff77 in https://ftp.funet.fi/pub/sci/physics/revtex/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/physics/revtex/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/physics/revtex/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "aps10.sty",
+"date": "1991-10-07 09:23",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "6.3K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/physics/revtex/aps10.sty",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 6.3K \uff77 1991-10-07 09:23 \uff77 in https://ftp.funet.fi/pub/sci/physics/revtex/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/physics/revtex/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/physics/revtex/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "readme",
+"date": "1991-10-07 09:24",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "4.4K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/physics/revtex/readme.",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 4.4K \uff77 1991-10-07 09:24 \uff77 in https://ftp.funet.fi/pub/sci/physics/revtex/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/physics/revtex/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/physics/revtex/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "smplea.tex",
+"date": "1991-10-07 09:24",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "17K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/physics/revtex/smplea.tex",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 17K \uff77 1991-10-07 09:24 \uff77 in https://ftp.funet.fi/pub/sci/physics/revtex/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/physics/revtex/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/physics/revtex/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "aps.sty",
+"date": "1991-10-07 09:23",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "4.9K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/physics/revtex/aps.sty",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 4.9K \uff77 1991-10-07 09:23 \uff77 in https://ftp.funet.fi/pub/sci/physics/revtex/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/physics/revtex/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/physics/revtex/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "00README",
+"date": "1991-10-07 10:16",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "406",
+"ftype": "text",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/physics/revtex/00README",
+"mime": "text/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "text \uff77 406 \uff77 1991-10-07 10:16 \uff77 in https://ftp.funet.fi/pub/sci/physics/revtex/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/physics/revtex/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/physics/revtex/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "info.tex",
+"date": "1991-10-07 09:23",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "3.0K",
+"ftype": "other",
+"host": "ftp.funet.fi",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.funet.fi/pub/sci/physics/revtex/info.tex",
+"mime": "other/*",
+"query": "random descent from https://ftp.funet.fi/pub/sci/",
+"kw": "",
+"preview": "other \uff77 3.0K \uff77 1991-10-07 09:23 \uff77 in https://ftp.funet.fi/pub/sci/physics/revtex/",
+"extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/physics/revtex/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.funet.fi/pub/sci/physics/revtex/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "rpki-client-8.9.tar.gz.asc",
+"date": "2024-02-12 21:38",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "833",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-8.9.tar.gz.asc",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 833 \uff77 2024-02-12 21:38 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "rpki-client-7.1.tar.gz",
+"date": "2021-05-18 22:12",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "423K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-7.1.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 423K \uff77 2021-05-18 22:12 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "sigbundle-66.tgz",
+"date": "2026-07-17 00:07",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "4.8K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/sigbundle-66.tgz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 4.8K \uff77 2026-07-17 00:07 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "rpki-client-9.7.tar.gz",
+"date": "2026-01-13 19:42",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "574K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-9.7.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 574K \uff77 2026-01-13 19:42 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "3.8.tar.gz",
+"date": "2026-11-13 18:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "43K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/3.8.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 43K \uff77 2026-11-13 18:17 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "6.5.tar.gz",
+"date": "2026-11-13 18:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "52K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/6.5.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 52K \uff77 2026-11-13 18:17 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "3.0.tar.gz",
+"date": "2026-11-13 18:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "256K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/3.0.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 256K \uff77 2026-11-13 18:17 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "openbsd-67-base.pub",
+"date": "2024-10-10 06:18",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "104",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/openbsd-67-base.pub",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 104 \uff77 2024-10-10 06:18 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "openbsd-64-fw.pub",
+"date": "2024-10-10 06:18",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "108",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/openbsd-64-fw.pub",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 108 \uff77 2024-10-10 06:18 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "rpki-client-6.7p1.txt",
+"date": "2020-07-27 22:58",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "1.5K",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-6.7p1.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 1.5K \uff77 2020-07-27 22:58 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "7.4.tar.gz",
+"date": "2026-11-13 18:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "62K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/7.4.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 62K \uff77 2026-11-13 18:17 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "3.6.tar.gz",
+"date": "2026-11-13 18:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "19K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/3.6.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 19K \uff77 2026-11-13 18:17 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "7.9.tar.gz",
+"date": "2026-11-13 18:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "880K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/7.9.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 880K \uff77 2026-11-13 18:17 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "rpki-client-7.9.tar.gz",
+"date": "2022-07-14 00:23",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "446K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-7.9.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 446K \uff77 2022-07-14 00:23 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "openbsd-71-base.pub",
+"date": "2024-10-10 06:18",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "99",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/openbsd-71-base.pub",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 99 \uff77 2024-10-10 06:18 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "3.3.tar.gz",
+"date": "2026-11-13 18:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "30K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/3.3.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 30K \uff77 2026-11-13 18:17 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "openbsd-75-fw.pub",
+"date": "2024-10-10 06:18",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "108",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/openbsd-75-fw.pub",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 108 \uff77 2024-10-10 06:18 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "rpki-client-7.9.txt",
+"date": "2022-07-14 00:18",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "2.5K",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-7.9.txt",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 2.5K \uff77 2022-07-14 00:18 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "4.2.tar.gz",
+"date": "2026-11-13 18:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "28K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/4.2.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 28K \uff77 2026-11-13 18:17 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "rpki-client-8.5.tar.gz.asc",
+"date": "2023-07-29 22:58",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "833",
+"ftype": "text",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/rpki-client-8.5.tar.gz.asc",
+"mime": "text/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "text \uff77 833 \uff77 2023-07-29 22:58 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/rpki-client/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "sigbundle-60.tgz",
+"date": "2026-07-17 00:07",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "4.8K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/sigbundle-60.tgz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 4.8K \uff77 2026-07-17 00:07 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/signify/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "6.0.tar.gz",
+"date": "2026-11-13 18:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "44K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/6.0.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 44K \uff77 2026-11-13 18:17 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
+},
+{
+"source": "Open Directory",
+"title": "4.1.tar.gz",
+"date": "2026-11-13 18:17",
+"dateLabel": "listed",
+"count": null,
+"countLabel": "",
+"size": "18K",
+"ftype": "other",
+"host": "ftp.uni-stuttgart.de",
+"thumb": "",
+"kind": "link",
+"src": "",
+"gated": false,
+"url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/4.1.tar.gz",
+"mime": "other/*",
+"query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+"kw": "",
+"preview": "other \uff77 18K \uff77 2026-11-13 18:17 \uff77 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+"links": [
+[
+"parent dir \u2197",
+"https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+]
+],
+"mined_at": "2026-11-14T01:35:25Z"
 }
 ]

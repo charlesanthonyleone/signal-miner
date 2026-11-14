@@ -108480,5 +108480,2957 @@
 "related_url": "https://api.openverse.org/v1/audio/d70dcb70-9970-41e9-acc5-aeba28228ebb/related/",
 "waveform": "https://api.openverse.org/v1/audio/d70dcb70-9970-41e9-acc5-aeba28228ebb/waveform/",
 "unstable__sensitivity": []
+},
+{
+"id": "6724cb5f-5aeb-4978-a2d7-b3eb73adfc6a",
+"title": "Puppet",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/623191",
+"url": "https://prod-1.storage.jamendo.com/?trackid=623191&format=mp32",
+"creator": "Chasing Eidolon",
+"creator_url": "https://www.jamendo.com/artist/361898/Chasing_Eidolon",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "piano",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "strings",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Puppet\" by Chasing Eidolon is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Chasing Eidolon",
+"foreign_landing_url": "https://www.jamendo.com/album/72189/chasing-eidolon",
+"creator": "Chasing Eidolon",
+"creator_url": "https://www.jamendo.com/artist/361898/Chasing_Eidolon",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 291000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/6724cb5f-5aeb-4978-a2d7-b3eb73adfc6a/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/6724cb5f-5aeb-4978-a2d7-b3eb73adfc6a/",
+"related_url": "https://api.openverse.org/v1/audio/6724cb5f-5aeb-4978-a2d7-b3eb73adfc6a/related/",
+"waveform": "https://api.openverse.org/v1/audio/6724cb5f-5aeb-4978-a2d7-b3eb73adfc6a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b6035103-bf51-46d0-a930-ecb384473154",
+"title": "I'm Ya Puppet",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/381576",
+"url": "https://prod-1.storage.jamendo.com/?trackid=381576&format=mp32",
+"creator": "Blackwell",
+"creator_url": "https://www.jamendo.com/artist/351806/Blackwell",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"hiphop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"I'm Ya Puppet\" by Blackwell is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Un4givable",
+"foreign_landing_url": "https://www.jamendo.com/album/48416/un4givable",
+"creator": "Blackwell",
+"creator_url": "https://www.jamendo.com/artist/351806/Blackwell",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 186000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/b6035103-bf51-46d0-a930-ecb384473154/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/b6035103-bf51-46d0-a930-ecb384473154/",
+"related_url": "https://api.openverse.org/v1/audio/b6035103-bf51-46d0-a930-ecb384473154/related/",
+"waveform": "https://api.openverse.org/v1/audio/b6035103-bf51-46d0-a930-ecb384473154/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "460696b4-cd73-44e7-9ddd-51bc418794c6",
+"title": "Highline's puppeteers",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1018554",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1018554&format=mp32",
+"creator": "Avgust Breadley",
+"creator_url": "https://www.jamendo.com/artist/432240/Avgust_Breadley",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Highline's puppeteers\" by Avgust Breadley is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Yesterday dreams",
+"foreign_landing_url": "https://www.jamendo.com/album/119946/yesterday-dreams",
+"creator": "Avgust Breadley",
+"creator_url": "https://www.jamendo.com/artist/432240/Avgust_Breadley",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 156000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/460696b4-cd73-44e7-9ddd-51bc418794c6/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/460696b4-cd73-44e7-9ddd-51bc418794c6/",
+"related_url": "https://api.openverse.org/v1/audio/460696b4-cd73-44e7-9ddd-51bc418794c6/related/",
+"waveform": "https://api.openverse.org/v1/audio/460696b4-cd73-44e7-9ddd-51bc418794c6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6538ed6f-0450-4b42-b838-33192de00eec",
+"title": "Kolyskova Dlia Lialkovyh Nemovliat (The Lullaby For Puppet Infants)",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/260003",
+"url": "https://prod-1.storage.jamendo.com/?trackid=260003&format=mp32",
+"creator": "Viy",
+"creator_url": "https://www.jamendo.com/artist/345898/Viy_(2)",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"gothic",
+"jazz",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "ethno",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "psychedelic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Kolyskova Dlia Lialkovyh Nemovliat (The Lullaby For Puppet Infants)\" by Viy is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Hata Skrayu Sela (The Edge House At The Village)",
+"foreign_landing_url": "https://www.jamendo.com/album/37219/hata-skrayu-sela-the-edge-house-at-the-village",
+"creator": "Viy",
+"creator_url": "https://www.jamendo.com/artist/345898/Viy_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 381000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/6538ed6f-0450-4b42-b838-33192de00eec/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/6538ed6f-0450-4b42-b838-33192de00eec/",
+"related_url": "https://api.openverse.org/v1/audio/6538ed6f-0450-4b42-b838-33192de00eec/related/",
+"waveform": "https://api.openverse.org/v1/audio/6538ed6f-0450-4b42-b838-33192de00eec/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "bda9eddc-fbca-41c2-96da-f6ad105399f8",
+"title": "Puppeteering",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/34653",
+"url": "https://prod-1.storage.jamendo.com/?trackid=34653&format=mp32",
+"creator": "WhiteRoom",
+"creator_url": "https://www.jamendo.com/artist/4837/officialwhiteroom",
+"license": "by-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"pop",
+"reggae"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Puppeteering\" by WhiteRoom is licensed under CC BY-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.5/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "WhiteRoom",
+"foreign_landing_url": "https://www.jamendo.com/album/4244/whiteroom",
+"creator": "WhiteRoom",
+"creator_url": "https://www.jamendo.com/artist/4837/officialwhiteroom",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 405000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/bda9eddc-fbca-41c2-96da-f6ad105399f8/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/bda9eddc-fbca-41c2-96da-f6ad105399f8/",
+"related_url": "https://api.openverse.org/v1/audio/bda9eddc-fbca-41c2-96da-f6ad105399f8/related/",
+"waveform": "https://api.openverse.org/v1/audio/bda9eddc-fbca-41c2-96da-f6ad105399f8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cd10df14-dbfd-4bd4-a0e8-408a41a9208c",
+"title": "I'm Ya Puppet 2008",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/381540",
+"url": "https://prod-1.storage.jamendo.com/?trackid=381540&format=mp32",
+"creator": "Blackwell",
+"creator_url": "https://www.jamendo.com/artist/351806/Blackwell",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"hiphop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"I'm Ya Puppet 2008\" by Blackwell is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Heartbreak",
+"foreign_landing_url": "https://www.jamendo.com/album/48414/heartbreak",
+"creator": "Blackwell",
+"creator_url": "https://www.jamendo.com/artist/351806/Blackwell",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 191000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/cd10df14-dbfd-4bd4-a0e8-408a41a9208c/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/cd10df14-dbfd-4bd4-a0e8-408a41a9208c/",
+"related_url": "https://api.openverse.org/v1/audio/cd10df14-dbfd-4bd4-a0e8-408a41a9208c/related/",
+"waveform": "https://api.openverse.org/v1/audio/cd10df14-dbfd-4bd4-a0e8-408a41a9208c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1e210443-bee2-455d-828f-5c71a7d7f299",
+"title": "The Shark And The Puppets",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/793726",
+"url": "https://prod-1.storage.jamendo.com/?trackid=793726&format=mp32",
+"creator": "The Morning Light",
+"creator_url": "https://www.jamendo.com/artist/353421/The_Morning_Light",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"electrorock",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "new",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The Shark And The Puppets\" by The Morning Light is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "The Morning Light Project - Interface",
+"foreign_landing_url": "https://www.jamendo.com/album/93134/the-morning-light-project-interface",
+"creator": "The Morning Light",
+"creator_url": "https://www.jamendo.com/artist/353421/The_Morning_Light",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 245000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/1e210443-bee2-455d-828f-5c71a7d7f299/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/1e210443-bee2-455d-828f-5c71a7d7f299/",
+"related_url": "https://api.openverse.org/v1/audio/1e210443-bee2-455d-828f-5c71a7d7f299/related/",
+"waveform": "https://api.openverse.org/v1/audio/1e210443-bee2-455d-828f-5c71a7d7f299/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ac22d3b9-31bb-4fe9-b18d-21abed92d6eb",
+"title": "Dawn To Dusk - The Puppet Show",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/582480",
+"url": "https://prod-1.storage.jamendo.com/?trackid=582480&format=mp32",
+"creator": "Dawn To Dusk",
+"creator_url": "https://www.jamendo.com/artist/360062/Dawn_To_Dusk",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_high",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Dawn To Dusk - The Puppet Show\" by Dawn To Dusk is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "3 in 1 Singles",
+"foreign_landing_url": "https://www.jamendo.com/album/67228/3-in-1-singles",
+"creator": "Dawn To Dusk",
+"creator_url": "https://www.jamendo.com/artist/360062/Dawn_To_Dusk",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 243000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/ac22d3b9-31bb-4fe9-b18d-21abed92d6eb/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/ac22d3b9-31bb-4fe9-b18d-21abed92d6eb/",
+"related_url": "https://api.openverse.org/v1/audio/ac22d3b9-31bb-4fe9-b18d-21abed92d6eb/related/",
+"waveform": "https://api.openverse.org/v1/audio/ac22d3b9-31bb-4fe9-b18d-21abed92d6eb/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d38b35fc-4a40-49b0-8275-a17b16660737",
+"title": "Puppet ball",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/885509",
+"url": "https://prod-1.storage.jamendo.com/?trackid=885509&format=mp32",
+"creator": "ALISA MIRONOVA",
+"creator_url": "https://www.jamendo.com/artist/365128/alisa_mironova",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Puppet ball\" by ALISA MIRONOVA is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "ShE KilL AbLe MOnstER",
+"foreign_landing_url": "https://www.jamendo.com/album/104103/she-kill-able-monster",
+"creator": "ALISA MIRONOVA",
+"creator_url": "https://www.jamendo.com/artist/365128/alisa_mironova",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 208000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/d38b35fc-4a40-49b0-8275-a17b16660737/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/d38b35fc-4a40-49b0-8275-a17b16660737/",
+"related_url": "https://api.openverse.org/v1/audio/d38b35fc-4a40-49b0-8275-a17b16660737/related/",
+"waveform": "https://api.openverse.org/v1/audio/d38b35fc-4a40-49b0-8275-a17b16660737/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a27dadf4-acf3-4d1b-9c47-ade2df1f1539",
+"title": "three pieces for a puppet-theatre",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/142727",
+"url": "https://prod-1.storage.jamendo.com/?trackid=142727&format=mp32",
+"creator": "Ruediger Kramer",
+"creator_url": "https://www.jamendo.com/artist/338405/Ruediger_Kramer",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"electronic",
+"jazz"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "improvisation",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "lounge",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "saxophone",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_verylow",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"three pieces for a puppet-theatre\" by Ruediger Kramer is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "very quiet night (EP)",
+"foreign_landing_url": "https://www.jamendo.com/album/20371/very-quiet-night-ep",
+"creator": "Ruediger Kramer",
+"creator_url": "https://www.jamendo.com/artist/338405/Ruediger_Kramer",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 151000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/a27dadf4-acf3-4d1b-9c47-ade2df1f1539/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/a27dadf4-acf3-4d1b-9c47-ade2df1f1539/",
+"related_url": "https://api.openverse.org/v1/audio/a27dadf4-acf3-4d1b-9c47-ade2df1f1539/related/",
+"waveform": "https://api.openverse.org/v1/audio/a27dadf4-acf3-4d1b-9c47-ade2df1f1539/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "d6bbd968-b354-4f95-ba74-5bcfff6233a6",
+"title": "El Tio Victor (Master of Puppets II)",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/501926",
+"url": "https://prod-1.storage.jamendo.com/?trackid=501926&format=mp32",
+"creator": "Through the Eyes of the Eternal Sorrow in the Hot as Shit Valley of Barros Blancos",
+"creator_url": "https://www.jamendo.com/artist/354146/Through_the_Eyes_of_the_Eternal_Sorrow_in_the_Hot_as_Shit_Valley",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"deathmetal",
+"metal"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"El Tio Victor (Master of Puppets II)\" by Through the Eyes of the Eternal Sorrow in the Hot as Shit Valley of Barros Blancos is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Pepe Hate Us All",
+"foreign_landing_url": "https://www.jamendo.com/album/58784/pepe-hate-us-all",
+"creator": "Through the Eyes of the Eternal Sorrow in the Hot as Shit Valley of Barros Blancos",
+"creator_url": "https://www.jamendo.com/artist/354146/Through_the_Eyes_of_the_Eternal_Sorrow_in_the_Hot_as_Shit_Valley",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 257000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/d6bbd968-b354-4f95-ba74-5bcfff6233a6/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/d6bbd968-b354-4f95-ba74-5bcfff6233a6/",
+"related_url": "https://api.openverse.org/v1/audio/d6bbd968-b354-4f95-ba74-5bcfff6233a6/related/",
+"waveform": "https://api.openverse.org/v1/audio/d6bbd968-b354-4f95-ba74-5bcfff6233a6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "728aaf67-5fec-4c6c-acc3-6ca3e352995f",
+"title": "LL-Q1860 (eng)-Vealhurl-puppeteer",
+"indexed_on": "2023-06-04T00:13:21.646575Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=132629761",
+"url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/LL-Q1860_%28eng%29-Vealhurl-puppeteer.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "https://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 117548,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-puppeteer\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1224,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/728aaf67-5fec-4c6c-acc3-6ca3e352995f/",
+"related_url": "https://api.openverse.org/v1/audio/728aaf67-5fec-4c6c-acc3-6ca3e352995f/related/",
+"waveform": "https://api.openverse.org/v1/audio/728aaf67-5fec-4c6c-acc3-6ca3e352995f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "4057ed08-3f55-42b1-a15c-36bcb5070427",
+"title": "Puppet Party - You Can More",
+"indexed_on": "2022-06-01T12:42:14.554074Z",
+"foreign_landing_url": "https://www.jamendo.com/track/657779",
+"url": "https://prod-1.storage.jamendo.com/?trackid=657779&format=mp32",
+"creator": "Puppet Party",
+"creator_url": "https://www.jamendo.com/artist/363424/Puppet_Party",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_veryhigh",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Puppet Party - You Can More\" by Puppet Party is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "let`s go party",
+"foreign_landing_url": "https://www.jamendo.com/album/76225/let-s-go-party",
+"creator": "Puppet Party",
+"creator_url": "https://www.jamendo.com/artist/363424/Puppet_Party",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 165000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/4057ed08-3f55-42b1-a15c-36bcb5070427/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/4057ed08-3f55-42b1-a15c-36bcb5070427/",
+"related_url": "https://api.openverse.org/v1/audio/4057ed08-3f55-42b1-a15c-36bcb5070427/related/",
+"waveform": "https://api.openverse.org/v1/audio/4057ed08-3f55-42b1-a15c-36bcb5070427/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "24b070bb-1097-49b2-94df-620cae347c8a",
+"title": "The box for broken puppets",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1147487",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1147487&format=mp32",
+"creator": "Sergey Kovchik",
+"creator_url": "https://www.jamendo.com/artist/373214/Sergey_Kovchik",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"classical",
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "epic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "puppet",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "sad",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_low",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "violin",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "xylophone",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"The box for broken puppets\" by Sergey Kovchik is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Tiny theatre. From the life of puppets",
+"foreign_landing_url": "https://www.jamendo.com/album/137584/tiny-theatre-from-the-life-of-puppets",
+"creator": "Sergey Kovchik",
+"creator_url": "https://www.jamendo.com/artist/373214/Sergey_Kovchik",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 128000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/24b070bb-1097-49b2-94df-620cae347c8a/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/24b070bb-1097-49b2-94df-620cae347c8a/",
+"related_url": "https://api.openverse.org/v1/audio/24b070bb-1097-49b2-94df-620cae347c8a/related/",
+"waveform": "https://api.openverse.org/v1/audio/24b070bb-1097-49b2-94df-620cae347c8a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3e178444-c636-4448-a8cc-c01a1bfbcd33",
+"title": "puppet dream",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/885508",
+"url": "https://prod-1.storage.jamendo.com/?trackid=885508&format=mp32",
+"creator": "ALISA MIRONOVA",
+"creator_url": "https://www.jamendo.com/artist/365128/alisa_mironova",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"puppet dream\" by ALISA MIRONOVA is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "ShE KilL AbLe MOnstER",
+"foreign_landing_url": "https://www.jamendo.com/album/104103/she-kill-able-monster",
+"creator": "ALISA MIRONOVA",
+"creator_url": "https://www.jamendo.com/artist/365128/alisa_mironova",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 218000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/3e178444-c636-4448-a8cc-c01a1bfbcd33/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/3e178444-c636-4448-a8cc-c01a1bfbcd33/",
+"related_url": "https://api.openverse.org/v1/audio/3e178444-c636-4448-a8cc-c01a1bfbcd33/related/",
+"waveform": "https://api.openverse.org/v1/audio/3e178444-c636-4448-a8cc-c01a1bfbcd33/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "02110e45-8b55-4d27-909b-5a73c17cb2b6",
+"title": "etl Puppet Kung Fu! 24-96.wav",
+"indexed_on": "2022-11-01T13:48:32.970278Z",
+"foreign_landing_url": "https://freesound.org/people/cmusounddesign/sounds/119821",
+"url": "https://cdn.freesound.org/previews/119/119821_1059930-hq.mp3",
+"creator": "cmusounddesign",
+"creator_url": "https://freesound.org/people/cmusounddesign",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 655104,
+"filetype": "mp3",
+"tags": [
+{
+"name": "kung-fu",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "puppet",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/119821/download/",
+"bit_rate": 0,
+"filesize": 16135814,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"etl Puppet Kung Fu! 24-96.wav\" by cmusounddesign is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": null,
+"duration": 28010,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/02110e45-8b55-4d27-909b-5a73c17cb2b6/",
+"related_url": "https://api.openverse.org/v1/audio/02110e45-8b55-4d27-909b-5a73c17cb2b6/related/",
+"waveform": "https://api.openverse.org/v1/audio/02110e45-8b55-4d27-909b-5a73c17cb2b6/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a3573874-26b8-4346-a553-b4efbe992e21",
+"title": "Puppet's Circus",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1052304",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1052304&format=mp32",
+"creator": "MrBlueSky",
+"creator_url": "https://www.jamendo.com/artist/434129/MrBlueSky",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"experimental",
+"filmscore"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "circus",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "pipeorgan",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "theremin",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Puppet's Circus\" by MrBlueSky is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "P\u00fablicos (Original Soundtrack)",
+"foreign_landing_url": "https://www.jamendo.com/album/123924/publicos-original-soundtrack",
+"creator": "MrBlueSky",
+"creator_url": "https://www.jamendo.com/artist/434129/MrBlueSky",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 61000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/a3573874-26b8-4346-a553-b4efbe992e21/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/a3573874-26b8-4346-a553-b4efbe992e21/",
+"related_url": "https://api.openverse.org/v1/audio/a3573874-26b8-4346-a553-b4efbe992e21/related/",
+"waveform": "https://api.openverse.org/v1/audio/a3573874-26b8-4346-a553-b4efbe992e21/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c42c73ea-6d6b-4867-b121-c8541dbb8ad3",
+"title": "puppet music box recreated.wav",
+"indexed_on": "2022-06-01T12:00:12.608809Z",
+"foreign_landing_url": "https://freesound.org/people/Lewis.B.M/sounds/571392",
+"url": "https://cdn.freesound.org/previews/571/571392_11058236-hq.mp3",
+"creator": "Lewis.B.M",
+"creator_url": "https://freesound.org/people/Lewis.B.M",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 279230,
+"filetype": "mp3",
+"tags": [
+{
+"name": "fnaf",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "music-box",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "puppet",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/571392/download/",
+"bit_rate": 0,
+"filesize": 2565216,
+"filetype": "wav",
+"sample_rate": 44100
+}
+],
+"attribution": "\"puppet music box recreated.wav\" by Lewis.B.M is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "fnaflibary",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/32164/",
+"creator": "Lewis.B.M",
+"creator_url": "https://freesound.org/people/Lewis.B.M/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 14541,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/c42c73ea-6d6b-4867-b121-c8541dbb8ad3/",
+"related_url": "https://api.openverse.org/v1/audio/c42c73ea-6d6b-4867-b121-c8541dbb8ad3/related/",
+"waveform": "https://api.openverse.org/v1/audio/c42c73ea-6d6b-4867-b121-c8541dbb8ad3/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "67dc3f74-e420-4169-af06-3cffe13d285b",
+"title": "LL-Q1860 (eng)-AnotherFriendlyHuman-sock puppet",
+"indexed_on": "2025-09-08T02:02:51.095153Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=174550765",
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/40/LL-Q1860_%28eng%29-AnotherFriendlyHuman-sock_puppet.wav",
+"creator": "Speaker: AnotherFriendlyHuman Recorder: AnotherFriendlyHuman",
+"creator_url": "https://lingualibre.org/wiki/Q1490656",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 94740,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-AnotherFriendlyHuman-sock puppet\" by Speaker: AnotherFriendlyHuman Recorder: AnotherFriendlyHuman is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1073,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/67dc3f74-e420-4169-af06-3cffe13d285b/",
+"related_url": "https://api.openverse.org/v1/audio/67dc3f74-e420-4169-af06-3cffe13d285b/related/",
+"waveform": "https://api.openverse.org/v1/audio/67dc3f74-e420-4169-af06-3cffe13d285b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "230a0b2b-0548-4245-a965-f64ae3bdde46",
+"title": "LL-Q1860 (eng)-Vealhurl-puppet state",
+"indexed_on": "2026-01-04T00:08:08.416732Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=181154430",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/27/LL-Q1860_%28eng%29-Vealhurl-puppet_state.wav",
+"creator": "Speaker: Vealhurl Recorder: Vealhurl",
+"creator_url": "http://lingualibre.org/wiki/Q206227",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 103980,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q1860 (eng)-Vealhurl-puppet state\" by Speaker: Vealhurl Recorder: Vealhurl is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1082,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/230a0b2b-0548-4245-a965-f64ae3bdde46/",
+"related_url": "https://api.openverse.org/v1/audio/230a0b2b-0548-4245-a965-f64ae3bdde46/related/",
+"waveform": "https://api.openverse.org/v1/audio/230a0b2b-0548-4245-a965-f64ae3bdde46/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "090a223a-0bcd-47b5-a0bc-4d1c414ad66b",
+"title": "Ambience, garden, afternoon, summer, Foggy, Ordrup.wav",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/Matmorfus/sounds/204711",
+"url": "https://cdn.freesound.org/previews/204/204711_108786-hq.mp3",
+"creator": "Matmorfus",
+"creator_url": "https://freesound.org/people/Matmorfus",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 5342256,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Ambience",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Foggy",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "afternoon",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "garden",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "summer",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/204711/download/",
+"bit_rate": 0,
+"filesize": 68165962,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Ambience, garden, afternoon, summer, Foggy, Ordrup.wav\" by Matmorfus is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Danish ambiences",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/13069/",
+"creator": "Matmorfus",
+"creator_url": "https://freesound.org/people/Matmorfus/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 236683,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/090a223a-0bcd-47b5-a0bc-4d1c414ad66b/",
+"related_url": "https://api.openverse.org/v1/audio/090a223a-0bcd-47b5-a0bc-4d1c414ad66b/related/",
+"waveform": "https://api.openverse.org/v1/audio/090a223a-0bcd-47b5-a0bc-4d1c414ad66b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b3bd4a0c-9565-408d-a36c-ac6f57ed8b0f",
+"title": "Garden Warbler (Sylvia borin)",
+"indexed_on": "2023-07-02T13:33:17.194038Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=44603707",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Garden_Warbler_%28Sylvia_borin%29_%28W1CDR0001463_BD12%29.ogg",
+"creator": null,
+"creator_url": null,
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 874267,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"<div class='fn'> Garden Warbler (Sylvia borin)</div>\" is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 33163,
+"bit_rate": 239920,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b3bd4a0c-9565-408d-a36c-ac6f57ed8b0f/",
+"related_url": "https://api.openverse.org/v1/audio/b3bd4a0c-9565-408d-a36c-ac6f57ed8b0f/related/",
+"waveform": "https://api.openverse.org/v1/audio/b3bd4a0c-9565-408d-a36c-ac6f57ed8b0f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "6881ec2d-c9bd-4b59-bc70-13aafdd3cda8",
+"title": "Gardening Is The New Rock And Roll",
+"indexed_on": "2022-02-24T01:34:42.275707Z",
+"foreign_landing_url": "https://www.jamendo.com/track/169061",
+"url": "https://prod-1.storage.jamendo.com/?trackid=169061&format=mp32",
+"creator": "Stellar Art Wars",
+"creator_url": "https://www.jamendo.com/artist/339139/Stella_Art_Wars",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"britpop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "comedy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "kylie",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "psychedelic",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Gardening Is The New Rock And Roll\" by Stellar Art Wars is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Words And Music By McCartney and Lennon (deceased)",
+"foreign_landing_url": "https://www.jamendo.com/album/24854/words-and-music-by-mccartney-and-lennon-deceased",
+"creator": "Stellar Art Wars",
+"creator_url": "https://www.jamendo.com/artist/339139/Stella_Art_Wars",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 220000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/6881ec2d-c9bd-4b59-bc70-13aafdd3cda8/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/6881ec2d-c9bd-4b59-bc70-13aafdd3cda8/",
+"related_url": "https://api.openverse.org/v1/audio/6881ec2d-c9bd-4b59-bc70-13aafdd3cda8/related/",
+"waveform": "https://api.openverse.org/v1/audio/6881ec2d-c9bd-4b59-bc70-13aafdd3cda8/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "b0fb37b0-6656-4848-862e-2702c3749327",
+"title": "En-us-garden",
+"indexed_on": "2023-12-24T17:02:00.630791Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=862119",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/37/En-us-garden.ogg",
+"creator": "Dvortygirl",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Dvortygirl",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 15836,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"En-us-garden\" by Dvortygirl is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 696,
+"bit_rate": 160003,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/b0fb37b0-6656-4848-862e-2702c3749327/",
+"related_url": "https://api.openverse.org/v1/audio/b0fb37b0-6656-4848-862e-2702c3749327/related/",
+"waveform": "https://api.openverse.org/v1/audio/b0fb37b0-6656-4848-862e-2702c3749327/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7a9fd4f6-5801-4d5e-a1ac-ec470d231e48",
+"title": "Kissing Garden",
+"indexed_on": "2021-12-23T02:09:52.493845Z",
+"foreign_landing_url": "https://www.jamendo.com/track/21495",
+"url": "https://prod-1.storage.jamendo.com/?trackid=21495&format=mp32",
+"creator": "Olga Scotland",
+"creator_url": "https://www.jamendo.com/artist/3177/olga.scotland",
+"license": "by-nc-nd",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"filmscore",
+"newage"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "anime",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "fairytale",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "happy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "harp",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "lounge",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "peaceful",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_low",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Kissing Garden\" by Olga Scotland is licensed under CC BY-NC-ND 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Scotland Yard",
+"foreign_landing_url": "https://www.jamendo.com/album/3005/scotland-yard",
+"creator": "Olga Scotland",
+"creator_url": "https://www.jamendo.com/artist/3177/olga.scotland",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 215000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/7a9fd4f6-5801-4d5e-a1ac-ec470d231e48/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/7a9fd4f6-5801-4d5e-a1ac-ec470d231e48/",
+"related_url": "https://api.openverse.org/v1/audio/7a9fd4f6-5801-4d5e-a1ac-ec470d231e48/related/",
+"waveform": "https://api.openverse.org/v1/audio/7a9fd4f6-5801-4d5e-a1ac-ec470d231e48/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "003270c8-4957-473d-85a0-3e304d1d71fc",
+"title": "Music From a Garden",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1044160",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1044160&format=mp32",
+"creator": "The Gray Havens",
+"creator_url": "https://www.jamendo.com/artist/435269/The_Gray_Havens",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"indie",
+"indiepop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "upbeat",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "uplifting",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Music From a Garden\" by The Gray Havens is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Where Eyes Don't Go",
+"foreign_landing_url": "https://www.jamendo.com/album/122951/where-eyes-don-t-go",
+"creator": "The Gray Havens",
+"creator_url": "https://www.jamendo.com/artist/435269/The_Gray_Havens",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 234000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/003270c8-4957-473d-85a0-3e304d1d71fc/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/003270c8-4957-473d-85a0-3e304d1d71fc/",
+"related_url": "https://api.openverse.org/v1/audio/003270c8-4957-473d-85a0-3e304d1d71fc/related/",
+"waveform": "https://api.openverse.org/v1/audio/003270c8-4957-473d-85a0-3e304d1d71fc/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1c0bd658-a72c-4f05-9ee9-f53520ef0006",
+"title": "In The Garden",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1077680",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1077680&format=mp32",
+"creator": "Snowflake & Loveshadow",
+"creator_url": "https://www.jamendo.com/artist/437403/Snowflake_Loveshadow",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"chillout",
+"electronic",
+"rock"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "love",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "lover",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "upbeat",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"In The Garden\" by Snowflake & Loveshadow is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Open in the Garden",
+"foreign_landing_url": "https://www.jamendo.com/album/128370/open-in-the-garden",
+"creator": "Snowflake & Loveshadow",
+"creator_url": "https://www.jamendo.com/artist/437403/Snowflake_Loveshadow",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 295000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/1c0bd658-a72c-4f05-9ee9-f53520ef0006/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/1c0bd658-a72c-4f05-9ee9-f53520ef0006/",
+"related_url": "https://api.openverse.org/v1/audio/1c0bd658-a72c-4f05-9ee9-f53520ef0006/related/",
+"waveform": "https://api.openverse.org/v1/audio/1c0bd658-a72c-4f05-9ee9-f53520ef0006/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7fa14d49-0e8e-4966-b505-8d90124bef1b",
+"title": "Sally Gardens",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/233293",
+"url": "https://prod-1.storage.jamendo.com/?trackid=233293&format=mp32",
+"creator": "Dancing Willow",
+"creator_url": "https://www.jamendo.com/artist/338197/Dancing_Willow",
+"license": "by-nc-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"folk",
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "female",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Sally Gardens\" by Dancing Willow is licensed under CC BY-NC-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Dancing Willow: Demo-CD 2007",
+"foreign_landing_url": "https://www.jamendo.com/album/34240/dancing-willow-demo-cd-2007",
+"creator": "Dancing Willow",
+"creator_url": "https://www.jamendo.com/artist/338197/Dancing_Willow",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 172000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/7fa14d49-0e8e-4966-b505-8d90124bef1b/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/7fa14d49-0e8e-4966-b505-8d90124bef1b/",
+"related_url": "https://api.openverse.org/v1/audio/7fa14d49-0e8e-4966-b505-8d90124bef1b/related/",
+"waveform": "https://api.openverse.org/v1/audio/7fa14d49-0e8e-4966-b505-8d90124bef1b/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "f766fe63-acc2-4bca-8dd5-d62488cd549e",
+"title": "Panic At The Dam",
+"indexed_on": "2023-07-01T12:41:11.500001Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1083003",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1083003&format=mp32",
+"creator": "The Dam",
+"creator_url": "https://www.jamendo.com/artist/439396/The_Dam_(2)",
+"license": "by-nc-sa",
+"license_version": "2.5",
+"license_url": "https://creativecommons.org/licenses/by-nc-sa/2.5/it/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Panic At The Dam\" by The Dam is licensed under CC BY-NC-SA 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.5/it/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Songs for the dam",
+"foreign_landing_url": "https://www.jamendo.com/album/129002/songs-for-the-dam",
+"creator": "The Dam",
+"creator_url": "https://www.jamendo.com/artist/439396/The_Dam_(2)",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 239000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/f766fe63-acc2-4bca-8dd5-d62488cd549e/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/f766fe63-acc2-4bca-8dd5-d62488cd549e/",
+"related_url": "https://api.openverse.org/v1/audio/f766fe63-acc2-4bca-8dd5-d62488cd549e/related/",
+"waveform": "https://api.openverse.org/v1/audio/f766fe63-acc2-4bca-8dd5-d62488cd549e/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7cffb161-4e7c-4384-934d-524a9df34e7f",
+"title": "Nl-dam",
+"indexed_on": "2022-12-25T16:28:23.235680Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=29289939",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Nl-dam.ogg",
+"creator": "Marcel Coenders",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 11796,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-dam\" by Marcel Coenders is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 850,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/7cffb161-4e7c-4384-934d-524a9df34e7f/",
+"related_url": "https://api.openverse.org/v1/audio/7cffb161-4e7c-4384-934d-524a9df34e7f/related/",
+"waveform": "https://api.openverse.org/v1/audio/7cffb161-4e7c-4384-934d-524a9df34e7f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "c0832ea0-9e8c-4be5-964f-0748d8299ba0",
+"title": "Dam Burst [Synthy Electro]",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1348241",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1348241&format=mp32",
+"creator": "Hardcore Scm",
+"creator_url": "https://www.jamendo.com/artist/366513/Hardcore_Scm",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"dubstep",
+"electronic",
+"house"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "synthy",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Dam Burst [Synthy Electro]\" by Hardcore Scm is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Hardcore Scm - 2015",
+"foreign_landing_url": "https://www.jamendo.com/album/159077/hardcore-scm-2015",
+"creator": "Hardcore Scm",
+"creator_url": "https://www.jamendo.com/artist/366513/Hardcore_Scm",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 578000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/c0832ea0-9e8c-4be5-964f-0748d8299ba0/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/c0832ea0-9e8c-4be5-964f-0748d8299ba0/",
+"related_url": "https://api.openverse.org/v1/audio/c0832ea0-9e8c-4be5-964f-0748d8299ba0/related/",
+"waveform": "https://api.openverse.org/v1/audio/c0832ea0-9e8c-4be5-964f-0748d8299ba0/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "a81f8f49-29b7-4438-9be8-44454c007dd2",
+"title": "EN-AU ck1 dam",
+"indexed_on": "2023-12-10T12:18:26.300144Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=75270192",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/EN-AU_ck1_dam.ogg",
+"creator": "Commander Keane",
+"creator_url": "https://commons.wikimedia.org/wiki/User:Commander_Keane",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 14282,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"EN-AU ck1 dam\" by Commander Keane is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 952,
+"bit_rate": 112000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/a81f8f49-29b7-4438-9be8-44454c007dd2/",
+"related_url": "https://api.openverse.org/v1/audio/a81f8f49-29b7-4438-9be8-44454c007dd2/related/",
+"waveform": "https://api.openverse.org/v1/audio/a81f8f49-29b7-4438-9be8-44454c007dd2/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "39c877bc-3b37-4638-ab24-bdffcc5af7ca",
+"title": "water river Guber natural water dam close perspective stereoM10.wav",
+"indexed_on": "2022-08-01T10:21:55.203678Z",
+"foreign_landing_url": "https://freesound.org/people/Soundholder/sounds/425877",
+"url": "https://cdn.freesound.org/previews/425/425877_4421503-hq.mp3",
+"creator": "Soundholder",
+"creator_url": "https://freesound.org/people/Soundholder",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1647264,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "brook",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "creek",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dam",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "detailed",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "effect",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "flow",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "liquid",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "location",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "natural",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "river",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sound",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "splash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stream",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "subtle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/425877/download/",
+"bit_rate": 0,
+"filesize": 43494590,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"water river Guber natural water dam close perspective stereoM10.wav\" by Soundholder is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Water",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/24159/",
+"creator": "Soundholder",
+"creator_url": "https://freesound.org/people/Soundholder/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 71637,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/39c877bc-3b37-4638-ab24-bdffcc5af7ca/",
+"related_url": "https://api.openverse.org/v1/audio/39c877bc-3b37-4638-ab24-bdffcc5af7ca/related/",
+"waveform": "https://api.openverse.org/v1/audio/39c877bc-3b37-4638-ab24-bdffcc5af7ca/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "5dafa9c3-7fac-457e-8ef8-e15647a5d343",
+"title": "Magnetic Waves recorded at the dam of Fribourg",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/felix.blume/sounds/434073",
+"url": "https://cdn.freesound.org/previews/434/434073_1661766-hq.mp3",
+"creator": "felix.blume",
+"creator_url": "https://freesound.org/people/felix.blume",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 2085504,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Barrage",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "CH-180625T10",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Magnetic",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Magnetiques",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Ondes",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "Waves",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "barrage",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "belluard",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "blume",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electric",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "electricity",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "felix",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "felixblume",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "festival",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "fribourg",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "lom",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nur-ton",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "priezor",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sarine",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "seul",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "son",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "sounds",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/434073/download/",
+"bit_rate": 0,
+"filesize": 62841988,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"Magnetic Waves recorded at the dam of Fribourg\" by felix.blume is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Switzerland",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/24621/",
+"creator": "felix.blume",
+"creator_url": "https://freesound.org/people/felix.blume/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 109099,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/5dafa9c3-7fac-457e-8ef8-e15647a5d343/",
+"related_url": "https://api.openverse.org/v1/audio/5dafa9c3-7fac-457e-8ef8-e15647a5d343/related/",
+"waveform": "https://api.openverse.org/v1/audio/5dafa9c3-7fac-457e-8ef8-e15647a5d343/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "28f4f47d-cdf2-4134-99c6-45a289e1a89f",
+"title": "Dam Dam-Jacky Daniel",
+"indexed_on": "2022-08-01T21:56:38.264750Z",
+"foreign_landing_url": "https://www.jamendo.com/track/1204723",
+"url": "https://prod-1.storage.jamendo.com/?trackid=1204723&format=mp32",
+"creator": "jacky.daniel",
+"creator_url": "https://www.jamendo.com/artist/3928/jackydaniel",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"blues",
+"chansonfrancaise"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "neutral",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "pauvres",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Dam Dam-Jacky Daniel\" by jacky.daniel is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "En quelques mots",
+"foreign_landing_url": "https://www.jamendo.com/album/144713/en-quelques-mots",
+"creator": "jacky.daniel",
+"creator_url": "https://www.jamendo.com/artist/3928/jackydaniel",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 170000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/28f4f47d-cdf2-4134-99c6-45a289e1a89f/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/28f4f47d-cdf2-4134-99c6-45a289e1a89f/",
+"related_url": "https://api.openverse.org/v1/audio/28f4f47d-cdf2-4134-99c6-45a289e1a89f/related/",
+"waveform": "https://api.openverse.org/v1/audio/28f4f47d-cdf2-4134-99c6-45a289e1a89f/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "10fc02c7-8611-4d40-aa8b-e775cd1b1e22",
+"title": "Nl-dam af",
+"indexed_on": "2022-12-25T16:28:23.235680Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=29289937",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Nl-dam_af.ogg",
+"creator": "Marcel Coenders",
+"creator_url": null,
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 14029,
+"filetype": "ogg",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-dam af\" by Marcel Coenders is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1050,
+"bit_rate": 80000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/10fc02c7-8611-4d40-aa8b-e775cd1b1e22/",
+"related_url": "https://api.openverse.org/v1/audio/10fc02c7-8611-4d40-aa8b-e775cd1b1e22/related/",
+"waveform": "https://api.openverse.org/v1/audio/10fc02c7-8611-4d40-aa8b-e775cd1b1e22/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "1988296d-edd9-4307-9c8b-ef0f0e208821",
+"title": "LL-Q14196 (afr)-Oesjaar-dam",
+"indexed_on": "2022-10-09T10:26:37.054820Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=70981601",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/LL-Q14196_%28afr%29-Oesjaar-dam.wav",
+"creator": "Speaker: Oesjaar Recorder: Oesjaar",
+"creator_url": "https://lingualibre.org/wiki/Q16128",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 92972,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q14196 (afr)-Oesjaar-dam\" by Speaker: Oesjaar Recorder: Oesjaar is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 968,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/1988296d-edd9-4307-9c8b-ef0f0e208821/",
+"related_url": "https://api.openverse.org/v1/audio/1988296d-edd9-4307-9c8b-ef0f0e208821/related/",
+"waveform": "https://api.openverse.org/v1/audio/1988296d-edd9-4307-9c8b-ef0f0e208821/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "acd3e481-862e-4418-b195-b5bac0b9e004",
+"title": "LL-Q150 (fra)-LoquaxFR-dam",
+"indexed_on": "2023-09-24T13:15:31.063597Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=85461695",
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/LL-Q150_%28fra%29-LoquaxFR-dam.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "Speaker: LoquaxFR Recorder: LoquaxFR",
+"creator_url": "https://lingualibre.org/wiki/Q215420",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 57964,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-LoquaxFR-dam\" by Speaker: LoquaxFR Recorder: LoquaxFR is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 603,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/acd3e481-862e-4418-b195-b5bac0b9e004/",
+"related_url": "https://api.openverse.org/v1/audio/acd3e481-862e-4418-b195-b5bac0b9e004/related/",
+"waveform": "https://api.openverse.org/v1/audio/acd3e481-862e-4418-b195-b5bac0b9e004/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "ea5fef5f-6e74-4e65-ba2d-0bcec99e5239",
+"title": "water river Guber natural water dam distant perspective stereoM10.wav",
+"indexed_on": "2022-10-01T04:02:44.560321Z",
+"foreign_landing_url": "https://freesound.org/people/Soundholder/sounds/425876",
+"url": "https://cdn.freesound.org/previews/425/425876_4421503-hq.mp3",
+"creator": "Soundholder",
+"creator_url": "https://freesound.org/people/Soundholder",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 908616,
+"filetype": "mp3",
+"tags": [
+{
+"name": "ambient",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmo",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "atmosphere",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "big",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "brook",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "creek",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dam",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "detailed",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "flow",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "liquid",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "location",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "massive",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "natural",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "nature",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "relaxing",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "river",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "soundscape",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "splash",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "stream",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "subtle",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "water",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/425876/download/",
+"bit_rate": 0,
+"filesize": 25088658,
+"filetype": "wav",
+"sample_rate": 96000
+}
+],
+"attribution": "\"water river Guber natural water dam distant perspective stereoM10.wav\" by Soundholder is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Water",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/24159/",
+"creator": "Soundholder",
+"creator_url": "https://freesound.org/people/Soundholder/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 39850,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/ea5fef5f-6e74-4e65-ba2d-0bcec99e5239/",
+"related_url": "https://api.openverse.org/v1/audio/ea5fef5f-6e74-4e65-ba2d-0bcec99e5239/related/",
+"waveform": "https://api.openverse.org/v1/audio/ea5fef5f-6e74-4e65-ba2d-0bcec99e5239/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "cdc21a31-e398-47b9-bcb1-02317be669ed",
+"title": "Water Trickling | Beaver Dam",
+"indexed_on": "2024-05-21T15:00:07.873258Z",
+"foreign_landing_url": "https://freesound.org/people/IESP/sounds/339933",
+"url": "https://cdn.freesound.org/previews/339/339933_5984982-hq.mp3",
+"creator": "IESP",
+"creator_url": "https://freesound.org/people/IESP",
+"license": "by",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0/",
+"provider": "freesound",
+"source": "freesound",
+"category": null,
+"genres": null,
+"filesize": 1886064,
+"filetype": "mp3",
+"tags": [
+{
+"name": "Water",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "beaver",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "dam",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "field-recording",
+"accuracy": null,
+"unstable__provider": "freesound"
+},
+{
+"name": "trickling",
+"accuracy": null,
+"unstable__provider": "freesound"
+}
+],
+"alt_files": [
+{
+"url": "https://freesound.org/apiv2/sounds/339933/download/",
+"bit_rate": 0,
+"filesize": 15744076,
+"filetype": "wav",
+"sample_rate": 48000
+}
+],
+"attribution": "\"Water Trickling | Beaver Dam\" by IESP is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+"fields_matched": [
+"description",
+"title",
+"tags.name"
+],
+"mature": false,
+"audio_set": {
+"title": "Calgary Sounds",
+"foreign_landing_url": "https://freesound.org/apiv2/packs/19258/",
+"creator": "IESP",
+"creator_url": "https://freesound.org/people/IESP/",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 82000,
+"bit_rate": 128000,
+"sample_rate": null,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/cdc21a31-e398-47b9-bcb1-02317be669ed/",
+"related_url": "https://api.openverse.org/v1/audio/cdc21a31-e398-47b9-bcb1-02317be669ed/related/",
+"waveform": "https://api.openverse.org/v1/audio/cdc21a31-e398-47b9-bcb1-02317be669ed/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "7ded39c5-d26b-468e-be35-6424fefc92ae",
+"title": "Tam daram dam",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/334935",
+"url": "https://prod-1.storage.jamendo.com/?trackid=334935&format=mp32",
+"creator": "Proszek na muchy",
+"creator_url": "https://www.jamendo.com/artist/349114/proszek_na_muchy",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"pop"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "male",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "vocal",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Tam daram dam\" by Proszek na muchy is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "Disco Acoustic 2",
+"foreign_landing_url": "https://www.jamendo.com/album/44524/disco-acoustic-2",
+"creator": "Proszek na muchy",
+"creator_url": "https://www.jamendo.com/artist/349114/proszek_na_muchy",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 156000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/7ded39c5-d26b-468e-be35-6424fefc92ae/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/7ded39c5-d26b-468e-be35-6424fefc92ae/",
+"related_url": "https://api.openverse.org/v1/audio/7ded39c5-d26b-468e-be35-6424fefc92ae/related/",
+"waveform": "https://api.openverse.org/v1/audio/7ded39c5-d26b-468e-be35-6424fefc92ae/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "79bfa77b-8ccd-44af-b5cd-52303d94090c",
+"title": "Dam Dam",
+"indexed_on": "2022-04-01T07:25:28.481246Z",
+"foreign_landing_url": "https://www.jamendo.com/track/360000",
+"url": "https://prod-1.storage.jamendo.com/?trackid=360000&format=mp32",
+"creator": "Authush",
+"creator_url": "https://www.jamendo.com/artist/5821/dj.authush",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "jamendo",
+"source": "jamendo",
+"category": "music",
+"genres": [
+"dance",
+"electronic"
+],
+"filesize": null,
+"filetype": "mp32",
+"tags": [
+{
+"name": "instrumental",
+"accuracy": null,
+"unstable__provider": "jamendo"
+},
+{
+"name": "speed_medium",
+"accuracy": null,
+"unstable__provider": "jamendo"
+}
+],
+"alt_files": null,
+"attribution": "\"Dam Dam\" by Authush is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": {
+"title": "THE FIRST WAVE 2009",
+"foreign_landing_url": "https://www.jamendo.com/album/46719/the-first-wave-2009",
+"creator": "Authush",
+"creator_url": "https://www.jamendo.com/artist/5821/dj.authush",
+"url": null,
+"filesize": null,
+"filetype": null
+},
+"duration": 295000,
+"bit_rate": null,
+"sample_rate": null,
+"thumbnail": "https://api.openverse.org/v1/audio/79bfa77b-8ccd-44af-b5cd-52303d94090c/thumb/",
+"detail_url": "https://api.openverse.org/v1/audio/79bfa77b-8ccd-44af-b5cd-52303d94090c/",
+"related_url": "https://api.openverse.org/v1/audio/79bfa77b-8ccd-44af-b5cd-52303d94090c/related/",
+"waveform": "https://api.openverse.org/v1/audio/79bfa77b-8ccd-44af-b5cd-52303d94090c/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "05120eee-5a4e-4eaf-aa59-bf1944d5ce65",
+"title": "Nl-Dam (Wieringen)-article",
+"indexed_on": "2025-06-29T14:35:34.697986Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=12202164",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Nl-Dam_%28Wieringen%29-article.ogg",
+"creator": "Speaker: VR-Land Authors of the article",
+"creator_url": "https://commons.wikimedia.org/wiki/User:VR-Land",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 874116,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Nl-Dam (Wieringen)-article\" by Speaker: VR-Land Authors of the article is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"description",
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 83022,
+"bit_rate": 96000,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/05120eee-5a4e-4eaf-aa59-bf1944d5ce65/",
+"related_url": "https://api.openverse.org/v1/audio/05120eee-5a4e-4eaf-aa59-bf1944d5ce65/related/",
+"waveform": "https://api.openverse.org/v1/audio/05120eee-5a4e-4eaf-aa59-bf1944d5ce65/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "34c06ae9-6f12-436f-be1e-fdd0cd75dd47",
+"title": "LL-Q256 (tur)-ToprakM-dam",
+"indexed_on": "2023-07-04T00:12:36.450146Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=133919244",
+"url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/LL-Q256_%28tur%29-ToprakM-dam.wav",
+"creator": "Speaker: ToprakM Recorder: ToprakM",
+"creator_url": "https://lingualibre.org/wiki/Q653297",
+"license": "by",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 76588,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q256 (tur)-ToprakM-dam\" by Speaker: ToprakM Recorder: ToprakM is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 797,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/34c06ae9-6f12-436f-be1e-fdd0cd75dd47/",
+"related_url": "https://api.openverse.org/v1/audio/34c06ae9-6f12-436f-be1e-fdd0cd75dd47/related/",
+"waveform": "https://api.openverse.org/v1/audio/34c06ae9-6f12-436f-be1e-fdd0cd75dd47/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "579515cc-043f-4261-aa00-714db27e6d32",
+"title": "Ru-Cheboksary Dam (intro)",
+"indexed_on": "2025-08-24T19:13:45.660106Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=11051742",
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Ru-Cheboksary_Dam_%28intro%29.ogg",
+"creator": "Speaker: Elena Krizhanovsky, incorporating: Jimi Sobara - Midnight Motel / 04 - Seasons (by-sa 2.5, en:Jamendo) paniq - Neurons Fire At Will / 14 - Progression (by-sa 2.0, en:Jamendo) Image:Ru-audio template-Wikipedia.ogg Authors of the article",
+"creator_url": "https://en.wikipedia.org/wiki/Jamendo",
+"license": "by-sa",
+"license_version": "3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": null,
+"genres": null,
+"filesize": 6982727,
+"filetype": "ogx",
+"tags": [],
+"alt_files": null,
+"attribution": "\"Ru-Cheboksary Dam (intro)\" by Speaker: Elena Krizhanovsky, incorporating: Jimi Sobara - Midnight Motel / 04 - Seasons (by-sa 2.5, en:Jamendo) paniq - Neurons Fire At Will / 14 - Progression (by-sa 2.0, en:Jamendo) Image:Ru-audio template-Wikipedia.ogg Authors of the article is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 148125,
+"bit_rate": 499821,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/579515cc-043f-4261-aa00-714db27e6d32/",
+"related_url": "https://api.openverse.org/v1/audio/579515cc-043f-4261-aa00-714db27e6d32/related/",
+"waveform": "https://api.openverse.org/v1/audio/579515cc-043f-4261-aa00-714db27e6d32/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "8bde11ec-79a2-4eb0-885c-3ae2e38994de",
+"title": "LL-Q150 (fra)-LoquaxFR-au grand dam de",
+"indexed_on": "2022-10-30T14:38:00.560874Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=92708046",
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/15/LL-Q150_%28fra%29-LoquaxFR-au_grand_dam_de.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+"creator": "Speaker: LoquaxFR Recorder: LoquaxFR",
+"creator_url": "http://lingualibre.org/wiki/Q215420",
+"license": "by-sa",
+"license_version": "4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 112492,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q150 (fra)-LoquaxFR-au grand dam de\" by Speaker: LoquaxFR Recorder: LoquaxFR is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 1171,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/8bde11ec-79a2-4eb0-885c-3ae2e38994de/",
+"related_url": "https://api.openverse.org/v1/audio/8bde11ec-79a2-4eb0-885c-3ae2e38994de/related/",
+"waveform": "https://api.openverse.org/v1/audio/8bde11ec-79a2-4eb0-885c-3ae2e38994de/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "3250b2e0-84ef-4525-b13b-f492e72aa64a",
+"title": "LL-Q809 (pol)-Olaf-dam",
+"indexed_on": "2023-11-19T13:59:34.684410Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=100058331",
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/26/LL-Q809_%28pol%29-Olaf-dam.wav",
+"creator": "Speaker: Olaf Recorder: Olaf",
+"creator_url": "https://lingualibre.org/wiki/Q267375",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 92972,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q809 (pol)-Olaf-dam\" by Speaker: Olaf Recorder: Olaf is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 968,
+"bit_rate": 768000,
+"sample_rate": 48000,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/3250b2e0-84ef-4525-b13b-f492e72aa64a/",
+"related_url": "https://api.openverse.org/v1/audio/3250b2e0-84ef-4525-b13b-f492e72aa64a/related/",
+"waveform": "https://api.openverse.org/v1/audio/3250b2e0-84ef-4525-b13b-f492e72aa64a/waveform/",
+"unstable__sensitivity": []
+},
+{
+"id": "631f8e1c-b592-432b-a45c-c3b8e1a0ea9f",
+"title": "LL-Q9240 (ind)-Kume Gucci-dam",
+"indexed_on": "2025-05-29T00:23:46.068353Z",
+"foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=166213347",
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/LL-Q9240_%28ind%29-Kume_Gucci-dam.wav",
+"creator": "Speaker: Kume Gucci Recorder: Kume Gucci",
+"creator_url": "https://lingualibre.org/wiki/Q1356976",
+"license": "cc0",
+"license_version": "1.0",
+"license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+"provider": "wikimedia_audio",
+"source": "wikimedia_audio",
+"category": "pronunciation",
+"genres": null,
+"filesize": 71188,
+"filetype": "wav",
+"tags": [],
+"alt_files": null,
+"attribution": "\"LL-Q9240 (ind)-Kume Gucci-dam\" by Speaker: Kume Gucci Recorder: Kume Gucci is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/deed.en/.",
+"fields_matched": [
+"title"
+],
+"mature": false,
+"audio_set": null,
+"duration": 806,
+"bit_rate": 705600,
+"sample_rate": 44100,
+"thumbnail": null,
+"detail_url": "https://api.openverse.org/v1/audio/631f8e1c-b592-432b-a45c-c3b8e1a0ea9f/",
+"related_url": "https://api.openverse.org/v1/audio/631f8e1c-b592-432b-a45c-c3b8e1a0ea9f/related/",
+"waveform": "https://api.openverse.org/v1/audio/631f8e1c-b592-432b-a45c-c3b8e1a0ea9f/waveform/",
+"unstable__sensitivity": []
 }
 ]

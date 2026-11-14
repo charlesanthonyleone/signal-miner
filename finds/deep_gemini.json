@@ -5758,5 +5758,29 @@
    ]
   ],
   "mined_at": "2026-11-13T02:00:21Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "made my second tarot",
+  "url": "https://portal.mozz.us/gemini/dogboy.smol.pub/secondtarot",
+  "gemini": "gemini://dogboy.smol.pub/secondtarot",
+  "date": "",
+  "dateLabel": "",
+  "count": 1406,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "dogboy.smol.pub",
+  "preview": "# made my second tarot\n\n03/05/2024\r\n=> https://iv.melmac.space/watch?v=aSmr2dD10ME listening to: sordid - amon tobin\r\n\r\n=> pawup1.png\r\nso since the last post three days ago i did indeed create a hand painted, mixed media, majors-only tarot deck for my partner! success! i've done many little things aside from that, but focusing on that One Thing freed up enough brain space to get unstuck and just start doing things.\r\n\r\nother successes:\r\n* completely defused the \"buy fancy watercolors\" fervor\r\n* only got One tarot deck, despite three different ones nagging at me\r\n* two sessions of online game with friends, still trying to find my legs. it's a little stressful but i'm trying\r\n* a couple delicious home-cooked things\r\n\r\nwhat i want to do next:\r\n* focus on a bit of spiritual basics. meditation, tarot journaling etc.\r\n* tarot box for partner's deck\r\n* work in the \"watercolor\" sketchbook, play around with greys, creams, and other neutrals, maybe collage, definitely abstract\r\n* play around with some paul klee techniques in my comfort zone (dogboy drawings)\r\n* do a little investigating around my art style (following helen wells' tips/questions from a recent video of hers)\r\n\r\nsince i have to ",
+  "query": "gemini search \"tarot\"",
+  "kw": "tarot",
+  "extra": "capsule: dogboy.smol.pub \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://dogboy.smol.pub/secondtarot"
+   ]
+  ],
+  "mined_at": "2026-11-14T01:37:04Z"
  }
 ]
