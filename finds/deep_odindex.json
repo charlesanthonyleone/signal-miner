@@ -65098,5 +65098,621 @@
    ]
   ],
   "mined_at": "2026-11-15T16:35:45Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "00Index",
+  "date": "1993-11-02 12:01",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "32",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/bible/00Index",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "bible",
+  "preview": "text \u00b7 32 \u00b7 1993-11-02 12:01 \u00b7 in https://ftp.funet.fi/pub/doc/bible/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/bible/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/bible/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "depot-draft.ps.Z",
+  "date": "1992-04-11 10:23",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "36K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/depot/cmu-depot/depot-draft.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 36K \u00b7 1992-04-11 10:23 \u00b7 in https://ftp.funet.fi/pub/doc/depot/cmu-depot/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/depot/cmu-depot/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/depot/cmu-depot/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "depot.lisa.ps.Z",
+  "date": "1991-02-04 14:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "176K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/depot/nist-depot/depot.lisa.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 176K \u00b7 1991-02-04 14:54 \u00b7 in https://ftp.funet.fi/pub/doc/depot/nist-depot/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/depot/nist-depot/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/depot/nist-depot/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "patents1992-1993.gz",
+  "date": "1994-01-05 20:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "67K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/misc/patents1992-1993.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "patent",
+  "preview": "other \u00b7 67K \u00b7 1994-01-05 20:58 \u00b7 in https://ftp.funet.fi/pub/doc/misc/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/misc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/misc/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "mkdir",
+  "date": "2009-09-02 10:27",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "0",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/misc/mkdir",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 0 \u00b7 2009-09-02 10:27 \u00b7 in https://ftp.funet.fi/pub/doc/misc/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/misc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/misc/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "depot-draft.txt.Z",
+  "date": "1992-04-11 10:23",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "12K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/depot/cmu-depot/depot-draft.txt.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 12K \u00b7 1992-04-11 10:23 \u00b7 in https://ftp.funet.fi/pub/doc/depot/cmu-depot/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/depot/cmu-depot/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/depot/cmu-depot/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "depot.slides.ps.Z",
+  "date": "1991-02-04 14:35",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "20K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/depot/nist-depot/depot.slides.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 20K \u00b7 1991-02-04 14:35 \u00b7 in https://ftp.funet.fi/pub/doc/depot/nist-depot/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/depot/nist-depot/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/depot/nist-depot/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "depot.016.tar.Z",
+  "date": "1992-04-11 10:23",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "242K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/depot/cmu-depot/depot.016.tar.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 242K \u00b7 1992-04-11 10:23 \u00b7 in https://ftp.funet.fi/pub/doc/depot/cmu-depot/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/depot/cmu-depot/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/depot/cmu-depot/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "xem.set",
+  "date": "1993-01-08 01:27",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.3K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/tos/xem.set",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 1.3K \u00b7 1993-01-08 01:27 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/tos/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "tech.set",
+  "date": "1993-01-08 01:27",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "18K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/tos/tech.set",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 18K \u00b7 1993-01-08 01:27 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/tos/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "tarot.set",
+  "date": "1993-01-08 01:27",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "5.9K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/tos/tarot.set",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 5.9K \u00b7 1993-01-08 01:27 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/tos/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "crystal.set",
+  "date": "1993-01-08 01:26",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.7K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/tos/crystal.set",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 1.7K \u00b7 1993-01-08 01:26 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/tos/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "set-files.lst",
+  "date": "1993-01-08 01:27",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.1K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/tos/set-files.lst",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 1.1K \u00b7 1993-01-08 01:27 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/tos/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "law_trap.set",
+  "date": "1993-01-08 01:26",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.6K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/tos/law_trap.set",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 2.6K \u00b7 1993-01-08 01:26 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/tos/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "muffin.set",
+  "date": "1993-01-08 01:26",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "29K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/tos/muffin.set",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 29K \u00b7 1993-01-08 01:26 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/tos/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ol-stm.set",
+  "date": "1993-01-08 01:26",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "8.1K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/tos/ol-stm.set",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 8.1K \u00b7 1993-01-08 01:26 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/tos/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "word.set",
+  "date": "1993-01-08 01:27",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "8.2K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/tos/word.set",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 8.2K \u00b7 1993-01-08 01:27 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/tos/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "machines.set",
+  "date": "1993-01-08 01:26",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.4K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/tos/machines.set",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 2.4K \u00b7 1993-01-08 01:26 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/tos/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "set.txt",
+  "date": "1993-01-08 01:27",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.5K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/tos/set.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "text \u00b7 3.5K \u00b7 1993-01-08 01:27 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/tos/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "otrapz.set",
+  "date": "1993-01-08 01:27",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "16K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/culture/occult/thelema/tos/otrapz.set",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/occult/",
+  "kw": "occult",
+  "preview": "other \u00b7 16K \u00b7 1993-01-08 01:27 \u00b7 in https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/culture/occult/thelema/tos/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/culture/occult/thelema/tos/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "SSCC-2014-MDWorkshopAdvancedMultiScalingWorked.tar.gz",
+  "date": "2014-03-26 05:48",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "855M",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/sci/chem/courses/SSCC-2014-MDWorkshopAdvancedMultiScalingWorked.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/sci/",
+  "kw": "",
+  "preview": "other \u00b7 855M \u00b7 2014-03-26 05:48 \u00b7 in https://ftp.funet.fi/pub/sci/chem/courses/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/chem/courses/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/sci/chem/courses/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "00README",
+  "date": "1994-11-01 20:34",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "215",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/sci/chem/chemtext/00README",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/sci/",
+  "kw": "",
+  "preview": "text \u00b7 215 \u00b7 1994-11-01 20:34 \u00b7 in https://ftp.funet.fi/pub/sci/chem/chemtext/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/chem/chemtext/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/sci/chem/chemtext/"
+   ]
+  ],
+  "mined_at": "2026-11-15T23:01:48Z"
  }
 ]

@@ -778,5 +778,25 @@
   "inventor": "",
   "module": "dead",
   "mined_at": "2026-11-14T18:18:55Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Stylus guide for psychic games",
+  "date": "1923-04-24",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US1452741A/en",
+  "query": "google patents q=\"psychic\" before 1940",
+  "extra": "patent US1452741A \u00b7 inventor Frank C Jenness",
+  "patent_number": "US1452741A",
+  "inventor": "Frank C Jenness",
+  "module": "dead",
+  "mined_at": "2026-11-15T23:04:23Z"
  }
 ]

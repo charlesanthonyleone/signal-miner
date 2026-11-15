@@ -8798,5 +8798,25 @@
   "inventor": "",
   "module": "expired",
   "mined_at": "2026-11-15T16:37:23Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Advertising novelty.",
+  "date": "1915-11-30",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US1162230A/en",
+  "query": "google patents q=\"novelty\" before 1980",
+  "extra": "patent US1162230A \u00b7 inventor Ralph Leete Foster",
+  "patent_number": "US1162230A",
+  "inventor": "Ralph Leete Foster",
+  "module": "expired",
+  "mined_at": "2026-11-15T23:04:17Z"
  }
 ]
