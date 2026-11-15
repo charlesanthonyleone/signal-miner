@@ -11379,5 +11379,24 @@
   "extra": "agency-published traffic cam \u00b7 FRE-168-AT FLORADORA AVE \u00b7 HLS: https://wzmedia.dot.ca.gov/D6/168_Floradora.stream/playlist.m3u8 \u00b7 no auth \u00b7 not scanned by us",
   "module": "cameras",
   "mined_at": "2026-11-14T22:33:55Z"
+ },
+ {
+  "source": "Caltrans public CCTV",
+  "title": "FRE-5-SHIELDS AVE",
+  "date": "2025-02-11",
+  "dateLabel": "frame",
+  "count": null,
+  "countLabel": "",
+  "kind": "cam",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "image/jpeg",
+  "thumb": "https://cwwp2.dot.ca.gov/data/d6/cctv/image/fre5shieldsave/fre5shieldsave.jpg",
+  "src": "https://cwwp2.dot.ca.gov/data/d6/cctv/image/fre5shieldsave/fre5shieldsave.jpg",
+  "url": "https://cwwp2.dot.ca.gov/data/d6/cctv/image/fre5shieldsave/fre5shieldsave.jpg",
+  "preview": "still \u00b7 image/jpeg\nI-5 \u00b7 Fresno, CA\npublic highway CCTV (agency-published)",
+  "query": "Caltrans open JSON d6",
+  "extra": "agency-published traffic cam \u00b7 FRE-5-SHIELDS AVE \u00b7 HLS: https://wzmedia.dot.ca.gov/D6/5_Shields.stream/playlist.m3u8 \u00b7 no auth \u00b7 not scanned by us",
+  "module": "cameras",
+  "mined_at": "2026-11-15T06:46:26Z"
  }
 ]

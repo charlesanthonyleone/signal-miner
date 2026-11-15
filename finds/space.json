@@ -5185,5 +5185,24 @@
   "extra": "center ARC \u00b7 nasa_id ARC-1984-AC84-0378-2 \u00b7 keywords SETI",
   "module": "space",
   "mined_at": "2026-11-14T22:34:10Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "Six Deep Space Network Antennas in Madrid Arrayed For the First Time",
+  "date": "2024-04-26",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA26147/PIA26147~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/PIA26147/PIA26147~thumb.jpg",
+  "preview": " In a historic first, all six radio frequency antennas at the Madrid Deep Space Communication Complex \u2013 part of NASA's Deep Space Network (DSN) \u2013 carried out a test to receive data from the agency's Voyager 1 spacecraft at the same time on April 20, 2024. Known as \"arraying,\" combining the receiving power of several antennas allows the DSN to collect the very faint signals from faraway spacecraft. A five-antenna array is currently needed to downlink science data from the spacecraft's Plasma Wave",
+  "url": "https://images.nasa.gov/details/PIA26147",
+  "query": "images-api.nasa.gov q=\"Very Large Array\"",
+  "extra": "center JPL \u00b7 nasa_id PIA26147 \u00b7 keywords Deep Space Network (DSN)",
+  "module": "space",
+  "mined_at": "2026-11-15T06:46:51Z"
  }
 ]

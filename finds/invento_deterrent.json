@@ -1238,5 +1238,25 @@
   "inventor": "\uc1a1\uae30\ud658",
   "module": "deterrent",
   "mined_at": "2026-11-14T18:19:04Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Structural concrete mix for construction for electromagnetic wave/pulse &hellip;",
+  "date": "2017-06-13",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US9681592B2/en",
+  "query": "google patents q=\"electromagnetic pulse\" cpc=H05K9 before 1940",
+  "extra": "patent US9681592B2 \u00b7 inventor Christopher Tuan",
+  "patent_number": "US9681592B2",
+  "inventor": "Christopher Tuan",
+  "module": "deterrent",
+  "mined_at": "2026-11-15T06:51:00Z"
  }
 ]

@@ -1458,5 +1458,25 @@
   "inventor": "Philip CHU",
   "module": "aliens",
   "mined_at": "2026-11-14T18:19:03Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Meteor particle impact sensing apparatus",
+  "date": "1960-07-05",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US2944250A/en",
+  "query": "google patents q=\"interplanetary\" cpc=B64G before 1960",
+  "extra": "patent US2944250A \u00b7 inventor John R Outt",
+  "patent_number": "US2944250A",
+  "inventor": "John R Outt",
+  "module": "aliens",
+  "mined_at": "2026-11-15T06:51:00Z"
  }
 ]

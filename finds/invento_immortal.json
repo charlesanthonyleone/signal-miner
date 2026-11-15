@@ -1178,5 +1178,25 @@
   "inventor": "\uc77c\ub9ac\uc57c \uc77c\ub9ac\uc778",
   "module": "immortal",
   "mined_at": "2026-11-14T18:18:58Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Organ preservation solution",
+  "date": "2015-09-15",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US9131677B2/en",
+  "query": "google patents q=\"cryopreservation\" cpc=A01N1/02 before 1980",
+  "extra": "patent US9131677B2 \u00b7 inventor Ian L. Megson",
+  "patent_number": "US9131677B2",
+  "inventor": "Ian L. Megson",
+  "module": "immortal",
+  "mined_at": "2026-11-15T06:50:55Z"
  }
 ]
