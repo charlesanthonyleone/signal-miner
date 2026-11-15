@@ -9028,5 +9028,50 @@
   "query": "ytsearch \"vhs home video 2001\" views<=500",
   "extra": "category: old film \u00b7 8s",
   "mined_at": "2026-11-15T06:46:54Z"
+ },
+ {
+  "source": "YouTube",
+  "title": "FIOS/Verizon Public Access Channel 1970s Ballad/(Oceanin Cruise)",
+  "date": "",
+  "dateLabel": "",
+  "count": 160,
+  "countLabel": "views",
+  "thumb": "https://i.ytimg.com/vi/xEQmL3u-cqs/hqdefault.jpg",
+  "kind": "iframe",
+  "src": "https://www.youtube-nocookie.com/embed/xEQmL3u-cqs",
+  "url": "https://www.youtube.com/watch?v=xEQmL3u-cqs",
+  "query": "ytsearch \"old public access tv 1970\" views<=500",
+  "extra": "category: old tv \u00b7 114s",
+  "mined_at": "2026-11-15T16:34:48Z"
+ },
+ {
+  "source": "YouTube",
+  "title": "COMMUNITY CHANNEL Lunch Out Loud OBB(1970)",
+  "date": "",
+  "dateLabel": "",
+  "count": 55,
+  "countLabel": "views",
+  "thumb": "https://i.ytimg.com/vi/kBd5kZy0_4U/hqdefault.jpg",
+  "kind": "iframe",
+  "src": "https://www.youtube-nocookie.com/embed/kBd5kZy0_4U",
+  "url": "https://www.youtube.com/watch?v=kBd5kZy0_4U",
+  "query": "ytsearch \"old public access tv 1970\" views<=500",
+  "extra": "category: old tv \u00b7 16s",
+  "mined_at": "2026-11-15T16:34:48Z"
+ },
+ {
+  "source": "YouTube",
+  "title": "Ursurla and Hans in Germany 1965 (Part 6) 8mm Film",
+  "date": "",
+  "dateLabel": "",
+  "count": 231,
+  "countLabel": "views",
+  "thumb": "https://i.ytimg.com/vi/Lq-Ev1SODKQ/hqdefault.jpg",
+  "kind": "iframe",
+  "src": "https://www.youtube-nocookie.com/embed/Lq-Ev1SODKQ",
+  "url": "https://www.youtube.com/watch?v=Lq-Ev1SODKQ",
+  "query": "ytsearch \"super 8 family film 1966\" views<=500",
+  "extra": "category: old film \u00b7 233s",
+  "mined_at": "2026-11-15T16:34:49Z"
  }
 ]

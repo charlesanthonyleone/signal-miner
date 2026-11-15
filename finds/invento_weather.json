@@ -3678,5 +3678,25 @@
   "inventor": "Wollin Goesta",
   "module": "weather",
   "mined_at": "2026-11-15T06:50:58Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Improvements in Cyclone Separators for Removing Dust and other Solid Particles &hellip;",
+  "date": "1904-10-06",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/GB190418409A/en",
+  "query": "google patents q=\"tornado\" before 1960",
+  "extra": "patent GB190418409A \u00b7 inventor Robert John Fowler",
+  "patent_number": "GB190418409A",
+  "inventor": "Robert John Fowler",
+  "module": "weather",
+  "mined_at": "2026-11-15T16:37:35Z"
  }
 ]

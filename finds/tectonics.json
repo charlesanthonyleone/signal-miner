@@ -1256,5 +1256,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-15T06:46:50Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 75.3.192.0/18",
+  "date": "2026-11-15",
+  "dateLabel": "sampled",
+  "count": 320,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"75.3.192.0/18\",\n  \"origin\": \"7018\",\n  \"time\": \"2017-12-14T08:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"75.3.192.0/18\",\n  \"origin\": \"7018\",\n  \"time\": \"2026-11-15T08:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 320,\n   \"total_ris_peers\": 320\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 7018,\n   \"route_objects\": []\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/75.3.192.0/18",
+  "query": "RIPEstat routing-status 75.3.192.0/18",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-15T16:34:45Z"
  }
 ]

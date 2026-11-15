@@ -6898,5 +6898,25 @@
   "inventor": "Wiesner Wayne",
   "module": "abandoned",
   "mined_at": "2026-11-15T06:50:48Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Game apparatus",
+  "date": "2000-09-13",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/EP0744199B1/en",
+  "query": "google patents q=\"game apparatus\" cpc=A63F before 2000",
+  "extra": "patent EP0744199B1 \u00b7 inventor Takeichi c/oK.K. Bandai Hongo",
+  "patent_number": "EP0744199B1",
+  "inventor": "Takeichi c/oK.K. Bandai Hongo",
+  "module": "abandoned",
+  "mined_at": "2026-11-15T16:37:23Z"
  }
 ]

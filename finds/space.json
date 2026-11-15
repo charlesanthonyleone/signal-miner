@@ -5204,5 +5204,24 @@
   "extra": "center JPL \u00b7 nasa_id PIA26147 \u00b7 keywords Deep Space Network (DSN)",
   "module": "space",
   "mined_at": "2026-11-15T06:46:51Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "Roscosmos cosmonaut Sergey Ryzhikov during a spacewalk",
+  "date": "2025-10-16",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/iss073e0981126/iss073e0981126~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/iss073e0981126/iss073e0981126~thumb.jpg",
+  "preview": "iss073e0981126 (Oct. 16, 2025) --- Roscosmos cosmonaut Sergey Ryzhikov is pictured attached to the end effector of the European robotic arm, holding the high-resolution camera (HRC) monoblock he removed during a six-hour and nine-minute spacewalk outside the International Space Station's Roscosmos segment. The HRC monoblock is part of a scientific optical telescope system designed to test compact radio-optical detectors for Earth observation, ecological monitoring, and emergency response.",
+  "url": "https://images.nasa.gov/details/iss073e0981126",
+  "query": "images-api.nasa.gov q=\"radio telescope\"",
+  "extra": "center JSC \u00b7 nasa_id iss073e0981126 \u00b7 keywords ",
+  "module": "space",
+  "mined_at": "2026-11-15T16:34:46Z"
  }
 ]
