@@ -8898,5 +8898,25 @@
   "inventor": "Bry Edwin",
   "module": "expired",
   "mined_at": "2026-11-16T07:03:37Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Dispensing apparatus",
+  "date": "1924-05-27",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US1495194A/en",
+  "query": "google patents q=\"improved apparatus\" cpc=A47G before 1940",
+  "extra": "patent US1495194A \u00b7 inventor Albert W Mitchell",
+  "patent_number": "US1495194A",
+  "inventor": "Albert W Mitchell",
+  "module": "expired",
+  "mined_at": "2026-11-16T19:56:00Z"
  }
 ]

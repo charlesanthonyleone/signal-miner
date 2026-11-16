@@ -5854,5 +5854,53 @@
    ]
   ],
   "mined_at": "2026-11-16T06:48:11Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "theme055.out.gmi",
+  "url": "https://portal.mozz.us/gemini/gem.snork.ca/textfiles.com/occult/WORLDSCRIPTURE/theme055.out.gmi",
+  "gemini": "gemini://gem.snork.ca/textfiles.com/occult/WORLDSCRIPTURE/theme055.out.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 8156,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gem.snork.ca",
+  "preview": "Heresy\r\n                                World Scripture\r\n\r\n                                    HERESY\r\n\r\nAmong the most insidious causes of deviation from the religious path is the\r\nlure of false teaching, or heresy.  The scriptures of every major religion warn\r\nagainst it.  \"Heresy\" means opinion, and the wisdom of orthodox tradition is\r\nnot something to be denied or perverted on the basis of mere opinion.  The\r\northodox tradition carries with it the deposit of wisdom inherited from the\r\nfounders, prophets, saints, and sages who have had the surest and deepest\r\ninsight into truth.  It is rare that a novel teaching can hope to attain the\r\nsame level of insight.\r\n\r\nYet every genuine religion, when it was first born, was branded a heresy by the\r\nleaders of the orthodox establishment.  The founders of religion gave their\r\nteachings based on profound religious insights or new revelation, not mere\r\nopinion.  But how could members of the establishment orthodoxy know that?  How,\r\nbeyond the criterion of orthodoxy, do we distinguish a false teaching from a\r\ntrue one?  This requires careful discernment.\r\n\r\nThe fundamental error of heresy is that it deceives innocent people by leading\r\nthem ",
+  "query": "gemini search \"heresy\"",
+  "kw": "heresy",
+  "extra": "capsule: gem.snork.ca \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gem.snork.ca/textfiles.com/occult/WORLDSCRIPTURE/theme055.out.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-16T19:52:07Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Scott Pilgrim y yo",
+  "url": "https://portal.mozz.us/gemini/aperalesf.flounder.online/gemlog/2024-02-14_scott-pilgrim-y-yo.gmi",
+  "gemini": "gemini://aperalesf.flounder.online/gemlog/2024-02-14_scott-pilgrim-y-yo.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 4302,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "aperalesf.flounder.online",
+  "preview": "# Scott Pilgrim y yo\r\n\r\nUna entrada sobre Scott Pilgrim. Bastante larga. Si no conoces nada sobre el personaje, te basta con leer la introducci\u00f3n. Si ya conoces el personaje o no te importan los destripes, acomp\u00e1\u00f1ame en este viaje.\r\n\r\n## Una introducci\u00f3n breve pero suficiente\r\n\r\nLa primera vez que supe de este personaje fue en 2010, cuando hicieron la adaptaci\u00f3n al cine. No pude verla en pantalla grande: la quitaron muy r\u00e1pido de las salas a las que yo acud\u00eda y tuve que verla, descargada, en ingl\u00e9s con subt\u00edtulos. En 2011 y 2012 me le\u00ed los c\u00f3mics en la que se basa, y luego he visto la pel\u00edcula otras tantas veces, ya doblada.\r\n\r\nMe encanta Scott Pilgrim. Tanto los c\u00f3mics como la pel\u00edcula me parecen excepcionales y solo puedo recomendarlos. A todo el mundo. Sin falta.\r\n\r\nPor eso me emocion\u00e9 cuando supe que iban a hacer una serie de animaci\u00f3n basada en el personaje y me lanc\u00e9 de cabeza en el momento que se estren\u00f3 en Netflix. Y quiz\u00e1 por eso me decepcion\u00f3. Es fant\u00e1stica a nivel art\u00edstico, pero poco m\u00e1s.\r\n\r\n## La pel\u00edcula y los c\u00f3mics me encantan...\r\n\r\nPuede que Scott Pilgrim haya sido uno de los personajes que m\u00e1s me hayan marcado a lo largo de mi vida. Cuando vi los trailers de la pe",
+  "query": "gemini search \"pilgrim\"",
+  "kw": "pilgrim",
+  "extra": "capsule: aperalesf.flounder.online \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://aperalesf.flounder.online/gemlog/2024-02-14_scott-pilgrim-y-yo.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-16T19:52:07Z"
  }
 ]

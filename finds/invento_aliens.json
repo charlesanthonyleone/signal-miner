@@ -1518,5 +1518,25 @@
   "inventor": "Hans Lindemann",
   "module": "aliens",
   "mined_at": "2026-11-15T23:04:30Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Artificial planetary device for communication and interplanetary space &hellip;",
+  "date": "2000-01-21",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/JP2000022616A/en",
+  "query": "google patents q=\"interplanetary\" cpc=B64G before 2000",
+  "extra": "patent JP2000022616A \u00b7 inventor Takeshi Oshima",
+  "patent_number": "JP2000022616A",
+  "inventor": "Takeshi Oshima",
+  "module": "aliens",
+  "mined_at": "2026-11-16T19:56:14Z"
  }
 ]

@@ -1290,5 +1290,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-16T06:44:14Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 64.233.179.0/24",
+  "date": "2026-11-16",
+  "dateLabel": "sampled",
+  "count": 316,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"64.233.179.0/24\",\n  \"origin\": \"15169\",\n  \"time\": \"2004-06-29T00:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"64.233.179.0/24\",\n  \"origin\": \"15169\",\n  \"time\": \"2026-11-16T16:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 316,\n   \"total_ris_peers\": 317\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 15169,\n   \"route_objects\": [\n    \"RADB\"\n   ]\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/64.233.179.0/24",
+  "query": "RIPEstat routing-status 64.233.179.0/24",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-16T19:46:48Z"
  }
 ]

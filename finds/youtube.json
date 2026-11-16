@@ -9388,5 +9388,50 @@
   "query": "ytsearch \"home movie 8mm 1941\" views<=500",
   "extra": "category: old film \u00b7 13253s",
   "mined_at": "2026-11-16T06:44:19Z"
+ },
+ {
+  "source": "YouTube",
+  "title": "24K CAPACITY FUEL TANK",
+  "date": "",
+  "dateLabel": "",
+  "count": 85,
+  "countLabel": "views",
+  "thumb": "https://i.ytimg.com/vi/IuWLUT0IpeQ/hqdefault.jpg",
+  "kind": "iframe",
+  "src": "https://www.youtube-nocookie.com/embed/IuWLUT0IpeQ",
+  "url": "https://www.youtube.com/watch?v=IuWLUT0IpeQ",
+  "query": "ytsearch \"PICT 7210\" views<=100",
+  "extra": "category: raw clip \u00b7 52s",
+  "mined_at": "2026-11-16T19:46:50Z"
+ },
+ {
+  "source": "YouTube",
+  "title": "Crowded Out \u2013 1950s Educational Film on Overcrowded Schools",
+  "date": "",
+  "dateLabel": "",
+  "count": 66,
+  "countLabel": "views",
+  "thumb": "https://i.ytimg.com/vi/YRId96f5WAE/hqdefault.jpg",
+  "kind": "iframe",
+  "src": "https://www.youtube-nocookie.com/embed/YRId96f5WAE",
+  "url": "https://www.youtube.com/watch?v=YRId96f5WAE",
+  "query": "ytsearch \"old educational film 1988\" views<=500",
+  "extra": "category: old film \u00b7 1674s",
+  "mined_at": "2026-11-16T19:46:53Z"
+ },
+ {
+  "source": "YouTube",
+  "title": "Preschool Show (Danny) - Tetzlaff Home Movies (1988)",
+  "date": "",
+  "dateLabel": "",
+  "count": 374,
+  "countLabel": "views",
+  "thumb": "https://i.ytimg.com/vi/DAFdJXS1Too/hqdefault.jpg",
+  "kind": "iframe",
+  "src": "https://www.youtube-nocookie.com/embed/DAFdJXS1Too",
+  "url": "https://www.youtube.com/watch?v=DAFdJXS1Too",
+  "query": "ytsearch \"old educational film 1988\" views<=500",
+  "extra": "category: old film \u00b7 498s",
+  "mined_at": "2026-11-16T19:46:53Z"
  }
 ]
