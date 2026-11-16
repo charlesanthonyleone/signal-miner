@@ -8278,5 +8278,25 @@
   "inventor": "",
   "module": "modernuse",
   "mined_at": "2026-11-15T23:04:19Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Method and apparatus for correcting time in an electronic wristwatch",
+  "date": "1977-08-02",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/USRE29327E/en",
+  "query": "google patents q=\"clockwork\" cpc=G04B before 2000",
+  "extra": "patent USRE29327E \u00b7 inventor Hideaki Yasukawa",
+  "patent_number": "USRE29327E",
+  "inventor": "Hideaki Yasukawa",
+  "module": "modernuse",
+  "mined_at": "2026-11-16T07:03:39Z"
  }
 ]

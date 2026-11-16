@@ -5280,5 +5280,24 @@
   "extra": "center KSC \u00b7 nasa_id KSC-08pd0653 \u00b7 keywords ",
   "module": "space",
   "mined_at": "2026-11-15T23:01:00Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "NICER Mission",
+  "date": "2017-12-08",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000037/GSFC_20171208_Archive_e000037~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000037/GSFC_20171208_Archive_e000037~thumb.jpg",
+  "preview": "This video previews the Neutron star Interior Composition Explorer (NICER). NICER is an Astrophysics Mission of Opportunity within NASA\u2019s Explorer program, which provides frequent flight opportunities for world-class scientific investigations from space utilizing innovative, streamlined and efficient management approaches within the heliophysics and astrophysics science areas. NASA\u2019s Space Technology Mission Directorate supports the SEXTANT component of the mission, demonstrating pulsar-based sp",
+  "url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000037",
+  "query": "images-api.nasa.gov q=\"pulsar\"",
+  "extra": "center GSFC \u00b7 nasa_id GSFC_20171208_Archive_e000037 \u00b7 keywords NICER Mission",
+  "module": "space",
+  "mined_at": "2026-11-16T06:44:15Z"
  }
 ]

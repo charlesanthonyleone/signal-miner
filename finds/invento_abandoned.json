@@ -6978,5 +6978,25 @@
   "inventor": "Albee Wilder Jerome",
   "module": "abandoned",
   "mined_at": "2026-11-15T23:04:17Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Three wheel vehicle",
+  "date": "1975-09-30",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US3909043A/en",
+  "query": "google patents q=\"vehicle\" cpc=B62K before 1980",
+  "extra": "patent US3909043A \u00b7 inventor Marion Homer Black",
+  "patent_number": "US3909043A",
+  "inventor": "Marion Homer Black",
+  "module": "abandoned",
+  "mined_at": "2026-11-16T07:03:37Z"
  }
 ]

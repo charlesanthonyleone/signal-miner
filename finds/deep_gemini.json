@@ -5830,5 +5830,29 @@
    ]
   ],
   "mined_at": "2026-11-14T22:37:30Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "KDE neon Docker Images now in KDE Invent Container Registry and This Week in GNOME",
+  "url": "https://portal.mozz.us/gemini/gemini.tuxmachines.org/n/2023/04/30/KDE_neon_Docker_Images_now_in_KDE_Invent_Container_Registry_and.gmi",
+  "gemini": "gemini://gemini.tuxmachines.org/n/2023/04/30/KDE_neon_Docker_Images_now_in_KDE_Invent_Container_Registry_and.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 1395,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gemini.tuxmachines.org",
+  "preview": "Tux Machines\n\n# KDE neon Docker Images now in KDE Invent Container Registry and This Week in GNOME\n\nPosted by Roy Schestowitz on Apr 30, 2023\n\n=>\t/n/2023/04/30/Security_and_Proprietary_Issues_Focusing_on_Microsoft_Abuses.gmi\tSecurity and Proprietary Issues, Focusing on Microsoft Abuses\n=>\t/n/2023/04/30/Programming_Leftovers.gmi\tProgramming Leftovers\n\n\n###  KDE neon Docker Images now in KDE Invent Container Registry\n\n=>\thttps://blog.neon.kde.org/2023/04/28/kde-neon-docker-images-now-in-kde-invent-container-registry/\t\u21ba KDE neon Docker Images now in KDE Invent Container Registry\n\n> KDE neon has long had Docker images so you can run the latest KDE software without the faff of an operating system install. We've just moved the host for these into the KDE Invent server.\n\n> https://invent.kde.org/neon/docker-images/container_registry\n\n=>\thttps://invent.kde.org/neon/docker-images/container_registry\t\u21ba https://invent.kde.org/neon/docker-images/container_registry\n\n> You can get the neondocker script to run them\n\n=>\thttps://invent.kde.org/neon/docker-images/container_registry\t\u21ba https://invent.kde.org/neon/docker-images/container_registry\n\n \n### Felix H\u00e4cker: #93 Snapshot\n\n=>\thttps://thisweek.gn",
+  "query": "gemini search \"invention\"",
+  "kw": "invention",
+  "extra": "capsule: gemini.tuxmachines.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gemini.tuxmachines.org/n/2023/04/30/KDE_neon_Docker_Images_now_in_KDE_Invent_Container_Registry_and.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-16T06:48:11Z"
  }
 ]
