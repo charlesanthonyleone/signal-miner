@@ -5902,5 +5902,29 @@
    ]
   ],
   "mined_at": "2026-11-16T19:52:07Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Halfway Done With 2-Bit Game Boy Tarot Card Project",
+  "url": "https://portal.mozz.us/gemini/vigrey.com/journal/halfway-done-with-2-bit-game-boy-tarot-card-project.gmi",
+  "gemini": "gemini://vigrey.com/journal/halfway-done-with-2-bit-game-boy-tarot-card-project.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 2638,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "vigrey.com",
+  "preview": "# Halfway Done With 2-Bit Game Boy Tarot Card Project\n2024-03-21 - [53] 1:1\n\nIn the end of February 2022, I decided to start working on a Game Boy homebrew game project.  That project was a tarot card reader for the Game Boy.  The complicated part of that project though is that I need the tarot card designs to be converted to something the Game Boy can use, so I have slowly been working on those designs since.\n\nAt the beginning of 2024, I only had 8 designs done out of the 78 tarot cards.  One of my 2024 new year resolutions was to try and do 1 card design each week in 2024, which would get my total up to 60 or 61 at the end of the year out of 78.  I have been blowing past that rate though!  This is the 14th week of 2024 and I have done 31 designs this year.  That means I'm at 39 out of 78, which is halfway through!  I can now comfortably do only 1 a week if I wanted to and be done by the Winter Solstice.\n\nThese Game Boy tarot card designs are the Rider Waite cards designed by Pamela Colman Smith.  The Rider Waite deck designs were first published around 1909 and are in the public domain, so I decided to use those designs.  Creative liberties had to be used to shrink the card desig",
+  "query": "gemini search \"tarot\"",
+  "kw": "tarot",
+  "extra": "capsule: vigrey.com \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://vigrey.com/journal/halfway-done-with-2-bit-game-boy-tarot-card-project.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-17T04:08:09Z"
  }
 ]
