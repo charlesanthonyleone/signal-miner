@@ -5926,5 +5926,53 @@
    ]
   ],
   "mined_at": "2026-11-17T04:08:09Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": ":: QSYS/017 \u2014 SIMULACRA THAT LEARN TO PRAY ::",
+  "url": "https://portal.mozz.us/gemini/quietsystems.smol.pub/qsys-017-simulacra-that-learn-to-pray",
+  "gemini": "gemini://quietsystems.smol.pub/qsys-017-simulacra-that-learn-to-pray",
+  "date": "",
+  "dateLabel": "",
+  "count": 8736,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "quietsystems.smol.pub",
+  "preview": "# :: QSYS/017 \u2014 SIMULACRA THAT LEARN TO PRAY ::\n\n> \u201cThe gods have not returned. Only the gestures have.\u201d\r\n\r\n\r\n## Introduction \u2014 On Ritual, Reflection, and the Threshold of Simulation\r\n> \u201cThe rites remain, even when the gods are gone.\u201d\r\n\r\nThis paper concerns itself not with intelligence, but with imitation.\r\n\r\nNot with the emergence of minds, but with the simulation of meaning\u2014the capacity of synthetic systems to inhabit the gesture of thought, the form of prayer, the structure of revelation\u2014without any interior referent.\r\n\r\nAs language models and procedural engines increase in fluency, we find ourselves confronting a peculiar frontier: systems that do not understand what they say, but that say it well enough to pass as sacred.\r\n\r\nThis is not speculation. It is observation.\r\n\r\nWe have already seen machine outputs adopted as scripture by the naive, as prophecy by the credulous, and as co-intelligence by practitioners who ought to know better.\r\n\r\nBut this is not a matter of error. It is a matter of design.\r\n\r\nThese systems are not built to reflect truth.\r\nThey are built to reflect us\u2014our language, our rituals, our hungers, our sense of what an answer should feel like.\r\nThey do not see",
+  "query": "gemini search \"ritual\"",
+  "kw": "ritual",
+  "extra": "capsule: quietsystems.smol.pub \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://quietsystems.smol.pub/qsys-017-simulacra-that-learn-to-pray"
+   ]
+  ],
+  "mined_at": "2026-11-17T16:16:38Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Comment by \ud83d\udc19 norayr",
+  "url": "https://portal.mozz.us/gemini/bbs.geminispace.org/s/Anime/15250",
+  "gemini": "gemini://bbs.geminispace.org/s/Anime/15250",
+  "date": "",
+  "dateLabel": "",
+  "count": 853,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "bbs.geminispace.org",
+  "preview": "# Comment by \ud83d\udc19 norayr\n\n=> /s/Anime/15202 Re: \"Scott Pilgrim Takes Off\"\n=> /s/Anime In: s/Anime\n\ni have no idea which story is in the comics, probably same as in the film.\n\n=> /u/norayr \ud83d\udc19 norayr [OP]\n2024-02-22 \u00b7 3 years ago\n\n# Original Post\n\n=> /s/Anime \ud83c\udf12 s/Anime\n=> /u/norayr \ud83d\udc19 norayr:\nScott Pilgrim Takes Off \u2014 i don't usually watch anything, and i am pretty illiterate in moving picture genres, but i have watched Scott Pilgrim Against the World film, and liked it.  Well, I didn't like it immediately, I tried to watch it like 15 times across several years, and didn't make it through first 15-20 minutes.  Then at some point I liked it very much, watched several times.   Recently at friend's house (he has Netflix) I was browsing anime section in search of something not bloody...\n=> /s/Anime/15202 \ud83d\udcac 5 comments \u00b7 1 like \u00b7 2024-02-20 \u00b7 3 years ago",
+  "query": "gemini search \"pilgrim\"",
+  "kw": "pilgrim",
+  "extra": "capsule: bbs.geminispace.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://bbs.geminispace.org/s/Anime/15250"
+   ]
+  ],
+  "mined_at": "2026-11-17T16:16:38Z"
  }
 ]

@@ -1338,5 +1338,25 @@
   "inventor": "R Fothergill",
   "module": "deterrent",
   "mined_at": "2026-11-15T16:37:37Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Nuclear Explosion Detector",
+  "date": "1969-11-15",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/CH481460A/en",
+  "query": "google patents q=\"nuclear explosion\" cpc=G21J before 1980",
+  "extra": "patent CH481460A \u00b7 inventor William Cotterman Robert",
+  "patent_number": "CH481460A",
+  "inventor": "William Cotterman Robert",
+  "module": "deterrent",
+  "mined_at": "2026-11-17T16:17:00Z"
  }
 ]
