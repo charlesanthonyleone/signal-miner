@@ -5394,5 +5394,24 @@
   "extra": "center GSFC \u00b7 nasa_id GSFC_20171208_Archive_e000045 \u00b7 keywords Neutron star Interior Composition Explorer (NICER)",
   "module": "space",
   "mined_at": "2026-11-18T11:57:50Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "Astronomers Find the First 'Wind Nebula' Around a Rare Ultra-Magnetic Neutron Star",
+  "date": "2016-06-21",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/astronomers-find-the-first-wind-nebula-around-a-rare-ultra-magnetic-neutron-star_27744663791_o/astronomers-find-the-first-wind-nebula-around-a-rare-ultra-magnetic-neutron-star_27744663791_o~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/astronomers-find-the-first-wind-nebula-around-a-rare-ultra-magnetic-neutron-star_27744663791_o/astronomers-find-the-first-wind-nebula-around-a-rare-ultra-magnetic-neutron-star_27744663791_o~thumb.jpg",
+  "preview": "Astronomers have discovered a vast cloud of high-energy particles called a wind nebula around a rare ultra-magnetic neutron star, or magnetar, for the first time. The find offers a unique window into the properties, environment and outburst history of magnetars, which are the strongest magnets in the universe.  A neutron star is the crushed core of a massive star that ran out of fuel, collapsed under its own weight, and exploded as a supernova. Each one compresses the equivalent mass of half a m",
+  "url": "https://images.nasa.gov/details/astronomers-find-the-first-wind-nebula-around-a-rare-ultra-magnetic-neutron-star_27744663791_o",
+  "query": "images-api.nasa.gov q=\"pulsar\"",
+  "extra": "center GSFC \u00b7 nasa_id astronomers-find-the-first-wind-nebula-around-a-rare-ultra-magnetic-neutron-star_27744663791_o \u00b7 keywords Neutron Star, start",
+  "module": "space",
+  "mined_at": "2026-11-18T20:45:59Z"
  }
 ]

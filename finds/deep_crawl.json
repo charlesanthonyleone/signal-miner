@@ -6862,5 +6862,37 @@
   "query": "CC-MAIN-2026-39 url=*.md/* page=0",
   "extra": "mime text/html \u00b7 status 200 \u00b7 host 001.md",
   "mined_at": "2026-11-18T11:52:51Z"
+ },
+ {
+  "source": "Common Crawl",
+  "title": "beat.doebe.li/bibliothek/b03472.html",
+  "date": "2026-09-10",
+  "dateLabel": "captured",
+  "count": 12013,
+  "countLabel": "bytes (warc)",
+  "kind": "meta",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "text/html",
+  "preview": "(open source link for live text \u2014 pre-mined metadata only)",
+  "url": "https://beat.doebe.li/bibliothek/b03472.html",
+  "query": "CC-MAIN-2026-39 url=*.li/* page=3",
+  "extra": "mime text/html \u00b7 status 200 \u00b7 host beat.doebe.li",
+  "mined_at": "2026-11-18T20:38:14Z"
+ },
+ {
+  "source": "Common Crawl",
+  "title": "beat.doebe.li/bibliothek/b03481.html",
+  "date": "2026-09-16",
+  "dateLabel": "captured",
+  "count": 6385,
+  "countLabel": "bytes (warc)",
+  "kind": "meta",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "text/html",
+  "preview": "(open source link for live text \u2014 pre-mined metadata only)",
+  "url": "https://beat.doebe.li/bibliothek/b03481.html",
+  "query": "CC-MAIN-2026-39 url=*.li/* page=3",
+  "extra": "mime text/html \u00b7 status 200 \u00b7 host beat.doebe.li",
+  "mined_at": "2026-11-18T20:38:14Z"
  }
 ]
