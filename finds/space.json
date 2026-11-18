@@ -5375,5 +5375,24 @@
   "extra": "center KSC \u00b7 nasa_id KSC-20211105-PH-ILW01_0098 \u00b7 keywords CCSFS, Cape Canaveral Space Force Station, IXPE, Imaging X-ray Polarimetry Explorer, KSC, Kennedy Space Center",
   "module": "space",
   "mined_at": "2026-11-17T16:13:44Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "Neutron star Interior Composition Explorer (NICER)",
+  "date": "2017-12-08",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000045/GSFC_20171208_Archive_e000045~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000045/GSFC_20171208_Archive_e000045~thumb.jpg",
+  "preview": "NICER team members Takashi Okajima, Yang Soong, and Steven Kenyon apply epoxy to the X-ray concentrator mounts after alignment. The epoxy holds the optics assemblies fixed in position through the vibrations experienced during launch to the International Space Station.  The payload\u2019s 56 mirror assemblies concentrate X-rays onto silicon detectors to gather data that will probe the interior makeup of neutron stars, including those that appear to flash regularly, called pulsars.  The Neutron star In",
+  "url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000045",
+  "query": "images-api.nasa.gov q=\"pulsar\"",
+  "extra": "center GSFC \u00b7 nasa_id GSFC_20171208_Archive_e000045 \u00b7 keywords Neutron star Interior Composition Explorer (NICER)",
+  "module": "space",
+  "mined_at": "2026-11-18T11:57:50Z"
  }
 ]

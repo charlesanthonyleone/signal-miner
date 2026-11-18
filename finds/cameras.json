@@ -12557,5 +12557,43 @@
   "extra": "agency-published traffic cam \u00b7 (C077) I-15 : I-8 \u00b7 HLS: https://wzmedia.dot.ca.gov/D11/C077_SB_15_at_I-8.stream/playlist.m3u8 \u00b7 no auth \u00b7 not scanned by us",
   "module": "cameras",
   "mined_at": "2026-11-18T01:03:40Z"
+ },
+ {
+  "source": "Caltrans public CCTV",
+  "title": "FRE-99-AT VETERANS BLVD",
+  "date": "2024-01-10",
+  "dateLabel": "frame",
+  "count": null,
+  "countLabel": "",
+  "kind": "cam",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "image/jpeg",
+  "thumb": "https://cwwp2.dot.ca.gov/data/d6/cctv/image/fre99atveteransblvd/fre99atveteransblvd.jpg",
+  "src": "https://cwwp2.dot.ca.gov/data/d6/cctv/image/fre99atveteransblvd/fre99atveteransblvd.jpg",
+  "url": "https://cwwp2.dot.ca.gov/data/d6/cctv/image/fre99atveteransblvd/fre99atveteransblvd.jpg",
+  "preview": "still \u00b7 image/jpeg\nSR-99 \u00b7 Fresno, CA\npublic highway CCTV (agency-published)",
+  "query": "Caltrans open JSON d6",
+  "extra": "agency-published traffic cam \u00b7 FRE-99-AT VETERANS BLVD \u00b7 HLS: https://wzmedia.dot.ca.gov/D6/99_Veterans_Blvd.stream/playlist.m3u8 \u00b7 no auth \u00b7 not scanned by us",
+  "module": "cameras",
+  "mined_at": "2026-11-18T11:57:28Z"
+ },
+ {
+  "source": "Caltrans public CCTV",
+  "title": "TUL-198-AT AKERS ST",
+  "date": "2023-08-23",
+  "dateLabel": "frame",
+  "count": null,
+  "countLabel": "",
+  "kind": "cam",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "image/jpeg",
+  "thumb": "https://cwwp2.dot.ca.gov/data/d6/cctv/image/tul198atakersst/tul198atakersst.jpg",
+  "src": "https://cwwp2.dot.ca.gov/data/d6/cctv/image/tul198atakersst/tul198atakersst.jpg",
+  "url": "https://cwwp2.dot.ca.gov/data/d6/cctv/image/tul198atakersst/tul198atakersst.jpg",
+  "preview": "still \u00b7 image/jpeg\nSR-198 \u00b7 Tulare, CA\npublic highway CCTV (agency-published)",
+  "query": "Caltrans open JSON d6",
+  "extra": "agency-published traffic cam \u00b7 TUL-198-AT AKERS ST \u00b7 HLS: https://wzmedia.dot.ca.gov/D6/198_Akers.stream/playlist.m3u8 \u00b7 no auth \u00b7 not scanned by us",
+  "module": "cameras",
+  "mined_at": "2026-11-18T11:57:28Z"
  }
 ]
