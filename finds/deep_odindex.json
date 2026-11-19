@@ -72854,5 +72854,117 @@
    ]
   ],
   "mined_at": "2026-11-19T11:57:24Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "Packages-puppy-common-official",
+  "date": "23-Oct-2017 04:42",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "72K",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/puppylinux/Packages-puppy-common-official",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 72K \u00b7 23-Oct-2017 04:42 \u00b7 in https://ftp.ussg.iu.edu/linux/puppylinux/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/puppylinux/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/puppylinux/"
+   ]
+  ],
+  "mined_at": "2026-11-19T20:55:09Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "update-fullfiletimelist.lock",
+  "date": "16-Nov-2026 19:03",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "0",
+  "ftype": "other",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/fedora/update-fullfiletimelist.lock",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "other \u00b7 0 \u00b7 16-Nov-2026 19:03 \u00b7 in https://ftp.ussg.iu.edu/linux/fedora/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/fedora/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/fedora/"
+   ]
+  ],
+  "mined_at": "2026-11-19T20:55:09Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "fullfilelist",
+  "date": "18-Nov-2026 23:43",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "169M",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/fedora/fullfilelist",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 169M \u00b7 18-Nov-2026 23:43 \u00b7 in https://ftp.ussg.iu.edu/linux/fedora/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/fedora/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/fedora/"
+   ]
+  ],
+  "mined_at": "2026-11-19T20:55:09Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "Packages-puppy-common64-official",
+  "date": "06-Apr-2018 14:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "4211",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/puppylinux/Packages-puppy-common64-official",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 4211 \u00b7 06-Apr-2018 14:54 \u00b7 in https://ftp.ussg.iu.edu/linux/puppylinux/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/puppylinux/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/puppylinux/"
+   ]
+  ],
+  "mined_at": "2026-11-19T20:55:09Z"
  }
 ]

@@ -7150,5 +7150,37 @@
   "query": "CC-MAIN-2026-39 url=*.kg/* page=7",
   "extra": "mime text/html \u00b7 status 200 \u00b7 host doctorkey.kg",
   "mined_at": "2026-11-19T11:50:04Z"
+ },
+ {
+  "source": "Common Crawl",
+  "title": "agronews.ge/phutkris-ojakhis-thavdatsvisunarianoba/",
+  "date": "2026-09-09",
+  "dateLabel": "captured",
+  "count": 24510,
+  "countLabel": "bytes (warc)",
+  "kind": "meta",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "text/html",
+  "preview": "(open source link for live text \u2014 pre-mined metadata only)",
+  "url": "https://agronews.ge/phutkris-ojakhis-thavdatsvisunarianoba/",
+  "query": "CC-MAIN-2026-39 url=*.ge/* page=2",
+  "extra": "mime text/html \u00b7 status 200 \u00b7 host agronews.ge",
+  "mined_at": "2026-11-19T20:43:20Z"
+ },
+ {
+  "source": "Common Crawl",
+  "title": "agronews.ge/phutkris-ojakhebis-movlis-kalendari-dasavleth-saqarthvelosthvis-thveebis-mikhedvith/",
+  "date": "2026-09-10",
+  "dateLabel": "captured",
+  "count": 28657,
+  "countLabel": "bytes (warc)",
+  "kind": "meta",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "text/html",
+  "preview": "(open source link for live text \u2014 pre-mined metadata only)",
+  "url": "https://agronews.ge/phutkris-ojakhebis-movlis-kalendari-dasavleth-saqarthvelosthvis-thveebis-mikhedvith/",
+  "query": "CC-MAIN-2026-39 url=*.ge/* page=2",
+  "extra": "mime text/html \u00b7 status 200 \u00b7 host agronews.ge",
+  "mined_at": "2026-11-19T20:43:20Z"
  }
 ]
