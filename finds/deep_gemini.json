@@ -5974,5 +5974,29 @@
    ]
   ],
   "mined_at": "2026-11-17T16:16:38Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "Today in Techrights",
+  "url": "https://portal.mozz.us/gemini/gemini.tuxmachines.org/n/2024/01/30/Today_in_Techrights.gmi",
+  "gemini": "gemini://gemini.tuxmachines.org/n/2024/01/30/Today_in_Techrights.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 5181,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gemini.tuxmachines.org",
+  "preview": "Tux Machines\n\n# Today in Techrights\n\nPosted by Roy Schestowitz on Jan 30, 2024\n\n=>\t/n/2024/01/30/This_education_based_Linux_distro_is_designed_for_schools_and_i.gmi\tThis education-based Linux distro is designed for schools - and it's free\n=>\t/n/2024/01/30/Programming_and_Open_Hardware_Modding.gmi\tProgramming and Open Hardware/Modding\n\n=>\thttps://news.tuxmachines.org/i/2024/01/animals-1386333240OTx.thumbnail.jpg\t\u21ba Penguins isolate on the black background\n\n### Updated This Past Day\n\n* 1 \n###  European Patent Office Leak: Latest Procedures Help Violate the European Patent Convention (EPC) Under the Guise of 'Active Search Division'\n\n=>\thttp://techrights.org/n/2024/01/29/European_Patent_Office_Leak_Latest_Procedures_Help_Violate_the_.shtml\t\u21ba European Patent Office Leak: Latest Procedures Help Violate the European Patent Convention (EPC) Under the Guise of 'Active Search Division'\n\nnew leak \n\n* 2 \n###  My Husband's Reply to Our Webhost After False Accusations, Perjury, and Crimes Committed Against Me and My Family (Including Parents and Siblings)\n\n=>\thttp://techrights.org/n/2024/01/29/My_Husband_s_Reply_to_Our_Webhost_After_False_Accusations_Perju.shtml\t\u21ba My Husband's Reply to Our Webho",
+  "query": "gemini search \"patent\"",
+  "kw": "patent",
+  "extra": "capsule: gemini.tuxmachines.org \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gemini.tuxmachines.org/n/2024/01/30/Today_in_Techrights.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-19T11:59:03Z"
  }
 ]

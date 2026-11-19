@@ -7118,5 +7118,37 @@
   "query": "CC-MAIN-2026-39 url=*.io/* page=6",
   "extra": "mime text/html \u00b7 status 200 \u00b7 host www.a-ha.io",
   "mined_at": "2026-11-19T02:38:47Z"
+ },
+ {
+  "source": "Common Crawl",
+  "title": "doctorkey.kg/question/good-online-gambling-strategies-986175413668833/",
+  "date": "2026-09-08",
+  "dateLabel": "captured",
+  "count": 10131,
+  "countLabel": "bytes (warc)",
+  "kind": "meta",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "text/html",
+  "preview": "(open source link for live text \u2014 pre-mined metadata only)",
+  "url": "https://doctorkey.kg/question/good-online-gambling-strategies-986175413668833/",
+  "query": "CC-MAIN-2026-39 url=*.kg/* page=7",
+  "extra": "mime text/html \u00b7 status 200 \u00b7 host doctorkey.kg",
+  "mined_at": "2026-11-19T11:50:04Z"
+ },
+ {
+  "source": "Common Crawl",
+  "title": "doctorkey.kg/question/good-online-gambling-agent-34929953/",
+  "date": "2026-09-11",
+  "dateLabel": "captured",
+  "count": 10356,
+  "countLabel": "bytes (warc)",
+  "kind": "meta",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "text/html",
+  "preview": "(open source link for live text \u2014 pre-mined metadata only)",
+  "url": "https://doctorkey.kg/question/good-online-gambling-agent-34929953/",
+  "query": "CC-MAIN-2026-39 url=*.kg/* page=7",
+  "extra": "mime text/html \u00b7 status 200 \u00b7 host doctorkey.kg",
+  "mined_at": "2026-11-19T11:50:04Z"
  }
 ]
