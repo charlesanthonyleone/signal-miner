@@ -12714,5 +12714,22 @@
   "bucket": null,
   "extra": "bucket: unsorted \u00b7 original: http://www.lysator.liu.se:80/(eng)/~luttoh/SONG/SCOUT/jag_vill_inte_skramma.txt \u00b7 host: www.lysator.liu.se",
   "mined_at": "2026-11-20T11:55:23Z"
+ },
+ {
+  "source": "Open Directory .txt",
+  "title": "ftp.funet.fi/pub/culture/music/western/Jarre,Jean-Michel/talk-notes",
+  "date": "",
+  "dateLabel": "seen",
+  "count": 547,
+  "countLabel": "chars read",
+  "kind": "meta",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "text/plain",
+  "preview": "\nTalk show with Jean-Michel Jarre and Bernard Clavel (book writer).\n\ne-mail http://www.tv5.org\n17 juin production/tv5\navril 1998\n\nMaterial seen in the program:\n -a CD sized (was it CD?) print \"Rendez-vous '98\"\n -Oxygene 7-13 CD\n -Images, the best of J.M.J.\n  The cover photo is cut slightly differently than in my copy:\n  there is more sky visible between Jarre and the right edge of\n  the photo. Also there were a white label perhaps telling about\n  extra tracks or such. Perhaps the CD in the program is one of\n  those 20-bit mastered copies. \n\n",
+  "url": "https://ftp.funet.fi/pub/culture/music/western/Jarre,Jean-Michel/talk-notes",
+  "query": "random descent from https://ftp.funet.fi/pub/culture/",
+  "bucket": null,
+  "extra": "bucket: unsorted \u00b7 dir: https://ftp.funet.fi/pub/culture/music/western/Jarre,Jean-Michel/",
+  "mined_at": "2026-11-20T20:33:02Z"
  }
 ]

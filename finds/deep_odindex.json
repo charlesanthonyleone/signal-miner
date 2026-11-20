@@ -74282,5 +74282,1769 @@
    ]
   ],
   "mined_at": "2026-11-20T11:58:08Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-20261115.tar.bz2.umd5sum",
+  "date": "2026-11-16 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "55",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-20261115.tar.bz2.umd5sum",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 55 \u00b7 2026-11-16 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-20261118.tar.bz2.gpgsig",
+  "date": "2026-11-19 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.0K",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-20261118.tar.bz2.gpgsig",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1.0K \u00b7 2026-11-19 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-20261112.tar.xz.gpgsig",
+  "date": "2026-11-13 00:51",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.0K",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-20261112.tar.xz.gpgsig",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1.0K \u00b7 2026-11-13 00:51 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-20261115.tar.bz2.md5sum",
+  "date": "2026-11-16 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "59",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-20261115.tar.bz2.md5sum",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 59 \u00b7 2026-11-16 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-20261114.tar.bz2.gpgsig",
+  "date": "2026-11-15 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.0K",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-20261114.tar.bz2.gpgsig",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1.0K \u00b7 2026-11-15 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gentoo-20261119.tar.xz.md5sum",
+  "date": "2026-11-20 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "57",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/gentoo-20261119.tar.xz.md5sum",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 57 \u00b7 2026-11-20 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gentoo-20261112.tar.xz.md5sum",
+  "date": "2026-11-13 00:51",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "57",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/gentoo-20261112.tar.xz.md5sum",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 57 \u00b7 2026-11-13 00:51 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gentoo-20261119.tar.xz",
+  "date": "2026-11-20 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "48M",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/gentoo-20261119.tar.xz",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 48M \u00b7 2026-11-20 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-20261115.tar.bz2",
+  "date": "2026-11-16 00:45",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "57M",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-20261115.tar.bz2",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 57M \u00b7 2026-11-16 00:45 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-20261116.tar.xz.gpgsig",
+  "date": "2026-11-17 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.0K",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-20261116.tar.xz.gpgsig",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1.0K \u00b7 2026-11-17 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gentoo-20261118.tar.xz",
+  "date": "2026-11-19 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "48M",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/gentoo-20261118.tar.xz",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 48M \u00b7 2026-11-19 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-20261115.tar.xz.umd5sum",
+  "date": "2026-11-16 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "55",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-20261115.tar.xz.umd5sum",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 55 \u00b7 2026-11-16 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gentoo-20261116.tar.xz",
+  "date": "2026-11-17 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "48M",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/gentoo-20261116.tar.xz",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 48M \u00b7 2026-11-17 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-latest.tar.xz",
+  "date": "2026-11-20 00:48",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "48M",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-latest.tar.xz",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 48M \u00b7 2026-11-20 00:48 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gentoo-20261114.tar.xz.md5sum",
+  "date": "2026-11-15 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "57",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/gentoo-20261114.tar.xz.md5sum",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 57 \u00b7 2026-11-15 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-20261112.tar.bz2.umd5sum",
+  "date": "2026-11-13 00:51",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "55",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-20261112.tar.bz2.umd5sum",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 55 \u00b7 2026-11-13 00:51 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gentoo-latest.tar.xz",
+  "date": "2026-11-20 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "48M",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/gentoo-latest.tar.xz",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 48M \u00b7 2026-11-20 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-20261113.tar.bz2.umd5sum",
+  "date": "2026-11-14 00:51",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "55",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-20261113.tar.bz2.umd5sum",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 55 \u00b7 2026-11-14 00:51 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-20261118.tar.xz",
+  "date": "2026-11-19 00:48",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "48M",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-20261118.tar.xz",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 48M \u00b7 2026-11-19 00:48 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-20261118.tar.xz.md5sum",
+  "date": "2026-11-19 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "58",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-20261118.tar.xz.md5sum",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 58 \u00b7 2026-11-19 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gentoo-20261116.tar.xz.md5sum",
+  "date": "2026-11-17 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "57",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/gentoo-20261116.tar.xz.md5sum",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 57 \u00b7 2026-11-17 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-20261119.tar.bz2.gpgsig",
+  "date": "2026-11-20 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.0K",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-20261119.tar.bz2.gpgsig",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1.0K \u00b7 2026-11-20 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-20261113.tar.xz.umd5sum",
+  "date": "2026-11-14 00:51",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "55",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-20261113.tar.xz.umd5sum",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 55 \u00b7 2026-11-14 00:51 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gentoo-latest.tar.xz.gpgsig",
+  "date": "2026-11-20 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.0K",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/gentoo-latest.tar.xz.gpgsig",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1.0K \u00b7 2026-11-20 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-20261112.tar.bz2",
+  "date": "2026-11-13 00:45",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "57M",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-20261112.tar.bz2",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 57M \u00b7 2026-11-13 00:45 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gentoo-latest.tar.xz.md5sum",
+  "date": "2026-11-20 00:52",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "55",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/gentoo-latest.tar.xz.md5sum",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 55 \u00b7 2026-11-20 00:52 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-latest.tar.bz2.gpgsig",
+  "date": "2026-11-20 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.0K",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-latest.tar.bz2.gpgsig",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1.0K \u00b7 2026-11-20 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-20261117.tar.bz2.gpgsig",
+  "date": "2026-11-18 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.0K",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-20261117.tar.bz2.gpgsig",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1.0K \u00b7 2026-11-18 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "portage-20261113.tar.xz.gpgsig",
+  "date": "2026-11-14 00:51",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.0K",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/portage-20261113.tar.xz.gpgsig",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1.0K \u00b7 2026-11-14 00:51 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gentoo-20261115.tar.xz.md5sum",
+  "date": "2026-11-16 00:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "57",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/gentoo-20261115.tar.xz.md5sum",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 57 \u00b7 2026-11-16 00:50 \u00b7 in https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/gentoo/snapshots/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/gentoo/snapshots/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README",
+  "date": "1991-02-01 16:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.9K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/urt/README",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "text \u00b7 1.9K \u00b7 1991-02-01 16:18 \u00b7 in https://ftp.funet.fi/pub/pics/formats/urt/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/urt/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/urt/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "toolkit.ps",
+  "date": "1991-02-01 16:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "55K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/urt/toolkit.ps",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 55K \u00b7 1991-02-01 16:18 \u00b7 in https://ftp.funet.fi/pub/pics/formats/urt/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/urt/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/urt/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rle.mss",
+  "date": "1991-02-01 16:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "28K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/urt/rle.mss",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 28K \u00b7 1991-02-01 16:18 \u00b7 in https://ftp.funet.fi/pub/pics/formats/urt/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/urt/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/urt/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ug.texinfo",
+  "date": "1991-02-01 16:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "251K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/netcdf/ug.texinfo",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 251K \u00b7 1991-02-01 16:18 \u00b7 in https://ftp.funet.fi/pub/pics/formats/netcdf/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/netcdf/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/netcdf/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ug.ps",
+  "date": "1991-02-01 16:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "525K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/netcdf/ug.ps",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 525K \u00b7 1991-02-01 16:18 \u00b7 in https://ftp.funet.fi/pub/pics/formats/netcdf/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/netcdf/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/netcdf/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "toolkit.mss",
+  "date": "1991-02-01 16:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "28K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/urt/toolkit.mss",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 28K \u00b7 1991-02-01 16:18 \u00b7 in https://ftp.funet.fi/pub/pics/formats/urt/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/urt/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/urt/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "pcx2.doc",
+  "date": "1991-02-01 16:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "6.6K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/pcx2.doc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "text \u00b7 6.6K \u00b7 1991-02-01 16:18 \u00b7 in https://ftp.funet.fi/pub/pics/formats/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ports.tar.gz",
+  "date": "2025-10-11 03:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "52M",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/ports.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 52M \u00b7 2025-10-11 03:54 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "7.5.tar.gz",
+  "date": "2026-11-20 12:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "37K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/7.5.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 37K \u00b7 2026-11-20 12:17 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "SHA256",
+  "date": "2025-10-21 16:43",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "709",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/SHA256",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 709 \u00b7 2025-10-21 16:43 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "4.6.tar.gz",
+  "date": "2026-11-20 12:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "8.9K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/4.6.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 8.9K \u00b7 2026-11-20 12:17 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "5.4.tar.gz",
+  "date": "2026-11-20 12:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "24K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/5.4.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 24K \u00b7 2026-11-20 12:17 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "4.3.tar.gz",
+  "date": "2026-11-20 12:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "28K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/4.3.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 28K \u00b7 2026-11-20 12:17 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "xenocara.tar.gz",
+  "date": "2025-10-11 03:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "177M",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/xenocara.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 177M \u00b7 2025-10-11 03:54 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbsd-78-base.pub",
+  "date": "2025-10-11 03:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "104",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/openbsd-78-base.pub",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 104 \u00b7 2025-10-11 03:54 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "3.9.tar.gz",
+  "date": "2026-11-20 12:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "87K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/3.9.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 87K \u00b7 2026-11-20 12:17 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "3.4.tar.gz",
+  "date": "2026-11-20 12:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "55K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/3.4.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 55K \u00b7 2026-11-20 12:17 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "root.mail",
+  "date": "2026-05-06 14:37",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.8K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.9/root.mail",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 3.8K \u00b7 2026-05-06 14:37 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/7.9/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/7.9/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.9/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "2.4.tar.gz",
+  "date": "2026-11-20 12:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "4.9M",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/2.4.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 4.9M \u00b7 2026-11-20 12:17 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbsd-79-base.pub",
+  "date": "2026-05-06 14:37",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "104",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.9/openbsd-79-base.pub",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 104 \u00b7 2026-05-06 14:37 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/7.9/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/7.9/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.9/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "6.1.tar.gz",
+  "date": "2026-11-20 12:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "59K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/6.1.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 59K \u00b7 2026-11-20 12:17 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "7.3.tar.gz",
+  "date": "2026-11-20 12:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "71K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/7.3.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 71K \u00b7 2026-11-20 12:17 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "2.2.tar.gz",
+  "date": "2026-11-20 12:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.7M",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/2.2.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 2.7M \u00b7 2026-11-20 12:17 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "4.0.tar.gz",
+  "date": "2026-11-20 12:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "63K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/4.0.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 63K \u00b7 2026-11-20 12:17 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "4.7.tar.gz",
+  "date": "2026-11-20 12:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "12K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/4.7.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 12K \u00b7 2026-11-20 12:17 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "7.2.tar.gz",
+  "date": "2026-11-20 12:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "43K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/7.2.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 43K \u00b7 2026-11-20 12:17 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "SHA256.sig",
+  "date": "2025-10-21 16:44",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "861",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/SHA256.sig",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 861 \u00b7 2025-10-21 16:44 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "4.9.tar.gz",
+  "date": "2026-11-20 12:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.0K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/4.9.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 2.0K \u00b7 2026-11-20 12:17 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "src.tar.gz",
+  "date": "2025-10-12 19:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "212M",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/src.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 212M \u00b7 2025-10-12 19:54 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "SHA256.sig",
+  "date": "2026-05-14 04:37",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "861",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.9/SHA256.sig",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 861 \u00b7 2026-05-14 04:37 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/7.9/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/7.9/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.9/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README",
+  "date": "2026-05-06 14:46",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.6K",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.9/README",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 2.6K \u00b7 2026-05-06 14:46 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/7.9/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/7.9/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.9/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "7.0.tar.gz",
+  "date": "2026-11-20 12:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "104K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/7.0.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 104K \u00b7 2026-11-20 12:17 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/patches/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "root.mail",
+  "date": "2025-10-11 03:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.8K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/root.mail",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 3.8K \u00b7 2025-10-11 03:54 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/7.8/"
+   ]
+  ],
+  "mined_at": "2026-11-20T20:35:56Z"
  }
 ]
