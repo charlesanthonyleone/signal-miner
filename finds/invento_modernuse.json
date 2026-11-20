@@ -9298,5 +9298,25 @@
   "inventor": "John J Ghegan",
   "module": "modernuse",
   "mined_at": "2026-11-19T02:48:50Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Clockwork movement",
+  "date": "1989-11-02",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/EP0230878B1/en",
+  "query": "google patents q=\"clockwork\" cpc=G04B before 2000",
+  "extra": "patent EP0230878B1 \u00b7 inventor J\u00f6rg Sp\u00f6rring",
+  "patent_number": "EP0230878B1",
+  "inventor": "J\u00f6rg Sp\u00f6rring",
+  "module": "modernuse",
+  "mined_at": "2026-11-20T02:43:03Z"
  }
 ]

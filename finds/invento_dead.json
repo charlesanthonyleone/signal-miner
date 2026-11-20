@@ -798,5 +798,25 @@
   "inventor": "Frank C Jenness",
   "module": "dead",
   "mined_at": "2026-11-15T23:04:23Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Therapeutic indoles for psychic stimulation and relief of mental depression",
+  "date": "1963-01-08",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US3072530A/en",
+  "query": "google patents q=\"psychic\" before 1960",
+  "extra": "patent US3072530A \u00b7 inventor Hofmann Albert",
+  "patent_number": "US3072530A",
+  "inventor": "Hofmann Albert",
+  "module": "dead",
+  "mined_at": "2026-11-20T02:43:09Z"
  }
 ]
