@@ -9318,5 +9318,25 @@
   "inventor": "J\u00f6rg Sp\u00f6rring",
   "module": "modernuse",
   "mined_at": "2026-11-20T02:43:03Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Magnetically recordable label for mechanically-defined information bearing &hellip;",
+  "date": "1983-12-27",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US4423503A/en",
+  "query": "google patents q=\"phonograph\" cpc=G11B3 before 1980",
+  "extra": "patent US4423503A \u00b7 inventor Robert G. Cheeseboro",
+  "patent_number": "US4423503A",
+  "inventor": "Robert G. Cheeseboro",
+  "module": "modernuse",
+  "mined_at": "2026-11-20T11:59:57Z"
  }
 ]

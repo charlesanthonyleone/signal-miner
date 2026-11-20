@@ -818,5 +818,25 @@
   "inventor": "Hofmann Albert",
   "module": "dead",
   "mined_at": "2026-11-20T02:43:09Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Planchette",
+  "date": "1920-06-15",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/CA201022A/en",
+  "query": "google patents q=\"planchette\" before 1940",
+  "extra": "patent CA201022A \u00b7 inventor H. White Theodore",
+  "patent_number": "CA201022A",
+  "inventor": "H. White Theodore",
+  "module": "dead",
+  "mined_at": "2026-11-20T12:00:03Z"
  }
 ]
