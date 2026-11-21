@@ -77110,5 +77110,1629 @@
    ]
   ],
   "mined_at": "2026-11-21T02:32:14Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ptclass.zip.uploaderinfo",
+  "date": "1994-02-01 08:49",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "64",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/sci/ai/pattern-classifer/ptclass.zip.uploaderinfo",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/sci/",
+  "kw": "",
+  "preview": "other \u00b7 64 \u00b7 1994-02-01 08:49 \u00b7 in https://ftp.funet.fi/pub/sci/ai/pattern-classifer/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/ai/pattern-classifer/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/sci/ai/pattern-classifer/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "alife-bib",
+  "date": "1991-06-11 19:36",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "161K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/sci/ai/alife/alife-bib",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/sci/",
+  "kw": "",
+  "preview": "text \u00b7 161K \u00b7 1991-06-11 19:36 \u00b7 in https://ftp.funet.fi/pub/sci/ai/alife/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/ai/alife/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/sci/ai/alife/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ptclass.zip",
+  "date": "1994-02-01 08:49",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "237K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/sci/ai/pattern-classifer/ptclass.zip",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/sci/",
+  "kw": "",
+  "preview": "other \u00b7 237K \u00b7 1994-02-01 08:49 \u00b7 in https://ftp.funet.fi/pub/sci/ai/pattern-classifer/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/ai/pattern-classifer/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/sci/ai/pattern-classifer/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.23.tar.gz",
+  "date": "1998-05-20 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.4M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.23.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 1.4M \u00b7 1998-05-20 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "libg++-2.8.1.1-2.8.1.1a.diff.gz",
+  "date": "1998-04-11 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "892",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/libg++/libg++-2.8.1.1-2.8.1.1a.diff.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 892 \u00b7 1998-04-11 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/libg++/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/libg++/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/libg++/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.19.1.tar.gz",
+  "date": "1997-02-01 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.0M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.19.1.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 1.0M \u00b7 1997-02-01 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.17-0.5.18.diff.gz",
+  "date": "1996-04-01 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "436K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.17-0.5.18.diff.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 436K \u00b7 1996-04-01 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.16-0.5.17.diff.gz",
+  "date": "1995-11-19 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "36K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.16-0.5.17.diff.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 36K \u00b7 1995-11-19 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.21-0.5.22.diff.gz",
+  "date": "1998-03-17 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "107K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.21-0.5.22.diff.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 107K \u00b7 1998-03-17 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.22.tar.gz",
+  "date": "1998-03-17 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.5M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.22.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 1.5M \u00b7 1998-03-17 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.10-0.5.11.diff.gz",
+  "date": "1995-02-23 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "5.0K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.10-0.5.11.diff.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 5.0K \u00b7 1995-02-23 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.8-0.5.9.diff.gz",
+  "date": "1995-02-21 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "16K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.8-0.5.9.diff.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 16K \u00b7 1995-02-21 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.19-0.5.19.1.diff.gz",
+  "date": "1997-02-01 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.0K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.19-0.5.19.1.diff.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 2.0K \u00b7 1997-02-01 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "libg++-2.8.0-2.8.1.diff.gz",
+  "date": "1998-03-11 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "5.1K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/libg++/libg++-2.8.0-2.8.1.diff.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 5.1K \u00b7 1998-03-11 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/libg++/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/libg++/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/libg++/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "libg++-2.8.0.tar.gz",
+  "date": "1998-03-23 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.2M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/libg++/libg++-2.8.0.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 2.2M \u00b7 1998-03-23 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/libg++/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/libg++/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/libg++/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.19.tar.gz",
+  "date": "1996-12-07 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.0M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.19.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 1.0M \u00b7 1996-12-07 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.9-0.5.10.diff.gz",
+  "date": "1995-02-22 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.9K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.9-0.5.10.diff.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 3.9K \u00b7 1995-02-22 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.11-0.5.12.diff.gz",
+  "date": "1995-02-23 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.6K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.11-0.5.12.diff.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 1.6K \u00b7 1995-02-23 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "libg++-2.7.1.tar.gz",
+  "date": "1995-11-15 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.5M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/libg++/libg++-2.7.1.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 1.5M \u00b7 1995-11-15 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/libg++/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/libg++/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/libg++/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.20.tar.gz",
+  "date": "1997-03-01 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.2M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.20.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 1.2M \u00b7 1997-03-01 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "dld-3.3.tar.gz",
+  "date": "1996-05-31 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "146K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/dld/dld-3.3.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 146K \u00b7 1996-05-31 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/dld/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/dld/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/dld/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.22-0.5.23.diff.gz",
+  "date": "1998-05-20 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "337K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.22-0.5.23.diff.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 337K \u00b7 1998-05-20 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.18-0.5.19.diff.gz",
+  "date": "1996-12-15 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "94K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.18-0.5.19.diff.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 94K \u00b7 1996-12-15 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "libg++-2.8.1.1a.tar.gz",
+  "date": "1998-04-11 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "734K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/libg++/libg++-2.8.1.1a.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 734K \u00b7 1998-04-11 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/libg++/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/libg++/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/libg++/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.18.tar.gz",
+  "date": "1996-04-01 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.0M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.18.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 1.0M \u00b7 1996-04-01 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "libg++-2.7.2.tar.gz",
+  "date": "1996-07-04 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.6M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/libg++/libg++-2.7.2.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 1.6M \u00b7 1996-07-04 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/libg++/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/libg++/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/libg++/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.20-0.5.21.diff.gz",
+  "date": "1997-09-10 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "395K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.20-0.5.21.diff.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 395K \u00b7 1997-09-10 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.15-0.5.16.diff.gz",
+  "date": "1995-08-30 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "168K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.15-0.5.16.diff.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 168K \u00b7 1995-08-30 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g77-0.5.14-0.5.15.diff.gz",
+  "date": "1995-05-19 03:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "12K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/g77/g77-0.5.14-0.5.15.diff.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 12K \u00b7 1995-05-19 03:00 \u00b7 in https://ftp.gnu.org/old-gnu/g77/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/g77/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/g77/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc758.txt",
+  "date": "1991-04-20 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "22K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc758.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 22K \u00b7 1991-04-20 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1118.txt",
+  "date": "1991-04-20 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "60K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1118.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 60K \u00b7 1991-04-20 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1577.txt",
+  "date": "1994-01-19 19:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "40K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1577.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 40K \u00b7 1994-01-19 19:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1466.txt",
+  "date": "1993-05-26 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "22K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1466.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 22K \u00b7 1993-05-26 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1160.txt",
+  "date": "1991-04-20 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "27K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1160.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 27K \u00b7 1991-04-20 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc761.txt",
+  "date": "1991-04-20 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "163K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc761.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 163K \u00b7 1991-04-20 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1566.txt",
+  "date": "1994-01-10 19:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "32K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1566.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 32K \u00b7 1994-01-10 19:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1497.txt",
+  "date": "1993-08-03 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "16K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1497.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 16K \u00b7 1993-08-03 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "computersongs-1.4.Z",
+  "date": "1994-08-08 08:47",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "141K",
+  "ftype": "other",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/humor/filks/computersongs-1.4.Z",
+  "mime": "other/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "other \u00b7 141K \u00b7 1994-08-08 08:47 \u00b7 in https://www.ibiblio.org/pub/docs/humor/filks/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/humor/filks/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/humor/filks/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc833.txt",
+  "date": "1991-04-20 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "42K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc833.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 42K \u00b7 1991-04-20 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1241.ps",
+  "date": "1991-07-01 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "124K",
+  "ftype": "other",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1241.ps",
+  "mime": "other/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "other \u00b7 124K \u00b7 1991-07-01 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1391.txt",
+  "date": "1993-01-05 19:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "41K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1391.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 41K \u00b7 1993-01-05 19:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1539.txt",
+  "date": "1993-10-05 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "47K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1539.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 47K \u00b7 1993-10-05 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc910.txt",
+  "date": "1991-04-20 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "24K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc910.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 24K \u00b7 1991-04-20 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1195.txt",
+  "date": "1991-04-20 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "183K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1195.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 183K \u00b7 1991-04-20 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1196.txt",
+  "date": "1991-04-20 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "24K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1196.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 24K \u00b7 1991-04-20 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "12-Days-to-Xmas",
+  "date": "1992-08-25 12:23",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.5K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/humor/12-Days-to-Xmas",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 2.5K \u00b7 1992-08-25 12:23 \u00b7 in https://www.ibiblio.org/pub/docs/humor/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/humor/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/humor/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1443.txt",
+  "date": "1993-05-01 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "60K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1443.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 60K \u00b7 1993-05-01 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1105.txt",
+  "date": "1991-04-20 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "36K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1105.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 36K \u00b7 1991-04-20 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1455.txt",
+  "date": "1993-05-26 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "12K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1455.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 12K \u00b7 1993-05-26 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1379.txt",
+  "date": "1992-11-05 19:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "89K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1379.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 89K \u00b7 1992-11-05 19:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1533.txt",
+  "date": "1993-10-05 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "50K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1533.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 50K \u00b7 1993-10-05 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1565.txt",
+  "date": "1994-01-10 19:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "29K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1565.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 29K \u00b7 1994-01-10 19:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1109.txt",
+  "date": "1991-04-20 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "20K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1109.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 20K \u00b7 1991-04-20 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc808.txt",
+  "date": "1991-04-20 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "15K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc808.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 15K \u00b7 1991-04-20 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1347.txt",
+  "date": "1992-06-16 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "26K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1347.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 26K \u00b7 1992-06-16 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1548.txt",
+  "date": "1994-07-14 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "109K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1548.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 109K \u00b7 1994-07-14 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc1139.txt",
+  "date": "1991-04-20 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "14K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc1139.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 14K \u00b7 1991-04-20 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rfc749.txt",
+  "date": "1991-04-20 20:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "8.7K",
+  "ftype": "text",
+  "host": "www.ibiblio.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://www.ibiblio.org/pub/docs/rfc/rfc749.txt",
+  "mime": "text/*",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "kw": "",
+  "preview": "text \u00b7 8.7K \u00b7 1991-04-20 20:00 \u00b7 in https://www.ibiblio.org/pub/docs/rfc/",
+  "extra": "host: www.ibiblio.org \u00b7 dir: https://www.ibiblio.org/pub/docs/rfc/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://www.ibiblio.org/pub/docs/rfc/"
+   ]
+  ],
+  "mined_at": "2026-11-21T11:24:11Z"
  }
 ]
