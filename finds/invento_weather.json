@@ -4218,5 +4218,25 @@
   "inventor": "Olsson Emilio",
   "module": "weather",
   "mined_at": "2026-11-20T12:00:10Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Hail resistant multilayer cross-braced plate made from polymethylmethacrylate",
+  "date": "1998-10-07",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/EP0733754B1/en",
+  "query": "google patents q=\"hail cannon\" before 2000",
+  "extra": "patent EP0733754B1 \u00b7 inventor Volker Dr. Benz",
+  "patent_number": "EP0733754B1",
+  "inventor": "Volker Dr. Benz",
+  "module": "weather",
+  "mined_at": "2026-11-21T02:34:01Z"
  }
 ]
