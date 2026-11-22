@@ -81618,5 +81618,89 @@
    ]
   ],
   "mined_at": "2026-11-22T11:43:27Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "dir.sizes",
+  "date": "21-Nov-2026 10:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "4109",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/FreeBSD/dir.sizes",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 4109 \u00b7 21-Nov-2026 10:00 \u00b7 in https://ftp.lip6.fr/pub/FreeBSD/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/FreeBSD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/FreeBSD/"
+   ]
+  ],
+  "mined_at": "2026-11-22T19:54:21Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README.TXT",
+  "date": "07-May-2015 16:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "4259",
+  "ftype": "text",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/FreeBSD/README.TXT",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "text \u00b7 4259 \u00b7 07-May-2015 16:18 \u00b7 in https://ftp.lip6.fr/pub/FreeBSD/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/FreeBSD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/FreeBSD/"
+   ]
+  ],
+  "mined_at": "2026-11-22T19:54:21Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "TIMESTAMP",
+  "date": "21-Nov-2026 21:30",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "35",
+  "ftype": "text",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/FreeBSD/TIMESTAMP",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "text \u00b7 35 \u00b7 21-Nov-2026 21:30 \u00b7 in https://ftp.lip6.fr/pub/FreeBSD/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/FreeBSD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/FreeBSD/"
+   ]
+  ],
+  "mined_at": "2026-11-22T19:54:21Z"
  }
 ]

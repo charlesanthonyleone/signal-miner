@@ -1698,5 +1698,25 @@
   "inventor": "Hans Stuewe",
   "module": "deterrent",
   "mined_at": "2026-11-22T01:49:14Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Shelter pit",
+  "date": "1970-08-11",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US3523483A/en",
+  "query": "google patents q=\"retaliation\" before 1980",
+  "extra": "patent US3523483A \u00b7 inventor Hyman Serbin",
+  "patent_number": "US3523483A",
+  "inventor": "Hyman Serbin",
+  "module": "deterrent",
+  "mined_at": "2026-11-22T19:56:39Z"
  }
 ]

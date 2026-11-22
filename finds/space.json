@@ -5565,5 +5565,43 @@
   "extra": "center KSC \u00b7 nasa_id KSC-08pd0766 \u00b7 keywords ",
   "module": "space",
   "mined_at": "2026-11-22T11:42:16Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "ARC-2009-ACD09-0108-015",
+  "date": "2009-02-08",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0108-015/ARC-2009-ACD09-0108-015~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0108-015/ARC-2009-ACD09-0108-015~thumb.jpg",
+  "preview": "An SUV-sized Asteroid 2008TC# Impacts on October 7, 2008 in the Nubian Desert, Northern Sudan: Dr. Peter Jenniskens, NASA/SETI joined Muawia Shaddas of the University of Khartoum in leading an expedition on a search for samples.  (Marble Mountain)  Photo Credit: NASA/SETI/P. Jenniskens",
+  "url": "https://images.nasa.gov/details/ARC-2009-ACD09-0108-015",
+  "query": "images-api.nasa.gov q=\"SETI\"",
+  "extra": "center ARC \u00b7 nasa_id ARC-2009-ACD09-0108-015 \u00b7 keywords Asteroid",
+  "module": "space",
+  "mined_at": "2026-11-22T19:53:09Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "ARC-2009-ACD09-0108-025",
+  "date": "2009-02-08",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0108-025/ARC-2009-ACD09-0108-025~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0108-025/ARC-2009-ACD09-0108-025~thumb.jpg",
+  "preview": "An SUV-sized Asteroid 2008TC# Impacts on October 7, 2008 in the Nubian Desert, Northern Sudan: Dr. Peter Jenniskens, NASA/SETI joined Muawia Shaddas of the University of Khartoum in leading an expedition on a search for samples.  (Meteorite 3rd-several at once)  Photo Credit: NASA/SETI/P. Jenniskens",
+  "url": "https://images.nasa.gov/details/ARC-2009-ACD09-0108-025",
+  "query": "images-api.nasa.gov q=\"SETI\"",
+  "extra": "center ARC \u00b7 nasa_id ARC-2009-ACD09-0108-025 \u00b7 keywords Asteroid",
+  "module": "space",
+  "mined_at": "2026-11-22T19:53:09Z"
  }
 ]
