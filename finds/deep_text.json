@@ -12952,5 +12952,39 @@
   "bucket": "grimoire",
   "extra": "bucket: grimoire \u00b7 original: https://hermetic.com/_export/raw/anthology/profile/david-b-metcalfe/index \u00b7 host: www.hermetic.com",
   "mined_at": "2026-11-22T01:32:34Z"
+ },
+ {
+  "source": "Wayback CDX text/plain",
+  "title": "www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E157G-37/maxdesk.ini",
+  "date": "2014-12-15",
+  "dateLabel": "captured",
+  "count": 726,
+  "countLabel": "bytes",
+  "kind": "meta",
+  "depth": "1.5 km \u00b7 bathypelagic",
+  "mime": "text/plain",
+  "preview": "[Files]\r\nE157G-37.tif=15,15,0\r\nE157G-37 001.tif=145,15,0\r\nE157G-37 002.tif=275,15,0\r\nE157G-37 003.tif=405,15,0\r\nE157G-37 004.tif=535,15,0\r\nE157G-37 005.tif=15,210,0\r\nE157G-37 006.tif=145,210,0\r\nE157G-37 007.tif=275,210,0\r\nE157G-37 008.tif=405,210,0\r\nE157G-37 009.tif=535,210,0\r\nE157G-37 010.tif=15,405,0\r\nE157G-37 011.tif=145,405,0\r\nE157G-37 012.tif=275,405,0\r\nE157G-37 013.tif=405,405,0\r\n",
+  "url": "https://web.archive.org/web/20141215062456/http://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E157G-37/maxdesk.ini",
+  "query": "Wayback CDX url=www.ibiblio.org/* mime:text/plain (host from obscure-TLD crawl)",
+  "bucket": null,
+  "extra": "bucket: unsorted \u00b7 original: http://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E157G-37/maxdesk.ini \u00b7 host: www.ibiblio.org",
+  "mined_at": "2026-11-22T11:40:35Z"
+ },
+ {
+  "source": "Open Directory .txt",
+  "title": "www.ibiblio.org/pub/docs/services/list-o-lists",
+  "date": "",
+  "dateLabel": "seen",
+  "count": 4000,
+  "countLabel": "chars read",
+  "kind": "meta",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "text/plain",
+  "preview": "\nftp.nisc.sri.com: netinfo/interest-groups                         [Jan 28, 92]\n\n\n   Mailing-list for \"List of lists\" update notices:\n\n   To get on the list (or to submit updates to existing mailing-lists or add \n   new ones), send requests to interest-groups-request@nisc.sri.com.\n\nCHANGES SINCE LAST UPDATE-NOTICE:\n\nADDED:\t\t\t\n\taddict-l\n\tAfrica-L\t\n\tAIXNEWS\n\talicefan\n\tamercath\n\tanest-l\n\tatavachron\n\tbluemoon\n\tBuddha-l\n\tCanada-l\n\tCaribbean-economy\n\tCatholic-action\n\tchairs-l\n\tchpoem-l\n\tcontents\n\tcricket\n\tdecmcc\n\tE-Europe\n\tEC\n\tedista\n\tedstat-l\n\tespora-l\n\teuearn-l\n\teyemov-l\n\tfau-l\n\tflight-sim\n\tgardens\n\tgsdsp\n\tgug-sysadmin\n\thistec-l\n\thockey-d\n\tieee (Spanish)\n\tinfo-databasix\n\tint-law\n\tjamie\n\tkissarmy\n\tldbase-l\n\tlegs   (Spanish)\n\tlibmastr\n\tlibrary\n\tlstiaf-l\n\tmardi_gras\n\tMOpoly-l\t\n\tmst3k\n\tmutex\n\tnext-managers\n\topt-proc\n\torthodox\n\tpcgeos-list\n\tpinhole\n\tpjml\n\tpublish\n\tregistrar-l\n\tripe-map\n\trra-l\n\tsat\n\tscrnwrit\n\tsmdm-l\n\tsoftpub\n\tsuperibm\n\tswim-l\n\tU2\n\tUN\n\tvhf\n\tvirtu-l\n\twintcp-l\n\tworld-l\n\ty-rights\n\n\nUPDATED:\n\t9NOV89-L\n\tmail-men\n\topticomp\n\tprog-pubs\n\ttelecom-priv\n\tchild\n\nDELETED:\n\tATHENE\n\tCCM\n\tcoherent@cs.wisc.edu\n\tdave-berry\n\tdungeons\n\tFELINE-L\n\tNDSU100\n\tOCCAM\n\tOtherRealms\n\tTRANSIT@UMNEWS\n\n   ***************************************************************************\n   **PLEASE NOTE:  The general convention is that for administrivia about a **\n   **list (like getting added or deleted, asking about archive files, etc.) **\n   ** ***you write to list-REQUEST@host***(e.g., 386USERS-REQUEST@UDE",
+  "url": "https://www.ibiblio.org/pub/docs/services/list-o-lists",
+  "query": "random descent from https://www.ibiblio.org/pub/docs/",
+  "bucket": null,
+  "extra": "bucket: unsorted \u00b7 dir: https://www.ibiblio.org/pub/docs/services/",
+  "mined_at": "2026-11-22T11:40:35Z"
  }
 ]

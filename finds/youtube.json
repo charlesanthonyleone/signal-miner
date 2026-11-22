@@ -11113,5 +11113,35 @@
   "query": "ytsearch \"16mm film transfer 1949\" views<=500",
   "extra": "category: old film \u00b7 178s",
   "mined_at": "2026-11-22T01:33:12Z"
+ },
+ {
+  "source": "YouTube",
+  "title": "The Church of Gandyland - Tampa Florida - Crapshoot Productions - Public Access TV",
+  "date": "",
+  "dateLabel": "",
+  "count": 84,
+  "countLabel": "views",
+  "thumb": "https://i.ytimg.com/vi/sg04eXtbIrs/hqdefault.jpg",
+  "kind": "iframe",
+  "src": "https://www.youtube-nocookie.com/embed/sg04eXtbIrs",
+  "url": "https://www.youtube.com/watch?v=sg04eXtbIrs",
+  "query": "ytsearch \"old public access tv 1988\" views<=500",
+  "extra": "category: old tv \u00b7 239s",
+  "mined_at": "2026-11-22T11:42:18Z"
+ },
+ {
+  "source": "YouTube",
+  "title": "Channel 15 Public Access News 07/23/2016",
+  "date": "",
+  "dateLabel": "",
+  "count": 89,
+  "countLabel": "views",
+  "thumb": "https://i.ytimg.com/vi/-YAPU5_uOAc/hqdefault.jpg",
+  "kind": "iframe",
+  "src": "https://www.youtube-nocookie.com/embed/-YAPU5_uOAc",
+  "url": "https://www.youtube.com/watch?v=-YAPU5_uOAc",
+  "query": "ytsearch \"old public access tv 1988\" views<=500",
+  "extra": "category: old tv \u00b7 907s",
+  "mined_at": "2026-11-22T11:42:18Z"
  }
 ]

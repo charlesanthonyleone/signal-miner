@@ -6598,5 +6598,25 @@
   "inventor": "",
   "module": "formulas",
   "mined_at": "2026-11-22T01:49:01Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Alterative tonic",
+  "date": "1888-10-30",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US391776A/en",
+  "query": "google patents q=\"tonic\" cpc=A61K36 before 1960",
+  "extra": "patent US391776A \u00b7 inventor ?",
+  "patent_number": "US391776A",
+  "inventor": "",
+  "module": "formulas",
+  "mined_at": "2026-11-22T11:45:07Z"
  }
 ]
