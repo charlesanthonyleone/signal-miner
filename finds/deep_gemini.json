@@ -6142,5 +6142,29 @@
    ]
   ],
   "mined_at": "2026-11-21T11:26:10Z"
+ },
+ {
+  "source": "Geminispace",
+  "title": "warnings.txt.gmi",
+  "url": "https://portal.mozz.us/gemini/gem.snork.ca/textfiles.com/occult/CHRISTIAN/warnings.txt.gmi",
+  "gemini": "gemini://gem.snork.ca/textfiles.com/occult/CHRISTIAN/warnings.txt.gmi",
+  "date": "",
+  "dateLabel": "",
+  "count": 8191,
+  "countLabel": "chars read",
+  "kind": "text",
+  "thumb": "",
+  "host": "gem.snork.ca",
+  "preview": "1\r\n\r\n\r\n    On or about July 16, 1979 the current president of Iraq was named\r\nas Iraq's president; and, WITHIN 30 DAYS--i.e., on August 11, 1979--I\r\nreceived the following Prophecy of the coming conflict in the Middle\r\nEast, which was then conveyed in a letter sent by certified mail (re-\r\nturn receipt requested and received) to the president and the chairman\r\nof the department of theology at the University of Notre Dame.\r\n    Over the past 11 years, the Prophecies in this letter have been\r\nignored and suppressed by THOUSANDS of rabbis and Christian theolo-\r\ngians and by HUNDREDS of media officials in the United States, as well\r\nas by religious and media officials in Israel.\r\n    Thus, the coming conflict in the Middle East should NOT come as a\r\nsurprise.\r\n\r\n\r\n                                               September 8, 1979\r\n\r\nTheodore Hesburgh & David Burrell\r\nUniversity of Notre Dame\r\nNotre Dame, Indiana 46556\r\n\r\nSir:\r\n\r\n    Previously I warned you of the destruction of New York City and\r\nwestern California by earthquake (September 13, 1977) and of the\r\ncoming destruction of Jerusalem (April 24, 1979).  The following\r\nprophecy refers more specifically to the Conflagration which wi",
+  "query": "gemini search \"prophecy\"",
+  "kw": "prophecy",
+  "extra": "capsule: gem.snork.ca \u00b7 read via Gemini protocol (port 1965)",
+  "links": [
+   [
+    "gemini:// link",
+    "gemini://gem.snork.ca/textfiles.com/occult/CHRISTIAN/warnings.txt.gmi"
+   ]
+  ],
+  "mined_at": "2026-11-22T01:37:26Z"
  }
 ]

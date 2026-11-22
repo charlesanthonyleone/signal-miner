@@ -9498,5 +9498,25 @@
   "inventor": "Cochin Solomon",
   "module": "modernuse",
   "mined_at": "2026-11-20T20:37:39Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Pneumatic tube system",
+  "date": "1936-02-29",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/DE626632C/en",
+  "query": "google patents q=\"pneumatic tube\" cpc=B65G51 before 1940",
+  "extra": "patent DE626632C \u00b7 inventor Fritz Appelius",
+  "patent_number": "DE626632C",
+  "inventor": "Fritz Appelius",
+  "module": "modernuse",
+  "mined_at": "2026-11-22T01:49:01Z"
  }
 ]
