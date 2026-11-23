@@ -81702,5 +81702,845 @@
    ]
   ],
   "mined_at": "2026-11-22T19:54:21Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "phantom_home-1.00.tar.gz",
+  "date": "2000-06-28 12:44",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "145K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/phantom/home/phantom_home-1.00.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 145K \u00b7 2000-06-28 12:44 \u00b7 in https://ftp.gnu.org/old-gnu/phantom/home/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/phantom/home/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/phantom/home/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "phantom_security-beta0.95.tar.gz",
+  "date": "1999-09-30 16:57",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "217K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/phantom/security/phantom_security-beta0.95.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 217K \u00b7 1999-09-30 16:57 \u00b7 in https://ftp.gnu.org/old-gnu/phantom/security/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/phantom/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/phantom/security/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "phantom_security-1.00.tar.gz",
+  "date": "1999-11-04 17:17",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "216K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/phantom/security/phantom_security-1.00.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 216K \u00b7 1999-11-04 17:17 \u00b7 in https://ftp.gnu.org/old-gnu/phantom/security/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/phantom/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/phantom/security/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ProgramIndex",
+  "date": "02-May-1998 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "29107",
+  "ftype": "text",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/ProgramIndex",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "text \u00b7 29107 \u00b7 02-May-1998 22:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "brl.README",
+  "date": "14-Nov-2000 23:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "420",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/brl.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 420 \u00b7 14-Nov-2000 23:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnu-keyring.gpg",
+  "date": "22-Nov-2026 02:22",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3700423",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/gnu-keyring.gpg",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 3700423 \u00b7 22-Nov-2026 02:22 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "=README-about-.gz-files",
+  "date": "07-Jan-2000 23:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1042",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/%3DREADME-about-.gz-files",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1042 \u00b7 07-Jan-2000 23:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "grg.README",
+  "date": "25-Apr-2002 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "180",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/grg.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 180 \u00b7 25-Apr-2002 22:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnutls.README",
+  "date": "17-Nov-2001 23:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "171",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/gnutls.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 171 \u00b7 17-Nov-2001 23:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README.DESCRIPTIONS",
+  "date": "08-Nov-2010 14:41",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "233",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/README.DESCRIPTIONS",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 233 \u00b7 08-Nov-2010 14:41 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gtk.README",
+  "date": "30-Apr-2002 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "229",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/gtk.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 229 \u00b7 30-Apr-2002 22:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "makeinfo.README",
+  "date": "24-Apr-2002 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "273",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/makeinfo.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 273 \u00b7 24-Apr-2002 22:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnome.README",
+  "date": "19-Jun-1999 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "380",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/gnome.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 380 \u00b7 19-Jun-1999 22:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "miscfiles-1.1.tar.gz",
+  "date": "18-Mar-1997 23:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2078951",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/miscfiles/miscfiles-1.1.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 2078951 \u00b7 18-Mar-1997 23:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/miscfiles/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/miscfiles/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/miscfiles/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "lout.README",
+  "date": "18-Jan-1998 23:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1103",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/lout.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1103 \u00b7 18-Jan-1998 23:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "djgpp.README",
+  "date": "03-Apr-2007 13:11",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "492",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/djgpp.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 492 \u00b7 03-Apr-2007 13:11 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gimp.README",
+  "date": "30-Apr-2002 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "146",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/gimp.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 146 \u00b7 30-Apr-2002 22:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gurgle.README",
+  "date": "25-Apr-2002 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1002",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/gurgle.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1002 \u00b7 25-Apr-2002 22:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "r.README",
+  "date": "24-Apr-2002 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "169",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/r.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 169 \u00b7 24-Apr-2002 22:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "graphics.README",
+  "date": "16-Jul-1997 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "47",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/graphics.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 47 \u00b7 16-Jul-1997 22:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnucash.README",
+  "date": "24-Apr-2002 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "150",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/gnucash.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 150 \u00b7 24-Apr-2002 22:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnu.ps.gz",
+  "date": "14-Aug-1993 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "483990",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/gnu.ps.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 483990 \u00b7 14-Aug-1993 22:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "g++.README",
+  "date": "05-Jun-1999 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "389",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/g%2B%2B.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 389 \u00b7 05-Jun-1999 22:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "netfax.README",
+  "date": "05-Jun-1999 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "127",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/netfax.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 127 \u00b7 05-Jun-1999 22:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnans.README",
+  "date": "24-Apr-2002 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "756",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/gnans.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 756 \u00b7 24-Apr-2002 22:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "miscfiles-1.0.tar.gz",
+  "date": "07-Jul-1996 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1369815",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/miscfiles/miscfiles-1.0.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1369815 \u00b7 07-Jul-1996 22:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/miscfiles/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/miscfiles/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/miscfiles/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "mirror-updated-timestamp.txt",
+  "date": "22-Nov-2026 03:16",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "11",
+  "ftype": "text",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/mirror-updated-timestamp.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "text \u00b7 11 \u00b7 22-Nov-2026 03:16 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "miscfiles-1.5.tar.gz.sig",
+  "date": "17-Nov-2010 01:10",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "197",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/miscfiles/miscfiles-1.5.tar.gz.sig",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 197 \u00b7 17-Nov-2010 01:10 \u00b7 in https://ftp.lip6.fr/pub/gnu/miscfiles/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/miscfiles/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/miscfiles/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnat.README",
+  "date": "01-Apr-2009 14:25",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "227",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/gnat.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 227 \u00b7 01-Apr-2009 14:25 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnuchess.README",
+  "date": "25-Oct-1999 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "77",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/gnu/gnuchess.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 77 \u00b7 25-Oct-1999 22:00 \u00b7 in https://ftp.lip6.fr/pub/gnu/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/gnu/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/gnu/"
+   ]
+  ],
+  "mined_at": "2026-11-23T01:54:28Z"
  }
 ]

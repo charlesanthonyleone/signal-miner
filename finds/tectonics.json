@@ -1579,5 +1579,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-22T11:42:15Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 2400:cb00:588::/48",
+  "date": "2026-11-23",
+  "dateLabel": "sampled",
+  "count": 0,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"2400:cb00:588::/48\",\n  \"origin\": \"13335\",\n  \"time\": \"2022-10-06T08:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"2400:cb00:588::/48\",\n  \"origin\": \"13335\",\n  \"time\": \"2026-11-23T00:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 312,\n   \"total_ris_peers\": 312\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 13335,\n   \"route_objects\": [\n    \"APNIC\",\n    \"RADB\"\n   ]\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/2400:cb00:588::/48",
+  "query": "RIPEstat routing-status 2400:cb00:588::/48",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-23T01:51:25Z"
  }
 ]
