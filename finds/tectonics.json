@@ -1613,5 +1613,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-23T13:02:47Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 2600:1406:d000::/48",
+  "date": "2026-11-24",
+  "dateLabel": "sampled",
+  "count": 0,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"2600:1406:d000::/48\",\n  \"origin\": \"20940\",\n  \"time\": \"2017-06-15T00:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"2600:1406:d000::/48\",\n  \"origin\": \"20940\",\n  \"time\": \"2026-11-21T08:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 4,\n   \"total_ris_peers\": 313\n  }\n },\n \"origins\": []\n}",
+  "url": "https://stat.ripe.net/2600:1406:d000::/48",
+  "query": "RIPEstat routing-status 2600:1406:d000::/48",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-24T14:00:46Z"
  }
 ]

@@ -13292,5 +13292,22 @@
   "bucket": "scrolls",
   "extra": "bucket: scrolls \u00b7 original: http://www.earlychristianwritings.com:80/burrows/chapter6.txt \u00b7 host: www.earlychristianwritings.com",
   "mined_at": "2026-11-24T02:23:13Z"
+ },
+ {
+  "source": "Common Crawl text/plain",
+  "title": "www.textfiles.com/computers/asp5202.txt",
+  "date": "2026-09-14",
+  "dateLabel": "captured",
+  "count": 297708,
+  "countLabel": "bytes",
+  "kind": "meta",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "text/plain",
+  "preview": "\r\n                                          i\r\n\r\n\r\n\r\n\r\n\r\n                                    Contents\r\n\r\n\r\n               ASP Shareware Catalog for BBS users                    2\r\n\r\n               Chapter 1:  How to read this catalog                   3\r\n                  1.1  Minimum requirements  . . . . . . . . . . . .  3\r\n                  1.2  Registration benefits . . . . . . . . . . . .  4\r\n                  1.3  Sample product description  . . . . . . . . .  5\r\n\r\n               Chapter 2:  Utilities                                  7\r\n                  2.1  Disk utilities  . . . . . . . . . . . . . . .  7\r\n                     2.1.1  Disk cataloging  . . . . . . . . . . . . 10\r\n                     2.1.2  Hard disk utilities  . . . . . . . . . . 13\r\n                     2.1.3  Floppy disk utilities  . . . . . . . . . 24\r\n                  2.2  File utilities  . . . . . . . . . . . . . . . 27\r\n                     2.2.1  Backup/restore . . . . . . . . . . . . . 29\r\n                     2.2.2  Encryption & security  . . . . . . . . . 33\r\n                     2.2.3  File archivers . . . . . . . . . . . . . 34\r\n                     2.2.4  File comparison  . . . . . . . . . . . . 37\r\n                     2.2.5  File conversion  . . . . . . . . . . . . 38\r\n                     2.2.6  File viewers . . . . . . . . . . . . . . 39\r\n                  2.3  Hardware utilities  . . . . . . . . . . . . . 40\r\n                     2.3.1  CPU & memory utilities . . . . . . . . . 40\r\n  ",
+  "url": "http://www.textfiles.com/computers/asp5202.txt",
+  "query": "Common Crawl url=www.textfiles.com/* mime:text/plain (host from obscure-TLD crawl)",
+  "bucket": null,
+  "extra": "bucket: unsorted \u00b7 original: http://www.textfiles.com/computers/asp5202.txt \u00b7 host: www.textfiles.com",
+  "mined_at": "2026-11-24T13:58:29Z"
  }
 ]

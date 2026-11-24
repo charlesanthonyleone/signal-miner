@@ -83718,5 +83718,1461 @@
    ]
   ],
   "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openssh-10.0.tar.gz.asc",
+  "date": "2025-04-09 09:08",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "833",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openssh-10.0.tar.gz.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 833 \u00b7 2025-04-09 09:08 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openssh-2.9.tgz",
+  "date": "2001-05-01 12:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "323K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openssh-2.9.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 323K \u00b7 2001-05-01 12:18 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "xfont80.tgz",
+  "date": "2026-10-07 21:11",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "22M",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/hppa/xfont80.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 22M \u00b7 2026-10-07 21:11 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/hppa/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/hppa/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/hppa/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbsd29_3.2.3.patch",
+  "date": "2002-05-17 18:05",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "37K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openbsd29_3.2.3.patch",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 37K \u00b7 2002-05-17 18:05 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openssh-10.0.tar.gz",
+  "date": "2025-04-09 09:08",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.0M",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openssh-10.0.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1.0M \u00b7 2025-04-09 09:08 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbsd58_7.3.patch",
+  "date": "2016-08-01 12:34",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.0K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openbsd58_7.3.patch",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1.0K \u00b7 2016-08-01 12:34 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openssh-3.8.tgz",
+  "date": "2004-02-24 11:55",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "396K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openssh-3.8.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 396K \u00b7 2004-02-24 11:55 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openssh-3.1.tgz",
+  "date": "2002-03-06 01:43",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "359K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openssh-3.1.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 359K \u00b7 2002-03-06 01:43 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openssh-9.2.tar.gz",
+  "date": "2023-02-02 13:37",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "902K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openssh-9.2.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 902K \u00b7 2023-02-02 13:37 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbsd30_3.2.2.patch",
+  "date": "2002-05-17 01:32",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "36K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openbsd30_3.2.2.patch",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 36K \u00b7 2002-05-17 01:32 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openssh-5.6.tar.gz",
+  "date": "2010-08-23 13:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "541K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openssh-5.6.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 541K \u00b7 2010-08-23 13:18 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbsd28_3.6.patch",
+  "date": "2003-03-31 13:07",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "50K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openbsd28_3.6.patch",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 50K \u00b7 2003-03-31 13:07 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openssh-4.5.tar.gz",
+  "date": "2006-11-07 15:16",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "416K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openssh-4.5.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 416K \u00b7 2006-11-07 15:16 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbsd29_3.5.patch",
+  "date": "2002-10-14 16:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "40K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openbsd29_3.5.patch",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 40K \u00b7 2002-10-14 16:18 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openssh-4.6.tar.gz",
+  "date": "2007-03-07 15:38",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "418K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openssh-4.6.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 418K \u00b7 2007-03-07 15:38 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openssh-4.5.tar.gz.md5",
+  "date": "2006-11-07 15:22",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "60",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openssh-4.5.tar.gz.md5",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 60 \u00b7 2006-11-07 15:22 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbsd47_5.8.patch",
+  "date": "2011-02-04 02:02",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "33K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openbsd47_5.8.patch",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 33K \u00b7 2011-02-04 02:02 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbsd43_5.1.patch",
+  "date": "2008-07-23 20:52",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "6.3K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openbsd43_5.1.patch",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 6.3K \u00b7 2008-07-23 20:52 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openssh-6.3.tar.gz",
+  "date": "2013-09-13 09:29",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "591K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openssh-6.3.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 591K \u00b7 2013-09-13 09:29 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openssh-8.0.tar.gz",
+  "date": "2019-04-18 01:02",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "782K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openssh-8.0.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 782K \u00b7 2019-04-18 01:02 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "comp80.tgz",
+  "date": "2026-10-07 16:23",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "48M",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/hppa/comp80.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 48M \u00b7 2026-10-07 16:23 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/hppa/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/hppa/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/hppa/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "xserv80.tgz",
+  "date": "2026-10-07 21:12",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.5M",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/hppa/xserv80.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 3.5M \u00b7 2026-10-07 21:12 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/hppa/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/hppa/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/hppa/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openssh-3.0.1.tgz",
+  "date": "2001-11-14 10:59",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "355K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openssh-3.0.1.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 355K \u00b7 2001-11-14 10:59 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openssh-4.6.tar.gz.asc",
+  "date": "2007-03-07 15:38",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "187",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openssh-4.6.tar.gz.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 187 \u00b7 2007-03-07 15:38 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openssh-1.2.3.tgz",
+  "date": "2000-03-06 22:34",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "225K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/openssh-1.2.3.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 225K \u00b7 2000-03-06 22:34 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenSSH/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnurl-7.56.1.1.tar.xz",
+  "date": "2017-12-10 06:52",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.2M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnurl-7.56.1.1.tar.xz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 2.2M \u00b7 2017-12-10 06:52 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnunet-gtk-0.9.5.tar.gz",
+  "date": "2012-12-21 11:38",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.1M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnunet-gtk-0.9.5.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 1.1M \u00b7 2012-12-21 11:38 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnurl-7.54.0.tar.bz2",
+  "date": "2017-12-10 07:03",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.8M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnurl-7.54.0.tar.bz2",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 1.8M \u00b7 2017-12-10 07:03 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnunet-fuse-0.12.0.tar.gz",
+  "date": "2019-12-19 20:20",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "215K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnunet-fuse-0.12.0.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 215K \u00b7 2019-12-19 20:20 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gleem-1.2.tar.gz",
+  "date": "2002-01-27 23:37",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "226K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gleem/gleem-1.2.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 226K \u00b7 2002-01-27 23:37 \u00b7 in https://ftp.gnu.org/old-gnu/gleem/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gleem/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gleem/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnunet-fuse-0.10.0.tar.gz",
+  "date": "2013-12-22 17:51",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "203K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnunet-fuse-0.10.0.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 203K \u00b7 2013-12-22 17:51 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnurl-7.67.0.pax.Z",
+  "date": "2019-11-18 13:04",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "5.9M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnurl-7.67.0.pax.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 5.9M \u00b7 2019-11-18 13:04 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnurl-7_50_2-1.tar.bz2",
+  "date": "2017-12-13 16:02",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.8M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnurl-7_50_2-1.tar.bz2",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 2.8M \u00b7 2017-12-13 16:02 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnunet-gtk-0.11.7.tar.gz",
+  "date": "2019-10-27 14:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.6M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnunet-gtk-0.11.7.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 1.6M \u00b7 2019-10-27 14:50 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnunet-0.13.0.tar.gz",
+  "date": "2020-07-07 12:45",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "7.2M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnunet-0.13.0.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 7.2M \u00b7 2020-07-07 12:45 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnurl-7_52_1.tar.bz2",
+  "date": "2017-12-10 07:06",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.2M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnurl-7_52_1.tar.bz2",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 3.2M \u00b7 2017-12-10 07:06 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnurl-7.65.3.tar.Z",
+  "date": "2019-08-15 09:05",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "5.8M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnurl-7.65.3.tar.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 5.8M \u00b7 2019-08-15 09:05 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnurl-7.54.1.diff",
+  "date": "2017-12-10 07:01",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "148K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnurl-7.54.1.diff",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 148K \u00b7 2017-12-10 07:01 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnurl-7_50_1.diff",
+  "date": "2017-12-13 16:01",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "261K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnurl-7_50_1.diff",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 261K \u00b7 2017-12-13 16:01 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnurl-7_48_0.tar.bz2",
+  "date": "2017-12-13 16:01",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.0M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnurl-7_48_0.tar.bz2",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 3.0M \u00b7 2017-12-13 16:01 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnurl-7_52_1.diff",
+  "date": "2017-12-10 07:07",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "34K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnurl-7_52_1.diff",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 34K \u00b7 2017-12-10 07:07 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnurl-7.69.1.tar.gz",
+  "date": "2020-04-07 12:23",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.4M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnurl-7.69.1.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 3.4M \u00b7 2020-04-07 12:23 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnunet-fuse-0.8.0.tar.bz2",
+  "date": "2008-06-14 04:40",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "80K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnunet-fuse-0.8.0.tar.bz2",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 80K \u00b7 2008-06-14 04:40 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnunet-0.11.8.tar.gz",
+  "date": "2019-10-30 07:35",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "7.0M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnunet-0.11.8.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 7.0M \u00b7 2019-10-30 07:35 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnurl-7.63.0.tar.Z",
+  "date": "2019-01-13 21:11",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "6.0M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnurl-7.63.0.tar.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 6.0M \u00b7 2019-01-13 21:11 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnurl-7.55.1.tar.bz2",
+  "date": "2017-12-10 06:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.0M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnurl-7.55.1.tar.bz2",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 2.0M \u00b7 2017-12-10 06:54 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnunet-0.11.0pre66.tar.gz",
+  "date": "2018-06-06 07:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "7.1M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnunet-0.11.0pre66.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 7.1M \u00b7 2018-06-06 07:00 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnunet-0.11.5.tar.gz",
+  "date": "2019-06-05 12:45",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "7.3M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnunet-0.11.5.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 7.3M \u00b7 2019-06-05 12:45 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnurl-7.65.0.sum.txt",
+  "date": "2019-05-31 06:21",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "900",
+  "ftype": "text",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnurl-7.65.0.sum.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "text \u00b7 900 \u00b7 2019-05-31 06:21 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnurl-7.56.1.tar.bz2",
+  "date": "2017-12-10 07:11",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.6M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnurl-7.56.1.tar.bz2",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 2.6M \u00b7 2017-12-10 07:11 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnunet-0.10.0.tar.gz",
+  "date": "2013-12-24 15:31",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "4.4M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnunet-0.10.0.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 4.4M \u00b7 2013-12-24 15:31 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnunet-0.11.6.tar.gz",
+  "date": "2019-07-24 12:35",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "7.3M",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnunet/gnunet-0.11.6.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 7.3M \u00b7 2019-07-24 12:35 \u00b7 in https://ftp.gnu.org/old-gnu/gnunet/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnunet/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnunet/"
+   ]
+  ],
+  "mined_at": "2026-11-24T14:02:01Z"
  }
 ]
