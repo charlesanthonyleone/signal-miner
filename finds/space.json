@@ -5698,5 +5698,24 @@
   "extra": "center KSC \u00b7 nasa_id KSC-06pd0095 \u00b7 keywords Atlas V, Pluto, New Horizons",
   "module": "space",
   "mined_at": "2026-11-23T01:51:26Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "ARC-2008-ACD08-0185-006",
+  "date": "2008-08-19",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/ARC-2008-ACD08-0185-006/ARC-2008-ACD08-0185-006~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/ARC-2008-ACD08-0185-006/ARC-2008-ACD08-0185-006~thumb.jpg",
+  "preview": "Dr. Seth Shostak, of the SETI Institute presents a Director's Colloquium at NASA Ames entitled 'When Will We Discover the Extraterrestrails?'",
+  "url": "https://images.nasa.gov/details/ARC-2008-ACD08-0185-006",
+  "query": "images-api.nasa.gov q=\"SETI\"",
+  "extra": "center ARC \u00b7 nasa_id ARC-2008-ACD08-0185-006 \u00b7 keywords SETI",
+  "module": "space",
+  "mined_at": "2026-11-24T02:24:56Z"
  }
 ]

@@ -1798,5 +1798,25 @@
   "inventor": "Jon Michael Brake",
   "module": "immortal",
   "mined_at": "2026-11-21T02:33:59Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " packaging equipment",
+  "date": "1983-05-20",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/JPS5824325B2/en",
+  "query": "google patents q=\"immortality\" before 1980",
+  "extra": "patent JPS5824325B2 \u00b7 inventor \u5c0f\u689b\u90a6\u8302",
+  "patent_number": "JPS5824325B2",
+  "inventor": "\u5c0f\u689b\u90a6\u8302",
+  "module": "immortal",
+  "mined_at": "2026-11-24T02:27:37Z"
  }
 ]

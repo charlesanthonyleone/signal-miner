@@ -9938,5 +9938,25 @@
   "inventor": "Arnold A Zimmer",
   "module": "modernuse",
   "mined_at": "2026-11-23T01:56:17Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Pneumatic tube system",
+  "date": "1968-12-31",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US3419229A/en",
+  "query": "google patents q=\"pneumatic tube\" cpc=B65G51 before 1980",
+  "extra": "patent US3419229A \u00b7 inventor Peter F Crosby",
+  "patent_number": "US3419229A",
+  "inventor": "Peter F Crosby",
+  "module": "modernuse",
+  "mined_at": "2026-11-24T02:27:29Z"
  }
 ]

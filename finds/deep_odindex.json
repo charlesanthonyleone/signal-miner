@@ -83158,5 +83158,565 @@
    ]
   ],
   "mined_at": "2026-11-23T13:04:25Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "postinfo.html",
+  "date": "2006-02-04 12:40",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.4K",
+  "ftype": "text",
+  "host": "calicoconsulting.com.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://calicoconsulting.com.au/postinfo.html",
+  "mime": "text/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://calicoconsulting.com.au/",
+  "kw": "",
+  "preview": "text \u00b7 2.4K \u00b7 2006-02-04 12:40 \u00b7 in https://calicoconsulting.com.au/",
+  "extra": "host: calicoconsulting.com.au \u00b7 dir: https://calicoconsulting.com.au/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://calicoconsulting.com.au/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "404.shtml",
+  "date": "2007-04-18 19:45",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "0",
+  "ftype": "other",
+  "host": "calicoconsulting.com.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://calicoconsulting.com.au/404.shtml",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://calicoconsulting.com.au/",
+  "kw": "",
+  "preview": "other \u00b7 0 \u00b7 2007-04-18 19:45 \u00b7 in https://calicoconsulting.com.au/",
+  "extra": "host: calicoconsulting.com.au \u00b7 dir: https://calicoconsulting.com.au/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://calicoconsulting.com.au/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "talk.bizarre-2.gif",
+  "date": "1994-01-21 16:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "44K",
+  "ftype": "image",
+  "host": "ftp.funet.fi",
+  "thumb": "https://ftp.funet.fi/pub/pics/comp/net/talk.bizarre-2.gif",
+  "kind": "img",
+  "src": "https://ftp.funet.fi/pub/pics/comp/net/talk.bizarre-2.gif",
+  "gated": true,
+  "url": "https://ftp.funet.fi/pub/pics/comp/net/talk.bizarre-2.gif",
+  "mime": "image/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "image \u00b7 44K \u00b7 1994-01-21 16:00 \u00b7 in https://ftp.funet.fi/pub/pics/comp/net/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/comp/net/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/comp/net/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-7.9.tar.gz",
+  "date": "2023-03-23 10:35",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "790K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-7.9.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 790K \u00b7 2023-03-23 10:35 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-7.1.tar.gz",
+  "date": "2021-06-25 11:06",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "711K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-7.1.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 711K \u00b7 2021-06-25 11:06 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ChangeLog.24",
+  "date": "2003-03-27 21:26",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.4M",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/Changelogs/ChangeLog.24",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 2.4M \u00b7 2003-03-27 21:26 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/Changelogs/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/Changelogs/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/Changelogs/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-7.5.tar.gz.asc",
+  "date": "2022-07-15 14:03",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "833",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-7.5.tar.gz.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 833 \u00b7 2022-07-15 14:03 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-9.1.tar.gz.asc",
+  "date": "2026-04-13 15:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "870",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-9.1.tar.gz.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 870 \u00b7 2026-04-13 15:00 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-6.5p1.tar.gz",
+  "date": "2019-07-31 14:16",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "663K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-6.5p1.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 663K \u00b7 2019-07-31 14:16 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-9.3.tar.gz",
+  "date": "2026-09-30 09:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "847K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-9.3.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 847K \u00b7 2026-09-30 09:54 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-7.6-relnotes.txt",
+  "date": "2022-09-15 18:22",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.1K",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-7.6-relnotes.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 1.1K \u00b7 2022-09-15 18:22 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-6.5p1-relnotes.txt",
+  "date": "2022-09-14 14:42",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.4K",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-6.5p1-relnotes.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 1.4K \u00b7 2022-09-14 14:42 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ChangeLog.57",
+  "date": "2019-10-12 16:05",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "6.6M",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/Changelogs/ChangeLog.57",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 6.6M \u00b7 2019-10-12 16:05 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/Changelogs/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/Changelogs/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/Changelogs/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-6.5p0.tar.gz",
+  "date": "2019-04-30 13:49",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "662K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-6.5p0.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 662K \u00b7 2019-04-30 13:49 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ChangeLog.38",
+  "date": "2010-03-19 00:24",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "4.0M",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/Changelogs/ChangeLog.38",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 4.0M \u00b7 2010-03-19 00:24 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/Changelogs/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/Changelogs/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/Changelogs/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-6.9p0.tar.gz.asc",
+  "date": "2021-05-01 08:56",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "833",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-6.9p0.tar.gz.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 833 \u00b7 2021-05-01 08:56 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-6.6p0.tar.gz",
+  "date": "2019-10-31 15:01",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "661K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-6.6p0.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 661K \u00b7 2019-10-31 15:01 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ChangeLog.18",
+  "date": "2001-04-26 04:52",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "255K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/Changelogs/ChangeLog.18",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 255K \u00b7 2001-04-26 04:52 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/Changelogs/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/Changelogs/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/Changelogs/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "SHA256.sig",
+  "date": "2026-09-30 09:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "6.3K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/SHA256.sig",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 6.3K \u00b7 2026-09-30 09:54 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-9.2.tar.gz",
+  "date": "2026-08-06 14:38",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "845K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-9.2.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 845K \u00b7 2026-08-06 14:38 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-24T02:25:43Z"
  }
 ]
