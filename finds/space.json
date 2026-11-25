@@ -5717,5 +5717,24 @@
   "extra": "center ARC \u00b7 nasa_id ARC-2008-ACD08-0185-006 \u00b7 keywords SETI",
   "module": "space",
   "mined_at": "2026-11-24T02:24:56Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "ARC-2007-ACD07-0152-034",
+  "date": "2007-08-12",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/ARC-2007-ACD07-0152-034/ARC-2007-ACD07-0152-034~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/ARC-2007-ACD07-0152-034/ARC-2007-ACD07-0152-034~thumb.jpg",
+  "preview": "Perseid Meteor flight on Google's Gulfstream Aircraft. P.I. Peter Jenniskens, SETI Group takes Kat De Kleer, SETI, REU Program picture",
+  "url": "https://images.nasa.gov/details/ARC-2007-ACD07-0152-034",
+  "query": "images-api.nasa.gov q=\"SETI\"",
+  "extra": "center ARC \u00b7 nasa_id ARC-2007-ACD07-0152-034 \u00b7 keywords Perseid Meteor flight, Peter Jeniskens, SETI Group",
+  "module": "space",
+  "mined_at": "2026-11-25T08:46:23Z"
  }
 ]

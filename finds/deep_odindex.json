@@ -85342,5 +85342,89 @@
    ]
   ],
   "mined_at": "2026-11-25T00:04:37Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "Packages-puppy-3-official",
+  "date": "05-Aug-2009 10:10",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "28K",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/puppylinux/Packages-puppy-3-official",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 28K \u00b7 05-Aug-2009 10:10 \u00b7 in https://ftp.ussg.iu.edu/linux/puppylinux/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/puppylinux/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/puppylinux/"
+   ]
+  ],
+  "mined_at": "2026-11-25T08:50:21Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "history.txt",
+  "date": "10-Jul-2014 06:25",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "12K",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/puppylinux/history.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 12K \u00b7 10-Jul-2014 06:25 \u00b7 in https://ftp.ussg.iu.edu/linux/puppylinux/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/puppylinux/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/puppylinux/"
+   ]
+  ],
+  "mined_at": "2026-11-25T08:50:21Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "Packages-puppy-fossa64-official",
+  "date": "04-Oct-2021 04:31",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "17K",
+  "ftype": "text",
+  "host": "ftp.ussg.iu.edu",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.ussg.iu.edu/linux/puppylinux/Packages-puppy-fossa64-official",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.ussg.iu.edu/",
+  "kw": "",
+  "preview": "text \u00b7 17K \u00b7 04-Oct-2021 04:31 \u00b7 in https://ftp.ussg.iu.edu/linux/puppylinux/",
+  "extra": "host: ftp.ussg.iu.edu \u00b7 dir: https://ftp.ussg.iu.edu/linux/puppylinux/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.ussg.iu.edu/linux/puppylinux/"
+   ]
+  ],
+  "mined_at": "2026-11-25T08:50:21Z"
  }
 ]
