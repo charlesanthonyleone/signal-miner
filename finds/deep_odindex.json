@@ -85174,5 +85174,173 @@
    ]
   ],
   "mined_at": "2026-11-24T14:02:01Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README.ftp.funet.fi",
+  "date": "1993-05-06 09:28",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "586",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/sci/systems/ptolemy/README.ftp.funet.fi",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/sci/",
+  "kw": "",
+  "preview": "other \u00b7 586 \u00b7 1993-05-06 09:28 \u00b7 in https://ftp.funet.fi/pub/sci/systems/ptolemy/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/systems/ptolemy/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/sci/systems/ptolemy/"
+   ]
+  ],
+  "mined_at": "2026-11-25T00:04:37Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README",
+  "date": "1993-05-05 19:24",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "929",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/sci/systems/ptolemy/README",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/sci/",
+  "kw": "",
+  "preview": "text \u00b7 929 \u00b7 1993-05-05 19:24 \u00b7 in https://ftp.funet.fi/pub/sci/systems/ptolemy/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/systems/ptolemy/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/sci/systems/ptolemy/"
+   ]
+  ],
+  "mined_at": "2026-11-25T00:04:37Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "RELEASE_NOTES_0.4",
+  "date": "1993-05-05 19:21",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "7.9K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/sci/systems/ptolemy/RELEASE_NOTES_0.4",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/sci/",
+  "kw": "",
+  "preview": "other \u00b7 7.9K \u00b7 1993-05-05 19:21 \u00b7 in https://ftp.funet.fi/pub/sci/systems/ptolemy/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/sci/systems/ptolemy/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/sci/systems/ptolemy/"
+   ]
+  ],
+  "mined_at": "2026-11-25T00:04:37Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "geoip",
+  "date": "2023-11-14 12:14",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "0",
+  "ftype": "text",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/opensuse/geoip",
+  "mime": "text/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "text \u00b7 0 \u00b7 2023-11-14 12:14 \u00b7 in https://mirror.aarnet.edu.au/pub/opensuse/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/opensuse/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/opensuse/"
+   ]
+  ],
+  "mined_at": "2026-11-25T00:04:37Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "favicon.ico",
+  "date": "2010-09-25 17:27",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "43",
+  "ftype": "other",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/elrepo/favicon.ico",
+  "mime": "other/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "other \u00b7 43 \u00b7 2010-09-25 17:27 \u00b7 in https://mirror.aarnet.edu.au/pub/elrepo/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/elrepo/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/elrepo/"
+   ]
+  ],
+  "mined_at": "2026-11-25T00:04:37Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "timestamp.txt",
+  "date": "2026-11-24 04:44",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "40",
+  "ftype": "text",
+  "host": "mirror.aarnet.edu.au",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://mirror.aarnet.edu.au/pub/elrepo/timestamp.txt",
+  "mime": "text/*",
+  "query": "random descent from https://mirror.aarnet.edu.au/pub/",
+  "kw": "",
+  "preview": "text \u00b7 40 \u00b7 2026-11-24 04:44 \u00b7 in https://mirror.aarnet.edu.au/pub/elrepo/",
+  "extra": "host: mirror.aarnet.edu.au \u00b7 dir: https://mirror.aarnet.edu.au/pub/elrepo/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://mirror.aarnet.edu.au/pub/elrepo/"
+   ]
+  ],
+  "mined_at": "2026-11-25T00:04:37Z"
  }
 ]
