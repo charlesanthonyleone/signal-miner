@@ -5736,5 +5736,24 @@
   "extra": "center ARC \u00b7 nasa_id ARC-2007-ACD07-0152-034 \u00b7 keywords Perseid Meteor flight, Peter Jeniskens, SETI Group",
   "module": "space",
   "mined_at": "2026-11-25T08:46:23Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "Five-hundred-meter Aperture Spherical Telescope, China",
+  "date": "2016-09-07",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA20986/PIA20986~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/PIA20986/PIA20986~thumb.jpg",
+  "preview": "The Five-hundred-meter Aperture Spherical Telescope (FAST) is a radio telescope in China's Guizhou Province. When it is completed in September, it will be the world's second largest radio telescope, with a diameter of 500m.The largest telescope is the operating Russian RATAN-600, with a diameter of 576m. The image was acquired April 14, 2013, covers an area of 6.2 by 8.2 km, and is located at 25.7 degrees north, 106.9 degrees east.  http://photojournal.jpl.nasa.gov/catalog/PIA20986",
+  "url": "https://images.nasa.gov/details/PIA20986",
+  "query": "images-api.nasa.gov q=\"radio telescope\"",
+  "extra": "center JPL \u00b7 nasa_id PIA20986 \u00b7 keywords Earth, Terra, Guizhou Province",
+  "module": "space",
+  "mined_at": "2026-11-25T19:25:59Z"
  }
 ]

@@ -9938,5 +9938,25 @@
   "inventor": "Marx Louis",
   "module": "expired",
   "mined_at": "2026-11-24T02:27:27Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Display panel attachments",
+  "date": "2021-08-17",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US11089885B2/en",
+  "query": "google patents q=\"improved apparatus\" cpc=A47G before 1940",
+  "extra": "patent US11089885B2 \u00b7 inventor Jeffrey Steffen Keller",
+  "patent_number": "US11089885B2",
+  "inventor": "Jeffrey Steffen Keller",
+  "module": "expired",
+  "mined_at": "2026-11-25T19:45:23Z"
  }
 ]

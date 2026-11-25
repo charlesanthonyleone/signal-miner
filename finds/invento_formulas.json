@@ -7418,5 +7418,25 @@
   "inventor": "George S Sperti",
   "module": "formulas",
   "mined_at": "2026-11-25T08:52:07Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " A kind of conditioner and preparation method thereof with hair care and hair &hellip;",
+  "date": "2019-04-26",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/CN109674727A/en",
+  "query": "google patents q=\"hair tonic\" cpc=A61K8 before 1960",
+  "extra": "patent CN109674727A \u00b7 inventor \u51af\u65b9\u6768",
+  "patent_number": "CN109674727A",
+  "inventor": "\u51af\u65b9\u6768",
+  "module": "formulas",
+  "mined_at": "2026-11-25T19:45:28Z"
  }
 ]

@@ -1578,5 +1578,25 @@
   "inventor": "Des Erfinders Auf Nennung Verzicht",
   "module": "aliens",
   "mined_at": "2026-11-21T02:34:02Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Flying saucer",
+  "date": "2013-03-21",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US20130068882A1/en",
+  "query": "google patents q=\"flying saucer\" cpc=B64C39/06 before 1980",
+  "extra": "patent US20130068882A1 \u00b7 inventor Antonio DUMAS",
+  "patent_number": "US20130068882A1",
+  "inventor": "Antonio DUMAS",
+  "module": "aliens",
+  "mined_at": "2026-11-25T19:45:46Z"
  }
 ]

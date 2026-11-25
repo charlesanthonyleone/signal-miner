@@ -8156,5 +8156,109 @@
    ]
   ],
   "mined_at": "2026-11-25T00:02:54Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "dogdrink.gif",
+  "date": "2019-08-06",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "16 KB",
+  "ftype": "image/gif",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190806003320im_/http://www.angelfire.com/ar/1776/animals/dog/dogdrink.gif",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190806003320im_/http://www.angelfire.com/ar/1776/animals/dog/dogdrink.gif",
+  "url": "https://web.archive.org/web/20190806003320/http://www.angelfire.com/ar/1776/animals/dog/dogdrink.gif",
+  "query": "CDX angelfire.com/ar/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/gif \u00b7 16854 bytes \u00b7 originally at http://www.angelfire.com/ar/1776/animals/dog/dogdrink.gif",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/gif",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/ar/1776/animals/dog/dogdrink.gif"
+   ]
+  ],
+  "mined_at": "2026-11-25T19:27:22Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "111picasso.jpg",
+  "date": "2019-08-06",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "6 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190806003307im_/http://www.angelfire.com/ar/1776/art/111picasso.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190806003307im_/http://www.angelfire.com/ar/1776/art/111picasso.jpg",
+  "url": "https://web.archive.org/web/20190806003307/http://www.angelfire.com/ar/1776/art/111picasso.jpg",
+  "query": "CDX angelfire.com/ar/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 6786 bytes \u00b7 originally at http://www.angelfire.com/ar/1776/art/111picasso.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/ar/1776/art/111picasso.jpg"
+   ]
+  ],
+  "mined_at": "2026-11-25T19:27:22Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "ilovedogs.jpg",
+  "date": "2014-11-30",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "14 KB",
+  "ftype": "image/jpeg",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20141130180952im_/http://www.angelfire.com/ar/1776/animals/dog/ilovedogs.jpg",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20141130180952im_/http://www.angelfire.com/ar/1776/animals/dog/ilovedogs.jpg",
+  "url": "https://web.archive.org/web/20141130180952/http://www.angelfire.com/ar/1776/animals/dog/ilovedogs.jpg",
+  "query": "CDX angelfire.com/ar/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/jpeg \u00b7 14511 bytes \u00b7 originally at http://www.angelfire.com/ar/1776/animals/dog/ilovedogs.jpg",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/jpeg",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/ar/1776/animals/dog/ilovedogs.jpg"
+   ]
+  ],
+  "mined_at": "2026-11-25T19:27:22Z"
+ },
+ {
+  "source": "Wayback CDX (dead host)",
+  "title": "gatorwlak.gif",
+  "date": "2019-08-06",
+  "dateLabel": "captured",
+  "count": null,
+  "countLabel": "",
+  "size": "6 KB",
+  "ftype": "image/gif",
+  "host": "www.angelfire.com",
+  "gated": true,
+  "thumb": "https://web.archive.org/web/20190806003332im_/http://www.angelfire.com/ar/1776/animals/gator/gatorwlak.gif",
+  "kind": "img",
+  "src": "https://web.archive.org/web/20190806003332im_/http://www.angelfire.com/ar/1776/animals/gator/gatorwlak.gif",
+  "url": "https://web.archive.org/web/20190806003332/http://www.angelfire.com/ar/1776/animals/gator/gatorwlak.gif",
+  "query": "CDX angelfire.com/ar/* mimetype image/(gif|jpeg|png)",
+  "preview": "image/gif \u00b7 6403 bytes \u00b7 originally at http://www.angelfire.com/ar/1776/animals/gator/gatorwlak.gif",
+  "extra": "original host: www.angelfire.com (offline) \u00b7 image/gif",
+  "links": [
+   [
+    "original URL",
+    "http://www.angelfire.com/ar/1776/animals/gator/gatorwlak.gif"
+   ]
+  ],
+  "mined_at": "2026-11-25T19:27:22Z"
  }
 ]

@@ -14628,5 +14628,43 @@
   "extra": "agency-published traffic cam \u00b7 (C221) I-8 : Lake Murray T \u00b7 HLS: https://wzmedia.dot.ca.gov/D11/C221_WB_I-8_AT_Lake_Murray_T.stream/playlist.m3u8 \u00b7 no auth \u00b7 not scanned by us",
   "module": "cameras",
   "mined_at": "2026-11-25T08:46:00Z"
+ },
+ {
+  "source": "Caltrans public CCTV",
+  "title": "MAD-99-AT CLEVELAND AVE",
+  "date": "2022-07-29",
+  "dateLabel": "frame",
+  "count": null,
+  "countLabel": "",
+  "kind": "cam",
+  "depth": "800 m \u00b7 mesopelagic",
+  "mime": "image/jpeg",
+  "thumb": "https://cwwp2.dot.ca.gov/data/d6/cctv/image/mad99atclevelandave/mad99atclevelandave.jpg",
+  "src": "https://cwwp2.dot.ca.gov/data/d6/cctv/image/mad99atclevelandave/mad99atclevelandave.jpg",
+  "url": "https://cwwp2.dot.ca.gov/data/d6/cctv/image/mad99atclevelandave/mad99atclevelandave.jpg",
+  "preview": "still \u00b7 image/jpeg\nSR-99 \u00b7 Madera, CA\npublic highway CCTV (agency-published)",
+  "query": "Caltrans open JSON d6",
+  "extra": "agency-published traffic cam \u00b7 MAD-99-AT CLEVELAND AVE \u00b7 HLS: https://wzmedia.dot.ca.gov/D6/99_Cleveland_Ave.stream/playlist.m3u8 \u00b7 no auth \u00b7 not scanned by us",
+  "module": "cameras",
+  "mined_at": "2026-11-25T19:25:47Z"
+ },
+ {
+  "source": "Caltrans public CCTV",
+  "title": "FRE-180-WB 168 TO WB 180 RAMP",
+  "date": "2026-07-23",
+  "dateLabel": "frame",
+  "count": null,
+  "countLabel": "",
+  "kind": "cam",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "image/jpeg",
+  "thumb": "https://cwwp2.dot.ca.gov/data/d6/cctv/image/fre180wb168towb180ramp/fre180wb168towb180ramp.jpg",
+  "src": "https://cwwp2.dot.ca.gov/data/d6/cctv/image/fre180wb168towb180ramp/fre180wb168towb180ramp.jpg",
+  "url": "https://cwwp2.dot.ca.gov/data/d6/cctv/image/fre180wb168towb180ramp/fre180wb168towb180ramp.jpg",
+  "preview": "still \u00b7 image/jpeg\nSR-180 \u00b7 Fresno, CA\npublic highway CCTV (agency-published)",
+  "query": "Caltrans open JSON d6",
+  "extra": "agency-published traffic cam \u00b7 FRE-180-WB 168 TO WB 180 RAMP \u00b7 HLS: n/a \u00b7 no auth \u00b7 not scanned by us",
+  "module": "cameras",
+  "mined_at": "2026-11-25T19:25:47Z"
  }
 ]
