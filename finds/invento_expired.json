@@ -9958,5 +9958,25 @@
   "inventor": "Jeffrey Steffen Keller",
   "module": "expired",
   "mined_at": "2026-11-25T19:45:23Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Combination kitchen utensil",
+  "date": "1993-07-20",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US5228201A/en",
+  "query": "google patents q=\"kitchen utensil\" cpc=A47J before 2000",
+  "extra": "patent US5228201A \u00b7 inventor Norman J. Atkins",
+  "patent_number": "US5228201A",
+  "inventor": "Norman J. Atkins",
+  "module": "expired",
+  "mined_at": "2026-11-26T17:09:41Z"
  }
 ]

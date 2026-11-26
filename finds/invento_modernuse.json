@@ -10178,5 +10178,25 @@
   "inventor": "Claud Henry",
   "module": "modernuse",
   "mined_at": "2026-11-25T08:52:06Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Wireless telegraphy.",
+  "date": "1902-07-01",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US703712A/en",
+  "query": "google patents q=\"telegraph\" cpc=H04L15 before 1940",
+  "extra": "patent US703712A \u00b7 inventor Harry Shoemaker",
+  "patent_number": "US703712A",
+  "inventor": "Harry Shoemaker",
+  "module": "modernuse",
+  "mined_at": "2026-11-26T17:09:43Z"
  }
 ]

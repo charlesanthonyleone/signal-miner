@@ -19,5 +19,21 @@
 "n": 5,
 "found": "2026-10-26",
 "via": "bing rss discovery"
+},
+{
+"root": "https://www.thefilmcollaborative.org/films/img/slate_images/",
+"kw": "movies",
+"n": 478,
+"q": 2,
+"found": "2026-11-26",
+"via": "bing rss discovery (auto-verified)"
+},
+{
+"root": "https://files.anthony-simonet.fr/Films/",
+"kw": "movies",
+"n": 23,
+"q": 2,
+"found": "2026-11-26",
+"via": "bing rss discovery (auto-verified)"
 }
 ]

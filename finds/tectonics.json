@@ -1681,5 +1681,22 @@
   "extra": "possible origin changes visible in origins list",
   "module": "tectonics",
   "mined_at": "2026-11-26T03:39:13Z"
+ },
+ {
+  "source": "RIPEstat BGP",
+  "title": "routing status 2600:14a0::/40",
+  "date": "2026-11-26",
+  "dateLabel": "sampled",
+  "count": 0,
+  "countLabel": "RIS peers seeing",
+  "kind": "meta",
+  "depth": "6 km \u00b7 hadal",
+  "mime": "bgp/status",
+  "preview": "{\n \"first_seen\": {\n  \"prefix\": \"2600:14a0::/40\",\n  \"origin\": \"20940\",\n  \"time\": \"2020-07-14T16:00:00\"\n },\n \"last_seen\": {\n  \"prefix\": \"2600:14a0::/40\",\n  \"origin\": \"20940\",\n  \"time\": \"2026-11-26T08:00:00\"\n },\n \"visibility\": {\n  \"v4\": {\n   \"ris_peers_seeing\": 0,\n   \"total_ris_peers\": 0\n  },\n  \"v6\": {\n   \"ris_peers_seeing\": 313,\n   \"total_ris_peers\": 313\n  }\n },\n \"origins\": [\n  {\n   \"origin\": 20940,\n   \"route_objects\": [\n    \"ARIN\"\n   ]\n  }\n ]\n}",
+  "url": "https://stat.ripe.net/2600:14a0::/40",
+  "query": "RIPEstat routing-status 2600:14a0::/40",
+  "extra": "possible origin changes visible in origins list",
+  "module": "tectonics",
+  "mined_at": "2026-11-26T17:04:02Z"
  }
 ]
