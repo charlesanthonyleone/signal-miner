@@ -1758,5 +1758,25 @@
   "inventor": "\uc774\ub0a8\ud638",
   "module": "deterrent",
   "mined_at": "2026-11-25T19:45:47Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Jet propulsion engine with auxiliary pulse jet engine",
+  "date": "1953-04-21",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US2635420A/en",
+  "query": "google patents q=\"retaliation\" before 1960",
+  "extra": "patent US2635420A \u00b7 inventor Jonker Frits",
+  "patent_number": "US2635420A",
+  "inventor": "Jonker Frits",
+  "module": "deterrent",
+  "mined_at": "2026-11-26T03:44:53Z"
  }
 ]

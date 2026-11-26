@@ -12088,5 +12088,50 @@
   "query": "ytsearch \"16mm film transfer 1960\" views<=500",
   "extra": "category: old film \u00b7 204s",
   "mined_at": "2026-11-25T19:26:03Z"
+ },
+ {
+  "source": "YouTube",
+  "title": "EMU 16mm Film Project 1994",
+  "date": "",
+  "dateLabel": "",
+  "count": 87,
+  "countLabel": "views",
+  "thumb": "https://i.ytimg.com/vi/RSflg_ZIb5E/hqdefault.jpg",
+  "kind": "iframe",
+  "src": "https://www.youtube-nocookie.com/embed/RSflg_ZIb5E",
+  "url": "https://www.youtube.com/watch?v=RSflg_ZIb5E",
+  "query": "ytsearch \"16mm film transfer 1994\" views<=500",
+  "extra": "category: old film \u00b7 391s",
+  "mined_at": "2026-11-26T03:39:17Z"
+ },
+ {
+  "source": "YouTube",
+  "title": "Roman sokal 1994 16mm film experiment/class assignment",
+  "date": "",
+  "dateLabel": "",
+  "count": 75,
+  "countLabel": "views",
+  "thumb": "https://i.ytimg.com/vi/jbyXPbk5C84/hqdefault.jpg",
+  "kind": "iframe",
+  "src": "https://www.youtube-nocookie.com/embed/jbyXPbk5C84",
+  "url": "https://www.youtube.com/watch?v=jbyXPbk5C84",
+  "query": "ytsearch \"16mm film transfer 1994\" views<=500",
+  "extra": "category: old film \u00b7 188s",
+  "mined_at": "2026-11-26T03:39:17Z"
+ },
+ {
+  "source": "YouTube",
+  "title": "\"Friendship 7\" at CinePost 16mm Telecine Transfer",
+  "date": "",
+  "dateLabel": "",
+  "count": 414,
+  "countLabel": "views",
+  "thumb": "https://i.ytimg.com/vi/CAlNfPsG_fI/hqdefault.jpg",
+  "kind": "iframe",
+  "src": "https://www.youtube-nocookie.com/embed/CAlNfPsG_fI",
+  "url": "https://www.youtube.com/watch?v=CAlNfPsG_fI",
+  "query": "ytsearch \"16mm film transfer 1994\" views<=500",
+  "extra": "category: old film \u00b7 42s",
+  "mined_at": "2026-11-26T03:39:17Z"
  }
 ]

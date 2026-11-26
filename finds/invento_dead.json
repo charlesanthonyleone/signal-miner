@@ -838,5 +838,25 @@
   "inventor": "H. White Theodore",
   "module": "dead",
   "mined_at": "2026-11-20T12:00:03Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " 1-(4'-fluorophenyl)-3,5-substituted indoles useful in the treatment of psychic &hellip;",
+  "date": "1987-12-01",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/US4710500A/en",
+  "query": "google patents q=\"psychic\" before 2000",
+  "extra": "patent US4710500A \u00b7 inventor Jens K. Perregaard",
+  "patent_number": "US4710500A",
+  "inventor": "Jens K. Perregaard",
+  "module": "dead",
+  "mined_at": "2026-11-26T03:44:42Z"
  }
 ]

@@ -4678,5 +4678,25 @@
   "inventor": "Albert Leimer",
   "module": "weather",
   "mined_at": "2026-11-25T00:09:48Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Apparatus for irrigating land under agricultural cultivation by artificial rain",
+  "date": "1941-04-03",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/AU452039A/en",
+  "query": "google patents q=\"artificial rain\" before 1980",
+  "extra": "patent AU452039A \u00b7 inventor Kemeny Laszlo",
+  "patent_number": "AU452039A",
+  "inventor": "Kemeny Laszlo",
+  "module": "weather",
+  "mined_at": "2026-11-26T03:44:47Z"
  }
 ]

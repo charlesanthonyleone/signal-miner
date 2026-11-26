@@ -7158,5 +7158,25 @@
   "inventor": "Chase Arthur Hutchinson",
   "module": "wartech",
   "mined_at": "2026-11-25T00:09:37Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " One shot flamethrower",
+  "date": "1962-06-29",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/FR1297104A/en",
+  "query": "google patents q=\"flamethrower\" cpc=F41H9 before 1960",
+  "extra": "patent FR1297104A \u00b7 inventor ?",
+  "patent_number": "FR1297104A",
+  "inventor": "",
+  "module": "wartech",
+  "mined_at": "2026-11-26T03:44:33Z"
  }
 ]
