@@ -5812,5 +5812,43 @@
   "extra": "center ARC \u00b7 nasa_id ARC-2009-ACD09-0108-031 \u00b7 keywords Asteroid",
   "module": "space",
   "mined_at": "2026-11-27T01:50:07Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "KSC-06pd0101",
+  "date": "2006-01-19",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/KSC-06pd0101/KSC-06pd0101~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/KSC-06pd0101/KSC-06pd0101~thumb.jpg",
+  "preview": "KENNEDY SPACE CENTER, FLA.  \u2014   From between lightning masts surrounding the launch pad, NASA\u2019s New Horizons spacecraft roars into the blue sky aboard an Atlas V rocket spewing flames and smoke.  Liftoff was on time at 2 p.m. EST from Complex 41 on Cape Canaveral Air Force Station in Florida.  This was the third launch attempt in as many days after scrubs due to weather concerns.   The compact, 1,050-pound piano-sized probe will get a boost from a kick-stage solid propellant motor for its journe",
+  "url": "https://images.nasa.gov/details/KSC-06pd0101",
+  "query": "images-api.nasa.gov q=\"radio telescope\"",
+  "extra": "center KSC \u00b7 nasa_id KSC-06pd0101 \u00b7 keywords Atlas V, Pluto, New Horizons",
+  "module": "space",
+  "mined_at": "2026-11-27T12:37:57Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "KSC-06pd0079",
+  "date": "2006-01-19",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "10.9 km \u00b7 Mariana",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/KSC-06pd0079/KSC-06pd0079~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/KSC-06pd0079/KSC-06pd0079~thumb.jpg",
+  "preview": "KENNEDY SPACE CENTER, FLA.  \u2014 Into a blue, cloud-scattered sky, NASA\u2019s New Horizons spacecraft lifts off on time at 2 p.m. EST aboard an Atlas V rocket from Complex 41 on Cape Canaveral Air Force Station in Florida.  This was the third launch attempt in as many days after scrubs due to weather concerns.   The compact, 1,050-pound piano-sized probe will get a boost from a kick-stage solid propellant motor for its journey to Pluto. New Horizons will be the fastest spacecraft ever launched, reachin",
+  "url": "https://images.nasa.gov/details/KSC-06pd0079",
+  "query": "images-api.nasa.gov q=\"radio telescope\"",
+  "extra": "center KSC \u00b7 nasa_id KSC-06pd0079 \u00b7 keywords ",
+  "module": "space",
+  "mined_at": "2026-11-27T12:37:57Z"
  }
 ]

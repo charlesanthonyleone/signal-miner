@@ -88422,5 +88422,621 @@
    ]
   ],
   "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "robots.txt",
+  "date": "2026-11-23 03:26",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "71",
+  "ftype": "text",
+  "host": "kharj.bir-alkharj.sa",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://kharj.bir-alkharj.sa/robots.txt",
+  "mime": "text/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://kharj.bir-alkharj.sa/",
+  "kw": "",
+  "preview": "text \u00b7 71 \u00b7 2026-11-23 03:26 \u00b7 in https://kharj.bir-alkharj.sa/",
+  "extra": "host: kharj.bir-alkharj.sa \u00b7 dir: https://kharj.bir-alkharj.sa/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://kharj.bir-alkharj.sa/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "OBI-INDEX",
+  "date": "1994-07-02 12:10",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "465K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/literary/OBI-INDEX",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 465K \u00b7 1994-07-02 12:10 \u00b7 in https://ftp.funet.fi/pub/doc/literary/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/literary/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/literary/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gutmar3.3.gz",
+  "date": "1993-11-08 15:04",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "6.1K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/literary/gutenberg/gutmar3.3.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 6.1K \u00b7 1993-11-08 15:04 \u00b7 in https://ftp.funet.fi/pub/doc/literary/gutenberg/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/literary/gutenberg/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/literary/gutenberg/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "NEWUSER.GUT.gz",
+  "date": "1993-11-08 15:04",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.0K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/literary/gutenberg/NEWUSER.GUT.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "other \u00b7 2.0K \u00b7 1993-11-08 15:04 \u00b7 in https://ftp.funet.fi/pub/doc/literary/gutenberg/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/literary/gutenberg/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/literary/gutenberg/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "FROM",
+  "date": "1993-11-08 17:32",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "37",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/literary/gutenberg/FROM",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 37 \u00b7 1993-11-08 17:32 \u00b7 in https://ftp.funet.fi/pub/doc/literary/gutenberg/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/literary/gutenberg/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/literary/gutenberg/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README-MAINTAINERS",
+  "date": "1994-07-02 12:39",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "259",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/literary/README-MAINTAINERS",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 259 \u00b7 1994-07-02 12:39 \u00b7 in https://ftp.funet.fi/pub/doc/literary/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/literary/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/literary/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "INDEX",
+  "date": "1993-12-18 09:49",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "10K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/literary/gutenberg/INDEX",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 10K \u00b7 1993-12-18 09:49 \u00b7 in https://ftp.funet.fi/pub/doc/literary/gutenberg/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/literary/gutenberg/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/literary/gutenberg/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "FROM",
+  "date": "1993-12-18 09:44",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "117",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/doc/literary/FROM",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/doc/",
+  "kw": "",
+  "preview": "text \u00b7 117 \u00b7 1993-12-18 09:44 \u00b7 in https://ftp.funet.fi/pub/doc/literary/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/doc/literary/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/doc/literary/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue.patch.1.10-p0-1.11-p0.txt",
+  "date": "1999-01-22 15:15",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "99K",
+  "ftype": "text",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnu-queue/queue.patch.1.10-p0-1.11-p0.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "text \u00b7 99K \u00b7 1999-01-22 15:15 \u00b7 in https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnu-queue/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gnuedma-snap-beta-0.7.3.tar.gz.back-RSN.README",
+  "date": "2003-10-23 12:57",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "17K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/edma/gnuedma-snap-beta-0.7.3.tar.gz.back-RSN.README",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 17K \u00b7 2003-10-23 12:57 \u00b7 in https://ftp.gnu.org/old-gnu/edma/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/edma/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/edma/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.30.1.tar.gz",
+  "date": "2000-11-01 14:01",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "683K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnu-queue/queue-1.30.1.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 683K \u00b7 2000-11-01 14:01 \u00b7 in https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnu-queue/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.10.tar.gz",
+  "date": "1999-01-13 11:42",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "336K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnu-queue/queue-1.10.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 336K \u00b7 1999-01-13 11:42 \u00b7 in https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnu-queue/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.20.1.tar.gz",
+  "date": "2000-07-30 23:20",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "402K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnu-queue/queue-1.20.1.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 402K \u00b7 2000-07-30 23:20 \u00b7 in https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnu-queue/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.12.9.tar.gz",
+  "date": "2000-05-18 02:33",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "350K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnu-queue/queue-1.12.9.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 350K \u00b7 2000-05-18 02:33 \u00b7 in https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnu-queue/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.11.tar.gz",
+  "date": "1999-01-22 14:56",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "337K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnu-queue/queue-1.11.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 337K \u00b7 1999-01-22 14:56 \u00b7 in https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnu-queue/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.12.7.tar.gz",
+  "date": "2000-05-13 01:37",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "357K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnu-queue/queue-1.12.7.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 357K \u00b7 2000-05-13 01:37 \u00b7 in https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnu-queue/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gecb-snap-beta-0.2.1.tar.gz",
+  "date": "2001-12-09 12:49",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "110K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/edma/gecb-snap-beta-0.2.1.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 110K \u00b7 2001-12-09 12:49 \u00b7 in https://ftp.gnu.org/old-gnu/edma/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/edma/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/edma/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.12.8.tar.gz",
+  "date": "1999-03-13 12:11",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "359K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnu-queue/queue-1.12.8.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 359K \u00b7 1999-03-13 12:11 \u00b7 in https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnu-queue/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "gidfwizard-snap-beta-0.2.3.tar.gz",
+  "date": "2001-12-16 12:03",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "119K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/edma/gidfwizard-snap-beta-0.2.3.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 119K \u00b7 2001-12-16 12:03 \u00b7 in https://ftp.gnu.org/old-gnu/edma/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/edma/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/edma/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README",
+  "date": "2000-09-17 16:40",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "726",
+  "ftype": "text",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnu-queue/README",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "text \u00b7 726 \u00b7 2000-09-17 16:40 \u00b7 in https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnu-queue/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.20.2.tar.gz",
+  "date": "2000-09-10 20:09",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "405K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnu-queue/queue-1.20.2.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 405K \u00b7 2000-09-10 20:09 \u00b7 in https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnu-queue/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "queue-1.12-p3.tar.gz",
+  "date": "1999-02-19 22:23",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "354K",
+  "ftype": "other",
+  "host": "ftp.gnu.org",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.gnu.org/old-gnu/gnu-queue/queue-1.12-p3.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.gnu.org/old-gnu/",
+  "kw": "",
+  "preview": "other \u00b7 354K \u00b7 1999-02-19 22:23 \u00b7 in https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "extra": "host: ftp.gnu.org \u00b7 dir: https://ftp.gnu.org/old-gnu/gnu-queue/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.gnu.org/old-gnu/gnu-queue/"
+   ]
+  ],
+  "mined_at": "2026-11-27T12:39:59Z"
  }
 ]

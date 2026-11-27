@@ -1778,5 +1778,25 @@
   "inventor": "Jonker Frits",
   "module": "deterrent",
   "mined_at": "2026-11-26T03:44:53Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Nuclear PR, NEMP and non-nuclear NNEMP multi-protection devices with multi- &hellip;",
+  "date": "2024-04-08",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/KR20240045701A/en",
+  "query": "google patents q=\"nuclear explosion\" cpc=G21J before 1980",
+  "extra": "patent KR20240045701A \u00b7 inventor \uc774\ubbfc\uc6c5",
+  "patent_number": "KR20240045701A",
+  "inventor": "\uc774\ubbfc\uc6c5",
+  "module": "deterrent",
+  "mined_at": "2026-11-27T12:57:15Z"
  }
 ]
