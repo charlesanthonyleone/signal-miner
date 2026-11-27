@@ -5793,5 +5793,24 @@
   "extra": "center ARC \u00b7 nasa_id ARC-2007-ACD07-0152-043 \u00b7 keywords Perseid Meteor flight, Peter Jeniskens, SETI Group",
   "module": "space",
   "mined_at": "2026-11-26T03:39:14Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "ARC-2009-ACD09-0108-031",
+  "date": "2009-02-08",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "1.5 km \u00b7 bathypelagic",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0108-031/ARC-2009-ACD09-0108-031~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/ARC-2009-ACD09-0108-031/ARC-2009-ACD09-0108-031~thumb.jpg",
+  "preview": "An SUV-sized Asteroid 2008TC# Impacts on October 7, 2008 in the Nubian Desert, Northern Sudan: Dr. Peter Jenniskens, NASA/SETI joined Muawia Shaddas of the University of Khartoum in leading an expedition on a search for samples.  (Meteorite search 1)  Photo Credit: NASA/SETI/P. Jenniskens",
+  "url": "https://images.nasa.gov/details/ARC-2009-ACD09-0108-031",
+  "query": "images-api.nasa.gov q=\"SETI\"",
+  "extra": "center ARC \u00b7 nasa_id ARC-2009-ACD09-0108-031 \u00b7 keywords Asteroid",
+  "module": "space",
+  "mined_at": "2026-11-27T01:50:07Z"
  }
 ]

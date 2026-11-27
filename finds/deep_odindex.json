@@ -87162,5 +87162,1265 @@
    ]
   ],
   "mined_at": "2026-11-26T03:42:40Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": ".user.ini",
+  "date": "2026-10-20 05:03",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "374",
+  "ftype": "other",
+  "host": "elizek.q-less.co",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://elizek.q-less.co/.user.ini",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://elizek.q-less.co/",
+  "kw": "",
+  "preview": "other \u00b7 374 \u00b7 2026-10-20 05:03 \u00b7 in https://elizek.q-less.co/",
+  "extra": "host: elizek.q-less.co \u00b7 dir: https://elizek.q-less.co/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://elizek.q-less.co/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "pylib.zip",
+  "date": "13-Jun-2001 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1159190",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/python/wpy/pylib.zip",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1159190 \u00b7 13-Jun-2001 22:00 \u00b7 in https://ftp.lip6.fr/pub/python/wpy/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/python/wpy/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/python/wpy/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "Python152.bin",
+  "date": "13-Jun-2001 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "8617216",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/python/mac/Python152.bin",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 8617216 \u00b7 13-Jun-2001 22:00 \u00b7 in https://ftp.lip6.fr/pub/python/mac/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/python/mac/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/python/mac/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "Python152.hqx",
+  "date": "13-Jun-2001 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "11451233",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/python/mac/Python152.hqx",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 11451233 \u00b7 13-Jun-2001 22:00 \u00b7 in https://ftp.lip6.fr/pub/python/mac/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/python/mac/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/python/mac/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "pydos.zip",
+  "date": "13-Jun-2001 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "479813",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/python/wpy/pydos.zip",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 479813 \u00b7 13-Jun-2001 22:00 \u00b7 in https://ftp.lip6.fr/pub/python/wpy/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/python/wpy/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/python/wpy/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "pyw31.zip",
+  "date": "13-Jun-2001 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "305561",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/python/wpy/pyw31.zip",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 305561 \u00b7 13-Jun-2001 22:00 \u00b7 in https://ftp.lip6.fr/pub/python/wpy/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/python/wpy/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/python/wpy/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README",
+  "date": "19-Oct-2001 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "80",
+  "ftype": "text",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/ghost/README",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "text \u00b7 80 \u00b7 19-Oct-2001 22:00 \u00b7 in https://ftp.lip6.fr/pub/ghost/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/ghost/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/ghost/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "Python152src.hqx",
+  "date": "13-Jun-2001 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "8378946",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/python/mac/Python152src.hqx",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 8378946 \u00b7 13-Jun-2001 22:00 \u00b7 in https://ftp.lip6.fr/pub/python/mac/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/python/mac/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/python/mac/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "wpyset31.exe",
+  "date": "13-Jun-2001 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1554511",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/python/wpy/wpyset31.exe",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 1554511 \u00b7 13-Jun-2001 22:00 \u00b7 in https://ftp.lip6.fr/pub/python/wpy/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/python/wpy/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/python/wpy/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "libmac.ps",
+  "date": "13-Jun-2001 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "109306",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/python/mac/libmac.ps",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 109306 \u00b7 13-Jun-2001 22:00 \u00b7 in https://ftp.lip6.fr/pub/python/mac/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/python/mac/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/python/mac/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "libmac.pdf",
+  "date": "13-Jun-2001 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "75575",
+  "ftype": "text",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/python/mac/libmac.pdf",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "text \u00b7 75575 \u00b7 13-Jun-2001 22:00 \u00b7 in https://ftp.lip6.fr/pub/python/mac/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/python/mac/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/python/mac/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "wpysetup.exe",
+  "date": "13-Jun-2001 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "370534",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/python/wpy/wpysetup.exe",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 370534 \u00b7 13-Jun-2001 22:00 \u00b7 in https://ftp.lip6.fr/pub/python/wpy/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/python/wpy/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/python/wpy/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "tgz.zip",
+  "date": "13-Jun-2001 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "102532",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/python/wpy/tgz.zip",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 102532 \u00b7 13-Jun-2001 22:00 \u00b7 in https://ftp.lip6.fr/pub/python/wpy/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/python/wpy/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/python/wpy/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "Python152src.sit",
+  "date": "13-Jun-2001 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "6131912",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/python/mac/Python152src.sit",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 6131912 \u00b7 13-Jun-2001 22:00 \u00b7 in https://ftp.lip6.fr/pub/python/mac/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/python/mac/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/python/mac/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "freeze.txt",
+  "date": "13-Jun-2001 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3152",
+  "ftype": "text",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/python/wpy/freeze.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "text \u00b7 3152 \u00b7 13-Jun-2001 22:00 \u00b7 in https://ftp.lip6.fr/pub/python/wpy/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/python/wpy/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/python/wpy/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "wpypcsrc.tgz",
+  "date": "13-Jun-2001 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "276545",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/python/wpy/wpypcsrc.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 276545 \u00b7 13-Jun-2001 22:00 \u00b7 in https://ftp.lip6.fr/pub/python/wpy/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/python/wpy/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/python/wpy/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "pyos2.zip",
+  "date": "13-Jun-2001 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "261445",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/python/wpy/pyos2.zip",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 261445 \u00b7 13-Jun-2001 22:00 \u00b7 in https://ftp.lip6.fr/pub/python/wpy/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/python/wpy/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/python/wpy/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "readdos.txt",
+  "date": "13-Jun-2001 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "898",
+  "ftype": "text",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/python/wpy/readdos.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "text \u00b7 898 \u00b7 13-Jun-2001 22:00 \u00b7 in https://ftp.lip6.fr/pub/python/wpy/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/python/wpy/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/python/wpy/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "FROM",
+  "date": "1992-10-04 14:22",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "14",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/jpeg/FROM",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "text \u00b7 14 \u00b7 1992-10-04 14:22 \u00b7 in https://ftp.funet.fi/pub/pics/formats/jpeg/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/jpeg/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/jpeg/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "jpeg.documents.Z",
+  "date": "1992-09-23 11:39",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.1K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/jpeg/jpeg.documents.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 3.1K \u00b7 1992-09-23 11:39 \u00b7 in https://ftp.funet.fi/pub/pics/formats/jpeg/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/jpeg/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/jpeg/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "rle.doc",
+  "date": "1991-02-01 16:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "30K",
+  "ftype": "text",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/urt/rle.doc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "text \u00b7 30K \u00b7 1991-02-01 16:18 \u00b7 in https://ftp.funet.fi/pub/pics/formats/urt/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/urt/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/urt/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "jfif.txt.Z",
+  "date": "1992-09-23 11:39",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "6.6K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/jpeg/jfif.txt.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 6.6K \u00b7 1992-09-23 11:39 \u00b7 in https://ftp.funet.fi/pub/pics/formats/jpeg/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/jpeg/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/jpeg/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "jfif.ps.Z",
+  "date": "1992-09-23 11:39",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "32K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/jpeg/jfif.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 32K \u00b7 1992-09-23 11:39 \u00b7 in https://ftp.funet.fi/pub/pics/formats/jpeg/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/jpeg/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/jpeg/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "jpegsrc.v4.tar.Z",
+  "date": "1992-12-15 13:57",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "449K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/jpeg/jpegsrc.v4.tar.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 449K \u00b7 1992-12-15 13:57 \u00b7 in https://ftp.funet.fi/pub/pics/formats/jpeg/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/jpeg/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/jpeg/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "jfif.ps.gz",
+  "date": "1992-09-09 04:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "22K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/jpeg/jfif.ps.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 22K \u00b7 1992-09-09 04:00 \u00b7 in https://ftp.funet.fi/pub/pics/formats/jpeg/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/jpeg/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/jpeg/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "jpegsrc.v6a.tar.gz",
+  "date": "1996-02-15 03:25",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "526K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/jpeg/jpegsrc.v6a.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 526K \u00b7 1996-02-15 03:25 \u00b7 in https://ftp.funet.fi/pub/pics/formats/jpeg/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/jpeg/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/jpeg/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "wallace.ps.Z",
+  "date": "1992-09-23 11:40",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "132K",
+  "ftype": "other",
+  "host": "ftp.funet.fi",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.funet.fi/pub/pics/formats/jpeg/wallace.ps.Z",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.funet.fi/pub/pics/",
+  "kw": "",
+  "preview": "other \u00b7 132K \u00b7 1992-09-23 11:40 \u00b7 in https://ftp.funet.fi/pub/pics/formats/jpeg/",
+  "extra": "host: ftp.funet.fi \u00b7 dir: https://ftp.funet.fi/pub/pics/formats/jpeg/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.funet.fi/pub/pics/formats/jpeg/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-6.9p0.tar.gz",
+  "date": "2021-04-30 10:02",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "702K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-6.9p0.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 702K \u00b7 2021-04-30 10:02 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "cdboot",
+  "date": "2026-10-07 06:42",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "88K",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/cdboot",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 88K \u00b7 2026-10-07 06:42 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-8.9-relnotes.txt",
+  "date": "2025-09-26 08:28",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.0K",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-8.9-relnotes.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 1.0K \u00b7 2025-09-26 08:28 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-6.8p0.tar.gz.asc",
+  "date": "2020-10-20 17:52",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "833",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-6.8p0.tar.gz.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 833 \u00b7 2020-10-20 17:52 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd.asc",
+  "date": "2022-06-14 14:31",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "3.1K",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 3.1K \u00b7 2022-06-14 14:31 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "xserv80.tgz",
+  "date": "2026-10-07 07:52",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "11M",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/xserv80.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 11M \u00b7 2026-10-07 07:52 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-7.4.tar.gz",
+  "date": "2022-06-14 14:31",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "728K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-7.4.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 728K \u00b7 2022-06-14 14:31 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-4.4.tgz",
+  "date": "2009-01-16 15:05",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "159K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-4.4.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 159K \u00b7 2009-01-16 15:05 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "SHA256.asc",
+  "date": "2026-09-30 09:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "870",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/SHA256.asc",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 870 \u00b7 2026-09-30 09:54 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "game80.tgz",
+  "date": "2026-10-07 07:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "2.7M",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/game80.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 2.7M \u00b7 2026-10-07 07:18 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "BOOTIA32.EFI",
+  "date": "2026-10-07 06:42",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "132K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/BOOTIA32.EFI",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 132K \u00b7 2026-10-07 06:42 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openospfd-4.3.tgz",
+  "date": "2008-05-23 13:15",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "95K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openospfd-4.3.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 95K \u00b7 2008-05-23 13:15 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd.pub",
+  "date": "2019-04-30 13:49",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "105",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd.pub",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 105 \u00b7 2019-04-30 13:49 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "base80.tgz",
+  "date": "2026-10-07 07:18",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "530M",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/base80.tgz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 530M \u00b7 2026-10-07 07:18 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "BOOTX64.EFI",
+  "date": "2026-10-07 06:42",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "150K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/BOOTX64.EFI",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 150K \u00b7 2026-10-07 06:42 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/8.0/amd64/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-8.3.tar.gz",
+  "date": "2023-10-13 09:03",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "819K",
+  "ftype": "other",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-8.3.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "other \u00b7 819K \u00b7 2023-10-13 09:03 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-8.7-relnotes.txt",
+  "date": "2024-12-17 13:23",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.3K",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-8.7-relnotes.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 1.3K \u00b7 2024-12-17 13:23 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "openbgpd-9.3-relnotes.txt",
+  "date": "2026-09-30 09:54",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.2K",
+  "ftype": "text",
+  "host": "ftp.uni-stuttgart.de",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/openbgpd-9.3-relnotes.txt",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.uni-stuttgart.de/pub/",
+  "kw": "",
+  "preview": "text \u00b7 1.2K \u00b7 2026-09-30 09:54 \u00b7 in https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "extra": "host: ftp.uni-stuttgart.de \u00b7 dir: https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.uni-stuttgart.de/pub/OpenBSD/OpenBGPD/"
+   ]
+  ],
+  "mined_at": "2026-11-27T01:52:00Z"
  }
 ]
