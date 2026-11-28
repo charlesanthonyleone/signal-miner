@@ -1598,5 +1598,25 @@
   "inventor": "Antonio DUMAS",
   "module": "aliens",
   "mined_at": "2026-11-25T19:45:46Z"
+ },
+ {
+  "source": "Google Patents",
+  "title": " Apparatus and method for anti-gravity casting of metal with exclusion of air",
+  "date": "1991-05-08",
+  "dateLabel": "published",
+  "count": null,
+  "countLabel": "",
+  "kind": "meta",
+  "mime": "patent/text",
+  "thumb": "",
+  "src": "",
+  "preview": "",
+  "url": "https://patents.google.com/patent/CN1051132A/en",
+  "query": "google patents q=\"anti gravity\" before 2000",
+  "extra": "patent CN1051132A \u00b7 inventor \u4e54\u6cbb\u00b7\u8fea\u514b\u68ee\u00b7\u94b1\u7279\u52d2",
+  "patent_number": "CN1051132A",
+  "inventor": "\u4e54\u6cbb\u00b7\u8fea\u514b\u68ee\u00b7\u94b1\u7279\u52d2",
+  "module": "aliens",
+  "mined_at": "2026-11-27T23:36:36Z"
  }
 ]

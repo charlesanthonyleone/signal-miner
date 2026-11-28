@@ -26168,5 +26168,25 @@
   "preview": "Death Becomes Her 1992 Remastered 1080p BluRay HEVC x265 5.1 BONE.mkv \u00b7 1.7 \u00b7 in https://files.anthony-simonet.fr/Films/",
   "extra": "open directory on files.anthony-simonet.fr",
   "mined_at": "2026-11-27T12:56:56Z"
+ },
+ {
+  "source": "Open Directory (index)",
+  "title": "August_Teaser_480.flv",
+  "date": "2011-03-30",
+  "dateLabel": "modified",
+  "count": null,
+  "countLabel": "",
+  "size": "12M",
+  "ftype": "video/flv",
+  "host": "www.thefilmcollaborative.org",
+  "gated": true,
+  "thumb": "",
+  "kind": "link",
+  "src": "https://www.thefilmcollaborative.org/films/img/slate_images/august/August_Teaser_480.flv",
+  "url": "https://www.thefilmcollaborative.org/films/img/slate_images/august/August_Teaser_480.flv",
+  "query": "open-directory index (odbig) video extensions",
+  "preview": "August_Teaser_480.flv \u00b7 12M \u00b7 in https://www.thefilmcollaborative.org/films/img/slate_images/august/",
+  "extra": "open directory on www.thefilmcollaborative.org",
+  "mined_at": "2026-11-27T23:36:18Z"
  }
 ]
