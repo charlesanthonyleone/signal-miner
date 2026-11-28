@@ -5850,5 +5850,24 @@
   "extra": "center KSC \u00b7 nasa_id KSC-06pd0079 \u00b7 keywords ",
   "module": "space",
   "mined_at": "2026-11-27T12:37:57Z"
+ },
+ {
+  "source": "NASA Images",
+  "title": "Pulsar Candidate in Andromeda",
+  "date": "2017-03-23",
+  "dateLabel": "created",
+  "count": null,
+  "countLabel": "",
+  "kind": "img",
+  "depth": "3 km \u00b7 abyssal",
+  "mime": "image/jpeg",
+  "thumb": "https://images-assets.nasa.gov/image/PIA20970/PIA20970~thumb.jpg",
+  "src": "https://images-assets.nasa.gov/image/PIA20970/PIA20970~thumb.jpg",
+  "preview": "NASA's Nuclear Spectroscope Telescope Array, or NuSTAR, has identified a candidate pulsar in Andromeda -- the nearest large galaxy to the Milky Way. This likely pulsar is brighter at high energies than the Andromeda galaxy's entire black hole population.  The inset image shows the pulsar candidate in blue, as seen in X-ray light by NuSTAR. The background image of Andromeda was taken by NASA's Galaxy Evolution Explorer in ultraviolet light.  Andromeda is a spiral galaxy like our Milky Way but lar",
+  "url": "https://images.nasa.gov/details/PIA20970",
+  "query": "images-api.nasa.gov q=\"pulsar\"",
+  "extra": "center JPL \u00b7 nasa_id PIA20970 \u00b7 keywords Galaxy Evolution Explorer GALEX,NuSTAR, Andromeda galaxy",
+  "module": "space",
+  "mined_at": "2026-11-28T08:02:18Z"
  }
 ]

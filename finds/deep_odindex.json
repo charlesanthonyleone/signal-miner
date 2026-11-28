@@ -91698,5 +91698,481 @@
    ]
   ],
   "mined_at": "2026-11-27T23:34:34Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "config.php",
+  "date": "2026-10-10 16:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.6K",
+  "ftype": "other",
+  "host": "edu.secsuite.ng",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://edu.secsuite.ng/config/config.php",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://edu.secsuite.ng/",
+  "kw": "",
+  "preview": "other \u00b7 1.6K \u00b7 2026-10-10 16:00 \u00b7 in https://edu.secsuite.ng/config/",
+  "extra": "host: edu.secsuite.ng \u00b7 dir: https://edu.secsuite.ng/config/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://edu.secsuite.ng/config/"
+   ]
+  ],
+  "mined_at": "2026-11-28T08:04:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "constants.php",
+  "date": "2026-10-10 15:58",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "638",
+  "ftype": "other",
+  "host": "edu.secsuite.ng",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://edu.secsuite.ng/config/constants.php",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://edu.secsuite.ng/",
+  "kw": "",
+  "preview": "other \u00b7 638 \u00b7 2026-10-10 15:58 \u00b7 in https://edu.secsuite.ng/config/",
+  "extra": "host: edu.secsuite.ng \u00b7 dir: https://edu.secsuite.ng/config/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://edu.secsuite.ng/config/"
+   ]
+  ],
+  "mined_at": "2026-11-28T08:04:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "database.php",
+  "date": "2026-10-10 15:56",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "1.0K",
+  "ftype": "other",
+  "host": "edu.secsuite.ng",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://edu.secsuite.ng/config/database.php",
+  "mime": "other/*",
+  "query": "urlscan 'Index of' sighting \u2192 https://edu.secsuite.ng/",
+  "kw": "",
+  "preview": "other \u00b7 1.0K \u00b7 2026-10-10 15:56 \u00b7 in https://edu.secsuite.ng/config/",
+  "extra": "host: edu.secsuite.ng \u00b7 dir: https://edu.secsuite.ng/config/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://edu.secsuite.ng/config/"
+   ]
+  ],
+  "mined_at": "2026-11-28T08:04:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "buildict.tar.gz",
+  "date": "08-Jul-1993 22:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "18921",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/ispell/francais/buildict.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 18921 \u00b7 08-Jul-1993 22:00 \u00b7 in https://ftp.lip6.fr/pub/ispell/francais/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/ispell/francais/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/ispell/francais/"
+   ]
+  ],
+  "mined_at": "2026-11-28T08:04:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "francais-IREQ-1.4.tar.gz",
+  "date": "24-Nov-1996 23:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "326207",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/ispell/francais/francais-IREQ-1.4.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 326207 \u00b7 24-Nov-1996 23:00 \u00b7 in https://ftp.lip6.fr/pub/ispell/francais/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/ispell/francais/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/ispell/francais/"
+   ]
+  ],
+  "mined_at": "2026-11-28T08:04:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "francais-IREQ.tar.gz",
+  "date": "24-Nov-1996 23:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "326207",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/ispell/francais/francais-IREQ.tar.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 326207 \u00b7 24-Nov-1996 23:00 \u00b7 in https://ftp.lip6.fr/pub/ispell/francais/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/ispell/francais/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/ispell/francais/"
+   ]
+  ],
+  "mined_at": "2026-11-28T08:04:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "ls-lR.gz",
+  "date": "28-Nov-2026 07:28",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "37928",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/unix/ls-lR.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 37928 \u00b7 28-Nov-2026 07:28 \u00b7 in https://ftp.lip6.fr/pub/unix/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/unix/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/unix/"
+   ]
+  ],
+  "mined_at": "2026-11-28T08:04:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "office.gif",
+  "date": "02-Feb-1994 23:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "260740",
+  "ftype": "image",
+  "host": "ftp.lip6.fr",
+  "thumb": "https://ftp.lip6.fr/pub/ispell/office.gif",
+  "kind": "img",
+  "src": "https://ftp.lip6.fr/pub/ispell/office.gif",
+  "gated": true,
+  "url": "https://ftp.lip6.fr/pub/ispell/office.gif",
+  "mime": "image/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "image \u00b7 260740 \u00b7 02-Feb-1994 23:00 \u00b7 in https://ftp.lip6.fr/pub/ispell/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/ispell/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/ispell/"
+   ]
+  ],
+  "mined_at": "2026-11-28T08:04:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "patch-3.1.02-3.1.03.gz",
+  "date": "22-Feb-1994 23:00",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "14395",
+  "ftype": "other",
+  "host": "ftp.lip6.fr",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.lip6.fr/pub/ispell/patch-3.1.02-3.1.03.gz",
+  "mime": "other/*",
+  "query": "random descent from https://ftp.lip6.fr/pub/",
+  "kw": "",
+  "preview": "other \u00b7 14395 \u00b7 22-Feb-1994 23:00 \u00b7 in https://ftp.lip6.fr/pub/ispell/",
+  "extra": "host: ftp.lip6.fr \u00b7 dir: https://ftp.lip6.fr/pub/ispell/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.lip6.fr/pub/ispell/"
+   ]
+  ],
+  "mined_at": "2026-11-28T08:04:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "02-UPDATE-200607",
+  "date": "2006-07-31 22:10",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "35K",
+  "ftype": "text",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/02-UPDATE-200607",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "text \u00b7 35K \u00b7 2006-07-31 22:10 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/"
+   ]
+  ],
+  "mined_at": "2026-11-28T08:04:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "02-UPDATE-200705",
+  "date": "2007-05-31 22:11",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "34K",
+  "ftype": "text",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/02-UPDATE-200705",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "text \u00b7 34K \u00b7 2007-05-31 22:11 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/"
+   ]
+  ],
+  "mined_at": "2026-11-28T08:04:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "02-UPDATE-200804",
+  "date": "2008-04-30 22:10",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "46K",
+  "ftype": "text",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/02-UPDATE-200804",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "text \u00b7 46K \u00b7 2008-04-30 22:10 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/"
+   ]
+  ],
+  "mined_at": "2026-11-28T08:04:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "02-UPDATE-200609",
+  "date": "2006-09-30 22:11",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "36K",
+  "ftype": "text",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/02-UPDATE-200609",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "text \u00b7 36K \u00b7 2006-09-30 22:11 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/"
+   ]
+  ],
+  "mined_at": "2026-11-28T08:04:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "02-UPDATE-200604",
+  "date": "2006-04-30 22:10",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "38K",
+  "ftype": "text",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/02-UPDATE-200604",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "text \u00b7 38K \u00b7 2006-04-30 22:10 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/"
+   ]
+  ],
+  "mined_at": "2026-11-28T08:04:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "README",
+  "date": "2004-12-11 14:50",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "234",
+  "ftype": "text",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/Internet-documents/iana/README",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "text \u00b7 234 \u00b7 2004-12-11 14:50 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/Internet-documents/iana/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/Internet-documents/iana/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/Internet-documents/iana/"
+   ]
+  ],
+  "mined_at": "2026-11-28T08:04:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "02-UPDATE-200605",
+  "date": "2006-05-31 22:10",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "28K",
+  "ftype": "text",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/02-UPDATE-200605",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "text \u00b7 28K \u00b7 2006-05-31 22:10 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/"
+   ]
+  ],
+  "mined_at": "2026-11-28T08:04:55Z"
+ },
+ {
+  "source": "Open Directory",
+  "title": "02-UPDATE-200703",
+  "date": "2007-03-31 22:11",
+  "dateLabel": "listed",
+  "count": null,
+  "countLabel": "",
+  "size": "22K",
+  "ftype": "text",
+  "host": "ftp.sunet.se",
+  "thumb": "",
+  "kind": "link",
+  "src": "",
+  "gated": false,
+  "url": "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/02-UPDATE-200703",
+  "mime": "text/*",
+  "query": "random descent from https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/",
+  "kw": "",
+  "preview": "text \u00b7 22K \u00b7 2007-03-31 22:11 \u00b7 in https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/",
+  "extra": "host: ftp.sunet.se \u00b7 dir: https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/",
+  "links": [
+   [
+    "parent dir \u2197",
+    "https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/security/"
+   ]
+  ],
+  "mined_at": "2026-11-28T08:04:55Z"
  }
 ]
